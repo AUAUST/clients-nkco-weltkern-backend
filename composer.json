@@ -1,25 +1,19 @@
 {
-  "name": "getkirby/plainkit",
-  "description": "Kirby Plainkit",
+  "name": "auaust/clients-nkco-weltkern-backend",
+  "description": "WELTKERN®2.0 BACKEND",
   "type": "project",
-  "keywords": [
-    "kirby",
-    "cms",
-    "starterkit"
-  ],
   "authors": [
     {
-      "name": "Bastian Allgeier",
-      "email": "bastian@getkirby.com",
-      "homepage": "https://getkirby.com"
+      "name": "Aurian Aubert",
+      "email": "hello@auaust.ch",
+      "homepage": "https://auaust.ch"
     }
   ],
-  "homepage": "https://getkirby.com",
+  "homepage": "https://weltkern.com",
   "support": {
-    "email": "support@getkirby.com",
-    "issues": "https://github.com/getkirby/starterkit/issues",
-    "forum": "https://forum.getkirby.com",
-    "source": "https://github.com/getkirby/starterkit"
+    "email": "hello@auaust.ch",
+    "issues": "https://github.com/AUAUST/clients-nkco-weltkern-backend/issues",
+    "source": "https://github.com/AUAUST/clients-nkco-weltkern-backend"
   },
   "require": {
     "php": ">=8.0.0 <8.3.0",
@@ -31,10 +25,13 @@
     },
     "optimize-autoloader": true
   },
+  "extra": {
+    "kirby-cms-path": false
+  },
   "scripts": {
     "start": [
       "Composer\\Config::disableProcessTimeout",
-      "@php -S localhost:8000 kirby/router.php"
+      "@php -S localhost:8000 -t public vendor/getkirby/cms/router.php"
     ]
   }
 }
