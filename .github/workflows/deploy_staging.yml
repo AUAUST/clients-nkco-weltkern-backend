@@ -12,7 +12,7 @@ jobs:
     if: github.event_name == 'push'
     environment:
       name: staging
-      url: backend.weltkern.dev.auaust.ch
+      url: https://backend.weltkern.dev.auaust.ch
     steps:
       - name: Checkout
         uses: actions/checkout@v3
