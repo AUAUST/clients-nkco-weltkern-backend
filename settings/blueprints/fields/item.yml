@@ -1,12 +1,40 @@
 type: group
 fields:
-  name:
-    type: text
-    label:
-      fr: Titre
-      en: Title
   brand:
     type: text
+  price:
+    translate: false
     label:
-      fr: Marque/Éditeur
-      en: Brand/Publisher
+      fr: Prix
+      en: Price
+    type: number
+    step: 0.05
+    min: 0
+    after:
+      fr: CHF
+      en: ""
+    before:
+      fr: ""
+      en: "CHF"
+  auto-kerns:
+    translate: false
+    label:
+      fr: Kerns automatiques
+      en: Auto kerns
+    type: toggle
+    default: true
+    text:
+      - fr: "Non"
+        en: "No"
+      - fr: "Oui"
+        en: "Yes"
+  kerns:
+    translate: false
+    label: Kerns
+    type: number
+    step: 1
+    min: 0
+    after: "K+"
+    placeholder: "{{ page.kerns ?? 0}}"
+    when:
+      auto-kerns: false

@@ -5,6 +5,9 @@ title:
 sections:
   infos:
     type: fields
+    extends: fields/item
     fields:
-      info:
-        extends: fields/item
+      brand:
+        label:
+          fr: Éditeur
+          en: Publisher

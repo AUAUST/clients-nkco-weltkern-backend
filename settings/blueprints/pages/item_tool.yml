@@ -6,3 +6,8 @@ sections:
   infos:
     type: fields
     extends: fields/item
+    fields:
+      brand:
+        label:
+          fr: Marque
+          en: Brand

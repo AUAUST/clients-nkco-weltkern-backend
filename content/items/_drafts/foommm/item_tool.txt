@@ -1,12 +1,16 @@
-Title: foommm
-
-----
-
-Name: a
+Title: aaaadasd
 
 ----
 
 Brand: b
+
+----
+
+Auto-kerns: true
+
+----
+
+Name: a
 
 ----
 
