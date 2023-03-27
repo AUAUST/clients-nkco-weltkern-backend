@@ -1,0 +1,10 @@
+title:
+  fr: Livre
+  en: Book
+
+sections:
+  infos:
+    type: fields
+    fields:
+      info:
+        extends: fields/item

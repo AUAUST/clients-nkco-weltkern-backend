@@ -1,0 +1,12 @@
+type: group
+fields:
+  name:
+    type: text
+    label:
+      fr: Titre
+      en: Title
+  brand:
+    type: text
+    label:
+      fr: Marque/Éditeur
+      en: Brand/Publisher

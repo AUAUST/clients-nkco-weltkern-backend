@@ -9,7 +9,7 @@ columns:
           fr: Livres
           en: Books
         type: pages
-        template: items_book
+        template: item_book
   right:
     width: 1/2
     sections:
@@ -18,4 +18,4 @@ columns:
           fr: Outils
           en: Tools
         type: pages
-        template: items_tool
+        template: item_tool

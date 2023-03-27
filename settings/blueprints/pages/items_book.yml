@@ -1,8 +1,0 @@
-title:
-  fr: Livre
-  en: Book
-
-fields:
-  title:
-    label: Title
-    type: text
