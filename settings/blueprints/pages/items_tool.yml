@@ -1,0 +1,8 @@
+title:
+  fr: Outil
+  en: Tool
+
+fields:
+  title:
+    label: Title
+    type: text
