@@ -1,0 +1,21 @@
+title: Items
+
+columns:
+  left:
+    width: 1/2
+    sections:
+      books:
+        label:
+          fr: Livres
+          en: Books
+        type: pages
+        template: book
+  right:
+    width: 1/2
+    sections:
+      tools:
+        label:
+          fr: Outils
+          en: Tools
+        type: pages
+        template: tool
