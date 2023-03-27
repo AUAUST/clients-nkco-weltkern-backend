@@ -1,8 +1,8 @@
-Title: Book
+Title: Le chat botté
 
 ----
 
-Brand: 
+Brand:
 
 ----
 
@@ -14,4 +14,4 @@ Uuid: GGiDFGHWZClCBGrB
 
 ----
 
-Text: 
+Text:
