@@ -9,5 +9,9 @@ return [
   ],
   'name' => 'Français',
   'translations' => [],
-  'url' => NULL
+  'url' => NULL,
+  'smartypants' => [
+    'doublequote.open'  => '&#171;&#8198;',
+    'doublequote.close' => '&#8198;&#187;',
+  ]
 ];
