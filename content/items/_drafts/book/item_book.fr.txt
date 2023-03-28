@@ -2,7 +2,11 @@ Title: Le chat botté
 
 ----
 
-Brand:
+Brand: 
+
+----
+
+Price: 123
 
 ----
 
@@ -14,4 +18,4 @@ Uuid: GGiDFGHWZClCBGrB
 
 ----
 
-Text:
+Text: 
