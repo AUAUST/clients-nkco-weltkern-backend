@@ -5,4 +5,5 @@ return [
   "languages" => true,
   "languages.detect" => true,
   "date.handler" => "intl",
+  "smartypants" => true,
 ];
