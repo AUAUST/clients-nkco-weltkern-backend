@@ -1,1 +1,1 @@
-<!DOCTYPE html>
+<?php dump(kirby()->user()->permissions());
