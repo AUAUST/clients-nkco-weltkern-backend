@@ -55,7 +55,28 @@ tabs:
                   fr: "Page d'accueil"
                   en: "Home page"
                 width: 1/2
-
+              pageAbout:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                # disabled: true
+                label:
+                  fr: "À propos"
+                  en: "About"
+                width: 1/2
+              pageError:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Erreur"
+                  en: "Error"
+                width: 1/2
           __sectionBrands:
             type: fields
             fields:
