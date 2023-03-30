@@ -3,3 +3,15 @@ Title: WELTKERN
 ----
 
 Pagehome: - page://r7B7QwhbFuuV3o6G
+
+----
+
+Pagekerns: - page://R6slQ8V1IM2Rkt5Q
+
+----
+
+Pageabout: - page://dp6dsUqibP2vepsr
+
+----
+
+Pageerror: - page://Ad01ZY3S5WhjwqZG

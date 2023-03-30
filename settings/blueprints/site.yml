@@ -55,13 +55,24 @@ tabs:
                   fr: "Page d'accueil"
                   en: "Home page"
                 width: 1/2
+              pageKerns:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Kerns"
+                  en: "Kerns"
+                width: 1/2
               pageAbout:
                 type: pages
                 required: true
                 multiple: false
                 translate: false
                 layout: cardlets
-                # disabled: true
+                disabled: true
                 label:
                   fr: "À propos"
                   en: "About"
