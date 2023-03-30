@@ -6,7 +6,7 @@ tabs:
     columns:
       - width: 1/2
         sections:
-          __titItemsSection:
+          __sectionItems:
             type: fields
             fields:
               __titItems:
@@ -15,7 +15,7 @@ tabs:
                 label:
                   fr: "OBJETS"
                   en: "ITEMS"
-          __titFontsSection:
+          __sectionFonts:
             type: fields
             fields:
               __titFonts:
@@ -24,7 +24,7 @@ tabs:
                 label:
                   fr: "POLICES"
                   en: "FONTFACES"
-          __titConfigSection:
+          __sectionConfig:
             type: fields
             fields:
               __titConfig:
@@ -35,7 +35,7 @@ tabs:
                   en: "CONFIGURATION"
       - width: 1/2
         sections:
-          __titPagesSection:
+          __sectionPages:
             type: fields
             fields:
               __titPages:
@@ -44,7 +44,7 @@ tabs:
                 label:
                   fr: "PAGES SPÉCIALES"
                   en: "SPECIAL PAGES"
-          __titBrandsSection:
+          __sectionBrands:
             type: fields
             fields:
               __titBrands:
@@ -53,7 +53,7 @@ tabs:
                 label:
                   fr: "MARQUES"
                   en: "BRANDS"
-          __titPeopleSection:
+          __sectionPeople:
             type: fields
             fields:
               __titPeople:
