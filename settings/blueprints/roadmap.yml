@@ -1,0 +1,33 @@
+title: List of contents
+
+users:
+
+objets:
+  livres:
+    brand/people:
+
+  outils:
+
+  typos:
+
+index:
+  brands:
+    # marques qui produisent des objets
+    # éditeurs, marques des produits vendus
+
+  people:
+
+brands:
+  # page détaillant les marques ou personnes
+  # infos sur les produits
+  infos:
+
+  # produits créés par la marque
+  byTheBrand:
+
+  # produits liés à la marque,
+  # collabs dont la marque est partenaire,
+  # curaté par la marque
+  relatedToTheBrand:
+
+commandes:
