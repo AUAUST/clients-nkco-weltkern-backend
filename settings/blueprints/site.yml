@@ -44,6 +44,18 @@ tabs:
                 label:
                   fr: "PAGES SPÉCIALES"
                   en: "SPECIAL PAGES"
+              pageHome:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Page d'accueil"
+                  en: "Home page"
+                width: 1/2
+
           __sectionBrands:
             type: fields
             fields:
