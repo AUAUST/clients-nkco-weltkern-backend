@@ -10,6 +10,10 @@ items:
   # permettant une plus grande liberté éditiriale
   markdownDescription?:
 
+  # typo vendue sur WK qui est utilisée dans le produit
+  # role de "tag"
+  fontInUse?:
+
   tags:
     - achi
     - … # checker sur WK
@@ -24,35 +28,34 @@ items:
   # produits qui matchent
   # détectés automatiquement
   related:
-    0: byBrand
-    1: byPeople
-    2: byTags
-
-types:
-  # ref. dinamo pour la structure
-
-  # cover:
-
-  description:
-
-  typetester:
-    # fichier à utiliser dans le typetester
-    file:
-    defaults:
-      fontSize:
-      fontWeight:
-      text:
-
-  # fontInUse: # les font in use sont automatiquement détectés et associés
+    "0": byBrand
+    "1": byPeople
+    "2": byTags
 
 fontsInUse:
-  # fonte utilisée dans le font in use pour connecter à la type related
-  font:
+  # fontes utilisées dans le font in use pour connecter à la type related
+  fontInUse:
+  # fontes non-WK utilisées dans le font in use
+  # lien externe
+  otherFonts:
+
+  # designer du font in use
+  designer:
+
+  # markup qui contient les images et la description du fiu
+  markdownDescription:
+
+  # images liées
+  images:
+
+  tags:
+    - book
+    - banding
+    - packaging
+    - …
 
 index:
   brands:
-    # marques qui produisent des objets
-    # éditeurs, marques des produits vendus
 
   people:
 
@@ -92,4 +95,54 @@ people:
   # sections/liste de ces types
   types:
 
-commandes:
+fonts:
+  # ref. dinamo pour la structure
+
+  # cover:
+
+  description:
+
+  typetester:
+    # fichier à utiliser dans le typetester
+    file:
+    defaults:
+      fontSize:
+      fontWeight:
+      text:
+
+  # fontInUse: # les font in use sont automatiquement détectés et associés
+
+users:
+  pseudo:
+  email:
+  password:
+
+  adress:
+    country:
+    state:
+    city:
+    zip:
+    street:
+    number:
+
+  kerns:
+  status:
+
+  orders:
+
+  actions:
+    giveKerns:
+    takeKerns:
+
+    sendEmail:
+
+communications:
+  offers:
+  releases:
+
+  byCountry:
+  byState:
+
+  mailchimp?:
+
+  newsletter:
