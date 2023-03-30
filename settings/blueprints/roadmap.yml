@@ -2,13 +2,52 @@ title: List of contents
 
 users:
 
-objets:
-  livres:
-    brand/people:
+items:
+  cover:
+  description:
 
-  outils:
+  # contenu facultatif et complémentaire
+  # permettant une plus grande liberté éditiriale
+  markdownDescription?:
 
-  typos:
+  tags:
+    - achi
+    - … # checker sur WK
+
+  brand:
+  people:
+
+  # produits similaires,
+  # sélectionnés manuellement
+  referred:
+
+  # produits qui matchent
+  # détectés automatiquement
+  related:
+    0: byBrand
+    1: byPeople
+    2: byTags
+
+types:
+  # ref. dinamo pour la structure
+
+  # cover:
+
+  description:
+
+  typetester:
+    # fichier à utiliser dans le typetester
+    file:
+    defaults:
+      fontSize:
+      fontWeight:
+      text:
+
+  # fontInUse: # les font in use sont automatiquement détectés et associés
+
+fontsInUse:
+  # fonte utilisée dans le font in use pour connecter à la type related
+  font:
 
 index:
   brands:
@@ -17,17 +56,40 @@ index:
 
   people:
 
+# "mur" de marque, grille contenant toutes les marques
+# avec un logo, le nom, une description
+# et tous les produits liés à la marque
 brands:
+  logo:
+  description:
+
   # page détaillant les marques ou personnes
   # infos sur les produits
   infos:
 
-  # produits créés par la marque
-  byTheBrand:
+  # tous les produits liés à la marque
+  # qu'ils soient produits ou curaté par elle
+  items:
 
-  # produits liés à la marque,
-  # collabs dont la marque est partenaire,
-  # curaté par la marque
-  relatedToTheBrand:
+  # si la marque produit des types,
+  # sections/liste de ces types
+  types:
+
+# "mur" de personnes, grille contenant toutes les personnes/designers
+people:
+  profilePic:
+  description:
+
+  # page détaillant les marques ou personnes
+  # infos sur les produits
+  infos:
+
+  # tous les produits liés à la marque
+  # qu'ils soient produits ou curaté par elle
+  items:
+
+  # si la marque produit des types,
+  # sections/liste de ces types
+  types:
 
 commandes:
