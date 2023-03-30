@@ -8,23 +8,54 @@ columns:
         fields:
           __titItems:
             type: headline
+            numbered: false
             label:
               fr: "OBJETS"
               en: "ITEMS"
-
-            numbered: false
-      books:
-        type: pages
-
-  - width: 1/2
-    sections:
-      users:
+      __titFontsSection:
         type: fields
         fields:
-          __titUsers:
+          __titFonts:
             type: headline
-            label:
-              fr: "UTILISATEURS"
-              en: "USERS"
-
             numbered: false
+            label:
+              fr: "POLICES"
+              en: "FONTFACES"
+      __titConfigSection:
+        type: fields
+        fields:
+          __titConfig:
+            type: headline
+            numbered: false
+            label:
+              fr: "CONFIGURATION"
+              en: "CONFIGURATION"
+  - width: 1/2
+    sections:
+      __titPagesSection:
+        type: fields
+        fields:
+          __titPages:
+            type: headline
+            numbered: false
+            label:
+              fr: "PAGES SPÉCIALES"
+              en: "SPECIAL PAGES"
+      __titBrandsSection:
+        type: fields
+        fields:
+          __titBrands:
+            type: headline
+            numbered: false
+            label:
+              fr: "MARQUES"
+              en: "BRANDS"
+      __titPeopleSection:
+        type: fields
+        fields:
+          __titPeople:
+            type: headline
+            numbered: false
+            label:
+              fr: "PERSONNES"
+              en: "PEOPLE"
