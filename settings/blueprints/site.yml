@@ -1,61 +1,64 @@
 title: WELTKERN
 
-columns:
-  - width: 1/2
-    sections:
-      __titItemsSection:
-        type: fields
-        fields:
-          __titItems:
-            type: headline
-            numbered: false
-            label:
-              fr: "OBJETS"
-              en: "ITEMS"
-      __titFontsSection:
-        type: fields
-        fields:
-          __titFonts:
-            type: headline
-            numbered: false
-            label:
-              fr: "POLICES"
-              en: "FONTFACES"
-      __titConfigSection:
-        type: fields
-        fields:
-          __titConfig:
-            type: headline
-            numbered: false
-            label:
-              fr: "CONFIGURATION"
-              en: "CONFIGURATION"
-  - width: 1/2
-    sections:
-      __titPagesSection:
-        type: fields
-        fields:
-          __titPages:
-            type: headline
-            numbered: false
-            label:
-              fr: "PAGES SPÉCIALES"
-              en: "SPECIAL PAGES"
-      __titBrandsSection:
-        type: fields
-        fields:
-          __titBrands:
-            type: headline
-            numbered: false
-            label:
-              fr: "MARQUES"
-              en: "BRANDS"
-      __titPeopleSection:
-        type: fields
-        fields:
-          __titPeople:
-            type: headline
-            numbered: false
-            label:
-              fr: "PERSONNES"
-              en: "PEOPLE"
+tabs:
+  index:
+    title: INDEX
+    columns:
+      - width: 1/2
+        sections:
+          __titItemsSection:
+            type: fields
+            fields:
+              __titItems:
+                type: headline
+                numbered: false
+                label:
+                  fr: "OBJETS"
+                  en: "ITEMS"
+          __titFontsSection:
+            type: fields
+            fields:
+              __titFonts:
+                type: headline
+                numbered: false
+                label:
+                  fr: "POLICES"
+                  en: "FONTFACES"
+          __titConfigSection:
+            type: fields
+            fields:
+              __titConfig:
+                type: headline
+                numbered: false
+                label:
+                  fr: "CONFIGURATION"
+                  en: "CONFIGURATION"
+      - width: 1/2
+        sections:
+          __titPagesSection:
+            type: fields
+            fields:
+              __titPages:
+                type: headline
+                numbered: false
+                label:
+                  fr: "PAGES SPÉCIALES"
+                  en: "SPECIAL PAGES"
+          __titBrandsSection:
+            type: fields
+            fields:
+              __titBrands:
+                type: headline
+                numbered: false
+                label:
+                  fr: "MARQUES"
+                  en: "BRANDS"
+          __titPeopleSection:
+            type: fields
+            fields:
+              __titPeople:
+                type: headline
+                numbered: false
+                label:
+                  fr: "PERSONNES"
+                  en: "PEOPLE"
