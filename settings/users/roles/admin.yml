@@ -2,6 +2,10 @@ title:
   fr: Chef Suprême
   en: Supreme Chef
 
+description:
+  fr: De tous les droits il est doté.
+  en: He has all the rights.
+
 permissions:
   access:
     account: true
