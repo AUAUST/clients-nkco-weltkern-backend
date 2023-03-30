@@ -11,48 +11,48 @@ permissions:
     account: true
     panel: true
     site: true
-    languages: true
-    system: true
-    users: true
+    languages: false
+    system: false
+    users: false
   files:
-    create: true
-    changeName: true
-    delete: true
+    create: false
+    changeName: false
+    delete: false
     read: true
-    replace: true
-    update: true
+    replace: false
+    update: false
   languages:
-    create: true
-    delete: true
+    create: false
+    delete: false
   pages:
-    changeSlug: true
-    changeStatus: true
-    changeTemplate: true
-    changeTitle: true
-    create: true
-    delete: true
-    duplicate: true
+    changeSlug: false
+    changeStatus: false
+    changeTemplate: false
+    changeTitle: v
+    create: false
+    delete: false
+    duplicate: false
     preview: true
     read: true
-    sort: true
-    update: true
+    sort: false
+    update: false
   site:
-    changeTitle: true
-    update: true
+    changeTitle: false
+    update: false
   user:
-    changeEmail: true
-    changeLanguage: true
-    changeName: true
-    changePassword: true
-    changeRole: true
-    delete: true
-    update: true
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    delete: false
+    update: false
   users:
-    changeEmail: true
-    changeLanguage: true
-    changeName: true
-    changePassword: true
-    changeRole: true
-    create: true
-    delete: true
-    update: true
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    create: false
+    delete: false
+    update: false
