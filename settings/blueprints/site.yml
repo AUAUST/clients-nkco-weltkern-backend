@@ -1,5 +1,30 @@
 title: WELTKERN
 
-sections:
-  pages:
-    type: pages
+columns:
+  - width: 1/2
+    sections:
+      __titItemsSection:
+        type: fields
+        fields:
+          __titItems:
+            type: headline
+            label:
+              fr: "OBJETS"
+              en: "ITEMS"
+
+            numbered: false
+      books:
+        type: pages
+
+  - width: 1/2
+    sections:
+      users:
+        type: fields
+        fields:
+          __titUsers:
+            type: headline
+            label:
+              fr: "UTILISATEURS"
+              en: "USERS"
+
+            numbered: false
