@@ -12,7 +12,7 @@ permissions:
     panel: true
     site: true
     languages: true
-    system: true
+    system: false
     users: true
   files:
     create: true
@@ -22,12 +22,12 @@ permissions:
     replace: true
     update: true
   languages:
-    create: true
-    delete: true
+    create: false
+    delete: false
   pages:
-    changeSlug: true
+    changeSlug: false
     changeStatus: true
-    changeTemplate: true
+    changeTemplate: false
     changeTitle: true
     create: true
     delete: true
