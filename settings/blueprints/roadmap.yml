@@ -1,6 +1,24 @@
 title: List of contents
 
-users:
+specialPages:
+  homepage:
+    hero:
+      types:
+        - produit # choisir produit, sert pour générer data
+        - image # image + lien manuels
+      image:
+        link:
+        linkText:
+        image:
+        background: # couleur ou image
+      produit:
+        product: # ref. produit
+        linkText?: # titre custom ou fallback sur le nom du produit
+        image?: # image custom ou fallback sur la cover du produit
+        background: # couleur ou image
+
+  errorpage:
+  index:
 
 items:
   cover:
@@ -126,7 +144,8 @@ users:
     number:
 
   kerns:
-  status:
+  level:
+  xp:
 
   orders:
 
@@ -146,3 +165,32 @@ communications:
   mailchimp?:
 
   newsletter:
+
+# config pour les settings généraux du site
+# p.ex. rareté, levels, etc.
+config:
+  rarity:
+    - id: 0
+      name: Common
+      visible: false
+      color: #hex
+    - id: 1
+      name: Uncommon
+      # …
+  levels:
+    - id: 0
+      name: Regular
+      color: #hex
+      advantages:
+        - freeShipping
+        - collectKerns
+        - bonusKerns
+    - id: 1
+      name: Medium
+      # …
+  levelsAdvantages:
+    freeShipping:
+      type: boolean
+    collectKerns: …
+      type: percentage
+    bonusKerns: …
