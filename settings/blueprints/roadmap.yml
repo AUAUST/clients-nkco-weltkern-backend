@@ -6,15 +6,16 @@ specialPages:
       types:
         - produit # choisir produit, sert pour générer data
         - image # image + lien manuels
+        - video # video + lien manuels
       image:
         link:
         linkText:
-        image:
+        image|video:
         background: # couleur ou image
       produit:
         product: # ref. produit
         linkText?: # titre custom ou fallback sur le nom du produit
-        image?: # image custom ou fallback sur la cover du produit
+        image|video?: # image custom ou fallback sur la cover du produit
         background: # couleur ou image
 
   errorpage:
@@ -174,6 +175,11 @@ config:
       name: Common
       visible: false
       color: #hex
+      advantages:
+        bonuxXp:
+          type: percentage
+        insuredShipping:
+          type: boolean
     - id: 1
       name: Uncommon
       # …
@@ -182,15 +188,12 @@ config:
       name: Regular
       color: #hex
       advantages:
-        - freeShipping
-        - collectKerns
-        - bonusKerns
+        freeShipping:
+          type: boolean
+        collectKerns: …
+          type: percentage
+        bonusKerns: …
+
     - id: 1
       name: Medium
       # …
-  levelsAdvantages:
-    freeShipping:
-      type: boolean
-    collectKerns: …
-      type: percentage
-    bonusKerns: …
