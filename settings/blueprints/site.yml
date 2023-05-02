@@ -15,6 +15,16 @@ tabs:
                 label:
                   fr: "PRODUITS"
                   en: "PRODUCTS"
+              pageProducts:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Liste des produits"
+                  en: "Products list"
           __sectionFonts:
             type: fields
             fields:
