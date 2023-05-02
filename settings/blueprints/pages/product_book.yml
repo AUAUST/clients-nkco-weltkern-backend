@@ -2,6 +2,11 @@ title:
   fr: Livre
   en: Book
 
+options:
+  changeTemplate:
+    - product_book
+    - product_tool
+
 sections:
   infos:
     type: fields

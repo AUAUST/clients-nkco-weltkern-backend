@@ -2,6 +2,11 @@ title:
   fr: Outil
   en: Tool
 
+options:
+  changeTemplate:
+    - product_book
+    - product_tool
+
 sections:
   infos:
     type: fields
