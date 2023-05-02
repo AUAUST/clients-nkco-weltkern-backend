@@ -21,7 +21,7 @@ specialPages:
   errorpage:
   index:
 
-items:
+products:
   cover:
   description:
 
@@ -91,7 +91,7 @@ brands:
 
   # tous les produits liés à la marque
   # qu'ils soient produits ou curaté par elle
-  items:
+  products:
 
   # si la marque produit des types,
   # sections/liste de ces types
@@ -108,7 +108,7 @@ people:
 
   # tous les produits liés à la marque
   # qu'ils soient produits ou curaté par elle
-  items:
+  products:
 
   # si la marque produit des types,
   # sections/liste de ces types

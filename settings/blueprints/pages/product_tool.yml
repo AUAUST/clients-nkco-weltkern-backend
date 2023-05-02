@@ -5,7 +5,7 @@ title:
 sections:
   infos:
     type: fields
-    extends: fields/item
+    extends: fields/product
     fields:
       brand:
         label:

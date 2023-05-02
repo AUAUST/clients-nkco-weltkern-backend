@@ -6,15 +6,15 @@ tabs:
     columns:
       - width: 1/2
         sections:
-          __sectionItems:
+          __sectionProducts:
             type: fields
             fields:
-              __titItems:
+              __titProducts:
                 type: headline
                 numbered: false
                 label:
-                  fr: "OBJETS"
-                  en: "ITEMS"
+                  fr: "PRODUITS"
+                  en: "PRODUCTS"
           __sectionFonts:
             type: fields
             fields:
