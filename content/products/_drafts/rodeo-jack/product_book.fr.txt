@@ -1,0 +1,29 @@
+Title: Rodeo Jack
+
+----
+
+Brand: 
+
+----
+
+Price: 123333.05
+
+----
+
+Auto-kerns: false
+
+----
+
+Kerns: 93
+
+----
+
+Image: 
+
+----
+
+Stock: 10
+
+----
+
+Uuid: 5M8ctsiCCsVNRQ9c
