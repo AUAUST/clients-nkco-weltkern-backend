@@ -1,7 +1,7 @@
-type: group
 fields:
   brand:
     type: text
+    width: 1/2
   price:
     translate: false
     label:
@@ -16,13 +16,16 @@ fields:
     before:
       fr: ""
       en: "CHF"
-  auto-kerns:
+    width: 1/2
+
+  auto_kerns:
     translate: false
     label:
       fr: Kerns automatiques
       en: Auto kerns
     type: toggle
     default: true
+    width: 1/2
     text:
       - fr: "Non"
         en: "No"
@@ -37,4 +40,26 @@ fields:
     after: "K+"
     placeholder: "{{ page.kerns ?? 0}}"
     when:
-      auto-kerns: false
+      auto_kerns: false
+    width: 1/2
+  __spacer:
+    type: gap
+    width: 1/2
+    when:
+      auto_kerns: true
+  image:
+    translate: false
+    type: url
+    label:
+      fr: Image
+      en: Image
+    width: 1/2
+  stock:
+    translate: false
+    label:
+      fr: Stock
+      en: Stock
+    type: number
+    step: 1
+    min: 0
+    width: 1/2
