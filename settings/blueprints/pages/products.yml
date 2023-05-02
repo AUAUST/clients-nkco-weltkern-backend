@@ -9,13 +9,6 @@ columns:
           fr: Livres
           en: Books
         type: pages
-        template: product_book
-  right:
-    width: 1/2
-    sections:
-      tools:
-        label:
-          fr: Outils
-          en: Tools
-        type: pages
-        template: product_tool
+        templates:
+          - product_book
+          - product_tool
