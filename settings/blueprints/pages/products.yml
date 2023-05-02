@@ -4,11 +4,12 @@ columns:
   left:
     width: 1/2
     sections:
-      books:
+      products:
         label:
-          fr: Livres
-          en: Books
+          fr: Produits
+          en: Products
         type: pages
+        parent: site.find("product")
         templates:
           - product_book
           - product_tool
