@@ -32,6 +32,7 @@ foreach ($json as $key => $value) {
       "author" => $value["author"] ?? null,
       "publisher" => $value["publisher"],
       "image" => $value["src"],
+      "stock" => rand(1, 3) < 3 ? rand(1, 4) : rand(5, 20),
     ]
   ]);
 
