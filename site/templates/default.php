@@ -33,7 +33,7 @@ foreach ($json as $key => $value) {
     ]
   ]);
 
-  $products->add($page);
+  $products->add($page->changeStatus('listed'));
 }
 
 
