@@ -1,0 +1,33 @@
+Title: Art & Sandwiches
+
+----
+
+Price: 22.9
+
+----
+
+Kerns: 2290
+
+----
+
+Author: Breadcrumb
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Breadcrumb.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: tWA9LK18W7MTabBj
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Three Decades of Classic Fashion Photography
+
+----
+
+Price: 49.8
+
+----
+
+Kerns: 4980
+
+----
+
+Author: Lisa Fonssagrives-Penn
+
+----
+
+Publisher: Vendome Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Lisa-Fonssagrives-Penn-%E2%80%93-Three-Decades-of-Classic-Fashion-Photography.jpg
+
+----
+
+Stock: 5
+
+----
+
+Uuid: n77trW7HS9lNF2hr
+
+----
+
+Auto-kerns: true

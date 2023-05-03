@@ -1,0 +1,29 @@
+Title: Bauteile wiederverwenden
+
+----
+
+Price: 59.2
+
+----
+
+Kerns: 5920
+
+----
+
+Publisher: Park Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_2bauteile.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: ZhIv7k5j5Gzz8Uls
+
+----
+
+Auto-kerns: true

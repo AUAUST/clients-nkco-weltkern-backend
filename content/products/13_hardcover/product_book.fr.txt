@@ -1,0 +1,33 @@
+Title: Hardcover
+
+----
+
+Price: 89.9
+
+----
+
+Kerns: 8990
+
+----
+
+Author: The Innocents
+
+----
+
+Publisher: MoMA
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2023/01/The-innocent-Hardcover_COVER_.jpg
+
+----
+
+Stock: 5
+
+----
+
+Uuid: WzMCU2mNWkOz9HgY
+
+----
+
+Auto-kerns: true

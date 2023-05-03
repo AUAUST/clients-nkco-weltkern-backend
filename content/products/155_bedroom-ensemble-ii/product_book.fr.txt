@@ -1,0 +1,33 @@
+Title: Bedroom Ensemble II
+
+----
+
+Price: 17.9
+
+----
+
+Kerns: 1790
+
+----
+
+Author: Sylvie Fleury
+
+----
+
+Publisher: MAMCO Genève
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_sylvieFleury.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: yKL5xBFd78HzAp2J
+
+----
+
+Auto-kerns: true

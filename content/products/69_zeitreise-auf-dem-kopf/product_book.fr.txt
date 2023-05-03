@@ -1,0 +1,33 @@
+Title: Zeitreise auf dem Kopf
+
+----
+
+Price: 49.9
+
+----
+
+Kerns: 4990
+
+----
+
+Author: Ruedi Bechtler
+
+----
+
+Publisher: Scheidegger & Spiess
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_RUEDI-BECHTLER.jpg
+
+----
+
+Stock: 6
+
+----
+
+Uuid: Xjo7Ujkx5yGzk7JZ
+
+----
+
+Auto-kerns: true

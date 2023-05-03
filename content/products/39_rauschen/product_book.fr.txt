@@ -1,0 +1,33 @@
+Title: Rauschen
+
+----
+
+Price: 41.5
+
+----
+
+Kerns: 4150
+
+----
+
+Author: Katinka Bock
+
+----
+
+Publisher: Distanz
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Rauschen.jpg
+
+----
+
+Stock: 16
+
+----
+
+Uuid: FbOuTf5R01kt2PL5
+
+----
+
+Auto-kerns: true

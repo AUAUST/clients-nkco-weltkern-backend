@@ -1,0 +1,33 @@
+Title: Proof Of Art
+
+----
+
+Price: 39.9
+
+----
+
+Kerns: 3990
+
+----
+
+Author: Alfred Weidinger
+
+----
+
+Publisher: Distanz
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Proof-Of-Art.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: Jc6q4Bs59qdl1KuJ
+
+----
+
+Auto-kerns: true

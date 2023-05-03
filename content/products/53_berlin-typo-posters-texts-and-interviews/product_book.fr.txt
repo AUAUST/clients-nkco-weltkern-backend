@@ -1,0 +1,33 @@
+Title: Berlin Typo Posters, Texts, and Interviews
+
+----
+
+Price: 42.9
+
+----
+
+Kerns: 4290
+
+----
+
+Author: Karl-Heinz Drescher
+
+----
+
+Publisher: Slanted
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/Berlin-Typo-Posters.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: vmaZ1VOQa90KpYMk
+
+----
+
+Auto-kerns: true

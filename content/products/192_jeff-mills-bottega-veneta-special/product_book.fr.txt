@@ -1,0 +1,33 @@
+Title: JEFF MILLS: BOTTEGA VENETA SPECIAL
+
+----
+
+Price: 29.9
+
+----
+
+Kerns: 2990
+
+----
+
+Author: KALEIDOSCOPE #39 FW 21-22
+
+----
+
+Publisher: KALEIDOSCOPE
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_K39_JM.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: HTEAtUbrlLb9UeH6
+
+----
+
+Auto-kerns: true

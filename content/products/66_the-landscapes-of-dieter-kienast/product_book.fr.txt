@@ -1,0 +1,33 @@
+Title: The Landscapes of Dieter Kienast
+
+----
+
+Price: 85.9
+
+----
+
+Kerns: 8590
+
+----
+
+Author: Anette Freytag
+
+----
+
+Publisher: gta Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Anette-Freytag-1.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: A6mH4oiJXiz1EtKj
+
+----
+
+Auto-kerns: true

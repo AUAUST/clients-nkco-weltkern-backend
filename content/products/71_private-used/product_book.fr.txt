@@ -1,0 +1,33 @@
+Title: PRIVATE/USED
+
+----
+
+Price: 59.5
+
+----
+
+Kerns: 5950
+
+----
+
+Author: Luciano Rigolini
+
+----
+
+Publisher: Edition Patrick Frey
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Luciano-Rigolini-%E2%80%93-Private-used.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: z0Sy1m9hzIBJJHah
+
+----
+
+Auto-kerns: true

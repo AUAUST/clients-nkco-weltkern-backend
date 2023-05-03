@@ -1,0 +1,33 @@
+Title: Projects and Coversations Höweler + Yoon
+
+----
+
+Price: 48.5
+
+----
+
+Kerns: 4850
+
+----
+
+Author: Verify in Field
+
+----
+
+Publisher: Park Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_Verify-in-Field.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: kG7XMbhGU8qW9xd7
+
+----
+
+Auto-kerns: true

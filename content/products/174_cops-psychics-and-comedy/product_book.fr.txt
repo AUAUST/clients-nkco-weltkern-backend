@@ -1,0 +1,33 @@
+Title: Cops, Psychics And Comedy
+
+----
+
+Price: 51.8
+
+----
+
+Kerns: 5180
+
+----
+
+Author: Tova Mozard
+
+----
+
+Publisher: Art and Theory Publishing
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_TovaMozard.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: xgCjTIbEAl8fCSrF
+
+----
+
+Auto-kerns: true

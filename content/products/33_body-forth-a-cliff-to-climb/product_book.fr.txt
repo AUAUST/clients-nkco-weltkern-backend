@@ -1,0 +1,33 @@
+Title: Body Forth / A Cliff to Climb
+
+----
+
+Price: 52.8
+
+----
+
+Kerns: 5280
+
+----
+
+Author: Matt Connors & Ryan Preciado
+
+----
+
+Publisher: Canada
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_MATT-CONNORS-RYAN-PRECIADO.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: I6ZyEwbw6mfFRY3f
+
+----
+
+Auto-kerns: true

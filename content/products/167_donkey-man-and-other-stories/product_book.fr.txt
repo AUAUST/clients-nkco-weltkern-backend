@@ -1,0 +1,33 @@
+Title: Donkey Man and Other Stories
+
+----
+
+Price: 175.9
+
+----
+
+Kerns: 17590
+
+----
+
+Author: Juergen Teller
+
+----
+
+Publisher: Rizzoli Publications
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_jurgen.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: ub4pr0o8BjyFQNCQ
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Chiaozza
+
+----
+
+Price: 27.8
+
+----
+
+Kerns: 2780
+
+----
+
+Author: Blocks Blocks Blocks
+
+----
+
+Publisher: Hato Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Blocks-Blocks-Blocks-by-Chiaozza.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: ne6FdORAcz5rINdJ
+
+----
+
+Auto-kerns: true

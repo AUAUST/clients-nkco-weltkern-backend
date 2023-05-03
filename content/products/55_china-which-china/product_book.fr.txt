@@ -1,0 +1,33 @@
+Title: China! Which China?
+
+----
+
+Price: 46.8
+
+----
+
+Kerns: 4680
+
+----
+
+Author: Wolfgang Zurborn
+
+----
+
+Publisher: Schaden Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/05/BOOK_COVER_Wolfgang-Zurborn-%E2%80%93-China-Which-China.jpg
+
+----
+
+Stock: 18
+
+----
+
+Uuid: DsZkqqCLHrhVtYf5
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Book of Roy
+
+----
+
+Price: 39.8
+
+----
+
+Kerns: 3980
+
+----
+
+Author: Neil Drabble
+
+----
+
+Publisher: MACK
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Neil-Drabble-%E2%80%93-Book-of-Roy.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: WW7xNNMtlWjt9Uvr
+
+----
+
+Auto-kerns: true

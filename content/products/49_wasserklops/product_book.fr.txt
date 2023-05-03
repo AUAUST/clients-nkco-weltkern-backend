@@ -1,0 +1,33 @@
+Title: Wasserklops
+
+----
+
+Price: 13.5
+
+----
+
+Kerns: 1350
+
+----
+
+Author: Maximilian Kirmse
+
+----
+
+Publisher: Floating Opera Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_MAXIMILIAN-KIRMSE-WASSERKLOPS.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: ys0nFt7CErVvvgeS
+
+----
+
+Auto-kerns: true

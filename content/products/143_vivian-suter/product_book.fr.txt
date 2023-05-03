@@ -1,0 +1,33 @@
+Title: Vivian Suter
+
+----
+
+Price: 62.2
+
+----
+
+Kerns: 6220
+
+----
+
+Author: Bonzo, Tintin & Nina
+
+----
+
+Publisher: Hatje Cantz Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_bonzo.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: 2GCImhEiSAHUDpua
+
+----
+
+Auto-kerns: true

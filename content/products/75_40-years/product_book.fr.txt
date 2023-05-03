@@ -1,0 +1,33 @@
+Title: 40 Years
+
+----
+
+Price: 52.9
+
+----
+
+Kerns: 5290
+
+----
+
+Author: Michael Auping
+
+----
+
+Publisher: Prestel
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Michael-Auping-%E2%80%93-40-Years.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: lAAK2RB9AoGeilHT
+
+----
+
+Auto-kerns: true

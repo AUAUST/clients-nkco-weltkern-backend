@@ -1,0 +1,29 @@
+Title: Allen Ruppersberg: Intellectual Property, 1968-2018 (Forest)
+
+----
+
+Price: 69.8
+
+----
+
+Kerns: 6980
+
+----
+
+Publisher: Walker Art Centre
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_intellectualProperty-1.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: 3tiniUbGQjv01eYi
+
+----
+
+Auto-kerns: true

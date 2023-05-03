@@ -1,0 +1,33 @@
+Title: Joel Beath
+
+----
+
+Price: 52.2
+
+----
+
+Kerns: 5220
+
+----
+
+Author: Never Too Small
+
+----
+
+Publisher: Smith Street Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_nevertoosmall.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: RZXBAEmDUrjQm4aI
+
+----
+
+Auto-kerns: true

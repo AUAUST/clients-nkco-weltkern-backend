@@ -1,0 +1,33 @@
+Title: Mediation, Process and Critical Tension
+
+----
+
+Price: 15.9
+
+----
+
+Kerns: 1590
+
+----
+
+Author: Image in the Post-Millennium
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_IMAGNTHEPOSTMILLENNIUM.jpg
+
+----
+
+Stock: 5
+
+----
+
+Uuid: U4p0izhaiOijP0RG
+
+----
+
+Auto-kerns: true

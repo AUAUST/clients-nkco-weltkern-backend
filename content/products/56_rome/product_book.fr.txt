@@ -1,0 +1,33 @@
+Title: Rome
+
+----
+
+Price: 29.9
+
+----
+
+Kerns: 2990
+
+----
+
+Author: Paolo Di Lucente
+
+----
+
+Publisher: Veii
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_rome.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: NBI4jtkqFV0Pdnzg
+
+----
+
+Auto-kerns: true

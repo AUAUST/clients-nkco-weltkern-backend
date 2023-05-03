@@ -1,0 +1,33 @@
+Title: 10 Years of Research in Art and Design at ECAL
+
+----
+
+Price: 24.5
+
+----
+
+Kerns: 2450
+
+----
+
+Author: Making Sense 
+
+----
+
+Publisher: ECAL
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_makingsense.jpg
+
+----
+
+Stock: 7
+
+----
+
+Uuid: nkmgPYA4ZzpyutLw
+
+----
+
+Auto-kerns: true

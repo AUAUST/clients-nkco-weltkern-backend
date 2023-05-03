@@ -1,0 +1,33 @@
+Title: Nachrichten vom Helden Hagen
+
+----
+
+Price: 24.8
+
+----
+
+Kerns: 2480
+
+----
+
+Author: Schramme am Himmel
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_SchrammeamHimmel.jpg
+
+----
+
+Stock: 12
+
+----
+
+Uuid: ZV499pHFw05LNTlP
+
+----
+
+Auto-kerns: true

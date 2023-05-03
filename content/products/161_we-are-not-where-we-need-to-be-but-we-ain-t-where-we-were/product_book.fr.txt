@@ -1,0 +1,29 @@
+Title: We are not where we need to be, but we ain't where we were.
+
+----
+
+Price: 9.5
+
+----
+
+Kerns: 950
+
+----
+
+Publisher: L’Amazone & Privilege
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: RAK7aNQqOz1uxLHu
+
+----
+
+Auto-kerns: true

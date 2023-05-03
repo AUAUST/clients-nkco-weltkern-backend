@@ -1,0 +1,33 @@
+Title: Paparazzo Extraordinaire
+
+----
+
+Price: 28.4
+
+----
+
+Kerns: 2840
+
+----
+
+Author: Ron Galella
+
+----
+
+Publisher: Hatje Cantz Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Ron-Galella-%E2%80%93-Paparazzo-Extraordinaire.jpg
+
+----
+
+Stock: 18
+
+----
+
+Uuid: YSG1oA3xF9wPVF88
+
+----
+
+Auto-kerns: true

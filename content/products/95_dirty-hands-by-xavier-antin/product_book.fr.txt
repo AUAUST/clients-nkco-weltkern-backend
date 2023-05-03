@@ -1,0 +1,33 @@
+Title: Dirty Hands by Xavier Antin
+
+----
+
+Price: 21.9
+
+----
+
+Kerns: 2190
+
+----
+
+Author: Liquidity, Data Flows and
+
+----
+
+Publisher: Hato Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Liquidity-Data-Flows-and-Dirty-Hands-by-Xavier-Antin.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: G1BE4l1IPuhp0nA1
+
+----
+
+Auto-kerns: true

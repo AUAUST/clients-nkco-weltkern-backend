@@ -1,0 +1,29 @@
+Title: OMA NY: Search Term
+
+----
+
+Price: 129.5
+
+----
+
+Kerns: 12950
+
+----
+
+Publisher: Rizzoli Publications
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_OMANY.jpg
+
+----
+
+Stock: 8
+
+----
+
+Uuid: dp23Rms4KeXpVTJU
+
+----
+
+Auto-kerns: true

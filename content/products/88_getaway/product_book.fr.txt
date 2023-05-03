@@ -1,0 +1,33 @@
+Title: Getaway
+
+----
+
+Price: 14.9
+
+----
+
+Kerns: 1490
+
+----
+
+Author: Jantzen, Larsen, Jakobsen, Caspersen, Kristoffersen
+
+----
+
+Publisher: Disko Bay
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Jantzen-Larsen-Jakobsen-Caspersen-Kristoffersen.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: kBmQjQyWdn8mUQVo
+
+----
+
+Auto-kerns: true

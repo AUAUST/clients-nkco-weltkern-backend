@@ -1,0 +1,33 @@
+Title: googly eyes
+
+----
+
+Price: 13.8
+
+----
+
+Kerns: 1380
+
+----
+
+Author: Christof Nüssli
+
+----
+
+Publisher: Cpress
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Christof-Nussli.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: gMXmwoeLWO0iV0F1
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Zenker
+
+----
+
+Price: 65.5
+
+----
+
+Kerns: 6550
+
+----
+
+Author: Yana Wernicke, Jonas Feige
+
+----
+
+Publisher: Edition Patrick Frey
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Zenker1.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: wdMHsc4VFY1SvqLY
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Ode to Construction
+
+----
+
+Price: 24.5
+
+----
+
+Kerns: 2450
+
+----
+
+Author: Polina Joffe
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_OdetoConstruction.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: bbCiVtnHUbwrxviV
+
+----
+
+Auto-kerns: true

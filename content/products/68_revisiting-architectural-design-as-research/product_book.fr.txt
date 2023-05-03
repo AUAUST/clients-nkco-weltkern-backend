@@ -1,0 +1,33 @@
+Title: Revisiting Architectural Design as Research
+
+----
+
+Price: 30.9
+
+----
+
+Kerns: 3090
+
+----
+
+Author: Against and for Method
+
+----
+
+Publisher: gta Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Jan-Silberberger.jpg
+
+----
+
+Stock: 15
+
+----
+
+Uuid: EyvrUJwyIfywreFL
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Social Norms and Rituals as Sites for Architectural Intervention
+
+----
+
+Price: 29.8
+
+----
+
+Kerns: 2980
+
+----
+
+Author: A Section of Now
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_A-Section-of-Now.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: aezfDGNFgFMObnih
+
+----
+
+Auto-kerns: true

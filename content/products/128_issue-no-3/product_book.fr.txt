@@ -1,0 +1,33 @@
+Title: Issue No. 3
+
+----
+
+Price: 16.8
+
+----
+
+Kerns: 1680
+
+----
+
+Author: VISIONS BY
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_VISIONS-BY-3.jpg
+
+----
+
+Stock: 18
+
+----
+
+Uuid: GqVNxpqbLfKCIQbP
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,29 @@
+Title: all the lonely people
+
+----
+
+Price: 21.5
+
+----
+
+Kerns: 2150
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_AlltheLonelyPeople.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: UDQQRSxy2PfmBSAs
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,29 @@
+Title: How it is... by Nicolas Burrows
+
+----
+
+Price: 13.9
+
+----
+
+Kerns: 1390
+
+----
+
+Publisher: Hato Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_How-it-is...-by-Nicolas-Burrows.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: V6g786FrNy3JlSyj
+
+----
+
+Auto-kerns: true

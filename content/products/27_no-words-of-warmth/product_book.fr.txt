@@ -1,0 +1,33 @@
+Title: No Words of Warmth
+
+----
+
+Price: 22.9
+
+----
+
+Kerns: 2290
+
+----
+
+Author: Sarai Meyron
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/12/BOOK_COVER_.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: WSOAhgXyozHfftxV
+
+----
+
+Auto-kerns: true

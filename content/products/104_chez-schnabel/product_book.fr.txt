@@ -1,0 +1,33 @@
+Title: Chez Schnabel
+
+----
+
+Price: 29.9
+
+----
+
+Kerns: 2990
+
+----
+
+Author: Anna Haifisch
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Anna-Haifisch.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: CA8Scmqx5qBUS92q
+
+----
+
+Auto-kerns: true

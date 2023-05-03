@@ -1,0 +1,33 @@
+Title: n°29 – 2019
+
+----
+
+Price: 39.9
+
+----
+
+Kerns: 3990
+
+----
+
+Author: Perrotin Yearbook
+
+----
+
+Publisher: Perrotin
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_perrotinyearbook.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: Sc4Cdu0vWJfvYg4k
+
+----
+
+Auto-kerns: true

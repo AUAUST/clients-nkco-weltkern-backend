@@ -1,0 +1,33 @@
+Title: Siegerflieger
+
+----
+
+Price: 24.5
+
+----
+
+Kerns: 2450
+
+----
+
+Author: Juergen Teller
+
+----
+
+Publisher: Steidl Publishers
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Juergen-Teller-%E2%80%93-Siegerflieger.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: cIgnghYHgMjuWkBs
+
+----
+
+Auto-kerns: true

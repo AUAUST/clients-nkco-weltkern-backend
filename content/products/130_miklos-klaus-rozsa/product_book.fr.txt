@@ -1,0 +1,33 @@
+Title: Miklós Klaus Rózsa
+
+----
+
+Price: 47.9
+
+----
+
+Kerns: 4790
+
+----
+
+Author: Christof Nüssli & Christoph Oeschger
+
+----
+
+Publisher: Cpress
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_ChristophOeschger.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: J74694AIzGcesYhn
+
+----
+
+Auto-kerns: true

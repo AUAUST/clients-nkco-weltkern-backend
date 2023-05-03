@@ -1,0 +1,33 @@
+Title: The Architecture of an Artist
+
+----
+
+Price: 37.5
+
+----
+
+Kerns: 3750
+
+----
+
+Author: Gego
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_gego.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: xrMYGofecPaw2kPF
+
+----
+
+Auto-kerns: true

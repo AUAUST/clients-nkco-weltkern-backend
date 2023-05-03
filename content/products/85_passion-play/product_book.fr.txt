@@ -1,0 +1,33 @@
+Title: Passion Play
+
+----
+
+Price: 39.5
+
+----
+
+Kerns: 3950
+
+----
+
+Author: Regine Petersen
+
+----
+
+Publisher: The Eriskay Connection
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Regine-Petersen-Passion-Play.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: RvPJzYvRy0M57JPE
+
+----
+
+Auto-kerns: true

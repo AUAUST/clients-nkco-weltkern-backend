@@ -1,0 +1,29 @@
+Title: Echoing Exhibition Views
+
+----
+
+Price: 14.5
+
+----
+
+Kerns: 1450
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Echoin-ExhibitionViews.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: LBxqvcz5NzN4g22G
+
+----
+
+Auto-kerns: true

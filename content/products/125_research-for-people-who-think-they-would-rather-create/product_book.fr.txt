@@ -1,0 +1,29 @@
+Title: Research For People Who Think They Would Rather Create
+
+----
+
+Price: 14.8
+
+----
+
+Kerns: 1480
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_ResearchForPeople.jpg
+
+----
+
+Stock: 19
+
+----
+
+Uuid: 6bLbJcsyTQh8Omca
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: The Cookbook
+
+----
+
+Price: 52.9
+
+----
+
+Kerns: 5290
+
+----
+
+Author: Cooking With Scorsese
+
+----
+
+Publisher: Hato Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Cooking-With-ScorseseThe-Cookbook.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: xlV5rw83A5k7Yb6d
+
+----
+
+Auto-kerns: true

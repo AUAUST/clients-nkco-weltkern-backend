@@ -1,0 +1,33 @@
+Title: Sustaining a Model
+
+----
+
+Price: 15.2
+
+----
+
+Kerns: 1520
+
+----
+
+Author: Artist-run Democracy:
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Artistrundemocracysustainingamodel.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: a34YmtMCOIbsFySN
+
+----
+
+Auto-kerns: true
