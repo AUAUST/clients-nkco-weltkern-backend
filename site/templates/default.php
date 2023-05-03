@@ -16,6 +16,7 @@ $products = $parent->children();
 $blueprint = Blueprint::load('pages/product_book');
 
 foreach ($json as $key => $value) {
+  // $value = $json[array_keys($json)[0]];
   $name = $value["name"];
   $slug = Str::slug($name);
 
@@ -23,6 +24,7 @@ foreach ($json as $key => $value) {
     "blueprint" => $blueprint,
     "slug" => $slug,
     "template" => "product_book",
+    "parent" => $parent,
     "content" => [
       "title" => $name,
       "price" => $value["price"]["amount"],
