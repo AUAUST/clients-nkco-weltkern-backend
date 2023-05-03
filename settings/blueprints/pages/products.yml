@@ -9,7 +9,7 @@ columns:
           fr: Produits
           en: Products
         type: pages
-        parent: site.find("product")
+        parent: site.find("products")
         templates:
           - product_book
           - product_tool
