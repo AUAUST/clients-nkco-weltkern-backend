@@ -1,0 +1,25 @@
+Title: Hello World
+
+----
+
+Brand: Moi
+
+----
+
+Price: 12039132018
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/12/WKR-END2022-1.jpg
+
+----
+
+Stock: 44
+
+----
+
+Uuid: FvVqRcf54FhnUCYZ
