@@ -2,18 +2,46 @@ title: Products
 
 columns:
   - sections:
-      products:
+      draft_products:
         type: pages
+        status: draft
         label:
-          fr: Produits
-          en: Products
+          fr: Brouillons
+          en: Draft products
 
         templates:
           - product_book
           - product_tool
         parent: site.find("products")
 
-        limit: 30
+        limit: 10
+        search: true
+
+        layout: table
+        columns:
+          author:
+            width: 2/11
+          publisher:
+            width: 2/11
+          price:
+            width: 1/11
+            align: center
+            after: "CHF"
+            value: "{{ page.price }}"
+
+      online_products:
+        type: pages
+        status: published
+        label:
+          fr: Produits en ligne
+          en: Online products
+
+        templates:
+          - product_book
+          - product_tool
+        parent: site.find("products")
+
+        limit: 20
         search: true
 
         layout: table
