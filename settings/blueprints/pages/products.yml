@@ -1,15 +1,36 @@
 title: Products
 
 columns:
-  left:
-    width: 1/2
-    sections:
+  - sections:
       products:
+        type: pages
         label:
           fr: Produits
           en: Products
-        type: pages
-        parent: site.find("products")
+
         templates:
           - product_book
           - product_tool
+        parent: site.find("products")
+
+        limit: 30
+        search: true
+
+        layout: table
+        columns:
+          title:
+            width: 9/1
+          author:
+            width: 5/1
+          publisher:
+            width: 5/1
+          price:
+            width: 2/1
+            align: center
+            after: "CHF"
+            value: "{{ page.price }}"
+          url:
+            width: 2/1
+            align: center
+            value: "{{ page.url }}"
+            type: url
