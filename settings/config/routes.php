@@ -7,7 +7,7 @@ return [
     'pattern' => ['product', 'product/(:any)'],
     'action'  => function ($id = null) {
 
-      // Get the products pages
+      // Get the products
       $products = page('products')->children();
 
       // Try to find the product by id if it matches the UUID format
@@ -25,8 +25,8 @@ return [
         $result = [
           "success" => true,
           "product" => [
-            "id" => $product->id(),
-            "permalink" => $product->permalink(),
+            "id" => array_reverse(explode("/", $product->id())),
+            "uuid" => $product->uuid()->model()->content()->uuid()->toString(),
             "name" => $product->title()->toString(),
             "author" => $product->author()->toString(),
           ]
