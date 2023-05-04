@@ -29,8 +29,3 @@ columns:
             align: center
             after: "CHF"
             value: "{{ page.price }}"
-          url:
-            width: 2/1
-            align: center
-            value: "{{ page.url }}"
-            type: url
