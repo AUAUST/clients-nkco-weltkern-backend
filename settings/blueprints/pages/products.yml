@@ -18,14 +18,12 @@ columns:
 
         layout: table
         columns:
-          title:
-            width: 9/1
           author:
-            width: 5/1
+            width: 2/11
           publisher:
-            width: 5/1
+            width: 2/11
           price:
-            width: 2/1
+            width: 1/11
             align: center
             after: "CHF"
             value: "{{ page.price }}"
