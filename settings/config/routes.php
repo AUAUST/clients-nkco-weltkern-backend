@@ -6,7 +6,7 @@ return [
   [
     'pattern' => ['product', 'product/(:any)'],
     'language' => '*',
-    'action'  => function ($lang = "", $id = null) {
+    'action'  => function ($lang = null, $id = null) {
 
       // Get the products
       $products = page('products')->children();
@@ -25,8 +25,6 @@ return [
       if ($product) {
         return site()->visit($product, $lang);
       }
-
-      throw new Exception('The product "' . $id . '" does not exist');
     }
   ],
 ];
