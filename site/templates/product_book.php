@@ -1,7 +1,6 @@
 <?php
 
 use Kirby\Cms\Response;
-use Kirby\Data\Json;
 
 // $page is the product page
 
@@ -11,6 +10,8 @@ $data = [
   "author" => $page->author()->toString(),
   "publisher" => $page->publisher()->toString(),
   "href" => $page->url(),
+
+
   "remaining" => (function ($page) {
     $remaining = $page->stock()->toInt();
 
@@ -26,6 +27,8 @@ $data = [
       return "all";
     }
   })($page),
+
+
   "price" => (function ($page) {
 
     $price = $page->price()->toFloat();
@@ -46,7 +49,7 @@ $data = [
 ];
 
 // JSON string
-$body = Json::encode($data);
+$body = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 
 // Response object
 $response = new Response(
