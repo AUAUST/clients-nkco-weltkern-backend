@@ -153,3 +153,6 @@ tabs:
                 help:
                   fr: "Utilisé dans les endroits où une forme plus simple est nécessaire."
                   en: "Used in places where a simpler form is needed."
+              slogan:
+                type: text
+                label: "Slogan"
