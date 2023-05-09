@@ -1,0 +1,10 @@
+title:
+  fr: Fonte
+  en: Font
+
+tabs:
+  all:
+    sections:
+      cuts:
+        type: files
+        label: Cuts
