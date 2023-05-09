@@ -5,8 +5,11 @@ use Kirby\Data\Json;
 
 // Product's data
 $data = [
-  "title" => $page->title()->toString(),
-  "shortTitle" => $page->short_title()->toString(),
+  "title" => $site->title()->toString(),
+  "titles" => [
+    "short" => $site->titleShort()->toString(),
+    "simple" => $site->titleSimple()->toString(),
+  ],
 ];
 
 // JSON string

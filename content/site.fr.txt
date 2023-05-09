@@ -1,4 +1,4 @@
-Title: WELTKERN
+Title: WELTKERN®
 
 ----
 
@@ -19,3 +19,11 @@ Pageabout: - page://dp6dsUqibP2vepsr
 ----
 
 Pageerror: - page://Ad01ZY3S5WhjwqZG
+
+----
+
+Titleshort: WK®
+
+----
+
+Titlesimple: WELTKERN

@@ -116,3 +116,40 @@ tabs:
                 label:
                   fr: "PERSONNES"
                   en: "PEOPLE"
+  settings:
+    title:
+      fr: "PARAMÈTRES"
+      en: "SETTINGS"
+    columns:
+      - width: 1/2
+        sections:
+          __sectionTitles:
+            type: fields
+            fields:
+              __titTitles:
+                type: headline
+                numbered: false
+                label:
+                  fr: "TITRES"
+                  en: "TITLES"
+                help:
+                  fr: "Les variations de titres du site, selon l'emplacement et la langue.\nLe title principal est celui en haut du panel, et est éditable directement là."
+                  en: "The site's title variations, according to the location and language.\nThe main title is the one at the top of the panel, and is editable directly there."
+              titleShort:
+                type: text
+                width: 1/2
+                label:
+                  fr: "Titre court"
+                  en: "Short title"
+                help:
+                  fr: "Utilisé notamment pour la version mobile du site, ou dans les endroits avec peu d'espace."
+                  en: "Used especially for the mobile version of the site, or in places with little space."
+              titleSimple:
+                type: text
+                width: 1/2
+                label:
+                  fr: "Titre simple"
+                  en: "Simple title"
+                help:
+                  fr: "Utilisé dans les endroits où une forme plus simple est nécessaire."
+                  en: "Used in places where a simpler form is needed."
