@@ -53,3 +53,8 @@
 // // dump(kirby()->user()->role());
 
 // // kirby()->user()->logout(); -->
+
+
+?>
+
+<?= $page->intendedTemplate() ?>
