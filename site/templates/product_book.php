@@ -1,6 +1,7 @@
 <?php
 
 use Kirby\Cms\Response;
+use Kirby\Data\Json;
 
 // $page is the product page
 
@@ -49,7 +50,7 @@ $data = [
 ];
 
 // JSON string
-$body = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+$body = Json::encode($data);
 
 // Response object
 $response = new Response(
