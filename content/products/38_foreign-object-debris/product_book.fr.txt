@@ -1,0 +1,33 @@
+Title: Foreign Object Debris
+
+----
+
+Price: 42.9
+
+----
+
+Kerns: 4290
+
+----
+
+Author: Yngve Holen
+
+----
+
+Publisher: Distanz
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_YNGVE-HOLEN.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: WuqSObamGh9Ab2o4
+
+----
+
+Auto-kerns: true

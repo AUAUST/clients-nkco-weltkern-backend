@@ -1,0 +1,33 @@
+Title: May 25 is now October 1
+
+----
+
+Price: 31.5
+
+----
+
+Kerns: 3150
+
+----
+
+Author: Bardhi Haliti
+
+----
+
+Publisher: Cpress
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Bardhi-Haliti.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: CYIgR7GYigSdVTHW
+
+----
+
+Auto-kerns: true

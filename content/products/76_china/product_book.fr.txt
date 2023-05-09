@@ -1,0 +1,33 @@
+Title: China
+
+----
+
+Price: 38.5
+
+----
+
+Kerns: 3850
+
+----
+
+Author: Mathias Braschler & Monika Fischer
+
+----
+
+Publisher: Hatje Cantz Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Mathias-Braschler-Monika-Fischer-%E2%80%93-China.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: 3yNzBMpnO0Yfiwhu
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Irony
+
+----
+
+Price: 62.4
+
+----
+
+Kerns: 6240
+
+----
+
+Author: Armin Morbach
+
+----
+
+Publisher: Distanz
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Distanz.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: QBMjYMNIHJut4qAo
+
+----
+
+Auto-kerns: true

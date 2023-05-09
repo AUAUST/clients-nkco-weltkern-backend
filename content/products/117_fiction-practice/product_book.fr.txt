@@ -1,0 +1,29 @@
+Title: Fiction Practice
+
+----
+
+Price: 16.1
+
+----
+
+Kerns: 1610
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_FictionPractice.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: M0vUaai37TJB7jB4
+
+----
+
+Auto-kerns: true

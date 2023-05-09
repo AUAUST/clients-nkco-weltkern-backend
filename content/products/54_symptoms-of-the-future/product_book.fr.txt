@@ -1,0 +1,29 @@
+Title: SYMPTOMS OF THE FUTURE
+
+----
+
+Price: 17.5
+
+----
+
+Kerns: 1750
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/symptoms-of-the-future.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: jnVga9YHL8Obaf6M
+
+----
+
+Auto-kerns: true

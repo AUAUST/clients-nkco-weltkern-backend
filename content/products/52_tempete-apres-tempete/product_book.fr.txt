@@ -1,0 +1,33 @@
+Title: Tempête après tempête
+
+----
+
+Price: 30.9
+
+----
+
+Kerns: 3090
+
+----
+
+Author: Rebekka Deubner
+
+----
+
+Publisher: APE
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_tempete.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: ltvtnCY6f1qdiWnt
+
+----
+
+Auto-kerns: true

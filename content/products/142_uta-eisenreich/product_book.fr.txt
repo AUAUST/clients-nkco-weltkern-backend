@@ -1,0 +1,33 @@
+Title: Uta Eisenreich
+
+----
+
+Price: 42
+
+----
+
+Kerns: 4200
+
+----
+
+Author: As If
+
+----
+
+Publisher: Roma Publications
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_ASIF.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: FEjonjR79K5YzVXM
+
+----
+
+Auto-kerns: true

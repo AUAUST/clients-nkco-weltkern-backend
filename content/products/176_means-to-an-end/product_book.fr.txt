@@ -1,0 +1,33 @@
+Title: Means to an End
+
+----
+
+Price: 43.9
+
+----
+
+Kerns: 4390
+
+----
+
+Author: Regula Ehrliholzer
+
+----
+
+Publisher: Everyedition
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_RegulaEhrliholzer.jpg
+
+----
+
+Stock: 11
+
+----
+
+Uuid: Ca2Acebb6nXSQMkP
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Masken
+
+----
+
+Price: 28.5
+
+----
+
+Kerns: 2850
+
+----
+
+Author: Michael Etzensperger
+
+----
+
+Publisher: Cpress
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Etzensperger.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: USJrmMWIo2Mp8oK5
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: London Writings 1850–1855
+
+----
+
+Price: 82.6
+
+----
+
+Kerns: 8260
+
+----
+
+Author: Gottfried Semper
+
+----
+
+Publisher: gta Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gottfried-Semper.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: QHXPlV4e8FX5J4SJ
+
+----
+
+Auto-kerns: true

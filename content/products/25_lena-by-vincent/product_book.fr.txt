@@ -1,0 +1,33 @@
+Title: Lena by Vincent
+
+----
+
+Price: 249.5
+
+----
+
+Kerns: 24950
+
+----
+
+Author: P Magazine nº10 “Freedom” E
+
+----
+
+Publisher: Phamilia
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/12/PMAGAZINE_COVER_.jpg
+
+----
+
+Stock: 15
+
+----
+
+Uuid: yPaAU6tq5N3f0aLr
+
+----
+
+Auto-kerns: true

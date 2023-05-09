@@ -1,0 +1,33 @@
+Title: From Swiss Collections
+
+----
+
+Price: 55.4
+
+----
+
+Kerns: 5540
+
+----
+
+Author: European Master Paintings
+
+----
+
+Publisher: MoMA
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2023/01/European-Master-Paintings_COVER_.png
+
+----
+
+Stock: 3
+
+----
+
+Uuid: wml9LJ6yRMQoxASh
+
+----
+
+Auto-kerns: true

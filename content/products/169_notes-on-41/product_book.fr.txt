@@ -1,0 +1,33 @@
+Title: Notes on 41
+
+----
+
+Price: 11.9
+
+----
+
+Kerns: 1190
+
+----
+
+Author: Max Eulitz
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_Noteson41.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: KvYmmHRi6BnlnHct
+
+----
+
+Auto-kerns: true

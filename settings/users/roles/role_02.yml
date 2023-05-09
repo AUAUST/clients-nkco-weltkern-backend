@@ -1,0 +1,58 @@
+title:
+  fr: Stylo Man
+  en: Pen Dude
+
+description:
+  fr: Son stylo est son meilleur ami et l'écriture son seul talent. Tant mieux car c'est tout ce qu'on lui demande.
+  en: His pen is his best friend and writing his only talent. That's good because that's all we ask him.
+
+permissions:
+  access:
+    account: false
+    panel: true
+    site: true
+    languages: false
+    system: false
+    users: false
+  files:
+    create: true
+    changeName: true
+    delete: true
+    read: true
+    replace: true
+    update: true
+  languages:
+    create: false
+    delete: false
+  pages:
+    changeSlug: false
+    changeStatus: true
+    changeTemplate: false
+    changeTitle: true
+    create: true
+    delete: true
+    duplicate: true
+    preview: true
+    read: true
+    sort: true
+    update: true
+  site:
+    changeTitle: false
+    update: false
+  user:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    delete: false
+    update: false
+  users:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    create: false
+    delete: false
+    update: false

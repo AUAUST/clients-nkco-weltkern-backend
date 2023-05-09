@@ -1,0 +1,33 @@
+Title: Monsters in Suits
+
+----
+
+Price: 47.5
+
+----
+
+Kerns: 4750
+
+----
+
+Author: Nicolas Frey
+
+----
+
+Publisher: Edition Patrick Frey
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_monsterinsuit.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: ZXjeCm3zoPuzBTla
+
+----
+
+Auto-kerns: true

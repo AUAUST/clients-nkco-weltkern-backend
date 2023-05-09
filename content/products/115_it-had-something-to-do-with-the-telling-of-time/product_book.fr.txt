@@ -1,0 +1,29 @@
+Title: It Had Something To Do With The Telling Of Time
+
+----
+
+Price: 5.9
+
+----
+
+Kerns: 590
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_It-Had-Something-To-Do-With-The-Telling-Of-Time.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: R2mComVoHCBdfLEQ
+
+----
+
+Auto-kerns: true

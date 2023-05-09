@@ -1,0 +1,29 @@
+Title: Workout
+
+----
+
+Price: 11.5
+
+----
+
+Kerns: 1150
+
+----
+
+Publisher: Cpress
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_workout.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: GLo3oJTqn4Sy8CPa
+
+----
+
+Auto-kerns: true

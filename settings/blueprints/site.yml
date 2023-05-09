@@ -1,5 +1,118 @@
 title: WELTKERN
 
-sections:
-  pages:
-    type: pages
+tabs:
+  index:
+    title: INDEX
+    columns:
+      - width: 1/2
+        sections:
+          __sectionProducts:
+            type: fields
+            fields:
+              __titProducts:
+                type: headline
+                numbered: false
+                label:
+                  fr: "PRODUITS"
+                  en: "PRODUCTS"
+              pageProducts:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Liste des produits"
+                  en: "Products list"
+          __sectionFonts:
+            type: fields
+            fields:
+              __titFonts:
+                type: headline
+                numbered: false
+                label:
+                  fr: "POLICES"
+                  en: "FONTFACES"
+          __sectionConfig:
+            type: fields
+            fields:
+              __titConfig:
+                type: headline
+                numbered: false
+                label:
+                  fr: "CONFIGURATION"
+                  en: "CONFIGURATION"
+      - width: 1/2
+        sections:
+          __sectionPages:
+            type: fields
+            fields:
+              __titPages:
+                type: headline
+                numbered: false
+                label:
+                  fr: "PAGES SPÉCIALES"
+                  en: "SPECIAL PAGES"
+              pageHome:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Page d'accueil"
+                  en: "Home page"
+                width: 1/2
+              pageKerns:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Kerns"
+                  en: "Kerns"
+                width: 1/2
+              pageAbout:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "À propos"
+                  en: "About"
+                width: 1/2
+              pageError:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Erreur"
+                  en: "Error"
+                width: 1/2
+          __sectionBrands:
+            type: fields
+            fields:
+              __titBrands:
+                type: headline
+                numbered: false
+                label:
+                  fr: "MARQUES"
+                  en: "BRANDS"
+          __sectionPeople:
+            type: fields
+            fields:
+              __titPeople:
+                type: headline
+                numbered: false
+                label:
+                  fr: "PERSONNES"
+                  en: "PEOPLE"

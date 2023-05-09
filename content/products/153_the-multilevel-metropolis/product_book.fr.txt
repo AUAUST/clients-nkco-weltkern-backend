@@ -1,0 +1,33 @@
+Title: The Multilevel Metropolis
+
+----
+
+Price: 54.9
+
+----
+
+Kerns: 5490
+
+----
+
+Author: Parallel Cities
+
+----
+
+Publisher: Walker Art Centre
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_PARALLELCITIES.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: 87zuDCJsipoaDz9n
+
+----
+
+Auto-kerns: true

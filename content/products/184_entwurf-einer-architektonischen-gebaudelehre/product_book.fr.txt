@@ -1,0 +1,33 @@
+Title: Entwurf einer architektonischen Gebäudelehre
+
+----
+
+Price: 54.8
+
+----
+
+Kerns: 5480
+
+----
+
+Author: Andreas Lechner
+
+----
+
+Publisher: Park Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_entwurf.jpg
+
+----
+
+Stock: 2
+
+----
+
+Uuid: VYROcNrueUREPqu3
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Union
+
+----
+
+Price: 43.9
+
+----
+
+Kerns: 4390
+
+----
+
+Author: Noel Bowler
+
+----
+
+Publisher: Kehrer Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Noel-Bowler-%E2%80%93-Union.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: wMDqPPhQI4rw3Krk
+
+----
+
+Auto-kerns: true

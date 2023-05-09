@@ -1,0 +1,58 @@
+title:
+  fr: M. Homme
+  en: Mr. Guy
+
+description:
+  fr: La seule chose qui lui manque, c'est le pouvoir d'avoir un impact sur ce qu'il voit.
+  en: The only thing he lacks is the power to have an impact on what he sees.
+
+permissions:
+  access:
+    account: true
+    panel: true
+    site: true
+    languages: false
+    system: false
+    users: false
+  files:
+    create: false
+    changeName: false
+    delete: false
+    read: true
+    replace: false
+    update: false
+  languages:
+    create: false
+    delete: false
+  pages:
+    changeSlug: false
+    changeStatus: false
+    changeTemplate: false
+    changeTitle: v
+    create: false
+    delete: false
+    duplicate: false
+    preview: true
+    read: true
+    sort: false
+    update: false
+  site:
+    changeTitle: false
+    update: false
+  user:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    delete: false
+    update: false
+  users:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    create: false
+    delete: false
+    update: false

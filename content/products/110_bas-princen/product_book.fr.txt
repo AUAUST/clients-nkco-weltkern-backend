@@ -1,0 +1,33 @@
+Title: Bas Princen
+
+----
+
+Price: 49.5
+
+----
+
+Kerns: 4950
+
+----
+
+Author: Wiel Arets
+
+----
+
+Publisher: Hatje Cantz Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Wiel-Arets-%E2%80%93-Bas-Princen.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: 3IYoLosaPon9wVsU
+
+----
+
+Auto-kerns: true

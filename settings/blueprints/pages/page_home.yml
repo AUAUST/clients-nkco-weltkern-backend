@@ -1,0 +1,23 @@
+title:
+  fr: "Page d'accueil"
+  en: "Home page"
+
+tabs:
+  content:
+    fields:
+      text: true
+  seo:
+    fields:
+      metaDescription:
+        label:
+          fr: "Description"
+          en: "Description"
+        type: textarea
+        size: small
+        buttons: false
+        width: 1/2
+      metaRobots: true
+      metaImage: true
+      metaCanonical: true
+      metaRedirect: true
+      metaTags: true

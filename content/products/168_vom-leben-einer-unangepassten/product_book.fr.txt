@@ -1,0 +1,33 @@
+Title: Vom Leben einer Unangepassten
+
+----
+
+Price: 74.5
+
+----
+
+Kerns: 7450
+
+----
+
+Author: Elisabeth Kübler
+
+----
+
+Publisher: Edition Patrick Frey
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_VomLebeneinerUnangepassten_.jpg
+
+----
+
+Stock: 20
+
+----
+
+Uuid: ejjaJ45WNEfNFRrW
+
+----
+
+Auto-kerns: true

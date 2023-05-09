@@ -1,0 +1,33 @@
+Title: DESIRE MAREA: GUCCI SPECIAL
+
+----
+
+Price: 19.9
+
+----
+
+Kerns: 1990
+
+----
+
+Author: KALEIDOSCOPE #39 FW 21-22
+
+----
+
+Publisher: KALEIDOSCOPE
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_K39_G.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: 1zRmOlXg3rwwKlIq
+
+----
+
+Auto-kerns: true

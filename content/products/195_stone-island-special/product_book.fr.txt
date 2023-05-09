@@ -1,0 +1,33 @@
+Title: STONE ISLAND SPECIAL
+
+----
+
+Price: 19.9
+
+----
+
+Kerns: 1990
+
+----
+
+Author: KALEIDOSCOPE #39 FW 21-22
+
+----
+
+Publisher: KALEIDOSCOPE
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_K39_SI.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: rvXoQ00d9vtnvwzc
+
+----
+
+Auto-kerns: true

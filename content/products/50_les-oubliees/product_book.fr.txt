@@ -1,0 +1,29 @@
+Title: Les oubliées
+
+----
+
+Price: 46.9
+
+----
+
+Kerns: 4690
+
+----
+
+Publisher: The Eyes Publishing
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/LES-OUBLIEES.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: HFQF9kxp7BEg1vXT
+
+----
+
+Auto-kerns: true

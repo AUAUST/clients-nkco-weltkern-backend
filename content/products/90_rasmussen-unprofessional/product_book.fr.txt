@@ -1,0 +1,33 @@
+Title: Rasmussen Unprofessional
+
+----
+
+Price: 47.9
+
+----
+
+Kerns: 4790
+
+----
+
+Author: Matilde Søes
+
+----
+
+Publisher: Disko Bay
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Matilde-Soes-Rasmussen.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: IjIP3h1GLzjXiv6Q
+
+----
+
+Auto-kerns: true

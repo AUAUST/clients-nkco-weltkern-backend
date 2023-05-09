@@ -1,0 +1,33 @@
+Title: Erste Hilfe
+
+----
+
+Price: 59.5
+
+----
+
+Kerns: 5950
+
+----
+
+Author: Stanislaus von Moos
+
+----
+
+Publisher: gta Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Stanislaus-von-Moos.jpg
+
+----
+
+Stock: 8
+
+----
+
+Uuid: Au0diPlCKbJfiXpo
+
+----
+
+Auto-kerns: true

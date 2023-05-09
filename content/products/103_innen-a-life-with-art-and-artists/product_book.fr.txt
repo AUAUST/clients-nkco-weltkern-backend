@@ -1,0 +1,33 @@
+Title: innen / A Life with Art and Artists
+
+----
+
+Price: 28.9
+
+----
+
+Kerns: 2890
+
+----
+
+Author: Ein Leben mit Kunst und Künstler
+
+----
+
+Publisher: Edition Patrick Frey
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_einleben.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: ELrPraaZ1i4Og3Em
+
+----
+
+Auto-kerns: true

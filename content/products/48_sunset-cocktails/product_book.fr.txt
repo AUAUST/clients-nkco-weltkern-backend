@@ -1,0 +1,33 @@
+Title: Sunset Cocktails
+
+----
+
+Price: 16.5
+
+----
+
+Kerns: 1650
+
+----
+
+Author: Guillaume Aubry & Sterling Hudson
+
+----
+
+Publisher: JBE BOOKS
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/sunset-coktail-1.jpg
+
+----
+
+Stock: 14
+
+----
+
+Uuid: LcoG8A0LbKiOz9To
+
+----
+
+Auto-kerns: true

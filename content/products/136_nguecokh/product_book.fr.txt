@@ -1,0 +1,33 @@
+Title: Nguecokh
+
+----
+
+Price: 37.9
+
+----
+
+Kerns: 3790
+
+----
+
+Author: Tom Huber
+
+----
+
+Publisher: Cpress
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_TomHuber.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: FGv1mIWJH2foHJBI
+
+----
+
+Auto-kerns: true

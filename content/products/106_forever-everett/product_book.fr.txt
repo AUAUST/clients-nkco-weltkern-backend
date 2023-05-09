@@ -1,0 +1,29 @@
+Title: Forever Everett
+
+----
+
+Price: 21.9
+
+----
+
+Kerns: 2190
+
+----
+
+Publisher: WELTKERN®
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_FOREVEREVERETT-cover.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: UkLapxOlq7wCEAGH
+
+----
+
+Auto-kerns: true

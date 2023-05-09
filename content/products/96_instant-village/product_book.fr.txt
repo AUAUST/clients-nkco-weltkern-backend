@@ -1,0 +1,33 @@
+Title: Instant Village
+
+----
+
+Price: 19.9
+
+----
+
+Kerns: 1990
+
+----
+
+Author: Simona Rota
+
+----
+
+Publisher: Fabulatorio
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Simona-Rota-Instant-Village.jpg
+
+----
+
+Stock: 18
+
+----
+
+Uuid: ZUmPCRTevDexTur3
+
+----
+
+Auto-kerns: true

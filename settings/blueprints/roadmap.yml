@@ -1,0 +1,199 @@
+title: List of contents
+
+specialPages:
+  homepage:
+    hero:
+      types:
+        - produit # choisir produit, sert pour générer data
+        - image # image + lien manuels
+        - video # video + lien manuels
+      image:
+        link:
+        linkText:
+        image|video:
+        background: # couleur ou image
+      produit:
+        product: # ref. produit
+        linkText?: # titre custom ou fallback sur le nom du produit
+        image|video?: # image custom ou fallback sur la cover du produit
+        background: # couleur ou image
+
+  errorpage:
+  index:
+
+products:
+  cover:
+  description:
+
+  # contenu facultatif et complémentaire
+  # permettant une plus grande liberté éditiriale
+  markdownDescription?:
+
+  # typo vendue sur WK qui est utilisée dans le produit
+  # role de "tag"
+  fontInUse?:
+
+  tags:
+    - achi
+    - … # checker sur WK
+
+  brand:
+  people:
+
+  # produits similaires,
+  # sélectionnés manuellement
+  referred:
+
+  # produits qui matchent
+  # détectés automatiquement
+  related:
+    "0": byBrand
+    "1": byPeople
+    "2": byTags
+
+fontsInUse:
+  # fontes utilisées dans le font in use pour connecter à la type related
+  fontInUse:
+  # fontes non-WK utilisées dans le font in use
+  # lien externe
+  otherFonts:
+
+  # designer du font in use
+  designer:
+
+  # markup qui contient les images et la description du fiu
+  markdownDescription:
+
+  # images liées
+  images:
+
+  tags:
+    - book
+    - banding
+    - packaging
+    - …
+
+index:
+  brands:
+
+  people:
+
+# "mur" de marque, grille contenant toutes les marques
+# avec un logo, le nom, une description
+# et tous les produits liés à la marque
+brands:
+  logo:
+  description:
+
+  # page détaillant les marques ou personnes
+  # infos sur les produits
+  infos:
+
+  # tous les produits liés à la marque
+  # qu'ils soient produits ou curaté par elle
+  products:
+
+  # si la marque produit des types,
+  # sections/liste de ces types
+  types:
+
+# "mur" de personnes, grille contenant toutes les personnes/designers
+people:
+  profilePic:
+  description:
+
+  # page détaillant les marques ou personnes
+  # infos sur les produits
+  infos:
+
+  # tous les produits liés à la marque
+  # qu'ils soient produits ou curaté par elle
+  products:
+
+  # si la marque produit des types,
+  # sections/liste de ces types
+  types:
+
+fonts:
+  # ref. dinamo pour la structure
+
+  # cover:
+
+  description:
+
+  typetester:
+    # fichier à utiliser dans le typetester
+    file:
+    defaults:
+      fontSize:
+      fontWeight:
+      text:
+
+  # fontInUse: # les font in use sont automatiquement détectés et associés
+
+users:
+  pseudo:
+  email:
+  password:
+
+  adress:
+    country:
+    state:
+    city:
+    zip:
+    street:
+    number:
+
+  kerns:
+  level:
+  xp:
+
+  orders:
+
+  actions:
+    giveKerns:
+    takeKerns:
+
+    sendEmail:
+
+communications:
+  offers:
+  releases:
+
+  byCountry:
+  byState:
+
+  mailchimp?:
+
+  newsletter:
+
+# config pour les settings généraux du site
+# p.ex. rareté, levels, etc.
+config:
+  rarity:
+    - id: 0
+      name: Common
+      visible: false
+      color: #hex
+      advantages:
+        bonuxXp:
+          type: percentage
+        insuredShipping:
+          type: boolean
+    - id: 1
+      name: Uncommon
+      # …
+  levels:
+    - id: 0
+      name: Regular
+      color: #hex
+      advantages:
+        freeShipping:
+          type: boolean
+        collectKerns: …
+          type: percentage
+        bonusKerns: …
+
+    - id: 1
+      name: Medium
+      # …

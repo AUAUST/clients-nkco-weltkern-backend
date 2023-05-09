@@ -1,0 +1,33 @@
+Title: Negatives: Scans
+
+----
+
+Price: 43.5
+
+----
+
+Kerns: 4350
+
+----
+
+Author: Xu Yong
+
+----
+
+Publisher: Distanz
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Negatives-Scans.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: AZbXBlE0WhhGjSGD
+
+----
+
+Auto-kerns: true

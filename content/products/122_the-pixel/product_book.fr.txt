@@ -1,0 +1,33 @@
+Title: The Pixel
+
+----
+
+Price: 9.9
+
+----
+
+Kerns: 990
+
+----
+
+Author: RESOLUTION Magazine #0
+
+----
+
+Publisher: Onomatopee
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_RESOLUTIONmagazineThePixel.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: 8inCZ3QQnBatKnnj
+
+----
+
+Auto-kerns: true

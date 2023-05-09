@@ -1,0 +1,33 @@
+Title: Siggie
+
+----
+
+Price: 29.9
+
+----
+
+Kerns: 2990
+
+----
+
+Author: Lisbet Nielsen
+
+----
+
+Publisher: Disko Bay
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Lisbet-Nielsen.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: n1VZmNUh4AH1OZNc
+
+----
+
+Auto-kerns: true

@@ -1,0 +1,33 @@
+Title: Hiver 2021-22
+
+----
+
+Price: 15
+
+----
+
+Kerns: 1500
+
+----
+
+Author: Flash Art n° 337
+
+----
+
+Publisher: Flash Art
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_FlashArtn%C2%B0337%E2%80%93Hiver2021-22-1.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: I6mdOgiWHO74HAkF
+
+----
+
+Auto-kerns: true

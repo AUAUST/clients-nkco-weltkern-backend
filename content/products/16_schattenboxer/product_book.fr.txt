@@ -1,0 +1,33 @@
+Title: Schattenboxer
+
+----
+
+Price: 57.9
+
+----
+
+Kerns: 5790
+
+----
+
+Author: Paradoxer
+
+----
+
+Publisher: Edition Patrick Frey
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2023/01/Paradoxer-Schattenboxer_COVER_.jpg
+
+----
+
+Stock: 4
+
+----
+
+Uuid: skLYDpjNaKdlayZt
+
+----
+
+Auto-kerns: true

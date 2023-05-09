@@ -1,0 +1,33 @@
+Title: Tour
+
+----
+
+Price: 39.9
+
+----
+
+Kerns: 3990
+
+----
+
+Author: Louis Canadas
+
+----
+
+Publisher: Les Éditions Secondes
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_LouisCanadas.jpg
+
+----
+
+Stock: 9
+
+----
+
+Uuid: peg9SOrVJXHFmKCJ
+
+----
+
+Auto-kerns: true

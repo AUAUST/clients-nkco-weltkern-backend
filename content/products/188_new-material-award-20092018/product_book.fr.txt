@@ -1,0 +1,29 @@
+Title: New Material Award 2009–2018
+
+----
+
+Price: 19.7
+
+----
+
+Kerns: 1970
+
+----
+
+Publisher: Het Nieuwe Instituut
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_NewMaterialAward-1.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: WFIAPTi21jKy2kdT
+
+----
+
+Auto-kerns: true

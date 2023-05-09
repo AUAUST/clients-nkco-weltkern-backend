@@ -1,0 +1,29 @@
+Title: I don't need a cloak to become invisible
+
+----
+
+Price: 52.5
+
+----
+
+Kerns: 5250
+
+----
+
+Publisher: Spector Books
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2023/01/I-dont-need-a-cloak_COVER_.jpg
+
+----
+
+Stock: 11
+
+----
+
+Uuid: Y2A8fgHkD9khJycR
+
+----
+
+Auto-kerns: true

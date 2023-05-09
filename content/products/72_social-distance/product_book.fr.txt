@@ -1,0 +1,33 @@
+Title: Social Distance
+
+----
+
+Price: 24.2
+
+----
+
+Kerns: 2420
+
+----
+
+Author: gta papers 5
+
+----
+
+Publisher: gta Verlag
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_gta-papers-5.jpg
+
+----
+
+Stock: 14
+
+----
+
+Uuid: QlQAGMgnnUFY70SI
+
+----
+
+Auto-kerns: true

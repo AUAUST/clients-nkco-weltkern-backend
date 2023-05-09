@@ -1,0 +1,33 @@
+Title: Vegyn
+
+----
+
+Price: 19.3
+
+----
+
+Kerns: 1930
+
+----
+
+Author: KALEIDOSCOPE #41 FW22
+
+----
+
+Publisher: KALEIDOSCOPE
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/12/K41-Cover-2_COVER_.jpg
+
+----
+
+Stock: 12
+
+----
+
+Uuid: AI2HkJHmcAyABbO0
+
+----
+
+Auto-kerns: true

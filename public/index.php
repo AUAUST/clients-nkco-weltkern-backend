@@ -31,6 +31,7 @@ echo (new Kirby([
     "logs"        =>             $system . "/logs",
 
     "settings"    => $settings = $base . "/settings",
+    "languages"   =>             $settings . "/languages",
     "blueprints"  =>             $settings . "/blueprints",
     "config"      => $config   = $settings . "/config",
     "license"     =>             $config . "/.license",

@@ -1,0 +1,33 @@
+Title: Opaque Surfaces
+
+----
+
+Price: 33.9
+
+----
+
+Kerns: 3390
+
+----
+
+Author: Michail Pirgelis
+
+----
+
+Publisher: Buchhandlung Walther König
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_OpaqueSurfaces.jpg
+
+----
+
+Stock: 5
+
+----
+
+Uuid: YeOvZu2ZkJENOEBn
+
+----
+
+Auto-kerns: true

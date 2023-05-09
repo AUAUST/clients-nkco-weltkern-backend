@@ -1,0 +1,65 @@
+fields:
+  brand:
+    type: text
+    width: 1/2
+  price:
+    translate: false
+    label:
+      fr: Prix
+      en: Price
+    type: number
+    step: 0.05
+    min: 0
+    after:
+      fr: CHF
+      en: ""
+    before:
+      fr: ""
+      en: "CHF"
+    width: 1/2
+
+  auto_kerns:
+    translate: false
+    label:
+      fr: Kerns automatiques
+      en: Auto kerns
+    type: toggle
+    default: true
+    width: 1/2
+    text:
+      - fr: "Non"
+        en: "No"
+      - fr: "Oui"
+        en: "Yes"
+  kerns:
+    translate: false
+    label: Kerns
+    type: number
+    step: 1
+    min: 0
+    after: "K+"
+    placeholder: "{{ page.kerns ?? 0}}"
+    when:
+      auto_kerns: false
+    width: 1/2
+  __spacer:
+    type: gap
+    width: 1/2
+    when:
+      auto_kerns: true
+  image:
+    translate: false
+    type: url
+    label:
+      fr: Image
+      en: Image
+    width: 1/2
+  stock:
+    translate: false
+    label:
+      fr: Stock
+      en: Stock
+    type: number
+    step: 1
+    min: 0
+    width: 1/2

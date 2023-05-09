@@ -1,0 +1,33 @@
+Title: Quotes from the Creative Voices of our Time
+
+----
+
+Price: 29.9
+
+----
+
+Kerns: 2990
+
+----
+
+Author: The Talks – No Idea Is Final
+
+----
+
+Publisher: Phaidon Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_thetalk.jpg
+
+----
+
+Stock: 1
+
+----
+
+Uuid: 8DwFjf7Qz6w84fWj
+
+----
+
+Auto-kerns: true

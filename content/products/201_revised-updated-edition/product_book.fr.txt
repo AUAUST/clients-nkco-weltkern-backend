@@ -1,0 +1,33 @@
+Title: Revised & Updated Edition
+
+----
+
+Price: 52.1
+
+----
+
+Kerns: 5210
+
+----
+
+Author: The Garden Book
+
+----
+
+Publisher: Phaidon Press
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_GardenBook.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: iEiMgpdiCEKu24U6
+
+----
+
+Auto-kerns: true
