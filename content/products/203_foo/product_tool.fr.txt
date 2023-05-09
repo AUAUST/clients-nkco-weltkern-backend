@@ -1,0 +1,25 @@
+Title: Foo
+
+----
+
+Brand: Bar
+
+----
+
+Price: 0
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Incidents.jpg
+
+----
+
+Stock: 0
+
+----
+
+Uuid: hbNh92zKZIUQRqwu
