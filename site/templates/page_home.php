@@ -3,6 +3,8 @@
 use Kirby\Cms\Response;
 use Kirby\Data\Json;
 
+use FontLib\Font;
+
 // Product's data
 $data = [
   "title" => $title = $site->title()->toString(),
@@ -32,5 +34,20 @@ $response = Response::json(
 
 // Send the response
 $response->send();
+
+?>
+
+<?php
+
+$font = Font::load(__DIR__ . '/TWKLausanne-500.otf');
+$font->parse(); // for getFontWeight() to work this call must be done first!
+echo $font->getFontName() . '<br>';
+echo $font->getFontSubfamily() . '<br>';
+echo $font->getFontSubfamilyID() . '<br>';
+echo $font->getFontFullName() . '<br>';
+echo $font->getFontVersion() . '<br>';
+echo $font->getFontWeight() . '<br>';
+echo $font->getFontPostscriptName() . '<br>';
+$font->close();
 
 ?>
