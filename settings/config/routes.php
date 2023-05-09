@@ -25,6 +25,11 @@ return [
       if ($product) {
         return site()->visit($product, $lang);
       }
+
+      return Response::json([
+        "message" => "Not found",
+        "searchId" => $id,
+      ], 404);
     }
   ],
 ];
