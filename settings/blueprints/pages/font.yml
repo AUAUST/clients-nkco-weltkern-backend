@@ -4,7 +4,15 @@ title:
 
 tabs:
   all:
-    sections:
-      cuts:
-        type: files
-        label: Cuts
+    columns:
+      - width: 1/2
+        sections:
+          __sectionMeta:
+            type: fields
+
+      - width: 1/2
+        sections:
+          __sectionCuts:
+            type: files
+            label: Cuts
+            template: font

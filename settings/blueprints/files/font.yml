@@ -1,0 +1,10 @@
+title:
+  fr: Fonte
+  en: Font
+
+accept:
+  extension:
+    - ttf
+    - otf
+    - woff
+    - woff2
