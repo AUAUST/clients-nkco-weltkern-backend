@@ -57,4 +57,5 @@
 
 ?>
 
-<?= $page->intendedTemplate() ?>
+<?= $page->intendedTemplate() ?><br>
+<?= $page->uuid() ?>
