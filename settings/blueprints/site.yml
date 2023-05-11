@@ -36,6 +36,7 @@ tabs:
                   en: "FONTFACES"
               pageFonts:
                 type: pages
+                width: 1/2
                 required: true
                 multiple: false
                 translate: false
@@ -44,6 +45,17 @@ tabs:
                 label:
                   fr: "Liste des polices"
                   en: "Fontfaces list"
+              pageFontsSettings:
+                type: pages
+                width: 1/2
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Paramètres des polices"
+                  en: "Fontfaces settings"
           __sectionConfig:
             type: fields
             fields:

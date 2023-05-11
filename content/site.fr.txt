@@ -10,6 +10,10 @@ Pagefonts: - page://pqhBHiO60WWCE9SF
 
 ----
 
+Pagefontssettings: - page://v92seFbQk17QBGbT
+
+----
+
 Pagehome: - page://r7B7QwhbFuuV3o6G
 
 ----
