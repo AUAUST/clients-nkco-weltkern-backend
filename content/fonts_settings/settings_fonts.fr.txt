@@ -2,4 +2,22 @@ Title: Réglages généraux des polices
 
 ----
 
+Texts:
+
+- 
+  text: 'Weltkern > Optimo'
+- 
+  text: >
+    Lorem ipsum dolor sit amet consectetur
+    adipisicing elit. Porro doloribus
+    officiis voluptatum. Inventore
+    recusandae sapiente accusamus tempora
+    nostrum rem sequi, quas, eveniet,
+    facilis obcaecati assumenda quisquam.
+    Amet labore quae adipisci?
+- 
+  text: Hello World
+
+----
+
 Uuid: v92seFbQk17QBGbT
