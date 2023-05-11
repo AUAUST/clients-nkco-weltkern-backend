@@ -1,0 +1,25 @@
+title:
+  fr: Réglages généraux des polices
+  en: General fonts settings
+
+tabs:
+  texts:
+    label:
+      fr: Textes
+      en: Texts
+    fields:
+      texts:
+        type: structure
+        label:
+          fr: Lignes de texte
+          en: Texts lines
+        help:
+          fr: |
+            Lignes de texte à afficher aléatoirement dans les pages de polices.
+        fields:
+          text:
+            type: textarea
+            label:
+              fr: Texte
+              en: Text
+            buttons: false
