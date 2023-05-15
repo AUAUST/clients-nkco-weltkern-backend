@@ -59,8 +59,11 @@
 
 <?= $page->intendedTemplate() ?><br>
 <?= $page->uuid() ?><br>
-<?php
-dump($page->content()->get("files")->blurhash())
+<?=
+$page->content()->get("files")->toFile()->blurhash()
 ?><br>
+<?php
+dump($kirby->plugins())
+?>
 
 <!-- <?= $page->file()->blurhash() ?> -->

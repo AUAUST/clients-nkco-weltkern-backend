@@ -19,7 +19,8 @@
     "php": ">=8.0.0 <8.3.0",
     "getkirby/cms": "^3.9",
     "phenx/php-font-lib": "^0.5.4",
-    "kornrunner/blurhash": "^1.2"
+    "kornrunner/blurhash": "^1.2",
+    "tobimori/kirby-blurhash": "^1.2"
   },
   "config": {
     "allow-plugins": {

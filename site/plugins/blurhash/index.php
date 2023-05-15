@@ -1,52 +1,48 @@
 <?php
 
-use Kirby\Cms\App as Kirby;
-use kornrunner\Blurhash\Blurhash;
+@include_once __DIR__ . '/vendor/autoload.php';
 
+use Kirby\Cms\App;
+use tobimori\BlurHash;
 
-
-Kirby::plugin('auaust/blurhash', [
-  "options" => [
-    "blurWidth" => 4,
-    "blurHeight" => 4,
+App::plugin('tobimori/blurhash', [
+  'fileMethods' => [
+    /** @kql-allowed */
+    'blurhash' => fn (float|null $ratio = null) => BlurHash::encode($this, $ratio),
+    /** @kql-allowed */
+    'bh' => fn (float|null $ratio = null) => $this->blurhash($ratio),
+    /** @kql-allowed */
+    'blurhashUri' => fn (float|null $ratio = null) => BlurHash::blur($this, $ratio),
+    /** @kql-allowed */
+    'bhUri' => fn (float|null $ratio = null) => $this->blurhashUri($ratio),
+    /** @kql-allowed */
+    'blurhashColor' => fn (float|null $ratio = null) => BlurHash::averageColor($this, $ratio),
+    /** @kql-allowed */
+    'bhColor' => fn (float|null $ratio = null) => $this->blurhashColor($ratio),
   ],
-  "fieldMethods" => [
-    "blurhash" => function ($field, $blurWidth = null, $blurHeight = null) {
-
-      if (!($file = $field->toFile())) {
-        throw new Exception("Field is not a file");
-      }
-
-      if (!($file->type() === "image")) {
-        throw new Exception("File is not an image");
-      }
-
-      $image = imagecreatefromstring($file->read());
-      $imageWidth = imagesx($image);
-      $imageHeight = imagesy($image);
-
-      $pixels = [];
-
-      for ($y = 0; $y < $imageHeight; $y++) {
-        $row = [];
-
-        for ($x = 0; $x < $imageWidth; $x++) {
-          // $index = imagecolorat($image, $x, $y);
-          // $colors = imagecolorsforindex($image, $index);
-
-          // $row[] = [$colors['red'], $colors['green'], $colors['blue']];
-          $row[] = [0, 0, 0];
-        }
-
-        $pixels[] = $row;
-      }
-
-      imagedestroy($image);
-
-      $blurWidth = $blurWidth ?? option("auaust.blurhash.blurWidth");
-      $blurHeight = $blurHeight ?? option("auaust.blurhash.blurHeight");
-
-      return Blurhash::encode($pixels, $blurWidth, $blurHeight);
-    }
+  'assetMethods' => [
+    /** @kql-allowed */
+    'blurhash' => fn (float|null $ratio = null) => BlurHash::encode($this, $ratio),
+    /** @kql-allowed */
+    'bh' => fn (float|null $ratio = null) => $this->blurhash($ratio),
+    /** @kql-allowed */
+    'blurhashUri' => fn (float|null $ratio = null) => BlurHash::blur($this, $ratio),
+    /** @kql-allowed */
+    'bhUri' => fn (float|null $ratio = null) => $this->blurhashUri($ratio),
+    /** @kql-allowed */
+    'blurhashColor' => fn (float|null $ratio = null) => BlurHash::averageColor($this, $ratio),
+    /** @kql-allowed */
+    'bhColor' => fn (float|null $ratio = null) => $this->blurhashColor($ratio),
+  ],
+  'options' => [
+    'cache.encode' => true,
+    'cache.decode' => true,
+    'sampleMaxSize' => 100, // Max width or height for smaller image that gets encoded (Memory constraints)
+    'componentsTarget' => 12, // Max number of components for encoding (x*y <= ~P)
+    'decodeTarget' => 100, // Pixel Target (width * height = ~P) for decoding
+  ],
+  'hooks' => [
+    'file.update:before' => fn ($file) => BlurHash::clearCache($file),
+    'file.replace:before' => fn ($file) => BlurHash::clearCache($file),
   ]
 ]);
