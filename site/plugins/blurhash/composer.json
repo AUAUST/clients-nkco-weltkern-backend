@@ -1,0 +1,12 @@
+{
+  "name": "auaust/blurhash",
+  "description": "A Kirby Plugin to facilitate the use of the Blurhash aaalgorithm.",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AUAUST",
+      "email": "hello@auaust.ch"
+    }
+  ],
+  "require": {}
+}
