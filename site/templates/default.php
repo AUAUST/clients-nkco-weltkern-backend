@@ -58,4 +58,9 @@
 ?>
 
 <?= $page->intendedTemplate() ?><br>
-<?= $page->uuid() ?>
+<?= $page->uuid() ?><br>
+<?php
+dump($page->content()->get("files")->blurhash())
+?><br>
+
+<!-- <?= $page->file()->blurhash() ?> -->

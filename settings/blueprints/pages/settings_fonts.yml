@@ -23,3 +23,4 @@ tabs:
               fr: Texte
               en: Text
             buttons: false
+      files: true
