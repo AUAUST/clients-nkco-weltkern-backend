@@ -2,19 +2,19 @@ Title: Archival Constellations
 
 ----
 
+Brand: 
+
+----
+
 Price: 45.5
 
 ----
 
+Auto-kerns: true
+
+----
+
 Kerns: 4550
-
-----
-
-Author: IKONAR
-
-----
-
-Publisher: Spector Books
 
 ----
 
@@ -26,8 +26,12 @@ Stock: 1
 
 ----
 
-Uuid: fCNzigbvRdL0b3fS
+Author: IKONAR
 
 ----
 
-Auto-kerns: true
+Publisher: Spector Books
+
+----
+
+Uuid: fCNzigbvRdL0b3fS
