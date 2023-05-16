@@ -24,11 +24,6 @@ return [
 
       // Render the product if it exists
       if ($product) {
-        return Response::json([
-          "message" => "OK",
-          "searchId" => $id,
-          "product" => $product->toArray()
-        ], 410);
         return site()->visit($product, $lang);
       }
 

@@ -15,7 +15,7 @@ Kirby::plugin('auaust/fetchFile', [
       bool $overwrite = true
     ) {
 
-      $response = Remote::get($url . "sjkldjaslkdjas");
+      $response = Remote::get($url);
 
       if ($response->code() !== 200) {
         throw new Exception('Could not fetch image: Code ' . $response->code());
