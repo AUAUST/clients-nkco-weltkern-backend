@@ -7,6 +7,8 @@ use Kirby\Data\Json;
 
 // Cover image
 // Get the cover image from the page's files
+
+
 if (!($cover = $page->cover()->toFile())) {
 
   // If the page doesn't have a cover image, try to fetch the image from the content url if any
@@ -14,9 +16,11 @@ if (!($cover = $page->cover()->toFile())) {
   if (
     $cover = $page->fetchFile($url, $page->slug(), null, true, "image")
   ) {
+
+
     // If the image was fetched, update the page's cover field
     $page->update([
-      "cover" => $cover
+      "cover" => [$cover]
     ]);
   } else {
     // Otherwise, there's no cover available
