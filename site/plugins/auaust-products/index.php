@@ -1,6 +1,7 @@
 <?php
 
 use Kirby\Cms\App as Kirby;
+use AUAUST\WK1;
 
 // Load the ProductsPage model class
 load([
