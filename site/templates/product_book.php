@@ -28,7 +28,7 @@ $data = [
   "author" => $page->author()->toString(),
   "publisher" => $page->publisher()->toString(),
   "href" => $page->url(),
-  "cover" => $cover ? $cover->url() : null,
+  "src" => $cover ? $cover->url() : null,
 
 
   "remaining" => (function ($page) {
