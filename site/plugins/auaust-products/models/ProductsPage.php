@@ -6,6 +6,6 @@ class ProductsPage extends Page
 {
   public function cover()
   {
-    return $this->images()->first();
+    return "The page model is working!";
   }
 }

@@ -1,1 +1,1 @@
-I'm the products page
+<?= $page->cover(); ?>
