@@ -14,8 +14,6 @@ $data = [
     "simple" => $site->titleSimple()->toString() ?: $title,
   ],
   "slogan" => $site->slogan()->toString(),
-
-
 ];
 
 // JSON string
