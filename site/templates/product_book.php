@@ -20,7 +20,7 @@ if (!($cover = $page->cover()->toFile())) {
 
     // If the image was fetched, update the page's cover field
     $page->update([
-      "cover" => [$cover]
+      "cover" => [$cover->uuid()->toString()]
     ]);
   } else {
     // Otherwise, there's no cover available
