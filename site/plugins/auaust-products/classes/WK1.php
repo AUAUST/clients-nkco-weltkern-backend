@@ -36,4 +36,33 @@ class WK1
 
     return $quantity;
   }
+
+  public static function products(int $quantity = null)
+  {
+    $kirby = kirby();
+
+    // Try to get the products from the cache to not wait WK-time
+    $cache = $kirby->cache('auaust.products.wk1');
+
+    $quantity ??= self::productsQuantity();
+
+    if (($cachedProducts = $cache->get('products')) !== null) {
+      return $cachedProducts;
+    }
+
+    // Get the products from the API
+    $response = Remote::get("https://api.weltkern.com/wp-json/custom-routes/v1/products?amount=$quantity");
+
+    if ($response->code() !== 200) {
+      return [];
+    }
+
+    // API response is a JSON string
+    $products = json_decode($response->content(), true);
+
+    // Cache the products
+    $cache->set('products', $products);
+
+    return $products;
+  }
 }
