@@ -6,9 +6,9 @@ use Kirby\Filesystem\Dir;
 use Kirby\Filesystem\F;
 
 
-Kirby::plugin('auaust/fetchimage', [
+Kirby::plugin('auaust/fetchFile', [
   'pageMethods' => [
-    'fetchImage' => function (
+    'fetchFile' => function (
       string $url,
       string|null $fileName = null,
       $template = null,

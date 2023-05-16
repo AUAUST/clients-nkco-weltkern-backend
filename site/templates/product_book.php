@@ -8,7 +8,7 @@ use Kirby\Data\Json;
 // Cover image
 if (!($cover = $page->cover()->toFile())) {
   $url = $page->content()->get("image")->toString();
-  $cover = $page->fetchImage($url, $page->slug());
+  $cover = $page->fetchFile($url, $page->slug());
 };
 
 // Product's data
