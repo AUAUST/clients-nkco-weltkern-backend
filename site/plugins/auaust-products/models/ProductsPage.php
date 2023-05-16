@@ -1,12 +1,14 @@
 <?php
 
 use Kirby\Cms\Page;
-use Kirby\Http\Remote;
+
+use AUAUST\WK1;
 
 class ProductsPage extends Page
 {
   public function cover()
   {
-    return "The page model is working and Weltkern has {$this->getWeltkernProductsQuantity()} products.";
+    $quantity = WK1::productsQuantity();
+    return "The page model is working and Weltkern has {$quantity} products.";
   }
 }
