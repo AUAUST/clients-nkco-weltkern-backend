@@ -1,1 +1,1 @@
-<?= $page->cover(); ?>
+<?= json_encode($page->cover()); ?>

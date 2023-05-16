@@ -10,7 +10,7 @@ class ProductsPage extends Page
 {
   public function cover()
   {
-    $quantity = WK1::productsQuantity();
-    return "The page model is working and Weltkern has {$quantity} products.";
+    // $quantity = WK1::productsQuantity();
+    return WK1::products();
   }
 }

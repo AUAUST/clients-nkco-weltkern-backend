@@ -19,7 +19,9 @@ class WK1
     }
 
     // Get the quantity from the API
-    $response = Remote::get("https://api.weltkern.com/wp-json/custom-routes/v1/products/total");
+    $response = Remote::get("https://api.weltkern.com/wp-json/custom-routes/v1/products/total", [
+      'timeout' => 0,
+    ]);
 
     if ($response->code() !== 200) {
       return 0;
@@ -51,7 +53,9 @@ class WK1
     }
 
     // Get the products from the API
-    $response = Remote::get("https://api.weltkern.com/wp-json/custom-routes/v1/products?amount=$quantity");
+    $response = Remote::get("https://api.weltkern.com/wp-json/custom-routes/v1/products?amount=$quantity", [
+      'timeout' => 0,
+    ]);
 
     if ($response->code() !== 200) {
       return [];
