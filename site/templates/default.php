@@ -60,10 +60,6 @@
 <?= $page->intendedTemplate() ?><br>
 <?= $page->uuid() ?><br>
 <?=
-$page->content()->get("files")->toFile()->blurhash()
+""
+// $page->content()->get("files")->toFile()->blurhash()
 ?><br>
-<?php
-dump($kirby->plugins())
-?>
-
-<!-- <?= $page->file()->blurhash() ?> -->
