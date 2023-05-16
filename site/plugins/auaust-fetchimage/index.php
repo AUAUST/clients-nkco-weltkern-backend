@@ -12,6 +12,7 @@ Kirby::plugin('auaust/fetchimage', [
       string $url,
       string|null $fileName = null,
       $template = null,
+      bool $overwrite = true
     ) {
 
 
@@ -44,6 +45,11 @@ Kirby::plugin('auaust/fetchimage', [
       file_put_contents($temppath, $response->content());
 
       if ($file = $this->file($fileName)) {
+
+        if ($overwrite === false) {
+          return $file;
+        }
+
         $file->replace($temppath);
       } else {
         $file = $this->createFile([
@@ -54,7 +60,8 @@ Kirby::plugin('auaust/fetchimage', [
         ]);
       }
 
-      // F::remove($temppath);
+      F::remove($temppath);
+
       return $file;
     }
   ],
