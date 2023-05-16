@@ -1,11 +1,6 @@
 <?php
 
-use Kirby\Cms\File;
-use Kirby\Cms\Files;
 use Kirby\Cms\Response;
-use Kirby\Data\Json;
-use Kirby\Http\Remote;
-use Kirby\Toolkit\Str;
 
 return [
   [
