@@ -6,9 +6,16 @@ use Kirby\Data\Json;
 // $page is the product page
 
 // Cover image
+// Get the cover image from the page's files
 if (!($cover = $page->cover()->toFile())) {
+
+  // If the page doesn't have a cover image, try to fetch the image from the content url if any
   $url = $page->content()->get("image")->toString();
-  $cover = $page->fetchFile($url, $page->slug());
+  if (!($cover = $page->fetchFile($url, $page->slug()))) {
+
+    // Otherwise, there's no cover available
+    $cover = null;
+  }
 };
 
 // Product's data
@@ -17,7 +24,7 @@ $data = [
   "author" => $page->author()->toString(),
   "publisher" => $page->publisher()->toString(),
   "href" => $page->url(),
-  "cover" => $cover->url(),
+  "cover" => $cover ? $cover->url() : null,
 
 
   "remaining" => (function ($page) {
