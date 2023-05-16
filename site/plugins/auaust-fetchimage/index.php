@@ -21,8 +21,13 @@ Kirby::plugin('auaust/fetchimage', [
         throw new Exception('Could not fetch image: Code ' . $response->code());
       }
 
+
       $fileName ??= basename($url);
-      $fileExtension = pathinfo($fileName, PATHINFO_EXTENSION);
+      // Trim extension, as it's determined by the source URL
+      $fileName = pathinfo($fileName, PATHINFO_FILENAME);
+
+      $fileExtension = pathinfo($url, PATHINFO_EXTENSION);
+
 
       $cacheRootPath = kirby()->root('cache');
 
@@ -45,12 +50,13 @@ Kirby::plugin('auaust/fetchimage', [
         $file = $this->createFile([
           'parent' => $this,
           'source' => $temppath,
-          'filename' => $fileName,
+          'filename' => $fileName . '.' . $fileExtension,
           'template' => $template
         ]);
       }
 
       // F::remove($temppath);
+      return $file;
     }
   ],
 ]);
