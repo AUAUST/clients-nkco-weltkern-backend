@@ -28,7 +28,6 @@ Kirby::plugin('auaust/fetchimage', [
 
       $fileExtension = pathinfo($url, PATHINFO_EXTENSION);
 
-
       $cacheRootPath = kirby()->root('cache');
 
       $temppath = sprintf(

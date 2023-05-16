@@ -5,12 +5,19 @@ use Kirby\Data\Json;
 
 // $page is the product page
 
+// Cover image
+if (!($cover = $page->cover()->toFile())) {
+  $url = $page->content()->get("image")->toString();
+  $cover = $page->fetchImage($url, $page->slug());
+};
+
 // Product's data
 $data = [
   "name" => $page->title()->toString(),
   "author" => $page->author()->toString(),
   "publisher" => $page->publisher()->toString(),
   "href" => $page->url(),
+  "cover" => $cover->url(),
 
 
   "remaining" => (function ($page) {
