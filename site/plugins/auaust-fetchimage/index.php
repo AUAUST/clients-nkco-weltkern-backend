@@ -46,6 +46,7 @@ Kirby::plugin('auaust/fetchimage', [
 
       if ($file = $this->file($fileName)) {
 
+        // TODO: Don't run the whole process if the file already exists since the beginning
         if ($overwrite === false) {
           return $file;
         }
