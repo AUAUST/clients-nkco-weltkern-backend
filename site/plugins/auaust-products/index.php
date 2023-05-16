@@ -12,4 +12,9 @@ Kirby::plugin("auaust/products", [
   'pageModels' => [
     'products' => 'ProductsPage'
   ],
+  'options' => [
+    'cache' => [
+      'wk1' => true
+    ]
+  ]
 ]);
