@@ -11,12 +11,14 @@ class WK1
   {
     $kirby = kirby();
 
+    // Try to get the quantity from the cache to not wait WK-time
     $cache = $kirby->cache('auaust.products.wk1');
 
     if (($cachedQuantity = $cache->get('quantity')) !== null) {
       return $cachedQuantity;
     }
 
+    // Get the quantity from the API
     $response = Remote::get("https://api.weltkern.com/wp-json/custom-routes/v1/products/total");
 
     if ($response->code() !== 200) {
