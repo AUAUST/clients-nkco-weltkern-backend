@@ -34,6 +34,7 @@ $data = [
   "author" => $page->author()->toString(),
   "publisher" => $page->publisher()->toString(),
   "href" => $page->url(),
+  "id" => $page->content()->get("uuid")->toString(),
   "src" => $cover ? $cover->url() : null,
 
 

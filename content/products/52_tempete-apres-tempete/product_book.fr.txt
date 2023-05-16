@@ -2,11 +2,31 @@ Title: Tempête après tempête
 
 ----
 
+Brand: 
+
+----
+
 Price: 30.9
 
 ----
 
+Auto-kerns: true
+
+----
+
 Kerns: 3090
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_tempete.jpg
+
+----
+
+Cover: - file://A6HgipVfP0jp9xN7
+
+----
+
+Stock: 3
 
 ----
 
@@ -18,16 +38,4 @@ Publisher: APE
 
 ----
 
-Image: https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_tempete.jpg
-
-----
-
-Stock: 3
-
-----
-
 Uuid: ltvtnCY6f1qdiWnt
-
-----
-
-Auto-kerns: true
