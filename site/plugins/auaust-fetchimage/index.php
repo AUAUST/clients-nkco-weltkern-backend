@@ -10,9 +10,10 @@ Kirby::plugin('auaust/fetchFile', [
   'pageMethods' => [
     'fetchFile' => function (
       string $url,
-      string|null $fileName = null,
+      string $fileName = null,
       $template = null,
-      bool $overwrite = true
+      bool $overwrite = true,
+      string $type = null
     ) {
 
       $response = Remote::get($url);
@@ -59,6 +60,10 @@ Kirby::plugin('auaust/fetchFile', [
           'filename' => $fileName . '.' . $fileExtension,
           'template' => $template
         ]);
+      }
+
+      if ($type && $file->type() !== $type) {
+        return false;
       }
 
       F::remove($temppath);

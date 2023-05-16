@@ -11,7 +11,11 @@ if (!($cover = $page->cover()->toFile())) {
 
   // If the page doesn't have a cover image, try to fetch the image from the content url if any
   $url = $page->content()->get("image")->toString();
-  if (!($cover = $page->fetchFile($url, $page->slug()))) {
+  if (
+    !($cover =
+      $page->fetchFile($url, $page->slug(), null, true, "image")
+    )
+  ) {
 
     // Otherwise, there's no cover available
     $cover = null;
