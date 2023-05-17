@@ -3,6 +3,8 @@
 namespace auaust\products;
 
 use Kirby\Http\Remote;
+use Kirby\Http\Url;
+use Kirby\Toolkit\Str;
 
 // Weltkern 1.0
 class WK1
@@ -36,7 +38,20 @@ class WK1
 
     return $data;
   }
+  public static function getResponseContent(string $url)
+  {
+    // Urls can either be (https://)api.weltkern.com/end/of/the/url or end/of/the/url
+    $url = Url::path($url);
+    $url = "https://api.weltkern.com/$url";
 
+    $response = Remote::get($url);
+
+    if ($response->code() !== 200) {
+      return null;
+    }
+
+    return $response->content();
+  }
   public static function productsQuantity()
   {
     $data = self::askWeltkern('products/total', []);
