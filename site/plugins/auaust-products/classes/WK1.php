@@ -2,7 +2,9 @@
 
 namespace auaust\products;
 
+use Kirby\Http\Params;
 use Kirby\Http\Remote;
+use Kirby\Http\Request\Query;
 use Kirby\Http\Url;
 use Kirby\Toolkit\Str;
 
@@ -16,13 +18,20 @@ class WK1
     // Try to get the data from the cache to not wait WK-time
     $cache = $kirby->cache('auaust.products.wk1');
 
-    if (($cachedData = $cache->get($endpoint)) !== null) {
+    $parameters = (new Query($parameters))->toString();
+
+    $url = "https://api.weltkern.com/wp-json/custom-routes/v1/$endpoint?$parameters";
+
+    echo $url . '<br>';
+
+    $cacheKey = Str::slug($url);
+
+    if (($cachedData = $cache->get($cacheKey)) !== null) {
       return $cachedData;
     }
 
     // Get the data from the API
-    $response = Remote::get("https://api.weltkern.com/wp-json/custom-routes/v1/$endpoint", [
-      'query' => $parameters,
+    $response = Remote::get($url, [
       'timeout' => 0,
     ]);
 
@@ -34,7 +43,7 @@ class WK1
     $data = json_decode($response->content(), true);
 
     // Cache the data
-    $cache->set($endpoint, $data);
+    $cache->set($cacheKey, $data);
 
     return $data;
   }
