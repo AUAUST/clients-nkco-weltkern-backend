@@ -11,4 +11,8 @@ class ProductsPage extends Page
     // $quantity = WK1::productsQuantity();
     return WK1::products();
   }
+  public function sum()
+  {
+    return WK1::productsQuantity();
+  }
 }
