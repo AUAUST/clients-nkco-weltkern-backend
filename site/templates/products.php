@@ -12,5 +12,12 @@
         echo "============================== " . $index . " ==============================<br>";
         echo $product['name'] . '<br>';
         echo "-----------------------------------------------------------------<br>";
+        // echo simple props map (only keys, not values)
+        // max 5 props per line
+        $props = array_keys($product);
+        $props = array_chunk($props, 5);
+        foreach ($props as $prop) {
+          echo implode(', ', $prop) . '<br>';
+        }
       }
       ?></pre>
