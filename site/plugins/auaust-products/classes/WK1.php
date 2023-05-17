@@ -18,18 +18,21 @@ class WK1
     // Try to get the data from the cache to not wait WK-time
     $cache = $kirby->cache('auaust.products.wk1');
 
+    // ["amount" => 10] -> "amount=10"
     $parameters = (new Query($parameters))->toString();
-
     $url = "https://api.weltkern.com/wp-json/custom-routes/v1/$endpoint?$parameters";
 
+    // https://api.weltkern.com/my/endpoint?amount=10 -> https-api-weltkern-com-my-endpoint-amount-10
     $cacheKey = Str::slug($url);
 
+    // Return cached data if available
     if (($cachedData = $cache->get($cacheKey)) !== null) {
       return $cachedData;
     }
 
     // Get the data from the API
     $response = Remote::get($url, [
+      // Disables the timeout to prevent WK-time from causing errors
       'timeout' => 0,
     ]);
 
@@ -37,10 +40,10 @@ class WK1
       return null;
     }
 
-    // API response is a JSON string
+    // API responses are JSON strings
     $data = json_decode($response->content(), true);
 
-    // Cache the data
+    // Cache the data for next time
     $cache->set($cacheKey, $data);
 
     return $data;
@@ -48,7 +51,7 @@ class WK1
   public static function getResponseContent(string $url)
   {
     // Urls can either be (https://)api.weltkern.com/end/of/the/url or end/of/the/url
-    $url = Url::path($url);
+    $url = Url::path($url, false);
     $url = "https://api.weltkern.com/$url";
 
     $response = Remote::get($url);
