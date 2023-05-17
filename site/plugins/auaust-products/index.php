@@ -1,11 +1,15 @@
 <?php
 
 use Kirby\Cms\App as Kirby;
-use AUAUST\WK1;
+use Kirby\Filesystem\F;
 
 // Load the ProductsPage model class
 load([
   'ProductsPage' => 'models/ProductsPage.php',
+], __DIR__);
+
+F::loadClasses([
+  'auaust\\products\\WK1' => 'classes/WK1.php'
 ], __DIR__);
 
 Kirby::plugin("auaust/products", [

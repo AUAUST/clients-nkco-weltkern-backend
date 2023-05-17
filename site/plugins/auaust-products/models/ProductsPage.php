@@ -2,9 +2,7 @@
 
 use Kirby\Cms\Page;
 
-require_once __DIR__ . "/../classes/WK1.php";
-
-use AUAUST\WK1 as WK1;
+use auaust\products\WK1;
 
 class ProductsPage extends Page
 {
