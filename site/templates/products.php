@@ -12,58 +12,5 @@
         echo "============================== " . $index . " ==============================<br>";
         echo $product['name'] . '<br>';
         echo "-----------------------------------------------------------------<br>";
-        // print all product properties
-        foreach ($product as $key => $value) {
-          // nest if array
-          if (is_array($value)) {
-            echo $key . ':<br>';
-            foreach ($value as $key => $value) {
-              // nest if array
-              if (is_array($value)) {
-                echo '&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ':<br>';
-                foreach ($value as $key => $value) {
-                  // nest if array
-                  if (is_array($value)) {
-                    echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ':<br>';
-                    foreach ($value as $key => $value) {
-                      // nest if array
-                      if (is_array($value)) {
-                        echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ':<br>';
-                        foreach ($value as $key => $value) {
-                          // nest if array
-                          if (is_array($value)) {
-                            echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ':<br>';
-                            foreach ($value as $key => $value) {
-                              // nest if array
-                              if (is_array($value)) {
-                                echo "too deep<br>";
-                                continue;
-                              }
-                              echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ': ' . $value . '<br>';
-                            }
-                            continue;
-                          }
-
-                          echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ': ' . $value . '<br>';
-                        }
-                        continue;
-                      }
-
-                      echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ': ' . $value . '<br>';
-                    }
-                    continue;
-                  }
-
-                  echo '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ': ' . $value . '<br>';
-                }
-                continue;
-              }
-
-              echo '&nbsp;&nbsp;&nbsp;&nbsp;' . $key . ': ' . $value . '<br>';
-            }
-            continue;
-          }
-          echo $key . ': ' . $value . '<br>';
-        }
       }
       ?></pre>
