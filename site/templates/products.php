@@ -2,12 +2,9 @@
 
 use auaust\products\WK1;
 
-$products = WK1::products(100);
+$products = WK1::products();
 $quantity = WK1::productsQuantity();
 
-// foreach ($products as $product) {
-//   echo $product['name'] . '<br>';
-// }
-
-
-echo html(json_encode($products));
+foreach ($products as $product) {
+  echo $product['name'] . '<br>';
+}

@@ -22,8 +22,6 @@ class WK1
 
     $url = "https://api.weltkern.com/wp-json/custom-routes/v1/$endpoint?$parameters";
 
-    echo $url . '<br>';
-
     $cacheKey = Str::slug($url);
 
     if (($cachedData = $cache->get($cacheKey)) !== null) {
