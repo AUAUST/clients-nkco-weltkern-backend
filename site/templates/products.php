@@ -10,7 +10,7 @@ use auaust\products\WK1;
 ?>
 <pre><?php
 
-      $products = WK1::products();
+      $products = WK1::products(100);
       $quantity = WK1::productsQuantity();
 
       // WK1::getImageById($product['featured_image']['id']);
@@ -89,7 +89,8 @@ use auaust\products\WK1;
         echo "description<br>  " . str_replace(PHP_EOL, "<br>  ", Str::unhtml($product['short_description'])) . '<br>';
         echo "-----------------------------------------------------------------<br>";
         echo "cover<br>";
-        echo "<img src='" . $imagesUrls[$product['featured_image']['id']] . "' alt='" . $product['name'] . "' height='200' loading='lazy><br>";
+        echo "<img src='" . $imagesUrls[$product['featured_image']['id']] . "' alt='" . $product['name'] . "' height='200' loading='lazy'><br>";
+        echo json_encode($product['gallery_image']) . '<br>';
         echo "<br><br><br><br><br>";
       }
       ?></pre>
