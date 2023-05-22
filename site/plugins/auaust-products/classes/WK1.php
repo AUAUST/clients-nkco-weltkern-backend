@@ -95,5 +95,16 @@ class WK1
     return self::getCustomRoute('products', ['amount' => $quantity]);
   }
 
+  public static function getMediaById(int|string $id = null)
+  {
+    if ($id === null) {
+      return null;
+    }
+
+    $data = self::remoteGet(
+      ["/wp-json/wp/v2/media/", $id]
+    );
+
+    return $data;
   }
 }
