@@ -11,6 +11,14 @@ use Kirby\Toolkit\Str;
 // Weltkern 1.0
 class WK1
 {
+  /**
+   * Returns the response content from any given WK1 endpoint.
+   *
+   * @param string|array $endpoint The endpoint to fetch from. Should not include the base URL.
+   * @param array $parameters The parameters to pass to the endpoint.
+   * @param bool $parseJson Whether to parse the response as JSON or not.
+   * @return array|string|null The response, as parsed JSON or not, or null if the request failed or the JSON was invalid.
+   */
   private static function remoteGet(string|array $endpoint, array $parameters = null, bool $parseJson = false)
   {
     // Try to get the data from the cache to not wait WK-time
@@ -68,6 +76,13 @@ class WK1
     return $data;
   }
 
+  /**
+   * Returns the parsed JSON response from a given custom endpoint.
+   *
+   * @param string $endpoint The endpoint to fetch from. Should not include the base URL, nor "/wp-json/custom-routes/v1/".
+   * @param array $parameters The parameters to pass to the endpoint.
+   * @return array|null The parsed JSON response, or null if the request failed.
+   */
   private static function getCustomRoute(string $endpoint, array $parameters)
   {
     return self::remoteGet(
@@ -77,6 +92,11 @@ class WK1
     );
   }
 
+  /**
+   * Returns the total amount of products from WordPress.
+   *
+   * @return int The total amount of products. 0 means the request failed.
+   */
   public static function productsQuantity()
   {
     $data = self::getCustomRoute('products/total', []);
@@ -88,6 +108,12 @@ class WK1
     return intval($data);
   }
 
+  /**
+   * Returns the products from WordPress.
+   *
+   * @param int|null $quantity The amount of products to fetch. If null, all products will be fetched.
+   * @return array|null The products, or null if the request failed.
+   */
   public static function products(int $quantity = null)
   {
     $quantity ??= self::productsQuantity();
@@ -95,6 +121,12 @@ class WK1
     return self::getCustomRoute('products', ['amount' => $quantity]);
   }
 
+  /**
+   * Returns the media from WordPress.
+   *
+   * @param int|string|null $id The ID of the media to fetch.
+   * @return array|null The media data, or null if the request failed.
+   */
   public static function getMediaById(int|string $id = null)
   {
     if ($id === null) {
@@ -110,6 +142,12 @@ class WK1
     return $data;
   }
 
+  /**
+   * Returns the image from WordPress, as file contents.
+   *
+   * @param int|string|null $id The ID of the image to fetch.
+   * @return binary|null The image data, or null if the request failed.
+   */
   public static function getImageById(int|string $id = null)
   {
     $data = self::getMediaById($id);
