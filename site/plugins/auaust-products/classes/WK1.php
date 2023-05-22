@@ -83,7 +83,7 @@ class WK1
    * @param array $parameters The parameters to pass to the endpoint.
    * @return array|null The parsed JSON response, or null if the request failed.
    */
-  private static function getCustomRoute(string $endpoint, array $parameters)
+  private static function getCustomRoute(string $endpoint, array $parameters = null)
   {
     return self::remoteGet(
       ["/wp-json/custom-routes/v1/", $endpoint],
