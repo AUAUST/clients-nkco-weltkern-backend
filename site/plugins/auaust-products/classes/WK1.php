@@ -146,7 +146,7 @@ class WK1
    * Returns the image from WordPress, as file contents.
    *
    * @param int|string|null $id The ID of the image to fetch.
-   * @return binary|null The image data, or null if the request failed.
+   * @return mixed|null The image data, or null if the request failed.
    */
   public static function getImageById(int|string $id = null)
   {
