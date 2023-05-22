@@ -16,12 +16,26 @@ use auaust\products\WK1;
       // WK1::getImageById($product['featured_image']['id']);
       //   getImagesByIds
 
+      // Each product's cover image and gallery images, as a two-dimensional array
       $imagesIds = array_map(
         function ($product) {
-          return $product['featured_image']['id'];
+          return array_merge(
+            // The cover image
+            [$product['featured_image']['id'] . ""],
+            // The gallery images
+            array_map(
+              function ($image) {
+                return $image['id'] . "";
+              },
+              $product['gallery_image']
+            )
+          );
         },
         $products
       );
+
+      // Flatten the two-dimensional array
+      $imagesIds = array_merge(...$imagesIds);
 
       $imagesUrls = WK1::getImagesByIds($imagesIds);
 
