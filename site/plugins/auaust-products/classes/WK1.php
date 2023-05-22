@@ -54,11 +54,14 @@ class WK1
       return $cachedData;
     }
 
-    // Get the data from the API
-    $response = Remote::get($url, [
-      // Disables the timeout to prevent WK-time from causing errors
-      'timeout' => 0,
-    ]);
+    try { // Get the data from the API
+      $response = Remote::get($url, [
+        // Disables the timeout to prevent WK-time from causing errors
+        'timeout' => 0,
+      ]);
+    } catch (\Throwable $th) {
+      return null;
+    }
 
     // Return null before caching if the request failed
     if ($response->code() !== 200) {
@@ -133,11 +136,15 @@ class WK1
       return null;
     }
 
-    $data = self::remoteGet(
-      ["/wp-json/wp/v2/media/", $id],
-      null,
-      true
-    );
+    try {
+      $data = self::remoteGet(
+        ["/wp-json/wp/v2/media/", $id],
+        null,
+        true
+      );
+    } catch (\Throwable $th) {
+      return null;
+    }
 
     return $data;
   }
@@ -207,9 +214,11 @@ class WK1
 
       // Otherwise, fetch it and cache it
 
-
-      $data = self::getMediaById($id);
-
+      try {
+        $data = self::getMediaById($id);
+      } catch (\Throwable $th) {
+        continue;
+      }
 
       if ($data === null) {
         $cachedImages[$id] = false;
