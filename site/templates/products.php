@@ -3,17 +3,6 @@
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
-// echo Str::unhtml(json_encode(WK1::getMediaById(WK1::products()[0]["gallery_image"][0]["id"])));
-
-
-$image = WK1::getImageById(WK1::products()[0]["gallery_image"][0]["id"]);
-
-$image = base64_encode($image);
-
-echo "<img src='data:image/jpeg;base64," . $image . "' alt=''>";
-
-return;
-
 // dump(WK1::products()[0]);
 // echo "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>";
 // dump(WK1::products()[9]);
