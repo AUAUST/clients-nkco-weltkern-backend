@@ -229,7 +229,7 @@ class WK1
 
       $cachedImages[$id] = $url;
 
-      $cache->set('wk-all-images', $cachedImages, 60);
+      $cache->set('wk-all-images', $cachedImages, 10080);
 
       $images[$id] = $fetch ? self::remoteGet($url) : $url;
     }
