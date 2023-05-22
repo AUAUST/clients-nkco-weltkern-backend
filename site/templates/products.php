@@ -75,7 +75,7 @@ use auaust\products\WK1;
         echo "description<br>  " . str_replace(PHP_EOL, "<br>  ", Str::unhtml($product['short_description'])) . '<br>';
         echo "-----------------------------------------------------------------<br>";
         echo "cover<br>";
-        echo "<img src='" . $imagesUrls[$product['featured_image']['id']] . "' alt='" . $product['name'] . "' height='200'><br>";
+        echo "<img src='" . $imagesUrls[$product['featured_image']['id']] . "' alt='" . $product['name'] . "' height='200' loading='lazy><br>";
         echo "<br><br><br><br><br>";
       }
       ?></pre>
