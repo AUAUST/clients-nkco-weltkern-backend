@@ -10,7 +10,7 @@ use auaust\products\WK1;
 ?>
 <pre><?php
 
-      $products = WK1::products(200);
+      $products = WK1::products();
       $quantity = WK1::productsQuantity();
 
       // WK1::getImageById($product['featured_image']['id']);

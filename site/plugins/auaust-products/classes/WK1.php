@@ -217,11 +217,12 @@ class WK1
 
         $cachedImages[$id] = $url;
 
+        $cache->set('wk-all-images', $cachedImages, 60);
+
         $images[$id] = $fetch ? self::remoteGet($url) : $url;
       }
     }
 
-    $cache->set('wk-all-images', $cachedImages, 60);
 
     return $images;
   }
