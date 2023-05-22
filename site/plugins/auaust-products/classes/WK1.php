@@ -209,7 +209,7 @@ class WK1
         $data = self::getMediaById($id);
 
         if ($data === null) {
-          $cachedImages[$id] = null;
+          $cachedImages[$id] = false;
           continue;
         }
 
