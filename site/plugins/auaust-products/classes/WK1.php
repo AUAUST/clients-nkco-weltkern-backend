@@ -109,4 +109,15 @@ class WK1
 
     return $data;
   }
+
+  public static function getImageById(int|string $id = null)
+  {
+    $data = self::getMediaById($id);
+
+    if ($data === null) {
+      return null;
+    }
+
+    return self::remoteGet($data['media_details']['sizes']['full']['source_url']);
+  }
 }
