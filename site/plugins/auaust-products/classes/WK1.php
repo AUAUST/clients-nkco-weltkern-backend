@@ -102,7 +102,9 @@ class WK1
     }
 
     $data = self::remoteGet(
-      ["/wp-json/wp/v2/media/", $id]
+      ["/wp-json/wp/v2/media/", $id],
+      null,
+      true
     );
 
     return $data;

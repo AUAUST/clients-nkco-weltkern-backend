@@ -3,7 +3,7 @@
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
-echo Str::unhtml(WK1::getMediaById(WK1::products()[0]["gallery_image"][0]["id"]));
+echo Str::unhtml(json_encode(WK1::getMediaById(WK1::products()[0]["gallery_image"][0]["id"])));
 
 return;
 // dump(WK1::products()[0]);
