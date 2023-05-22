@@ -90,6 +90,8 @@ function titleLine(string $title = "", int $columnWidth = 101)
           <img src="<?= $imagesUrls[$image['id']] ?>" alt="<?= $product['name'] ?>" loading="lazy">
         <?php endforeach; ?>
       </div>
+      <pre><?= titleLine("typefaces") ?></pre>
+      <pre><?= json_encode($product['typefaces']) ?></pre>
     </section>
   <?php endforeach; ?>
 </div>
@@ -110,13 +112,18 @@ function titleLine(string $title = "", int $columnWidth = 101)
 // points, currency, colors
 
 // USEFUL PROPS
-// name, slug, short_description
+// name: string
+// slug: string
+// short_description: string
 // featured_image: {
 //  url: false|url
 //  id: number
 // }
+// gallery_image: { // this[0] === featured_image
+//  url: false|url
+//  id: number
+// }[]
 
-// , gallery_image, typefaces
 // price, price_welt, in_stock, weight, length
 // width, height, downloadable, categories, tags
 // brands, average_rating, review_count, quantity, quantite
