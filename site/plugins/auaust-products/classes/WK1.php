@@ -201,26 +201,28 @@ class WK1
           $fetch
           ? self::remoteGet($cachedImages[$id])
           : $cachedImages[$id];
+
+        continue;
       }
 
       // Otherwise, fetch it and cache it
-      else {
 
-        $data = self::getMediaById($id);
 
-        if ($data === null) {
-          $cachedImages[$id] = false;
-          continue;
-        }
+      $data = self::getMediaById($id);
 
-        $url = $data['media_details']['sizes']['full']['source_url'];
 
-        $cachedImages[$id] = $url;
-
-        $cache->set('wk-all-images', $cachedImages, 60);
-
-        $images[$id] = $fetch ? self::remoteGet($url) : $url;
+      if ($data === null) {
+        $cachedImages[$id] = false;
+        continue;
       }
+
+      $url = $data['media_details']['sizes']['full']['source_url'];
+
+      $cachedImages[$id] = $url;
+
+      $cache->set('wk-all-images', $cachedImages, 60);
+
+      $images[$id] = $fetch ? self::remoteGet($url) : $url;
     }
 
 
