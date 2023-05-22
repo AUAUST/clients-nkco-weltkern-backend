@@ -11,16 +11,32 @@ use Kirby\Toolkit\Str;
 // Weltkern 1.0
 class WK1
 {
-  private static function askWeltkern(string $endpoint, array $parameters)
+  private static function remoteGet(string|array $endpoint, array $parameters = null, bool $parseJson = false)
   {
-    $kirby = kirby();
-
     // Try to get the data from the cache to not wait WK-time
-    $cache = $kirby->cache('auaust.products.wk1');
+    $cache = kirby()->cache('auaust.products.wk1');
+
+    // If endpoint is an array, join it with slashes
+    if (is_array($endpoint)) {
+
+      // sanitize each endpoint part
+      $endpoint = array_map(
+        function ($part) {
+          // remove slashes from the beginning and end
+          return Url::path($part, false, false);
+        },
+        $endpoint
+      );
+
+      $endpoint = implode('/', $endpoint);
+    }
+
+    $endpoint = Url::path($endpoint, false);
 
     // ["amount" => 10] -> "amount=10"
     $parameters = (new Query($parameters))->toString();
-    $url = "https://api.weltkern.com/wp-json/custom-routes/v1/$endpoint?$parameters";
+
+    $url = "https://api.weltkern.com/$endpoint?$parameters";
 
     // https://api.weltkern.com/my/endpoint?amount=10 -> https-api-weltkern-com-my-endpoint-amount-10
     $cacheKey = Str::slug($url);
@@ -36,35 +52,34 @@ class WK1
       'timeout' => 0,
     ]);
 
+    // Return null before caching if the request failed
     if ($response->code() !== 200) {
       return null;
     }
 
-    // API responses are JSON strings
-    $data = json_decode($response->content(), true);
+    // Parse the response as JSON if requested
+    $data = $parseJson ?
+      json_decode($response->content(), true) :
+      $response->content();
 
     // Cache the data for next time
-    $cache->set($cacheKey, $data);
+    $cache->set($cacheKey, $data, 60);
 
     return $data;
   }
-  public static function getResponseContent(string $url)
+
+  private static function getCustomRoute(string $endpoint, array $parameters)
   {
-    // Urls can either be (https://)api.weltkern.com/end/of/the/url or end/of/the/url
-    $url = Url::path($url, false);
-    $url = "https://api.weltkern.com/$url";
-
-    $response = Remote::get($url);
-
-    if ($response->code() !== 200) {
-      return null;
-    }
-
-    return $response->content();
+    return self::remoteGet(
+      ["/wp-json/custom-routes/v1/", $endpoint],
+      $parameters,
+      true
+    );
   }
+
   public static function productsQuantity()
   {
-    $data = self::askWeltkern('products/total', []);
+    $data = self::getCustomRoute('products/total', []);
 
     if ($data === null) {
       return 0;
@@ -77,6 +92,8 @@ class WK1
   {
     $quantity ??= self::productsQuantity();
 
-    return self::askWeltkern('products', ['amount' => $quantity]);
+    return self::getCustomRoute('products', ['amount' => $quantity]);
+  }
+
   }
 }

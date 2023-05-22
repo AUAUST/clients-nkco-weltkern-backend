@@ -3,6 +3,9 @@
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
+echo Str::unhtml(WK1::getMediaById(WK1::products()[0]["gallery_image"][0]["id"]));
+
+return;
 // dump(WK1::products()[0]);
 // echo "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>";
 dump(WK1::products()[9]);
@@ -10,7 +13,7 @@ echo "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b
 ?>
 <pre><?php
 
-
+      return;
       $products = WK1::products();
       $quantity = WK1::productsQuantity();
 
