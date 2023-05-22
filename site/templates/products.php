@@ -10,11 +10,23 @@ use auaust\products\WK1;
 ?>
 <pre><?php
 
-      return;
       $products = WK1::products();
       $quantity = WK1::productsQuantity();
 
+      // WK1::getImageById($product['featured_image']['id']);
+      //   getImagesByIds
+
+      $imagesIds = array_map(
+        function ($product) {
+          return $product['featured_image']['id'];
+        },
+        $products
+      );
+
+      $imagesUrls = WK1::getImagesByIds($imagesIds);
+
       foreach ($products as $index => $product) {
+
         // pad left index (1 -> 0001)
         $index = str_pad($index + 1, 3, '0', STR_PAD_LEFT);
         // {{ index }} : {{ product.name }}
@@ -62,7 +74,8 @@ use auaust\products\WK1;
         echo "-----------------------------------------------------------------<br>";
         echo "description<br>  " . str_replace(PHP_EOL, "<br>  ", Str::unhtml($product['short_description'])) . '<br>';
         echo "-----------------------------------------------------------------<br>";
-        echo "kkkkk<br>  " . json_encode($product['featured_image']) . '<br>';
+        echo "cover<br>";
+        echo "<img src='" . $imagesUrls[$product['featured_image']['id']] . "' alt='" . $product['name'] . "' height='200'><br>";
         echo "<br><br><br><br><br>";
       }
       ?></pre>

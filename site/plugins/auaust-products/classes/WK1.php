@@ -143,19 +143,86 @@ class WK1
   }
 
   /**
-   * Returns the image from WordPress, as file contents.
+   * Returns the image from WordPress, as file contents or URLs.
    *
    * @param int|string|null $id The ID of the image to fetch.
-   * @return mixed|null The image data, or null if the request failed.
+   * @param bool $fetch Whether to fetch the image or not. If false, the image URL will be returned.
+   * @return mixed|null The image URL or file contents depending on $fetch, or null if the request failed.
    */
-  public static function getImageById(int|string $id = null)
+  public static function getImageById(int|string $id = null, bool $fetch = false)
   {
+    $cache = kirby()->cache('auaust.products.wk1');
+
+    $cachedImages = $cache->get('wk-all-images', []);
+
+    if (array_key_exists($id, $cachedImages)) {
+      return $fetch ? self::remoteGet($cachedImages[$id]) : $cachedImages[$id];
+    }
+
     $data = self::getMediaById($id);
 
     if ($data === null) {
       return null;
     }
 
-    return self::remoteGet($data['media_details']['sizes']['full']['source_url']);
+    $url = $data['media_details']['sizes']['full']['source_url'];
+
+    $cachedImages[$id] = $url;
+
+    $cache->set('wk-all-images', $cachedImages, 60);
+
+    if ($fetch) {
+      return self::remoteGet($url);
+    }
+
+    return $url;
+  }
+
+  /**
+   * Returns the images from WordPress, as file contents or URLs, for each ID in the array.
+   *
+   * @param array $ids The IDs of the images to fetch.
+   * @param bool $fetch Whether to fetch the images or not. If false, the images URLs will be returned.
+   * @return array|null The images URLs or file contents depending on $fetch, or null if the request failed.
+   */
+  public static function getImagesByIds(array $ids, bool $fetch = false)
+  {
+    $cache = kirby()->cache('auaust.products.wk1');
+
+    $cachedImages = $cache->get('wk-all-images', []);
+
+    $images = [];
+
+    foreach ($ids as $id) {
+
+      // If the image is already cached, use it
+      if (array_key_exists($id, $cachedImages)) {
+        $images[$id] =
+          $fetch
+          ? self::remoteGet($cachedImages[$id])
+          : $cachedImages[$id];
+      }
+
+      // Otherwise, fetch it and cache it
+      else {
+
+        $data = self::getMediaById($id);
+
+        if ($data === null) {
+          $cachedImages[$id] = null;
+          continue;
+        }
+
+        $url = $data['media_details']['sizes']['full']['source_url'];
+
+        $cachedImages[$id] = $url;
+
+        $images[$id] = $fetch ? self::remoteGet($url) : $url;
+      }
+    }
+
+    $cache->set('wk-all-images', $cachedImages, 60);
+
+    return $images;
   }
 }
