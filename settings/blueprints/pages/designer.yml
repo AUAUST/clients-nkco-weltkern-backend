@@ -21,15 +21,18 @@ columns:
               en: Names
             fields:
               firstname:
+                type: text
                 label:
                   fr: Prénom
                   en: Firstname
-                type: text
+                required: true
               lastname:
+                type: text
                 label:
                   fr: Nom de famille
                   en: Lastname
-                type: text
+                required: true
+                minlength: 1
               __help:
                 type: info
                 label:
