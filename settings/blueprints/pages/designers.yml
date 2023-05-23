@@ -22,16 +22,6 @@ tabs:
             search: true
 
             layout: table
-            columns:
-              author:
-                width: 2/11
-              publisher:
-                width: 2/11
-              price:
-                width: 1/11
-                align: center
-                after: "CHF"
-                value: "{{ page.price }}"
 
           online_designers:
             type: pages
@@ -48,12 +38,3 @@ tabs:
             search: true
 
             layout: table
-            columns:
-              author:
-                width: 2/11
-              publisher:
-                width: 2/11
-              price:
-                width: 1/11
-                align: center
-                after: "CHF"
