@@ -45,10 +45,14 @@ class WK1
     // ["amount" => 10] -> "amount=10"
     $parameters = (new Query($parameters))->toString();
 
-    $url = "https://api.weltkern.com/$endpoint?$parameters";
+    $url = 'https://api.weltkern.com/'
+      . $endpoint
+      . ($parameters
+        ? "?$parameters"
+        : '');
 
-    // https://api.weltkern.com/my/endpoint?amount=10 -> https-api-weltkern-com-my-endpoint-amount-10
-    $cacheKey = Str::slug($url);
+    // https://api.weltkern.com/my/endpoint?amount=10 -> api.weltkern.com/my/endpoint?amount=10
+    $cacheKey = Str::after($url, '://');
 
     // Return cached data if available
     if (($cachedData = $cache->get($cacheKey)) !== null) {
@@ -103,7 +107,7 @@ class WK1
    */
   public static function productsQuantity()
   {
-    $data = self::getCustomRoute('products/total', []);
+    $data = self::getCustomRoute('products/total');
 
     if ($data === null) {
       return 0;
