@@ -3,6 +3,14 @@
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
+$cache = kirby()->cache('auaust.products.wk1');
+
+$cache->set("text-wk-all-images", WK1::productsQuantity());
+
+echo $cache->get("text-wk-all-images");
+
+return;
+
 $products = WK1::products();
 $quantity = WK1::productsQuantity();
 
@@ -42,6 +50,9 @@ function titleLine(string $title = "", int $columnWidth = 101)
 }
 
 ?>
+<pre><?=
+      dump($site->pages()->find('fonts_settings')->content()->get("texts")->toStructure(), false);
+      ?></pre>
 <div>
   <style>
     :root {

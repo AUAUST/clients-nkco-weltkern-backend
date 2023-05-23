@@ -17,12 +17,13 @@ class WK1
    * @param string|array $endpoint The endpoint to fetch from. Should not include the base URL.
    * @param array $parameters The parameters to pass to the endpoint.
    * @param bool $parseJson Whether to parse the response as JSON or not.
+   * @param int $minutes The amount of minutes to cache the response for.
    * @return array|string|null The response, as parsed JSON or not, or null if the request failed or the JSON was invalid.
    */
-  private static function remoteGet(string|array $endpoint, array $parameters = null, bool $parseJson = false)
+  private static function remoteGet(string|array $endpoint, array $parameters = null, bool $parseJson = false, int $minutes = 30)
   {
     // Try to get the data from the cache to not wait WK-time
-    $cache = kirby()->cache('auaust.products.wk1');
+    $cache = kirby()->cache('auaust.products.wk1-rawresponses');
 
     // If endpoint is an array, join it with slashes
     if (is_array($endpoint)) {
@@ -74,7 +75,7 @@ class WK1
       $response->content();
 
     // Cache the data for next time
-    $cache->set($cacheKey, $data, 60);
+    $cache->set($cacheKey, $data, $minutes);
 
     return $data;
   }
@@ -140,7 +141,8 @@ class WK1
       $data = self::remoteGet(
         ["/wp-json/wp/v2/media/", $id],
         null,
-        true
+        true,
+        10080
       );
     } catch (\Throwable $th) {
       return null;
@@ -160,7 +162,7 @@ class WK1
   {
     $cache = kirby()->cache('auaust.products.wk1');
 
-    $cachedImages = $cache->get('wk-all-images', []);
+    $cachedImages = $cache->get('medias', []);
 
     if (array_key_exists($id, $cachedImages)) {
       return $fetch ? self::remoteGet($cachedImages[$id]) : $cachedImages[$id];
@@ -176,7 +178,7 @@ class WK1
 
     $cachedImages[$id] = $url;
 
-    $cache->set('wk-all-images', $cachedImages, 10080);
+    $cache->set('medias', $cachedImages, 0);
 
     if ($fetch) {
       return self::remoteGet($url);

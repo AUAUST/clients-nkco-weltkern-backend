@@ -18,6 +18,9 @@ Kirby::plugin("auaust/products", [
   ],
   'options' => [
     'cache' => [
+      // Stores the raw responses from the WK1 API to limit the number of requests and gain speed
+      'wk1-rawresponses' => true,
+      // Stores the processed data from the WK1 API for use in the code
       'wk1' => true
     ]
   ]
