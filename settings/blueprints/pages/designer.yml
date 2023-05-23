@@ -13,11 +13,12 @@ columns:
       infos:
         type: fields
         fields:
-          name:
+          names:
             type: object
+            required: true
             label:
-              fr: Nom
-              en: Name
+              fr: Noms
+              en: Names
             fields:
               firstname:
                 label:
