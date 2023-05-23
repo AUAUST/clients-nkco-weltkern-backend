@@ -99,7 +99,6 @@ function titleLine(string $title = "", int $columnWidth = 101)
         <?php foreach ($product['typefaces'] as $key => $typeface) : ?>
           <pre><?= $key ?>: <?= json_encode($typeface) ?></pre>
         <?php endforeach; ?>
-
       <?php endif; ?>
     </section>
   <?php endforeach; ?>
