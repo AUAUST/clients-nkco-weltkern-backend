@@ -127,8 +127,8 @@ tabs:
                 type: headline
                 numbered: false
                 label:
-                  fr: "MARQUES"
-                  en: "BRANDS"
+                  fr: "ENTREPRISES"
+                  en: "COMPANIES"
           __sectionPeople:
             type: fields
             fields:
