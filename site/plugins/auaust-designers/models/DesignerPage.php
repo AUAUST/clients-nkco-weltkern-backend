@@ -49,9 +49,13 @@ class DesignerPage extends Page
 
   public function changeTitle(string $title, ?string $languageCode = null)
   {
+    // The title is determined by the "name" field, so we need to update it rather than the title field
+    // The title field is removed to prevent confusion
     $page = $this->update([
+      "title" => null,
       "name" => self::splitName($title)
     ]);
+
     return $page;
   }
 }
