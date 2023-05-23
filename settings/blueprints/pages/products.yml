@@ -14,6 +14,9 @@ tabs:
               fr: Brouillons
               en: Draft products
 
+            templates:
+              - product_book
+              - product_tool
             parent: site.find("products")
 
             limit: 10
