@@ -4,7 +4,7 @@ options:
   changeSlug: true
   changeStatus: true
   changeTemplate: false
-  # changeTitle: false
+  changeTitle: false
   duplicate: false
 
 columns:
@@ -30,3 +30,15 @@ columns:
                   fr: Nom de famille
                   en: Lastname
                 type: text
+              __help:
+                type: info
+                label:
+                  fr: Attention !
+                  en: Warning!
+                text:
+                  fr: |
+                    Le nom complet (« Titre ») est généré automatiquement à partir des champs <strong>Prénom</strong> et <strong>Nom de famille</strong>.
+                    Lorsque vous modifiez ces champs, <strong>rechargez la page</strong> pour voir le résultat.
+                  en: |
+                    The full name ("Title") is automatically generated from the <strong>Firstname</strong> and <strong>Lastname</strong> fields.
+                    When you modify these fields, <strong>reload the page</strong> to see the changes.
