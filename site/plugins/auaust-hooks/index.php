@@ -6,7 +6,7 @@ Kirby::plugin("auaust/hooks", [
   'hooks' => [
     'page.create:after' => function ($page) {
 
-      // switch by template using $page->intendedTemplate()->name()
+      // Switch by intended template rather than actual template
       switch ($page->intendedTemplate()->name()) {
 
           /*
