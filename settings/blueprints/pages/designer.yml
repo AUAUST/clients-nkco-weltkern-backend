@@ -4,7 +4,7 @@ options:
   changeSlug: true
   changeStatus: true
   changeTemplate: false
-  changeTitle: false
+  # changeTitle: false
   duplicate: false
 
 columns:

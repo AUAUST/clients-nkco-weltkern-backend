@@ -6,12 +6,12 @@ use Kirby\Data\Data;
 
 class DesignerPage extends Page
 {
-  public static function create(array $props): Page
-  {
 
+  private static function splitName(string $name): array
+  {
     // Try to guess the designer's full name from the page's title at creation
     // "Anthony Eric Monnier" => ["Anthony", "Eric", "Monnier"]
-    $nameparts = explode(" ", $props['content']['title']);
+    $nameparts = explode(" ", $name);
 
     // "Monnier"
     $lastname = array_pop($nameparts);
@@ -19,11 +19,16 @@ class DesignerPage extends Page
     // "Anthony Eric"
     $firstname = implode("\u{00a0}", $nameparts);
 
-    // Update the page's "name" field default value
-    $props['content']['name'] = [
+    return [
       "firstname" => $firstname,
       "lastname" => $lastname
     ];
+  }
+
+  public static function create(array $props): Page
+  {
+    // Update the page's "name" field default value
+    $props['content']['name'] = self::splitName($props['content']['title']);
 
     // Create the page with updated props
     return parent::create($props);
@@ -40,5 +45,13 @@ class DesignerPage extends Page
       // Join the first and last name with a non-breaking space
       $name->firstname() . "\u{00a0}" . $name->lastname()
     );
+  }
+
+  public function changeTitle(string $title, ?string $languageCode = null)
+  {
+    $page = $this->update([
+      "name" => self::splitName($title)
+    ]);
+    return $page;
   }
 }
