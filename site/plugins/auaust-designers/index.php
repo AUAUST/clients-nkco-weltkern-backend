@@ -45,6 +45,7 @@ Kirby::plugin("auaust/designers", [
   //         ]);
   //     }
   //   },
+
   //   'page.update:before' => function ($page, $values, $strings) {
 
   //     switch ($page->intendedTemplate()->name()) {
