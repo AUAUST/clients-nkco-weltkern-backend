@@ -1,0 +1,48 @@
+Title: Réglages généraux des polices
+
+----
+
+Texts:
+
+- 
+  text: 'Weltkern > Optimo'
+- 
+  text: >
+    Lorem ipsum dolor sit amet consectetur
+    adipisicing elit. Porro doloribus
+    officiis voluptatum. Inventore
+    recusandae sapiente accusamus tempora
+    nostrum rem sequi, quas, eveniet,
+    facilis obcaecati assumenda quisquam.
+    Amet labore quae adipisci?
+- 
+  text: Hello World
+- 
+  text: >
+    It’s a long, rectangular room with
+    middle-gray walls and fluorescent
+    lighting.
+- 
+  text: >
+    But the beauty of his work lies in the
+    way it isn’t alienating in the
+    slightest. We first fell for his
+    compositions when we worked on this
+    project, and we knew we had to find out
+    more.
+- 
+  text: |
+    Come on now, check out the view like an oceanfront
+    Slow motion in cunt, takin’ what we want
+    You know a kid asiatic, holdin’ power like a Craftmatic
+    You like your fish fried or battered, that day he ratted
+- 
+  text: 'Enter the Wu-Tang Clan: RZA, GZA, Ol’ Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, & Masta Killa'
+
+----
+
+Files: 
+
+----
+
+Uuid: v92seFbQk17QBGbT

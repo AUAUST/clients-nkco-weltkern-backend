@@ -1,0 +1,25 @@
+Title: Bar
+
+----
+
+Brand: 0
+
+----
+
+Price: 12
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Incidents.jpg
+
+----
+
+Stock: 3
+
+----
+
+Uuid: 5Uhu8GDxrC4Jmg4W

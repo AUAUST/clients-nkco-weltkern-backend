@@ -1,0 +1,42 @@
+title:
+  fr: Polices
+  en: Fonts
+
+tabs:
+  all:
+    label:
+      fr: Toutes les polices
+      en: All fonts
+    columns:
+      - sections:
+          draft_fonts:
+            type: pages
+            status: draft
+            label:
+              fr: Brouillons
+              en: Draft fonts
+
+            templates:
+              - fontface
+            parent: site.find("fonts")
+
+            limit: 10
+            search: true
+
+            layout: table
+
+          online_fonts:
+            type: pages
+            status: published
+            label:
+              fr: Polices en ligne
+              en: Online fonts
+
+            templates:
+              - fontface
+            parent: site.find("fonts")
+
+            limit: 20
+            search: true
+
+            layout: table

@@ -1,8 +1,32 @@
 <?php
 
 use Kirby\Cms\Response;
+use Kirby\Data\Json;
 
 // $page is the product page
+
+// Cover image
+// Get the cover image from the page's files
+
+
+if (!($cover = $page->cover()->toFile())) {
+
+  // If the page doesn't have a cover image, try to fetch the image from the content url if any
+  $url = $page->content()->get("image")->toString();
+  if (
+    $cover = $page->fetchFile($url, $page->slug(), null, true, "image")
+  ) {
+
+
+    // If the image was fetched, update the page's cover field
+    $page->update([
+      "cover" => [$cover->uuid()->toString()]
+    ]);
+  } else {
+    // Otherwise, there's no cover available
+    $cover = null;
+  }
+};
 
 // Product's data
 $data = [
@@ -10,6 +34,8 @@ $data = [
   "author" => $page->author()->toString(),
   "publisher" => $page->publisher()->toString(),
   "href" => $page->url(),
+  "id" => $page->content()->get("uuid")->toString(),
+  "src" => $cover ? $cover->url() : null,
 
 
   "remaining" => (function ($page) {
@@ -49,7 +75,7 @@ $data = [
 ];
 
 // JSON string
-$body = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+$body = Json::encode($data);
 
 // Response object
 $response = new Response(

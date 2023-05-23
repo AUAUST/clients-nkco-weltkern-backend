@@ -1,0 +1,18 @@
+title:
+  fr: Fonte
+  en: Font
+
+tabs:
+  all:
+    columns:
+      - width: 1/2
+        sections:
+          __sectionMeta:
+            type: fields
+
+      - width: 1/2
+        sections:
+          __sectionCuts:
+            type: files
+            label: Cuts
+            template: font

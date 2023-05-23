@@ -1,8 +1,16 @@
-Title: WELTKERN
+Title: WELTKERN®
 
 ----
 
 Pageproducts: - page://1Pe3NwsOKSHPFHCF
+
+----
+
+Pagefonts: - page://pqhBHiO60WWCE9SF
+
+----
+
+Pagefontssettings: - page://v92seFbQk17QBGbT
 
 ----
 
@@ -19,3 +27,15 @@ Pageabout: - page://dp6dsUqibP2vepsr
 ----
 
 Pageerror: - page://Ad01ZY3S5WhjwqZG
+
+----
+
+Titleshort: WK®
+
+----
+
+Titlesimple: Weltkern
+
+----
+
+Slogan: WELTKERN®, CURATOR AND PRODUCER OF DESIGN

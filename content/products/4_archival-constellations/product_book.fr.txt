@@ -2,11 +2,31 @@ Title: Archival Constellations
 
 ----
 
+Brand: 
+
+----
+
 Price: 45.5
 
 ----
 
+Auto-kerns: true
+
+----
+
 Kerns: 4550
+
+----
+
+Image: https://api.weltkern.com/wp-content/uploads/2023/01/IKONAR_COVER_.jpg
+
+----
+
+Cover: - file://bQ6zwwW70H0NQdDr
+
+----
+
+Stock: 1
 
 ----
 
@@ -18,16 +38,4 @@ Publisher: Spector Books
 
 ----
 
-Image: https://api.weltkern.com/wp-content/uploads/2023/01/IKONAR_COVER_.jpg
-
-----
-
-Stock: 1
-
-----
-
 Uuid: fCNzigbvRdL0b3fS
-
-----
-
-Auto-kerns: true

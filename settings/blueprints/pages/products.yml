@@ -1,57 +1,162 @@
 title: Products
 
-columns:
-  - sections:
-      draft_products:
-        type: pages
-        status: draft
-        label:
-          fr: Brouillons
-          en: Draft products
+tabs:
+  all:
+    label:
+      fr: Tous les produits
+      en: All products
+    columns:
+      - sections:
+          draft_products:
+            type: pages
+            status: draft
+            label:
+              fr: Brouillons
+              en: Draft products
 
-        templates:
-          - product_book
-          - product_tool
-        parent: site.find("products")
+            parent: site.find("products")
 
-        limit: 10
-        search: true
+            limit: 10
+            search: true
 
-        layout: table
-        columns:
-          author:
-            width: 2/11
-          publisher:
-            width: 2/11
-          price:
-            width: 1/11
-            align: center
-            after: "CHF"
-            value: "{{ page.price }}"
+            layout: table
+            columns:
+              author:
+                width: 2/11
+              publisher:
+                width: 2/11
+              price:
+                width: 1/11
+                align: center
+                after: "CHF"
+                value: "{{ page.price }}"
 
-      online_products:
-        type: pages
-        status: published
-        label:
-          fr: Produits en ligne
-          en: Online products
+          online_products:
+            type: pages
+            status: published
+            label:
+              fr: Produits en ligne
+              en: Online products
 
-        templates:
-          - product_book
-          - product_tool
-        parent: site.find("products")
+            templates:
+              - product_book
+              - product_tool
+            parent: site.find("products")
 
-        limit: 20
-        search: true
+            limit: 20
+            search: true
 
-        layout: table
-        columns:
-          author:
-            width: 2/11
-          publisher:
-            width: 2/11
-          price:
-            width: 1/11
-            align: center
-            after: "CHF"
-            value: "{{ page.price }}"
+            layout: table
+            columns:
+              author:
+                width: 2/11
+              publisher:
+                width: 2/11
+              price:
+                width: 1/11
+                align: center
+                after: "CHF"
+
+  books:
+    label:
+      fr: Livres
+      en: Books
+    columns:
+      - sections:
+          draft_books:
+            type: pages
+            status: draft
+            label:
+              fr: Brouillons
+              en: Draft books
+
+            template: product_book
+            parent: site.find("products")
+
+            limit: 10
+            search: true
+
+            layout: table
+            columns:
+              author:
+                width: 2/11
+              publisher:
+                width: 2/11
+              price:
+                width: 1/11
+                align: center
+                after: "CHF"
+
+          online_books:
+            type: pages
+            status: published
+            label:
+              fr: Livres en ligne
+              en: Online books
+
+            template: product_book
+            parent: site.find("products")
+
+            limit: 20
+            search: true
+
+            layout: table
+            columns:
+              author:
+                width: 2/11
+              publisher:
+                width: 2/11
+              price:
+                width: 1/11
+                align: center
+                after: "CHF"
+
+  tools:
+    label:
+      fr: Outils
+      en: Tools
+    columns:
+      - sections:
+          draft_tools:
+            type: pages
+            status: draft
+            label:
+              fr: Brouillons
+              en: Draft tools
+
+            template: product_tool
+            parent: site.find("products")
+
+            limit: 10
+            search: true
+
+            layout: table
+            columns:
+              brand:
+                width: 2/11
+              price:
+                width: 1/11
+                align: center
+                after: "CHF"
+
+          online_tools:
+            type: pages
+            status: published
+            label:
+              fr: Outils en ligne
+              en: Online tools
+
+            template: product_tool
+            parent: site.find("products")
+
+            limit: 20
+            search: true
+
+            layout: table
+            columns:
+              brand:
+                width: 2/11
+              price:
+                width: 1/11
+                align: center
+                after: "CHF"

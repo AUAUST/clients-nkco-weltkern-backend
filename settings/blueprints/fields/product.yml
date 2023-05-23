@@ -54,6 +54,13 @@ fields:
       fr: Image
       en: Image
     width: 1/2
+  cover:
+    translate: false
+    type: files
+    label:
+      fr: Couverture
+      en: Cover
+    multiple: false
   stock:
     translate: false
     label:
