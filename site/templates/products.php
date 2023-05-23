@@ -93,8 +93,14 @@ function titleLine(string $title = "", int $columnWidth = 101)
           <img src="<?= $imagesUrls[$image['id']] ?>" alt="<?= $product['name'] ?>" loading="lazy">
         <?php endforeach; ?>
       </div>
-      <pre><?= titleLine("typefaces") ?></pre>
-      <pre><?= json_encode($product['typefaces']) ?></pre>
+      <?php if (is_array($product['typefaces'])) : ?>
+        <pre><?= titleLine("typefaces") ?></pre>
+        <pre><?= $product['typefaces']['font_family_name'] ?></pre>
+        <?php foreach ($product['typefaces'] as $key => $typeface) : ?>
+          <pre><?= $key ?>: <?= json_encode($typeface) ?></pre>
+        <?php endforeach; ?>
+
+      <?php endif; ?>
     </section>
   <?php endforeach; ?>
 </div>
