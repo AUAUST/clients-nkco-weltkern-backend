@@ -1,0 +1,19 @@
+title: Designer
+
+options:
+  changeSlug: true
+  changeStatus: true
+  changeTemplate: false
+  changeTitle: false
+  create: false
+  duplicate: false
+
+sections:
+  infos:
+    type: fields
+    extends: fields/product
+    fields:
+      brand:
+        label:
+          fr: Marque
+          en: Brand
