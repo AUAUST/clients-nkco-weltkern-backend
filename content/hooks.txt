@@ -1,1 +1,6 @@
-true
+<pre>Array
+(
+    [firstname] => Aurianaa
+    [lastname] => lolasass
+)
+</pre>

@@ -32,6 +32,31 @@ Kirby::plugin("auaust/hooks", [
             ]
           ]);
       }
+    },
+    'page.update:before' => function ($page, $values, $strings) {
+
+      switch ($page->intendedTemplate()->name()) {
+          /*
+        When a designer page is updated
+          */
+        case "designer":
+
+          // $file = kirby()->root('content') . '/hooks.txt';
+
+          $oldName = $page->title();
+          $newName = $values["name"]["firstname"] . " " . $values["name"]["lastname"];
+
+          if ($oldName !== $newName) {
+            $page->changeTitle($newName);
+          }
+          // file_put_contents($file, dump(, false));
+
+
+          // $name = ;
+
+          // $newName = $name->firstname() . " " . $name->lastname();
+
+      }
     }
   ]
 ]);
