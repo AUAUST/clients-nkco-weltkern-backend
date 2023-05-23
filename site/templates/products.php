@@ -3,14 +3,6 @@
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
-$cache = kirby()->cache('auaust.products.wk1');
-
-$cache->set("text-wk-all-images", WK1::productsQuantity());
-
-echo $cache->get("text-wk-all-images");
-
-return;
-
 $products = WK1::products();
 $quantity = WK1::productsQuantity();
 
