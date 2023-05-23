@@ -5,15 +5,27 @@ options:
   changeStatus: true
   changeTemplate: false
   changeTitle: false
-  create: false
   duplicate: false
 
-sections:
-  infos:
-    type: fields
-    extends: fields/product
-    fields:
-      brand:
-        label:
-          fr: Marque
-          en: Brand
+columns:
+  - width: 2/3
+    sections:
+      infos:
+        type: fields
+        fields:
+          name:
+            type: object
+            label:
+              fr: Nom
+              en: Name
+            fields:
+              firstname:
+                label:
+                  fr: Prénom
+                  en: Firstname
+                type: text
+              lastname:
+                label:
+                  fr: Nom de famille
+                  en: Lastname
+                type: text

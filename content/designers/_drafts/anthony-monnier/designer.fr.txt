@@ -1,0 +1,20 @@
+Title: Anthony Monnier
+
+----
+
+Name:
+
+firstname: Anthony
+lastname: Monnier
+
+----
+
+Uuid: D9RwtNquqFBhBejz
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
