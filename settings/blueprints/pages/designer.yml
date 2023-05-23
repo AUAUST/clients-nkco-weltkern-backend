@@ -15,10 +15,11 @@ columns:
         fields:
           names:
             type: object
-            required: true
             label:
               fr: Noms
               en: Names
+            required: true
+            translate: false
             fields:
               firstname:
                 type: text
@@ -26,6 +27,7 @@ columns:
                   fr: Prénom
                   en: Firstname
                 required: true
+                translate: false
               lastname:
                 type: text
                 label:
@@ -33,6 +35,7 @@ columns:
                   en: Lastname
                 required: true
                 minlength: 1
+                translate: false
               __help:
                 type: info
                 label:
