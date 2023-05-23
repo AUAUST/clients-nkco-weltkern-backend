@@ -6,5 +6,5 @@ return [
   "languages.detect" => true,
   "date.handler" => "intl",
   "smartypants" => true,
-  "routes" => require_once __DIR__ . "/routes.php",
+  "routes" => require_once __DIR__ . "/snippets/routes.php",
 ];
