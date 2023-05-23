@@ -1,7 +1,6 @@
 <?php
 
 use Kirby\Cms\Response;
-use Kirby\Http\Header;
 
 return [
   [
