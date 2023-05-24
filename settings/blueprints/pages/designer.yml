@@ -4,7 +4,7 @@ options:
   changeSlug: true
   changeStatus: true
   changeTemplate: false
-  changeTitle: false
+  changeTitle: true
   duplicate: false
 
 columns:
@@ -59,11 +59,11 @@ columns:
                 Le <strong>slug</strong> de ce designer ne correspond pas à son nom. Cela arrive lorsque le nom a été modifié après la création de la page designer.
                 Controllez que le slug est correct dans <strong>Paramètres</strong> → <strong>Modifier l'URL</strong>.
             when:
-              _hasMismatchedSlug: true
-              _ignoreMismatchedSlug: false
-          _hasMismatchedSlug:
+              hasMismatchedSlug: "true"
+              ignoreMismatchedSlug: false
+          hasMismatchedSlug:
             type: hidden
-          _ignoreMismatchedSlug:
+          ignoreMismatchedSlug:
             type: toggle
             width: 1/3
             label:
@@ -80,8 +80,8 @@ columns:
               - fr: Validé
                 en: Validated
             when:
-              _hasMismatchedSlug: true
-              _ignoreMismatchedSlug: false
+              hasMismatchedSlug: "true"
+              ignoreMismatchedSlug: false
 
           description:
             type: textarea
