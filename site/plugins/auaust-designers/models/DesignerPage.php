@@ -41,11 +41,13 @@ class DesignerPage extends Page
     // Get the designer's name from the "name" field
     $name = $this->content()->get("names")->toObject();
 
+    // Join the first and last name with a non-breaking space and trim the result
+    $name = trim($name->firstname() . "\u{00a0}" . $name->lastname());
+
     return new Field(
       $this,
       "title",
-      // Join the first and last name with a non-breaking space
-      $name->firstname() . "\u{00a0}" . $name->lastname()
+      $name
     );
   }
 
