@@ -36,13 +36,21 @@ class DesignerPage extends Page
     return parent::create($props);
   }
 
+  private static function makeName(string $firstname, string $lastname): string
+  {
+    // Join the first and last name with a non-breaking space and trim the result
+    return trim($firstname . "\u{00a0}" . $lastname, "\u{00a0} ");
+  }
+
   public function title()
   {
     // Get the designer's name from the "name" field
     $name = $this->content()->get("names")->toObject();
 
-    // Join the first and last name with a non-breaking space and trim the result
-    $name = trim($name->firstname() . "\u{00a0}" . $name->lastname(), "\u{00a0} ");
+    $name = self::makeName(
+      $name->firstname(),
+      $name->lastname()
+    );
 
     return new Field(
       $this,
@@ -71,7 +79,12 @@ class DesignerPage extends Page
 
   public function update(array $input = null, string $languageCode = null, bool $validate = false)
   {
-    return parent::update($input, $languageCode, $validate)->checkSlug();
+
+    // If the names are being updated, check if the slug needs to be updated too
+    if (isset($input["names"])) {
+    }
+
+    return parent::update($input, $languageCode, $validate);
   }
 
   private function checkSlug(): static
