@@ -26,7 +26,6 @@ columns:
                 label:
                   fr: Prénom
                   en: Firstname
-                required: true
                 translate: false
               lastname:
                 type: text
