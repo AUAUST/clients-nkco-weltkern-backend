@@ -61,10 +61,10 @@ class DesignerPage extends Page
     return $page;
   }
 
-  private function checkSlug(string $title): static
+  private function checkSlug(): static
   {
     // If the new title implies a new slug, show a warning in the panel
-    $expectedSlug = Str::slug($title);
+    $expectedSlug = Str::slug($this->title());
 
     // If the slug is the same as the expected slug, there's no mismatch
     if ($this->slug() === $expectedSlug) {
