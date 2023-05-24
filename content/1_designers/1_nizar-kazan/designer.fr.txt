@@ -5,6 +5,10 @@ lastname: Kazan
 
 ----
 
+Ignoremismatchedslug: true
+
+----
+
 Description:
 
 Nizar Kazan, born in Lausanne, Switzerland, on 15th November 1997, graduated in graphic design at Eracom in Lausanne in 2017 with honors. During his studies and afterwards, he started working on his first graphic and type design projects.
