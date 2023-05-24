@@ -42,7 +42,7 @@ class DesignerPage extends Page
     $name = $this->content()->get("names")->toObject();
 
     // Join the first and last name with a non-breaking space and trim the result
-    $name = trim($name->firstname() . "\u{00a0}" . $name->lastname());
+    $name = trim($name->firstname() . "\u{00a0}" . $name->lastname(), "\u{00a0} ");
 
     return new Field(
       $this,
@@ -54,7 +54,7 @@ class DesignerPage extends Page
   public function changeTitle(string $title, ?string $languageCode = null)
   {
     // Replace all kinds of spaces with a single space
-    $title = preg_replace('/\s+/', ' ', $title);
+    $title = preg_replace("/\s+/", ' ', $title);
 
     // Trim the title
     $title = trim($title);
