@@ -2,7 +2,7 @@
 
 use Kirby\Cms\Field;
 use Kirby\Cms\Page as Page;
-use Kirby\Data\Data;
+use Kirby\Toolkit\Str;
 
 class DesignerPage extends Page
 {
@@ -59,5 +59,22 @@ class DesignerPage extends Page
     ]);
 
     return $page;
+  }
+
+  private function checkSlug(string $title): static
+  {
+    // If the new title implies a new slug, show a warning in the panel
+    $expectedSlug = Str::slug($title);
+
+    // If the slug is the same as the expected slug, there's no mismatch
+    if ($this->slug() === $expectedSlug) {
+      return $this;
+    }
+
+    // Otherwise, show a warning in the panel
+    return $this->update([
+      "hasMismatchedSlug" => "true",
+      "ignoreMismatchedSlug" => "false"
+    ]);
   }
 }
