@@ -48,3 +48,15 @@ columns:
                   en: |
                     The full name ("Title") is automatically generated from the <strong>Firstname</strong> and <strong>Lastname</strong> fields.
                     When you modify these fields, <strong>reload the page</strong> to see the changes.
+          description:
+            type: textarea
+            label:
+              fr: Description
+              en: Description
+            size: medium
+            buttons:
+              - bold
+              - italic
+              - "|"
+              - link
+              - "|"
