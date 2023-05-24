@@ -59,22 +59,4 @@ class DesignerPage extends Page
       $name
     );
   }
-
-  // public function changeTitle(string $title, ?string $languageCode = null)
-  // {
-  //   // Replace all kinds of spaces with a single space
-  //   $title = preg_replace("/\s+/", ' ', $title);
-
-  //   // Trim the title
-  //   $title = trim($title);
-
-  //   // The title is determined by the "name" field, so we need to update it rather than the title field
-  //   // The title field is removed to prevent confusion (mismatch between the title field and the actual title)
-  //   $page = $this->update([
-  //     "title" => null,
-  //     "names" => self::splitName($title)
-  //   ]);
-
-  //   return $page;
-  // }
 }
