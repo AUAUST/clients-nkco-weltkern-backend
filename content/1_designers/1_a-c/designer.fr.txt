@@ -1,7 +1,7 @@
 Names:
 
-firstname: Aa
-lastname: Nizana Kazan
+firstname: a
+lastname: c
 
 ----
 
@@ -9,7 +9,7 @@ Hasmismatchedslug: true
 
 ----
 
-Ignoremismatchedslug: true
+Ignoremismatchedslug: false
 
 ----
 

@@ -58,7 +58,12 @@ class DesignerPage extends Page
       "names" => self::splitName($title)
     ]);
 
-    return $page;
+    return $page->checkSlug();
+  }
+
+  public function update(array $input = null, string $languageCode = null, bool $validate = false)
+  {
+    return parent::update($input, $languageCode, $validate)->checkSlug();
   }
 
   private function checkSlug(): static
@@ -68,7 +73,10 @@ class DesignerPage extends Page
 
     // If the slug is the same as the expected slug, there's no mismatch
     if ($this->slug() === $expectedSlug) {
-      return $this;
+      return $this->update([
+        "hasMismatchedSlug" => "false",
+        "ignoreMismatchedSlug" => "false"
+      ]);
     }
 
     // Otherwise, show a warning in the panel
