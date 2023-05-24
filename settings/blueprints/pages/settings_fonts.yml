@@ -2,6 +2,8 @@ title:
   fr: Réglages généraux des polices
   en: General fonts settings
 
+icon: settings
+
 tabs:
   texts:
     label:
