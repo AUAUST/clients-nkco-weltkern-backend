@@ -1,6 +1,2 @@
-<pre>Array
-(
-    [firstname] => Aurianaa
-    [lastname] => lolasass
-)
-</pre>
+expectedSlug: m-ab
+ slug: m-a-b

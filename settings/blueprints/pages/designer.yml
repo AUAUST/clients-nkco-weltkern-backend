@@ -47,41 +47,6 @@ columns:
                   en: |
                     The full name ("Title") is automatically generated from the <strong>Firstname</strong> and <strong>Lastname</strong> fields.
                     When you modify these fields, <strong>reload the page</strong> to see the changes.
-          __mismatchedSlugAlert:
-            type: info
-            width: 2/3
-            label:
-              fr: Attention !
-              en: Warning!
-            text:
-              fr: |
-                Le <strong>slug</strong> de ce designer ne correspond pas à son nom. Cela arrive lorsque le nom a été modifié après la création de la page designer.
-                Controllez que le slug est correct dans <strong>Paramètres</strong> → <strong>Modifier l'URL</strong>.
-            when:
-              hasMismatchedSlug: "true"
-              ignoreMismatchedSlug: false
-          hasMismatchedSlug:
-            type: hidden
-          ignoreMismatchedSlug:
-            type: toggle
-            width: 1/3
-            label:
-              fr: Ignorer l'alerte
-              en: Ignore the alert
-            help:
-              fr: |
-                Si le <strong>slug</strong> est correct, vous pouvez ignorer cette alerte.
-              en: |
-                If the <strong>slug</strong> is correct, you can ignore this alert.
-            text:
-              - fr: Je valide
-                en: I validate
-              - fr: Validé
-                en: Validated
-            when:
-              hasMismatchedSlug: "true"
-              ignoreMismatchedSlug: false
-
           description:
             type: textarea
             label:
