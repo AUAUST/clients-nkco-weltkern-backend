@@ -1,0 +1,11 @@
+title:
+  fr: Fournisseur
+  en: Supplier
+
+icon: box
+
+columns:
+  - width: 2/3
+    sections:
+      infos:
+        type: fields
