@@ -88,7 +88,7 @@ function titleLine(string $title = "", int $columnWidth = 101)
       <pre><?= titleLine("gallery") ?></pre>
       <div class="gallery">
         <?php foreach ($product['gallery_image'] as $index => $image) : ?>
-          <img src="<?= $imagesUrls[$image['id']] ?>" alt="<?= $product['name'] ?>" loading="lazy">
+          <img src="<?= $imagesUrls[$image['id'] ?? '0'] ?? '' ?>" alt="<?= $product['name'] ?>" loading="lazy">
         <?php endforeach; ?>
       </div>
       <?php if (is_array($product['typefaces'])) : ?>
