@@ -20,7 +20,7 @@ tabs:
 
             templates:
               - fontface
-            parent: site.find("fonts")
+            parent: site.find("typefaces")
 
             limit: 10
             search: true
@@ -36,7 +36,7 @@ tabs:
 
             templates:
               - fontface
-            parent: site.find("fonts")
+            parent: site.find("typefaces")
 
             limit: 20
             search: true
