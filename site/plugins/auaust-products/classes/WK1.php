@@ -243,4 +243,34 @@ class WK1
 
     return $images;
   }
+
+  public static function publishers()
+  {
+    $products = self::products();
+
+    if ($products === null) {
+      return null;
+    }
+
+    $publishers = [];
+
+    foreach ($products as $product) {
+
+      // Only consider books
+      if ($product['categories'][0]['slug'] !== 'books') {
+        continue;
+      }
+
+      // Messy because WK1's API is messy
+      $publisher = $product["header"][0]["header"]["author_information"]["author"]["name"] ?? "N/A";
+
+      if ($publishers[$publisher] === null) {
+        $publishers[$publisher] = 1;
+      } else {
+        $publishers[$publisher]++;
+      }
+
+      return $publishers;
+    }
+  }
 }
