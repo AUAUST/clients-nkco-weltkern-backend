@@ -1,0 +1,61 @@
+title: Designer
+
+options:
+  changeSlug: true
+  changeStatus: true
+  changeTemplate: false
+  changeTitle: false
+  duplicate: false
+
+columns:
+  - width: 2/3
+    sections:
+      infos:
+        type: fields
+        fields:
+          names:
+            type: object
+            label:
+              fr: Noms
+              en: Names
+            required: true
+            translate: false
+            fields:
+              firstname:
+                type: text
+                label:
+                  fr: Prénom
+                  en: Firstname
+                translate: false
+              lastname:
+                type: text
+                label:
+                  fr: Nom de famille
+                  en: Lastname
+                required: true
+                minlength: 1
+                translate: false
+              __help:
+                type: info
+                label:
+                  fr: Attention !
+                  en: Warning!
+                text:
+                  fr: |
+                    Le nom complet (« Titre ») est généré automatiquement à partir des champs <strong>Prénom</strong> et <strong>Nom de famille</strong>.
+                    Lorsque vous modifiez ces champs, <strong>rechargez la page</strong> pour voir le résultat.
+                  en: |
+                    The full name ("Title") is automatically generated from the <strong>Firstname</strong> and <strong>Lastname</strong> fields.
+                    When you modify these fields, <strong>reload the page</strong> to see the changes.
+          description:
+            type: textarea
+            label:
+              fr: Description
+              en: Description
+            size: medium
+            buttons:
+              - bold
+              - italic
+              - "|"
+              - link
+              - "|"

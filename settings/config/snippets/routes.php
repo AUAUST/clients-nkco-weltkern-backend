@@ -1,7 +1,6 @@
 <?php
 
 use Kirby\Cms\Response;
-use Kirby\Http\Header;
 
 return [
   [
@@ -31,6 +30,13 @@ return [
         "message" => "Not found",
         "searchId" => $id,
       ], 404);
+    }
+  ],
+  [
+    'pattern' => 'update-products-cover',
+    'language' => '*',
+    'action' => function () {
+      return "Hello world!";
     }
   ]
 ];

@@ -7,12 +7,34 @@ options:
     - product_book
     - product_tool
 
-sections:
-  infos:
-    type: fields
-    extends: fields/product
-    fields:
-      brand:
+columns:
+  - width: 2/3
+    sections:
+      infos:
+        type: fields
+        fields:
+          publisher:
+            type: pages
+            label:
+              fr: Éditeur
+              en: Publisher
+        extends: fields/product
+  - width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          __titMeta:
+            type: headline
+            numbered: false
+            label:
+              fr: MÉTADONNÉES
+              en: METADATA
+      files:
+        type: files
         label:
-          fr: Éditeur
-          en: Publisher
+          fr: Gestionnaire de fichiers
+          en: Files handler
+        help:
+          fr: |
+            Permet de télécharger des fichiers, d'en supprimer ou d'en ajouter, mais ne les rend pas automatiquement visibles.

@@ -1,0 +1,37 @@
+{
+  "name": "auaust/kirby-wk-designers",
+  "description": "Designers plugin for Kirby CMS and Weltkern.",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AUAUST",
+      "email": "hello@auaust.ch"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AUAUST\\": "classes/"
+    }
+  },
+  "require": {
+    "php": ">=8.0.0",
+    "getkirby/composer-installer": "^1.2"
+  },
+  "require-dev": {
+    "getkirby/cms": "^3.8"
+  },
+  "scripts": {
+    "dist": "composer install --no-dev --optimize-autoloader"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  },
+  "extra": {
+    "kirby-cms-path": false
+  }
+}

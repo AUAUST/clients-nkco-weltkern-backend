@@ -1,6 +1,17 @@
 title:
   fr: Réglages généraux des polices
-  en: General fonts settings
+  en: General typefaces settings
+
+icon: settings
+
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  create: false
+  delete: false
+  duplicate: false
 
 tabs:
   texts:

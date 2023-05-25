@@ -6,11 +6,11 @@ Pageproducts: - page://1Pe3NwsOKSHPFHCF
 
 ----
 
-Pagefonts: - page://pqhBHiO60WWCE9SF
+Pagetypefaces: - page://pqhBHiO60WWCE9SF
 
 ----
 
-Pagefontssettings: - page://v92seFbQk17QBGbT
+Pagetypefacessettings: - page://v92seFbQk17QBGbT
 
 ----
 
@@ -27,6 +27,14 @@ Pageabout: - page://dp6dsUqibP2vepsr
 ----
 
 Pageerror: - page://Ad01ZY3S5WhjwqZG
+
+----
+
+Pagesuppliers: - page://b38ldcEz97YoxcRH
+
+----
+
+Pagedesigners: - page://qTfWZB6rA0eSKVJc
 
 ----
 

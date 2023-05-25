@@ -1,0 +1,2 @@
+expectedSlug: m-ab
+ slug: m-a-b

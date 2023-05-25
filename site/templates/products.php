@@ -42,9 +42,7 @@ function titleLine(string $title = "", int $columnWidth = 101)
 }
 
 ?>
-<pre><?=
-      dump($site->pages()->find('fonts_settings')->content()->get("texts")->toStructure(), false);
-      ?></pre>
+
 <div>
   <style>
     :root {
@@ -93,8 +91,27 @@ function titleLine(string $title = "", int $columnWidth = 101)
           <img src="<?= $imagesUrls[$image['id']] ?>" alt="<?= $product['name'] ?>" loading="lazy">
         <?php endforeach; ?>
       </div>
-      <pre><?= titleLine("typefaces") ?></pre>
-      <pre><?= json_encode($product['typefaces']) ?></pre>
+      <?php if (is_array($product['typefaces'])) : ?>
+        <pre><?= titleLine("typeface") ?></pre>
+        <pre><?= $product['typefaces']['font_family_name'] ?></pre>
+        <?php
+        // foreach ($product['typefaces'] as $key => $typeface) :
+        ?>
+        <!-- <pre>< ?= $key ?>: < ?= json_encode($typeface) ?></pre> -->
+        <?php
+        //  endforeach;
+        ?>
+      <?php endif; ?>
+      <pre><?= titleLine("price") ?></pre>
+      <pre><?= $product['price'] ?> <?= $product['currency'] ?></pre>
+      <pre><?= titleLine("stock") ?></pre>
+      <pre><?= $product['quantity'] ?></pre>
+      <pre><?= titleLine("publisher") ?></pre>
+      <pre><?= $product["header"][0]["header"]["author_information"]["author"]["name"] ?></pre>
+      <?php if ($description = $product["header"][0]["header"]["author_information"]["author"]["description"]) : ?>
+        <pre><?= titleLine("publisher description") ?></pre>
+        <pre><?= $description ?></pre>
+      <?php endif; ?>
     </section>
   <?php endforeach; ?>
 </div>

@@ -1,40 +1,51 @@
 title:
   fr: Polices
-  en: Fonts
+  en: Typefaces
+
+icon: title
+
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  create: false
+  delete: false
+  duplicate: false
 
 tabs:
   all:
     label:
       fr: Toutes les polices
-      en: All fonts
+      en: All Typefaces
     columns:
       - sections:
-          draft_fonts:
+          draft_typefaces:
             type: pages
             status: draft
             label:
               fr: Brouillons
-              en: Draft fonts
+              en: Draft typefaces
 
             templates:
               - fontface
-            parent: site.find("fonts")
+            parent: site.find("typefaces")
 
             limit: 10
             search: true
 
             layout: table
 
-          online_fonts:
+          online_typefaces:
             type: pages
             status: published
             label:
               fr: Polices en ligne
-              en: Online fonts
+              en: Online typefaces
 
             templates:
               - fontface
-            parent: site.find("fonts")
+            parent: site.find("typefaces")
 
             limit: 20
             search: true

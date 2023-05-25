@@ -1,7 +1,14 @@
 fields:
-  brand:
-    type: text
-    width: 1/2
+  supplier:
+    type: pages
+    width: 1/4
+    label:
+      fr: Fournisseur
+      en: Supplier
+    query: site.find("suppliers").children.filterBy("template", "supplier")
+    search: true
+    layout: cardlets
+    multiple: false
   price:
     translate: false
     label:

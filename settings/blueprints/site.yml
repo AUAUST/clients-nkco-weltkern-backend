@@ -25,16 +25,16 @@ tabs:
                 label:
                   fr: "Liste des produits"
                   en: "Products list"
-          __sectionFonts:
+          __sectionTypefaces:
             type: fields
             fields:
-              __titFonts:
+              __titTypefaces:
                 type: headline
                 numbered: false
                 label:
                   fr: "POLICES"
-                  en: "FONTFACES"
-              pageFonts:
+                  en: "TYPEFACES"
+              pageTypefaces:
                 type: pages
                 width: 1/2
                 required: true
@@ -44,8 +44,8 @@ tabs:
                 disabled: true
                 label:
                   fr: "Liste des polices"
-                  en: "Fontfaces list"
-              pageFontsSettings:
+                  en: "Typefaces list"
+              pageTypefacesSettings:
                 type: pages
                 width: 1/2
                 required: true
@@ -127,8 +127,19 @@ tabs:
                 type: headline
                 numbered: false
                 label:
-                  fr: "MARQUES"
-                  en: "BRANDS"
+                  fr: "ENTREPRISES"
+                  en: "COMPANIES"
+              pageSuppliers:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Liste des fournisseurs"
+                  en: "Suppliers list"
+                width: 1/2
           __sectionPeople:
             type: fields
             fields:
@@ -138,6 +149,17 @@ tabs:
                 label:
                   fr: "PERSONNES"
                   en: "PEOPLE"
+              pageDesigners:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Liste des designers"
+                  en: "Designers list"
+                width: 1/2
   settings:
     title:
       fr: "PARAMÈTRES"
