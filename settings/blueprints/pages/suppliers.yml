@@ -12,41 +12,26 @@ options:
   create: false
   delete: false
   duplicate: false
-# tabs:
-#   all:
-#     label:
-#       fr: Tous les designers
-#       en: All designers
-#     columns:
-#       - sections:
-#           draft_designers:
-#             type: pages
-#             status: draft
-#             label:
-#               fr: Designers masqués
-#               en: Hidden designers
 
-#             templates:
-#               - designer
-#             parent: site.find("designers")
+tabs:
+  all:
+    label:
+      fr: Fournisseurs
+      en: Suppliers
+    columns:
+      - sections:
+          suppliers:
+            type: pages
 
-#             limit: 10
-#             search: true
+            label:
+              fr: Fournisseurs
+              en: Suppliers
 
-#             layout: table
+            templates:
+              - designer
+            parent: site.find("suppliers")
 
-#           online_designers:
-#             type: pages
-#             status: published
-#             label:
-#               fr: Designers visibles
-#               en: Visible designers
+            limit: 20
+            search: true
 
-#             templates:
-#               - designer
-#             parent: site.find("designers")
-
-#             limit: 20
-#             search: true
-
-#             layout: table
+            layout: table
