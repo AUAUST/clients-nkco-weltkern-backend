@@ -98,6 +98,16 @@ function titleLine(string $title = "", int $columnWidth = 101)
           <pre><?= $key ?>: <?= json_encode($typeface) ?></pre>
         <?php endforeach; ?>
       <?php endif; ?>
+      <pre><?= titleLine("price") ?></pre>
+      <pre><?= $product['price'] ?> <?= $product['currency'] ?></pre>
+      <pre><?= titleLine("stock") ?></pre>
+      <pre><?= $product['quantity'] ?></pre>
+      <pre><?= titleLine("publisher") ?></pre>
+      <pre><?= $product["header"][0]["header"]["author_information"]["author"]["name"] ?></pre>
+      <?php if ($description = $product["header"][0]["header"]["author_information"]["author"]["description"]) : ?>
+        <pre><?= titleLine("publisher description") ?></pre>
+        <pre><?= $description ?></pre>
+      <?php endif; ?>
     </section>
   <?php endforeach; ?>
 </div>
