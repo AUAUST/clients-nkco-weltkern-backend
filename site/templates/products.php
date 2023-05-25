@@ -7,6 +7,7 @@ $products = WK1::products(
   (int) (params()['amount'] ?? null),
   (string) (params()['category'] ?? null)
 );
+
 // $quantity = WK1::productsQuantity();
 
 // WK1::getImageById($product['featured_image']['id']);
@@ -73,6 +74,20 @@ function titleLine(string $title = "", int $columnWidth = 101)
       width: 100%;
     }
   </style>
+
+  <details>
+    <summary>
+      <pre><?= titleLine('publishers') ?></summary></pre>
+      <?php foreach (WK1::publishers() as $publisher => $productsCount) : ?>
+        <pre><?=
+              $publisher . str_repeat('&nbsp;', 60 - mb_strlen(trim($publisher, "\u{00a0} ")))
+              ?><?=
+                $productsCount
+                ?> article(s)</pre>
+      <?php endforeach ?>
+  </details>
+
+  <br>
   <?php foreach ($products as $index => $product) : ?>
     <?php $index = str_pad($index + 1, 3, '0', STR_PAD_LEFT); ?>
     <section>
