@@ -6,11 +6,11 @@ Pageproducts: - page://1Pe3NwsOKSHPFHCF
 
 ----
 
-Pagefonts: - page://pqhBHiO60WWCE9SF
+Pagetypefaces: - page://pqhBHiO60WWCE9SF
 
 ----
 
-Pagefontssettings: - page://v92seFbQk17QBGbT
+Pagetypefacessettings: - page://v92seFbQk17QBGbT
 
 ----
 

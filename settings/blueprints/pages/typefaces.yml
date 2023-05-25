@@ -1,6 +1,6 @@
 title:
   fr: Polices
-  en: Fonts
+  en: Typefaces
 
 icon: title
 
@@ -17,15 +17,15 @@ tabs:
   all:
     label:
       fr: Toutes les polices
-      en: All fonts
+      en: All Typefaces
     columns:
       - sections:
-          draft_fonts:
+          draft_typefaces:
             type: pages
             status: draft
             label:
               fr: Brouillons
-              en: Draft fonts
+              en: Draft typefaces
 
             templates:
               - fontface
@@ -36,12 +36,12 @@ tabs:
 
             layout: table
 
-          online_fonts:
+          online_typefaces:
             type: pages
             status: published
             label:
               fr: Polices en ligne
-              en: Online fonts
+              en: Online typefaces
 
             templates:
               - fontface
