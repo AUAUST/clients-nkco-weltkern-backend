@@ -28,7 +28,7 @@ tabs:
               en: Suppliers
 
             templates:
-              - designer
+              - supplier
             parent: site.find("suppliers")
 
             limit: 20
