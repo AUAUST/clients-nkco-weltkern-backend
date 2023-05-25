@@ -2,7 +2,11 @@ Title: I don't need a cloak to become invisible
 
 ----
 
-Brand: 
+Brandorpublisher: 
+
+----
+
+Supplier: - page://81dFl0bRW7yoNrln
 
 ----
 
@@ -27,6 +31,10 @@ Cover: - file://lMIWWFG5dzJcqxw3
 ----
 
 Stock: 11
+
+----
+
+Brand: 
 
 ----
 
