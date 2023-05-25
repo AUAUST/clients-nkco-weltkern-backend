@@ -1,6 +1,7 @@
 <?php
 
 use Kirby\Cms\Response;
+use auaust\products\WK1;
 
 return [
   [
@@ -30,6 +31,13 @@ return [
         "message" => "Not found",
         "searchId" => $id,
       ], 404);
+    }
+  ],
+  [
+    'pattern' => 'publishers',
+    'language' => '*',
+    'action' => function () {
+      return json_encode(WK1::publishers(), JSON_PRETTY_PRINT);
     }
   ],
   [
