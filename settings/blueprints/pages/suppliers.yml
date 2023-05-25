@@ -1,0 +1,52 @@
+title:
+  fr: Fournisseurs
+  en: Suppliers
+
+icon: box
+
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  create: false
+  delete: false
+  duplicate: false
+# tabs:
+#   all:
+#     label:
+#       fr: Tous les designers
+#       en: All designers
+#     columns:
+#       - sections:
+#           draft_designers:
+#             type: pages
+#             status: draft
+#             label:
+#               fr: Designers masqués
+#               en: Hidden designers
+
+#             templates:
+#               - designer
+#             parent: site.find("designers")
+
+#             limit: 10
+#             search: true
+
+#             layout: table
+
+#           online_designers:
+#             type: pages
+#             status: published
+#             label:
+#               fr: Designers visibles
+#               en: Visible designers
+
+#             templates:
+#               - designer
+#             parent: site.find("designers")
+
+#             limit: 20
+#             search: true
+
+#             layout: table
