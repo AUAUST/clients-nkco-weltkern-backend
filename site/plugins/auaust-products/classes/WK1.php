@@ -264,13 +264,13 @@ class WK1
       // Messy because WK1's API is messy
       $publisher = $product["header"][0]["header"]["author_information"]["author"]["name"] ?? "N/A";
 
-      if ($publishers[$publisher] === null) {
+      if (!array_key_exists($publisher, $publishers)) {
         $publishers[$publisher] = 1;
       } else {
         $publishers[$publisher]++;
       }
-
-      return $publishers;
     }
+
+    return $publishers;
   }
 }
