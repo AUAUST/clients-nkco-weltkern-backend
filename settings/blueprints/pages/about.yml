@@ -3,3 +3,12 @@ title:
   en: About
 
 icon: info
+
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  create: false
+  delete: false
+  duplicate: false

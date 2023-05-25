@@ -1,3 +1,12 @@
 title: Kerns
 
 icon: ticket
+
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  create: false
+  delete: false
+  duplicate: false

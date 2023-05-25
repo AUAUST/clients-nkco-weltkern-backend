@@ -2,6 +2,15 @@ title: Products
 
 icon: book
 
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  create: false
+  delete: false
+  duplicate: false
+
 tabs:
   all:
     label:
