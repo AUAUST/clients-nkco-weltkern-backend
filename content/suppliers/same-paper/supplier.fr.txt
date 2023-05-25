@@ -2,4 +2,8 @@ Title: Same Paper
 
 ----
 
+Rssfeed: https://samepaper.com/rss
+
+----
+
 Uuid: 6SL0NvxXwHq1JTQw
