@@ -3,7 +3,10 @@
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
-$products = WK1::products();
+$products = WK1::products(
+  (int) (params()['amount']),
+  (string) (params()['category'])
+);
 // $quantity = WK1::productsQuantity();
 
 // WK1::getImageById($product['featured_image']['id']);
