@@ -31,5 +31,12 @@ return [
         "searchId" => $id,
       ], 404);
     }
+  ],
+  [
+    'pattern' => 'update-products-cover',
+    'language' => '*',
+    'action' => function () {
+      return "Hello world!";
+    }
   ]
 ];
