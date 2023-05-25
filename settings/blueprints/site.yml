@@ -129,6 +129,17 @@ tabs:
                 label:
                   fr: "ENTREPRISES"
                   en: "COMPANIES"
+              pageSuppliers:
+                type: pages
+                required: true
+                multiple: false
+                translate: false
+                layout: cardlets
+                disabled: true
+                label:
+                  fr: "Liste des fournisseurs"
+                  en: "Suppliers list"
+                width: 1/2
           __sectionPeople:
             type: fields
             fields:
