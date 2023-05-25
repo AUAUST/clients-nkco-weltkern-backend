@@ -9,3 +9,6 @@ columns:
     sections:
       infos:
         type: fields
+        fields:
+          rssFeed:
+            type: url
