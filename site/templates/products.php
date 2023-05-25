@@ -4,8 +4,8 @@ use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
 $products = WK1::products(
-  (int) (params()['amount']),
-  (string) (params()['category'])
+  (int) (params()['amount'] ?? null),
+  (string) (params()['category'] ?? null)
 );
 // $quantity = WK1::productsQuantity();
 
