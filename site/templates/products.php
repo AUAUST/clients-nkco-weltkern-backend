@@ -43,7 +43,7 @@ function titleLine(string $title = "", int $columnWidth = 101)
 
 ?>
 <pre><?=
-      dump($site->pages()->find('typefaces_settings')->content()->get("texts")->toStructure(), false);
+      dump($site->pages()->find('settings_typefaces')->content()->get("texts")->toStructure(), false);
       ?></pre>
 <div>
   <style>
