@@ -120,13 +120,30 @@ class WK1
    * Returns the products from WordPress.
    *
    * @param int|null $quantity The amount of products to fetch. If null, all products will be fetched.
+   * @param string|null $category The category to filter the products by. If null, all products will be fetched.
    * @return array|null The products, or null if the request failed.
    */
-  public static function products(int $quantity = null)
+  public static function products(int $quantity = null, string $category = null)
   {
+    // $quantity as 0 or less means all products
+    if ($quantity < 1) {
+      $quantity = null;
+    }
+
     $quantity ??= self::productsQuantity();
 
-    return self::getCustomRoute('products', ['amount' => $quantity]);
+    $products = self::getCustomRoute('products', ['amount' => $quantity]);
+
+    if ($category) {
+      $products = array_filter(
+        $products,
+        function ($product) use ($category) {
+          return $product['categories'][0]['slug'] === $category;
+        }
+      );
+    }
+
+    return $products;
   }
 
   /**
