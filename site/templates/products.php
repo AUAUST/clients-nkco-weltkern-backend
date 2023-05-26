@@ -79,10 +79,13 @@ function titleLine(string $title = "", int $columnWidth = 101)
     <summary>
       <pre><?= titleLine('publishers') ?></summary></pre>
       <?php foreach (WK1::publishers() as $publisher => $productsCount) : ?>
+        <?php
+        trim($publisher, "\u{00a0} ");
+        ?>
         <pre><?=
-              $publisher . str_repeat('&nbsp;', 60 - mb_strlen(trim($publisher, "\u{00a0} ")))
+              $publisher . str_repeat('&nbsp;', 60 - mb_strlen($publisher))
               ?><?=
-                $productsCount
+                $productsCount . str_repeat('&nbsp;', 3 - mb_strlen($productsCount))
                 ?> article(s)</pre>
       <?php endforeach ?>
   </details>
