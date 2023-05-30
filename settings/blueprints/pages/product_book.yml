@@ -112,6 +112,7 @@ columns:
             search: true
             layout: cardlets
             multiple: false
+          # Start Old Weltkern -------------------------------------
           oldWeltkern:
             type: object
             label:
@@ -136,6 +137,10 @@ columns:
                   fr: ID Wordpress
                   en: Wordpress ID
                 step: 1
+              description:
+                type: textarea
+                disabled: true
+                buttons: false
               gallery:
                 type: structure
                 disabled: true
@@ -182,6 +187,7 @@ columns:
                       fr: ID Wordpress
                       en: Wordpress ID
                     step: 1
+          # End Old Weltkern ---------------------------------------
       files:
         type: files
         label:

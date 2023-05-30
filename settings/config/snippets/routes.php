@@ -87,6 +87,7 @@ return [
             'oldWeltkern' => [
               'slug' => $product['slug'],
               'id' => $product['id'],
+              'description' => $product['short_description'],
               'gallery' => (array_map(
                 function ($image) {
                   return [
