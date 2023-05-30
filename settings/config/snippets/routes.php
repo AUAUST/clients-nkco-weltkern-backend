@@ -100,65 +100,6 @@ return [
           $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
           $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
 
-
-          // id
-          // name
-          // slug
-          // short_description
-
-          // featured_image
-          // gallery_image
-          // featured
-
-          // price
-          // price_welt
-          // in_stock
-          // weight
-          // length
-          // width
-          // height
-          // downloadable
-          // categories
-          // tags
-          // brands
-          // average_rating
-          // review_count
-          // quantity
-          // quantite
-          // back_order_qty
-          // only_welt_point
-          // multiplier
-          // new
-          // rare
-          // made_by_weltanschauung
-          // staff_pick
-          // weltclub_exclu
-          // download
-          // in_use
-          // choice_product
-          // block_text
-          // header
-          // licences
-          // font_feature
-          // poids
-          // estimation_de_livraison
-          // estimation_back_order
-          // gift_wrap
-          // frais_livraisons
-          // header_color
-          // welt_price
-          // options
-          // estimation_date_backorder
-          // content_story
-          // display_story
-          // variant
-          // backorder_check
-          // categorie_multiplier
-          // font_face
-          // points
-          // currency
-          // colors
-
           // $productsPage->createChild([
           //   'num' => $index + 1,
           //   'slug' => $product['name'],
