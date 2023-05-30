@@ -96,6 +96,14 @@ return [
         $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
         $returnString .= 'welt_price: ' . $product['welt_price'] . '<br>';
         $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
+        $returnString .= 'ISBN: ' . (function () use ($product) {
+          foreach ($product['header'][0]['header']['block_option'] as $option) {
+            if ($option['option'] === 'ISBN') {
+              return $option['value'];
+            }
+          }
+          return 'NO ISBN';
+        })() . '<br>';
         $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
 
         // $productsPage->createChild([
