@@ -63,87 +63,82 @@ return [
       //     id: 12312
       // cover: ""
 
-      try {
-        $newProducts = [];
-        $products = WK1::products();
+      $newProducts = [];
+      $products = WK1::products();
 
-        $productsPage = page('products');
+      $productsPage = page('products');
 
-        $returnString = '';
-
-
-        foreach ($products as $index => $product) {
-
-          // if ($index > 1) {
-          //   break;
-          // }
-
-          // Only extract books, not typefaces nor stationery
-          if ($product['categories'][0]['slug'] !== 'books') {
-            continue;
-          }
-
-          $returnString .= 'name: ' . $product['name'] . '<br>';
-          $returnString .= 'slug: ' . $product['slug'] . '<br>';
-          $returnString .= 'id: ' . $product['id'] . '<br>';
-          $returnString .= 'short_description: ' . $product['short_description'] . '<br>';
-          $returnString .= 'gallery_image: ' . json_encode($product['gallery_image']) . '<br>';
-          $returnString .= 'price: ' . $product['price'] . '<br>';
-          $returnString .= 'weight: ' . $product['weight'] . '<br>';
-          $returnString .= 'categories: ' . json_encode($product['categories']) . '<br>';
-          $returnString .= 'tags: ' . json_encode($product['tags']) . '<br>';
-          $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br>';
-          $returnString .= 'poids: ' . json_encode($product['poids']) . '<br>';
-          $returnString .= 'frais_livraisons: ' . json_encode($product['frais_livraisons']) . '<br>';
-          $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
-          $returnString .= 'welt_price: ' . $product['welt_price'] . '<br>';
-          $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
-          $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
-
-          // $productsPage->createChild([
-          //   'num' => $index + 1,
-          //   'slug' => $product['name'],
-          //   'template' => 'product_book',
-          //   'content' => [
-          //     'oldWeltkern' => [
-          //       'slug' => $product['slug'],
-          //       'id' => $product['id'],
-          //       'description' => $product['short_description'],
-          //       'gallery' => (array_map(
-          //         function ($image) {
-          //           return [
-          //             'url' => $image['url'],
-          //             'id' => $image['id'],
-          //           ];
-          //         },
-          //         $product['gallery_image']
-          //       )),
-          //       'tags' => (array_map(
-          //         function ($tag) {
-          //           return [
-          //             'name' => $tag['name'],
-          //             'id' => $tag['id'],
-          //           ];
-          //         },
-          //         $product['tags']
-          //       )
-          //       )
-          //     ]
-          //   ]
-          // ]);
+      $returnString = '';
 
 
-          // $newProducts[] = [
-          //   'id' => $product['id'],
-          //   'name' => $product['name'],
-          // ];
+      foreach ($products as $index => $product) {
+
+        // if ($index > 1) {
+        //   break;
+        // }
+
+        // Only extract books, not typefaces nor stationery
+        if ($product['categories'][0]['slug'] !== 'books') {
+          continue;
         }
 
-        // return $productsPage;
-        return $returnString;
-      } catch (\Throwable $th) {
-        return $th->getMessage() . '<br>' . $th->getLine() . '<br>' . $th->getFile() . '<br>' . $th->getTraceAsString();
+        $returnString .= 'name: ' . $product['name'] . '<br>';
+        $returnString .= 'slug: ' . $product['slug'] . '<br>';
+        $returnString .= 'id: ' . $product['id'] . '<br>';
+        $returnString .= 'short_description: ' . $product['short_description'] . '<br>';
+        $returnString .= 'gallery_image: ' . json_encode($product['gallery_image']) . '<br>';
+        $returnString .= 'price: ' . $product['price'] . '<br>';
+        $returnString .= 'weight: ' . $product['weight'] . '<br>';
+        $returnString .= 'categories: ' . json_encode($product['categories']) . '<br>';
+        $returnString .= 'tags: ' . json_encode($product['tags']) . '<br>';
+        $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br>';
+        $returnString .= 'poids: ' . json_encode($product['poids']) . '<br>';
+        $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
+        $returnString .= 'welt_price: ' . $product['welt_price'] . '<br>';
+        $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
+        $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
+
+        // $productsPage->createChild([
+        //   'num' => $index + 1,
+        //   'slug' => $product['name'],
+        //   'template' => 'product_book',
+        //   'content' => [
+        //     'oldWeltkern' => [
+        //       'slug' => $product['slug'],
+        //       'id' => $product['id'],
+        //       'description' => $product['short_description'],
+        //       'gallery' => (array_map(
+        //         function ($image) {
+        //           return [
+        //             'url' => $image['url'],
+        //             'id' => $image['id'],
+        //           ];
+        //         },
+        //         $product['gallery_image']
+        //       )),
+        //       'tags' => (array_map(
+        //         function ($tag) {
+        //           return [
+        //             'name' => $tag['name'],
+        //             'id' => $tag['id'],
+        //           ];
+        //         },
+        //         $product['tags']
+        //       )
+        //       )
+        //     ]
+        //   ]
+        // ]);
+
+
+        // $newProducts[] = [
+        //   'id' => $product['id'],
+        //   'name' => $product['name'],
+        // ];
       }
+
+      // return $productsPage;
+      return $returnString;
     }
   ]
 ];
