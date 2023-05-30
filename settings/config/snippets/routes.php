@@ -65,7 +65,7 @@ return [
 
       try {
         $newProducts = [];
-        $products = WK1::products(20);
+        $products = WK1::products(50);
 
         $productsPage = page('products');
 
@@ -87,62 +87,20 @@ return [
           $returnString .= 'slug: ' . $product['slug'] . '<br>';
           $returnString .= 'id: ' . $product['id'] . '<br>';
           $returnString .= 'short_description: ' . $product['short_description'] . '<br>';
-
-
-          $returnString .= 'featured_image: ' . json_encode($product['featured_image']) . '<br>';
           $returnString .= 'gallery_image: ' . json_encode($product['gallery_image']) . '<br>';
-          $returnString .= 'featured: ' . $product['featured'] . '<br>';
           $returnString .= 'price: ' . $product['price'] . '<br>';
           $returnString .= 'price_welt: ' . $product['price_welt'] . '<br>';
           $returnString .= 'in_stock: ' . $product['in_stock'] . '<br>';
           $returnString .= 'weight: ' . $product['weight'] . '<br>';
-          $returnString .= 'length: ' . $product['length'] . '<br>';
-          $returnString .= 'width: ' . $product['width'] . '<br>';
-          $returnString .= 'height: ' . $product['height'] . '<br>';
-          $returnString .= 'downloadable: ' . $product['downloadable'] . '<br>';
-          $returnString .= 'name: ' . json_encode($product['categories']) . '<br>';
-          $returnString .= 'name: ' . json_encode($product['tags']) . '<br>';
-          $returnString .= 'name: ' . json_encode($product['brands']) . '<br>';
-          $returnString .= 'average_rating: ' . $product['average_rating'] . '<br>';
-          $returnString .= 'review_count: ' . $product['review_count'] . '<br>';
-          $returnString .= 'quantity: ' . $product['quantity'] . '<br>';
-          $returnString .= 'quantite: ' . $product['quantite'] . '<br>';
-          $returnString .= 'back_order_qty: ' . $product['back_order_qty'] . '<br>';
-          $returnString .= 'only_welt_point: ' . $product['only_welt_point'] . '<br>';
-          $returnString .= 'multiplier: ' . $product['multiplier'] . '<br>';
-          $returnString .= 'new: ' . $product['new'] . '<br>';
-          $returnString .= 'rare: ' . $product['rare'] . '<br>';
-          $returnString .= 'made_by_weltanschauung: ' . $product['made_by_weltanschauung'] . '<br>';
-          $returnString .= 'staff_pick: ' . $product['staff_pick'] . '<br>';
-          $returnString .= 'weltclub_exclu: ' . $product['weltclub_exclu'] . '<br>';
-          $returnString .= 'name: ' . json_encode($product['download']) . '<br>';
-          $returnString .= 'name: ' . json_encode($product['in_use']) . '<br>';
-          $returnString .= 'choice_product: ' . $product['choice_product'] . '<br>';
-          $returnString .= 'name: ' . json_encode($product['header']) . '<br>';
-          $returnString .= 'name: ' . json_encode($product['licences']) . '<br>';
-          $returnString .= 'name: ' . json_encode($product['font_feature']) . '<br>';
-          $returnString .= 'name: ' . json_encode($product['poids']) . '<br>';
-          $returnString .= 'estimation_de_livraison: ' . json_encode($product['estimation_de_livraison']) . '<br>';
-          $returnString .= 'estimation_back_order: ' . json_encode($product['estimation_back_order']) . '<br>';
-          $returnString .= 'gift_wrap: ' . $product['gift_wrap'] . '<br>';
+          $returnString .= 'categories: ' . json_encode($product['categories']) . '<br>';
+          $returnString .= 'tags: ' . json_encode($product['tags']) . '<br>';
+          $returnString .= 'header: ' . json_encode($product['header']) . '<br>';
+          $returnString .= 'poids: ' . json_encode($product['poids']) . '<br>';
           $returnString .= 'frais_livraisons: ' . json_encode($product['frais_livraisons']) . '<br>';
           $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
           $returnString .= 'welt_price: ' . $product['welt_price'] . '<br>';
           $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
-          $returnString .= 'estimation_date_backorder: ' . $product['estimation_date_backorder'] . '<br>';
-          $returnString .= 'content_story: ' . json_encode($product['content_story']) . '<br>';
-          $returnString .= 'display_story: ' . $product['display_story'] . '<br>';
-          $returnString .= 'variant: ' . $product['variant'] . '<br>';
-          $returnString .= 'backorder_check: ' . $product['backorder_check'] . '<br>';
-          $returnString .= 'categorie_multiplier: ' . $product['categorie_multiplier'] . '<br>';
-          $returnString .= 'font_face: ' . json_encode($product['font_face']) . '<br>';
-          $returnString .= 'points: ' . json_encode($product['points']) . '<br>';
-          $returnString .= 'currency: ' . $product['currency'] . '<br>';
-          $returnString .= 'colors: ' . json_encode($product['colors']) . '<br>';
-          $returnString .= 'name: ' . '<br>';
-          $returnString .= 'name: ' . '<br>';
-          $returnString .= 'name: ' . '<br>';
-          $returnString .= 'name: ' . '<br>';
+          $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
 
 
           // id
