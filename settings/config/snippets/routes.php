@@ -65,7 +65,7 @@ return [
 
       try {
         $newProducts = [];
-        $products = WK1::products(50);
+        $products = WK1::products();
 
         $productsPage = page('products');
 
@@ -78,10 +78,10 @@ return [
           //   break;
           // }
 
-          // // Only extract books, not typefaces nor stationery
-          // if ($product['categories'][0]['slug'] !== 'books') {
-          //   continue;
-          // }
+          // Only extract books, not typefaces nor stationery
+          if ($product['categories'][0]['slug'] !== 'books') {
+            continue;
+          }
 
           $returnString .= 'name: ' . $product['name'] . '<br>';
           $returnString .= 'slug: ' . $product['slug'] . '<br>';
