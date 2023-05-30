@@ -2,7 +2,15 @@ Title: Digital Descending
 
 ----
 
+Publisher: 
+
+----
+
 Price: 32.5
+
+----
+
+Auto-kerns: true
 
 ----
 
@@ -10,24 +18,36 @@ Kerns: 3250
 
 ----
 
-Author: LuYang
-
-----
-
-Publisher: Spector Books
-
-----
-
 Image: https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_COVER_.jpg
 
 ----
 
-Stock: 4
+Cover: 
+
+----
+
+Stock: 30
+
+----
+
+Supplier: - page://nKc2PdD5nAMFDQPp
+
+----
+
+Oldweltkern:
+
+slug: ""
+id: 1111
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_COVER_.jpg
+cover: ""
+
+----
+
+Author: LuYang
 
 ----
 
 Uuid: 4mP0KeYTWqgdJw9g
-
-----
-
-Auto-kerns: true
