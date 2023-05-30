@@ -89,12 +89,10 @@ return [
           $returnString .= 'short_description: ' . $product['short_description'] . '<br>';
           $returnString .= 'gallery_image: ' . json_encode($product['gallery_image']) . '<br>';
           $returnString .= 'price: ' . $product['price'] . '<br>';
-          $returnString .= 'price_welt: ' . $product['price_welt'] . '<br>';
-          $returnString .= 'in_stock: ' . $product['in_stock'] . '<br>';
           $returnString .= 'weight: ' . $product['weight'] . '<br>';
           $returnString .= 'categories: ' . json_encode($product['categories']) . '<br>';
           $returnString .= 'tags: ' . json_encode($product['tags']) . '<br>';
-          $returnString .= 'header: ' . json_encode($product['header']) . '<br>';
+          $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br>';
           $returnString .= 'poids: ' . json_encode($product['poids']) . '<br>';
           $returnString .= 'frais_livraisons: ' . json_encode($product['frais_livraisons']) . '<br>';
           $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
