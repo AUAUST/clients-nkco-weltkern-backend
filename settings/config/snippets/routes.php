@@ -74,7 +74,13 @@ return [
           break;
         }
 
+        // Only extract books, not typefaces nor stationery
+        if ($product['categories'][0]['slug'] !== 'books') {
+          continue;
+        }
+
         $productsPage->createChild([
+          'num' => $index + 1,
           'slug' => $product['name'],
           'template' => 'product_book',
           'content' => [

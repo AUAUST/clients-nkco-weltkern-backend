@@ -1,3 +1,23 @@
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 slug: giovanna-silva-imeldific
@@ -48,19 +68,3 @@ tags:
 ----
 
 Uuid: 9YxFOk5fduq8YdTy
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
