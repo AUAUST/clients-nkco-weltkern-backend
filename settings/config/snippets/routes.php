@@ -41,10 +41,29 @@ return [
     }
   ],
   [
-    'pattern' => 'update-products-cover',
+    'pattern' => 'query-weltkern',
     'language' => '*',
     'action' => function () {
-      return "Hello world!";
+      // ----
+
+      // Oldweltkern:
+
+      // slug: digital-descending
+      // id: 1111
+      // gallery:
+      //   -
+      //     url: >
+      //       https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_COVER_.jpg
+      //     id: 12312
+      // tags:
+      //   -
+      //     name: Book
+      //     id: 12312
+      // cover: ""
+
+      $products = WK1::products(20);
+
+      return $products;
     }
   ]
 ];
