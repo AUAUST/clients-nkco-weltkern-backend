@@ -56,14 +56,60 @@ return [
       //       https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_COVER_.jpg
       //     id: 12312
       // tags:
+
       //   -
       //     name: Book
       //     id: 12312
       // cover: ""
 
+      $newProducts = [];
       $products = WK1::products(20);
 
-      return $products;
+      $productsPage = page('products');
+
+
+      foreach ($products as $index => $product) {
+
+        if ($index > 1) {
+          break;
+        }
+
+        $productsPage->createChild([
+          'slug' => $product['name'],
+          'template' => 'product_book',
+          'content' => [
+            'oldWeltkern' => [
+              'slug' => $product['slug'],
+              'id' => $product['id'],
+              'gallery' => (array_map(
+                function ($image) {
+                  return [
+                    'url' => $image['url'],
+                    'id' => $image['id'],
+                  ];
+                },
+                $product['gallery_image']
+              )),
+              'tags' => (array_map(
+                function ($tag) {
+                  return [
+                    'name' => $tag['name'],
+                    'id' => $tag['id'],
+                  ];
+                },
+                $product['tags']
+              )
+              )
+            ]
+          ]
+        ]);
+        // $newProducts[] = [
+        //   'id' => $product['id'],
+        //   'name' => $product['name'],
+        // ];
+      }
+
+      return $productsPage;
     }
   ]
 ];
