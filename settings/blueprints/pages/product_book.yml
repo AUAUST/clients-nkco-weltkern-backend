@@ -137,12 +137,38 @@ columns:
                   fr: ID Wordpress
                   en: Wordpress ID
                 step: 1
+              isbn:
+                type: text
+                disabled: true
+                width: 1/2
+                label: ISBN
+              price:
+                type: number
+                disabled: true
+                width: 1/4
+                label:
+                  fr: Prix
+                  en: Price
+                after: CHF
+              weight:
+                type: number
+                disabled: true
+                width: 1/4
+                label:
+                  fr: Poids
+                  en: Weight
+                after: kg
               description:
+                type: textarea
+                disabled: true
+                buttons: false
+              details:
                 type: textarea
                 disabled: true
                 buttons: false
               gallery:
                 type: structure
+                width: 1/2
                 disabled: true
                 label:
                   fr: Galerie d'images
@@ -166,6 +192,7 @@ columns:
                     step: 1
               tags:
                 type: structure
+                width: 1/2
                 disabled: true
                 label:
                   fr: Tags
