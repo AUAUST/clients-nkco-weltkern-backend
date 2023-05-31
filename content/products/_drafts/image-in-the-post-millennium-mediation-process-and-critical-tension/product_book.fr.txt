@@ -1,0 +1,59 @@
+Oldweltkern:
+
+title: 'Image in the Post-Millennium <br>Mediation, Process and Critical Tension'
+slug: >
+  image-in-the-post-millennium-mediation-process-and-critical-tension
+id: 17704
+isbn: 9493148604 / 978-9493148604
+price: 15.9
+weight: 0.3
+author:
+  name: Onomatopee
+  id: 319
+description: |
+  <p>How does the complex structure of the image today connect to perception, what does this visual culture offer and what is left to the perceiver?</p>
+  <p>As we find ourselves in a culture of digital media, wherein Design, Cinema and New Media intersect, this book zooms in on the image’s dynamic factors seen as a field of work in which the creation of contents and forms is inscribed in a post-digital era.</p>
+details: |
+  - ISBN: 9493148604 / 978-9493148604
+  - Content: 144 pages
+  - Size: 130 × 210 mm
+  
+  - Language: English
+  - Edited by: Maria João Baltazar, Tomé Saldanha Quadros
+  - Graphic design: Inês Nepomuceno, Susana Martins
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_IMAGNTHEPOSTMILLENNIUM.jpg
+    id: 17685
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Image in the Post-Millennium
+Mediation, Process and Critical Tension
+
+----
+
+Uuid: wTeE3FXglAWLVudd
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

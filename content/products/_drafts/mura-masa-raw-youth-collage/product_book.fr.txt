@@ -1,0 +1,72 @@
+Oldweltkern:
+
+title: 'Mura Masa <br>Raw Youth Collage'
+slug: mura-masa-raw-youth-collage
+id: 23021
+isbn: 1916168633 / 978-1916168633
+price: 24.5
+weight: 1.1
+author:
+  name: Topsafe
+  id: 379
+description: |
+  <p>The R.Y.C book is a companion piece to Mura Masa&#8217;s second album of the same name.</p>
+  <p>Words from Mura Masa, Georgia, Ellie Rowsell, slowthai and Ned Green with accompanying photography &#038; artwork from Finn Constantine, Roxy Lee, Dexter Lander, Melchior Tersen, Jet Swan, Leon Sadler, Yannick val Gesto, Stefania Batoeva &#038; Charlotte Maeva Perret.</p>
+  <p>&#8216;Comprising contributions from a host of amazing creatives the publication aims to evoke feelings youth, nostalgia and what it’s like to be young.&#8217; -Ruby Boddington, It&#8217;s Nice That</p>
+details: |
+  - ISBN: 1916168633 / 978-1916168633
+  - Content: 220 pages
+  - Size: 200 × 300 mm
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_-3.jpg
+    id: 23035
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_-2.jpg
+    id: 23036
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-3.jpg
+    id: 23037
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-3.jpg
+    id: 23038
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_4-2.jpg
+    id: 23039
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Mura Masa
+Raw Youth Collage
+
+----
+
+Uuid: SAjrZa76N4qWTUeb
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

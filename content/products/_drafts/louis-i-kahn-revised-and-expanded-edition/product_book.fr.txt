@@ -1,0 +1,58 @@
+Oldweltkern:
+
+title: 'Louis I Kahn <br>Revised and Expanded Edition'
+slug: >
+  louis-i-kahn-revised-and-expanded-edition
+id: 13749
+isbn: 1838663045 / 978-1838663049
+price: 176.9
+weight: 2.1
+author:
+  name: Phaidon Press
+  id: 92
+description: |
+  <p>A thoroughly updated and redesigned edition of McCarter’s esteemed monograph on the globally-revered modern master – includes Roosevelt Island, Four Freedoms Park, which was completed after Kahn&#8217;s death.<br />
+  <br />
+  The significance of the work of Louis I Kahn, one of the greatest influences on post-WWII world architecture, has skyrocketed in the twenty-first century. Robert McCarter’s bestselling and critically-acclaimed monograph explains how Kahn redefined Modern architecture and why his work remains a fundamental source for architects and designers today. Now thoughtfully updated, this comprehensive and extensively illustrated overview features both built and unbuilt projects, including Yale University Art Gallery, Kimbell Art Museum, and the Salk Institute, along with his work in India and Bangladesh, as well as a project realized forty years after Kahn’s death – New York City’s Four Freedoms Park. </p>
+details: |
+  - ISBN: 1838663045 / 978-1838663049
+  - Content: 528 pages
+  - Size: 305 × 238 mm
+  - Author: Robert McCarter
+  - Edited by: Phaidon Press
+  - Language: English
+  - Publishing date: 2022
+  - Images: © WELTKERN® /  Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_LouisIKahn.jpg
+    id: 13750
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Louis I Kahn
+Revised and Expanded Edition
+
+----
+
+Uuid: G2y1n8BvQAeRfmNM
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

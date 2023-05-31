@@ -1,0 +1,66 @@
+Oldweltkern:
+
+title: Swiss Design Awards 2016
+slug: swiss-design-awards-2016
+id: 7543
+isbn: NO ISBN
+price: 19.9
+weight: 0.2
+author:
+  name: Office féféral de la culture
+  id: 125
+description: '<p>Published on the occasion of the Swiss Design Awards exhibition presented in Hall 3 of Messe Basel from June 14 through 19, 2016.</p>'
+details: |
+  - Content: 60 pages
+  - Size: 230 × 4 × 320 mm
+  - Edited by: Federal Office of Culture
+  - Language: English / German / French / Italian
+  - Publishing date: 2016
+  - Specs: Softcover
+  - Images: © WELTKERN®. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_SwissDesign-1.jpg
+    id: 7560
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-35.jpg
+    id: 7550
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-51.jpg
+    id: 7552
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-51.jpg
+    id: 7554
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_SwissDesign_BACK-1.jpg
+    id: 7558
+tags: [ ]
+
+----
+
+Multilinetitle: Swiss Design Awards 2016
+
+----
+
+Uuid: swFTo8f9aVakZ6eN
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

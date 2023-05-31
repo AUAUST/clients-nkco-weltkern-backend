@@ -1,0 +1,66 @@
+Oldweltkern:
+
+title: Empavillonner
+slug: empavillonner
+id: 17471
+isbn: 2957385508 / 978-2957385508
+price: 19.9
+weight: 0.2
+author:
+  name: Athom
+  id: 321
+description: '<p>An analysis of the exhibition pavilions (universal exhibitions and biennales) from the point of view of their architecture, crossing the contributions of designers and architects, historians, philosophers and aestheticians.</p>'
+details: |
+  - ISBN: 2957385508 / 978-2957385508
+  - Content: 412 pages
+  - Size: 110 × 180 mm
+  - Language: French
+  - Edited by: David Bihanic, Bernard Gabillon, Olivier Koettlitz, Jocelyn Le Creurer, Aurélien Maillard.
+  - Texts by: Jean-Christophe Arcos, David Bihanic, Pierre Bourdareau, Claire Brunet, Jérémie Elalouf, Bernard Gabillon, Catherine Geel, Pierre-Damien Huyghe, Richard Klein, Olivier Koettlitz, Jocelyn Le Creurer, Salvator-John Liotta, Pierre Litzler, Philippe Louguet, Fabienne Louyot, Aurélien Maillard, Philippe Rahm, Philippe Rizzotti, Didier Vivien.
+  
+  - Graphic design: David Bihanic
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Athom. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Empavillonner-1.jpg
+    id: 17474
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Empavillonner2.jpg
+    id: 17476
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Empavillonner3.jpg
+    id: 17478
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Empavillonner4.jpg
+    id: 17480
+tags: [ ]
+
+----
+
+Multilinetitle: Empavillonner
+
+----
+
+Uuid: rZlQN6atYXtKyx6x
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

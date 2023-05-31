@@ -1,0 +1,76 @@
+Oldweltkern:
+
+title: 'Modelling the Metropolis <br>The Architectural Model in Victorian London'
+slug: modelling-the-metropolis-br
+id: 29652
+isbn: 3856764357 / 978-3856764357
+price: 43.9
+weight: 2.1
+author:
+  name: gta Verlag
+  id: 324
+description: |
+  <p>Architectural models made nineteenth-century London. As the city grew it became the global centre of finance, industrial capitalism, and the British Empire. New buildings, urban spaces, and networks of infrastructure were demanded, constructed, and rebuilt. Models were a crucial medium of communication that enabled architects, politicians, and the wider public to conceive the city’s expansion of buildings and spaces.</p>
+  <p>Based on extensive research in archives, museums, and period publications, Modelling the Metropolis addresses not just architectural models but also an eclectic range of images and objects – from technical products to sculptures, diagrams to engravings, maps to photographs – that dramatize the politics and aesthetics of London architecture in the nineteenth century.</p>
+details: |
+  - ISBN: 3856764357 / 978-3856764357
+  - Content: 188 pages
+  - Size: 165 × 245 mm
+  - Language: English
+  - Publishing date: 2023
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / gta Verlag. All rights reserved.
+  - Design: Salzmann Gertsch
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Modelling-the-Metronomy_COVER_.jpg
+    id: 29658
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Modelling-the-Metronomy_SPREAD_03.jpg
+    id: 29655
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Modelling-the-Metronomy_SPREAD_04.jpg
+    id: 29654
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Modelling-the-Metronomy_SPREAD_02.jpg
+    id: 29656
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Modelling-the-Metronomy_SPREAD_05.jpg
+    id: 29653
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Modelling-the-Metronomy_SPREAD_01.jpg
+    id: 29657
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Modelling the Metropolis
+The Architectural Model in Victorian London
+
+----
+
+Uuid: bCIsPodJ5MwsJnUe
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

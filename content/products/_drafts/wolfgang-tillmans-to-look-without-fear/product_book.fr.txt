@@ -1,0 +1,68 @@
+Oldweltkern:
+
+title: 'Wolfgang Tillmans <br>To look without fear'
+slug: wolfgang-tillmans-to-look-without-fear
+id: 25854
+isbn: 3753301778 / 978-3753301778
+price: 54.9
+weight: 2.2
+author:
+  name: MoMA
+  id: 243
+description: |
+  <p>Edited by Roxana Marcoci. With contributions by Quentin Bajac, Yve-Alain Bois, Julia Bryan-Wilson, Clément Chéroux, Durga Chew-Bose, Stuart Comer, Keller Easterling, Paul Flynn, Sophie Hackett, Michelle Kuo, Oluremi C. Onabanjo, Phil Taylor, Wolfgang Tillmans, and Andrew Vielkind</p>
+  <p>A visionary creator and intrepid polymath, Wolfgang Tillmans unites formal inventiveness with an ethical orientation that attends to the most pressing issues of life today. While his work transcends the bounds of any single artistic discipline, he is best known for his wide-ranging photographic output. From trenchant documents of social movements to windowsill still lifes, sensitive portraits to architectural studies, ecstatic images of nightlife to cameraless abstractions, astronomical observations to intimate nudes, he has explored seemingly every genre of photography imaginable, continually experimenting with ways to make new pictures and deepen the viewer’s experience. </p>
+details: |
+  - ISBN: 3753301778 / 978-3753301778
+  - Content: 320 pages
+  - Size: 309 × 248 mm
+  - Design: Face.
+  - Language: German
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / MoMa. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Wolfgang-Tillmans_COVER_.jpg
+    id: 25887
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Wolfgang-Tillmans_To-look-without_SPREAD_01.jpg
+    id: 25886
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Wolfgang-Tillmans_To-look-without_SPREAD_02.jpg
+    id: 25885
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Wolfgang-Tillmans_To-look-without_SPREAD_03.jpg
+    id: 25884
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Wolfgang Tillmans
+To look without fear
+
+----
+
+Uuid: iJqLaxDgUQbyXgnc
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,83 @@
+Oldweltkern:
+
+title: Andy Warhol
+slug: andy-warhol
+id: 11024
+isbn: |
+  0847869253 / 978-0847869251
+price: 49.2
+weight: 1.4
+author:
+  name: Rizzoli Publications
+  id: 115
+description: |
+  <p>A new reading of Warhol presents his life and work in the context of contemporary concerns, emphasizing his continued relevance in the digital age.<br />
+  <br />
+  As an underground art star, Andy Warhol was the antidote to the prevalent Abstract Expressionist style of the 1950s. His work in advertising, fashion, film, and music videos featured popular everyday subjects, openly acknowledged wide-ranging influences, and had a fascination with popular culture.<br />
+  <br />
+  Looking at his background in an immigrant family, ideas of death and religion, sexuality, and ambition to push traditional artistic boundaries, the book reveals Warhol as an artist who succeeded and failed in equal measure and who embraced the establishment while cavorting with the underground. It explores Warhol&#8217;s flirtation with the commercial world of celebrity alongside his socially engaged collaborations and advocacy of alternative lifestyles. Including many iconic as well as lesser-known works, this book highlights Warhol&#8217;s conceptual ambition within the shifting creative and political landscape, permitting a broad view of how Warhol, and his work, mark a period of cultural transformation.</p>
+details: |
+  - ISBN: 0847869253 / 978-0847869251
+  
+  - Content: 224 Pages
+  - Size: 222 × 22 × 289 mm
+  - Authors: Gregor Muir, Yilmaz Dziewior
+  - Contributions from: Kenneth Brummel, Stephan Diederich, Olivia Laing
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Warhol.jpg
+    id: 11079
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-16.jpg
+    id: 11083
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-15.jpg
+    id: 11085
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-16.jpg
+    id: 11087
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-15.jpg
+    id: 11089
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-14.jpg
+    id: 11091
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Warhol_BACK.jpg
+    id: 11077
+tags: [ ]
+
+----
+
+Multilinetitle: Andy Warhol
+
+----
+
+Uuid: LLLcOuQyO4QBvviD
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

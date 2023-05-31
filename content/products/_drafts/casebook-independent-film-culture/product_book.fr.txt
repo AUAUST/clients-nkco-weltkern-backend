@@ -1,0 +1,68 @@
+Oldweltkern:
+
+title: 'Casebook <br>Independent Film Culture'
+slug: casebook
+id: 23168
+isbn: NO ISBN
+price: 16.9
+weight: 0.8
+author:
+  name: Topsafe
+  id: 379
+description: '<p>TOPSAFE.TV&#8217;s new Independent Film Culture magazine, CASEBOOK &#8211; S01E01 features portraits of some of their favourite young film makers through stills, interviews and a hefty appendix.</p>'
+details: |
+  - Content: 196 pages
+  - Size: 185 × 270 mm
+  - Language: English
+  - Publishing date: 2016
+  - Specs: Softcover
+  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_1-1.jpg
+    id: 23195
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_1-3.jpg
+    id: 23185
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-9.jpg
+    id: 23186
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-9.jpg
+    id: 23187
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_4-7.jpg
+    id: 23188
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Casebook
+Independent Film Culture
+
+----
+
+Uuid: jjAoH2A3I5pMfSyF
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

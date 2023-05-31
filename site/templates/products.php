@@ -3,7 +3,11 @@
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
 
-$products = WK1::products(100);
+$products = WK1::products(
+  (int) (params()['amount'] ?? null),
+  (string) (params()['category'] ?? null)
+);
+
 // $quantity = WK1::productsQuantity();
 
 // WK1::getImageById($product['featured_image']['id']);
@@ -70,6 +74,23 @@ function titleLine(string $title = "", int $columnWidth = 101)
       width: 100%;
     }
   </style>
+
+  <details>
+    <summary>
+      <pre><?= titleLine('publishers') ?></summary></pre>
+      <?php foreach (WK1::publishers() as $publisher => $productsCount) : ?>
+        <?php
+        trim($publisher, "\u{00a0} ");
+        ?>
+        <pre><?=
+              $publisher . str_repeat('&nbsp;', 60 - mb_strlen($publisher))
+              ?><?=
+                $productsCount . str_repeat('&nbsp;', 3 - mb_strlen($productsCount))
+                ?> article(s)</pre>
+      <?php endforeach ?>
+  </details>
+
+  <br>
   <?php foreach ($products as $index => $product) : ?>
     <?php $index = str_pad($index + 1, 3, '0', STR_PAD_LEFT); ?>
     <section>
@@ -88,7 +109,7 @@ function titleLine(string $title = "", int $columnWidth = 101)
       <pre><?= titleLine("gallery") ?></pre>
       <div class="gallery">
         <?php foreach ($product['gallery_image'] as $index => $image) : ?>
-          <img src="<?= $imagesUrls[$image['id']] ?>" alt="<?= $product['name'] ?>" loading="lazy">
+          <img src="<?= $imagesUrls[$image['id'] ?? '0'] ?? '' ?>" alt="<?= $product['name'] ?>" loading="lazy">
         <?php endforeach; ?>
       </div>
       <?php if (is_array($product['typefaces'])) : ?>

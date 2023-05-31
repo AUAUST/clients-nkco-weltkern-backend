@@ -1,0 +1,86 @@
+Oldweltkern:
+
+title: 'Gego <br>The Architecture of an Artist'
+slug: gego-the-architecture-of-an-artist
+id: 18524
+isbn: 3959055628 / 978-3959055628
+price: 37.5
+weight: 0.2
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>From 1932 to 1938, before emigrating to Venezuela, the artist Gego studied architecture and engineering at the Technische Hochschule Stuttgart. In 1955 — at the time, that is, when she began to become active as an artist — she wrote to her former professor Paul Bonatz, ”Even if I have strayed from architecture and found myself unable to master life through it, it has none- theless shaped me, to some degree at least. Even unhappy loves are of great value and have their effect.“ A few years later, MoMA in New York bought one of the artist’s first works. Today, Gego ranks as one of the best-known artists in Latin America. Conceptual approaches and practical ideas about architecture and processes of space creation have remained a constant theme in her art and have been the perennial subject of creative debate.<br />
+  This book is published in conjunction with the exhibition Gego: The Architecture of an Artist at the Kunstmuseum Stuttgart. The Fundación Gego’s permanent loan to the museum of 100 works has made it possible to give visible expression to these connections, with special attention paid to the artist’s graphic work.<br />
+  <br />
+  Gertrud Louise Goldschmidt (1912, Hamburg, Germany – 1994, Caracas, Venezuela) better known as Gego, was a German Venezuelan sculptor, installation artist, architect, and draughtswoman. She is best known for the work she did in the 1960s and 1970s, com- prising abstract drawings, three-dimensional works, and wire constructions.</p>
+details: |
+  - ISBN: 3959055628 / 978-3959055628
+  - Content: 220 pages
+  - Size: 200 × 270 mm
+  - Language: English
+  - Edited by: Ulrike Groos, Philip Kurz , Stefanie Reisinger, Kerstin Thomas
+  - Publication: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_gego.jpg
+    id: 18502
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gego.-The-Architecture-of-an-Artist.jpg
+    id: 18607
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gego.-The-Architecture-of-an-Artist1.jpg
+    id: 18608
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gego.-The-Architecture-of-an-Artist2.jpg
+    id: 18609
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gego.-The-Architecture-of-an-Artist3.jpg
+    id: 18610
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gego.-The-Architecture-of-an-Artist4.jpg
+    id: 18611
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gego.-The-Architecture-of-an-Artist5.jpg
+    id: 18612
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Gego.-The-Architecture-of-an-Artist6.jpg
+    id: 18613
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Gego
+The Architecture of an Artist
+
+----
+
+Uuid: R9hDIGUVq4eB2sRk
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

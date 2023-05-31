@@ -1,0 +1,63 @@
+Oldweltkern:
+
+title: 'Bieke Depoorter <br>I Am About To Call It a Day'
+slug: >
+  bieke-depoorter-i-am-about-to-call-it-a-day
+id: 14474
+isbn: 3905929690 / 978-3905929690
+price: 98.4
+weight: 0.85
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>A jaundiced light envelops the wood, attempting to restrain the pitch-black night from darkening the surrounding grounds. Like a thief in the night, we catch sight of a female silhouette stretched out, an image of oblivion against the wooded backdrop. The blue white polka dot bathing suit almost escapes the eye. How easily the gaze adjusts, marveling at the shadow play in the background. Yet, much the way we might discover people worshipping the sun at summer beaches, we now watch a figure moon bathing in the nightly gloom. Her mind wanders off to places that are beyond our ken. Lying in a stone bath, she has abandoned the outside world, shaken it off like water off a duck&#8217;s back. She appears to reach out, her hand presumably waiting to be kissed. We imagine how she might slowly, gradually disappear into the man-sized hole.<br />
+  <br />
+  The tainted light, which had just seemed somewhat unsettling, now reveals a golden glimmer, as though capturing or conjuring this ostensibly unattended moment. It is hard to fathom that this scene could possibly have taken place anywhere, anytime. It is even harder to fathom how skillfully the photographer has succeeded in making this moment seem perfectly self-evident.<br />
+  <br />
+  As a follow-up to her widely acclaimed book <em>Ou Menya</em>, Bieke Depoorter (member of Magnum Photos) traveled to the United States, spending the night at the homes of perfect strangers, whose paths she crossed upon her wanderings. However, as we leaf through the book, it would hardly cross our minds that these people ever had Bieke&#8217;s company. They seem utterly oblivious, about to call it a day, as if the photographer has managed to make herself unseen, leaving only her eye behind. In reality, she won their hearts by candidly admitting to her own vulnerability. In turn, they confided in her, and so we watch these fletting figures forever waving to us, signaling that they are still here, living their lives despite the strife and struggle.<br />
+  <br />
+  We are immersed in obscurity. We find ourselves scarcely scratching the surface of these unpolished and unvarnished images. A surreal breeze drifts through the portraits and landscapes in this book despite their documentary nature, while the visual idiom inclines towards the cinematographic. Maybe these images were not meant to be fathomed; rather, the photographer is acutely aware of the inarticulate and the ineffable, melting away into thin air ever so easily. We watch how everything puzzles into place within the frame of the picture, and how once upon a time the light caressed a surface. Faraway, so close. </p>
+details: |
+  - ISBN: 3905929690 / 978-3905929690
+  - Content: 80 Pages
+  - Size: 285 × 13 × 420 mm
+  - Artist: Bieke Depoorter
+  - Design: Armand Mevis
+  - Language: French
+  - Publishing date: 2014
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Bieke.jpg
+    id: 14477
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Bieke Depoorter
+I Am About To Call It a Day
+
+----
+
+Uuid: fbE41eQVzi3ohCFm
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

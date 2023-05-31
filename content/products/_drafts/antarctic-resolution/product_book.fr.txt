@@ -1,0 +1,58 @@
+Oldweltkern:
+
+title: Antarctic Resolution
+slug: antarctic-resolution
+id: 13544
+isbn: 3037786406 / 978-3037786406
+price: 62.2
+weight: 3.2
+author:
+  name: Lars Müller Publishers
+  id: 85
+description: |
+  <p>Accounting for approximately 10 % of the land mass of Planet Earth, the Antarctic is a Global Commons we collectively neglect. Far from being a pristine natural landscape, the continent is a contested territory which conceals resources that might prove irresistible in a world with an ever-increasing population. The 26 quadrillion tons of ice accumulated on its bedrock, equivalent to around 70 % of the fresh water on our planet, represent the most significant repository of scientific data available. It provides crucial information for future environmental policies, and, at the same time, is the greatest possible menace to global coastal settlements when sea levels rise because of global warming.</p>
+  <p>On the 200th anniversary of the discovery of Antarctica, Antarctic Resolution offers a high-resolution image of this hyper-surveilled yet neglected continent. In contrast to the fragmented view offered by Big Data companies, the book is a holistic study of the continent’s unique geography, unparalleled scientific potential, contemporary geopolitical significance, experimental governance system, and extreme inhabitation model. A transnational network of multidisciplinary polar experts – represented in the form of authored texts, photographic essays, and data-based visual portfolios – reveals the intricate web of growing economic and strategic interests, tensions, and international rivalries, which are normally enveloped in darkness, as is the continent for six months of the year.</p>
+  <p>With contributions by Doaa Abdel-Motaal, Conrad Anker, Ryan Ashworth, Francesco Bandarin, Carlo Barbante, James N. Barnes, Thomas Barningham, Carlo Baroni, Susan Barr, Elisa Bergami, Marcelo Bernal, Anne-Marie Brady, Ralf Brauner, Cassandra M. Brooks, Shaun T. Brooks, Hugh Broughton, Bert Bücking, David Burrows, Sol Camacho, Sanjay Chaturverdi, Swadheet Chaturvedi, Christy Collis, Peter Convey, Geoff Cooper, Gabriele Coppi, Ilaria Corsi, Lino Dainese, Klaus Dodds, Julian Dowdeswell, Juan Du, Graeme Eagles, Tess Egan, Alexey Ekaykin, Fausto Ferraccioli, Joe Ferraro, James Rodger Fleming, Adrian Fox, William Fox, Bob Frame, Peter Fretwell, Jacopo Gabrielli, Hartwig Gernandt, Andrew Gerrard, Neil Gilbert, Karsten Gohl, Francis Halzen, Kael Hanson, Ursula Harris, Judith Hauck, Robert Headland, Beth Healey, Alan D. Hemmings, Adrian Howkins, Kevin A. Hughes, Andrew T. Hynous, Julia Jabour, Stéphanie Jenouvrier, Solan Jensen, Andrea Kavanaugh, Daniel Kiss, Georg Kleinschmidt, Alexander Klepikov, Peter Landschützer, Louis John Lanzerotti, Elizabeth Leane, Sang-Lem Lee, Inti Ligabue, Daniela Liggett, Bryan Lintott, Vladimir Y. Lipenkov, Cornelia Lüdecke, Arturo Lyon, James Madsen, Craig McCormack, Tony McGlory, Hans-Jürgen Meyer, Christel Misund-Domaas, Nicholas de Monchaux, Chiara Montanari, Michael Morrison, Teasel Muir-Harmony, John Nelson, Camilla Nichol, Miranda Nieboer, Anne Noble, Dirk Notz, Shaun O’Boyle, Madeleine O’Keefe, Nouschka Očenášek, Lawrence A. Palinkas, Scott Parazynski, Carolina Passos, Michael Pearson, Francesco Pellegrino, Rick Petersen, Katherina Petrou, Andrea Piñones, Jean-Yves Pirlot, Ceisha Poirot, Jean de Pomereu, Alexandre Ponomarev, Brian Rauch, Ron Roberts, Donald R. Rothwell, Juan Francisco Salazar, Jean-Baptiste Sallée, Sir Philippe Samyn, Bojan Šavrič, Mirko Scheinert, Didier Schmitt, Thomas Schramm, Daniel Schubert, Karen Nadine Scott, Cara Seitchek, Maria Ximena Senatore, Jonathan Shanklin, Yuri Shibaev, Tim Stephens, Pavel G. Talalay, Steve Theno, Paul Thur, Philip Trathan, David Vaughan, Emerson Vidigal, Claudio Willams, Gary Wilson and Angela Wright.</p>
+details: |
+  - ISBN: 3037786406 / 978-3037786406
+  - Content: 992 pages, 1255 illustrations
+  - Size: 200 × 264 mm
+  - Design: Giulia Foscari with Integral Lars Müller
+  - Font in use: TWK Everett
+  by Nolan Paparelli
+  - Edited by: Giulia Foscari / UNLESS
+  - Contributions by: Doaa Abdel-Motaal, Conrad Anker, Ryan Ashworth, Francesco Bandarin, Carlo Barbante, James N. Barnes, Thomas Barningham, Carlo Baroni, Susan Barr, Elisa Bergami, Marcelo Bernal, Anne-Marie Brady, Ralf Brauner, Cassandra M. Brooks, Shaun T. Brooks, Hugh Broughton, Bert Bücking, David Burrows, Sol Camacho, Sanjay Chaturverdi, Swadheet Chaturvedi, Christy Collis, Peter Convey, Geoff Cooper, Gabriele Coppi, Ilaria Corsi, Lino Dainese, Klaus Dodds, Julian Dowdeswell, Juan Du, Graeme Eagles, Tess Egan, Alexey Ekaykin, Fausto Ferraccioli, Joe Ferraro, James Rodger Fleming, Adrian Fox, William Fox, Bob Frame, Peter Fretwell, Jacopo Gabrielli, Hartwig Gernandt, Andrew Gerrard, Neil Gilbert, Karsten Gohl, Francis Halzen, Kael Hanson, Ursula Harris, Judith Hauck, Robert Headland, Beth Healey, Alan D. Hemmings, Adrian Howkins, Kevin A. Hughes, Andrew T. Hynous, Julia Jabour, Stéphanie Jenouvrier, Solan Jensen, Andrea Kavanaugh, Daniel Kiss, Georg Kleinschmidt, Alexander Klepikov, Peter Landschützer, Louis John Lanzerotti, Elizabeth Leane, Sang-Lem Lee, Inti Ligabue, Daniela Liggett, Bryan Lintott, Vladimir Y. Lipenkov, Cornelia Lüdecke, Arturo Lyon, James Madsen, Craig McCormack, Tony McGlory, Hans-Jürgen Meyer, Christel Misund-Domaas, Nicholas de Monchaux, Chiara Montanari, Michael Morrison, Teasel Muir-Harmony, John Nelson, Camilla Nichol, Miranda Nieboer, Anne Noble, Dirk Notz, Shaun O’Boyle, Madeleine O’Keefe, Nouschka Očenášek, Lawrence A. Palinkas, Scott Parazynski, Carolina Passos, Michael Pearson, Francesco Pellegrino, Rick Petersen, Katherina Petrou, Andrea Piñones, Jean-Yves Pirlot, Ceisha Poirot, Jean de Pomereu, Alexandre Ponomarev, Brian Rauch, Ron Roberts, Donald R. Rothwell, Juan Francisco Salazar, Jean-Baptiste Sallée, Sir Philippe Samyn, Bojan Šavrič, Mirko Scheinert, Didier Schmitt, Thomas Schramm, Daniel Schubert, Karen Nadine Scott, Cara Seitchek, Maria Ximena Senatore, Jonathan Shanklin, Yuri Shibaev, Tim Stephens, Pavel G. Talalay, Steve Theno, Paul Thur, Philip Trathan, David Vaughan, Emerson Vidigal, Claudio Willams, Gary Wilson and Angela Wright.
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Lars Müller Publishers. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_AntarcticaResolution.jpg
+    id: 13545
+tags: [ ]
+
+----
+
+Multilinetitle: Antarctic Resolution
+
+----
+
+Uuid: XcQg6UFJjfJhy0v9
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

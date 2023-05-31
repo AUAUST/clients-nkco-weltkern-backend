@@ -1,0 +1,65 @@
+Oldweltkern:
+
+title: Embodying Anew
+slug: embodying-anew
+id: 10152
+isbn: 1916002494 / 978-1916002494
+price: 64.9
+weight: 0.1
+author:
+  name: InOtherWords
+  id: 105
+description: |
+  <p><em>Embodying Anew</em> a is show including works by Magdalene Odundo, Simone Leigh and Thaddeus Mosley, three artists who engage extensively with international creative practices to synthesise the aesthetics of a vast array of visual traditions within their work “collectively, this feels like the wildest kind of jazz: it is improvisation, syncopation, scholarship, care, attention, memory”.<br />
+  <br />
+  Conceptualised and designed as an archived ephemera the limited edition publication captures the spirit of the show and transcends its temporality marking its position in history. Comprised of a manilla DL envelope containing a silkscreened colour sheet wrapping a die-stamped linen envelope. Inside a series of offset reproductions featuring a bust by Simone Leigh, a sculpture by Thaddeus Mosley and three vessels by Magdalene Odundo with a hand-stamped colour photographic print of the installation and a booklet with an essay by Lauren DeLand.<br />
+  <br />
+  <em>Embodying Anew</em> is the second in a series published in collaboration with Maximillian William, London.</p>
+details: |
+  - ISBN: 1916002494 / 978-1916002494
+  - Content: Envelope containing multiple formats, limited edition (300 copies)
+  - Size: 110 × 220 mm
+  - Authors: Simone Leigh, Magdalene Odundo, Thaddeus Mosley
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / InOtherWords. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_1.jpg
+    id: 10154
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_1-3.jpg
+    id: 10158
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_1-2.jpg
+    id: 10156
+tags: [ ]
+
+----
+
+Multilinetitle: Embodying Anew
+
+----
+
+Uuid: JqEcB91VJbbB3pu2
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,65 @@
+Oldweltkern:
+
+title: 'Liv Bugge <br>Structural Magic'
+slug: liv-bugge-structural-magic
+id: 17556
+isbn: 8293104285 / 978-8293104285
+price: 32.9
+weight: 0.2
+author:
+  name: Torpedo Press
+  id: 322
+description: |
+  <p>Two imprints; the one of a fossil trilobite belonging to the Natural History Museum in Oslo, the other is a bronze cast taken of a tabletop in a cell in Oslo Prison. The imprint from the prison is most likely made by a human; the fossil one is most likely not, instead found, held, harvested, and placed in the museum collection by a human.<br />
+  Visual artist Liv Bugge is entering into conversation with these two objects &#8211; or subjects &#8211; which have been left to us by the touch of someone or something, as well as asking how to begin this conversation. The artworks, conversations, and thoughts presented in this book springs from the doctoral research project The Other Wild, touching art as confrontation, completed with a public defence in the spring of 2019.</p>
+details: |
+  - ISBN: 8293104285 / 978-8293104285
+  - Content: 254 pages
+  - Size: 175 × 225 mm
+  - Language: English
+  - Texts by: Natasha Marie Llorens, Denise Ferreira Da Silva, Elke Marhöfer, Liv Bugge, Susanne M. Winterling and Elizabeth A. Povinelli, Haagi Abdim, Benjamin Larsen Lipski, Monster Network (Sara Orning & Ingvil Hellstrand), Jon Lønnve, Hans Petter Graver, Gyrid Gunnes, Solveig Styve Holte, Noemi Fernandez Dahms, Ingvil Hellstrand.
+  - Graphic design: Ylva Greni
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Torpedo. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_structuralmagic.jpg
+    id: 17557
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_structuralmagic1.jpg
+    id: 17559
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_structuralmagic2.jpg
+    id: 17561
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Liv Bugge
+Structural Magic
+
+----
+
+Uuid: r4MQ2RtzTVwKrlC4
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

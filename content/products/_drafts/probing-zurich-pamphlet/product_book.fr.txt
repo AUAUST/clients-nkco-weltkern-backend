@@ -1,0 +1,67 @@
+Oldweltkern:
+
+title: 'Probing Zurich <br>Pamphlet'
+slug: probing-zurich-pamphlet
+id: 29395
+isbn: 3856764371 / 978-3856764371
+price: 20.9
+weight: 2.1
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>This issue of Pamphlet deals with the perception, visualization, and representation of distinct parts of Zurich and offers different ways of representing the city – both above ground and underground – by analyzing five unique sites, each of which represents a multifaceted, layered and spatially complex system: the ETH main building, Zurich main station, the Jelmoli department store, the Sihl River, and the Schanzengraben and adjacent Old Botanical Garden. Each site is approached from two perspectives: the visual aesthetic perspective of student works that accurately visualize the site through point cloud modelling; and the perspective of experts who have a special relation to the site or knowledge of the applied methods and technologies, thus contributing insights from urban history, city planning, architecture, and landscape architecture.</p>'
+details: |
+  - ISBN: 3856764371 / 978-3856764371
+  - Content: 88 pages
+  - Size: 150 × 230 mm
+  - Design: Julie Peeters
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Staple
+  - Specs: Softcover
+  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Probing-Zurich-Pamphlet_COVER_.jpg
+    id: 29399
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Probing-Zurich-Pamphlet_SPREAD_01.jpg
+    id: 29398
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Probing-Zurich-Pamphlet_SPREAD_02.jpg
+    id: 29397
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Probing-Zurich-Pamphlet_SPREAD_03.jpg
+    id: 29396
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Probing Zurich
+Pamphlet
+
+----
+
+Uuid: snKB2xMSLf3Hgb42
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

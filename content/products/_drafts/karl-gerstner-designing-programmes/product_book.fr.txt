@@ -1,0 +1,67 @@
+Oldweltkern:
+
+title: 'Karl Gerstner <br>Designing Programmes'
+slug: karl-gerstner-designing-programmes
+id: 7773
+isbn: 3037785780 / 978-3037785782
+price: 33.9
+weight: 0.5
+author:
+  name: Lars Müller Publishers
+  id: 85
+description: '<p>Karl Gerstner&#8217;s work is a milestone in the history of design. Designing Programmes is one of his most important works: in four essays, the author provides a basic introduction to his design method- ology and suggests a model for design in the early days of the computer era. The book is especially topical and exciting in the context of current developments in computational design. With many examples from the worlds of graphic and product design, music, architecture, and art, it inspires the reader to seize on the material, develop it further, and integrate it into his or her own work. Designing Programmes was first published in 1964; in 2007 Lars Muller Publishers launched a re-designed version. This year&#8217;s release of Designing Programmes corresponds with the original edition of the book, designed by Karl Gerstner.</p>'
+details: |
+  - ISBN: 3037785780 / 978-3037785782
+  - Content: 120 pages
+  - Size: 195 × 6 × 250 mm
+  - Author: Karl Gerstner
+  - Design: Karl Gerstner
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Lars Müller Publishers. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_KarlGerstner.jpg
+    id: 7776
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-37.jpg
+    id: 7778
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-53.jpg
+    id: 7780
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-53.jpg
+    id: 7782
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Karl Gerstner
+Designing Programmes
+
+----
+
+Uuid: tFGI5N41rd0KbMkR
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

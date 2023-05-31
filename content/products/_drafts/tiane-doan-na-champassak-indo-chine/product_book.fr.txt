@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Tiane Doan na Champassak <br>Indo-Chine'
+slug: tiane-doan-na-champassak-indo-chine
+id: 16228
+isbn: 8899385903 / 978-8899385903
+price: 25.8
+weight: 0.8
+author:
+  name: Humboldt Books
+  id: 249
+description: '<p>The photographic work of the artist&#8217;s grandmother, Tiane Doan na Champassak, an Alsatian woman who married a Vietnamese man in Baden Baden in 1913 before leaving with him for Indochina.</p>'
+details: |
+  - ISBN: 8899385903 / 978-8899385903
+  - Content: 128 pages
+  - Size: 170 × 240 mm
+  - Edited by: Humboldt Books
+  - Author: Tiane Doan na Champassak
+  - Text by: Doan Vinh Thuan
+  - Design: Federico Barbon
+  - Language: French / English
+  - Publishing date: 2021
+  - Images: © WELTKERN® / Les Presses du réel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_IndoChine.jpg
+    id: 16229
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Tiane Doan na Champassak
+Indo-Chine
+
+----
+
+Uuid: KeZW537vx9rDfSKJ
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

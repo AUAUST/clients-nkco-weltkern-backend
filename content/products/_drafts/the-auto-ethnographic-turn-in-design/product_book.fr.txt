@@ -1,0 +1,51 @@
+Oldweltkern:
+
+title: The Auto-Ethnographic Turn in Design
+slug: the-auto-ethnographic-turn-in-design
+id: 15339
+isbn: 9493246041 / 978-9493246041
+price: 28.9
+weight: 0.8
+author:
+  name: Valiz
+  id: 101
+description: '<p>Today there is a growing recognition of design’s capacity to makes sense of one’s world while at the same time expressing and conveying this personal insight through rich, layered, and ultimately meaningful processes or objects. Emerging from this is the auto-ethnographic turn in design, which seeks to come to terms with one’s context and self. This vision of design is free of commercial interests, assumed users’ needs, or well-intentioned actions, and reveals a sincerity which is too often missing in the design process. In addition to examples of design objects and practices, this book contains reflections and conversations between theorists, educators, and practitioners in the field.</p>'
+details: |
+  - ISBN: 9493246041 / 978-9493246041
+  - Content: 336 pages
+  - Size: 170 × 240 mm
+  - Authors: L. Schouwenberg, M. Kaethler Eds.
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Valiz. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_The-Auto-Ethnographic-Turn-in-Design.jpg
+    id: 15340
+tags: [ ]
+
+----
+
+Multilinetitle: The Auto-Ethnographic Turn in Design
+
+----
+
+Uuid: KSVP5WWJAo02RhnN
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

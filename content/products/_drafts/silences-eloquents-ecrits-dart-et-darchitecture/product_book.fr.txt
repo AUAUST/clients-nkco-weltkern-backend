@@ -1,0 +1,71 @@
+Oldweltkern:
+
+title: >
+  Silences éloquents. Écrits d’art et
+  d’architecture.
+slug: >
+  carlo-marti-aris-silences-eloquents-ecrits-dart-et-darchitecture
+id: 3462
+isbn: 2955701089 / 978-2955701089
+price: 23.9
+weight: 0.5
+author:
+  name: Cosa Mentale
+  id: 87
+description: '<p>It is a form of spiritual revolt that Carlos Martí Arís highlights through a transversal analysis of different artistic expressions that combine to enrich his reflection. It is an invitation to return to the great eternal themes, to the acceptance of solitude and discretion that accompanies this positioning on the fringes of fashion, to advance the work in depth rather than superficially. Twenty years later, Carlos Martí Arís’ lesson is contemporary and of fundamental importance for our discipline today. Translation from Spanish to French.</p>'
+details: |
+  - ISBN: 2955701089 / 978-2955701089
+  - Content: 192 pages
+  - Size: 170 × 15 × 240 mm
+  - Author: Carlo Martí Arís
+  - Design: Spassky Fischer
+  - Language: French
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © Cosa Mentale. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Silenceseloquents.jpg
+    id: 3465
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-33.jpg
+    id: 3467
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-32.jpg
+    id: 3469
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-32.jpg
+    id: 3471
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-24.jpg
+    id: 3473
+tags: [ ]
+
+----
+
+Multilinetitle: Silences éloquents. Écrits d’art et d’architecture.
+
+----
+
+Uuid: aV0Wy2MqUgJlNWWt
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,93 @@
+Oldweltkern:
+
+title: Ore 12 Circa
+slug: ore-12-circa
+id: 19208
+isbn: 8894606300 / 978-8894606300
+price: 29.9
+weight: 0.9
+author:
+  name: Veii
+  id: 332
+description: |
+  <p>Can reality be considered as something objective, independent by the viewer’s experience? Ore 12 Circa (Around Noon) plays with the idea that reality is shaped by the viewer itself, who participates in the creation of the world and builds its own representation of it.</p>
+  <p>As a culmination of nine years of editing, the project behind the book begins with the interpretation of a collection of anonymous negatives that the editor found in a fleamarket in Paris in 2010. The editor’s elaboration of the unknown photographer’s work and his own impression of the reality behind it, generated an open narration of the events, routines, traditions, sins and lives of the photographer’s main subjects, who all gravitate around Sicily, in the South of Italy. Ore 12 Circa proposes one of the many visual narrations of the displayed images, leaving to the viewer the space to envision and shape himself the hidden reality that may have connected – or may have not – all of these unknown people’s lives.</p>
+details: |
+  - ISBN: 8894606300 / 978-8894606300
+  - Content: 192 pages
+  - Size: 210 × 275 mm
+  - Language: Italian
+  - Author: Fabrizio Amoroso
+  - Publication: 2021
+  - Specs: Softcover with PVC dustjacket
+  - Images: © WELTKERN® / Veii. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa.jpg
+    id: 19209
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa1.jpg
+    id: 19210
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa2.jpg
+    id: 19211
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa3.jpg
+    id: 19212
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa4.jpg
+    id: 19213
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa5.jpg
+    id: 19214
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa6.jpg
+    id: 19215
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa7.jpg
+    id: 19216
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa8.jpg
+    id: 19217
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa9.jpg
+    id: 19218
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_circa10.jpg
+    id: 19219
+tags: [ ]
+
+----
+
+Multilinetitle: Ore 12 Circa
+
+----
+
+Uuid: dwePFi4ijSfrcH0k
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

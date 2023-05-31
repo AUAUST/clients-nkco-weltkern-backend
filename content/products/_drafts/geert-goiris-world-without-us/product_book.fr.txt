@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Geert Goiris <br>World Without Us'
+slug: geert-goiris-world-without-us
+id: 13687
+isbn: 949281157X / 978-9492811578
+price: 53.9
+weight: 1.1
+author:
+  name: Roma Publications
+  id: 268
+description: '<p>The downfall of the world is probably one of the oldest human conceptions. Representations of the End are often embedded in religious narratives predicting an apocalyptic event in which only the righteous will survive the final judgment. Yet since the end of World War II, a major shift has occurred. The apocalypse is no longer a divine punishment, but it is humans who have gained the ability to exterminate themselves. This book of recent photographs by Geert Goiris is the final piece of a practice-based PhD research in the arts, conducted at the Royal academy of Fine Arts Antwerp, in collaboration with the University of Antwerp. With an extensive interview by Steven Humblet.</p>'
+details: |
+  - ISBN: 949281157X / 978-9492811578
+  - Content: 172 pages
+  - Size: 220 × 260 mm
+  - Edited by: Roma Publications
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Goiris-1.jpg
+    id: 13707
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Geert Goiris
+World Without Us
+
+----
+
+Uuid: EAvxqeJ9O0ZoJZsD
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

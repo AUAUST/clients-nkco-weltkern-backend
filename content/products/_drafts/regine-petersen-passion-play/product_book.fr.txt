@@ -1,0 +1,53 @@
+Oldweltkern:
+
+title: 'Regine Petersen <br>Passion Play'
+slug: regine-petersen-passion-play
+id: 17818
+isbn: 9492051813 / 978-9492051813
+price: 39.5
+weight: 2.1
+author:
+  name: The Eriskay Connection
+  id: 298
+description: '<p>In the 17th century the citizens of Oberammergau, Bavaria, made a covenant with God. If the plague would be ended, the villagers promised to re-enact the Passion of Christ every ten years for eternity. And so it happened. Following the accepted beliefs of the time, the performance blamed the Jews for Christ’s agonies. In 1934, Adolf Hitler even attended Oberammergau’s special jubilee. This is the departure point for Regine Petersen’s narrative, which follows the travelogues of two American visitors, adding historical documents and image souvenirs. The allegorical, partly satirical narrative, offers a virtuous reprisal of history’s passions for propaganda and populism in their many manifestations.</p>'
+details: |
+  - ISBN: 9492051813 / 978-9492051813
+  - Content: 148 pages
+  - Size: 160 × 220 mm
+  
+  - Language: English
+  - Specs: Hardcover
+  - Images: © WELTKERN® / The Eriskay Connection. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Regine-Petersen-Passion-Play.jpg
+    id: 17789
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Regine Petersen
+Passion Play
+
+----
+
+Uuid: GETlrafnouX9CNzR
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

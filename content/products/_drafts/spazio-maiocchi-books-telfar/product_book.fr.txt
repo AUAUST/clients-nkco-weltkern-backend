@@ -1,0 +1,72 @@
+Oldweltkern:
+
+title: 'Spazio Maiocchi Books <br>Telfar'
+slug: spazio-maiocchi-books-telfar
+id: 11963
+isbn: NO ISBN
+price: 21.4
+weight: 0.4
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: |
+  <p>Published by KALEIDOSCOPE and Spazio Maiocchi on the occasion of solo exhibitions hosted at Spazio Maiocchi between 2017 and 2018.<br />
+  <br />
+  &#8220;TELFAR: Nude&#8221;, a book of images by New York photographer Jason Nocito, completes the brand’s first fashion presentation in Italy—an exhibition without a single garment, centered on artist collaborations, eloquent to the progressive aesthetics and artistic DNA of the brand which laid the blueprint for today’s black avant-garde.</p>
+details: |
+  - Content: 48 Pages
+  - Size: 220 × 6 × 280 mm
+  - Author: Jason Nocito
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Softcover
+  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_COVER_Telfar.jpg
+    id: 11976
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_1-5.jpg
+    id: 11978
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_2-5.jpg
+    id: 11980
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_3-5.jpg
+    id: 11982
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_4-4.jpg
+    id: 11984
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Spazio Maiocchi Books
+Telfar
+
+----
+
+Uuid: YEGmn23PWtzjBE7w
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

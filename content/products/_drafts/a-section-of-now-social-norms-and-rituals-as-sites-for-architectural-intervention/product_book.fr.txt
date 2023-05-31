@@ -1,0 +1,111 @@
+Oldweltkern:
+
+title: 'A Section of Now <br>Social Norms and Rituals as Sites for Architectural Intervention'
+slug: >
+  a-section-of-now-social-norms-and-rituals-as-sites-for-architectural-intervention
+id: 18523
+isbn: 3959055079 / 978-3959055079
+price: 29.8
+weight: 0.2
+author:
+  name: Spector Books
+  id: 99
+description: '<p>A Section of Now aims to re-establish a dialogue between architecture and society that would allow architecture to begin to contend with and address our changed and changing social norms. The publication serves as a meditation on new behaviours, rituals, and values and their spatial implications and seeks to catalyse urban and architectural interventions that accommodate, influence, and, in some cases, pre-empt our new lived realities. Authors address topics ranging from the safety of digital spaces to how normative life trajectories affect the elderly and the many selves each of us puts forward, while architects present frameworks for, among other things, spaces for blended families, thirty-year-old retirees, and contested monuments. Bringing together analytical essays about the contemporary moment and the direction in which society is moving, projective texts that outline new architectural types to address societal needs, alongside television series, photography, and architecture and design projects, A Section of Now outlines a new relationship between the spaces in which we live and the ways we live within them. </p>'
+details: |
+  - ISBN: 3959055079 / 978-3959055079
+  - Content: 360 pages
+  - Size: 170 × 240 mm
+  - Language: English
+  - Edited by: Giovanna Borasi
+  - Publication: 2022
+  - Specs: softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_A-Section-of-Now.jpg
+    id: 18506
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_A-Section-of-Now1.jpg
+    id: 18507
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now1-1.jpg
+    id: 18594
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now2-1.jpg
+    id: 18595
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now3-1.jpg
+    id: 18596
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now4-1.jpg
+    id: 18597
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now5-1.jpg
+    id: 18598
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now6-1.jpg
+    id: 18599
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now7-1.jpg
+    id: 18600
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now8-1.jpg
+    id: 18601
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now9-1.jpg
+    id: 18602
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now10-1.jpg
+    id: 18603
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now11-1.jpg
+    id: 18604
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now12-1.jpg
+    id: 18605
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Section-of-now13-1.jpg
+    id: 18606
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+A Section of Now
+Social Norms and Rituals as Sites for Architectural Intervention
+
+----
+
+Uuid: 0WBICnqFmY0OKaZe
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

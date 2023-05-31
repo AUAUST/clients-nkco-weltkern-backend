@@ -1,0 +1,65 @@
+Oldweltkern:
+
+title: 'Abraham Cruzvillegas <br>The Autoconstrucción Suites'
+slug: >
+  abraham-cruzvillegas-the-autoconstruccion-suites
+id: 17613
+isbn: 1935963058 / 978-1935963058
+price: 65.4
+weight: 0.2
+author:
+  name: Walker Art Centre
+  id: 312
+description: '<p>Published on the occasion of the artist’s first major survey, this volume explores the rich terrain of Abraham Cruzvillegas’ (born 1968) work over the past ten years, rooting his sculptural language within the volcanic landscape of his childhood home in Ajusco, Mexico. The publication elaborates on Cruzvillegas’ interest in autoconstrucción, a construction method arising from the constraints of poverty, in which parts are recycled and adapted for new purposes. Developed in collaboration with the artist, the volume features five essays examining autoconstrucción through the lens of art history, politics, architecture and urban migration in Mexico in the 1960s. Along with these texts, the publication includes sculptures by Cruzvillegas; snapshots of Ajusco, Mexico, taken by the artist; archival images of Ajusco from the Cruzvillegas Fuentes family album; titles that inform and inspire the artist&#8217;s thinking about autoconstrucción; silkscreened posters of liberation movements in Latin America; and the artist&#8217;s index of concepts and song lyrics written as allegories of his childhood. Bilingual (English/Spanish).</p>'
+details: |
+  - ISBN: 1935963058 / 978-1935963058
+  - Content: 240 pages
+  - Size: 254 × 355 mm
+  - Language: English
+  - Introducted by: Olga Viso
+  - Edited by: Clara Kim
+  - Contributions by: Patricia Falguières, Sergio González Rodríguez
+  - Publishing date: 2013
+  - Specs: Paperback
+  - Images: © WELTKERN® / Walker Art Center. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_ABRAHAM-CRUZVILLEGAS.jpg
+    id: 17614
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_ABRAHAM-CRUZVILLEGAS2.jpg
+    id: 17616
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_ABRAHAM-CRUZVILLEGAS3.jpg
+    id: 17618
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Abraham Cruzvillegas
+The Autoconstrucción Suites
+
+----
+
+Uuid: dwKHYzIHPKY3PQEB
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

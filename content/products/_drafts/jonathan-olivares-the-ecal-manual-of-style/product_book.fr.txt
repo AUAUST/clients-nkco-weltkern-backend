@@ -1,0 +1,74 @@
+Oldweltkern:
+
+title: 'Jonathan Olivares <br>The ECAL Manual of Style'
+slug: >
+  jonathan-olivares-the-ecal-manual-of-style
+id: 23907
+isbn: 1838665173 / 978-1838665173
+price: 48.5
+weight: 1.1
+author:
+  name: Phaidon Press
+  id: 92
+description: '<p>The story and teachings of one of the world&#8217;s most creative design schools, as told by its teachers, alumni, and student projects &#8211; the ideal book for educators and students alike, posing the question &#8216;How should design be taught today?&#8217;</p>'
+details: |
+  - ISBN: 1838665173 / 978-1838665173
+  - Content: 208 pages
+  - Size: 210 × 280 mm
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_COVER_Ecal_2.jpg
+    id: 23941
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_COVER_Ecal.jpg
+    id: 23942
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_1.jpg
+    id: 23944
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_2.jpg
+    id: 23945
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_3.jpg
+    id: 23946
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_4.jpg
+    id: 23947
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Jonathan Olivares
+The ECAL Manual of Style
+
+----
+
+Uuid: 8U5vwAqB0iwuJ1Pc
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

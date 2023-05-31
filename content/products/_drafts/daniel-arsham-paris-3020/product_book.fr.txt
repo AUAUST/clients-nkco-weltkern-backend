@@ -1,0 +1,75 @@
+Oldweltkern:
+
+title: 'Daniel Arsham <br>Paris, 3020'
+slug: daniel-arsham-paris-3020
+id: 11041
+isbn: 1091539203 / 979-1091539203
+price: 39.9
+weight: 0.6
+author:
+  name: Perrotin
+  id: 121
+description: |
+  <p>Masterpieces of classical antiquity revisited by Daniel Arsham: continuing his approach of fictional archaeology, the American artist offers through his reappropriation of the Venus de Milo, the Helmeted Athena or Michelangelo&#8217;s Seated Moses a reflection on our relationship to time.<br />
+  <br />
+  Accompanied by the teams of the Louvre, Daniel Arsham visited the museum&#8217;s collections to study the Greek and Roman statues that inspired the works in his new series. To create this new set of sculptures, the artist Daniel Arsham drew on the vast collection of molds produced by the Ateliers d&#8217;Art du RMN &#8211; Grand Palais. Using molds of sculptures in the collections of the Louvre and other institutions throughout France, the artist&#8217;s studio team collaborated with the RMN statuary sculptors in the execution of the works. This book presents a new set of sculptures by the artist, and the different stages of their making. It is accompanied by a text by Ludovic Laugier and an interview with the artist by Ludovic Laugier.</p>
+details: |
+  - ISBN: 1091539203 / 979-1091539203
+  - Content: 132 Pages
+  - Size: 168 × 16 × 240 mm
+  - Author: Daniel Arsham
+  - Edited by: Raphaëlle Pinoncély
+  - Texts by: Daniel Arsham, Ludovic Laugier
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Perrotin. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Paris3020.jpg
+    id: 11063
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-15.jpg
+    id: 11065
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-14.jpg
+    id: 11067
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-15.jpg
+    id: 11069
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Paris3020_BACK.jpg
+    id: 11061
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Daniel Arsham
+Paris, 3020
+
+----
+
+Uuid: 0lFmOUY1Wwi95D5n
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

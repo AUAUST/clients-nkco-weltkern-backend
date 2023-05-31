@@ -1,0 +1,72 @@
+Oldweltkern:
+
+title: Wheels
+slug: olivier-mosset-wheels
+id: 3305
+isbn: 3906803548 / 978-3906803548
+price: 64.9
+weight: 1.2
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>When Olivier Mosset bought his first motorcycle — a US Army surplus Harley Davidson — in Paris back in the late 1960s, he helped start up a subculture still wholly unknown in Europe at the time: the motorcycle club. The young painter’s studio on the Rue de Lappe doubled as a hub of radical painting — conceptually reduced black circles on a white canvas — and a garage cum hangout for the first Marxist-influenced motorcycle club, whose members sympathized with the May ’68 student revolts.<br />
+  <br />
+  Cars and motorcycles have been a driving force in the life and work of Olivier Mosset: as an attitude and lifestyle, as a means of transportation and later, from the mid-1990s, as readymades. <em>WHEELS</em> retraces his artistic career through the interplay between motor vehicles and painting, including brief descriptions of each vehicle he used and how it ties into his biography.<br />
+  Art critic Elisabeth Wetterwald’s interview with Olivier Mosset and US artist Vincent Szarek, who learned his trade working on car bodies and repeatedly collaborated with Mosset, likewise explores the interface between art and motorcycles: Mosset’s vehicles were exhibited from various perspectives in museums and at motorcycle shows.<br />
+  <br />
+  And in his essay, art historian Philip Ursprung analyzes the importance of technology, culture and nature to Mosset, who was always heading west, from the foothills of the Jura to Paris, then New York and eventually, in 1996, cross-country by motorcycle to Tucson, Arizona.</p>
+details: |
+  - ISBN: 3906803548 / 978-3906803548
+  - Content: 224 pages
+  - Size: 200 × 22 × 270 mm
+  - Author: Olivier Mosset
+  - Edited by: Gianni Jetzer
+  - Texts by: Gianni Jetzer, Vincent Szarek, Elisabeth Wetterwald, Philip Ursprung
+  - Design: Teo Schifferli
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_.jpg
+    id: 3308
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-25.jpg
+    id: 3312
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD2_.jpg
+    id: 3314
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_back-1.jpg
+    id: 3310
+tags: [ ]
+
+----
+
+Multilinetitle: Wheels
+
+----
+
+Uuid: IYy40NX3FdZufsnG
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

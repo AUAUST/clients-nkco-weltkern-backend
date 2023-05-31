@@ -1,0 +1,82 @@
+Oldweltkern:
+
+title: 'Carlos Martí Arís <br>Les variations de l’identité. <br>Le type en architecture.'
+slug: >
+  carlos-marti-aris-les-variations-de-lidentite-le-type-en-architecture
+id: 7097
+isbn: 2491039035 / 978-2491039035
+price: 32.9
+weight: 0.7
+author:
+  name: Cosa Mentale
+  id: 87
+description: '<p>First French translation of the founding essay of the Spanish architect on type in architecture. After having already translated in 2019 another book &#8211; <em>Silencios elocuentes</em> &#8211; by the same author, Cosa Mentale Editions want to continue making possible the discovery of Carlos Martí Arís&#8217; lesson, considering it of fundamental importance for the current architectural culture. In particular, in this book, the author presents a theory of architectural design according to which the idea of type is not conceived as a mechanism of reproduction but as a structure of form capable of multiple developments. This edition includes an introduction by Raphael Moneo, one of Spain&#8217;s most internationally renowned architects, whose lucid view of the past and present underscores the extreme timeliness of the contents of a work originally published in 1993.</p>'
+details: |
+  - ISBN: 2491039035 / 978-2491039035
+  - Content: 272 pages
+  - Size: 170 × 15 × 240 mm
+  - Edited by: Claudia Mion
+  - Texts by: Raphael Moneo, Giorgio Grassi, Fabio Licitra.
+  - Design: Spassky Fischer
+  - Language: French
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Variations.jpg
+    id: 7100
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-18.jpg
+    id: 7102
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-34.jpg
+    id: 7104
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-34.jpg
+    id: 7106
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-25.jpg
+    id: 7108
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-11.jpg
+    id: 7110
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_6-2.jpg
+    id: 7112
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Carlos Martí Arís
+Les variations de l’identité.
+Le type en architecture.
+
+----
+
+Uuid: KhcjUxa3CDSlv0Bd
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

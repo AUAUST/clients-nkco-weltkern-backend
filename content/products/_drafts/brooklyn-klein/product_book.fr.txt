@@ -1,0 +1,75 @@
+Oldweltkern:
+
+title: Brooklyn + Klein
+slug: brooklyn-klein
+id: 10979
+isbn: 8869655342 / 978-8869655340
+price: 39.9
+weight: 0.9
+author:
+  name: Contrasto Books
+  id: 253
+description: '<p>Sixty years after <em>Life is Good and Good for You in New York</em>, his first book and one of the most important in the history of photography, William Klein takes on a new challenge: shoot Brooklyn in digital. This technique becomes a way for the master of the aesthetic of chaos to refresh his approach to the New York borough. No rules, no limits, no holding back. Such is his motto. What is important is to capture the exuberance and impertinence of life. For many weeks, the artist wandered the streets, worked days and nights, shot from the window of his car, and roved the beaches of Coney Island and Brighton. With these images, Klein creates a kaleidoscope of Brooklyn.</p>'
+details: |
+  - ISBN: 8869655342 / 978-8869655340
+  - Content: 116 Pages
+  - Size: 210 × 15 × 295 mm
+  - Author: William Klein
+  - Language: English
+  - Publishing date: 2014
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Moom (moom.cat). All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_BrooklynKlein.jpg
+    id: 10986
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-12.jpg
+    id: 10988
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-11.jpg
+    id: 10990
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-12.jpg
+    id: 10992
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-12.jpg
+    id: 10994
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-12.jpg
+    id: 10996
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_BrooklynKlein_BACK.jpg
+    id: 10984
+tags: [ ]
+
+----
+
+Multilinetitle: Brooklyn + Klein
+
+----
+
+Uuid: Adw5GuJHYxcAawrx
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

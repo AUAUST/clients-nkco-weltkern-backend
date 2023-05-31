@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Anne Geene <br>Book Of Plants'
+slug: anne-geene-book-of-plants
+id: 15209
+isbn: 9069060538 / 978-9069060538
+price: 61.8
+weight: 1.5
+author:
+  name: de HEF
+  id: 297
+description: '<p>The ‘Book of Plants’ is a eulogy on plants in all their appearances, a continuation of an oeuvre that is an expression of the remarkable beauty of the unremarkable. Anne Geene’s quest for specimens with various types of appearances and deformations gives the book a teratological dimension. In her work, the photograph itself is rarely the focus. Taken out of context, the pictures are often no more than a registration of an inconspicuous fact. This means that her art is about collection, about the image in relation to other images and the ability to creates new ones by merging and arranging them. Enjoy an expedition through all of the botanical micro- and macrocosms.</p>'
+details: |
+  - ISBN: 9069060538 / 978-9069060538
+  - Content: 560 pages
+  - Size: 170 × 210 mm
+  - Author: Anne Geene
+  - Language: English / Dutch
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / De Hef. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Plants.jpg
+    id: 15213
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Anne Geene
+Book Of Plants
+
+----
+
+Uuid: ou98b7ydYmoPejB1
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

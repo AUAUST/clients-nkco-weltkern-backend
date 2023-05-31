@@ -1,0 +1,67 @@
+Oldweltkern:
+
+title: Mousse magazine n°74
+slug: mousse-magazine-n74
+id: 5941
+isbn: "2000000017716"
+price: 14.9
+weight: 0.9
+author:
+  name: Mousse Publishing
+  id: 111
+description: '<p>Mousse is a bimonthly magazine published in italian and english. established in 2006, mousse contains interviews, conversations, and essays by some of the most important figures in international criticism, visual arts, and curating today, alternated with a series of distinctive articles in a unique tabloid format. mousse keeps tabs on international trends in contemporary culture thanks to its city editors in major art capitals such as berlin, new york, london, paris, and los angeles.</p>'
+details: |
+  - ISBN: 2000000017716
+  - Content: 288 pages
+  - Size: 230 × 15 × 350 mm
+  - Design: Mousse Agency
+  - Language: English / Italian
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Mousse Agency. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Mousse74.jpg
+    id: 5944
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-1.jpg
+    id: 5946
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-7.jpg
+    id: 5948
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-7.jpg
+    id: 5950
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-4.jpg
+    id: 5952
+tags: [ ]
+
+----
+
+Multilinetitle: Mousse magazine n°74
+
+----
+
+Uuid: s954ovz7Mk2ZpBHF
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

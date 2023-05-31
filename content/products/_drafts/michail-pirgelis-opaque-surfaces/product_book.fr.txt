@@ -1,0 +1,53 @@
+Oldweltkern:
+
+title: 'Michail Pirgelis <br>Opaque Surfaces'
+slug: michail-pirgelis-opaque-surfaces
+id: 15681
+isbn: 3960989189 / 978-3960989189
+price: 33.9
+weight: 0.8
+author:
+  name: Buchhandlung Walther König
+  id: 90
+description: '<p>The book Opaque Surfaces presents the versatile oeuvre of Michail Pirgelis, spanning more than 20 years. It is the artist&#8217;s first monograph to focus on works that address the painterly aspect of his sculptural oeuvre and situate them in the context of Land Art, Minimal Art and Conceptual Art. Pirgelis takes his material from the wrecks of discarded aircraft, most of which he finds in the Mojave Desert. In a meticulous process of abstraction, however, he subverts the specificity of the aircraft shell. His process deals directly with form and surface, exposing detail and working his way down to bare aluminium. The artist explores the limits of our understanding of objects and radically expands our experience of the sculptural.</p>'
+details: |
+  - ISBN: 3960989189 / 978-3960989189
+  - Content: 178 pages
+  - Size: 215 × 290 mm
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Buchhandlung Walther König. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_OpaqueSurfaces.jpg
+    id: 15686
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Michail Pirgelis
+Opaque Surfaces
+
+----
+
+Uuid: oHtTWM2f8tfvgT5b
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

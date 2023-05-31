@@ -1,0 +1,63 @@
+Oldweltkern:
+
+title: 'Oh Yeah / Yello 40 <br>Boris Blank & Dieter Meier'
+slug: >
+  oh-yeah-yello-40-boris-blank-dieter-meier
+id: 13827
+isbn: 3907236351 / 978-3907236352
+price: 59.9
+weight: 2
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>Forty years ago, armed with tape, scissors and a hefty dose of wit, Yello—aka Boris Blank, Dieter Meier and, initially, Carlos Perón—, set out to write their very own chapter of music history. In no time at all they found themselves playing The Roxy club in New York, marveling at the seething sea of bodies dancing themselves into ecstasy to the beat of Yello’s seminal single Bostich. Today, thanks to albums like Solid Pleasure, You Gotta Say Yes To Another Excess and Flag, and singles like Oh, Yeah and The Race, Yello are enshrined amongst the pantheon of electropop pioneers. Blank and Meier recently released their 14th studio album, Point, proving once again that age is no obstacle to musical daring and adventure.<br />
+  <br />
+  Yello owe their enduring success to a steadfast refusal to follow the rules of the music industry. This book celebrates the days when “sound painter” Blank and word wizard Meier first set out to create their Yello world. So, naturally, it doesn’t stick to the beaten track of glossy pop music biographies either. Meier had already displayed a keen eye for pointedly nonsensical aesthetics as an experimental filmmaker and conceptual artist before delving into music. And Blank, tinkering away in the music studio, was also hip to the power of visual representation.<br />
+  <br />
+  For Oh Yeah / Yello 40, the two artists dug deep into their souvenir boxes to come up with an intriguing haul of Polaroids, posters, letters, fanzine reviews, sketches, pictures of their trip to Cuba—and even the handwritten sheet music to Bostich. Oh Yeah / Yello 40 is more than a scrapbook from the days when we were all young. The book harks back to the gleefully playful zeitgeist of the post-punk era in a city which, as only fools may have forgotten, was the cradle of Dada. <br />
+  — Hanspeter “Düsi” Kuenzler</p>
+details: |
+  - ISBN: 3907236351 / 978-3907236352
+  - Content: 450 pages
+  - Size: 297 × 210 mm
+  - Author: Hanspeter Kuenzler
+  - Edited by: Edition Patrick Frey
+  - Design: Aaron Fabian
+  - Language: German / English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® /  Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_OhYeah.jpg
+    id: 13828
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Oh Yeah / Yello 40
+Boris Blank & Dieter Meier
+
+----
+
+Uuid: csfBkGNzNNzUfqoE
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

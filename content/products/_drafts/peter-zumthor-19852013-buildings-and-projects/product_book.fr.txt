@@ -1,0 +1,61 @@
+Oldweltkern:
+
+title: 'Peter Zumthor 1985–2013 <br>Buildings and Projects'
+slug: >
+  peter-zumthor-1985-2013-buildings-and-projects
+id: 13628
+isbn: 3858813046 / 978-3858813046
+price: 228.5
+weight: 6.4
+author:
+  name: 'Scheidegger &amp; Spiess'
+  id: 89
+description: |
+  <p>Peter Zumthor, 2009 Pritzker laureate, is one of the best known architects of the present day. Widely admired for his precision and thoroughness, he creates buildings that are responsive to their location and function, and that are remarkable both for their materials and the atmospheric quality of the spaces they enclose.</p>
+  <p>This five-volume overview of his work to date presents forty-three buildings and projects, including some that have never been published before. On 856 pages with over 750 photographs, plans, sketches, drawings and watercolors, and with texts written by Peter Zumthor himself specially for this monograph, it documents a wide range of projects from several world-famous buildings to some that never left the drawing board.</p>
+  <p>With photographs by Hélène Binet, Hans Danuser, Ralph Feiner, Thomas Flechtner, Walter Mair, Joël Tettamanti, and others.</p>
+details: |
+  - ISBN: 3858813046 / 978-3858813046
+  - Content: 856 pages
+  - Size: 327 × 257 × 113 mm
+  - Language: English
+  - Publishing date: 2014
+  - Specs: Boxed set, 5 Books, Hardcover
+  - Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthor19852013.jpg
+    id: 13631
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthor19852-1013.jpg
+    id: 13629
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Peter Zumthor 1985–2013
+Buildings and Projects
+
+----
+
+Uuid: kao9YdB0KskezmR9
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

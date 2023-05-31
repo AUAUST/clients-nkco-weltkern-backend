@@ -1,0 +1,63 @@
+Oldweltkern:
+
+title: 'Joy Orbison (London, UK) <br>Still Slipping'
+slug: joy-orbison-london-uk-still-slipping
+id: 13516
+isbn: NO ISBN
+price: 12.5
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: ""
+details: |
+  - Photographs by: Rosie Marks
+  - Content: 24 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  Color Offset Print
+  First Edition
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_A1.jpg
+    id: 13433
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_A3.jpg
+    id: 13437
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_A2.jpg
+    id: 13435
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Joy Orbison (London, UK)
+Still Slipping
+
+----
+
+Uuid: kvvNAdFnxLIQWAZ2
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

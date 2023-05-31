@@ -1,0 +1,76 @@
+Oldweltkern:
+
+title: 'René Tosari <br>Diversity Is Power'
+slug: rene-tosari-diversity-is-power
+id: 2805
+isbn: 9492852047 / 978-9492852045
+price: 32.9
+weight: 1.3
+author:
+  name: Jap Sam Books
+  id: 157
+description: '<p><em>Diversity is Power</em> is the first monograph dedicated to René Tosari, a Dutch artist born in Suriname in 1948. He is regarded as one of Suriname’s most important graphic artists, and produced a large quantity of politically engaged work through the 1970s and ’80s. Often inspired by social realism, Tosari’s engagement with social issues and artistic contributions to the revolution in Suriname are reflected in his work. He has also produced more symbolic work, in which his painting style becomes more complex and free. Just as his artistic path has oscillated between the Netherlands and Suriname, this in-depth portrait examines the life and history of an artist between two worlds.</p>'
+details: |
+  - ISBN: 9492852047 / 978-9492852045
+  - Content: 276 pages
+  - Size: 223 × 25 × 285 mm
+  - Authors: Rob Perrée, Priscilla Tosari
+  - Design: Main Studio
+  - Font in use: TWK Lausanne (old version)
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Softcover
+  - Images: © Jap Sam Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Diversityispower.jpg
+    id: 2821
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-6.jpg
+    id: 2829
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-7.jpg
+    id: 2827
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-7.jpg
+    id: 2825
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-7.jpg
+    id: 2823
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Diversityispower_BACK.jpg
+    id: 2819
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+René Tosari
+Diversity Is Power
+
+----
+
+Uuid: 758RAMs6mj7VSCSd
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

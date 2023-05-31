@@ -1,0 +1,53 @@
+Oldweltkern:
+
+title: 'Iouri Podladtchikov <br>Brand New Songs'
+slug: iouri-podladtchikov-brand-new-songs
+id: 21086
+isbn: 3906313382 / 978-3906313382
+price: 99.9
+weight: 0.7
+author:
+  name: 'Simonett &amp; Baer'
+  id: 357
+description: '<p>After gigantic jumps in the halfpipe Iouri Podladtchikov made gigantic jumps and steps into the art world and he can easily be called a hot ticket since a while. The new works featured in Brand New Songs are of souverain grandezza and deep poetic power – transformed brilliantly into a book beyond all measures: printed at starprinter Robstolk Amsterdam on superfine Mohawk Paper, bound in 100% linen – custom printed at Mitlödi Textile Printers in deep silkscreen black: Top Shit on Top of The Top Shit!</p>'
+details: |
+  - ISBN: 3906313382 / 978-3906313382
+  - Content: 48 pages
+  - Size: 340 × 240 mm
+  - Language: English
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Simonett & Baer. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Brand-New-Songs.jpg
+    id: 21097
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Iouri Podladtchikov
+Brand New Songs
+
+----
+
+Uuid: NAmsTNCyeg5XQI1g
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

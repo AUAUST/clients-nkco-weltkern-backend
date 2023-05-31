@@ -1,0 +1,73 @@
+Oldweltkern:
+
+title: Theo Gerber
+slug: theo-gerber
+id: 29288
+isbn: 3039421268 / 978-3039421268
+price: 37.9
+weight: 2.1
+author:
+  name: 'Scheidegger &amp; Spiess'
+  id: 89
+description: |
+  <p>“We dive into Gerber’s worlds to lose ourselves and to find ourselves again in amazing places.” This is how the Swiss art historian and acclaimed novelist Paul Nizon characterized the work of his compatriot, the painter Theo Gerber (1928–1997). Gerber was a free spirit who has remained largely unknown in his native country until the present day. This is due to the artist’s own choice, having rejected the efforts of gallery owners to introduce his works to the general public. For Gerber, success did not mean fame and glory, but rather that his art showed a different possibility from that of his contemporaries. The way in which Gerber, who roamed between a variety of styles, traveled the world, and lived with the ethnic group of the Dogon in West Africa for two years during a creative crisis, upheld his artistic freedom makes it impossible to assign him to a specific direction in 20th-century art.</p>
+  <p>This book, published to coincide with a retrospective exhibition at the Kunstmuseum Thun, Switzerland, is an overdue tribute to this, in the best sense of the word, incomprehensible artist and finally provides the general public with a chance to discover and recognize his oeuvre.</p>
+details: |
+  - ISBN: 3039421268 / 978-3039421268
+  - Content: 128 pages
+  - Size: 225 × 310 mm
+  - Design: Julie Peeters
+  - Language: German or French
+  - Publishing date: 2023
+  - Specs: Softcover
+  - Images: © WELTKERN ® / Scheidegger & Spiess. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Theo-Gerber_COVER_.jpg
+    id: 29294
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Theo-Gerber_SPREAD_05.jpg
+    id: 29289
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Theo-Gerber_SPREAD_04.jpg
+    id: 29290
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Theo-Gerber_SPREAD_03.jpg
+    id: 29291
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Theo-Gerber_SPREAD_02.jpg
+    id: 29292
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Theo-Gerber_SPREAD_01.jpg
+    id: 29293
+tags: [ ]
+
+----
+
+Multilinetitle: Theo Gerber
+
+----
+
+Uuid: FndyCTKwYt6V85yE
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

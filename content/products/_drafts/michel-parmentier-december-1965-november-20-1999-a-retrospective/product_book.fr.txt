@@ -1,0 +1,73 @@
+Oldweltkern:
+
+title: 'Michel Parmentier <br>December 1965 – November 20, 1999 <br>A Retrospective'
+slug: >
+  michel-parmentier-december-1965-november-20-1999-a-retrospective
+id: 14562
+isbn: 2916636080 / 978-2916636085
+price: 52.9
+weight: 1.6
+author:
+  name: Loevenbruck
+  id: 283
+description: '<p>The title of this long-overdue monograph references two key works by legendary French abstract painter Michel Parmentier (1938–2000): the one that the artist considered the origin of his oeuvre (“Décembre 1965”), and his last work, made on 20 November, 1999. In between those two works lies Parmentier’s career, his years of systematically and rigorously exploring the conceptual and aesthetic possibilities of painting by means of the ostensibly simple striped painting. This volume offers a selection of 31 major works by the artist and seven new essays on his work, contextualized by nearly 300 documents (most of them never previously published) from the Michel Parmentier archives, libraries, and public and private collections.</p>'
+details: |
+  - ISBN: 2916636080 / 978-2916636085
+  - Content: 244 Pages
+  - Size: 269 × 272 mm
+  - Author: Philip Armstrong, Robert Bonaccorsi, Agnès Foiret, Laura Lisbon, Guy Massaux, Jean-Marc Poinsot, Molly Warnocka
+  - Edited by: Loevenbruck
+  - Design: Ludovic Balland
+  - Language: English
+  - Publishing date: 2019
+  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_MichelParmentier.jpg
+    id: 14563
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_1-3.jpg
+    id: 14656
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_2-3.jpg
+    id: 14658
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_3-3.jpg
+    id: 14660
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_4-3.jpg
+    id: 14662
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Michel Parmentier
+December 1965 – November 20, 1999
+A Retrospective
+
+----
+
+Uuid: 98dV6zxHqTVLksxK
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

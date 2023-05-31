@@ -1,0 +1,63 @@
+Oldweltkern:
+
+title: 'Crack & Shine International'
+slug: crack-shine-international
+id: 23017
+isbn: NO ISBN
+price: 44.9
+weight: 2
+author:
+  name: Topsafe
+  id: 379
+description: |
+  <p>In 2009 we were brought the first instalment of Crack &#038; Shine focusing on some of London’s most prolific graffiti writers, now the International version is available.</p>
+  <p>Through the lens of Will Robson- Scott we get a glimpse of some of the worlds most notorious writers featuring interviews, unseen photographs, and original artwork from the likes of Roid, Horfee, Retna, Espo, Katsu, Tomek, and Andre to name a few.With over 200 pages of exclusive material it is said to be an honest portrayal into one of the worlds biggest subcultures.</p>
+details: |
+  - Content: 224 pages
+  - Size: 230 × 297 mm
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Black linen hardcover, with foil block. Silver painted book block.
+  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_-1.jpg
+    id: 23027
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_.jpg
+    id: 23024
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-1.jpg
+    id: 23025
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-1.jpg
+    id: 23026
+tags: [ ]
+
+----
+
+Multilinetitle: Crack & Shine International
+
+----
+
+Uuid: 7K8MQAaDirh2mhS4
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

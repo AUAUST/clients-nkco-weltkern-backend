@@ -1,0 +1,55 @@
+Oldweltkern:
+
+title: 'The Garden <br>Elements and Styles'
+slug: >
+  the-garden-elements-and-styles-toby-musgrave
+id: 12974
+isbn: 1838660763 / 978-1838660765
+price: 64.3
+weight: 2.6
+author:
+  name: Phaidon Press
+  id: 92
+description: '<p>Both a definitive reference on garden design and its history, and an inspirational resource with an easy-to-use A-Z organization, this book features definitions and informative descriptions of modern and historical garden styles, features, types and ornaments, brought to life with more than 500 gorgeous images. Author Toby Musgrave explores the creative art of garden-making, through entries ranging from Allée, Borrowed Landscape, Bower, Coastal Garden and Formal, to Minimalism, New Perennial Planting, Pool, Vista, Water feature and Xeriscape Garden. This is the first illustrated &#8220;glossary&#8221; for gardeners and garden designers, and features gardens from around the world, both public and private, iconic and lesser-known. Alongside the work of private garden owners and makers, it also showcases the work of emerging and eminent designers.</p>'
+details: |
+  - ISBN: 1838660763 / 978-1838660765
+  - Content: 304 Pages
+  - Size: 280 × 32 × 326 mm
+  - Author: Toby Musgrave
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_Garden.jpg
+    id: 12980
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+The Garden
+Elements and Styles
+
+----
+
+Uuid: PDyAG8mFQC92N0RC
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

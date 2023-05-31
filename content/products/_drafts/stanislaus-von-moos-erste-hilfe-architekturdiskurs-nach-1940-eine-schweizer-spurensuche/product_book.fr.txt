@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Stanislaus von Moos <br>Erste Hilfe <br>Architekturdiskurs nach 1940 Eine Schweizer Spurensuche'
+slug: >
+  stanislaus-von-moos-erste-hilfe-architekturdiskurs-nach-1940-eine-schweizer-spurensuche
+id: 18684
+isbn: 3856763978 / 978-3856763978
+price: 59.5
+weight: 0.2
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>In architectural history, the 1940s are regarded as a forced pause, a period of calm before the post-war building boom. While the Second World War raged in Europe, Switzerland, neutral yet inextricably entangled in its neighbours’ affairs, remained largely cut off from the outside world. Despite this, or perhaps because of it, many attempts emerged there to provide “first aid” after 1940, partly under the aegis of the Red Cross and through the participation of numerous, often anonymous humanitarian activists. Those directly and indirectly affected by the devastation and its consequences were also confronted with fundamental questions of planning and building regarding emergency shelter, reconstruction, and new construction – all questions of enduring relevance. This book seeks traces of how Swiss architects, historians, and critics reacted to the challenges of war. Their considerations – whether strategic, pragmatic, theoretical, or concrete – were not only directed outwards but inwards to the country itself, advancing issues like national planning, heritage protection, and historic city centre restoration. Contrary to 1945 being considered “year zero”, post-war modernism in Switzerland had already begun in 1940.</p>'
+details: |
+  - ISBN: 3856763978 / 978-3856763978
+  - Content: 448 pages
+  - Size: 160 × 240 mm
+  - Language: German
+  - Graphic Design by: NORM
+  - Publication: 2021
+  - Specs: Clothbound
+  - Images: © WELTKERN® / Gta Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Stanislaus-von-Moos.jpg
+    id: 18515
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Stanislaus von Moos
+Erste Hilfe
+Architekturdiskurs nach 1940 Eine Schweizer Spurensuche
+
+----
+
+Uuid: yNNVrZwJEB9vyk9d
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

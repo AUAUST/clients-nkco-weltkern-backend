@@ -1,0 +1,107 @@
+Oldweltkern:
+
+title: National Letters
+slug: national-letters
+id: 21976
+isbn: 8027098491 / 978-8027098491
+price: 28.5
+weight: 0.4
+author:
+  name: Letter Books
+  id: 370
+description: '<p>National Letters is the first book published by Letter Books. National Letters travels through the episodes of the past in which letters, languages, and scripts played an important role in creating nation states and national identities. Through four case studies (Turkey, Israel, Georgia, Ethiopia), the main body of the book explores four languages and nations which were each, against all odds and for various reasons, able to develop and maintain their writing system throughout their entire history, up to the founding of their nation state.</p>'
+details: |
+  - ISBN: 8027098491 / 978-8027098491
+  - Content: 384 pages
+  - Size: 110 × 180 mm
+  - Language: English
+  - Publishing date: 2019
+  - Edited by : Marek Nedelka
+  - Designed by: Marek Nedelka
+  - Contributions by: Rusudan Amirejibi–Mullen, Ivo T. Budil, Birol Caymaz, Tomáš Garrigue Masaryk, Marek Nedelka, William Safran, Emmanuel Szurek
+  
+  - Postcard letterings by: Jan Horčík, Seb McLauchlan, Anežka Minaříková, Jan Novák
+  - Specs: Embossed softcover, 300 copies
+  - Images: © WELTKERN® / Letter books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.31.35-2192428743969422113_23214375144.jpg
+    id: 22074
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.31.35-2192428744002989725_23214375144.jpg
+    id: 22075
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.31.35-2192428743994531125_23214375144.jpg
+    id: 22076
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.32.52-2192429395067897495_23214375144.jpg
+    id: 22077
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.32.52-2192429395042880879_23214375144.jpg
+    id: 22078
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.32.52-2192429395034355898_23214375144.jpg
+    id: 22079
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.33.25-2192429671027932191_23214375144.jpg
+    id: 22080
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.33.25-2192429671070033399_23214375144.jpg
+    id: 22081
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.34.32-2192430228534745469_23214375144.jpg
+    id: 22082
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.35.29-2192430711114672595_23214375144.jpg
+    id: 22083
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.35.29-2192430711676624084_23214375144.jpg
+    id: 22084
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.36.20-2192431141592791848_23214375144.jpg
+    id: 22085
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.36.20-2192431141634870371_23214375144.jpg
+    id: 22086
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/2019-12-05-21.36.20-2192431141618181419_23214375144.jpg
+    id: 22087
+tags: [ ]
+
+----
+
+Multilinetitle: National Letters
+
+----
+
+Uuid: FB9SvLofBmvtN2Ib
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

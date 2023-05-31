@@ -1,0 +1,86 @@
+Oldweltkern:
+
+title: 'Brad Downey <br>Slapstick Formalism'
+slug: brad-downey-slapstick-formalism
+id: 7217
+isbn: 9188369178 / 978-9188369178
+price: 59.9
+weight: 2.3
+author:
+  name: Hatje Cantz Verlag
+  id: 207
+description: '<p>Brad Downey uses the streets as his studio and place of creative expression. He finds inspiration in the objects and activities of daily life, and is notorious for his subversive pranks and minimalist interventions in public space: spontaneous sculptures and assemblages, unsolicited interventions and silent alterations, simple actions and complex patterns. This book traces the vast labyrinth of Downey’s oeuvre, offering the first comprehensive assessment of his sculptures, architecture, performances, installations, films, drawings, collages, and activism. The publication was conceived in close collaboration with the artist, edited by Lukas Feireiss and designed by Matthias Hübner.</p>'
+details: |
+  - ISBN: 9188369178 / 978-9188369178
+  - Content: 432 pages
+  - Size: 240 × 36 × 320 mm
+  - Author: Brad Downey
+  - Edited by: Lukas Feireiss
+  - Co-published: Possible Books
+  - Design: Matthias Hübner
+  - Font in use: TWK Everett
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Softcover
+  - Images: © WELTKERN® / Hatje Cantz Verlag / Possible Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Brad.jpg
+    id: 7227
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-23.jpg
+    id: 7229
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-39.jpg
+    id: 7231
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-39.jpg
+    id: 7233
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-30.jpg
+    id: 7235
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-15.jpg
+    id: 7237
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Brad_BACK.jpg
+    id: 7223
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Brad_BACK2.jpg
+    id: 7225
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Brad Downey
+Slapstick Formalism
+
+----
+
+Uuid: 1UrDeefUna6EqbiG
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

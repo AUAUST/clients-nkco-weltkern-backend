@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: 'Daniel Poller <br>Frankfurt Copies'
+slug: daniel-poller-frankfurt-copies
+id: 21138
+isbn: 3959055192 / 978-3959055192
+price: 32.9
+weight: 1
+author:
+  name: Spector Books
+  id: 99
+description: '<p>Between 2012 and 2018, the Neue Altstadt, or ”new old town,“ was built in the centre of Frankfurt am Main. Here, two design features—old stone elements (spolia) and a chromatic master plan based on a reconstruction of the historical colours of the façades—were used as prime evidence of historical authenticity in the debates that raged in the newspapers as the construction work proceeded. However, these design elements were in many cases read as pastiche, as the only role these quotations play here is to suggest a linear historical thread intended to forge a sense of identity. The conceptual photo book Frankfurt Copies uses overprinting to pair up photographs of all the spolia used in constructing Frankfurt’s Neue Altstadt with the colours of the particular building. The rhythm of the page sequences constitutes a walk through the spatial sequencing of a different ”new old town,“ one that is aware of its own historicity and where the historical process becomes visible as a palimpsest.</p>'
+details: |
+  - ISBN: 3959055192 / 978-3959055192
+  - Content: 166 pages
+  - Size: 345 × 245 mm
+  - Language: English, German
+  - Designed by: a r c
+  - Edited by: Daniel Poller
+  - Publication: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Frankfurt-Copies.jpg
+    id: 21142
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Frankfurt-Copies2.jpg
+    id: 21140
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Frankfurt-Copies1.jpg
+    id: 21143
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Frankfurt-Copies3.jpg
+    id: 21144
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Frankfurt-Copies4.jpg
+    id: 21145
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Frankfurt-Copies5.jpg
+    id: 21146
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Frankfurt-Copies6.jpg
+    id: 21147
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Daniel Poller
+Frankfurt Copies
+
+----
+
+Uuid: YScSasTyyYoZWUEV
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

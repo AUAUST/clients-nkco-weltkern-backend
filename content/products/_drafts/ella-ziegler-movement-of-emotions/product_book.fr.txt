@@ -1,0 +1,61 @@
+Oldweltkern:
+
+title: 'Ella Ziegler <br>Movement Of Emotions'
+slug: ella-ziegler-movement-of-emotions
+id: 14076
+isbn: |
+  3945900475 / 978-3945900475
+price: 36.9
+weight: 1.3
+author:
+  name: Edition Taube
+  id: 272
+description: |
+  <p>The artist publication <em>Movement of Emotions</em> examines in four volumes inter- personal interactions and movements, as well as their atmospheric resonances in social, physical and emotional space. Ella Ziegler is interested in how biogra- phy, culture and ideology inscribe themselves into our individual and collective memorial body and how personal, social and political spaces are permanently constituted through conscious and unconscious body language.<br />
+  <br />
+  The four books Defence, Does the Ground Feel the Tears?, Three Minutes Third Space, and Feigned Unconsciousness are a differentiated observation and investigation of culturally variable emotionally motivated body languages that are learned in the course of a lifetime and intuitively expressed and decoded in familiar contexts. Ella Ziegler transcribes memories and conversations into de- tailed descriptions of actions and transforms quotations into poetic narratives.<br />
+  <br />
+  The interweaving of image, text and monochrome colour surfaces creates four different reference spaces, each with its own rhythm and open syntax.</p>
+details: |
+  - ISBN: 3945900475 / 978-3945900475
+  
+  - Content: 936 Pages in 4 volumes
+  - Size: 14 × 7 × 20 mm
+  - Artist: Ella Ziegler
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_MovementEmotions.jpg
+    id: 14092
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Ella Ziegler
+Movement Of Emotions
+
+----
+
+Uuid: kroIBNlITTQSowfv
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

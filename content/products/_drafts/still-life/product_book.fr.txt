@@ -1,0 +1,75 @@
+Oldweltkern:
+
+title: Still Life
+slug: still-life
+id: 14630
+isbn: 9887519607 / 978-9887519607
+price: 59.9
+weight: 1.2
+author:
+  name: Same Paper
+  id: 284
+description: |
+  <p>Still Life is usually considered one of the principal genres of Western art, endowed with a beautiful meaning; life is still. When we speak of still life in photography nowadays, a visual experience of a sculpture-like image comes up in our minds; objects are carefully arranged in a set indoors with a solid balance but yet faltering. The fragility of still life is always romanticized by the creators. As the world is amid the pandemic and chaos, it becomes inappropriate to enjoy this kind of leisure. In 2020, no matter where we are, we all are experiencing a similar but not the same predicament, and ‘normal’ has been replaced by stagnancy. Here in this book, ‘Still Life’ is considered as a metaphor for the state of continuing to live in this predicament.<br />
+  <br />
+  We invite 13 photographers based in different cities to create stories around their Still Life. In the past, most of their works are often marvelous and unrestrained, approaching images with full utilization of their resources, having access to whatever they need, traveling wherever they want. Now on the contrary, as the pandemic breaks the rules of our existence, they no longer receive such commissions as they used to be, staying home and dealing with the endless stagnancy. In response, an intervention has been imposed on their freely selected topics, each photographer needs to create their stories indoors with limited equipment. We are curious that how these photographers would respond to the current circumstances, to the chaos and anxiety, and what would they photograph for? From the spring of 2020, we have successively received their new works &#8211; some monument like mixtures of objects, the intimate relationships with animals or their companions, the imaginary getaway, or depictions of their mental states. As a result, they present a series of images, drowning away from reality, either optimistic or depressive, tardy, polished, and fragile.</p>
+details: |
+  - ISBN: 9887519607 / 978-9887519607
+  - Content: 250 Pages
+  - Size: 210 × 270 mm
+  - Edited by: Same Paper
+  - Design: Han Gao
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Perfect Bound Paperback with Clear PU Jacket
+  - Images: © WELTKERN® / Same Paper. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_StillLife-1.jpg
+    id: 14631
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_1-1.jpg
+    id: 14636
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_2-1.jpg
+    id: 14638
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_3-1.jpg
+    id: 14640
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_4-1.jpg
+    id: 14642
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_5-1.jpg
+    id: 14644
+tags: [ ]
+
+----
+
+Multilinetitle: Still Life
+
+----
+
+Uuid: k79J56bhYcGnopBl
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

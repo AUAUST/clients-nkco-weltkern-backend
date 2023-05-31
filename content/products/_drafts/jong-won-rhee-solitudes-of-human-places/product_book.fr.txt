@@ -1,0 +1,58 @@
+Oldweltkern:
+
+title: 'Jong Won Rhee <br>Solitudes of Human Places'
+slug: jong-won-rhee-solitudes-of-human-places
+id: 12859
+isbn: 3907236338 / 978-3907236338
+price: 57.5
+weight: 1.2
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>A special moment in photographing is the short-lived moment just before shutter release when you are unconsciously moved by something. You try to capture that fleeting moment of emotions flowing through you without fully understanding them. These pictures try to preserve that moment through the medium of photography, and represent my personal interaction with Korea, where they were taken. This unexpected flow of feelings in the instant before releasing the shutter informs my experience with the world and defines who I am as a person. These images of South Korea’s plain and unadorned fringes peer into the depths of human solitude. They imagine people’s unconscious striving to come to terms with their loneliness by facing up to the human condition squarely, steadfastly, serenely. — Jong Won Rhee<br />
+  <br />
+  The human subjects of Jong Won Rhee’s photograph are, for the most part, turning away or turned in upon themselves. In fact, the characteristic blue rooftops, blooming poppies, garish billboards and store signs, the bundled spring onions at a market stall and the lush fields of South Korea all seem more colorful than the people we come across in these scenes of contemporary everyday life there.</p>
+details: |
+  - ISBN: 3907236338 / 978-3907236338
+  - Content: 144 Pages
+  - Size: 202 × 18 × 290 mm
+  - Author: Jong Won Rhee
+  - Design: Adeline Mollard
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_.jpg
+    id: 12889
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Jong Won Rhee
+Solitudes of Human Places
+
+----
+
+Uuid: eirDHqoshZEK4BKt
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,53 @@
+Oldweltkern:
+
+title: Fiction Practice
+slug: fiction-practice
+id: 17707
+isbn: 9493148154 / 978-9493148154
+price: 16.1
+weight: 0.2
+author:
+  name: Onomatopee
+  id: 319
+description: '<p>Exploring the radical potential of fiction as a tool for social change through speculative design, afro-surrealism, critical fabulations and alternative pedagogies.</p>'
+details: |
+  - ISBN: 9493148154 / 978-9493148154
+  - Content: 128 pages
+  - Size: 110 × 180 mm
+  
+  - Language: English
+  - Edited by: Mariana Pestana
+  - Graphic design: Joana Pestana & Max Ryan
+  - Publishing date: 2019
+  - Specs: Soft Cover (with bookmark insert)
+  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_FictionPractice.jpg
+    id: 17691
+tags: [ ]
+
+----
+
+Multilinetitle: Fiction Practice
+
+----
+
+Uuid: ADqqBxxxDJ3D2PZD
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

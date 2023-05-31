@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Matilde Søes <br>Rasmussen Unprofessional'
+slug: matilde-soes-rasmussen-unprofessional
+id: 17809
+isbn: 8797052082 / 978-8797052082
+price: 47.9
+weight: 1
+author:
+  name: Disko Bay
+  id: 331
+description: |
+  <p>Through photography and text, Danish artist Matilde Søes Rasmussen explores her time as a professional model in Asia. Having spent more than a decade in the industry, she now turns her attention to questioning its power structures, beauty ideals, and objectification. Unprofessional is a playful and crushing book that moves between documentary and fiction, performance and real life, wherein Rasmussen uses her own body to investigate how these structures impact her self-image and identity.</p>
+  <p>The book is a mix self-portraits alongside still lifes, landscapes, and photographs of friends and acquaintances. We see fruits cut in half, a naked back and the model sitting lost in a studio wearing a green fur and swim flippers. A kaleidoscope of colour and form envelops her as she shapeshifts through the pages: hair spiky then slicked; makeup natural then extreme; naked then exquisitely dressed. Short texts, almost like diary entries, punctuate the book, revealing Rasmussen’s first-hand experiences and reflections. Unprofessional is an attempt to find meaning in a career as a model, as an ever-changing character, and as something that is constantly being assessed, bought and admired.</p>
+details: |
+  - ISBN: 8797052082 / 978-8797052082
+  - Content: 240 pages
+  - Size: 210 × 280 mm
+  
+  - Language: English & Swedish
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Diskobay. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Matilde-Soes-Rasmussen.jpg
+    id: 17773
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Matilde Søes
+Rasmussen Unprofessional
+
+----
+
+Uuid: ydlueFFWxtZuKeGK
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,77 @@
+Oldweltkern:
+
+title: Kour Pour
+slug: kour-pour
+id: 5920
+isbn: 8897503543 / 978-8897503545
+price: 37.9
+weight: 1
+author:
+  name: NERO Editions
+  id: 209
+description: '<p>British-Iranian artist Kour Pour elaborates large-scale paintings of Persian rugs by juxtaposing, with different techniques, sets of imagery and iconic motifs from different locations and time periods. Visual references shuffled and linked together by images found on Google or created with Clip-Art in order to mimic the way in which information is collected today. Pour’s artistic practice is ancient and hyper-modern at the same time.</p>'
+details: |
+  - ISBN: 8897503543 / 978-8897503545
+  - Content: 84 pages
+  - Size: 230 × 15 × 290 mm
+  - Author: Nicola Ricciardi
+  - Edited by: Luca Lo Pinto
+  - Design: NERO
+  - Language: English
+  - Publishing date: 2015
+  - Specs: Hardcover
+  - Images: © WELTKERN® / NERO Editions. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_KourPour.jpg
+    id: 5928
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1.jpg
+    id: 5930
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-6.jpg
+    id: 5932
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-6.jpg
+    id: 5934
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-3.jpg
+    id: 5936
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-3.jpg
+    id: 5938
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_KourPour_BACK.jpg
+    id: 5926
+tags: [ ]
+
+----
+
+Multilinetitle: Kour Pour
+
+----
+
+Uuid: 9f0cQaDEpP8kTUOb
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

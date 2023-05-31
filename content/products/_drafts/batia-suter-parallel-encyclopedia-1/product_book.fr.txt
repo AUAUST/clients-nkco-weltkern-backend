@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Batia Suter <br>Parallel Encyclopedia 1'
+slug: batia-suter-parallel-encyclopedia-1
+id: 15329
+isbn: 9492811981 / 978-9492811981
+price: 62.3
+weight: 2
+author:
+  name: Roma Publications
+  id: 268
+description: '<p>Batia Suter’s work intuitively situates found images in new contexts to provoke surprising reactions and significative possibilities. ‘Parallel Encyclopedia’, which she conceived between 2004 and 2007, contains a precise composition of numerous images taken solely from other books. Significant underlying themes expressed in the Amsterdam-based, Swiss artist’s practice are the “iconification” and “immunogenicity” of old images, and the circumstances by which they assume or become charged with new associative values. This is a reprint of Suter’s voluminous book, originally published in 2007 and covering a pictorial plethora of human history, science, philosophy, art, and culture.</p>'
+details: |
+  - ISBN: 9492811981 / 978-9492811981
+  - Content: 592 pages
+  - Size: 220 × 290 mm
+  - Author: Batia Suter
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Encyclopedia.jpg
+    id: 15330
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Batia Suter
+Parallel Encyclopedia 1
+
+----
+
+Uuid: E9MZj1zVYhUYWeOm
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

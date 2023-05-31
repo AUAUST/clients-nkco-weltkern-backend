@@ -1,0 +1,72 @@
+Oldweltkern:
+
+title: Butt Book
+slug: dian-hansons-butt-book
+id: 2993
+isbn: 3836566877 / 978-3836566872
+price: 19.9
+weight: 1.2
+author:
+  name: Taschen
+  id: 91
+description: |
+  <p>The Kama Sutra gives detailed instructions on how to spank it. Contemporary Italians touch it for luck before placing a bet. Americans are having it cosmetically enhanced at rates approaching breast enlargement surgery. The female butt, tush, culo, or derrière has always inspired awe, fantasy, and slavish devotion.<br />
+  <br />
+  Curiously, its primary purpose is functional rather than aesthetic: butts balance our bodies while running, according to biologists. But ask any pygophiliac―as fundament fans are clinically termed―and you’ll get the same answer: female hindquarters exist to please the eye, the hands, and parts south. Sir Mix-a-Lot said it all when he proclaimed, “My anaconda don’t want none, unless you’ve got buns, hun.”<br />
+  <br />
+  All of this valuable insight, as well as some 400 photos from 1900 to 2008, were included in TASCHEN’s original The Big Butt Book, released in 2010. Now, that same content is compressed and reconfigured into TASCHEN’s popular Bibliotheca Universalis format, with some new photos thrown in just for fun. You’ll still find works by Elmer Batters, Jean-Paul Goude, Ralph Gibson, Richard Kern, Jan Saudek, Ed Fox, Guido Argentini, and Sante D’Orazio, of butts ranging from petite Pam Anderson’s to sumptuous Serena Williams’s, all contextualized by interviews with porn icon John (Buttman) Stagliano, filmmaker Tinto Brass, and butt queens Buffie the Body, Coco Austin, and Brazil’s Watermelon Woman, but in a portable size, at an affordable price. What could be more bootylicious?</p>
+details: |
+  - ISBN: 3836566877 / 978-3836566872
+  - Content: 512 pages
+  - Size: 153 × 4 × 205 mm
+  - Author: Dian Hanson
+  - Language: English / French / German
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © Taschen. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Butt-Book.jpg
+    id: 2996
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Butt-Book1.jpg
+    id: 2998
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Butt-Book2.jpg
+    id: 3000
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Butt-Book3.jpg
+    id: 3002
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Butt-Book4.jpg
+    id: 3004
+tags: [ ]
+
+----
+
+Multilinetitle: Butt Book
+
+----
+
+Uuid: 6ANvoZ0z7xlU7rZQ
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

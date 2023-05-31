@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: 'Prometheus Unbound <br>Der Entfesselte Prometheus'
+slug: >
+  prometheus-unbound-der-entfesselte-prometheus
+id: 6519
+isbn: |
+  8867493051 / 978-8867493050
+price: 11.9
+weight: 0.4
+author:
+  name: Mousse Publishing
+  id: 111
+description: |
+  <p>What defines cultures? How enduring are they over time? And where are the origins of the foundations of what we regard today as European culture? The exhibition <em>Prometheus Unbound</em> at the steirischer herbst festival in Graz and the book that accompanies it examine questions that emerge as soon as the discussion turns to culture. Since ancient times, the Titan who stole fire from the gods to give it to humanity has been regarded in the Western tradition as the creator of civilization and bringer of culture. His deeds embody the irreversibility of knowledge and possession of culture and underpin the notion of man as an autonomous being. Freed from his chains, Prometheus can be seen as a metaphor for a contemporary global history, one viewed from a perspective that reaches beyond the European matrix: Prometheus unbound has now fled to an open territory where it is no longer Western history that determines his direction.<br />
+  <br />
+  The artists presented here—Jonathas de Andrade (BR), Lothar Baumgarten (D), Yervant Gianikian and Angela Ricci Lucchi (IT), Friedemann von Stockhausen (D), Clemens von Wedemeyer (D), and Aimée Zito Lema (AR/NL)—chart thus far unexplored forms of knowledge and different systems of imagination, inspired by an ancient drama of ethical struggles, unresolved ambivalences, hubris, and damnation. The catalogue Prometheus Unbound includes original texts by Hartmut Böhme, Luigi Fassi, Jared Hickman, and Giovanni Leghissa that explore in depth the tradition of Prometheus from antiquity to present times.</p>
+details: |
+  - ISBN: 8867493051 / 978-8867493050
+  
+  - Content: 192 pages
+  - Size: 120 × 14 × 190 mm
+  - Edited by: Luigi Fassi
+  - Texts by: Hartmut Böhme, Luigi Fassi, Jared Hickman, Giovanni Leghissa
+  - Design: Mousse Agency
+  - Font in use: TWK Lausanne
+  - Publishing date: 2017
+  - Language: English / German
+  - Specs: Softcover
+  - Images: © WELTKERN® / Mousse Publishing. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Pro-etheusUnbound.jpg
+    id: 6520
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_-12.jpg
+    id: 6522
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-19.jpg
+    id: 6524
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-18.jpg
+    id: 6526
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-11.jpg
+    id: 6528
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Prometheus Unbound
+Der Entfesselte Prometheus
+
+----
+
+Uuid: QKAYHhg4wK70Sq9p
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

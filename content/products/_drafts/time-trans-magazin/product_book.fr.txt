@@ -1,0 +1,78 @@
+Oldweltkern:
+
+title: 'Time <br>trans magazin'
+slug: time-trans-magazin
+id: 29660
+isbn: 3856764555 / 978-3856764555
+price: 18.5
+weight: 2.1
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>Buildings are made up of different layers which have different lifespans. Like human bodies, they are composed of skin, bones and organs, but unlike a living organism where the different parts have closely interwoven lifespans, a structure, a facade or a spatial plan become more durable if they can be changed independently of each other. Buildings are witnesses to other times, times before us and times yet to come. They are thresholds that let us peek at how previous generations lived and how coming generations might carry on. The timelessness that many strive for in architecture is not part of the nature of trans magazin. People and ideas come and go. It lives from the present, tries to reflect on the past, and looks towards a future.</p>'
+details: |
+  - ISBN: 3856764555 / 978-3856764555
+  - Content: 164 pages
+  - Size: 210 × 280 mm
+  - Design: Pierre Benoit
+  - Language: English, German
+  - Publishing date: 2023
+  - Specs: Softcover
+  - Images: © WELTKERN ® / gta Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Time-trans_COVER_.jpg
+    id: 29667
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Time-trans_SPRERAD_01.jpg
+    id: 29666
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Time-trans_SPRERAD_02.jpg
+    id: 29665
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Time-trans_SPRERAD_03.jpg
+    id: 29664
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Time-trans_SPRERAD_04.jpg
+    id: 29663
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Time-trans_SPRERAD_05.jpg
+    id: 29662
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Time-trans_SPRERAD_06.jpg
+    id: 29661
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Time
+trans magazin
+
+----
+
+Uuid: nVqWgVe4fD3TozrI
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

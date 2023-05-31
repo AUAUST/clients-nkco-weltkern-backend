@@ -1,0 +1,61 @@
+Oldweltkern:
+
+title: 'Florina Leinß <br>Ersatzteillager'
+slug: florina-leins-ersatzteillager
+id: 14234
+isbn: 3945900130 / 978-3945900130
+price: 39.5
+weight: 0.6
+author:
+  name: Edition Taube
+  id: 272
+description: |
+  <p>ERSATZTEILLAGER (spare and ware depot) is Florina’s first book with Edition Taube. It is an atlas of shapes and contains the visual vocabulary on which most of her paintings and installations are based on.<br />
+  <br />
+  ERSATZTEILLAGER is an abstract contemplation about shapes and aesthetics. Florina draws inspiration from mechanical spare parts of every day objects: Disconnected from the context and function they once where designed for, she uses them as a starting point for visual exploration.<br />
+  <br />
+  Working in 16 series, each initial form runs through an evolution and gets replaced by the proximate, which can be considered as a reform, a spare or a new version of the preceding one. The book itself is also published in four versions, each with a different cover and page order and a print run of 4 × 100.</p>
+  <p>When you order, please tell us which Version you want:<br />
+  V1: green cover | V2: yellow cover | V3: blue-grey cover | V4: brown cover</p>
+details: |
+  - ISBN: 3945900130 / 978-3945900130
+  - Content: 192 Pages
+  - Size: 145 × 30 × 195 mm
+  - Author: Lars Dyrendom
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Ersatzteillager.jpg
+    id: 14283
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Florina Leinß
+Ersatzteillager
+
+----
+
+Uuid: 2yXD13NsGTeRAHGC
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,81 @@
+Oldweltkern:
+
+title: Under the Rainbow
+slug: under-the-rainbow
+id: 3834
+isbn: 2970120926 / 978-2970120926
+price: 29.9
+weight: 0.6
+author:
+  name: ECAL
+  id: 95
+description: '<p>This book is part of a research project conducted at ECAL that takes a critical look at standards in the field of offset printing. One will find here a collection of texts and images related to colour printing which recount histories, at times unknown, others forgotten, or else, for some, never told.</p>'
+details: |
+  - ISBN: 2970120926 / 978-2970120926
+  - Content: 274 pages
+  - Size: 140 × 20 × 210 mm
+  - Edited by: Tatiana Rihs, Maximage
+  - Texts by: Carolyn L. Kane, Alexandra Loske, Sarah Lowengard, Brooke Sylvia Palmieri, Tatiana Rihs, Elizabeth Savage & Ad Stinjman, Amy Sillman
+  - Design: Ramaya Tegegne
+  - Language: English / French / German
+  - Publishing date: 2018
+  - Specs: Softcover
+  - Images: © ECAL. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Undertherainbow-1.jpg
+    id: 4201
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-59.jpg
+    id: 4203
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-58.jpg
+    id: 4205
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-57.jpg
+    id: 4207
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-42.jpg
+    id: 4209
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_5-19.jpg
+    id: 4211
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_6-11.jpg
+    id: 4213
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Undertherainbow_BACK-1.jpg
+    id: 4199
+tags: [ ]
+
+----
+
+Multilinetitle: Under the Rainbow
+
+----
+
+Uuid: E8i3pGECRWyeRFhB
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

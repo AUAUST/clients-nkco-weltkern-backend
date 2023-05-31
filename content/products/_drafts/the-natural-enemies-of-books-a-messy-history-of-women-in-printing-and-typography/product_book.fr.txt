@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: 'The Natural Enemies of Books <br>A Messy History of Women in Printing and Typography'
+slug: >
+  the-natural-enemies-of-books-a-messy-history-of-women-in-printing-and-typography
+id: 10659
+isbn: 099547303X / 978-0995473034
+price: 22.1
+weight: 0.6
+author:
+  name: Occasional Papers
+  id: 252
+description: '<p>&#8216;Natural Enemies of Books&#8217; is a response to the groundbreaking 1937 publication &#8216;Bookmaking on the Distaff Side&#8217;, which brought together contributions by women printers, illustrators, authors, typographers, and typesetters, highlighting the print industrys inequalities and proposing a takeover of the history of the book. Edited by feminist graphic design collective MMS, the publication includes newly commissioned essays and poems, conversations with former typesetters Inger Humlesjo, Ingegard Waaranpera, Gail Cartmail, and Megan Downey, and reprints of the original book and other publications.</p>'
+details: |
+  - ISBN: 099547303X / 978-0995473034
+  - Content: 180 Pages
+  - Size: 110 × 11 × 190 mm
+  - Edited by: Maryam Fanni
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Occasional Papers / People of Print (peopleofprint.com). All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Enemies.jpg
+    id: 10670
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_.jpg
+    id: 10672
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1.jpg
+    id: 10674
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3.jpg
+    id: 10676
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4.jpg
+    id: 10678
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5.jpg
+    id: 10680
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Enemies_BACK.jpg
+    id: 10668
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+The Natural Enemies of Books
+A Messy History of Women in Printing and Typography
+
+----
+
+Uuid: I29h1Iw1KR147ygh
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,82 @@
+Oldweltkern:
+
+title: 'Fire <br>trans magazin'
+slug: fire-trans-magazin
+id: 29450
+isbn: 3856764388 / 978-3856764388
+price: 18.5
+weight: 2.1
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>The 41st issue of trans magazin deals with the diverse nature of an elemental force: a force we all encounter, fear, are drawn to, and depend on. By playing with fire, this issue expands the territories of architecture into landscapes of politics, apparatus, and sensory perceptions.</p>'
+details: |
+  - ISBN: 3856764388 / 978-3856764388
+  - Content: 162 pages
+  - Size: 210 × 280 mm
+  - Design: Pierre Benoit
+  - Language: German or English
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN ® / gta Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_COVER_.jpg
+    id: 29458
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_SPREAD_01_.jpg
+    id: 29457
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_SPREAD_02_.jpg
+    id: 29456
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_SPREAD_03_.jpg
+    id: 29455
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_SPREAD_04_.jpg
+    id: 29454
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_SPREAD_05_.jpg
+    id: 29453
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_SPREAD_06_.jpg
+    id: 29452
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Fire-trans_SPREAD_07_.jpg
+    id: 29451
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Fire
+trans magazin
+
+----
+
+Uuid: eNzvbAqutAj7k1ou
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,57 @@
+Oldweltkern:
+
+title: 'Kunihiko Morinaga <br>ANREALAGE A&Z'
+slug: kunihiko-morinaga-anrealage-az
+id: 15629
+isbn: 0847864867 / 978-0847864867
+price: 49.9
+weight: 1.6
+author:
+  name: Rizzoli Publications
+  id: 115
+description: |
+  <p>Recognized as one of the most innovative designers in contemporary fashion, Tokyo-based Anrealage is the brainchild of Kunihiko Morinaga. Born in 1980, Morinaga launched the brand in 2003, began showing in Tokyo in 2006 and Paris in 2014, and would later be the recipient of the Mainichi Grand Prize for design&#8211;Japan&#8217;s top fashion prize previously conferred to Issey Miyake, Rei Kawakubo and Yohji Yamamoto. Cerebral and tech-savvy, the Anrealage approach to design is forever putting high-concept theory into practice. Known principally for introducing photochromatic textiles into dresses that react and change colors in response to varying degrees of light, he has also received acclaim for juxtaposing contrasting textures with deconstructed elements to create unique silhouettes.A master of provocation, Morinaga has always been preoccupied byintegrating humanity with rapidly evolving technologies and is actually wary of modern society&#8217;s excesses.<br />
+  <br />
+  Bemoaning the smartphone&#8217;s impact on real world, person-to-person interaction, one of his most recent shows featured fabrics that repelled cellular signals. Anrealage has rightly won itself a devoted fashion following not only in Japan, but overseas as well, with recent insurgent collaborations with brands suchas Fendi, augmenting its growing influence with a firm grasp on how the street informs high fashion. Anrealage: A, Zis conceived as a celebration, approximating with printing effects (including augmented reality) some of the mystery and detailing associated with brand. The visual narrative itself provides an instructive look at the process of design from Morinaga&#8217;s own point of view&#8211;illustrating that he is at once comfortable with developing technologies and respectful of traditional approaches</p>
+details: |
+  - ISBN: 0847864867 / 978-0847864867
+  - Content: 240 pages
+  - Size: 225 × 25 × 285 mm
+  - Author: Kunihiko Morinaga
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Kunihiko-Morinaga-brANREALAGE-AZ.jpg
+    id: 15632
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Kunihiko Morinaga
+ANREALAGE A&Z
+
+----
+
+Uuid: 26kD9C5yKevnrxzW
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

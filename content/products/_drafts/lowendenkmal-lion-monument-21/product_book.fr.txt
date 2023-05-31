@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Löwendenkmal <br>Lion Monument 21'
+slug: lowendenkmal-lion-monument-21
+id: 18759
+isbn: 978-3039420872
+price: 49.9
+weight: 0.2
+author:
+  name: 'Scheidegger &amp; Spiess'
+  id: 89
+description: |
+  <p>The Lion Monument near the Lucerne Glacier Garden commemorates Swiss Guardsmen in the service of the French King Louis XVI who fell during the storming of the Tuileries Palace in Paris on 10 August 1792. The monument, carved directly into the rock face to a design by the Danish sculptor Bertel Thorvaldsen, was ceremoniously inaugurated on 10 August 1821.</p>
+  <p>In view of the 200th anniversary of the Lion Monument, the Kunsthalle Luzern and the L21 association developed a programme of exhibitions, performances, podiums and interdisciplinary events that artistically interrogated the monument over a period of four years. The art projects showed the most diverse artistic attitudes and placed the monument in relation to a wide variety of themes.</p>
+  <p>On the one hand, this book documents the entire project with numerous illustrations, texts and conversations. On the other hand, it is a socially engaged reference book for the artistic contextualisation of monuments that records and reflects the findings of the L21 project.</p>
+details: |
+  - ISBN: 978-3039420872
+  - Content: 304 pages
+  - Size: 245 × 310 mm
+  - Language: English / German
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_LOWENDENKMAL-21.jpg
+    id: 18754
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Löwendenkmal
+Lion Monument 21
+
+----
+
+Uuid: 1Ix7qAr5opcMprmS
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

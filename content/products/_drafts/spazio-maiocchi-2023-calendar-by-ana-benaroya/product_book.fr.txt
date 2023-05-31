@@ -1,0 +1,62 @@
+Oldweltkern:
+
+title: 'Spazio Maiocchi 2023 Calendar <br>by Ana Benaroya'
+slug: 2023-calendar-ana-benaroya
+id: 29550
+isbn: 3959057301 / 978-3959057301
+price: 38.5
+weight: 2.1
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: '<p>To celebrate Spazio Maiocchi&#8217;s 5th anniversary, this year&#8217;s limited-edition, large-format, monthly calendar features artist Ana Benaroya&#8217;s squad of supernatural female characters. Published by KALEIDOSCOPE in partnership with Slam Jam.</p>'
+details: |
+  - ISBN: 3959057301 / 978-3959057301
+  - Content: 28 pages
+  - Size: 297 × 420 mm
+  - Design: Julie Peeters
+  - Language: English
+  - Publishing date: 2023
+  - Specs: Softcover
+  - Images: © WELTKERN ® / KALEIDOSCOPE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_COVER_-3.jpg
+    id: 29551
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_2-3.jpg
+    id: 29553
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_-3.jpg
+    id: 29552
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Spazio Maiocchi 2023 Calendar
+by Ana Benaroya
+
+----
+
+Uuid: axJK36LXeXrVwDVJ
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

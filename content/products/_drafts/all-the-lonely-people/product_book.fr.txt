@@ -1,0 +1,58 @@
+Oldweltkern:
+
+title: all the lonely people
+slug: all-the-lonely-people
+id: 16405
+isbn: 3959056079 / 978-3959056076
+price: 21.5
+weight: 0.8
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>The English word ”sanctuary“ means not only a holy place or sacred space of worship but also asylum and refuge. In 1943, the Villa Aurora in Los Angeles became just such a refuge for Marta and Lion Feuchtwanger, and to mark its twenty-fifth anniversary as an artist residence, the Villa is presenting reflections by writers and visual artists on sanctuaries and hermitages. In addition to new essays and poems by former fellows, the publication also includes literary essays on the literature of exile as well as exhibition views and texts from all the lonely people, curated by Nana Bahlmann.<br />
+  <br />
+  The book examines the millennia-old tradition of hermitism and, against the backdrop of the Covid pandemic, offers up artistic depictions of loneliness, melancholy, and longing as well as physical and mental withdrawal.<br />
+  <br />
+  The Villa Aurora &#038; Thomas Mann House runs two residencies in Los Angeles to encourage transatlantic dialogue and commemorate those living in exile in California during the Nazi era.</p>
+details: |
+  - ISBN: 3959056079 / 978-3959056076
+  - Content: 170 pages
+  - Size: 240 × 300 mm
+  - Authors: Nana Bahlmann, Ann Cotten, Felicitas Hoppe, Monika Rinck, Antje Rávik Strubel, Yoko Tawada, Senthuran Varatharajah
+  - Edited by: Spector Books
+  - Design: Julia Volkmar – Studio for spatial and graphic design
+  - Language: English / German
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_AlltheLonelyPeople.jpg
+    id: 16406
+tags: [ ]
+
+----
+
+Multilinetitle: all the lonely people
+
+----
+
+Uuid: PK26eaQs3vBpyYKL
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Sibylle Eimermacher <br>A Guide Through Hue'
+slug: sibylle-eimermacher-a-guide-through-hue
+id: 15210
+isbn: 978-9492051752
+price: 41.6
+weight: 0.8
+author:
+  name: The Eriskay Connection
+  id: 298
+description: '<p>Sibylle Eimermacher is a German-born artist who has lived in the Netherlands for more than two decades. A few years ago, the reds, browns, and purples of granite and porphyry found on sandy Dutch terrains caught her eye. Research into these glacial erratics pointed her to two regions, the Dalarna province in Sweden and the Åland archipelago in Finland, reawakening her urge to travel north. ‘A Guide Through Hue’ is the outcome of her quest, leading to where the rocks lay bare, to the open veins that pigment the landscape as they leave behind their native Scandinavian bedrock to eventually fade into the Dutch flatlands – a surrender to the universal condition of constant change.</p>'
+details: |
+  - ISBN: 978-9492051752
+  - Content: 368 pages
+  - Size: 220 × 300 mm
+  - Author: Sibylle Eimermacher
+  - Edited by: The Eriskay Connection
+  - Design: Rob van Hoesel
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / The Eriskay Connection. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_SibylleEimermacher.jpg
+    id: 15211
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Sibylle Eimermacher
+A Guide Through Hue
+
+----
+
+Uuid: 3xwEgn7TEqkmbG2Y
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

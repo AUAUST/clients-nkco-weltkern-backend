@@ -1,0 +1,83 @@
+Oldweltkern:
+
+title: 'Dominique Putz <br>Les figures architectoniques: La construction logique de la forme'
+slug: >
+  dominique-putz-les-figures-architectoniques-la-construction-logique-de-la-forme
+id: 6581
+isbn: 2491039079 / 978-2491039073
+price: 18.9
+weight: 0.4
+author:
+  name: Cosa Mentale
+  id: 87
+description: |
+  <p>The figure is the interface where form and meaning meet and communicate, a theme that this book proposes to explore. It is in this light that this research addresses the deciphering of the form of buildings, cities and landscapes.<br />
+  Modern man has lost the ability to read architecture and its figures. The gaze often slips to the external appearance, where the effect and the &#8216;packaging&#8217; obscure the absence of a relationship to the context, the place and the city, and to the lived experience that results from it.<br />
+  <br />
+  Behind architecture lies architectonics, which is the link between the construction understood as &#8216;arranged substance&#8217; and the representations attached to it. It determines our space of experience in which we live, which takes meaning and form through its figures. The figure is the interface where form and meaning meet and communicate, a theme that this book proposes to explore.<br />
+  <br />
+  This will lead us to question the nature of the founding principles and the systems that express them, and to search for them in the intentions that are embodied in architecture through the intermediary of figures and derive their rightful expression. It is in this perspective that this research will approach the deciphering of the form of buildings, cities and landscapes.</p>
+details: |
+  - ISBN: 2491039079 / 978-2491039073
+  - Content: 256 pages
+  - Size: 110 × 20 × 210 mm
+  - Author: Dominique Putz
+  - Edited by: Simon Campedel
+  - Design: Spassky Fischer
+  - Language: French
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Figuresarchitectoniques.jpg
+    id: 6584
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_-13.jpg
+    id: 6586
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-21.jpg
+    id: 6588
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-21.jpg
+    id: 6590
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-14.jpg
+    id: 6592
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Figuresarchitectoniques_BACK.jpg
+    id: 6582
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Dominique Putz
+Les figures architectoniques: La construction logique de la forme
+
+----
+
+Uuid: Y0LwztzHaKj8NMYp
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
