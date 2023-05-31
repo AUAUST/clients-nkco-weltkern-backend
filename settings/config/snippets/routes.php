@@ -186,16 +186,43 @@ return [
         }
 
         $isbns .= $isbn . '<br>';
-
-        // $product = $product->update([
-        //   'isbn' => [
-        //     '10' => $product->isbn(),
-        //     '13' => $product->isbn13(),
-        //   ]
-        // ]);
       }
 
       return 'Missing ISBN: ' . $noisbn . '<br><br>' . $isbns;
+    }
+  ],
+  [
+    'pattern' => 'migration',
+    'language' => '*',
+    'action' => function () {
+      $productsPage = page('products');
+      $products = $productsPage->drafts();
+
+      $contents = [];
+
+      foreach ($products as $product) {
+        $oldWeltkern = $product->oldWeltkern()->toObject();
+        $content = [];
+
+        // Get an parse ISBN
+        $isbn = $oldWeltkern->isbn()->toString();
+
+        if ($isbn !== 'NO ISBN') {
+
+          // It it matches either "3946770789 / 978-3946770787" or "2955701072 / 978-2-955-70107-2"
+          if (preg_match('/^(\d{10})\s*\/\s*(\d{3}-?\d{10})$/', $isbn, $matches)) {
+            $isbn10 = $matches[1];
+            $isbn13 = $matches[2];
+
+            $content['isbn'] = [
+              'isbn10' => $isbn10,
+              'isbn13' => $isbn13
+            ];
+          }
+        }
+      }
+
+      return dump($contents, false);
     }
   ],
 ];
