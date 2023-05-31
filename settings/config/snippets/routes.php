@@ -46,31 +46,11 @@ return [
     'pattern' => 'query-weltkern',
     'language' => '*',
     'action' => function () {
-
-      // ----
-
-      // Oldweltkern:
-
-      // slug: digital-descending
-      // id: 1111
-      // gallery:
-      //   -
-      //     url: >
-      //       https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_COVER_.jpg
-      //     id: 12312
-      // tags:
-
-      //   -
-      //     name: Book
-      //     id: 12312
-      // cover: ""
+      $products = WK1::products();
+      $productsPage = page('products');
 
       $newProducts = [];
       $updatedProducts = [];
-
-      $products = WK1::products();
-
-      $productsPage = page('products');
 
       foreach ($products as $index => $product) {
 
@@ -82,87 +62,6 @@ return [
         if ($product['categories'][0]['slug'] !== 'books') {
           continue;
         }
-
-        // $returnString .= 'name: ' . $product['name'] . '<br>';
-        // $returnString .= 'slug: ' . $product['slug'] . '<br>';
-        // $returnString .= 'id: ' . $product['id'] . '<br>';
-        // $returnString .= 'short_description: ' . $product['short_description'] . '<br>';
-        // $returnString .= 'gallery_image: ' . json_encode($product['gallery_image']) . '<br>';
-        // $returnString .= 'price: ' . $product['price'] . '<br>';
-        // $returnString .= 'weight: ' . $product['weight'] . '<br>';
-        // $returnString .= 'categories: ' . json_encode($product['categories']) . '<br>';
-        // $returnString .= 'tags: ' . json_encode($product['tags']) . '<br><br>';
-        // $returnString .= 'header keys: ' . json_encode(array_keys($product['header'][0]['header'])) . '<br><br><br>';
-
-        // foreach ($product['header'][0]['header']['block_option'] as $key => $value) {
-
-        //   if ($key === 'block_option') {
-        //     $returnString .= 'block_option: ' . json_encode($value) . '<br><br>';
-        //   }
-
-        // $returnString .= $key . ': ';
-
-        // if ($key === 'block_option') {
-
-        //   $returnString .= '<br>';
-
-        //   foreach ($value as $option) {
-        //     $returnString .= '— ' . $option['option'] . ': ' . $option['value'] . '<br>';
-        //   }
-        // }
-
-        // if ($key === 'text_grand') {
-        //   $returnString .= '<br>';
-        //   $returnString .= '— ' . $value . '<br>';
-
-        //   $returnString .= $product['short_description'] . '<br>';
-        // }
-
-        // if ($key === 'block_option_center') {
-        //   $returnString .= '<br>';
-        //   $returnString .= json_encode($value) . '<br>';
-        // }
-
-        //  . Str::unhtml(json_encode($value)) . '<br><br>';
-        // }
-
-        // $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br><br><br>';
-
-        // $author = $product['header'][0]['header']['author_information']['author'];
-        // $returnString .= 'author_name: ' . $author['name'] . '<br>';
-        // $returnString .= 'author_id: ' . $author['term_id'] . '<br>';
-
-        // $returnString .= 'poids: ' . json_encode($product['poids']) . '<br>';
-        // $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
-        // $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
-        // $returnString .= 'ISBN: ' . (function () use ($product) {
-        //   foreach ($product['header'][0]['header']['block_option'] as $option) {
-        //     if ($option['option'] === 'ISBN') {
-        //       return $option['value'];
-        //     }
-        //   }
-        //   return 'NO ISBN';
-        // })() . '<br>';
-        // $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
-
-        // oldWeltkern
-        //     title
-        //     slug
-        //     id
-        //     isbn
-        //     price
-        //     weight
-        //     author
-        //         name
-        //         id
-        //     description
-        //     details
-        //     gallery
-        //         url
-        //         id
-        //     tags
-        //         name
-        //         id
 
         $slug = Str::slug($product['name']);
         $content = [
@@ -240,19 +139,7 @@ return [
           ]);
           $newProducts[] = $productPage;
         }
-
-
-
-
-        // $newProducts[] = [
-        //   'id' => $product['id'],
-        //   'name' => $product['name'],
-        // ];
       }
-
-      // return $productsPage;
-
-      // return implode(array_keys($newProducts[0]), ", ");
 
       $returnString = '';
 
