@@ -110,6 +110,26 @@ return [
         })() . '<br>';
         $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
 
+        // oldWeltkern
+        //     title
+        //     slug
+        //     id
+        //     isbn
+        //     price
+        //     weight
+        //     author
+        //         name
+        //         id
+        //     description
+        //     details
+        //     gallery
+        //         url
+        //         id
+        //     tags
+        //         name
+        //         id
+
+
         // $productsPage->createChild([
         //   'num' => $index + 1,
         //   'slug' => $product['name'],
