@@ -257,11 +257,11 @@ return [
       $returnString = '';
 
       foreach ($newProducts as $product) {
-        $returnString .= '<pre>ADD: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
+        $returnString .= '<pre style="color:green">ADD: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
       }
 
       foreach ($updatedProducts as $product) {
-        $returnString .= '<pre>UPDATE: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
+        $returnString .= '<pre style="color:orange">UPDATE: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
       }
 
       return $returnString;
