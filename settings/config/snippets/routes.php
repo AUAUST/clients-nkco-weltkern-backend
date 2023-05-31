@@ -66,12 +66,11 @@ return [
       // cover: ""
 
       $newProducts = [];
+      $updatedProducts = [];
+
       $products = WK1::products();
 
       $productsPage = page('products');
-
-      $returnString = '';
-
 
       foreach ($products as $index => $product) {
 
@@ -232,14 +231,15 @@ return [
 
         if ($productPage = $productsPage->draft($slug)) {
           $productPage = $productPage->update($content);
+          $updatedProducts[] = $productPage;
         } else {
           $productPage = $productsPage->createChild([
             'slug' => $slug,
             'template' => 'product_book',
             'content' => $content
           ]);
+          $newProducts[] = $productPage;
         }
-
 
 
 
@@ -250,14 +250,21 @@ return [
         // ];
       }
 
-      return "worky";
       // return $productsPage;
 
-      return array_keys($newProducts[0]);
+      // return implode(array_keys($newProducts[0]), ", ");
 
-      return implode(array_map(function ($page) {
-        return $page->title();
-      }, $newProducts));
+      $returnString = '';
+
+      foreach ($newProducts as $product) {
+        $returnString .= '<pre>ADD: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
+      }
+
+      foreach ($updatedProducts as $product) {
+        $returnString .= '<pre>UPDATE: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
+      }
+
+      return $returnString;
     }
   ]
 ];

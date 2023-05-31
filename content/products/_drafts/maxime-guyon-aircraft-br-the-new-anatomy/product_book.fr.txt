@@ -1,3 +1,23 @@
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Maxime Guyon - Aircraft <br>The New Anatomy'
@@ -111,19 +131,3 @@ tags:
 ----
 
 Uuid: Vkk3GkJPyzyTaTfN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
