@@ -3,6 +3,7 @@
 use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
+use Kirby\Data\PHP;
 
 return [
   [
@@ -83,7 +84,7 @@ return [
           continue;
         }
 
-        $returnString .= 'name: ' . $product['name'] . '<br>';
+        // $returnString .= 'name: ' . $product['name'] . '<br>';
         // $returnString .= 'slug: ' . $product['slug'] . '<br>';
         // $returnString .= 'id: ' . $product['id'] . '<br>';
         // $returnString .= 'short_description: ' . $product['short_description'] . '<br>';
@@ -94,37 +95,37 @@ return [
         // $returnString .= 'tags: ' . json_encode($product['tags']) . '<br><br>';
         // $returnString .= 'header keys: ' . json_encode(array_keys($product['header'][0]['header'])) . '<br><br><br>';
 
-        foreach ($product['header'][0]['header'] as $key => $value) {
+        // foreach ($product['header'][0]['header']['block_option'] as $key => $value) {
 
-          if ($key === 'block_option') {
-            $returnString .= 'block_option: ' . json_encode($value) . '<br><br>';
-          }
+        //   if ($key === 'block_option') {
+        //     $returnString .= 'block_option: ' . json_encode($value) . '<br><br>';
+        //   }
 
-          // $returnString .= $key . ': ';
+        // $returnString .= $key . ': ';
 
-          // if ($key === 'block_option') {
+        // if ($key === 'block_option') {
 
-          //   $returnString .= '<br>';
+        //   $returnString .= '<br>';
 
-          //   foreach ($value as $option) {
-          //     $returnString .= '— ' . $option['option'] . ': ' . $option['value'] . '<br>';
-          //   }
-          // }
+        //   foreach ($value as $option) {
+        //     $returnString .= '— ' . $option['option'] . ': ' . $option['value'] . '<br>';
+        //   }
+        // }
 
-          // if ($key === 'text_grand') {
-          //   $returnString .= '<br>';
-          //   $returnString .= '— ' . $value . '<br>';
+        // if ($key === 'text_grand') {
+        //   $returnString .= '<br>';
+        //   $returnString .= '— ' . $value . '<br>';
 
-          //   $returnString .= $product['short_description'] . '<br>';
-          // }
+        //   $returnString .= $product['short_description'] . '<br>';
+        // }
 
-          // if ($key === 'block_option_center') {
-          //   $returnString .= '<br>';
-          //   $returnString .= json_encode($value) . '<br>';
-          // }
+        // if ($key === 'block_option_center') {
+        //   $returnString .= '<br>';
+        //   $returnString .= json_encode($value) . '<br>';
+        // }
 
-          //  . Str::unhtml(json_encode($value)) . '<br><br>';
-        }
+        //  . Str::unhtml(json_encode($value)) . '<br><br>';
+        // }
 
         // $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br><br><br>';
 
@@ -143,7 +144,7 @@ return [
         //   }
         //   return 'NO ISBN';
         // })() . '<br>';
-        $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
+        // $returnString .= '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>';
 
         // oldWeltkern
         //     title
@@ -164,66 +165,74 @@ return [
         //         name
         //         id
 
-        // $productsPage->createChild([
-        //   'num' => $index + 1,
-        //   'slug' => $product['name'],
-        //   'template' => 'product_book',
-        //   'content' => [
-        //     'oldWeltkern' => [
-        //       'title' => $product['name'],
+        $productsPage->createChild([
+          'num' => $index + 1,
+          'slug' => $product['name'],
+          'template' => 'product_book',
+          'content' => [
+            'oldWeltkern' => [
+              'title' => $product['name'],
 
-        //       'slug' => $product['slug'],
+              'slug' => $product['slug'],
 
-        //       'id' => $product['id'],
+              'id' => $product['id'],
 
-        //       'isbn' => (function () use ($product) {
-        //         foreach ($product['header'][0]['header']['block_option'] as $option) {
-        //           if ($option['option'] === 'ISBN') {
-        //             return $option['value'];
-        //           }
-        //         }
-        //         return 'NO ISBN';
-        //       })(),
+              'isbn' => (function () use ($product) {
+                foreach ($product['header'][0]['header']['block_option'] as $option) {
+                  if ($option['option'] === 'ISBN') {
+                    return $option['value'];
+                  }
+                }
+                return 'NO ISBN';
+              })(),
 
-        //       'price' => $product['price'],
+              'price' => $product['price'],
 
-        //       'weight' => $product['weight'],
+              'weight' => $product['weight'],
 
-        //       'author' => (function () use ($product) {
-        //         $author = $product['header'][0]['header']['author_information']['author'];
-        //         return [
-        //           'name' => $author['name'],
-        //           'id' => $author['term_id'],
-        //         ];
-        //       })(),
+              'author' => (function () use ($product) {
+                $author = $product['header'][0]['header']['author_information']['author'];
+                return [
+                  'name' => $author['name'],
+                  'id' => $author['term_id'],
+                ];
+              })(),
 
-        //       'description' => $product['short_description'],
+              'description' => $product['short_description'],
 
-        //       'details' => null,
+              'details' => (function () use ($product) {
+                $details = '';
 
-        //       'gallery' => (array_map(
-        //         function ($image) {
-        //           return [
-        //             'url' => $image['url'],
-        //             'id' => $image['id'],
-        //           ];
-        //         },
-        //         $product['gallery_image']
-        //       )),
+                foreach ($product['header'][0]['header']['block_option'] as $option) {
+                  $details .= '- ' . $option['option'] . ': ' . $option['value'] . PHP_EOL;
+                }
 
-        //       'tags' => (array_map(
-        //         function ($tag) {
-        //           return [
-        //             'name' => $tag['name'],
-        //             'id' => $tag['id'],
-        //           ];
-        //         },
-        //         $product['tags']
-        //       )
-        //       )
-        //     ]
-        //   ]
-        // ]);
+                return $details;
+              })(),
+
+              'gallery' => (array_map(
+                function ($image) {
+                  return [
+                    'url' => $image['url'],
+                    'id' => $image['id'],
+                  ];
+                },
+                $product['gallery_image']
+              )),
+
+              'tags' => (array_map(
+                function ($tag) {
+                  return [
+                    'name' => $tag['name'],
+                    'id' => $tag['id'],
+                  ];
+                },
+                $product['tags']
+              )
+              )
+            ]
+          ]
+        ]);
 
 
         // $newProducts[] = [
