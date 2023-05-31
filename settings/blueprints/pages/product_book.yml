@@ -3,6 +3,7 @@ title:
   en: Book
 
 options:
+  changeTitle: false
   changeTemplate:
     - product_book
     - product_tool
@@ -13,6 +14,21 @@ columns:
       infos:
         type: fields
         fields:
+          curtemp:
+            type: headline
+            numbered: false
+            label:
+              fr: "{{ page.template }}"
+          multilineTitle:
+            type: textarea
+            label:
+              fr: Titre
+              en: Title
+            size: tiny
+            buttons: false
+            help:
+              fr: |
+                Titre complet du livre, autorisant les retours à la ligne.
           publisher:
             type: pages
             label:
