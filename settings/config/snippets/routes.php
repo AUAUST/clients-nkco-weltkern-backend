@@ -165,6 +165,7 @@ return [
         //         name
         //         id
 
+        $slug = Str::slug($product['name']);
         $content = [
           'oldWeltkern' => [
             'title' => $product['name'],
@@ -229,12 +230,16 @@ return [
           ]
         ];
 
-        $newProducts[] = $productsPage->createChild([
-          'num' => $index + 1,
-          'slug' => $product['name'],
-          'template' => 'product_book',
-          'content' => $content
-        ]);
+        if ($productPage = $productsPage->draft($slug)) {
+          $productPage = $productPage->update($content);
+        } else {
+          $productPage = $productsPage->createChild([
+            'slug' => $slug,
+            'template' => 'product_book',
+            'content' => $content
+          ]);
+        }
+
 
 
 
