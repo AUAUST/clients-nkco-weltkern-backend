@@ -129,66 +129,66 @@ return [
         //         name
         //         id
 
-        $productsPage->createChild([
-          'num' => $index + 1,
-          'slug' => $product['name'],
-          'template' => 'product_book',
-          'content' => [
-            'oldWeltkern' => [
-              'title' => $product['name'],
+        // $productsPage->createChild([
+        //   'num' => $index + 1,
+        //   'slug' => $product['name'],
+        //   'template' => 'product_book',
+        //   'content' => [
+        //     'oldWeltkern' => [
+        //       'title' => $product['name'],
 
-              'slug' => $product['slug'],
+        //       'slug' => $product['slug'],
 
-              'id' => $product['id'],
+        //       'id' => $product['id'],
 
-              'isbn' => (function () use ($product) {
-                foreach ($product['header'][0]['header']['block_option'] as $option) {
-                  if ($option['option'] === 'ISBN') {
-                    return $option['value'];
-                  }
-                }
-                return 'NO ISBN';
-              })(),
+        //       'isbn' => (function () use ($product) {
+        //         foreach ($product['header'][0]['header']['block_option'] as $option) {
+        //           if ($option['option'] === 'ISBN') {
+        //             return $option['value'];
+        //           }
+        //         }
+        //         return 'NO ISBN';
+        //       })(),
 
-              'price' => $product['price'],
+        //       'price' => $product['price'],
 
-              'weight' => $product['weight'],
+        //       'weight' => $product['weight'],
 
-              'author' => (function () use ($product) {
-                $author = $product['header'][0]['header']['author_information']['author'];
-                return [
-                  'name' => $author['name'],
-                  'id' => $author['term_id'],
-                ];
-              })(),
+        //       'author' => (function () use ($product) {
+        //         $author = $product['header'][0]['header']['author_information']['author'];
+        //         return [
+        //           'name' => $author['name'],
+        //           'id' => $author['term_id'],
+        //         ];
+        //       })(),
 
-              'description' => $product['short_description'],
+        //       'description' => $product['short_description'],
 
-              'details' => null,
+        //       'details' => null,
 
-              'gallery' => (array_map(
-                function ($image) {
-                  return [
-                    'url' => $image['url'],
-                    'id' => $image['id'],
-                  ];
-                },
-                $product['gallery_image']
-              )),
+        //       'gallery' => (array_map(
+        //         function ($image) {
+        //           return [
+        //             'url' => $image['url'],
+        //             'id' => $image['id'],
+        //           ];
+        //         },
+        //         $product['gallery_image']
+        //       )),
 
-              'tags' => (array_map(
-                function ($tag) {
-                  return [
-                    'name' => $tag['name'],
-                    'id' => $tag['id'],
-                  ];
-                },
-                $product['tags']
-              )
-              )
-            ]
-          ]
-        ]);
+        //       'tags' => (array_map(
+        //         function ($tag) {
+        //           return [
+        //             'name' => $tag['name'],
+        //             'id' => $tag['id'],
+        //           ];
+        //         },
+        //         $product['tags']
+        //       )
+        //       )
+        //     ]
+        //   ]
+        // ]);
 
 
         // $newProducts[] = [
