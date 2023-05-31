@@ -3,7 +3,6 @@
 use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
-use Kirby\Data\PHP;
 
 return [
   [
@@ -54,7 +53,7 @@ return [
 
       foreach ($products as $index => $product) {
 
-        if ($index > 0) {
+        if ($index > 5) {
           break;
         }
 
@@ -63,8 +62,17 @@ return [
           continue;
         }
 
+        // Get name
+        $title = $product['name'];
+        // Replace inline <br> with line breaks
+        $title = preg_replace('/<br\s*\/?>/', PHP_EOL, $title);
+        // Remove all other HTML tags
+        $title = Str::unhtml($title);
+
         $slug = Str::slug($product['name']);
         $content = [
+          'title' => $title,
+
           'oldWeltkern' => [
             'title' => $product['name'],
 
@@ -134,6 +142,7 @@ return [
         } else {
           $productPage = $productsPage->createChild([
             'slug' => $slug,
+
             'template' => 'product_book',
             'content' => $content
           ]);
