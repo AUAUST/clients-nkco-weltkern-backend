@@ -53,9 +53,9 @@ return [
 
       foreach ($products as $index => $product) {
 
-        if ($index > 5) {
-          break;
-        }
+        // if ($index > 5) {
+        //   break;
+        // }
 
         // Only extract books, not typefaces nor stationery
         if ($product['categories'][0]['slug'] !== 'books') {
@@ -69,7 +69,7 @@ return [
         // Remove all other HTML tags
         $title = Str::unhtml($title);
 
-        $slug = Str::slug($product['name']);
+        $slug = Str::slug($title);
         $content = [
           'title' => $title,
 
