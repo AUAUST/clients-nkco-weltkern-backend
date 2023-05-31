@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: Legaspi
+slug: rick-owens-legaspi
+id: 2900
+isbn: 0847867066 / 978-0847867066
+price: 66.9
+weight: 1.3
+author:
+  name: Rizzoli Publications
+  id: 115
+description: |
+  <p>The first volume documenting the life and work of Larry Legaspi, the designer behind the iconic looks for musical acts including KISS, LaBelle, George Clinton, and Parliament.<br />
+  <br />
+  One of the unsung heroes of fashion in the &#8217;70s, Larry Legaspi was a designer ahead of his time. Crafting a space-age look in silver and black leather, Legaspi created the look for the defining musical acts of the era, including KISS, Labelle, George Clinton, and Parliament. Dying of AIDS in 2001, Legaspi left twin legacies as both designer and curator that remain largely unexplored. This volume, authored by Rick Owens, fills in crucial gaps in the knowledge of Legaspi&#8217;s work and impact on the fashion world, while providing a dynamic visual presentation of the life and work of a legend. Filled with a blend of previously unpublished photographs of Legaspi&#8217;s creations as well as new images of Owens&#8217;s work, this stunning volume tells the story of the designer&#8217;s subversive sensibility. An essay by André Leon Talley and interviews with Patti LaBelle, Paul Stanley, Valerie Legaspi, and Pat Cleveland offer a intimate glimpse into Legaspi&#8217;s world.</p>
+details: |
+  - ISBN: 0847867066 / 978-0847867066
+  - Content: 144 pages
+  - Size: 305 × 15 × 305 mm
+  - Author: Rick Owens
+  - Contribution from: Paul Stanley, Pat Cleveland, André Leon Talley, Patti LaBelle
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Hardcover
+  - Images: © Rizzoli New York. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Legapsi.jpg
+    id: 2941
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Legapsi6.jpg
+    id: 2953
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Legapsi5.jpg
+    id: 2951
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Legapsi4.jpg
+    id: 2949
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Legapsi3.jpg
+    id: 2947
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Legapsi2.jpg
+    id: 2945
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Legapsi1.jpg
+    id: 2943
+tags: [ ]
+
+----
+
+Multilinetitle: Legaspi
+
+----
+
+Uuid: waITbRjcIFN1r5Tf
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

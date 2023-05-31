@@ -1,0 +1,69 @@
+Oldweltkern:
+
+title: 'Greg Girard <br>JAL 76 88 Signed copy'
+slug: greg-girard-jal-76-88-signed-copy
+id: 22263
+isbn: 3981982480 / 978-3981982480
+price: 60.2
+weight: 1.1
+author:
+  name: Kominek
+  id: 374
+description: |
+  <p>&#8220;When I first arrived in Tokyo in April, 1976 the plan was to spend a few days and then continue on to SE Asia. I decided to stow my luggage at the airport that first night so I could just wander around. I had no idea where I was going to stay. I took the monorail from Haneda airport into the city and then rode the circle of the Yamanote line around Tokyo. When I arrived at Shinjuku I got off the train. It seemed the brightest, noisiest and most crowded part of town. I spent the night wandering around Shinjuku and nearby neighborhoods and by morning I knew I wanted to stay. It’s perhaps worth pointing out that in 1976 there was nothing to prepare a first-time visitor for Tokyo. “BladeRunner-esque” had yet to enter the language. At the time the notion that the future had arrived, and was alive and well in an Asian city, was simply not known. And so, to stumble across it was thrilling and eye-opening.“<br />
+  Greg Girard from the Q&#038;A with Brad Feuerhelm, included in the book</p>
+details: |
+  - ISBN: 3981982480 / 978-3981982480
+  - Content: 256 pages
+  - Size: 208 × 275 mm
+  - Language: English
+  - Publishing date: 2022
+  - Edited by : Greg Girard
+  - Design : Gonzalo Sanchez and Misha Kominek
+  - Specs: Softcover
+  - Images: © WELTKERN® / Kominek. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_JAL-76-88.jpg
+    id: 22266
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_JAL-76-88-1.jpg
+    id: 22267
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_JAL-76-88-2.jpg
+    id: 22268
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_JAL-76-88-3.jpg
+    id: 22269
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Greg Girard
+JAL 76 88 Signed copy
+
+----
+
+Uuid: R9Ym6Rk63clNJm1g
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

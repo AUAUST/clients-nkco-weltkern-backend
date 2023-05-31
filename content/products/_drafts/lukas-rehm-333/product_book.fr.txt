@@ -1,0 +1,69 @@
+Oldweltkern:
+
+title: 'Lukas Rehm <br>333'
+slug: lukas-rehm-333
+id: 23692
+isbn: 9082771299 / 978-9082771299
+price: 34.4
+weight: 1.2
+author:
+  name: Building Fictions
+  id: 389
+description: '<p>In his practice, Lukas Rehm examines the conditions and theatrics of social structures and the impact of new technological artefacts. Borrowing its form and structure from the graphic novel, ‘333’ interweaves moving image works with textual fragments from transcripts, referential sources, or retrospective descriptions. Seeking and sensing threads such as affect, barriers, memory, knowledge production, or post-human timescales, the publication transposes the still images and quotes into an analogue sequence echoing the temporal, spatial, and sonic dimensions of installation constructs and filmic experiences. The artist’s process therefore becomes a narrative of new interdependencies.</p>'
+details: |
+  - ISBN: 9082771299 / 978-9082771299
+  - Content: 252 pages
+  - Size: 220 × 310 mm
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / Building Fictions. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_333.jpg
+    id: 23716
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_1-8.jpg
+    id: 23717
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-15.jpg
+    id: 23718
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-15.jpg
+    id: 23719
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_4-13.jpg
+    id: 23720
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Lukas Rehm
+333
+
+----
+
+Uuid: cmNQVVOA6imBvKKt
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

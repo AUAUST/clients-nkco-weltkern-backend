@@ -1,0 +1,68 @@
+Oldweltkern:
+
+title: 'Next To Nothing <br>Manual for Independent Film'
+slug: next-to-nothing
+id: 23034
+isbn: NO ISBN
+price: 19.5
+weight: 1
+author:
+  name: Topsafe
+  id: 379
+description: '<p>A Casebook n&#8217; Manual&#8217; for directors, story tellers, artists &#038; image makers providing impressionistic insight into independent film-making, one still at a time.</p>'
+details: |
+  - Content: 236 pages
+  - Size: 185 × 270 mm
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Open spine, double sided dustjacket. Double sided fold out poster.
+  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_vcs.jpg
+    id: 23358
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_-5.jpg
+    id: 23053
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-6.jpg
+    id: 23054
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-6.jpg
+    id: 23055
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_4-4.jpg
+    id: 23056
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Next To Nothing
+Manual for Independent Film
+
+----
+
+Uuid: Csf11MeZVc4sFEz7
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

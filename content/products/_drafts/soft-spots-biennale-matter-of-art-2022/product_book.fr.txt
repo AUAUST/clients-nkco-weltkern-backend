@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: 'Soft Spots <br>Biennale Matter of Art 2022'
+slug: soft-spots-biennale-matter-of-art-2022
+id: 26101
+isbn: 3959056809 / 978-3959056809
+price: 25.9
+weight: 0.4
+author:
+  name: Spector Books
+  id: 99
+description: '<p>This publication brings together new and previously published essays, interviews, short stories, and reports from a variety of fields and geographies on a variety of topics that map the space of Eastern Europe and beyond, with a focus on the &#8220;beyond.&#8221; The starting point is exhaustion-spiritual exhaustion, cultural exhaustion, material and economic exhaustion-and the resulting strategic position of weakness or compliance. The texts take a look at: Racialization, decolonization of museums and museology, the intricacies of cultural exchange, and the impact of radical modernist traditions of thought and aesthetics. They are accompanied by artistic interventions by Dorota Brázdovičová, Markéta Soukupová, Sráč Sam and Tarek Lakhrissi. </p>'
+details: |
+  - ISBN: 3959056809 / 978-3959056809
+  - Content: 336 pages
+  - Size: 115 × 230 mm
+  - Design: Ondrej Bachor
+  
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Soft-Spots_COVER_.jpg
+    id: 26110
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Soft-Spots_SPREAD_01_.jpg
+    id: 26109
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Soft-Spots_SPREAD_02_.jpg
+    id: 26108
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Soft-Spots_SPREAD_03_.jpg
+    id: 26107
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Soft-Spots_SPREAD_04_.jpg
+    id: 26106
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Soft-Spots_SPREAD_05_.jpg
+    id: 26105
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/Soft-Spots_SPREAD_06_.jpg
+    id: 26104
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Soft Spots
+Biennale Matter of Art 2022
+
+----
+
+Uuid: 1bKMyBXWZRVFpTdZ
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

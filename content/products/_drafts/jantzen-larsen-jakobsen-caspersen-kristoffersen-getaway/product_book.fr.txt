@@ -1,0 +1,59 @@
+Oldweltkern:
+
+title: 'Jantzen, Larsen, Jakobsen, Caspersen, Kristoffersen <br>Getaway'
+slug: >
+  jantzen-larsen-jakobsen-caspersen-kristoffersen-getaway
+id: 17815
+isbn: |
+  8797052044 / 978-8797052044
+price: 14.9
+weight: 2.1
+author:
+  name: Disko Bay
+  id: 331
+description: |
+  <p>Getaway play out in a parallel universe a little closer to the sun; The Canary Islands, almost exclusively a holiday destination for more than three million western tourists a year. Five Danish photographers have been on an expedition to this shiny new world to gain evidence of its well-being. Here we see bodies in all shapes and sizes, deep canyons, wild nature, sandy beaches, sunburns, nudism and alhohol. A recreational mix where one come to enjoy, dream, escape, recover and confront the absence of everyday life. That temporary reality we call vacation.</p>
+  <p>Ulrik Jantzen, Kasper Witte Larsen, Emil Jakobsen, Simon Caspersen and Kasper Kristoffersen work together in the photo collective Büro Jantzen founded by Photo Journalist Ulrik Jantzen. Jantzen has over the past 15 years made his mark on the photographic scene in Denmark where he exhibited at galleries and museums in Denmark and abroad, published a number of photobooks and won several photo-awards.</p>
+details: |
+  - ISBN: 8797052044 / 978-8797052044
+  
+  - Content: 144 pages
+  - Size: 165 × 225 mm
+  
+  - Language: Danish
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Diskobay. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Jantzen-Larsen-Jakobsen-Caspersen-Kristoffersen.jpg
+    id: 17783
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Jantzen, Larsen, Jakobsen, Caspersen, Kristoffersen
+Getaway
+
+----
+
+Uuid: dQTFqno5KfDmfCbp
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

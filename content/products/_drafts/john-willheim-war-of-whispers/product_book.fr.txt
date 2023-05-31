@@ -1,0 +1,55 @@
+Oldweltkern:
+
+title: 'John Willheim <br>War of Whispers'
+slug: john-willheim-war-of-whispers
+id: 15489
+isbn: 3960700652 / 978-3960700654
+price: 67.4
+weight: 1.2
+author:
+  name: Hartmann Books
+  id: 309
+description: '<p>This book tells the extraordinary story of what later became known as the “CIA’s Secret War” in the Asian country of Laos in the 1960s and 1970s. It was the largest clandestine CIA operation to this day. A guerrilla army of Hmong people fought against the North Vietnamese communist-supported Pathet Lao. While the war in next-door Vietnam was widely covered by the media, the Secret War was decidedly not. Reporters who came to investigate rumors about a war were turned away at gunpoint—with one exception. A newly minted CIA officer, John Willheim, already an accomplished photographer, was chosen to enter and document the Secret War, without any restrictions. His photographs and films were highly classified at the time. Only top American intelligence officials, a few senior U.S. congressmen, and President Lyndon Johnson had access to Willheim’s material. In the decades to follow, they remained almost entirely hidden. Far from glorifying war, the striking images and informative text in this book can be seen today, fifty years later, as historic testimony of an almost lost era. This is the only photo book ever published on the Secret War. Everyday images of the people, villages, and landscapes behind the battlelines stand in brutal contrast to the reality of war. Willheim’s sympathies were clearly allied with the Hmong people who were fighting this proxy war for the United States against communists in the North and ultimately lost it. At war’s end, those Hmong who did not flee Laos were persecuted and continue to be by the current communist government as “America’s forgotten warriors.” Tens of thousands of Hmong fled to neighboring Thailand and later emigrated to the United States, France, and Germany. Willheim turned over his historic photographs, films, and thoughts to the award-winning Dutch photo book designer -SYB-, who combined them into a riveting, almost cinematic documentary photobook.</p>'
+details: |
+  - ISBN: 3960700652 / 978-3960700654
+  - Content: 280 pages
+  - Size: 220 × 298 mm
+  - Artist: John Willheim
+  - Edited by: Hartmann Books
+  - Design: -SYB-
+  - Language: English
+  - Publishing date: 2021
+  - Images: © WELTKERN® / Hartmann Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_JohnWillheim.jpg
+    id: 15490
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+John Willheim
+War of Whispers
+
+----
+
+Uuid: DGH62cRJHgvaK5p4
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

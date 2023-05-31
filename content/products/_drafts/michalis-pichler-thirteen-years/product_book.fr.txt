@@ -1,0 +1,82 @@
+Oldweltkern:
+
+title: 'Michalis Pichler <br>Thirteen Years'
+slug: michalis-pichler-thirteen-years
+id: 22513
+isbn: 3959055437 / 978-3959055437
+price: 21.6
+weight: 1.1
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>A cross-reference book of information on aesthetic boundaries, consisting of a bibliography into which inserted text, critical essays, art works, and documents, are arranged chronologically and focused on a selection of so-called »greatest hits« and conceptual poetics. It contains mentions of such vaguely designated areas as appropriation, postnaive, unboring boring, détournement, object perdu, and erasure poetry — or writing through — as they currently occur (with occasional political overtones) in the work of Michalis Pichler.<br />
+  This book is the first monograph focused on the practice of artist/author Michalis Pichler. Featuring eleven critical essays, an extensively illustrated catalogue, a conversation with John Stezaker, and selected writings by the artist, the book delivers a solid introduction into conceptual poetics.</p>
+details: |
+  - ISBN: 3959055437 / 978-3959055437
+  - Content: 240 pages
+  - Size: 210 × 297 mm
+  - Author: Michalis Pichler
+  - Design: Bureau Mario Lombardo
+  
+  - Language: English / Spanish
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / ‎Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_Michalis-Pichler.jpg
+    id: 22515
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_1-3.jpg
+    id: 23515
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_2-5.jpg
+    id: 23516
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_3-5.jpg
+    id: 23517
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_4-5.jpg
+    id: 23518
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_5-5.jpg
+    id: 23519
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_6-3.jpg
+    id: 23520
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Michalis Pichler
+Thirteen Years
+
+----
+
+Uuid: wQIrg3UMtv9B4GD7
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

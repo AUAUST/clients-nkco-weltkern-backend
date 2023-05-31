@@ -1,0 +1,76 @@
+Oldweltkern:
+
+title: 'New York City Transit Authority <br>Graphics Standard Manual'
+slug: >
+  graphics-standard-manual-new-york-city-transit-authority
+id: 3275
+isbn: 0692496954 / 978-0692496954
+price: 49.9
+weight: 1.9
+author:
+  name: Standards Manual
+  id: 108
+description: '<p>The <em>New York City Transit Authority: Graphics Standards Manual</em> contains scans of Massimo Vignelli and Bob Noorda’s (Unimark) modernist masterpiece. The manual describes the design and construction for the iconic NYC subway signs that we still see and use today, but above all it’s a beautiful and important piece of design history.</p>'
+details: |
+  - ISBN: 0692496954 / 978-0692496954
+  - Content: 356 pages
+  - Size: 254 × 33 × 254 mm
+  - Authors: Jesse Reed, Hamish Smyth
+  - Design: Order
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © Standards manual. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_NYCTA_Graphics.jpg
+    id: 3278
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-23.jpg
+    id: 3280
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-23.jpg
+    id: 3282
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-23.jpg
+    id: 3284
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-18.jpg
+    id: 3286
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_5-7.jpg
+    id: 3288
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+New York City Transit Authority
+Graphics Standard Manual
+
+----
+
+Uuid: 00ozEYokckVA0Kjq
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

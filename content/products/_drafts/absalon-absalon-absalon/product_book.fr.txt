@@ -1,0 +1,58 @@
+Oldweltkern:
+
+title: 'Absalon <br>Absalon Absalon'
+slug: absalon-absalon
+id: 14520
+isbn: 2918252757 / 978-2918252757
+price: 16.7
+weight: 0.5
+author:
+  name: Paraguay Press
+  id: 281
+description: |
+  <p>Absalon Absalon is the catalogue of the eponymous exhibition presented at the Capc-musée d&#8217;art contemporain de Bordeaux in 2021. The exhibition brings Absalon together with several of his contemporaries, including Felix Gonzalez-Torres, Robert Gober and Marie-Ange Guilleminot, and establishes affinity associations with works by Mona Hatoum, Alain Buffard, Laura Lamiel and Myriam Mihindou.<br />
+  This book, which publishes the artist&#8217;s archives (texts, conference) for the first time in French, is also the only monograph currently in circulation on Absalon&#8217;s work, since the catalogue of the KunstWerke in Berlin ten years ago.<br />
+  <br />
+  The Absalon Absalon catalogue is not only a documentation of the exhibition, including numerous installation views, but also an extension of this project, through the publication of a set of previously unpublished documents by Absalon: texts by the artist, archival photographs, and a transcript of a lecture. The catalogue is accompanied by an essay by curators Guillaume Désanges and François Piron, as well as an interview with art historian Elisabeth Lebovici, who renews the approach to this work from a contemporary perspective.</p>
+details: |
+  - ISBN: 2918252757 / 978-2918252757
+  - Content: 80 Pages
+  - Size: 210 × 300 mm
+  - Artist: Absalon
+  - Design: Spassky Fischer
+  - Language: French / English
+  - Publishing date: 2021
+  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Absalon.jpg
+    id: 14522
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Absalon
+Absalon Absalon
+
+----
+
+Uuid: MbcA0h4NjbQwb6Fn
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

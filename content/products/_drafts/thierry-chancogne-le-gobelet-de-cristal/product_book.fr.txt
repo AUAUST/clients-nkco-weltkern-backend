@@ -1,0 +1,80 @@
+Oldweltkern:
+
+title: 'Thierry Chancogne <br>Le Gobelet de cristal'
+slug: thierry-chancogne-le-gobelet-de-cristal
+id: 14555
+isbn: 1096155214 / 979-1096155217
+price: 26.9
+weight: 0.8
+author:
+  name: Tombolo Presses
+  id: 282
+description: |
+  <p>From Pliny, Butades and the competition between Zeuxis and Parrhasios to Ovid, Pygmalion and the shimmering love of Echo and Narcissus, antiquity will have been full of those stories, parables, metaphors and allegories that have shaped our gaze, that have shaped our understanding of the image, that have constructed the norms of representation, that have told us how to see. But, from there, where should we look for a new antiquity for this new way of perhaps conceiving design, graphic design or typography? The purpose of this essay is to look for the founding texts of graphic design in the new traditionalist type designers of the Monotype Corporation in general and the figure of Beatrice Warde in particular.<br />
+  <br />
+  With the study of the philosophical tale of the Crystal Beaker written by this strong and singular woman who would become the &#8220;first lady&#8221; and queen of &#8220;modern&#8221; typography, Thierry Chancogne will look at certain vocations of graphic design for an ethic of function and full transitivity: in a grand narrative of transparent typography.</p>
+details: |
+  - ISBN: 1096155214 / 979-1096155217
+  - Content: 152 Pages
+  - Size: 235 × 315 mm
+  - Author: Thierry Chancogne
+  - Edited by: Tombolo Presses
+  - Design: Spassky Fischer, Thomas Spieler
+  - Font in use: Trainer Grotes
+  - Language: French
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Tombolo Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_ThierryChancogne.jpg
+    id: 14556
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_1-2.jpg
+    id: 14646
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_2-2.jpg
+    id: 14648
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_3-2.jpg
+    id: 14650
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_4-2.jpg
+    id: 14652
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_5-2.jpg
+    id: 14654
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Thierry Chancogne
+Le Gobelet de cristal
+
+----
+
+Uuid: NTmmdFsjYUPegwN0
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

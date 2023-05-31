@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Zuni Halpern <br>Elephants'
+slug: zuni-halpern-elephants
+id: 14129
+isbn: 3945900529 / 978-3945900529
+price: 18.7
+weight: 0.2
+author:
+  name: Edition Taube
+  id: 272
+description: '<p>With “Elephants”, the Zurich based artist Zuni Halpern (*1978) has continued a work she started in Chicago. The publication contains pencil drawings in which Halpern combines impressions of the city – its architecture, sculptures, and public art – with her fascination for elephants. The artist has enhanced the created stories and functions of bodies with luminous layers of color. These were added to the drawings exclusively for the publication using a combination of analog and digital techniques. Viewers can immerse themselves in a wild world of crushing, embracing and playing. The elephant creatures, sculptures and women’s bodies are repeated again and again by Halpern as shapes in order to weave them into new sceneries and to continue the graphic stories. In this way, the artist creates a world which can be freely explored, where anything is possible and new elements can be discovered every time the book is opened.</p>'
+details: |
+  - ISBN: 3945900529 / 978-3945900529
+  - Content: 80 Pages
+  - Size: 170 × 10 × 240 mm
+  - Artist: Zuni Halpern
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Elephants.jpg
+    id: 14153
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Zuni Halpern
+Elephants
+
+----
+
+Uuid: SFpq2Ci6Dui3MRy5
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,65 @@
+Oldweltkern:
+
+title: 'Hans Ulrich Obrist (Zurich, Switzerland) <br>Sala Time'
+slug: >
+  hans-ulrich-obrist-zurich-switzerland-sala-time
+id: 13515
+isbn: NO ISBN
+price: 12.5
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: |
+  <p>This volume contains correspondence sent by Hans Ulrich Obrist to Anri Sala. A subsequent volume published by innen will contain the correspondence sent by Anri Sala to Hans Ulrich Obrist</p>
+  <p>Published on the occasion of Printed Matter’s NY Art Book Fair at MoMA PS1 / September 21-23, 2018</p>
+details: |
+  - Content: 24 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Softcover
+  Black & White Offset Printed
+  Edition of 500 copies
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_B1.jpg
+    id: 13441
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_B2.jpg
+    id: 13443
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_B3.jpg
+    id: 13445
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Hans Ulrich Obrist (Zurich, Switzerland)
+Sala Time
+
+----
+
+Uuid: VTD6O8UNTZyvRkvc
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

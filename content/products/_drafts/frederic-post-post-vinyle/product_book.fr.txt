@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Frédéric Post <br>Post Vinyle'
+slug: frederic-post-post-vinyle
+id: 14982
+isbn: 2940409501 / 978-2940409501
+price: 23.2
+weight: 0.6
+author:
+  name: Boabooks
+  id: 290
+description: '<p>Miracol is the name of the pirate records label of the Swiss artist Frédéric Post. With the participation of numerous composers, he relases single or multiple copies of picture disc homemade with glued. The idea of the artist is related to the speculation on the limited duration of his fragil and authentic product. The layout of the sleeve design during the production of this reverse records intend his work into a reseach in contrast of the main marketing idea of the records industries, affecting most of the time the design and also the sounds of the music.</p>'
+details: |
+  - ISBN: 2940409501 / 978-2940409501
+  - : 160 pages
+  - Size: 175 × 240 mm
+  - Edited by: Boabooks
+  - Language: English
+  - Publishing date: 2012
+  - Specs: Softcover
+  - Images: © WELTKERN® / Boabooks. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_FrédéricPost.jpg
+    id: 14983
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Frédéric Post
+Post Vinyle
+
+----
+
+Uuid: p0Y6kJEi9U1BKQeJ
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

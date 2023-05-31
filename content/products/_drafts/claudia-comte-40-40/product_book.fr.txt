@@ -1,0 +1,76 @@
+Oldweltkern:
+
+title: 'Claudia Comte <br>40 × 40'
+slug: claudia-comte-40-x-40-copy
+id: 14495
+isbn: 3906803272 / 978-3906803272
+price: 105.6
+weight: 2.3
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: '<p>This spectacular large format (40 × 40 cm open) artist&#8217;s book is composed of graphic works by Claudia Comte. Conceived as a Cartesian data system, the book folds and collapses in such a way that it can be read in four different ways, transforming itself into a geometric playground offering different variations on the Swiss artist&#8217;s visual identity.</p>'
+details: |
+  - ISBN: 3906803272 / 978-3906803272
+  - Content: 416 Pages
+  - Size: 200 × 400 mm
+  - Artist: Claudia Comte
+  - Texts by: Chris Sharp
+  - Design: Elektrosmog
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Softcover
+  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_40x40.jpg
+    id: 14491
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_1-5.jpg
+    id: 14674
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_2-5.jpg
+    id: 14676
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_3-5.jpg
+    id: 14678
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_4-5.jpg
+    id: 14680
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_5-4.jpg
+    id: 14682
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Claudia Comte
+40 × 40
+
+----
+
+Uuid: fSblLMpYFjUOGve8
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

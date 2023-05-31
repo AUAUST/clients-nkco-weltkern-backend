@@ -1,0 +1,62 @@
+Oldweltkern:
+
+title: Swiss Graphic Design Histories
+slug: swiss-graphic-design-histories
+id: 17904
+isbn: 3858818683 / 978-3858818683
+price: 95.4
+weight: 0.2
+author:
+  name: 'Scheidegger &amp; Spiess'
+  id: 89
+description: |
+  <p>Swiss Graphic Design Histories offers an entirely new redefinition of Switzerland’s graphic design landscape. Based on extensive research by scholars of design history and with a multiple and inclusive approach, it reaches beyond the usual canon and the well-known epicenters Basel and Zurich with the Germanophone fathers of what has become famous as the Swiss Style in the 1950s, 1960s and 1970s.<br />
+  <br />
+  In three volumes it features visual artefacts and archival documents, the majority published here for the first time, alongside likewise previously unpublished conversations with designers who have forged developments of the past decades, as well as new essays discussing key terms that refer to various design practices. The complexity of the undertaking is embraced through a system of keywords, thus enabling readers to connect contents within the individual volumes. A fourth volume comprising a glossary, bibliography, and an index of the keywords rounds out this long-awaited new survey of graphic design in multi-lingual Switzerland that sheds new light at networks, practices and media largely ignored so far.</p>
+details: |
+  - ISBN: 3858818683 / 978-3858818683
+  - Content: 814 pages
+  - Size: 240 × 165 × 54 mm
+  - Language: English
+  - Editors: Davide Fornari, Lausanne (CH); Robert Lzicar, Bern (CH);
+  Sarah Owens, Zürich (CH); Michael Renner, Basel (CH);
+  Arne Scheuermann, Bern (CH); Peter J. Schneemann, Bern (CH)
+  - Publication: 2021
+  - Design: Simone Farner, Naima Schalcher
+  - Specs: Hardcover, Slipcase
+  
+  - Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_-3.jpg
+    id: 24840
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_1.jpg
+    id: 24841
+tags: [ ]
+
+----
+
+Multilinetitle: Swiss Graphic Design Histories
+
+----
+
+Uuid: PIBuiHpKLs7eZsyu
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

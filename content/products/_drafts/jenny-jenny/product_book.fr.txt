@@ -1,0 +1,73 @@
+Oldweltkern:
+
+title: Jenny Jenny
+slug: jenny-jenny
+id: 10789
+isbn: 3944669007 / 978-3944669007
+price: 41.9
+weight: 0.9
+author:
+  name: Spector Books
+  id: 99
+description: '<p>Tobias Zielony’s recent photo series started with a chance encounter. A conversation with a young couple on a Berlin subway train led Zielony to suggest to photograph them. At the next stop they took a few quick shots on the platform. She told him that she could always be found around here, and he could come back anytime to take more pictures. Here?―I walk the street, right around the corner! They meet again, Zielony first portrays her and then also her fellow prostitutes and friends. The result is the 40 part series Jenny Jenny. It is not documentary: Tobias Zielony avoids the journalistic impetus for certainty and truth. To him, the authenticity of the subject is as relevant as the question of the objectivity of the documentary image: both are never free of dramatic elements. The book was published on occasion of the exhibition <em>Tobias Zielony: Jenny Jenny</em> in the Berlinischen Galerie.</p>'
+details: |
+  - ISBN: 3944669007 / 978-3944669007
+  - Content: 128 Pages
+  - Size: 235 × 12 × 275 mm
+  - Author: Tobias Zielony
+  - Texts by: Ulrich Domröse, Maren Lübbke-Tidow, Vanessa Joan Müller
+  - Design: Prill Vieceli Cremers, Christian Hofer
+  - Language: English / German
+  - Publishing date: 2013
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Jenny.jpg
+    id: 10833
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-6.jpg
+    id: 10835
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-5.jpg
+    id: 10837
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-6.jpg
+    id: 10839
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-6.jpg
+    id: 10841
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-6.jpg
+    id: 10843
+tags: [ ]
+
+----
+
+Multilinetitle: Jenny Jenny
+
+----
+
+Uuid: 6vAAxb9Ttm3EwdUN
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

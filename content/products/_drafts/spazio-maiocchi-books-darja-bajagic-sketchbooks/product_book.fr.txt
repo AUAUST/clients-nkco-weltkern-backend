@@ -1,0 +1,73 @@
+Oldweltkern:
+
+title: 'Spazio Maiocchi Books <br>Darja Bajagić Sketchbooks'
+slug: >
+  spazio-maiocchi-books-darja-bajagic-sketchbooks
+id: 11962
+isbn: NO ISBN
+price: 21.4
+weight: 0.6
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: |
+  <p>Published by KALEIDOSCOPE and Spazio Maiocchi on the occasion of solo exhibitions hosted at Spazio Maiocchi between 2017 and 2018.<br />
+  <br />
+  Darja Bajagić: Sketchbooks features a collection of collages exhibited alongside a series of paintings at the intersection of Minimalism and digital appropriation. Bajagić’s work addresses subjects as extreme as sex and violence, challenging the viewer’s perspective and complicating binary notions of morality.</p>
+details: |
+  - Content: 80 Pages
+  - Size: 220 × 7 × 280 mm
+  - Author: Darja Bajagić
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Softcover
+  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_COVER_Darja.jpg
+    id: 11966
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_1-4.jpg
+    id: 11968
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_2-4.jpg
+    id: 11970
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_3-4.jpg
+    id: 11972
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_4-3.jpg
+    id: 11974
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Spazio Maiocchi Books
+Darja Bajagić Sketchbooks
+
+----
+
+Uuid: U92wmojWwr9M8BqD
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,59 @@
+Oldweltkern:
+
+title: Glassbox
+slug: glassbox
+id: 15109
+isbn: 1096155033 / 979-1096155033
+price: 24.9
+weight: 1
+author:
+  name: Tombolo Presses
+  id: 282
+description: |
+  <p>A review of two decades of activities of one of the first Parisian artist-run spaces, which proposes a global reflection on the conditions of emergence of independent and collective spaces, and their inscription in the institutional and artistic scene.<br />
+  <br />
+  Created in 1997, Glassbox recently celebrated its twentieth anniversary. For this occasion, the current team wished to present more than 150 projects among those conducted during these two decades, confronting various archival documents (photographs, communication supports, plans&#8230;) with the texts of the contributors who come to enlighten with a singular glance the unfolding of this history and its inscription in a cultural context in transition.<br />
+  At that time, the institutional Parisian scene was essentially made up of the Musée d&#8217;Art Moderne de la Ville de Paris and the Centre Pompidou, the market only had a few Parisian galleries, and the Palais de Tokyo was still at the project stage. It was a period during which the first artist-run spaces emerged, and where the collective seemed to be an efficient mode of operation. Glassbox, founded by a few students of the Beaux-Arts de Paris, quickly extended its activities by renewing itself with each move, and by transmitting itself to the next generation of artists, as a space for experimentation and encounter.<br />
+  This book is an opportunity for one of the first Parisian artist-run spaces (and one of the last survivors of this era) to look back at the context of its creation, but also to confront it with the mutations of the cultural scene and its professionalization, with the development of the figure of the critic and the curator.<br />
+  Beyond a return on experience by the teams of the various periods and the artists having participated in the project, the work proposes a more global reflection on the conditions of emergence of the independent and collective places, and their inscription in the institutional and artistic scene.</p>
+details: |
+  - ISBN: 1096155033 / 979-1096155033
+  - Content: 304 pages
+  - Size: 210 × 297 mm
+  - Edited by: Clémence Agnez
+  - Texts by: Clémence Agnez, Saâdane Afif, Jean-Christophe Arcos, Dominique Blais, Nicolas Bourriaud, Collectif 1.0.3, Lucille de Witte, Élie During, Flora Katz, Sarah Ihler-Meyer, Irma Name (Hélène Deléan et Clément Caignart), Sabrina Issa, Patrice Joly, Sophie Lapalu, Ingrid Luquet-Gad, Éric Mangion, Olivier Marboeuf, Pedro Morais, Stefan Nikolaev, Hans-Ulrich Obrist, Joël Riff.
+  - Design: Syndicat
+  - Language: French
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Les presses du réel / Glassbox. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Glassbox.jpg
+    id: 15127
+tags: [ ]
+
+----
+
+Multilinetitle: Glassbox
+
+----
+
+Uuid: p5zyyVANzh86pGuX
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

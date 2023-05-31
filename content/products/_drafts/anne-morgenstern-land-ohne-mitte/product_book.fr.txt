@@ -1,0 +1,72 @@
+Oldweltkern:
+
+title: 'Anne Morgenstern <br>Land ohne Mitte'
+slug: anne-morgensternland-ohne-mitte
+id: 2806
+isbn: 3770012095024 / 978-3000487514
+price: 49.9
+weight: 1.2
+author:
+  name: Fountain Books
+  id: 178
+description: '<p>How is life in a city without future prospects but with the stigma of the neo-fascist terror of 1991? <em>Land ohne Mitte</em> portrays people, space and landscape in and around the Saxon city of Hoyerswerda and shows the normal everyday life in the German province: without demographic, urban development or political centre.</p>'
+details: |
+  - ISBN: 3770012095024 / 978-3000487514
+  - Content: 220 pages
+  - Size: 200 × 27 × 270 mm
+  - Author: Anne Morgenstern
+  - Texts by: Margrit Sengebusch, Christian Ritter
+  - Design: Raffinerie
+  - Language: German
+  - Publishing date: 2015
+  - Specs: Softcover
+  - Images: © Fountain Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_LandOhneMitte.jpg
+    id: 2809
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-6.jpg
+    id: 2811
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-6.jpg
+    id: 2813
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-6.jpg
+    id: 2815
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-5.jpg
+    id: 2817
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Anne Morgenstern
+Land ohne Mitte
+
+----
+
+Uuid: hK7XwzTR9imssQhR
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

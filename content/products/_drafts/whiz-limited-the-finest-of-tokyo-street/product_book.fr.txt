@@ -1,0 +1,59 @@
+Oldweltkern:
+
+title: 'Whiz Limited <br>The Finest of Tokyo Street'
+slug: whiz-limited-the-finest-of-tokyo-street
+id: 22359
+isbn: 0847871347 / 978-0847871346
+price: 69.9
+weight: 1.8
+author:
+  name: Rizzoli Publications
+  id: 115
+description: |
+  <p>Whiz Limited is a Japanese streetwear brand estab-lished in 2000 by Hiroaki Shitano. With a following in Japan as well as Hong Kong and mainland China, Shitano has become something of a cult figure, as one of the new generation of streetwear designers influ-enced by Hiroshi Fujiwara.<br />
+  Consisting originally of handmade, printed tees, the label has since expanded to include a complete range of streetwear infused with an eccentric Japanese flair. Shitano was raised in the entertainment district of Shinjuku, and this is reflected in the clothing’s distinctly downtown urban vibe and predominantly dark color palette.<br />
+  <br />
+  Chronicling the history of the brand, alongside some of Whiz’s most prolific projects to date, this book features beautiful, newly shot photographs of a long list of collaborations with streetwear icons, including Hiroshi Fujiwara/Fragment, Mastermind, Stüssy, A Bathing Ape®, Bristol, Bountyhunter, M&#038;M, Kappa, New Era, Disney, Hello Kitty, G-Shock, Peanuts, Porter, The North Face, Marmot, First Down, and the estate of Keith Haring.<br />
+  <br />
+  This book also features an impressive archive of the brand’s iconic sneaker designs, boasting collabora-tions with heavy hitters like mita sneakers, Adidas, New Balance, Asics, Puma, Reebok, Mizuno, Converse, and Ugg, making it a must-have for sneak-erheads and lovers of streetwear style alike.</p>
+details: |
+  - ISBN: 0847871347 / 978-0847871346
+  - Content: 256 pages
+  - Size: 233 × 290 mm
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_WhizLimited.jpg
+    id: 22360
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Whiz Limited
+The Finest of Tokyo Street
+
+----
+
+Uuid: MxMiFqHujlsyEOHR
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

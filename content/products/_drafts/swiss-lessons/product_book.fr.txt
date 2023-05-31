@@ -1,0 +1,103 @@
+Oldweltkern:
+
+title: Swiss Lessons
+slug: swiss-lessons
+id: 3582
+isbn: 3906027340 / 978-3906027340
+price: 249.9
+weight: 0.8
+author:
+  name: Park Books
+  id: 88
+description: |
+  <p>The book presents the two semester-works of the architecture master course of Harry Gugger at the EPFL. The three-part structure concept of the book reflects laba’s methodology:<br />
+  Part one [Analysis] presents a detailed, inter-disciplinary analysis of the region.<br />
+  Part two [Trip] documents a six-day field trip in the region.<br />
+  In part three [Projects] architectural projects of the students are presented.<br />
+  The three parts allow three different layouts and designs. The first part is like an atlas, the second part like a photography book and the third part is the combination of part one and two. This structure supports the reader to focus on the different aspects of teaching.</p>
+details: |
+  - ISBN: 3906027340 / 978-3906027340
+  - Content: 160 pages
+  - Size: 230 × 12 × 310 mm
+  - Design: Ludovic Balland
+  - Authors: Harry Gugger, Aurélie Blanchard
+  - Edited by: Harry Gugger, Aurélie Blanchard, Gwendolyn Kerschbaumer, Götz Menzel
+  - Contributions from: Laboratory Basel (laba), EPFL
+  - Language: English
+  - Publishing date: 2014
+  - Specs: Softcover
+  - Images: © Park Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_swisslesson.jpg
+    id: 3587
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-38.jpg
+    id: 3591
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-37.jpg
+    id: 3593
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-36.jpg
+    id: 3595
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-27.jpg
+    id: 3597
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_5-11.jpg
+    id: 3599
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_6-5.jpg
+    id: 3601
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_7-4.jpg
+    id: 3603
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_8-3.jpg
+    id: 3605
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_9-2.jpg
+    id: 3607
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_10-1.jpg
+    id: 3609
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_SwissLessons_BACK.jpg
+    id: 3589
+tags: [ ]
+
+----
+
+Multilinetitle: Swiss Lessons
+
+----
+
+Uuid: oF7rizgJ7w2MhCyd
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

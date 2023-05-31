@@ -1,0 +1,68 @@
+Oldweltkern:
+
+title: 'Armin Morbach <br>Irony'
+slug: armin-morbach-irony
+id: 21608
+isbn: 3954762072 / 978-3954762071
+price: 62.4
+weight: 1.8
+author:
+  name: Distanz
+  id: 366
+description: |
+  <p>For more than twenty-five years, Armin Morbach (b. Haag, Bavaria, 1971, lives in Hamburg, works around the world) has defined a visual aesthetic that finds beauty in everything. The publisher of the magazine TUSH, hair and makeup artist for fashion shows and photo shoots, trend visionary, and hair expert has developed an internationally recognized and emulated style. With his keen sense for an individual’s potential and his interdisciplinary approach, he provides creative input and devises exciting visual solutions for models and on paper.<br />
+  <br />
+  Morbach started taking photographs in 2007. The creative ambition and expressive energy that manifest themselves in his other ventures are evident in his pictures as well. Sparsely elegant compositions toy with hyperbole and the unconscious; an inimitable visual idiom unsettles and provokes the viewer. Morbach’s photography—which has also been presented in widely acclaimed exhibitions—has rapidly earned him worldwide renown. In his first book, titled IRONY, Armin Morbach caps his first decade as a photographer with a personal glimpse behind the scenes of the beauty and fashion business. With essays by Christiane Arp, Anke Degenhard, F.C. Gundlach, and the editorial team at TUSH.</p>
+details: |
+  - ISBN: 3954762072 / 978-3954762071
+  - Content: 200 pages
+  - Size: 250 × 335 mm
+  - Language: German / English
+  - Publishing date: 2017
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Distanz. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Distanz.jpg
+    id: 21609
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_SPREAD_1.jpg
+    id: 21610
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_SPREAD_2.jpg
+    id: 21611
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_SPREAD_3.jpg
+    id: 21612
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Armin Morbach
+Irony
+
+----
+
+Uuid: fcuSlPgKXxGjZ24x
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

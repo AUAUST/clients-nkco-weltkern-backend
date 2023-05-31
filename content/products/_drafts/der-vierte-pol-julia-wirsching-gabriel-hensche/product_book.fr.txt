@@ -1,0 +1,62 @@
+Oldweltkern:
+
+title: 'Der Vierte Pol <br>Julia Wirsching & Gabriel Hensche'
+slug: >
+  der-vierte-pol-julia-wirsching-gabriel-hensche
+id: 14019
+isbn: |
+  3945900437 / 978-3945900437
+price: 19.9
+weight: 0.2
+author:
+  name: Edition Taube
+  id: 272
+description: '<p>In contrast to Mount Everest, the highest point on earth and sometimes referred to as the Third Pole, the Fourth Pole is the lowest continental point. Situated in a terrain that, like no other is marked by decades of political disputes between religions and states, its current form is of relatively recent origin and the result of the dwindling water level of the Dead Sea. The expedition shifts the biased perspective onto this terrain by declaring the region a Pole and, in so doing, it opens an imaginary space that is not so much defined by national coordinates as by topographical and autobiographical ones. Paradoxically, with the Fourth Pole, the two explorers produce a place that is unknown to them and may have to remain so. Accordingly, the text they generate during their expedition breaks off before they reach their destination. The text is written in four languages – Arabic, German, English and Hebrew – which make their way from the front and back covers to the centre of the book.</p>'
+details: |
+  - ISBN: 3945900437 / 978-3945900437
+  
+  - Content: 132 Pages
+  - Size: 148 × 13 × 105 mm
+  - Artists: Giulia Schelm, Lukas Küng, Gabriel Hensche, Julia Wirsching
+  - Design: Im Burrow
+  - Language: Arabic / German / English and Hebrew
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Edition Taube / Gabriel Hensche (gabrielhensche.com). All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_ViertelPol-1.jpg
+    id: 14064
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_ViertelPol.png
+    id: 14066
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Der Vierte Pol
+Julia Wirsching & Gabriel Hensche
+
+----
+
+Uuid: MTogewYjWgaYrkbt
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

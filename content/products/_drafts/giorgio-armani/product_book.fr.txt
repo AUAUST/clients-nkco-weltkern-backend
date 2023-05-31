@@ -1,0 +1,51 @@
+Oldweltkern:
+
+title: Giorgio Armani
+slug: giorgio-armani
+id: 14800
+isbn: 0847845303 / 978-0847845309
+price: 166.4
+weight: 4.1
+author:
+  name: Rizzoli Publications
+  id: 115
+description: '<p>A comprehensive celebration of the fashions of one of the world’s most revered designers. On the eve of the company’s fortieth anniversary, this lavish book focuses upon the key creations and important milestones in the history of the celebrated Italian designer and his eponymous fashion house. With personal texts written by Giorgio Armani, the book contains biographical details interwoven with the story of the company. Giorgio Armani has been universally credited with changing the rules of contemporary fashion and creating a timeless version of modern dress by removing excess ornament and translating traditional sportswear looks into business and evening wear. His impact is felt not only in women’s fashion and red-carpet glamour, but it is also inseparable from the evolution of men’s style in recent decades. More than any other contemporary designer, Armani best represents the global success of Italian style. This gorgeously illustrated volume includes photography by a virtual who’s who of leading international fashion photographers, such as Steven Meisel, David Sims, Craig McDean, Herb Ritts, Mario Testino, Deborah Turbeville, Aldo Fallai, and Annie Leibovitz, and features numerous fashion icons.</p>'
+details: |
+  - ISBN: 0847845303 / 978-0847845309
+  - Content: 568 Pages
+  - Size: 267 × 62 × 300 mm
+  - Author: Giorgio Armani
+  - Language: English
+  - Publishing date: 2015
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Armani.jpg
+    id: 14814
+tags: [ ]
+
+----
+
+Multilinetitle: Giorgio Armani
+
+----
+
+Uuid: AFM4x4L2U0fTGi4R
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

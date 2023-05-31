@@ -1,0 +1,78 @@
+Oldweltkern:
+
+title: 'A Team With No Sport <br>Virgil Abloh Pyrex Vision Flip Book'
+slug: >
+  a-team-with-no-sport-virgil-abloh-pyrex-vision-flip-book
+id: 7274
+isbn: 3791358994 / 978-3791358994
+price: 45.5
+weight: 0.25
+author:
+  name: Prestel
+  id: 112
+description: |
+  <p>Launched in time for a major exhibition of Virgil Abloh’s work, this flip book shows images from the original video created to launch the sophomore Spring/Summer 2013 collection of Abloh’s first brand, Pyrex Vision, entitled, “Youth Always Wins.” Flip through the book at rapid speed to simulate the video!<br />
+  <br />
+  Since he launched Pyrex Vision, Abloh has been translating his tools and techniques from his training as an architect and engineer into the fashion world and beyond. He eventually closed Pyrex Vision to open Off-White™, collaborating with brands like Nike, musicians, architects, and others. In addition to creating Off-White™, Abloh has worked with Kanye West, collaborated with Takashi Murakami, performed at Lollapalooza, started a furniture collection with IKEA, and more. In 2018, Abloh was named Men’s Artistic Director at Louis Vuitton.</p>
+details: |
+  - ISBN: 3791358994 / 978-3791358994
+  - Content: 124 pages
+  - Size: 56 × 16 × 130 mm
+  - Author: Virgil Abloh
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Prestel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Team2.jpg
+    id: 7290
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Team.jpg
+    id: 7277
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-42.jpg
+    id: 7283
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-42.jpg
+    id: 7281
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-26.jpg
+    id: 7279
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Team_BACK.jpg
+    id: 7275
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+A Team With No Sport
+Virgil Abloh Pyrex Vision Flip Book
+
+----
+
+Uuid: LGeU0q9r7AFsDmET
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,90 @@
+Oldweltkern:
+
+title: Giger Sorayama
+slug: giger-sorayama
+id: 11847
+isbn: 8897185062 / 978-8897185062
+price: 99.5
+weight: 1.2
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: |
+  <p>This super book published by KALEIDOSCOPE accompanies a two-artist exhibition co-curated by Alessio Ascari and Shinji Nanzuka, bringing together for the very first time the work of Japanese artist Hajime Sorayama and Swiss artist HR Giger. Touring from PARCO Museum in Tokyo to PARCO Event Hall in Osaka between December 2020 and February 2021, the exhibition coincides with the 80th anniversary of Giger’s birth and features over 50 works ranging from the late 1960s to the present day.<br />
+  <br />
+  The catalogue, designed by Swiss-based art direction firm Kasper-Florio with Samuel Bänziger, features a foreword by co-curator Alessio Ascari, a critical essay by Venus Lau, an interview with the late HR Giger by Hans Ulrich Obrist and Patrick Frey, and a recent interview with Sorayama by Ascari. It comes with a 50x70cm two-sided poster, and two 20cm die-cut stickers.<br />
+  <br />
+  Born and trained at opposite ends of the world, Sorayama and Giger are apparently at odds—one’s bright colors are swallowed by the other’s dark chiaroscuro; one’s enthusiastic outlook on technology borders with the other’s nightmarish dystopia; one’s “super-realism” challenges the other’s surrealism—yet they share more than meets the eye. Both emerged in the 1970s and 1980s, becoming acknowledged masters of airbrush painting and influential creators beyond the boundaries of the traditional art world, blurring the relationship between commercial and personal work. But more importantly, at the very core of their practice lies a similar concern: an obsessive investigation of AI, eternal life, and the fusion of organic and apparatus. Gynoids (female androids) are predominant subjects, conjuring the post-human and the apotheosis of the woman to reveal an underlying tension between life, death, power and desire.<br />
+  <br />
+  Hajime Sorayama (b. 1947 in Imabari, Ehime prefecture) has established his position as a legendary artist, both within Japan and internationally, for his extensive oeuvre that centers upon an ongoing pursuit for beauty in the human body and the machine. Best known for his precisely detailed, hand-painted portrayals of voluptuous women, obtained through an astoundingly artful use of a wide array of realistic expressional techniques, most prominently airbrush painting, the artist’s international recognition is inextricably tied to his signature series titled “Sexy Robot” (1978-) featuring erotic android figures clad in shiny chrome metal, and to AIBO, the award-winning robotic pet he designed for SONY in 1999.<br />
+  <br />
+  Hans Ruedi Giger (1940–2014) was a Swiss surrealist painter, sculptor, and set designer known for his biomechanical creatures, extraterrestrial landscapes, and disturbing sexual machines. In a career that spanned more than five decades, he employed a staggering variety of media, including furniture, movie props, prints, paintings and sculptures, often creating exhibition displays and total environments with the immersive quality of a wunderkammer—including, most notably, the HR Giger Museum in Gruyères. In 1979, his concept design for Ridley Scott’s Alien (1979) won an Academy Award for Best Achievement in Visual Effects and catapulted to fame his daunting vision of death and futurism.</p>
+details: |
+  - ISBN: 8897185062 / 978-8897185062
+  - Content: 108 Pages with a poster and two stickers
+  - Size: 265 × 10 × 365 mm
+  - Authors: H. R. Giger, Hajime Sorayama
+  - Texts by: Alessio Ascari, Venus Lau, Hans Ulrich Obrist
+  - Design: Kasper-Florio
+  - Language: English / Japanese
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_COVER_GIGERSORAYAMA.jpg
+    id: 11855
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_1.jpg
+    id: 11857
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_2.jpg
+    id: 11859
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_3.jpg
+    id: 11861
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_4.jpg
+    id: 11863
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_5.jpg
+    id: 11865
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_6.jpg
+    id: 11867
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_7.jpg
+    id: 11869
+tags: [ ]
+
+----
+
+Multilinetitle: Giger Sorayama
+
+----
+
+Uuid: m1vX4XZqVmQjMBsg
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

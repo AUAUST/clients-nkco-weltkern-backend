@@ -1,0 +1,84 @@
+Oldweltkern:
+
+title: 'Architecture Itself and Other <br>Postmodernization Effects'
+slug: >
+  architecture-itself-and-other-postmodernization-effects
+id: 10870
+isbn: 3959052286 / 978-3959052283
+price: 42.9
+weight: 1.6
+author:
+  name: Spector Books
+  id: 99
+description: '<p>Postmodern architecture was characterized by four dominant beliefs: that architecture was distinct from the materiality of things; that history had an operative role to play in the present; that the emergence of a culture dominated by images enabled architects to equate drawing with authorship; and that architecture could secure its status among the arts by staking a claim to the exhibition space. While each strand of this belief system had deep historical roots, the expanding reach of American corporations played a crucial role in transforming these ideas into what was then termed the first global style. Architecture Itself and Other Postmodernist Myths features a series of fragments salvaged from canonic buildings of the late twentieth century together with archival materials from the CCA and other museum collections. The book is published in conjunction with the exhibition organized by the Canadian Centre for Architecture, Montreal, and presented at the CCA from November 2018 to April 2019.</p>'
+details: |
+  - ISBN: 3959052286 / 978-3959052283
+  - Content: 280 Pages
+  - Size: 242 × 30 × 310 mm
+  - Author: Sylvia Lavin
+  - Design: Studio Anna Haas
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Postmodernist.jpg
+    id: 10880
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-8.jpg
+    id: 10882
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-7.jpg
+    id: 10884
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-8.jpg
+    id: 10888
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-8.jpg
+    id: 10890
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_6-3.jpg
+    id: 10892
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_7-1.jpg
+    id: 10894
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Postmodernist_BACK.jpg
+    id: 10878
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Architecture Itself and Other
+Postmodernization Effects
+
+----
+
+Uuid: xfPSPTLUGvQWZIxo
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

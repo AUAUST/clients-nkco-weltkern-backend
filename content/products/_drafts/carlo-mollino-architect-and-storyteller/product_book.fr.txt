@@ -1,0 +1,55 @@
+Oldweltkern:
+
+title: 'Carlo Mollino <br>Architect and Storyteller'
+slug: carlo-mollino-architect-and-storyteller
+id: 14840
+isbn: 3038601330 / 978-3038601333
+price: 82.1
+weight: 1.9
+author:
+  name: Park Books
+  id: 88
+description: '<p>Interior designer, photographer—and architect: Carlo Mollino was a legendary figure in 20th-century art and design. This is the authoritative book on his work in architecture.</p>'
+details: |
+  - ISBN: 3038601330 / 978-3038601333
+  - : 456 pages
+  - Size: 240 × 320 mm
+  - Authors: Michelangelo Sabatino, Napoleone Ferrari
+  - Edited by: Park Books
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardback
+  - Images: © WELTKERN® / Park Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_CarloMollino.jpg
+    id: 14843
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Carlo Mollino
+Architect and Storyteller
+
+----
+
+Uuid: Z0V6uCMbf4Dh00we
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

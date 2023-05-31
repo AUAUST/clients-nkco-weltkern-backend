@@ -1,0 +1,60 @@
+Oldweltkern:
+
+title: "José Ignacio Linazasoro <br>La mémoire de l'ordre"
+slug: >
+  jose-ignacio-linazasoro-la-memoire-de-lordre
+id: 14481
+isbn: 2491039110 / 978-2491039110
+price: 19.7
+weight: 0.03
+author:
+  name: Cosa Mentale
+  id: 87
+description: |
+  <p>First French translation of the essay of the Spanish architect José Ignacio Linazasoro.<br />
+  To question the meaning of architecture is to seek to establish a principle of global and timeless legitimacy, not only referring to the past or the present. The modern architecture, in spite of the fact that it appears under a fragmentary condition, aspires to a lost totality.</p>
+details: |
+  - ISBN: 2491039110 / 978-2491039110
+  - Content: 128 Pages
+  - Size: 110 × 12 × 210 mm
+  - Author: José Ignacio Linazasoro
+  - Edited by: Claudia Mion
+  - Texts by: Bernard Quirot
+  - Design: Spassky Fischer
+  - Language: French
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Mémoire_Ordre.jpg
+    id: 14482
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+José Ignacio Linazasoro
+La mémoire de l'ordre
+
+----
+
+Uuid: dG7oC6RaLy2myy35
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

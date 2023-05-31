@@ -1,0 +1,58 @@
+Oldweltkern:
+
+title: 'Flower <br>Exploring the World in Bloom'
+slug: flower-exploring-the-world-in-bloom
+id: 13684
+isbn: 1838660852 / 978-1838660857
+price: 69.9
+weight: 2.5
+author:
+  name: Phaidon Press
+  id: 92
+description: |
+  <p>A comprehensive and sumptuous survey that celebrates the beauty and appeal of flowers throughout art, history, and culture<br />
+  <br />
+  Take a journey across continents and cultures to discover the endless ways artists and image-makers have employed floral motifs throughout history. With 316 color illustrations showcasing the diversity of blooms from all over the world, Flower spans a wide range of styles and media – from art, botanical illustrations, and sculptures to floral arrangements, film stills, and textiles – and follows a visually stunning sequence with works, regardless of period, thoughtfully paired to allow interesting and revealing juxtapositions between them. Flower is follows in the footsteps of Plant: Exploring the Botanical World, which Martha Stewart Living described as &#8220;breathtaking.&#8221;</p>
+details: |
+  - ISBN: 1838660852 / 978-1838660857
+  - Content: 352 pages
+  - Size: 290 × 250 mm
+  - Authors: Phaidon
+  - Edited by: Phaidon Press
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_-Flower.png
+    id: 13705
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Flower
+Exploring the World in Bloom
+
+----
+
+Uuid: dZeK39anTLHoYaAf
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

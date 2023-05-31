@@ -1,0 +1,89 @@
+Oldweltkern:
+
+title: EPA Graphic Standards System
+slug: epa-graphic-standards-system
+id: 3034
+isbn: 0692878300 / 978-0692878309
+price: 59.9
+weight: 2
+author:
+  name: Standards Manual
+  id: 108
+description: |
+  <p>In 1970, President Richard Nixon created the Environmental Protection Agency (EPA) to confront environmental pollution and protect the health of the American people. One of the EPA&#8217;s top priorities was consolidating numerous state offices to more efficiently carry out its goal of &#8220;working for a cleaner, healthier environment for the American people.&#8221;<br />
+  But there was one area in which the EPA&#8211;like many government agencies of the time&#8211;was terribly inefficient: their graphic design and communications department. Millions of dollars were being wasted annually due to nonstandardized formats, inefficient processes and almost everything being designed from scratch.<br />
+  <br />
+  In 1977 the EPA began working with the legendary New York design firm Chermayeff &#038; Geismar (now Chermayeff &#038; Geismar &#038; Haviv, or CGH), responsible for some of the most recognizable visual identities in the world, such as Chase Bank, PBS, National Geographic, the Smithsonian Institution, Mobil Oil and NBC. Partners Ivan Chermayeff, Tom Geismar and Steff Geissbuhler set about tackling this problem. The result was the 1977 <em>US Environmental Protection Agency Graphic Standards System</em>.<br />
+  <br />
+  Forty years later, Jesse Reed &#038; Hamish Smyth&#8211;creators of the <em>NYCTA</em> and <em>NASA Graphics Standards Manual</em> reissues&#8211;have partnered with CGH and AIGA, the US&#8217;s oldest and largest professional organization for design, to publish this classic graphic standards EPA manual as a hardcover volume. Each page is reproduced at the same size as the original three-ring binder pages, using the same vibrant Pantone inks with a total of 14 colors.</p>
+details: |
+  - ISBN: 0692878300 / 978-0692878309
+  - Content: 228 pages
+  - Size: 240 × 20 × 300 mm
+  - Authors: Jesse Reed, Hamish Smyth
+  - Edited by: Jesse Reed, Hamish Smyth
+  - Introduction: Tom Geismar
+  - Contributions from: Christopher Bonanos
+  - Design: Standards Manual
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Hardcover
+  - Images: © Standards Manual. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_epa.jpg
+    id: 3039
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-15.jpg
+    id: 3041
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-15.jpg
+    id: 3043
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-15.jpg
+    id: 3045
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-12.jpg
+    id: 3047
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_5-4.jpg
+    id: 3049
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_6-2.jpg
+    id: 3051
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_7-1.jpg
+    id: 3053
+tags: [ ]
+
+----
+
+Multilinetitle: EPA Graphic Standards System
+
+----
+
+Uuid: 9ZJj6dppq3VRk67p
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

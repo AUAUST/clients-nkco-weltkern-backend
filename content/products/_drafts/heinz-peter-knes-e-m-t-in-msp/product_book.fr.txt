@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Heinz Peter Knes <br>E.M.T. in MSP'
+slug: heinz-peter-knes-e-m-t-in-msp
+id: 14223
+isbn: 3945900833 / 978-3945900833
+price: 33.4
+weight: 0.7
+author:
+  name: Edition Taube
+  id: 272
+description: '<p>Edition Taube is pleased to present the first publication of German artists Heinz Peter Knes’ <em>E.M.T. in MSP</em>. Taken in the mid-1990s, the celebrated work of 85 photographs documents the artist’s younger siblings Eva, Mirjam and Thomas as they emerge into puberty and young adulthood in the small Catholic town of Fellen. <em>E.M.T. in MSP</em> addresses poignant issues around identity, youth and heritage through a profoundly intimate lens. The story of <em>E.M.T in MSP</em>’s inception is a curious one. While still a student in the mid 90s, artist Heinz Peter Knes began photographing his younger siblings in the small town of Fellen in Lower Franconia. The photos were plucked by various fashion magazines from the early 2000s forward and presented in a variety of conceits. The images contained something that the editors craved: a combination of innocent youth and a sense of intimate outsiderness. Over the years the project existed more as a rumor and suggestion than a realized body of work. Named after the siblings, Eva, Mirjam and Thomas, and the district of MainSpessart, the complexity of <em>E.M.T. in MSP</em> can be seen as an overarching structural principle preventing it from offering an overly simplistic or quick revelation. What made Knes’ work so appealing to editors was how it grasped something about the present moment; an ineffable essence  of identity framed by the intimacy between photographer and subjects—a window into a sensibility in its formation. While the narrative of the siblings’ emergence into puberty and young adulthood is the beating heart of the work, the small Catholic town of Fellen in the Franconian hills serves as a backdrop with a stubborn agency of its own, shaping the lives of its subjects. Beyond these two central themes and sidestepping conceptual neatness, the book also features photographs of other youth and urban spaces, signals that <em>E.M.T. in MSP</em> expands far beyond its main characters . Firstly, his siblings and Fellen, secondly, youth itself, and thirdly, Germany make up the core focus of the project, however Knes also firmly situates the project within a broader historical and geographical conversation. The children are not confined  within the context of the place or the art work. They influence and are influenced—they are creatures of politics and history, of family and state.</p>'
+details: |
+  - ISBN: 3945900833 / 978-3945900833
+  - Content: 116 Pages
+  - Size: 230 × 10 × 320 mm
+  - Artist: Heinz Peter Knes
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_EMT.jpg
+    id: 14271
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Heinz Peter Knes
+E.M.T. in MSP
+
+----
+
+Uuid: 6gFiVXyFICmuxBHS
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

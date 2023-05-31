@@ -1,0 +1,70 @@
+Oldweltkern:
+
+title: "Antwan Horfee <br>Horfée's Imaginarium"
+slug: antwan-horfee-horfees-imaginarium
+id: 23022
+isbn: 1916168633 / 978-1916168633
+price: 24.5
+weight: 0.4
+author:
+  name: Topsafe
+  id: 379
+description: |
+  <p>Paris graffiti legend Horfe has left an indelible<br />
+  mark on the streets of his home city and far beyond. Enigmatic, tirelessly prolific, hugely innovative and obscenely talented, he’s earned a reputation across the world for his instantly-recognizable style and his audacious commitment to getting up. He’s a graffiti writer’s writer, whose illegal and gloriously idiosyncratic work has earned him recognition across the globe.</p>
+  <p>This month sees Horfe cross the Channel and cross seamlessly over into the world of high art, as he unveils his first ever London solo show with Topsafe london. Just don’t expect graffiti. “This show is not graffiti at all” says the artist. “I mean; I do graffiti outside, but to me, an art exhibition can&#8217;t be graffiti. Graffiti is just not the same as ‘accepted art:’ it has to be illegal to fit that bill.”</p>
+  <p>Imaginarium is the culmination of Horfe’s lifetime obsession with drawing and making &#8211; on paper, on canvas, on wood and in sculpture &#8211; away from the streets, trains and rooftops that have made him internationally famous.<br />
+  The result is a ludicrously energetic collection of images and 3D pieces, all painstakingly executed by hand over many months. The show recalls graffiti, Horfe says, in the way that he has “taken all the energy I used to put into my illegal painting and focused it towards one goal: describing and organizing my aesthetic in a way that I can share with everyone, graffiti fan or not.&#8221;</p>
+details: |
+  - ISBN: 1916168633 / 978-1916168633
+  - Content: 108 pages
+  - Size: 210 × 297 mm
+  - Language: English
+  - Publishing date: 2013
+  - Specs: Softcover
+  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_-4.jpg
+    id: 23040
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_-3.jpg
+    id: 23041
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-4.jpg
+    id: 23042
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-4.jpg
+    id: 23043
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Antwan Horfee
+Horfée's Imaginarium
+
+----
+
+Uuid: 1jZ4YmDhq19wkcss
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

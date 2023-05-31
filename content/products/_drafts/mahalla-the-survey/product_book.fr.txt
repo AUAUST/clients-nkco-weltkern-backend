@@ -1,0 +1,123 @@
+Oldweltkern:
+
+title: 'Mahalla <br>The Survey'
+slug: mahalla-the-survey
+id: 10103
+isbn: 1280336033 / 979-1280336033
+price: 215.9
+weight: 3.4
+author:
+  name: Humboldt Books
+  id: 249
+description: '<p><em>Mahalla – The Survey</em> constitutes a scientific investigation and an artistic statement which aims to offer a critical reading and a tentative exploration of a fascinating element of cultural heritage: the mahalla. Historically forged by family, ethnic and professional ties, the traditional mahalla is a neighbourhood which perpetuates an ancient form of ‘living together’ in many variations across large parts of Asia. This survey of mahallas in Tashkent, Uzbekistan was prompted by curiosity about the various low-rise / high-density architectural types in such neighbourhoods and the social structures in which they are rooted. The Mahalla – The Survey box contains drone imagery, contemporary street views, redrawn cadastral maps, floor plans and sections, point cloud imagery, explanatory texts, sound by Carlos Casas and exclusive art prints by Bas Princen, all combined in an exquisitely designed folder. This special edition is published on the occasion of the first participation of the Republic of Uzbekistan at the International Architecture Exhibition – La Biennale di Venezia in 2021.</p>'
+details: |
+  - ISBN: 1280336033 / 979-1280336033
+  - Content: Box containing three folders, one vinyl, 300 pages
+  - Size: 249 × 78 × 310 mm
+  - Contributions from: Carlos Casas, Emanuel Christ & Christoph Gantenbein, Victoria Easton , Bas Princen
+  - Design: Pupilla Grafik
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Humboldt Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_VIEW.jpg
+    id: 10141
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_Mahalla.jpg
+    id: 10115
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_PINK.jpg
+    id: 10119
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_PINK.jpg
+    id: 10131
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_VINYL.jpg
+    id: 10139
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_GREEN.jpg
+    id: 10111
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_GREEN.jpg
+    id: 10127
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_MAP.jpg
+    id: 10117
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_MAP.jpg
+    id: 10129
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_B.jpg
+    id: 10109
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_B.jpg
+    id: 10125
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_B_BACK.jpg
+    id: 10107
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_RED2.jpg
+    id: 10123
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_RED1.jpg
+    id: 10133
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_RED2.jpg
+    id: 10135
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_RED3.jpg
+    id: 10137
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_RED1.jpg
+    id: 10121
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_Mahalla_BACK.jpg
+    id: 10113
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Mahalla
+The Survey
+
+----
+
+Uuid: nbXErrnrKCGrfGHr
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

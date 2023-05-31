@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Susan Sontag <br>On Photography'
+slug: susan-sontag-on-photography
+id: 6600
+isbn: 0141035789 / 978-0141035789
+price: 18.9
+weight: 0.3
+author:
+  name: Penguin Random House UK
+  id: 102
+description: '<p>Susan Sontag&#8217;s <em>On Photography</em> is a seminal and groundbreaking work on the subject. Susan Sontag&#8217;s groundbreaking critique of photography asks forceful questions about the moral and aesthetic issues surrounding this art form. Photographs are everywhere, and the &#8216;insatiability of the photographing eye&#8217; has profoundly altered our relationship with the world. Photographs have the power to shock, idealize or seduce, they create a sense of nostalgia and act as a memorial, and they can be used as evidence against us or to identify us. In these six incisive essays, Sontag examines the ways in which we use these omnipresent images to manufacture a sense of reality and authority in our lives.</p>'
+details: |
+  - ISBN: 0141035789 / 978-0141035789
+  - Content: 224 pages
+  - Size: 111 × 16 × 181 mm
+  - Author: Susan Sontag
+  - Language: English
+  - Publishing date: 2008
+  - Specs: Softcover
+  - Images: © Penguin Random House UK. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Onphotography.jpg
+    id: 6601
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Susan Sontag
+On Photography
+
+----
+
+Uuid: 1uQ4yBBw4ggdBO9l
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

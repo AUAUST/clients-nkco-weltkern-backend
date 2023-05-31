@@ -1,0 +1,71 @@
+Oldweltkern:
+
+title: 'Shoplifters Issue 8 <br>New Type Design'
+slug: shoplifters-issue-8-new-type-design
+id: 3926
+isbn: 1733583008 / 978-1733583008
+price: 54.9
+weight: 1.4
+author:
+  name: Actual Source
+  id: 128
+description: '<p>Shoplifters is a bi-annual publication featuring the work of contemporary artists, photographers, designers, illustrators etc,. Shoplifters doesn’t have a single identity, it’s size, paper, typography, and tone changes each time it’s published. Designed, and published by Actual Source. Issue 8 features: —100 typefaces by over 60 designers —Facit AB–Z (Excerpt) by Our Polite Society —”Tools” by Dinamo —Intro written by Kris Sowersby</p>'
+details: |
+  - ISBN: 1733583008 / 978-1733583008
+  - Content: 647 pages
+  - Size: 170 × 49 × 240 mm
+  - Introduction: Kris Sowersby
+  - Design: Actual Source
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © Actual Source. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Shoplifters.jpg
+    id: 4154
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Shoplifters3.jpg
+    id: 4148
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Shoplifters2.jpg
+    id: 4150
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Shoplifters1.jpg
+    id: 4152
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Shoplifters_BACK.jpg
+    id: 4156
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Shoplifters Issue 8
+New Type Design
+
+----
+
+Uuid: t7OV94TAyS5itzNu
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

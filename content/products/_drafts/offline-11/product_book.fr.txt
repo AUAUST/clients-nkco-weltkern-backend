@@ -1,0 +1,74 @@
+Oldweltkern:
+
+title: 'Offline #11'
+slug: offline-11
+id: 24217
+isbn: 2970145134 / 978-2970145134
+price: 14.9
+weight: 0.7
+author:
+  name: ECAL
+  id: 95
+description: '<p>The 11th issue of the biannual magazine of the ECAL includes contributions by a. o. NORM, Feng Li, Marco De Mutiis, Zachary Lieberman, Maïwenn, Lionel Baier and Abel Ferrara.</p>'
+details: |
+  - ISBN: 2970145134 / 978-2970145134
+  - Content: 148 pages
+  - Size: 220 × 290 mm
+  - Language: English / French
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / ECAL. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_COVER_00-1.jpg
+    id: 24311
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_01.jpg
+    id: 24303
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_02.jpg
+    id: 24304
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_03.jpg
+    id: 24305
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_04.jpg
+    id: 24306
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_05.jpg
+    id: 24307
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/10/BOOK_SPREAD_06.jpg
+    id: 24308
+tags: [ ]
+
+----
+
+Multilinetitle: Offline #11
+
+----
+
+Uuid: h3Ew7XR6znXJ7FVn
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

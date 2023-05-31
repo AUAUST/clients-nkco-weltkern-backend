@@ -1,0 +1,106 @@
+Oldweltkern:
+
+title: 'LuYang <br>Digital Descending'
+slug: luyang-digital-descending
+id: 26102
+isbn: 3959056366 / 978-3959056366
+price: 32.5
+weight: 1.3
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>LuYang’s art has its origins in a unique crossover between neuroscience and Buddhist philosophy, medical technology and body enhancement, and manga aesthetics and sci-fi fantasy. The media artist created the avatar DOKU in 2020. It has his facial features, while at the same time representing a figure that breaks free from fixed ascriptions of identity. LuYang is now taking the international art scene by storm with his technically sophisticated and aesthetically dazzling 3D animated films, video installations, and computer games. His work challenges familiar categories of thought—in particular, those relating to gender identity. Digital Descending is the first monograph by the artist to be published in Germany. </p>
+  <p>LuYang (b. Shanghai, PRC) lives and works in Shanghai. Amely Deiss is director of the Kunstpalais and the Municipal Art Collection in Erlangen. Nora Gantert is a curator and sinologist in Nuremberg. Malte Lin-Kröger is curator of the Municipal Art Collection in Erlangen and acting director of the Kunstpalais. Hili Perlson is a writer, art critic, and lecturer in Berlin.</p>
+details: |
+  - ISBN: 3959056366 / 978-3959056366
+  - Content: 288 pages
+  - Size: 245 × 280 mm
+  - Design: Sofarobotnik, Augsburg & München
+  - Language: English, German
+  - Publishing date: 2022
+  - Specs: Perfect-bound softcover
+  
+  
+  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_COVER_.jpg
+    id: 26123
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_01.jpg
+    id: 26122
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_02.jpg
+    id: 26121
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_03.jpg
+    id: 26120
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_04.jpg
+    id: 26119
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_05.jpg
+    id: 26118
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_06.jpg
+    id: 26117
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_07.jpg
+    id: 26116
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_08.jpg
+    id: 26115
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_09.jpg
+    id: 26114
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_10.jpg
+    id: 26113
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_11.jpg
+    id: 26112
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/LuYang_SPREAD_12.jpg
+    id: 26111
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+LuYang
+Digital Descending
+
+----
+
+Uuid: owmsJpcs0eIWzhXg
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

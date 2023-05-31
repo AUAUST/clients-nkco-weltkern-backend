@@ -1,0 +1,112 @@
+Oldweltkern:
+
+title: 'Bewegung tut gut <br>Rote Fabrik'
+slug: bewegung-tut-gut-rote-fabrik
+id: 12654
+isbn: 3039260089 / 978-3039260089
+price: 44.9
+weight: 1.1
+author:
+  name: Limmat Verlag
+  id: 260
+description: '<p>In the midst of the youth revolt, the Rote Fabrik was opened in 1980 as an alternative cultural centre in Zurich. This book looks back at the prehistory and tells the story of Zurich&#8217;s alternative culture until today, which begins with resistance and ends with the establishment of a new understanding of culture, of which the Rote Fabrik became a symbol. The contributions critically examine the present and the company&#8217;s self-image, they tell stories from before and behind the scenes. For the first time, archival treasures were unearthed for this book and countless documents and photos were sifted through and classified.</p>'
+details: |
+  - ISBN: 3039260089 / 978-3039260089
+  - Content: 448 Pages
+  - Size: 231 × 38 × 277 mm
+  - Edited by: Interessengruppe Rote Fabrik
+  - Contributions from: Philipp Anz, Nadine Zberg, Daniel Hitzig, Michelle Steinbeck, Stephan Pörtner, Katja Baigger, Stefan Busz, Michael Hiltbrunner, Viola Rohner, Christoph Müller, Esther Banz, Tan Wälchli, Philipp Klaus, Pablo Rohner, Rachel Mader, Geneva Moser, Nora Strassmann, Pete Mijnssen
+  - Design: Huber/Sterzinger & sava (Sara Arzu Hardegger)
+  - Language: German
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Huber/Sterzinger & sava (Sara Arzu Hardegger). All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_RoteFabrik.jpg
+    id: 12661
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_1-3.jpg
+    id: 12663
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_2-3.jpg
+    id: 12665
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_3-3.jpg
+    id: 12667
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_4-3.jpg
+    id: 12669
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_5-3.jpg
+    id: 12671
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_6-3.jpg
+    id: 12673
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_7-3.jpg
+    id: 12675
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_SPREAD_8-2.jpg
+    id: 12677
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_RoteFabrik_BACK.jpg
+    id: 12659
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/WKR-HOME-Rote-Fabrik-1.jpg
+    id: 12842
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/WKR-Bewegung-tut-gut-Rote-Fabrik.jpg
+    id: 12811
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/WKR-Bewegung-tut-gut-Rote-Fabrik4-1.jpg
+    id: 12840
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/WKR-Bewegung-tut-gut-Rote-Fabrik2-1.jpg
+    id: 12836
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/WKR-Bewegung-tut-gut-Rote-Fabrik3-1.jpg
+    id: 12838
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Bewegung tut gut
+Rote Fabrik
+
+----
+
+Uuid: qTQU2uzeSmBA7SpN
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

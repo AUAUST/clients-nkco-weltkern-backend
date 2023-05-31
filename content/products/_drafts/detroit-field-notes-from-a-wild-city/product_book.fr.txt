@@ -1,0 +1,59 @@
+Oldweltkern:
+
+title: 'Detroit <br>Field Notes from a Wild City'
+slug: detroit-field-notes-from-a-wild-city
+id: 13767
+isbn: 3959054688 / 978-3959054683
+price: 32.8
+weight: 0.8
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>The artist’s book Detroit presents the contemporary urban landscape of this de- industrialized metropolis as an overlay of social and natural history. The catchwords “ruin porn” and “future city” are currently being used in the media to describe what was once celebrated as the “Motor City”. In her photographs and texts, Franziska Klose describes a landscape absolutely consumed by industry, its structure a manifestation of social inequality, despite all the conjurations of an imminent economic boom. The story of the “comeback” is set against land speculation and water shut-offs and contrasts with the emergence of a potential post-growth society based on urban agriculture and individual autonomy.<br />
+  <br />
+  Franziska Klose is an artist and photographer. She has been working with post- industrial landscapes since 2010.</p>
+details: |
+  - ISBN: 3959054688 / 978-3959054683
+  - Content: 176 pages
+  - Size: 235 × 300 mm
+  - Author: Franziska Klose
+  - Edited by: Spector Books
+  - Design: Ina Kwon
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Thread-sewn softcover with numerous black-white and colour illustrations
+  - Images: © WELTKERN® /  Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Detroit.jpg
+    id: 13768
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Detroit
+Field Notes from a Wild City
+
+----
+
+Uuid: aLFtOcbD1VPLrAy9
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

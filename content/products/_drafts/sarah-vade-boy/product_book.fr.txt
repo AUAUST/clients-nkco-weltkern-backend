@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Sarah Vadé <br>Boy'
+slug: sarah-vade-boy
+id: 15113
+isbn: 1096155040 / 979-1096155040
+price: 24.8
+weight: 0.3
+author:
+  name: Tombolo Presses
+  id: 282
+description: '<p>An arranged and sequenced anthology of press ads that appeared in Playboy US magazine from 1960 to 2003, Boy is a visual commentary around normative representations of desire and the ideal life of the late 20th century male consumer.</p>'
+details: |
+  - ISBN: 1096155040 / 979-1096155040
+  - Content: 400 pages
+  - Size: 205 × 270 mm
+  - Author: Sarah Vadé
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Softcover
+  - Images: © WELTKERN® / Les presses du réel / I-D. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Boy.png
+    id: 15734
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Sarah Vadé
+Boy
+
+----
+
+Uuid: FIhQRe8CD8GjyQCY
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,78 @@
+Oldweltkern:
+
+title: 'Robby Müller <br>Polaroids – Flora'
+slug: robby-muller-polaroids-flora
+id: 14062
+isbn: 9492811929 / 978-9492811929
+price: 89.9
+weight: 0.3
+author:
+  name: Roma Publications
+  id: 268
+description: '<p>Dutch cinematographer Robby Müller (1940–2018) was one of the greatest pioneers in modern film history. A new book celebrates the Polaroids taken by this daring “master of light”, who worked as a cinematographer alongside Wim Wenders, Jim Jarmusch, and Steve McQueen. This delicate, printed collection shows Müller’s sensitivity to light, acute aesthetic eye, and his attraction to natural motifs. Each snapshot of flowers, insects, and trees sparkles like a jewel, exposing such minute details as a translucent petal or a miraculous close-up of a stamp. With a contribution by French cinematographer Agnès Godard, it is designed by Linda van Deursen and edited by Andrea Müller-Schirmer.</p>'
+details: |
+  - ISBN: 9492811929 / 978-9492811929
+  - Content: 56 Pages
+  - Size: 170 × 5 × 230 mm
+  - Authors: A. Muller-schirmer, A. Godard
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Polaroid-2.jpg
+    id: 14151
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_1.jpg
+    id: 14138
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_2.jpg
+    id: 14140
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_3.jpg
+    id: 14142
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_4.jpg
+    id: 14144
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_5.jpg
+    id: 14146
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_SPREAD_6.jpg
+    id: 14148
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Robby Müller
+Polaroids – Flora
+
+----
+
+Uuid: Hwjl63AWc8gjzZhr
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

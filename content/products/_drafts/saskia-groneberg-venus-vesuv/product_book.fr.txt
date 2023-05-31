@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: 'Saskia Groneberg <br>Venus, Vesuv'
+slug: saskia-groneberg-venus-vesuv
+id: 14230
+isbn: 3945900857 / 978-3945900857
+price: 15.6
+weight: 0.2
+author:
+  name: Edition Taube
+  id: 272
+description: '<p>Vulcan and Venus, the ugliest god and the most beautiful of the goddesses, were (not only) a couple in ancient mythology. In Saskia Groneberg’s artist’s booklet “Venus, Vesuv“ they meet in the form of Venus Medici and Vesuvius. Historical photographs, engravings, and sculptures are superimposed on loose sheets of transparent paper. The projection surfaces for beauty and elemental force, man and woman, are quoted, staged and deconstructed. Superimpositions create exciting visual moments and crossreferences.</p>'
+details: |
+  - ISBN: 3945900857 / 978-3945900857
+  - Content: 28 Pages
+  - Size: 210 × 30 × 310 mm
+  - Artist: Saskia Groneberg
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Venus.jpg
+    id: 14275
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Saskia Groneberg
+Venus, Vesuv
+
+----
+
+Uuid: Xw78UXWS9yVsevPj
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

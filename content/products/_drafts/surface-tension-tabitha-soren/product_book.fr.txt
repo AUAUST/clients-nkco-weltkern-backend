@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Surface Tension <br>Tabitha Soren'
+slug: surface-tension-tabitha-soren
+id: 15334
+isbn: |
+  2492175084 / 978-2492175084
+price: 32.5
+weight: 1
+author:
+  name: RVB BOOKS
+  id: 104
+description: '<p>Tabitha Soren’s project &#8216;Surface Tension&#8217; is made by shooting the grime and debris that accumulates on her iPad. The background images are appropriated from her various devices through social media, images texted to her, and from her browsing web history. Soren creates the images about digital culture with an analogue large format camera. The vigorous and expressive gestures on the surface of the image reject the conflict between reality and fiction and between our embodied lives and our online, mediated lives.</p>'
+details: |
+  - ISBN: 2492175084 / 978-2492175084
+  
+  - Content: 64 pages
+  - Size: 220 × 340 mm
+  - Author: Tabitha Soren
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / RVB BOOKS / Tabitha Soren. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Tabitha-Soren.jpg
+    id: 15335
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Surface Tension
+Tabitha Soren
+
+----
+
+Uuid: TKFrQiv4sygGvFBF
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

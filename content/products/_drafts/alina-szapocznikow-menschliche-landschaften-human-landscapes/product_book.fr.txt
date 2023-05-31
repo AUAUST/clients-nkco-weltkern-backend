@@ -1,0 +1,97 @@
+Oldweltkern:
+
+title: 'Alina Szapocznikow <br>Menschliche Landschaften <br>Human Landscapes'
+slug: >
+  alina-szapocznikow-menschliche-landschaften-human-landscapes
+id: 2692
+isbn: 3960984170 / 978-3960984177
+price: 54.9
+weight: 1.1
+author:
+  name: Buchhandlung Walther König
+  id: 90
+description: '<p>Alina Szapocznikow created an extensive and expressive oeuvre, in which she was intensively concerned with the human body, right up to her untimely death. In her sculptures, photographs and drawings she divided female bodies in particular into fragments such as lips, breasts, stomachs and limbs, to put them back together again in new ways and to integrate them as traces in her work. Her own body often found its way into the work in the form of casts. Having previously worked with classical materials such as bronze, she began to experiment with new materials such as polyester after arriving in Paris and mixing with the circle of Nouveaux Réalistes artists. With this she revolutionised the expressive possibilities of sculpture. The catalogue traces this artistic development by means of work from between 1954 and 1973, from early figurative sculptures to the “awkward objects,” which are strongly influenced by surrealism and pop art.</p>'
+details: |
+  - ISBN: 3960984170 / 978-3960984177
+  - Content: 200 pages
+  - Size: 220 × 23 × 277 mm
+  - Texts by: Alina Szapocznikow, Andrew Bonacina, Marta Dziewańska, Luisa Heese, Kirsty Bell, Marek Beylin, Griselda Pollock
+  - Design: Ludovic Balland
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © Buchhandlung Walther König. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_alinaszapo.jpg
+    id: 2695
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-1.jpg
+    id: 2701
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_6.jpg
+    id: 2707
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_5.jpg
+    id: 2705
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-1.jpg
+    id: 2703
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-1.jpg
+    id: 2699
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-1.jpg
+    id: 2697
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_alinaszapo_BACK.jpg
+    id: 2693
+tags:
+  - 
+    name: Architecture
+    id: 70
+  - 
+    name: Books
+    id: 66
+  - 
+    name: Philippines
+    id: 69
+  - 
+    name: Photography
+    id: 68
+
+----
+
+Multilinetitle:
+
+Alina Szapocznikow
+Menschliche Landschaften
+Human Landscapes
+
+----
+
+Uuid: R8Iu8pftPUsVtRWq
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

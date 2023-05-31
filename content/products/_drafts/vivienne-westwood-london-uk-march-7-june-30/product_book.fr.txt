@@ -1,0 +1,64 @@
+Oldweltkern:
+
+title: 'Vivienne Westwood (London, UK) <br>March 7 – June 30'
+slug: >
+  vivienne-westwood-london-uk-march-7-june-30
+id: 13517
+isbn: NO ISBN
+price: 18.9
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: ""
+details: |
+  - Photographs by: Andreas Kronthaler
+  - Content: 32 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  Color Offset Print
+  First Edition
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_H1.jpg
+    id: 13477
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_H2.jpg
+    id: 13479
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_H3.jpg
+    id: 13481
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Vivienne Westwood (London, UK)
+March 7 – June 30
+
+----
+
+Uuid: dcivLOmQHzxWqcho
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

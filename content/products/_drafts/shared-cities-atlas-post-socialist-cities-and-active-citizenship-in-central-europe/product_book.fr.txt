@@ -1,0 +1,69 @@
+Oldweltkern:
+
+title: 'Shared Cities Atlas <br>Post-socialist Cities and Active Citizenship in Central Europe'
+slug: >
+  shared-cities-atlas-post-socialist-cities-and-active-citizenship-in-central-europe
+id: 3443
+isbn: 9462085213 / 978-9462085213
+price: 54.9
+weight: 0.8
+author:
+  name: nai010 Publishers
+  id: 114
+description: '<p>Reflecting on the “urban commons” concept currently in vogue in architectural discourse, this volume collects research, data and photographs for seven case studies―post-socialist cities in Central Europe―emphasizing the collective action of remaking cities.</p>'
+details: |
+  - ISBN: 9462085213 / 978-9462085213
+  - Content: 252 pages
+  - Size: 160 × 23 × 240 mm
+  - Edited by: Helena Doudová
+  - Contributions from: Karol Piekarski, Paulina Urbańska, Waldemar Węgrzyn, Milota Sidorová, Elizabet Kovačeva, Olja Triaška Stefanović, Stefanie Heublein, Kamil Pavelka
+  - Design: Joost Grootens
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © nai010 Publishers. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Citiesatlas.jpg
+    id: 3446
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-32.jpg
+    id: 3448
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-31.jpg
+    id: 3450
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-31.jpg
+    id: 3452
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Shared Cities Atlas
+Post-socialist Cities and Active Citizenship in Central Europe
+
+----
+
+Uuid: u5PkippyV5pYmGAz
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

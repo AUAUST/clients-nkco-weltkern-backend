@@ -1,0 +1,54 @@
+Oldweltkern:
+
+title: >
+  A collection of nine Kippenberger
+  editions, one Boetti watch, a cigarette
+  and yellow
+slug: >
+  jonathan-monk-a-collection-of-nine-kippenberger-editions-one-boetti-watch-a-cigarette-and-yellow
+id: 13913
+isbn: 0993223815 / 978-0993223815
+price: 13.2
+weight: 0.02
+author:
+  name: InOtherWords
+  id: 105
+description: '<p><em>A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow</em> is a deck of cards created in collaboration with artist Jonathan Monk. In a play on the imprint’s focus on developing collectable objects, Monk has appropriated this InOtherWords publication to showcase a collection of his own: editions and multiples created by artists Martin Kippenberger and Alighiero Boetti. As an avid collector of multiples, Monk holds a special interest in the work of Martin Kippenberger. A controversial and innovative artist of the 1980s and 90s, Kippenberger is widely regarded as one of the most esteemed German artists of his generation. The faces of the playing cards show fragments of a composition of limited edition objects – ranging from small sculptures to ready-mades – collected and arranged by Monk.</p>'
+details: |
+  - ISBN: 0993223815 / 978-0993223815
+  - Content: 56 cards
+  - Size: 92 × 65 × 18.5 mm
+  - Author: Jonathan Monk
+  - Language: English
+  - Publishing date: 2015
+  - Images: © WELTKERN® /  InOtherWords. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_MONK_CARDS.jpg
+    id: 13916
+tags: [ ]
+
+----
+
+Multilinetitle: A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow
+
+----
+
+Uuid: KByfTX2OJkkgFcZx
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

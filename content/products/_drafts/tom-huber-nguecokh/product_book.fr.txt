@@ -1,0 +1,74 @@
+Oldweltkern:
+
+title: 'Tom Huber <br>Nguecokh'
+slug: tom-huber-nguecokh
+id: 18532
+isbn: 3952471081 / 978-3952471081
+price: 37.9
+weight: 0.2
+author:
+  name: Cpress
+  id: 327
+description: '<p>Photographer Tom Huber travels to the small Senegalese village of Nguecokh, in the Saloum River Delta about 200 kilometres south of Dakar. He meets the people, who mainly farm peanuts and melons and lead a self-sustained, communal life. Immediately upon his arrival,  the village children want to be photographed, and soon the adults too. Unexpectedly, a project begins to develop – a photobook that aims to strike a balance between  documentary photography and art, accompanied by a text in which the locals describe  the history of the village and their everyday lives. In the months following, the artist exchanges voice messages with his host Mamadou Senghor, the village teacher. They discuss climate change, polygamy, and religion. He describes the challenges in their education and health systems, recounts old folktales of trees and woods, and charts Nguecokh’s path toward the future.</p>'
+details: |
+  - ISBN: 3952471081 / 978-3952471081
+  - Content: 176 pages
+  - Size: 230 × 320 mm
+  - Language: English, French, German
+  - Graphic Design by: Studio Nüssli+Nuessli
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Cpress. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_TomHuber.jpg
+    id: 18492
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_TomHuber1.jpg
+    id: 18493
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Tom-Huber1.jpg
+    id: 18566
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Tom-Huber2.jpg
+    id: 18567
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Tom-Huber4.jpg
+    id: 18569
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Tom-Huber5.jpg
+    id: 18570
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Tom Huber
+Nguecokh
+
+----
+
+Uuid: wSQliA85RUdPsGj4
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

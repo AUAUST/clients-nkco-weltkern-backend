@@ -1,0 +1,74 @@
+Oldweltkern:
+
+title: 'KALEIDOSCOPE #29 <br>Spring 2017'
+slug: kaleidoscope-29-springs-2017
+id: 7961
+isbn: "2000000005874"
+price: 10.9
+weight: 1.2
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: '<p><em>KALEIDOSCOPE</em> is today’s most innovative magazine of contemporary art and visual culture, founded in 2009 in Milan at the core of a creative studio with a distinctly curatorial and interdisciplinary approach.</p>'
+details: |
+  - ISBN: 2000000005874
+  - Content: 272 pages
+  - Size: 220 × 12 × 280 mm
+  - Design: Bureau Borsche
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Softcover
+  - Images: © WELTKERN® / KALEIDOSCOPE / Bureau Borsche. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_COVER_K29.jpg
+    id: 7989
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_1-4.jpg
+    id: 7991
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_2-4.jpg
+    id: 7993
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_3-4.jpg
+    id: 7995
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_4-4.jpg
+    id: 7997
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_5-3.jpg
+    id: 7999
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #29
+Spring 2017
+
+----
+
+Uuid: VSsaTRgqvu5dvwpm
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

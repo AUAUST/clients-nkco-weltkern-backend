@@ -1,0 +1,53 @@
+Oldweltkern:
+
+title: 'Sebastian Black <br>Local Warming'
+slug: sebastian-black-local-warming
+id: 20763
+isbn: 1734527551 / 978-1734527551
+price: 46.5
+weight: 1
+author:
+  name: Zolo Press
+  id: 352
+description: '<p>For Sebastian Black, 2020 has been a year like no other: a pandemic, three exhibitions, a move to Los Angeles, a presidential election, and a baby. Twenty Twenty offers a journey through the artist&#8217;s works and relates his experience in the mode of a personal diary.</p>'
+details: |
+  - ISBN: 1734527551 / 978-1734527551
+  - Content: 124 pages
+  - Size: 295 × 220 mm
+  - Language: English
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Zolo press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_SEBASTIAN-BLACK-Local-Warming.jpg
+    id: 20764
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Sebastian Black
+Local Warming
+
+----
+
+Uuid: OE9NPrarUT2pCyeY
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

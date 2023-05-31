@@ -1,0 +1,68 @@
+Oldweltkern:
+
+title: 'Spectre 2 <br>Vegetal Trauma'
+slug: spectre-02-vegetal-trauma
+id: 3528
+isbn: 978-2955701096 / 2955701096
+price: 41.9
+weight: 1.1
+author:
+  name: Cosa Mentale
+  id: 87
+description: '<p>Plants feel the pressures, the constraints and the violence of the outside world. Our irresponsible and disdainful behavior towards plants only increases the trauma they suffer. Being rooted beings, deeply sedentary, plants have no other choice than to undergo and adapt. Their life is made of successive aggressions of which they keep the memory, and of which it is necessary to overcome the violence of the effects. They carry the trace and the stigmata left by the traumas of a living environment that it is not possible to escape.</p>'
+details: |
+  - ISBN: 978-2955701096 / 2955701096
+  - Content: 216 pages
+  - Size: 250 × 16 × 310 mm
+  - Author: Claudia Mion
+  - Contributions from: Marc Alcock, Julia Andréone, Aurélien Aumond, Michel Blazy, Ambre Cardinal, Julien Carreyn, Théo Casciani, Christophe Caudroy, Gaetan Chevrier, Hélène Coussedière, Simon de Dreuille, Vincent Delbrouck, Antoine Espinasseau, Erwan Fichou, Amy Humphreys, Vincent Lamouroux, Edward Lane, Vincent Lappartient, Diane Lisarelli, Olivier Magnier, Benoît Maire, Christophe Maout, Victor Maréchal, Giaime Meloni, Livio Mosca, Alice Pallot, Elena Seegers, Arnaud Teicher, Sofu Teshigahara, Julien Vallon, Robert Voit, Cyrille Weiner, Botanical Agency
+  - Design: Spassky Fischer
+  - Language: English / French
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © Cosa Mentale. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Vegetaltrauma.jpg
+    id: 3531
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-35.jpg
+    id: 3533
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-34.jpg
+    id: 3535
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-34.jpg
+    id: 3537
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Spectre 2
+Vegetal Trauma
+
+----
+
+Uuid: MJnjVCB4SXwy4pHP
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

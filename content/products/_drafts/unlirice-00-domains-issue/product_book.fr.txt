@@ -1,0 +1,58 @@
+Oldweltkern:
+
+title: 'Unlirice <br>#00 Domains Issue'
+slug: unlirice-volume-00
+id: 21130
+isbn: NO ISBN
+price: 52.8
+weight: 1.7
+author:
+  name: UNLIRICE
+  id: 365
+description: |
+  <p>We hereby launch UNLIRICE, a project encompassing emergent creative culture from across Asia. What exactly is “Asia” to begin with? Of course, each person conjures up different cultures or regions in response to this word. One person might think of Chinese calligraphy, while another imagines glamorous idols dancing onstage. Where one person’s mind may be imprinted with the image of an endless flow of motorbikes under a searing sun, for others, “Asia” may evoke a sleek city of skyscrapers. We could call any of these images accurate, and also inaccurate. Perhaps all of us still don’t really know anything about Asia.<br />
+  UNLIRICE’s goal is not to discover the answer to this question. We are neither concerned with unifying the diverse images of Asia, nor calling for pan-Asian sol-<br />
+  idarity. Instead, it seems that we still don’t recognize each other for who we are. So we’ve tried to sketch a map that makes it possible for us to notice one another.</p>
+  <p>This is a map that didn’t exist to begin with, is constantly being revised, and will always remain a work in progress. But that is why it should help us to encounter new things that were heretofore unknown to us.</p>
+  <p>UNLIRICE #00 is a sort of rough sketch, one that we hope to continue to fill in together with everyone in any way that comes to mind. The magazine format itself is only one, provisional form of UNLIRICE.</p>
+  <p>I hope that this project gives rise to new contexts and new connections, and unlocks some part of Asia’s untapped potential.</p>
+details: |
+  - Content: 464 pages
+  - Size: 290 × 220 mm
+  - Language: English
+  - Publication: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / UNLIRICE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_UNLIRICE-Volume-00.jpg
+    id: 21131
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Unlirice
+#00 Domains Issue
+
+----
+
+Uuid: bDg42EKEzBevordq
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

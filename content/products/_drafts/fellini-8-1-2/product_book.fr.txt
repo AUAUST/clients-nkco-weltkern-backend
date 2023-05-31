@@ -1,0 +1,80 @@
+Oldweltkern:
+
+title: Fellini 8 1/2
+slug: fellini-8-1-2
+id: 7188
+isbn: 2970070221 / 978-2970070221
+price: 28.9
+weight: 1
+author:
+  name: Idpure Editions
+  id: 109
+description: |
+  <p>The main subject of <em>Fellini 8 1/2</em> is the film that Guido Anselmi, a director played by Marcello Mastroianni, is trying to make.<br />
+  <br />
+  The director, tired and depressed, is in the grip of doubts and confusion. Around him, the actors ask for their dialogues, the journalists ask questions, the production is worried. A scatterbrained mistress, a bitter wife, a critical writer, an evanescent muse, questioning friends and doubtful priests complete the picture.<br />
+  <br />
+  Of the film in the making, we know only the set, a gigantic aircraft built at great expense by the producer…</p>
+details: |
+  - ISBN: 2970070221 / 978-2970070221
+  - Content: 168 pages
+  - Size: 210 × 18 × 250 mm
+  - Edited by: IDPURE
+  - Language: English
+  - Publishing date: 2011
+  - Specs: Hardcover
+  - Images: © Idpure Editions. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_fellini812.jpg
+    id: 7192
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-22.jpg
+    id: 7194
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-38.jpg
+    id: 7196
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-38.jpg
+    id: 7198
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-29.jpg
+    id: 7200
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-14.jpg
+    id: 7202
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_7-1.jpg
+    id: 7206
+tags: [ ]
+
+----
+
+Multilinetitle: Fellini 8 1/2
+
+----
+
+Uuid: 1riCPpwRF5XKZQNM
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

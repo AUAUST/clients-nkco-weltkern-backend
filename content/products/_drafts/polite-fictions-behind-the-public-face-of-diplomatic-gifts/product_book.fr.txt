@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Polite Fictions <br>Behind The Public Face Of Diplomatic Gifts'
+slug: >
+  polite-fictions-behind-the-public-face-of-diplomatic-gifts
+id: 13775
+isbn: 9090346198 / 978-9090346199
+price: 35.4
+weight: 2.1
+author:
+  name: Suzanne Schols
+  id: 270
+description: '<p>Throughout history, the exchange of gifts has played a central role in the conduct of international relations. While the rules, traditions, and culture of gifting evolve, it remains a universal ritual that often reveals deeper truths about what it means to be human. Suzanne Schols examines this ritual in the diplomatic field, where gifts have the power to initiate negotiations, ease tensions, or deliver subtle messages. She uncovers new understandings of these gifts and their fate, part of a system of conflict avoidance and securing interests. Contrasting what the public sees and what happens behind the scenes, the prudence, practicality, and paradoxes of diplomacy are explored.</p>'
+details: |
+  - ISBN: 9090346198 / 978-9090346199
+  - Content: 138 pages
+  - Size: 203 × 270 mm
+  - Author: Suzanne Schols
+  - Design: HouseTMM
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Embossed and screen printed linen softcover
+  - Images: © WELTKERN® /  Suzanne Schols. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_SuzanneSchols.jpg
+    id: 13776
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Polite Fictions
+Behind The Public Face Of Diplomatic Gifts
+
+----
+
+Uuid: iM2q6pvAHla7aQZb
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

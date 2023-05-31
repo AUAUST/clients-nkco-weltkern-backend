@@ -1,0 +1,63 @@
+Oldweltkern:
+
+title: 'Harry Hachmeister <br>harry'
+slug: harry-hachmeister-harry
+id: 16402
+isbn: 3959055544 / 978-3959055543
+price: 29.7
+weight: 0.6
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>Moving between exhibition set-up, construction site, and fitness studio, Harry Hachmeister negotiates states of ”not any more“ and ”not quite yet“. His work takes as its starting point transformational processes, makeshift solutions and intermediate stages relating to bodies and physical attributions, which he elaborates in artistic form.<br />
+  <br />
+  The artist’s book includes reproductions of Hachmeister’s ceramics, verre églomisé pictures, paintings, and photographs. They are framed by three texts discussing the relevance of his work and methods, as well as an interview with the artist. His latest exhibition is also documented in text and image. harry is published in conjunction with Hachmeister’s exhibition Von Disko zu Disko at the Museum der bildenden Künste Leipzig.<br />
+  <br />
+  Harry Hachmeister is a visual artist whose work appeared under the name Grit Hachmeister until 2019. His interdisciplinary works, which run the gamut from photography, drawing, and painting to ceramics, deal with (gender) identities, bodies, and physical attributions.<br />
+  Katrin Klietsch is an art historian and was academic assistant to the director at the MdbK Leipzig from 2018 to 2021. Dr Stefan Weppelmann has been director of the MdbK Leipzig since 2021.</p>
+details: |
+  - ISBN: 3959055544 / 978-3959055543
+  - Content: 112 pages
+  - Size: 210 × 270 mm
+  - Authors: Harry Hachmeister
+  - Edited by: Spector Books
+  - Texts by: Dr. Birgit Bosold, Claudia Gülzow, Ulrike Kremeier, Christin Müller
+  - Design: Anna Lena von Helldorff
+  - Language: English / German
+  - Publishing date: 2022
+  - Specs: Thread-sewn softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_Harry.jpg
+    id: 16403
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Harry Hachmeister
+harry
+
+----
+
+Uuid: wZldZzKxViNO1XXW
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

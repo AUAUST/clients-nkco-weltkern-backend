@@ -1,0 +1,61 @@
+Oldweltkern:
+
+title: 'Neil Drabble <br>Book of Roy'
+slug: neil-drabble-book-of-roy
+id: 17979
+isbn: 1912339501 / 978-1912339501
+price: 39.8
+weight: 1.1
+author:
+  name: MACK
+  id: 337
+description: |
+  <p>From 1998 to 2005 Neil Drabble photographed an American teenager, Roy, as he grew from adolescence to early manhood. On one level this extensive body of work can be viewed as a fascinating document of an always-compelling transition. Closer scrutiny reveals further nuances; a collaboration, a partnership, a personal portrait and at the same time a universal picture of adolescence.</p>
+  <p>Drabble chose not to depict significant events that might appear in a family album nor definitive moments associated with documentary photography. Instead, these photographs concentrate on the listless, off-scene periods, the ‘in between moments’ of everyday life. This focus on the marginal passages of disregarded time situates the viewer at the heart of adolescence, defined as the period between childhood and adulthood, suspended between longing (for the deferred promise of adulthood) and regret (for the loss of childhood as refuge).</p>
+  <p>By photographing the same person repeatedly and intimately over their formative years, a sense of mirroring began to emerge, reawakening something of the artist’s own adolescent self, blurring the line between portrait and self-portrait.</p>
+  <p>Neil Drabble grew up in a grey, 1970s Manchester, watching American TV shows, and fantasising about a perceived glamour of an adolescence lived in places where teenagers ate pizza, drank Dr Pepper, chatted on the phone to friends until late and drove cars rather than waiting at rainy bus stops. The process of picturing Roy and the collaboration between the older photographer and younger subject allowed Drabble in some ways to re-stage his own teenage years and vicariously engage with aspects of an alternate American youth he had coveted across the Atlantic.</p>
+details: |
+  - ISBN: 1912339501 / 978-1912339501
+  - Content: 132 pages
+  - Size: 246 × 286 mm
+  - Language: English
+  - Publication: 2019
+  - Specs: Hardcover
+  - Images: © WELTKERN® / MACK. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Neil-Drabble-–-Book-of-Roy.jpg
+    id: 17948
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Neil-Drabble-–-Book-of-Roy2.jpg
+    id: 17950
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Neil Drabble
+Book of Roy
+
+----
+
+Uuid: dfMUI5bjTPPTt20o
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

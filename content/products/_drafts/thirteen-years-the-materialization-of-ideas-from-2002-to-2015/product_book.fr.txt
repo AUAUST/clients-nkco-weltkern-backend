@@ -1,0 +1,89 @@
+Oldweltkern:
+
+title: 'Thirteen Years <br>The Materialization of Ideas from 2002 to 2015'
+slug: >
+  thirteen-years-the-materialization-of-ideas-from-2002-to-2015
+id: 10790
+isbn: 3959050232 / 978-3959050234
+price: 48.9
+weight: 1.2
+author:
+  name: Spector Books
+  id: 99
+description: '<p>A cross-reference book of information on aesthetic boundaries, consisting of a bibliography into which inserted text, critical essays, art works, and documents, are arranged chronologically and focused on a selection of so-called greatest hits and conceptual poetics. It contains mentions of such vaguely designated areas as appropriation, postnaive, unboring boring, détournement, object perdu, and erasure poetry &#8212; or writing through &#8212; as they currently occur (with occasional political overtones) in the work of Michalis Pichler. This book is the first monograph focused on the practice of artist/author Michalis Pichler. Featuring eleven critical essays, an extensively illustrated catalogue, a conversation with John Stezaker, and selected writings by the artist, the book delivers a solid introduction into conceptual poetics.</p>'
+details: |
+  - ISBN: 3959050232 / 978-3959050234
+  - Content: 240 Pages
+  - Size: 213 × 25 × 302 mm
+  - Author: Michalis Pichler
+  - Edited by: Annette Gilbert, Clemens Krümmel
+  - Design: Bureau Mario Lombardo
+  - Language: English
+  - Publishing date: 2015
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Thirteen.jpg
+    id: 10847
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-7.jpg
+    id: 10849
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-6.jpg
+    id: 10851
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-7.jpg
+    id: 10853
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-7.jpg
+    id: 10855
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-7.jpg
+    id: 10857
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_6-2.jpg
+    id: 10859
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_7.jpg
+    id: 10861
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_8.jpg
+    id: 10863
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Thirteen Years
+The Materialization of Ideas from 2002 to 2015
+
+----
+
+Uuid: gmBMc03I0oWkU7Nd
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

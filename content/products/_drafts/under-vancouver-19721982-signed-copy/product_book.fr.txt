@@ -1,0 +1,62 @@
+Oldweltkern:
+
+title: 'Under Vancouver <br>1972–1982 Signed copy'
+slug: under-vancouver-1972-1982
+id: 22306
+isbn: 1926856100 / 978-1926856100
+price: 48.9
+weight: 0.8
+author:
+  name: The Magenta Foundation
+  id: 376
+description: '<p>Greg Girard’s photographs of Vancouver from the 1970s and early 1980s show us the city’s final days as a port town at the end of the railway line. Soon after Vancouver began to be noticed by the wider world (Expo 86 is generally agreed on as the pivotal moment), the city began refashioning itself as an urban resort on nature’s doorstep and attracting attention as a destination for real estate investment. At that time, long before post-9/11 security concerns sealed off the working waterfront from the city, many of Vancouver’s downtown and east side streets ended at the waterfront, an area filled with commercial fishing docks, cargo terminals, and bars and cafes for waterfront workers and sailors. Pawn-shop windows downtown displayed outboard motors, chainsaws and fishing gear. Wandering these streets, living in cheap hotels, Girard photographed the workaday (and night) world of the city where he grew up. The photographs in Under Vancouver 1972–1982 were made before Girard began earning a living as a magazine photographer, later establishing a formal practice as an artist. They reveal an early interest in the hidden and the overlooked, the use of color film at night, and the extended photographic inquiry of a specific place, all of which became signature features of later books such as City of Darkness and City of Darkness Revisited (about the infamous Kowloon Walled City), Phantom Shanghai and Hanoi Calling. Under Vancouver 1972–1982 is the first comprehensive collection of Girard’s early photographs of Vancouver. Made in and of the moment, a young photographer’s earliest engagements (often featuring the underside of the city), the pictures now form an unintended photographic record of a Vancouver that has all but disappeared.</p>'
+details: |
+  - ISBN: 1926856100 / 978-1926856100
+  - Content: 196 pages
+  - Size: 178 × 247 mm
+  - Language: English
+  - Publishing date: 2017
+  - Edited by : Greg Girard
+  - Specs: Hardcover
+  - Images: © WELTKERN® / The Magenta Foundation. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_UNDER-VANCOUVER-1972-1982.jpg
+    id: 22307
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_UNDER-VANCOUVER-1972-1982-1.jpg
+    id: 22308
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_UNDER-VANCOUVER-1972-1982-2.jpg
+    id: 22309
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Under Vancouver
+1972–1982 Signed copy
+
+----
+
+Uuid: qTlJjB2HdfaebHa6
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

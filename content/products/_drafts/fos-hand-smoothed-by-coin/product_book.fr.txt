@@ -1,0 +1,55 @@
+Oldweltkern:
+
+title: 'Fos <br>Hand Smoothed by Coin'
+slug: fos-hand-smoothed-by-coin
+id: 13933
+isbn: 1916002449 / 9781916002449
+price: 30.9
+weight: 0.5
+author:
+  name: InOtherWords
+  id: 105
+description: '<p>Matter lies like the skin, it moves between genres. <em>Hand Smoothed by Coin</em> is a collection of works that combine and intertwine to form an accumulative portrait of objects moving between art and design. The book presents material extracted from three events: Palimpsest by Fos (Nils Stærk gallery, 2018), <em>After Palimpsest</em> by OK-RM with Fos and Esther Theaker (Them Magazine Issue No.20, Winter 2018), <em>Hands Smooth by Coins</em> by Fos (Copenhagen Contemporary, 2019). The book is section sewn with an RGB gatefold at its core, presented in a silkscreened PVC jacket holding an 8pp concertina insert. </p>'
+details: |
+  - ISBN: 1916002449 / 9781916002449
+  - Content: 84 Pages
+  - Size: 170 × 7 × 225 mm
+  - Author: Fos
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / InOtherWords. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_HandSmoothedCoin.jpg
+    id: 13937
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Fos
+Hand Smoothed by Coin
+
+----
+
+Uuid: 3gEwnEyNsGeaCqFK
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

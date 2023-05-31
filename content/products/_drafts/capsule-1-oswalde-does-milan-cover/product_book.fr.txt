@@ -1,0 +1,55 @@
+Oldweltkern:
+
+title: 'Capsule #1 <br>Oswalde Does Milan Cover'
+slug: capsule-1-oswalde-does-milan-cover
+id: 23239
+isbn: NO ISBN
+price: 49.5
+weight: 2
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: |
+  <p>A hybrid between a magazine and a book, paying homage to a lineage of Italian radical design publications while indulging in a lavish physicality, Capsule will be released annually during Milan Design Week. Delving into the world of design in its broader definition through a genre-bending line up of designers, architects, and creators, the first issue comes with a set of three covers.<br />
+  <br />
+  Featuring: Nanda Vigo, Alessandro Mendini, Green River Project, Mario Bellini, Nakagin Dreams, Plastic Drip, Karim Rashid, Atelier Van Lieshout, Devon Turnbull, and Eugene Whang.</p>
+details: |
+  - Content: 200 pages
+  - Size: 310 × 335 mm
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Spiral bound
+  - Images: © WELTKERN® / ‎KALEIDOSCOPE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_C3.jpg
+    id: 23240
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Capsule #1
+Oswalde Does Milan Cover
+
+----
+
+Uuid: kkJgJ7PfnsRiQzku
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

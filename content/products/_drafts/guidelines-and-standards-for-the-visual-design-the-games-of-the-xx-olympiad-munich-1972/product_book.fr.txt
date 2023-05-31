@@ -1,0 +1,87 @@
+Oldweltkern:
+
+title: 'Guidelines and Standards for the Visual Design<br> The Games of the XX Olympiad Munich 1972'
+slug: >
+  guidelines-and-standards-for-the-visual-design-the-games-of-the-xx-olympiad-munich-1972
+id: 7416
+isbn: 3721209990 / 978-3721209990
+price: 78.9
+weight: 1.7
+author:
+  name: Niggli Verlag
+  id: 113
+description: |
+  <p>Almost a quarter of a century after the end of National Socialism in Germany, Otl Aicher was commissioned to design the &#8220;cheerful&#8221; Olympic Games in Munich 1972. He systematically and scientifically approached this task and liberated visual communication from national pathos by reducing it to the essential in the Bauhaus sense: the use. The manual, completed in 1967, contains a flexible system of colors, forms and fonts that enabled Aicher&#8217;s team and partners to &#8220;play freely&#8221; and saved &#8220;unnecessary preparatory work and time-consuming detailed decisions&#8221;.<br />
+  <br />
+  With the use of this kind of visual grammar more than 100 design areas were developped. They were successfull to create an extraordinary broad impact of the appearance and set new standards for branding and corporate design. Munich 1972 is still regarded as the most successful design project of all the Olympic Games.</p>
+details: |
+  - ISBN: 3721209990 / 978-3721209990
+  - Content: 44 pages
+  - Size: 225 × 40 × 300 mm
+  - Author: Otl Aicher
+  - Design: Otl Aicher
+  - Language: English / German / French
+  - Publishing date: 2019
+  - Specs: Ringbinder / Slipcase
+  - Images: © North East (northeastshop.jp). All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Guidelines3.jpg
+    id: 7500
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Guidelines.jpg
+    id: 7425
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Guidelines_BACK.jpg
+    id: 7423
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-30.jpg
+    id: 7427
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-46.jpg
+    id: 7429
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-46.jpg
+    id: 7431
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-35.jpg
+    id: 7433
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-19.jpg
+    id: 7435
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Guidelines and Standards for the Visual Design
+The Games of the XX Olympiad Munich 1972
+
+----
+
+Uuid: rarNHSnSnQbxFpGO
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

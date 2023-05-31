@@ -1,0 +1,101 @@
+Oldweltkern:
+
+title: Glossary of Undisciplined Design
+slug: glossary-of-undisciplined-design
+id: 10872
+isbn: 3959054467 / 978-3959054461
+price: 27.1
+weight: 0.3
+author:
+  name: Spector Books
+  id: 99
+description: '<p>D for Dummy Woman, M for Monster’s Tools, S for Style Defense, U for Unstable Signs―<em>The Glossary of Undisciplined Design</em> presents a feminist unpacking of the field of graphic design, offering &#8220;undisciplinarity&#8221; as the solution to a discipline that has historically featured a multitude of dogmatic rules, discriminatory structures and a particularly one-sided canon. Carried by a decidedly fragmentary and collective backbone, <em>The Glossary of Undisciplined Design</em> combines a multitude of theories and narratives of varying densities and forms, from visual essay, to hands-on experiment, to interview or advertorial, to poem, to speculative tale and scholarly writing. With around 55 contributions by 20 international designers, activists, educators and theorists, the handbook progresses alphabetically, exploring role models, tools and methods of dissent within a colorful and graphic handbook, featuring qualities akin to those of an artist’s zine.</p>'
+details: |
+  - ISBN: 3959054467 / 978-3959054461
+  - Content: 312 Pages
+  - Size: 110 × 175 mm
+  - Edited by: Anja Kaiser, Rebecca Stephany
+  - Contributions from: Clara Balaguer, Ece Canli, Sheila Levrant de Bretteville, Markus Dreßen, Sara Kaaman, Jungmyung Lee, Vincent Schier, Franciska Zólyom
+  - Design: Anja Kaiser, Rebecca Stephany
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Glossary.jpg
+    id: 10925
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-10.jpg
+    id: 10927
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-9.jpg
+    id: 10929
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-10.jpg
+    id: 10931
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-10.jpg
+    id: 10933
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-10.jpg
+    id: 10935
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_6-5.jpg
+    id: 10937
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_7-3.jpg
+    id: 10939
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_8-1.jpg
+    id: 10941
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_9.jpg
+    id: 10943
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_10.jpg
+    id: 10945
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_11.jpg
+    id: 10947
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Glossary_BACK.jpg
+    id: 10923
+tags: [ ]
+
+----
+
+Multilinetitle: Glossary of Undisciplined Design
+
+----
+
+Uuid: 9YmowlgyvLJ4PQoo
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

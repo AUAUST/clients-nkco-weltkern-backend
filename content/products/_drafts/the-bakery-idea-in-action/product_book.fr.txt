@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: 'The Bakery <br>Idea in Action'
+slug: the-bakery-idea-in-action
+id: 6889
+isbn: 3940064363 / 978-3940064363
+price: 28.9
+weight: 0.5
+author:
+  name: Spector Books
+  id: 99
+description: '<p>American dancer and choreographer Richard Siegal created an artistic network called THE BAKERY in 2005 devoted to interdisciplinary research and production. Along with performing artists, Siegal works with architects, composers, new media experts, designers, and theoreticians. Together they explore new directions in performance related to technology and the other arts. The exploration of these relationships has resulted in interactive installations, such as IF / THEN INSTALLED or LOGIC GATE, which have been shown in various museums and exhibition halls, as well as dance performances and site-specific projects. THE BAKERY is a cross-disciplinary initiative, it invites others to partake in an ongoing discourse. This book presents contributions by internationally acknowledged artists, writers, and curators who look at performance-making from the points of view of their specific fields.</p>'
+details: |
+  - ISBN: 3940064363 / 978-3940064363
+  - Content: 138 pages
+  - Size: 215 × 10 × 272 mm
+  - Edited by: Christine Peters, Richard Siegal, Dieta Sixt, The Bakery
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2012
+  - Specs: Softcover
+  - Images: © Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_IdeaAction.jpg
+    id: 6895
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_IdeaAAction2.jpg
+    id: 6893
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_-15.jpg
+    id: 6897
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-30.jpg
+    id: 6899
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-30.jpg
+    id: 6901
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-22.jpg
+    id: 6903
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-8.jpg
+    id: 6905
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+The Bakery
+Idea in Action
+
+----
+
+Uuid: 0yYZqw8qThPb4Uno
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

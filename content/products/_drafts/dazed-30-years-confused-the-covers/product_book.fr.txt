@@ -1,0 +1,63 @@
+Oldweltkern:
+
+title: 'Dazed <br>30 Years Confused: The Covers'
+slug: dazed-30-years-confused-the-covers
+id: 17546
+isbn: 0847870738 / 978-0847870738
+price: 87.9
+weight: 0.2
+author:
+  name: Rizzoli Publications
+  id: 115
+description: '<p>Celebrating 30 years of Dazed’s boundary-pushing storytelling at the forefront of youth culture, this book reveals the past, present, and future of Dazed through its bold cover designs and manifesto-like headlines.</p>'
+details: |
+  - ISBN: 0847870738 / 978-0847870738
+  - Content: 288 pages
+  - Size: 228 × 279 mm
+  - Language: English
+  - Author: Katie Grand
+  - Contributions by: Jefferson Hack and Björk and Tyler Mitchell and Barbara Kruger
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Dazed-1.jpg
+    id: 17525
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Dazed3.jpg
+    id: 17529
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Dazed2.jpg
+    id: 17527
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Dazed
+30 Years Confused: The Covers
+
+----
+
+Uuid: hqlXJVkpyd9WERGp
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

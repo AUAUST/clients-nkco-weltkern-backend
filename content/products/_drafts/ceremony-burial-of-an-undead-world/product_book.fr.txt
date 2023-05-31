@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: 'Ceremony <br>(Burial-of-an-Undead-World)'
+slug: ceremony-burial-of-an-undead-world
+id: 29433
+isbn: 3959056946 / 978-3959056946
+price: 32.9
+weight: 2.1
+author:
+  name: Spector Books
+  id: 99
+description: '<p>According to the writer and cultural theorist Sylvia Wynter, “we humans cannot pre-exist our origin myths any more than a bee can pre-exist its beehive.” Drawing inspiration from her seminal essays “The Ceremony Must Be Found” (1984) and “The Ceremony Found” (2015), Ceremony draws on Wynter’s thinking to suggest that “modernity,” contrary to its own self-image as rational and secular, is also determined by origin myths that emerged through the “mutations” of Christian cosmology after the dawn of capitalism in the Middle Ages. With over twenty-five unique contributions and commentaries on Wynter’s propositions from artists and writers, this publication will constitute a critical reference point for those seeking to construct and envisage a “counter-cosmogony” to the dispossession, slavery, and extractivism of modernity — which together endanges planetary life. Anselm Franke is professor of curatorial studies at the Zurich University of the Arts (ZHdK). Elisa Giuliano is a curator, researcher, and theatre maker. Denise Ryner works as an independent curator and freelance writer in Berlin and Canada. Claire Tancons is a curator, critic, and art historian. Zairong Xiang co-curated the Guangzhou Image Triennial at the Guangdong Museum of Art in 2021.</p>'
+details: |
+  - ISBN: 3959056946 / 978-3959056946
+  - Content: 388 pages
+  - Size: 195 × 265 mm
+  - Design: NODE Berlin Oslo
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Softcover
+  
+  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/35_Ceremony-Burial-of-an-Undead-World_COVER_.jpg
+    id: 29440
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/35_Ceremony-Burial-of-an-Undead-World_SPREAD_01.jpg
+    id: 29439
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/35_Ceremony-Burial-of-an-Undead-World_SPREAD_02.jpg
+    id: 29438
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/35_Ceremony-Burial-of-an-Undead-World_SPREAD_03.jpg
+    id: 29437
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/35_Ceremony-Burial-of-an-Undead-World_SPREAD_04.jpg
+    id: 29436
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/35_Ceremony-Burial-of-an-Undead-World_SPREAD_05.jpg
+    id: 29435
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/35_Ceremony-Burial-of-an-Undead-World_SPREAD_06.jpg
+    id: 29434
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Ceremony
+(Burial-of-an-Undead-World)
+
+----
+
+Uuid: ufeCynd1AbSgSOBf
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

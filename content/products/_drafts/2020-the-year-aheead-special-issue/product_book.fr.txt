@@ -1,0 +1,64 @@
+Oldweltkern:
+
+title: '2020 – The Year Aheead <br>Special Issue'
+slug: 2020-the-year-aheead-special-issue
+id: 6338
+isbn: NO ISBN
+price: 19.9
+weight: 0.5
+author:
+  name: Bloomberg Businessweek
+  id: 222
+description: '<p><em>Bloomberg Businessweek</em> is an American weekly business magazine founded in 1929 as <em>The Business Week</em>. It was published by McGraw-Hill until it was taken over in October 2009 by Bloomberg, which renamed it &#8220;<em>Bloomberg BusinessWeek</em>&#8220;. It has been branded <em>Bloomberg Businessweek</em> since April 2010.</p>'
+details: |
+  - Content: 296 pages
+  - Size: 200 × 4 × 265 mm
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN®. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_bloombergbw.jpg
+    id: 6339
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_bloombergbw.jpg
+    id: 6341
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_bloombergbw1.jpg
+    id: 6343
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_bloombergbw2.jpg
+    id: 6345
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+2020 – The Year Aheead
+Special Issue
+
+----
+
+Uuid: y5unib8pREjWfAAN
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

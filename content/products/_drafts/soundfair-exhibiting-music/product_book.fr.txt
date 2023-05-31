@@ -1,0 +1,94 @@
+Oldweltkern:
+
+title: 'Soundfair <br>Exhibiting Music'
+slug: soundfair-exhibiting-music
+id: 10869
+isbn: 3959050909 / 978-3959050906
+price: 32.3
+weight: 0.2
+author:
+  name: Spector Books
+  id: 99
+description: '<p>How can one put music on exhibit in an art context? This was the question preoccupying curator Clara Meister, artist and composer Ari Benjamin Meyers, and producer Thomas Mayer when they started Soundfair in Berlin in 2008 — an international exhibition project devoted to the concept of music. Over the next five years, they invited artists and musicians from around the world to develop new works at the interface of art, music, and performance that would abandon traditional notions of concert and exhibition. The publication <em>Soundfair: Exhibiting Music</em> is a documentation of the artistic works that came out of this period. In it the Soundfair founders discuss individual projects and present series of works with the invited artists, who include Janet Cardiff, Olaf Nicolai, and Douglas Gordon.</p>'
+details: |
+  - ISBN: 3959050909 / 978-3959050906
+  - Content: 160 Pages
+  - Size: 100 × 10 × 140 mm
+  - Author: Thomas Mayer
+  - Edited by: Thomas Mayer, Clara Meister
+  - Contributions from: Janet Cardiff, Annika Eriksson, Bo Christian Larsson, Arto Lindsay, Olaf Nicolai, Douglas Gordon, Anri Sala
+  - Design: Studio Quentin Walesch
+  
+  - Language: English / German
+  - Publishing date: 2017
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Soundfair.jpg
+    id: 10955
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-11.jpg
+    id: 10962
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-10.jpg
+    id: 10964
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-11.jpg
+    id: 10966
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-11.jpg
+    id: 10968
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-11.jpg
+    id: 10970
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_6-6.jpg
+    id: 10972
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_7-4.jpg
+    id: 10974
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_8-2.jpg
+    id: 10976
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_VITRINE_Soundfair_BACK.jpg
+    id: 10957
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Soundfair
+Exhibiting Music
+
+----
+
+Uuid: jBazrEtb9y80xnZz
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

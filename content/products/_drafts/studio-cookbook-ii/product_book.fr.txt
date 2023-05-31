@@ -1,0 +1,51 @@
+Oldweltkern:
+
+title: Studio Cookbook II
+slug: studio-cookbook-ii
+id: 17802
+isbn: 1910239018 / 978-1910239018
+price: 17.9
+weight: 2.1
+author:
+  name: Hato Press
+  id: 330
+description: '<p>Studio Cookbook started off as a series of informal gatherings aiming to promote sociable lunches within different workspaces.</p>'
+details: |
+  - ISBN: 1910239018 / 978-1910239018
+  - Content: 64 pages
+  - Size: 132 × 236 mm
+  
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover, Spiral bound
+  - Images: © WELTKERN® / Hato Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Studio-Cookbook-II.jpg
+    id: 17763
+tags: [ ]
+
+----
+
+Multilinetitle: Studio Cookbook II
+
+----
+
+Uuid: BqIkQqDERNRlHH5Q
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

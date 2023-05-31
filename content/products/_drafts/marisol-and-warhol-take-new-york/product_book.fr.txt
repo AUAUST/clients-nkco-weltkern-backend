@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: 'Marisol and Warhol <br>Take New York'
+slug: marisol-and-warhol-take-new-york
+id: 20612
+isbn: |
+  1735940212 / 978-1735940212
+price: 59.9
+weight: 0.8
+author:
+  name: Andy Warhol Museum
+  id: 354
+description: '<p>This book charts the emergence of Marisol Escobar (1930–2016) and Andy Warhol (1928–87) in New York during the dawn of Pop art in the early 1960s. Through essays, interviews, and prose, the book explores the artists’ parallel rise to success, the formation of their artistic personas, their savvy navigation of gallery relationships, and the blossoming of their early artistic practices from 1960 to 1968. The exhibition features key loans of Marisol’s work from major global collections, along with iconic works and rarely seen films and archival materials from The Andy Warhol Museum’s collection. By situating Marisol&#8217;s work in dialogue with Warhol’s, this new collection of writing seeks to reclaim the importance of her art; reframe the strength, originality, and daring nature of her work; and reconsider her as one of the leading figures of the Pop era.</p>'
+details: |
+  - ISBN: 1735940212 / 978-1735940212
+  
+  - Content: 120 pages
+  - Size: 197 × 267 mm
+  - Language: English
+  - Edited by: Jessica Beck. Text by Angie Cruz, Jeffrey Deitch, Eleanor Friedberger, Jennifer Josten, Franklin Sirmans.
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Andy Warhol Museum. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Marisol-and-Warhol.jpg
+    id: 20613
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Marisol and Warhol
+Take New York
+
+----
+
+Uuid: N7L60lPCwcdS0QXE
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

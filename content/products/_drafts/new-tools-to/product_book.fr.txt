@@ -1,0 +1,66 @@
+Oldweltkern:
+
+title: 'New Tools To:'
+slug: new-tools-to
+id: 5981
+isbn: 3956792762 / 978-3956792762
+price: 49.9
+weight: 0.45
+author:
+  name: HGB Leipzig
+  id: 147
+description: |
+  <p>The workshop &#8220;New Tools To:&#8221;, which took place between 30th October and 20th December 2017, set itself the goal of analysing, exploring and redefining new recording tools and methods, as well as their transmission and transfer into different formats (digital or print).<br />
+  <br />
+  Participating students: Valentina D&#8217;Urbano, Monika Micevičiūtė, Elias Erkan, Elia Preuss, Katharina Tewes, Jenny Schreiter, Thomas Spieler, Lukas Winkler, Noël Wiedemer.</p>
+details: |
+  - ISBN: 3956792762 / 978-3956792762
+  - Content: 100 pages
+  - Size: 190 × 11 × 230 mm
+  - Design: Ludovic Balland
+  - Language: German
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © WELTKERN® / HGB Leipzig. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_NewToolsTo.jpg
+    id: 5990
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-2.jpg
+    id: 5992
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-9.jpg
+    id: 5994
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_NewToolsTo__BACK.jpg
+    id: 5986
+tags: [ ]
+
+----
+
+Multilinetitle: New Tools To:
+
+----
+
+Uuid: jQTaAlQNZV0b8Qco
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

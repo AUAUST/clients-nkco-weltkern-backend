@@ -1,0 +1,66 @@
+Oldweltkern:
+
+title: "William Eggleston's Guide"
+slug: william-egglestons-guide
+id: 8505
+isbn: '0714874715 / 978-0714874715 '
+price: 39.9
+weight: 0.8
+author:
+  name: MoMA
+  id: 243
+description: |
+  <p><em>William Eggleston&#8217;s Guide</em> was the first one-man show of color photographs ever presented at The Museum of Modern Art, New York; it changed the world&#8217;s perception of color photography forever, and its accompanying catalog is now considered one of the most important American photobooks ever published<br />
+  <br />
+  <em>William Eggleston&#8217;s Guide</em> was the first one-man show of color photographs ever presented at The Museum of Modern Art, New York, and the Museum&#8217;s first publication of color photography. The reception was divided and passionate. The book and show unabashedly forced the art world to deal with color photography, a medium scarcely taken seriously at the time, and with the vernacular content of a body of photographs that could have been but definitely weren&#8217;t some average American&#8217;s Instamatic pictures from the family album. These photographs heralded a new mastery of the use of color as an integral element of photographic composition. Bound in a textured cover inset with a photograph of a tricycle and stamped with yearbook-style gold lettering, the <em>Guide</em> contained 48 images edited down from 375 shot between 1969 and 1971 and displayed a deceptively casual, actually super-refined look at the surrounding world. Here are people, landscapes and odd little moments in and around Eggleston&#8217;s hometown of Memphis&#8211;an anonymous woman in a loudly patterned dress and cat&#8217;s eye glasses sitting, left leg slightly raised, on an equally loud outdoor sofa; a coal-fired barbecue shooting up flames, framed by a shiny silver tricycle, the curves of a gleaming black car fender, and someone&#8217;s torso; a tiny, gray-haired lady in a faded, flowered housecoat, standing expectant, and dwarfed in the huge dark doorway of a mint-green room whose only visible furniture is a shaded lamp on an end table. For this edition of <em>William Eggleston&#8217;s Guide</em>, The Museum of Modern Art has made new color separations from the original 35 mm slides, producing a facsimile edition in which the color will be freshly responsive to the photographer&#8217;s intentions.</p>
+details: |
+  - ISBN: 0714874715 / 978-0714874715
+  - Content: 112 pages
+  - Size: 230 × 45 × 230 mm
+  - Authors: John Szarkowski, William Eggleston
+  - Language: English
+  - Publishing date: 2002
+  - Specs: Hardcover
+  - Images: © WELTKERN® / MoMA. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_COVER_William.jpg
+    id: 8958
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_1-12.jpg
+    id: 8904
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_2-13.jpg
+    id: 8906
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_3-12.jpg
+    id: 8908
+tags: [ ]
+
+----
+
+Multilinetitle: William Eggleston's Guide
+
+----
+
+Uuid: 2Fdw2xauhepz43Dm
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

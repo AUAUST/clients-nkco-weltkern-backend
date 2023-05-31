@@ -1,0 +1,66 @@
+Oldweltkern:
+
+title: 'Wolfgang Weingart <br>My Way to Typography'
+slug: wolfgang-weingart-my-way-to-typography
+id: 3887
+isbn: 3037784261 / 978-3037784266
+price: 359.9
+weight: 2.1
+author:
+  name: Lars Müller Publishers
+  id: 85
+description: '<p>Since the 1970s Wolfgang Weingart has exerted a decisive influence on the international development of typography. In the late 1960s he instilled creativity and a desire for experimentation into the ossified Swiss typographical industry and reflected this renewal in his own work. Countless designers have been inspired by his teaching at the Basle School of Design and by his lectures. In Typography Weingart gives an unusual and frank narrative of his early life and development as a designer. For the first time he gives a comprehensive survey of his works over the past forty years, most of which are unknown.</p>'
+details: |
+  - ISBN: 3037784261 / 978-3037784266
+  - Content: 520 pages
+  - Size: 230 × 40 × 275 mm
+  - Author: Wolfgang Weingart
+  - Language: English / German
+  - Publishing date: 2014
+  - Specs: Softcover
+  - Images: © Lars Müller Publishers. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_weingarttypo-1.jpg
+    id: 4181
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-57.jpg
+    id: 4183
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-56.jpg
+    id: 4185
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-55.jpg
+    id: 4187
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Wolfgang Weingart
+My Way to Typography
+
+----
+
+Uuid: iaPmmzGU0Wbqy5zE
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

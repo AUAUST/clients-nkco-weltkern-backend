@@ -1,0 +1,53 @@
+Oldweltkern:
+
+title: 'Giasco Bertoli <br>Tennis Courts IV'
+slug: giasco-bertoli-tennis-courts-iv
+id: 23341
+isbn: 3907179345 / 978-3907179345
+price: 21.9
+weight: 0.3
+author:
+  name: Nieves
+  id: 386
+description: '<p>The fourth and final volume in Giasco Bertoli&#8217;s dreamlike series immortalising abandoned tennis courts around the world. The photographs follow one another, like a long sequence filmed according to the places and seasons, showing less the inevitable passage of time than the feeling of oblivion.</p>'
+details: |
+  - ISBN: 3907179345 / 978-3907179345
+  - Content: 60 pages
+  - Size: 195 × 255 mm
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / Nieves. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_tennisIV.jpg
+    id: 23347
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Giasco Bertoli
+Tennis Courts IV
+
+----
+
+Uuid: PTKDhlgyHB4RmbrL
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

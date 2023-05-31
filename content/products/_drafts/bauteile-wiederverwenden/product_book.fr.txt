@@ -1,0 +1,56 @@
+Oldweltkern:
+
+title: Bauteile wiederverwenden
+slug: bauteile-wiederverwenden
+id: 14765
+isbn: 3038602590 / 978-3038602590
+price: 59.2
+weight: 1.2
+author:
+  name: Park Books
+  id: 88
+description: |
+  <p>Building with reused components is currently one of the most talked-about phenomena in the European architectural debate. When building elements that will last for decades are not destroyed but reused for new buildings, this not only saves resources. It also drastically reduces energy consumption and greenhouse gas emissions in the construction phase of buildings. This so-called circular construction brings with it a multitude of very different issues &#8211; from technical and energy-related to legal aspects. This is even more true in the present day, although the phenomenon itself has an ancient lineage &#8211; thousands of years ago, decaying buildings were cannibalized for new construction activity.<br />
+  <br />
+  This book offers a comprehensive compendium that explores in detail all the issues surrounding the reuse of building components. They are played out using a concrete example: the K 118 head building on Winterthur&#8217;s Lagerplatz, the largest building in Switzerland to date that consists of a majority of reused components. Since 2018, this unique pilot project has been evaluated within the framework of an interdisciplinary research project with regard to architectural-constructive, energetic, economic, procedural and legal issues. All results are gathered in this book and presented in a highly descriptive manner, both in terms of content and visuals.<br />
+  <br />
+  With contributions by Andreas Abegg, Marc Angst, Guido Brandi, Barbara Buser, Arne Vande Capelle, Michael Eidenbenz, Nathanea Elte, Deborah Fehlmann, Patric Fischli-Boson, Oya Atalay Franck, Michaël Ghyoot, Pascal Hentschel, Meinrad Huser, Christian Kohler, Marc Loeliger, Ákos Moravánszky, Kerstin Müller, Andreas Oefner, Katrin Pfäffli, Michael Pöll, Tina Puffert, François Renaud, Barbara Rentsch, Alexis Ringli, Andreas Sonderegger, Eva Stricker, Cyrille Veron and Barbara Zeleny.</p>
+details: |
+  - ISBN: 3038602590 / 978-3038602590
+  - Content: 344 Pages
+  - Size: 215 × 285 mm
+  - Design: Ludovic Balland Typography Cabinet, Basel (CH)
+  - Language: German
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Park Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_2bauteile.jpg
+    id: 14769
+tags: [ ]
+
+----
+
+Multilinetitle: Bauteile wiederverwenden
+
+----
+
+Uuid: pa3XSh7OD0oFCnmS
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,55 @@
+Oldweltkern:
+
+title: "Betsy Karel <br>America's Stage: Times Square"
+slug: betsy-karel-americas-stage-times-square
+id: 17989
+isbn: 3958292727 / 978-3958292727
+price: 39.2
+weight: 1.2
+author:
+  name: Steidl Publishers
+  id: 140
+description: |
+  <p>»In America’s Stage: Times Square«, street photographer Betsy Karel uses five New York City blocks as a metaphor for urban America today. Her premise is that many of the major trends of our society are present in Times Square: globalism, consumerism, ubiquitous sexualization, hucksterism, surveillance, narcissism. All are compressed and amplified here.</p>
+  <p>In Karel’s photos fantasy parades as reality, corporate interests invade almost all public spaces, and Times Square becomes a vivid, almost hyper-realistic, form of theatre.</p>
+details: |
+  - ISBN: 3958292727 / 978-3958292727
+  - Content: 128 pages
+  - Size: 240 × 320 mm
+  - Language: English
+  - Publication: 2018
+  - Specs: Hardcover with dust jacket
+  - Images: © WELTKERN® / Steidl. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Betsy-Karel-–-Americas-Stage-Times-Square.jpg
+    id: 17912
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Betsy Karel
+America's Stage: Times Square
+
+----
+
+Uuid: rnaCxkLkT9lOqmqh
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

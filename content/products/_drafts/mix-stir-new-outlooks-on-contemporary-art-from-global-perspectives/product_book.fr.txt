@@ -1,0 +1,55 @@
+Oldweltkern:
+
+title: 'Mix & Stir <br>New Outlooks on Contemporary Art from Global Perspectives'
+slug: >
+  mix-stir-new-outlooks-on-contemporary-art-from-global-perspectives
+id: 15200
+isbn: 9493246058 / 978-9493246058
+price: 31.1
+weight: 1
+author:
+  name: Valiz
+  id: 101
+description: '<p>Taking the challenging form of a cookery book, ‘Mix &#038; Stir’ brings new tastes and flavours to the table, breaking new ground by allowing contrary, queer, idiosyncratic practices to access art in its global dimensions through discourses, theories and topics, methods, and concerns. Embarking on a voyage similar to that of culinary discovery, it encourages studying art beyond national constraints, cultural dominances, and hierarchies. Researchers and artists were invited to present, develop, and contemplate distinct frames of reference to arrive at a true “world art studies” concept, from collectives and postcolonial perspectives to spectatorship and deep art history.</p>'
+details: |
+  - ISBN: 9493246058 / 978-9493246058
+  - Content: 432 pages
+  - Size: 170 × 230 mm
+  - Author: H. Westgeest, K. Zijlmans
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Valiz / Africanah.org. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_MixStir.jpg
+    id: 15205
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Mix & Stir
+New Outlooks on Contemporary Art from Global Perspectives
+
+----
+
+Uuid: 8LjEV7V06PPiOAcG
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
