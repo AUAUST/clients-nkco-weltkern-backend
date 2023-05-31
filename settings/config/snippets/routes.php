@@ -42,7 +42,7 @@ return [
     }
   ],
   [
-    'pattern' => 'isbn',
+    'pattern' => 'query-weltkern',
     'language' => '*',
     'action' => function () {
       $products = WK1::products();
@@ -167,7 +167,7 @@ return [
     }
   ],
   [
-    'pattern' => 'update-weltkern',
+    'pattern' => 'isbn',
     'language' => '*',
     'action' => function () {
       $productsPage = page('products');
