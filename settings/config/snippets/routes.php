@@ -65,7 +65,7 @@ return [
         // Get name
         $title = $product['name'];
         // Replace inline <br> with line breaks
-        $title = preg_replace('/<br\s*\/?>/', PHP_EOL, $title);
+        $title = preg_replace('/<br\s*\/?>/', '|', $title);
         // Remove all other HTML tags
         $title = Str::unhtml($title);
 
