@@ -1,3 +1,34 @@
+Title: Maximage|Color Combinations (1st edition)
+
+----
+
+Multilinetitle:
+
+Maximage
+Color Combinations (1st edition)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Maximage <br>Color Combinations (1st edition)'
@@ -50,27 +81,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Maximage
-Color Combinations (1st edition)
-
-----
-
 Uuid: JVPZFarNVzkhVs4V
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

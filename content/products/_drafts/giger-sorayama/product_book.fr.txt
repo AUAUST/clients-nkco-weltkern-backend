@@ -1,3 +1,31 @@
+Title: Giger Sorayama
+
+----
+
+Multilinetitle: Giger Sorayama
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Giger Sorayama
@@ -67,24 +95,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Giger Sorayama
-
-----
-
 Uuid: m1vX4XZqVmQjMBsg
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

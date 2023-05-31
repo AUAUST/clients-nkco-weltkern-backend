@@ -1,3 +1,31 @@
+Title: Cold Revolution
+
+----
+
+Multilinetitle: Cold Revolution
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Cold Revolution
@@ -29,24 +57,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Cold Revolution
-
-----
-
 Uuid: WewdflwTYRe0iRFc
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

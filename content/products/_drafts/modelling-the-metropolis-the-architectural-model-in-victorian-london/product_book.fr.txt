@@ -1,3 +1,34 @@
+Title: Modelling the Metropolis|The Architectural Model in Victorian London
+
+----
+
+Multilinetitle:
+
+Modelling the Metropolis
+The Architectural Model in Victorian London
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Modelling the Metropolis <br>The Architectural Model in Victorian London'
@@ -50,27 +81,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Modelling the Metropolis
-The Architectural Model in Victorian London
-
-----
-
 Uuid: bCIsPodJ5MwsJnUe
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

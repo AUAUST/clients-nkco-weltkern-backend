@@ -1,3 +1,34 @@
+Title: Harvard Design Magazine|49: Publics
+
+----
+
+Multilinetitle:
+
+Harvard Design Magazine
+49: Publics
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Harvard Design Magazine <br>49: Publics'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Harvard Design Magazine
-49: Publics
-
-----
-
 Uuid: W8aBtt5szY9YRv8n
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

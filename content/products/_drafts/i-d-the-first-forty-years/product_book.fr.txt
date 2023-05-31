@@ -1,3 +1,34 @@
+Title: i-D|The First Forty Years
+
+----
+
+Multilinetitle:
+
+i-D
+The First Forty Years
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'i-D <br>The First Forty Years'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-i-D
-The First Forty Years
-
-----
-
 Uuid: KU1Finco1u2Yi7bW
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

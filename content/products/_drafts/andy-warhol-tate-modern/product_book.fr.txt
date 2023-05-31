@@ -1,3 +1,34 @@
+Title: Andy Warhol|Tate Modern
+
+----
+
+Multilinetitle:
+
+Andy Warhol
+Tate Modern
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Andy Warhol <br>Tate Modern'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Andy Warhol
-Tate Modern
-
-----
-
 Uuid: In4Uk5XRnxBMNvbW
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

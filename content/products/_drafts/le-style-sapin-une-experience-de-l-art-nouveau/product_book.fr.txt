@@ -1,3 +1,34 @@
+Title: Le Style sapin|Une expérience de l'art nouveau
+
+----
+
+Multilinetitle:
+
+Le Style sapin
+Une expérience de l'art nouveau
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: "Le Style sapin <br>Une expérience de l'art nouveau"
@@ -45,27 +76,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Le Style sapin
-Une expérience de l'art nouveau
-
-----
-
 Uuid: u0QdAXDhu2pvqkId
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Christof Nüssli|googly eyes
+
+----
+
+Multilinetitle:
+
+Christof Nüssli
+googly eyes
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Christof Nüssli <br>googly eyes'
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Christof Nüssli
-googly eyes
-
-----
-
 Uuid: GAVqMicfYejgJFvb
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

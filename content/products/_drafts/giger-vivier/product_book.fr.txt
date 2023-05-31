@@ -1,3 +1,31 @@
+Title: Giger Vivier
+
+----
+
+Multilinetitle: Giger Vivier
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Giger Vivier
@@ -50,24 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Giger Vivier
-
-----
-
 Uuid: RwMANA6RUnxUodrS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

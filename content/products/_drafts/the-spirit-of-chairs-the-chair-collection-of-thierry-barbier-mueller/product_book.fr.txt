@@ -1,3 +1,34 @@
+Title: The Spirit of Chairs|The Chair Collection of Thierry Barbier-Mueller
+
+----
+
+Multilinetitle:
+
+The Spirit of Chairs
+The Chair Collection of Thierry Barbier-Mueller
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'The Spirit of Chairs <br>The Chair Collection of Thierry Barbier-Mueller'
@@ -48,27 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-The Spirit of Chairs
-The Chair Collection of Thierry Barbier-Mueller
-
-----
-
 Uuid: wTiZ3gO67f0QvsiN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

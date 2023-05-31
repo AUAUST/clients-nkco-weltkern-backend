@@ -1,3 +1,31 @@
+Title: A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow
+
+----
+
+Multilinetitle: A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -31,24 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow
-
-----
-
 Uuid: KByfTX2OJkkgFcZx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

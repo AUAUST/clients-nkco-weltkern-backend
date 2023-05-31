@@ -1,3 +1,34 @@
+Title: softspot|A container for the near and close
+
+----
+
+Multilinetitle:
+
+softspot
+A container for the near and close
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'softspot <br>A container for the near and close'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-softspot
-A container for the near and close
-
-----
-
 Uuid: OPrlGsstO5nEHTvC
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Bruno Munari|Design as Art
+
+----
+
+Multilinetitle:
+
+Bruno Munari
+Design as Art
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Bruno Munari <br>Design as Art'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Bruno Munari
-Design as Art
-
-----
-
 Uuid: DbKsPMqrjx3E77CQ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

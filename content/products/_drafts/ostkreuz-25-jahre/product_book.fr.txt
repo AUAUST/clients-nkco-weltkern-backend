@@ -1,3 +1,31 @@
+Title: Ostkreuz 25 Jahre
+
+----
+
+Multilinetitle: Ostkreuz 25 Jahre
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Ostkreuz 25 Jahre
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Ostkreuz 25 Jahre
-
-----
-
 Uuid: CEJwboUe7pOGFxFz
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

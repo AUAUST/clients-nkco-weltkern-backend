@@ -1,3 +1,31 @@
+Title: Venice Lessons
+
+----
+
+Multilinetitle: Venice Lessons
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Venice Lessons
@@ -60,24 +88,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Venice Lessons
-
-----
-
 Uuid: ndJUZteu4R8zn4wS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

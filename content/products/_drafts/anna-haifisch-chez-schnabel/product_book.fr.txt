@@ -1,3 +1,34 @@
+Title: Anna Haifisch|Chez Schnabel
+
+----
+
+Multilinetitle:
+
+Anna Haifisch
+Chez Schnabel
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Anna Haifisch <br>Chez Schnabel'
@@ -81,27 +112,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Anna Haifisch
-Chez Schnabel
-
-----
-
 Uuid: oUPbmFIpVz4Q5VE9
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

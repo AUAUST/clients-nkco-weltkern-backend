@@ -1,3 +1,34 @@
+Title: Oh Yeah / Yello 40|Boris Blank & Dieter Meier
+
+----
+
+Multilinetitle:
+
+Oh Yeah / Yello 40
+Boris Blank & Dieter Meier
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Oh Yeah / Yello 40 <br>Boris Blank & Dieter Meier'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Oh Yeah / Yello 40
-Boris Blank & Dieter Meier
-
-----
-
 Uuid: csfBkGNzNNzUfqoE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

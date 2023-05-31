@@ -1,3 +1,34 @@
+Title: Anna Ehrenstein|Tools for Conviviality
+
+----
+
+Multilinetitle:
+
+Anna Ehrenstein
+Tools for Conviviality
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Anna Ehrenstein <br>Tools for Conviviality'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Anna Ehrenstein
-Tools for Conviviality
-
-----
-
 Uuid: 3aVscjf8iPdW02hF
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

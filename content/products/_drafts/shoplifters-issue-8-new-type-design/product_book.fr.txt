@@ -1,3 +1,34 @@
+Title: Shoplifters Issue 8|New Type Design
+
+----
+
+Multilinetitle:
+
+Shoplifters Issue 8
+New Type Design
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Shoplifters Issue 8 <br>New Type Design'
@@ -45,27 +76,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Shoplifters Issue 8
-New Type Design
-
-----
-
 Uuid: t7OV94TAyS5itzNu
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

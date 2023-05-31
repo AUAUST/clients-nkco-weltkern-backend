@@ -1,3 +1,31 @@
+Title: Las Vegas Studio
+
+----
+
+Multilinetitle: Las Vegas Studio
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Las Vegas Studio
@@ -46,24 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Las Vegas Studio
-
-----
-
 Uuid: l22iLjBjGM21Y8ax
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

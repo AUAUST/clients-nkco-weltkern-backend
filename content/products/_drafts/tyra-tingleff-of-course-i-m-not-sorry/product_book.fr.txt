@@ -1,3 +1,34 @@
+Title: Tyra Tingleff|Of Course I'm Not Sorry
+
+----
+
+Multilinetitle:
+
+Tyra Tingleff
+Of Course I'm Not Sorry
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: "Tyra Tingleff <br>Of Course I'm Not Sorry"
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tyra Tingleff
-Of Course I'm Not Sorry
-
-----
-
 Uuid: BKFWScAxNOTljGm8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

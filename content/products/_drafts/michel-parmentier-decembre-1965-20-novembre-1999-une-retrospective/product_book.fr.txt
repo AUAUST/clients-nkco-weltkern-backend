@@ -1,3 +1,34 @@
+Title: Michel Parmentier|Décembre 1965 – 20 novembre 1999, Une rétrospective
+
+----
+
+Multilinetitle:
+
+Michel Parmentier
+Décembre 1965 – 20 novembre 1999, Une rétrospective
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Michel Parmentier <br>Décembre 1965 – 20 novembre 1999, Une rétrospective'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Michel Parmentier
-Décembre 1965 – 20 novembre 1999, Une rétrospective
-
-----
-
 Uuid: j3W8ufLD6yQDI7p3
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

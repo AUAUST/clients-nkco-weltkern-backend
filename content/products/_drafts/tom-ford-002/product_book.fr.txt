@@ -1,3 +1,31 @@
+Title: Tom Ford 002
+
+----
+
+Multilinetitle: Tom Ford 002
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Tom Ford 002
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Tom Ford 002
-
-----
-
 Uuid: L7LvZQ7uie1DwQ9k
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Peter Fischli & David Weiss
+
+----
+
+Multilinetitle: Peter Fischli & David Weiss
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Peter Fischli & David Weiss'
@@ -27,24 +55,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Peter Fischli & David Weiss
-
-----
-
 Uuid: 5aarf3fGbouEWS9F
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

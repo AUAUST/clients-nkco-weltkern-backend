@@ -1,3 +1,34 @@
+Title: Sean Pablo (New York, USA)|$T4YL1T
+
+----
+
+Multilinetitle:
+
+Sean Pablo (New York, USA)
+$T4YL1T
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Sean Pablo (New York, USA) <br>$T4YL1T'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Sean Pablo (New York, USA)
-$T4YL1T
-
-----
-
 Uuid: u1lDgoldqG67jb23
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Flash Art n° 336|Automne 2021 – Ultra Bodies Ultra Species
+
+----
+
+Multilinetitle:
+
+Flash Art n° 336
+Automne 2021 – Ultra Bodies Ultra Species
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Flash Art n° 336 <br>Automne 2021 – Ultra Bodies Ultra Species'
@@ -59,27 +90,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Flash Art n° 336
-Automne 2021 – Ultra Bodies Ultra Species
-
-----
-
 Uuid: PRsfrYScI8Dqxefe
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

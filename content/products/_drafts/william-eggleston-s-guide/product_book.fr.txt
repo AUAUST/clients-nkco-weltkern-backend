@@ -1,3 +1,31 @@
+Title: William Eggleston's Guide
+
+----
+
+Multilinetitle: William Eggleston's Guide
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: "William Eggleston's Guide"
@@ -43,24 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: William Eggleston's Guide
-
-----
-
 Uuid: 2Fdw2xauhepz43Dm
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

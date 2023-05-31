@@ -1,3 +1,34 @@
+Title: Susan Sontag|On Photography
+
+----
+
+Multilinetitle:
+
+Susan Sontag
+On Photography
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Susan Sontag <br>On Photography'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Susan Sontag
-On Photography
-
-----
-
 Uuid: 1uQ4yBBw4ggdBO9l
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

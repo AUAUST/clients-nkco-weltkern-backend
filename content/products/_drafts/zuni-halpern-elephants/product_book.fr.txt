@@ -1,3 +1,34 @@
+Title: Zuni Halpern|Elephants
+
+----
+
+Multilinetitle:
+
+Zuni Halpern
+Elephants
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Zuni Halpern <br>Elephants'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Zuni Halpern
-Elephants
-
-----
-
 Uuid: SFpq2Ci6Dui3MRy5
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

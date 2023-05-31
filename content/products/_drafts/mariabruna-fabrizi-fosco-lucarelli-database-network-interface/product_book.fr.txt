@@ -1,3 +1,34 @@
+Title: Mariabruna Fabrizi & Fosco Lucarelli|Database Network Interface
+
+----
+
+Multilinetitle:
+
+Mariabruna Fabrizi & Fosco Lucarelli
+Database Network Interface
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mariabruna Fabrizi & Fosco Lucarelli <br>Database Network Interface'
@@ -35,27 +66,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Mariabruna Fabrizi & Fosco Lucarelli
-Database Network Interface
-
-----
-
 Uuid: GCR7op8uURzzokQG
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

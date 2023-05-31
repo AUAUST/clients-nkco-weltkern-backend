@@ -1,3 +1,31 @@
+Title: We are not where we need to be, but we ain't where we were.
+
+----
+
+Multilinetitle: We are not where we need to be, but we ain't where we were.
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: "We are not where we need to be, but we ain't where we were."
@@ -31,24 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: We are not where we need to be, but we ain't where we were.
-
-----
-
 Uuid: NPlMwPtQdL7UzpGE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Mise en page(s), etc.
+
+----
+
+Multilinetitle: Mise en page(s), etc.
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Mise en page(s), etc.
@@ -33,24 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Mise en page(s), etc.
-
-----
-
 Uuid: r5wWpXua2f6S9i3q
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Climate|Building Resilience in the Era of Climate Change
+
+----
+
+Multilinetitle:
+
+Climate
+Building Resilience in the Era of Climate Change
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Climate <br>Building Resilience in the Era of Climate Change'
@@ -55,27 +86,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Climate
-Building Resilience in the Era of Climate Change
-
-----
-
 Uuid: AcYHjpHsMwiBtdSg
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

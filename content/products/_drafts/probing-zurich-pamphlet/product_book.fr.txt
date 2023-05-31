@@ -1,3 +1,34 @@
+Title: Probing Zurich|Pamphlet
+
+----
+
+Multilinetitle:
+
+Probing Zurich
+Pamphlet
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Probing Zurich <br>Pamphlet'
@@ -41,27 +72,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Probing Zurich
-Pamphlet
-
-----
-
 Uuid: snKB2xMSLf3Hgb42
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

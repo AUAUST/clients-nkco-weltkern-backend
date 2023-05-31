@@ -1,3 +1,34 @@
+Title: 120 bpm|Philipp Müller
+
+----
+
+Multilinetitle:
+
+120 bpm
+Philipp Müller
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: '120 bpm <br>Philipp Müller'
@@ -36,27 +67,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-120 bpm
-Philipp Müller
-
-----
-
 Uuid: ZjKYjPxTxSPIndUT
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

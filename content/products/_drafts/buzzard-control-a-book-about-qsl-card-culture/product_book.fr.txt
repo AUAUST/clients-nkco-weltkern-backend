@@ -1,3 +1,34 @@
+Title: Buzzard Control|A Book About QSL card culture
+
+----
+
+Multilinetitle:
+
+Buzzard Control
+A Book About QSL card culture
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Buzzard Control <br>A Book About QSL card culture'
@@ -47,27 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Buzzard Control
-A Book About QSL card culture
-
-----
-
 Uuid: 2Bd6cLCd1M6sGanb
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

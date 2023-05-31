@@ -1,3 +1,34 @@
+Title: KALEIDOSCOPE #41 FW22|DJ Harvey
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #41 FW22
+DJ Harvey
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #41 FW22 <br>DJ Harvey'
@@ -78,27 +109,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-KALEIDOSCOPE #41 FW22
-DJ Harvey
-
-----
-
 Uuid: 0dDS0dhWj42zWwEM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

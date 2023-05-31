@@ -1,3 +1,34 @@
+Title: Postdocument (Reader)|Christophe Lemaitre Aurélien Mole Remi Parcollet
+
+----
+
+Multilinetitle:
+
+Postdocument (Reader)
+Christophe Lemaitre Aurélien Mole Remi Parcollet
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Postdocument (Reader) <br>Christophe Lemaitre Aurélien Mole Remi Parcollet'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Postdocument (Reader)
-Christophe Lemaitre Aurélien Mole Remi Parcollet
-
-----
-
 Uuid: 95g1i6ef46N9Jafl
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

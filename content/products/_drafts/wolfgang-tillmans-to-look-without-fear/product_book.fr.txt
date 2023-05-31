@@ -1,3 +1,34 @@
+Title: Wolfgang Tillmans|To look without fear
+
+----
+
+Multilinetitle:
+
+Wolfgang Tillmans
+To look without fear
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Wolfgang Tillmans <br>To look without fear'
@@ -42,27 +73,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Wolfgang Tillmans
-To look without fear
-
-----
-
 Uuid: iJqLaxDgUQbyXgnc
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

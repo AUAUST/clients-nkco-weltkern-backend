@@ -1,3 +1,34 @@
+Title: Tom Huber|Nguecokh
+
+----
+
+Multilinetitle:
+
+Tom Huber
+Nguecokh
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Tom Huber <br>Nguecokh'
@@ -48,27 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tom Huber
-Nguecokh
-
-----
-
 Uuid: wSQliA85RUdPsGj4
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

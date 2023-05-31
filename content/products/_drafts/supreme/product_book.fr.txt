@@ -1,3 +1,31 @@
+Title: Supreme
+
+----
+
+Multilinetitle: Supreme
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Supreme
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Supreme
-
-----
-
 Uuid: D2LWVNugVe9KrpaO
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

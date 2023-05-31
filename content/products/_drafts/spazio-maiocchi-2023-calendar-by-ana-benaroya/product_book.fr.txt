@@ -1,3 +1,34 @@
+Title: Spazio Maiocchi 2023 Calendar|by Ana Benaroya
+
+----
+
+Multilinetitle:
+
+Spazio Maiocchi 2023 Calendar
+by Ana Benaroya
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Spazio Maiocchi 2023 Calendar <br>by Ana Benaroya'
@@ -36,27 +67,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Spazio Maiocchi 2023 Calendar
-by Ana Benaroya
-
-----
-
 Uuid: axJK36LXeXrVwDVJ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

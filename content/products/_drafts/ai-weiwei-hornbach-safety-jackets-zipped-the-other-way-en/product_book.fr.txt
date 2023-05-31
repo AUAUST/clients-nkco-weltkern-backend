@@ -1,3 +1,34 @@
+Title: Ai Weiwei & HORNBACH|Safety Jackets Zipped the Other Way (EN)
+
+----
+
+Multilinetitle:
+
+Ai Weiwei & HORNBACH
+Safety Jackets Zipped the Other Way (EN)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ai Weiwei & HORNBACH <br>Safety Jackets Zipped the Other Way (EN)'
@@ -48,27 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ai Weiwei & HORNBACH
-Safety Jackets Zipped the Other Way (EN)
-
-----
-
 Uuid: h8ryODmlvzXu0nG3
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

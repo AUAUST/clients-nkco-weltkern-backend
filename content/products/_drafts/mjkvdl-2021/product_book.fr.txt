@@ -1,3 +1,31 @@
+Title: MJKVDL 2021
+
+----
+
+Multilinetitle: MJKVDL 2021
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: MJKVDL 2021
@@ -31,24 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: MJKVDL 2021
-
-----
-
 Uuid: 7yitwBocRVAaKv1y
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

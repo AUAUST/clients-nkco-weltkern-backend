@@ -1,3 +1,34 @@
+Title: Caps Lock|How Capitalism Took Hold Of Graphic Design, And How To Escape From It
+
+----
+
+Multilinetitle:
+
+Caps Lock
+How Capitalism Took Hold Of Graphic Design, And How To Escape From It
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Caps Lock <br>How Capitalism Took Hold Of Graphic Design, And How To Escape From It'
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Caps Lock
-How Capitalism Took Hold Of Graphic Design, And How To Escape From It
-
-----
-
 Uuid: UJjbqgdRMGol00Lu
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

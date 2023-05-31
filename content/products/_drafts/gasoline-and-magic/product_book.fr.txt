@@ -1,3 +1,31 @@
+Title: Gasoline and Magic
+
+----
+
+Multilinetitle: Gasoline and Magic
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Gasoline and Magic
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Gasoline and Magic
-
-----
-
 Uuid: D1uhqlkTcyxZxFDV
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: To Begin Again|Artists and Childhood
+
+----
+
+Multilinetitle:
+
+To Begin Again
+Artists and Childhood
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'To Begin Again <br>Artists and Childhood'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-To Begin Again
-Artists and Childhood
-
-----
-
 Uuid: qNyq5juBoQKIVqd8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

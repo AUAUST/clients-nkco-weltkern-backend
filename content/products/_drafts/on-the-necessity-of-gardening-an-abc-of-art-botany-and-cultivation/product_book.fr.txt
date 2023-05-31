@@ -1,3 +1,34 @@
+Title: On the Necessity of Gardening|An ABC of Art, Botany and Cultivation
+
+----
+
+Multilinetitle:
+
+On the Necessity of Gardening
+An ABC of Art, Botany and Cultivation
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'On the Necessity of Gardening <br>An ABC of Art, Botany and Cultivation'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-On the Necessity of Gardening
-An ABC of Art, Botany and Cultivation
-
-----
-
 Uuid: Ha1E9lM4QwDLxbS5
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

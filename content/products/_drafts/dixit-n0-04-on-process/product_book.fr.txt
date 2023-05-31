@@ -1,3 +1,34 @@
+Title: Dixit n° 04|On process
+
+----
+
+Multilinetitle:
+
+Dixit n° 04
+On process
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Dixit n° 04 <br>On process'
@@ -35,27 +66,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Dixit n° 04
-On process
-
-----
-
 Uuid: 5VSYp8N2atZr69RT
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

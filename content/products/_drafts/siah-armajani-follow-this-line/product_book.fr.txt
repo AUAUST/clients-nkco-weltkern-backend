@@ -1,3 +1,34 @@
+Title: Siah Armajani|Follow This Line
+
+----
+
+Multilinetitle:
+
+Siah Armajani
+Follow This Line
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Siah Armajani <br>Follow This Line'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Siah Armajani
-Follow This Line
-
-----
-
 Uuid: fieVpfywyb9P67DM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

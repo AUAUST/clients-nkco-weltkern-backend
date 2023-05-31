@@ -1,3 +1,34 @@
+Title: The Natural Enemies of Books|A Messy History of Women in Printing and Typography
+
+----
+
+Multilinetitle:
+
+The Natural Enemies of Books
+A Messy History of Women in Printing and Typography
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'The Natural Enemies of Books <br>A Messy History of Women in Printing and Typography'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-The Natural Enemies of Books
-A Messy History of Women in Printing and Typography
-
-----
-
 Uuid: I29h1Iw1KR147ygh
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

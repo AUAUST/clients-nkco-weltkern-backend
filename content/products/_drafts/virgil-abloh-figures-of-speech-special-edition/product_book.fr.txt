@@ -1,3 +1,34 @@
+Title: Virgil Abloh|Figures of Speech: Special Edition
+
+----
+
+Multilinetitle:
+
+Virgil Abloh
+Figures of Speech: Special Edition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Virgil Abloh <br>Figures of Speech: Special Edition'
@@ -50,27 +81,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Virgil Abloh
-Figures of Speech: Special Edition
-
-----
-
 Uuid: W00xqO9jxA4ygWAQ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

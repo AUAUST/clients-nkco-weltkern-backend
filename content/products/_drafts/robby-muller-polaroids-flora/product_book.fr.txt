@@ -1,3 +1,34 @@
+Title: Robby Müller|Polaroids – Flora
+
+----
+
+Multilinetitle:
+
+Robby Müller
+Polaroids – Flora
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Robby Müller <br>Polaroids – Flora'
@@ -52,27 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Robby Müller
-Polaroids – Flora
-
-----
-
 Uuid: Hwjl63AWc8gjzZhr
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

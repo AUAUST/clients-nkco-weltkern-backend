@@ -1,3 +1,31 @@
+Title: The Most Beautiful Swiss Books 2014
+
+----
+
+Multilinetitle: The Most Beautiful Swiss Books 2014
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Most Beautiful Swiss Books 2014
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Most Beautiful Swiss Books 2014
-
-----
-
 Uuid: LUaILqP0F3WabJwy
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

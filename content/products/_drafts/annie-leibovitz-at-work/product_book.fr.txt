@@ -1,3 +1,31 @@
+Title: Annie Leibovitz at Work
+
+----
+
+Multilinetitle: Annie Leibovitz at Work
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Annie Leibovitz at Work
@@ -47,24 +75,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Annie Leibovitz at Work
-
-----
-
 Uuid: wdJv3rCkUOQZXuAd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

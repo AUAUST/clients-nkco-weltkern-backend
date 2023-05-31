@@ -1,3 +1,31 @@
+Title: The Garden Chef
+
+----
+
+Multilinetitle: The Garden Chef
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Garden Chef
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Garden Chef
-
-----
-
 Uuid: QpnRIjpeMg7x4edx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

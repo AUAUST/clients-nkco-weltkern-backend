@@ -1,3 +1,34 @@
+Title: Feeling Seen|The Photographs of Campbell Addy
+
+----
+
+Multilinetitle:
+
+Feeling Seen
+The Photographs of Campbell Addy
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Feeling Seen <br>The Photographs of Campbell Addy'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Feeling Seen
-The Photographs of Campbell Addy
-
-----
-
 Uuid: coGOJ995okZaYe9K
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

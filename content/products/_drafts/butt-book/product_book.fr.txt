@@ -1,3 +1,31 @@
+Title: Butt Book
+
+----
+
+Multilinetitle: Butt Book
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Butt Book
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Butt Book
-
-----
-
 Uuid: 6ANvoZ0z7xlU7rZQ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

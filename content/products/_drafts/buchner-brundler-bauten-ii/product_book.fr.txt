@@ -1,3 +1,34 @@
+Title: Buchner Bründler|Bauten II
+
+----
+
+Multilinetitle:
+
+Buchner Bründler
+Bauten II
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Buchner Bründler <br>Bauten II'
@@ -62,27 +93,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Buchner Bründler
-Bauten II
-
-----
-
 Uuid: Whlur9lzvVCOnP5Q
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

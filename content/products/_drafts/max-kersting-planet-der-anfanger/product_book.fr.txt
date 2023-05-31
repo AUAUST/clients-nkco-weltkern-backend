@@ -1,3 +1,34 @@
+Title: Max Kersting|Planet der Anfänger
+
+----
+
+Multilinetitle:
+
+Max Kersting
+Planet der Anfänger
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Max Kersting <br>Planet der Anfänger'
@@ -35,27 +66,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Max Kersting
-Planet der Anfänger
-
-----
-
 Uuid: 6wbQIWuwMr2GYiE5
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

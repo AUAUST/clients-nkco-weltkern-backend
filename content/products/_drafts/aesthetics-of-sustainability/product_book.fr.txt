@@ -1,3 +1,31 @@
+Title: Aesthetics of Sustainability
+
+----
+
+Multilinetitle: Aesthetics of Sustainability
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Aesthetics of Sustainability
@@ -59,24 +87,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Aesthetics of Sustainability
-
-----
-
 Uuid: 6ODJHkGaqLayQgXP
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

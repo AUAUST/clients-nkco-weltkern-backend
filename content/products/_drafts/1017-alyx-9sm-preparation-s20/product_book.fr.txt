@@ -1,3 +1,34 @@
+Title: 1017-ALYX-9SM|Preparation S20
+
+----
+
+Multilinetitle:
+
+1017-ALYX-9SM
+Preparation S20
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: '1017-ALYX-9SM <br>Preparation S20'
@@ -49,27 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-1017-ALYX-9SM
-Preparation S20
-
-----
-
 Uuid: T2As51RmWHDnrNnb
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

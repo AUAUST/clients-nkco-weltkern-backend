@@ -1,3 +1,34 @@
+Title: Against and for Method|Revisiting Architectural Design as Research
+
+----
+
+Multilinetitle:
+
+Against and for Method
+Revisiting Architectural Design as Research
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Against and for Method <br>Revisiting Architectural Design as Research'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Against and for Method
-Revisiting Architectural Design as Research
-
-----
-
 Uuid: vSM62M6pQnouLAH3
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

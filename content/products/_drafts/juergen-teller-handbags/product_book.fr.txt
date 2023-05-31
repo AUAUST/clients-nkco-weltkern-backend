@@ -1,3 +1,34 @@
+Title: Juergen Teller|Handbags
+
+----
+
+Multilinetitle:
+
+Juergen Teller
+Handbags
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Juergen Teller <br>Handbags'
@@ -42,27 +73,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Juergen Teller
-Handbags
-
-----
-
 Uuid: Ox5GPriZLC7QkBZC
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

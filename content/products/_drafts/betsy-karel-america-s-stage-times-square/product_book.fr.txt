@@ -1,3 +1,34 @@
+Title: Betsy Karel|America's Stage: Times Square
+
+----
+
+Multilinetitle:
+
+Betsy Karel
+America's Stage: Times Square
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: "Betsy Karel <br>America's Stage: Times Square"
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Betsy Karel
-America's Stage: Times Square
-
-----
-
 Uuid: rnaCxkLkT9lOqmqh
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Bettina Rheims
+
+----
+
+Multilinetitle: Bettina Rheims
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Bettina Rheims
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Bettina Rheims
-
-----
-
 Uuid: Da0md2YrzAbzFgMo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

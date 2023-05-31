@@ -1,3 +1,34 @@
+Title: Mathis Pfäffli|Tracer
+
+----
+
+Multilinetitle:
+
+Mathis Pfäffli
+Tracer
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mathis Pfäffli <br>Tracer'
@@ -52,27 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Mathis Pfäffli
-Tracer
-
-----
-
 Uuid: JT3i1l35AqD7Oc3I
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: John Lehr|The Island Position
+
+----
+
+Multilinetitle:
+
+John Lehr
+The Island Position
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'John Lehr <br>The Island Position'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-John Lehr
-The Island Position
-
-----
-
 Uuid: VPyXDm82ibtESYZx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

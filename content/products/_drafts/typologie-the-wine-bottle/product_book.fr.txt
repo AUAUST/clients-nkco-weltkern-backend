@@ -1,3 +1,34 @@
+Title: Typologie|The wine bottle
+
+----
+
+Multilinetitle:
+
+Typologie
+The wine bottle
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Typologie <br>The wine bottle'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Typologie
-The wine bottle
-
-----
-
 Uuid: WyXCdTh7vKPTNrdQ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

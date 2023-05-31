@@ -1,3 +1,34 @@
+Title: Tadao Ando|Recent Project 3
+
+----
+
+Multilinetitle:
+
+Tadao Ando
+Recent Project 3
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Tadao Ando <br>Recent Project 3'
@@ -40,27 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tadao Ando
-Recent Project 3
-
-----
-
 Uuid: gdJlhsQ7pcvpjO17
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Les oubliées
+
+----
+
+Multilinetitle: Les oubliées
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Les oubliées
@@ -41,24 +69,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Les oubliées
-
-----
-
 Uuid: u7cR8zBXBkbCpXvo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

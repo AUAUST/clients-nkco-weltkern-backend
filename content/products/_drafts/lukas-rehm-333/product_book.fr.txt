@@ -1,3 +1,34 @@
+Title: Lukas Rehm|333
+
+----
+
+Multilinetitle:
+
+Lukas Rehm
+333
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Lukas Rehm <br>333'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Lukas Rehm
-333
-
-----
-
 Uuid: cmNQVVOA6imBvKKt
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

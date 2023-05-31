@@ -1,3 +1,34 @@
+Title: Naoya Hatakeyama|Excavating the Future City
+
+----
+
+Multilinetitle:
+
+Naoya Hatakeyama
+Excavating the Future City
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Naoya Hatakeyama <br>Excavating the Future City'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Naoya Hatakeyama
-Excavating the Future City
-
-----
-
 Uuid: e3e7XKfFm2vtKv47
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

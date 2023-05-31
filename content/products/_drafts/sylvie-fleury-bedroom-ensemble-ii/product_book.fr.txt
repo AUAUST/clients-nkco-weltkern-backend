@@ -1,3 +1,34 @@
+Title: Sylvie Fleury|Bedroom Ensemble II
+
+----
+
+Multilinetitle:
+
+Sylvie Fleury
+Bedroom Ensemble II
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Sylvie Fleury <br>Bedroom Ensemble II'
@@ -42,27 +73,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Sylvie Fleury
-Bedroom Ensemble II
-
-----
-
 Uuid: 8N9cLqu2xnbx977D
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

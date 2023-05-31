@@ -1,3 +1,34 @@
+Title: Juergen Teller|Siegerflieger
+
+----
+
+Multilinetitle:
+
+Juergen Teller
+Siegerflieger
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Juergen Teller <br>Siegerflieger'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Juergen Teller
-Siegerflieger
-
-----
-
 Uuid: ZR6BGNEo2SOAUmGk
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

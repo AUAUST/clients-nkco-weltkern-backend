@@ -1,3 +1,34 @@
+Title: Grégoire Romanet|Hobby
+
+----
+
+Multilinetitle:
+
+Grégoire Romanet
+Hobby
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Grégoire Romanet <br>Hobby'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Grégoire Romanet
-Hobby
-
-----
-
 Uuid: iFyoB8NadBUQc4qE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

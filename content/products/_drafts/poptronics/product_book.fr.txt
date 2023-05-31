@@ -1,3 +1,31 @@
+Title: Poptronics
+
+----
+
+Multilinetitle: Poptronics
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Poptronics
@@ -34,24 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Poptronics
-
-----
-
 Uuid: ih2b8I1H6jznSTwr
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

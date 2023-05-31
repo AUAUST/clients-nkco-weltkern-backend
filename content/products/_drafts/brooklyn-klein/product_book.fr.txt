@@ -1,3 +1,31 @@
+Title: Brooklyn + Klein
+
+----
+
+Multilinetitle: Brooklyn + Klein
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Brooklyn + Klein
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Brooklyn + Klein
-
-----
-
 Uuid: Adw5GuJHYxcAawrx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: In Bloom
+
+----
+
+Multilinetitle: In Bloom
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: In Bloom
@@ -57,24 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: In Bloom
-
-----
-
 Uuid: NVia0yLEAigXF48D
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

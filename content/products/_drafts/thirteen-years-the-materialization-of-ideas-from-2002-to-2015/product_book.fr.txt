@@ -1,3 +1,34 @@
+Title: Thirteen Years|The Materialization of Ideas from 2002 to 2015
+
+----
+
+Multilinetitle:
+
+Thirteen Years
+The Materialization of Ideas from 2002 to 2015
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Thirteen Years <br>The Materialization of Ideas from 2002 to 2015'
@@ -63,27 +94,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Thirteen Years
-The Materialization of Ideas from 2002 to 2015
-
-----
-
 Uuid: gmBMc03I0oWkU7Nd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Less is More (Pink)
+
+----
+
+Multilinetitle: Less is More (Pink)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Less is More (Pink)
@@ -51,24 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Less is More (Pink)
-
-----
-
 Uuid: VhI4B0yB7vot0Tm7
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

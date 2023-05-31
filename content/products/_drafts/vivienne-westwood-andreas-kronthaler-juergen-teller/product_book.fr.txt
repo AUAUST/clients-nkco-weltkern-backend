@@ -1,3 +1,31 @@
+Title: Vivienne Westwood, Andreas Kronthaler, Juergen Teller
+
+----
+
+Multilinetitle: Vivienne Westwood, Andreas Kronthaler, Juergen Teller
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -47,24 +75,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Vivienne Westwood, Andreas Kronthaler, Juergen Teller
-
-----
-
 Uuid: RNJWHIyyCSm4lE3N
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Studio Cookbook II
+
+----
+
+Multilinetitle: Studio Cookbook II
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Studio Cookbook II
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Studio Cookbook II
-
-----
-
 Uuid: BqIkQqDERNRlHH5Q
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

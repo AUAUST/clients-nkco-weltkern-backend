@@ -1,3 +1,34 @@
+Title: Schramme am Himmel|Nachrichten vom Helden Hagen
+
+----
+
+Multilinetitle:
+
+Schramme am Himmel
+Nachrichten vom Helden Hagen
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Schramme am Himmel <br>Nachrichten vom Helden Hagen'
@@ -34,27 +65,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Schramme am Himmel
-Nachrichten vom Helden Hagen
-
-----
-
 Uuid: adYnxwHAQYPNAMF6
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

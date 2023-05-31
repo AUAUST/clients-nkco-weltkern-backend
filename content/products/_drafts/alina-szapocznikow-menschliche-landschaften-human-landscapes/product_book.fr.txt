@@ -1,3 +1,35 @@
+Title: Alina Szapocznikow|Menschliche Landschaften|Human Landscapes
+
+----
+
+Multilinetitle:
+
+Alina Szapocznikow
+Menschliche Landschaften
+Human Landscapes
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Alina Szapocznikow <br>Menschliche Landschaften <br>Human Landscapes'
@@ -70,28 +102,4 @@ tags:
 
 ----
 
-Multilinetitle:
-
-Alina Szapocznikow
-Menschliche Landschaften
-Human Landscapes
-
-----
-
 Uuid: R8Iu8pftPUsVtRWq
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Demonstration Rooms
+
+----
+
+Multilinetitle: Demonstration Rooms
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Demonstration Rooms
@@ -54,24 +82,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Demonstration Rooms
-
-----
-
 Uuid: SjVZvsnh3iE1DgMp
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

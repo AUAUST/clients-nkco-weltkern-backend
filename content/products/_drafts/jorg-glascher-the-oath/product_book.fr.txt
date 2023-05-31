@@ -1,3 +1,34 @@
+Title: Jörg Gläscher|The Oath
+
+----
+
+Multilinetitle:
+
+Jörg Gläscher
+The Oath
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Jörg Gläscher <br>The Oath'
@@ -36,27 +67,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Jörg Gläscher
-The Oath
-
-----
-
 Uuid: 2qhOXmX6coVtvC9E
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

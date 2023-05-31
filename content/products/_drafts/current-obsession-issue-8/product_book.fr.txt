@@ -1,3 +1,34 @@
+Title: Current Obsession|Issue 8
+
+----
+
+Multilinetitle:
+
+Current Obsession
+Issue 8
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Current Obsession <br>Issue 8'
@@ -42,27 +73,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Current Obsession
-Issue 8
-
-----
-
 Uuid: XMnLo1Azv9LxsyuI
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

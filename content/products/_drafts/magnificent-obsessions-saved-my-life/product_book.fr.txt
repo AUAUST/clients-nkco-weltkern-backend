@@ -1,3 +1,34 @@
+Title: Magnificent Obsessions|Saved My Life
+
+----
+
+Multilinetitle:
+
+Magnificent Obsessions
+Saved My Life
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Magnificent Obsessions <br>Saved My Life'
@@ -73,27 +104,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Magnificent Obsessions
-Saved My Life
-
-----
-
 Uuid: E4tC51nhFmzPl8YR
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

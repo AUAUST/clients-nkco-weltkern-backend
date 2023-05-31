@@ -1,3 +1,34 @@
+Title: Empathy Revisited:|Designs for more than one
+
+----
+
+Multilinetitle:
+
+Empathy Revisited:
+Designs for more than one
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Empathy Revisited: <br>Designs for more than one'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Empathy Revisited:
-Designs for more than one
-
-----
-
 Uuid: hj6xztjjaEWOH1Se
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

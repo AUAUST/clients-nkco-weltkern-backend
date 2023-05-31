@@ -1,3 +1,34 @@
+Title: Francis Alÿs|As Long as I'm Walking
+
+----
+
+Multilinetitle:
+
+Francis Alÿs
+As Long as I'm Walking
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: "Francis Alÿs <br>As Long as I'm Walking"
@@ -36,27 +67,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Francis Alÿs
-As Long as I'm Walking
-
-----
-
 Uuid: ypoiiYkDR7Xf9dRE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

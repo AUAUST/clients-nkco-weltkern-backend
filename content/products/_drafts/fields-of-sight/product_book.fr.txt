@@ -1,3 +1,31 @@
+Title: Fields of Sight
+
+----
+
+Multilinetitle: Fields of Sight
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Fields of Sight
@@ -68,24 +96,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Fields of Sight
-
-----
-
 Uuid: WVXYM3DtpszUShwB
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

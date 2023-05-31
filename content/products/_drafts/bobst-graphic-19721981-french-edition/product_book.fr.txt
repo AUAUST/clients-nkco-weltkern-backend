@@ -1,3 +1,34 @@
+Title: Bobst Graphic 1972–1981|French Edition
+
+----
+
+Multilinetitle:
+
+Bobst Graphic 1972–1981
+French Edition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Bobst Graphic 1972–1981 <br>French Edition'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Bobst Graphic 1972–1981
-French Edition
-
-----
-
 Uuid: Rky6BlEnn7nJxjku
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

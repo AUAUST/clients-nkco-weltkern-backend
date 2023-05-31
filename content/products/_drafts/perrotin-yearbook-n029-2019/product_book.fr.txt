@@ -1,3 +1,34 @@
+Title: Perrotin Yearbook|n°29 – 2019
+
+----
+
+Multilinetitle:
+
+Perrotin Yearbook
+n°29 – 2019
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Perrotin Yearbook <br>n°29 – 2019'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Perrotin Yearbook
-n°29 – 2019
-
-----
-
 Uuid: zYxgv0HNX2Jwsl1u
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

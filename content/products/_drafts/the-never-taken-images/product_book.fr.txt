@@ -1,3 +1,31 @@
+Title: The Never Taken Images
+
+----
+
+Multilinetitle: The Never Taken Images
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Never Taken Images
@@ -54,24 +82,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Never Taken Images
-
-----
-
 Uuid: 0uneljQvVL9t1anS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

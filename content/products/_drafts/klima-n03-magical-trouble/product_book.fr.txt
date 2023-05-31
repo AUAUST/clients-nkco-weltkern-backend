@@ -1,3 +1,34 @@
+Title: Klima n°3|Magical Trouble
+
+----
+
+Multilinetitle:
+
+Klima n°3
+Magical Trouble
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Klima n°3 <br>Magical Trouble'
@@ -68,27 +99,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Klima n°3
-Magical Trouble
-
-----
-
 Uuid: IDTYBu2Qmj7GPA9w
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

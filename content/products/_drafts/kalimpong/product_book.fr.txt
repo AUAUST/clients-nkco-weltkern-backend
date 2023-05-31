@@ -1,3 +1,31 @@
+Title: Kalimpong
+
+----
+
+Multilinetitle: Kalimpong
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Kalimpong
@@ -65,24 +93,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Kalimpong
-
-----
-
 Uuid: r25tJnGqDZlCcc83
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Wiel Arets|Bas Princen
+
+----
+
+Multilinetitle:
+
+Wiel Arets
+Bas Princen
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Wiel Arets <br>Bas Princen'
@@ -40,27 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Wiel Arets
-Bas Princen
-
-----
-
 Uuid: i0Ltvk55edYBOvqK
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Jenny Jenny
+
+----
+
+Multilinetitle: Jenny Jenny
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Jenny Jenny
@@ -50,24 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Jenny Jenny
-
-----
-
 Uuid: 6vAAxb9Ttm3EwdUN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

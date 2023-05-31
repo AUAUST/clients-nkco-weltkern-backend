@@ -1,3 +1,34 @@
+Title: Spazio Maiocchi Books|Darja Bajagić Sketchbooks
+
+----
+
+Multilinetitle:
+
+Spazio Maiocchi Books
+Darja Bajagić Sketchbooks
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Spazio Maiocchi Books <br>Darja Bajagić Sketchbooks'
@@ -47,27 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Spazio Maiocchi Books
-Darja Bajagić Sketchbooks
-
-----
-
 Uuid: U92wmojWwr9M8BqD
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

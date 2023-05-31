@@ -1,3 +1,31 @@
+Title: How it is... by Nicolas Burrows
+
+----
+
+Multilinetitle: How it is... by Nicolas Burrows
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: How it is... by Nicolas Burrows
@@ -31,24 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: How it is... by Nicolas Burrows
-
-----
-
 Uuid: C1Mjk6TqeD6VrebU
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

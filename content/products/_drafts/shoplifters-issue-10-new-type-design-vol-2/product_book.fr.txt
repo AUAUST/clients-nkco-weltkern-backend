@@ -1,3 +1,34 @@
+Title: Shoplifters Issue 10|New Type Design Vol.2
+
+----
+
+Multilinetitle:
+
+Shoplifters Issue 10
+New Type Design Vol.2
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Shoplifters Issue 10 <br>New Type Design Vol.2'
@@ -34,27 +65,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Shoplifters Issue 10
-New Type Design Vol.2
-
-----
-
 Uuid: yccmUW3Q2bLPVS1T
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

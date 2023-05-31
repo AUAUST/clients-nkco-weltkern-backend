@@ -1,3 +1,31 @@
+Title: Arbeiten & Wohnen
+
+----
+
+Multilinetitle: Arbeiten & Wohnen
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Arbeiten & Wohnen'
@@ -29,24 +57,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Arbeiten & Wohnen
-
-----
-
 Uuid: ZrEgEGXPVJ1OFEo1
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

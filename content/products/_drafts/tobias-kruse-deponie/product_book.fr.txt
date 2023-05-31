@@ -1,3 +1,34 @@
+Title: Tobias Kruse|Deponie
+
+----
+
+Multilinetitle:
+
+Tobias Kruse
+Deponie
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Tobias Kruse <br>Deponie'
@@ -51,27 +82,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tobias Kruse
-Deponie
-
-----
-
 Uuid: CpAImt2B5KCKd527
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

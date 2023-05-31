@@ -1,3 +1,31 @@
+Title: Empavillonner
+
+----
+
+Multilinetitle: Empavillonner
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Empavillonner
@@ -43,24 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Empavillonner
-
-----
-
 Uuid: rZlQN6atYXtKyx6x
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

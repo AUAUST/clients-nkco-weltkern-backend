@@ -1,3 +1,34 @@
+Title: Capsule #1|Mario Bellini Cover
+
+----
+
+Multilinetitle:
+
+Capsule #1
+Mario Bellini Cover
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Capsule #1 <br>Mario Bellini Cover'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Capsule #1
-Mario Bellini Cover
-
-----
-
 Uuid: u0n5K6y79blHcinB
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Paul Hutchinson|Pictures and Words
+
+----
+
+Multilinetitle:
+
+Paul Hutchinson
+Pictures and Words
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Paul Hutchinson <br>Pictures and Words'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Paul Hutchinson
-Pictures and Words
-
-----
-
 Uuid: 7GecJin8lLJgA4Iz
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

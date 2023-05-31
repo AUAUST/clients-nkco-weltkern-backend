@@ -1,3 +1,31 @@
+Title: Maison Martin Margiela
+
+----
+
+Multilinetitle: Maison Martin Margiela
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Maison Martin Margiela
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Maison Martin Margiela
-
-----
-
 Uuid: G2vvRXXDdfBafnZI
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

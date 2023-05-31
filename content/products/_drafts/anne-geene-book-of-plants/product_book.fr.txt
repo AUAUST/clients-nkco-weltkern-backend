@@ -1,3 +1,34 @@
+Title: Anne Geene|Book Of Plants
+
+----
+
+Multilinetitle:
+
+Anne Geene
+Book Of Plants
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Anne Geene <br>Book Of Plants'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Anne Geene
-Book Of Plants
-
-----
-
 Uuid: ou98b7ydYmoPejB1
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

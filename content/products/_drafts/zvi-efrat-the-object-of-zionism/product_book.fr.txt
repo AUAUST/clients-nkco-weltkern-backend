@@ -1,3 +1,34 @@
+Title: Zvi Efrat|The Object of Zionism
+
+----
+
+Multilinetitle:
+
+Zvi Efrat
+The Object of Zionism
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Zvi Efrat <br>The Object of Zionism'
@@ -50,27 +81,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Zvi Efrat
-The Object of Zionism
-
-----
-
 Uuid: qWfD4TJ5nomzze5I
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Samuel Hoppe|Zone Supérieure
+
+----
+
+Multilinetitle:
+
+Samuel Hoppe
+Zone Supérieure
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Samuel Hoppe <br>Zone Supérieure'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Samuel Hoppe
-Zone Supérieure
-
-----
-
 Uuid: 565uppFC5DvIcop5
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Gego|The Architecture of an Artist
+
+----
+
+Multilinetitle:
+
+Gego
+The Architecture of an Artist
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Gego <br>The Architecture of an Artist'
@@ -60,27 +91,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Gego
-The Architecture of an Artist
-
-----
-
 Uuid: R9hDIGUVq4eB2sRk
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

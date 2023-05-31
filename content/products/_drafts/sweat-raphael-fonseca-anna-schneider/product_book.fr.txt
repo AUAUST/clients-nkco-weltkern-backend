@@ -1,3 +1,34 @@
+Title: Sweat|Raphael Fonseca & Anna Schneider
+
+----
+
+Multilinetitle:
+
+Sweat
+Raphael Fonseca & Anna Schneider
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Sweat <br>Raphael Fonseca & Anna Schneider'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Sweat
-Raphael Fonseca & Anna Schneider
-
-----
-
 Uuid: 2Dvp2LyoQzSxHvgn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

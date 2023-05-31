@@ -1,3 +1,31 @@
+Title: The Living Exhibition
+
+----
+
+Multilinetitle: The Living Exhibition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Living Exhibition
@@ -64,24 +92,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Living Exhibition
-
-----
-
 Uuid: psLAA4h3ryZGrzTx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

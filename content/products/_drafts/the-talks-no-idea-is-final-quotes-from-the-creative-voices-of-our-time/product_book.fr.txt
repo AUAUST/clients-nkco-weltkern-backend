@@ -1,3 +1,34 @@
+Title: The Talks – No Idea Is Final|Quotes from the Creative Voices of our Time
+
+----
+
+Multilinetitle:
+
+The Talks – No Idea Is Final
+Quotes from the Creative Voices of our Time
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'The Talks – No Idea Is Final <br>Quotes from the Creative Voices of our Time'
@@ -40,27 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-The Talks – No Idea Is Final
-Quotes from the Creative Voices of our Time
-
-----
-
 Uuid: IVRhaFdEigejrO1l
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

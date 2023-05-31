@@ -1,3 +1,31 @@
+Title: 9 Artists
+
+----
+
+Multilinetitle: 9 Artists
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 9 Artists
@@ -32,24 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: 9 Artists
-
-----
-
 Uuid: K3dEsHm2XDtlNLK1
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

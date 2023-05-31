@@ -1,3 +1,31 @@
+Title: National Letters
+
+----
+
+Multilinetitle: National Letters
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: National Letters
@@ -84,24 +112,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: National Letters
-
-----
-
 Uuid: FB9SvLofBmvtN2Ib
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

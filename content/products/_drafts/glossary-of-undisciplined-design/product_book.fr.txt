@@ -1,3 +1,31 @@
+Title: Glossary of Undisciplined Design
+
+----
+
+Multilinetitle: Glossary of Undisciplined Design
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Glossary of Undisciplined Design
@@ -78,24 +106,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Glossary of Undisciplined Design
-
-----
-
 Uuid: 9YmowlgyvLJ4PQoo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

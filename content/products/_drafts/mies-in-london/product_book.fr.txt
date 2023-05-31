@@ -1,3 +1,31 @@
+Title: Mies In London
+
+----
+
+Multilinetitle: Mies In London
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Mies In London
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Mies In London
-
-----
-
 Uuid: DTw9TPpMwpqcf7So
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

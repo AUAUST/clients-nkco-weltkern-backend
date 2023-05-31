@@ -1,3 +1,34 @@
+Title: Marcus Sendlinger|Phantom Ride
+
+----
+
+Multilinetitle:
+
+Marcus Sendlinger
+Phantom Ride
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Marcus Sendlinger <br>Phantom Ride'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Marcus Sendlinger
-Phantom Ride
-
-----
-
 Uuid: ziCRAxMG6jrSXmYn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

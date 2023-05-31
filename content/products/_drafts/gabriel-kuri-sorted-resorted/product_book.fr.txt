@@ -1,3 +1,34 @@
+Title: Gabriel Kuri|Sorted, Resorted
+
+----
+
+Multilinetitle:
+
+Gabriel Kuri
+Sorted, Resorted
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Gabriel Kuri <br>Sorted, Resorted'
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Gabriel Kuri
-Sorted, Resorted
-
-----
-
 Uuid: QRlnCjARCmx68PAc
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

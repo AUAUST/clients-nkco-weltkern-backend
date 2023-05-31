@@ -1,3 +1,34 @@
+Title: Fischerspooner|Egos
+
+----
+
+Multilinetitle:
+
+Fischerspooner
+Egos
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Fischerspooner <br>Egos'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Fischerspooner
-Egos
-
-----
-
 Uuid: fh5eqUrS8ZePxkic
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

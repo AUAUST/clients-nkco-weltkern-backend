@@ -1,3 +1,31 @@
+Title: Leipzig Hauptbahnhof 1981/82
+
+----
+
+Multilinetitle: Leipzig Hauptbahnhof 1981/82
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Leipzig Hauptbahnhof 1981/82
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Leipzig Hauptbahnhof 1981/82
-
-----
-
 Uuid: WgUm0EqLlIIkpErU
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

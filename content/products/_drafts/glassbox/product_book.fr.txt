@@ -1,3 +1,31 @@
+Title: Glassbox
+
+----
+
+Multilinetitle: Glassbox
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Glassbox
@@ -36,24 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Glassbox
-
-----
-
 Uuid: p5zyyVANzh86pGuX
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

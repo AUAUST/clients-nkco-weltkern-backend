@@ -1,3 +1,34 @@
+Title: Charlotte Dumas|Ao (Blue)
+
+----
+
+Multilinetitle:
+
+Charlotte Dumas
+Ao (Blue)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Charlotte Dumas <br>Ao (Blue)'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Charlotte Dumas
-Ao (Blue)
-
-----
-
 Uuid: K5Q8zq6wa7jVi9MD
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

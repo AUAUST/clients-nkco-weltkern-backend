@@ -1,3 +1,34 @@
+Title: Sibylle Eimermacher|A Guide Through Hue
+
+----
+
+Multilinetitle:
+
+Sibylle Eimermacher
+A Guide Through Hue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Sibylle Eimermacher <br>A Guide Through Hue'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Sibylle Eimermacher
-A Guide Through Hue
-
-----
-
 Uuid: 3xwEgn7TEqkmbG2Y
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

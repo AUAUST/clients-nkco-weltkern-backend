@@ -1,3 +1,31 @@
+Title: Das leichte Haus
+
+----
+
+Multilinetitle: Das leichte Haus
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Das leichte Haus
@@ -73,24 +101,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Das leichte Haus
-
-----
-
 Uuid: 5FyOafUkcah80SlS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

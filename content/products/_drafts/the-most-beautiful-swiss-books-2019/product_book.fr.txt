@@ -1,3 +1,31 @@
+Title: The Most Beautiful Swiss Books 2019
+
+----
+
+Multilinetitle: The Most Beautiful Swiss Books 2019
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Most Beautiful Swiss Books 2019
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Most Beautiful Swiss Books 2019
-
-----
-
 Uuid: ZDSHtCOXs2bIbWu0
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

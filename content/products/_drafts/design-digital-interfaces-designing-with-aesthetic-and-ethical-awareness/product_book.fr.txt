@@ -1,3 +1,34 @@
+Title: Design & Digital Interfaces|Designing With Aesthetic and Ethical Awareness
+
+----
+
+Multilinetitle:
+
+Design & Digital Interfaces
+Designing With Aesthetic and Ethical Awareness
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Design & Digital Interfaces <br>Designing With Aesthetic and Ethical Awareness'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Design & Digital Interfaces
-Designing With Aesthetic and Ethical Awareness
-
-----
-
 Uuid: Zo5c4OCJdj93XLL8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,35 @@
+Title: Carlos Martí Arís|Les variations de l’identité.|Le type en architecture.
+
+----
+
+Multilinetitle:
+
+Carlos Martí Arís
+Les variations de l’identité.
+Le type en architecture.
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Carlos Martí Arís <br>Les variations de l’identité. <br>Le type en architecture.'
@@ -55,28 +87,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Carlos Martí Arís
-Les variations de l’identité.
-Le type en architecture.
-
-----
-
 Uuid: KhcjUxa3CDSlv0Bd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

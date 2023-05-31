@@ -1,3 +1,34 @@
+Title: A Team With No Sport|Virgil Abloh Pyrex Vision Flip Book
+
+----
+
+Multilinetitle:
+
+A Team With No Sport
+Virgil Abloh Pyrex Vision Flip Book
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'A Team With No Sport <br>Virgil Abloh Pyrex Vision Flip Book'
@@ -52,27 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-A Team With No Sport
-Virgil Abloh Pyrex Vision Flip Book
-
-----
-
 Uuid: LGeU0q9r7AFsDmET
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

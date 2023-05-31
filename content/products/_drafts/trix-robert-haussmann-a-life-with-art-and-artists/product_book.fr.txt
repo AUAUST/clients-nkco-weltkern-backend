@@ -1,3 +1,34 @@
+Title: Trix + Robert Haussmann|A Life with Art and Artists
+
+----
+
+Multilinetitle:
+
+Trix + Robert Haussmann
+A Life with Art and Artists
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Trix + Robert Haussmann <br>A Life with Art and Artists'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Trix + Robert Haussmann
-A Life with Art and Artists
-
-----
-
 Uuid: HWE2vzkz8Aam5f96
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

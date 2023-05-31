@@ -1,3 +1,34 @@
+Title: Shiro Kuramata|Deyan Sudjic
+
+----
+
+Multilinetitle:
+
+Shiro Kuramata
+Deyan Sudjic
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Shiro Kuramata <br>Deyan Sudjic'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Shiro Kuramata
-Deyan Sudjic
-
-----
-
 Uuid: MfWckcuPfynmZr5S
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

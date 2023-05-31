@@ -1,3 +1,34 @@
+Title: Richard Kägi|Kägi kocht
+
+----
+
+Multilinetitle:
+
+Richard Kägi
+Kägi kocht
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Richard Kägi <br>Kägi kocht'
@@ -71,27 +102,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Richard Kägi
-Kägi kocht
-
-----
-
 Uuid: jiO4wS7WI7KCa3RY
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

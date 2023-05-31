@@ -1,3 +1,34 @@
+Title: Juergen Teller|Donkey Man and Other Stories
+
+----
+
+Multilinetitle:
+
+Juergen Teller
+Donkey Man and Other Stories
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Juergen Teller <br>Donkey Man and Other Stories'
@@ -34,27 +65,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Juergen Teller
-Donkey Man and Other Stories
-
-----
-
 Uuid: i4FLPSTd6skZ5AvJ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

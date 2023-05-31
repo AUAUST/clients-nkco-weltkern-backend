@@ -1,3 +1,34 @@
+Title: Nike|Better is Temporary
+
+----
+
+Multilinetitle:
+
+Nike
+Better is Temporary
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Nike <br>Better is Temporary'
@@ -68,27 +99,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Nike
-Better is Temporary
-
-----
-
 Uuid: NsMVRDud7sJUre8y
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

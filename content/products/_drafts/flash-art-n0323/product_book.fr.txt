@@ -1,3 +1,31 @@
+Title: Flash Art n°323
+
+----
+
+Multilinetitle: Flash Art n°323
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Flash Art n°323
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Flash Art n°323
-
-----
-
 Uuid: fVspXiEe7N9MVGeE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

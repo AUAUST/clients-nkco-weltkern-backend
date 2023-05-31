@@ -1,3 +1,34 @@
+Title: Erik Brunetti|Oval Parody
+
+----
+
+Multilinetitle:
+
+Erik Brunetti
+Oval Parody
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Erik Brunetti <br>Oval Parody'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Erik Brunetti
-Oval Parody
-
-----
-
 Uuid: TlWYk5LKG1nbLoZo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

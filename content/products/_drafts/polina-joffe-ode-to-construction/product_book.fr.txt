@@ -1,3 +1,34 @@
+Title: Polina Joffe|Ode to Construction
+
+----
+
+Multilinetitle:
+
+Polina Joffe
+Ode to Construction
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Polina Joffe <br>Ode to Construction'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Polina Joffe
-Ode to Construction
-
-----
-
 Uuid: 8xZ1dgTByiKl0ATZ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

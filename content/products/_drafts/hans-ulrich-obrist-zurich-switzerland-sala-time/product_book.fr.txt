@@ -1,3 +1,34 @@
+Title: Hans Ulrich Obrist (Zurich, Switzerland)|Sala Time
+
+----
+
+Multilinetitle:
+
+Hans Ulrich Obrist (Zurich, Switzerland)
+Sala Time
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Hans Ulrich Obrist (Zurich, Switzerland) <br>Sala Time'
@@ -39,27 +70,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Hans Ulrich Obrist (Zurich, Switzerland)
-Sala Time
-
-----
-
 Uuid: VTD6O8UNTZyvRkvc
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

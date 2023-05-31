@@ -1,3 +1,31 @@
+Title: YEEZY Season 3–4 Zine
+
+----
+
+Multilinetitle: YEEZY Season 3–4 Zine
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: YEEZY Season 3–4 Zine
@@ -47,24 +75,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: YEEZY Season 3–4 Zine
-
-----
-
 Uuid: xS7jB2ctQnj4MZxo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Jong Won Rhee|Solitudes of Human Places
+
+----
+
+Multilinetitle:
+
+Jong Won Rhee
+Solitudes of Human Places
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Jong Won Rhee <br>Solitudes of Human Places'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Jong Won Rhee
-Solitudes of Human Places
-
-----
-
 Uuid: eirDHqoshZEK4BKt
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

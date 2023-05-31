@@ -1,3 +1,34 @@
+Title: Geert Goiris|2020
+
+----
+
+Multilinetitle:
+
+Geert Goiris
+2020
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Geert Goiris <br>2020'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Geert Goiris
-2020
-
-----
-
 Uuid: QvgO50tzM2ApNWAa
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

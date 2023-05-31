@@ -1,3 +1,34 @@
+Title: Barbara Kruger|Thinking of You. I Mean Me. I Mean You
+
+----
+
+Multilinetitle:
+
+Barbara Kruger
+Thinking of You. I Mean Me. I Mean You
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Barbara Kruger <br>Thinking of You. I Mean Me. I Mean You'
@@ -56,27 +87,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Barbara Kruger
-Thinking of You. I Mean Me. I Mean You
-
-----
-
 Uuid: X6gMESIc4eBej08N
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

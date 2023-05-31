@@ -1,3 +1,34 @@
+Title: Art Basel|Year 50
+
+----
+
+Multilinetitle:
+
+Art Basel
+Year 50
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Art Basel <br>Year 50'
@@ -39,27 +70,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Art Basel
-Year 50
-
-----
-
 Uuid: fQOT56Vw5kfaAZyj
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

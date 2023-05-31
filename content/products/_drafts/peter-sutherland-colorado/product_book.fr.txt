@@ -1,3 +1,34 @@
+Title: Peter Sutherland|Colorado
+
+----
+
+Multilinetitle:
+
+Peter Sutherland
+Colorado
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Peter Sutherland <br>Colorado'
@@ -69,27 +100,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Peter Sutherland
-Colorado
-
-----
-
 Uuid: 6M9pI1rAL8u8c4Ca
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

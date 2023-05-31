@@ -1,3 +1,34 @@
+Title: George Orwell|Politics and the English Language
+
+----
+
+Multilinetitle:
+
+George Orwell
+Politics and the English Language
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'George Orwell <br>Politics and the English Language'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-George Orwell
-Politics and the English Language
-
-----
-
 Uuid: PEZp2Q42cBa2aFok
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

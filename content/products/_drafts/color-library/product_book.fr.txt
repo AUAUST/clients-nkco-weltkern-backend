@@ -1,3 +1,31 @@
+Title: Color Library
+
+----
+
+Multilinetitle: Color Library
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Color Library
@@ -55,24 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Color Library
-
-----
-
 Uuid: kZNOYPdrk8VAHUXE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

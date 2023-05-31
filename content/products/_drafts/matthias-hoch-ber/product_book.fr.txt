@@ -1,3 +1,34 @@
+Title: Matthias Hoch|BER
+
+----
+
+Multilinetitle:
+
+Matthias Hoch
+BER
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Matthias Hoch <br>BER'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Matthias Hoch
-BER
-
-----
-
 Uuid: SFjDNZsA85u2eFwV
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

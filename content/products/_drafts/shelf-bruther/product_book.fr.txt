@@ -1,3 +1,31 @@
+Title: Shelf Bruther
+
+----
+
+Multilinetitle: Shelf Bruther
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Shelf Bruther
@@ -61,24 +89,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Shelf Bruther
-
-----
-
 Uuid: fQOGRBN1mnXO5u2S
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

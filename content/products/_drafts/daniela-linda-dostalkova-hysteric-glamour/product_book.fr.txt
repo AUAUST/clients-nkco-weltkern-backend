@@ -1,3 +1,34 @@
+Title: Daniela & Linda Dostálková|Hysteric Glamour
+
+----
+
+Multilinetitle:
+
+Daniela & Linda Dostálková
+Hysteric Glamour
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Daniela & Linda Dostálková <br>Hysteric Glamour'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Daniela & Linda Dostálková
-Hysteric Glamour
-
-----
-
 Uuid: jIni9CLf0MpvehRi
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

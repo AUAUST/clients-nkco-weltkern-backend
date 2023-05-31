@@ -1,3 +1,34 @@
+Title: Michael Müller|Schwierige Bilder
+
+----
+
+Multilinetitle:
+
+Michael Müller
+Schwierige Bilder
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Michael Müller <br>Schwierige Bilder'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Michael Müller
-Schwierige Bilder
-
-----
-
 Uuid: 1BlGrcP5E6U4eJR6
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

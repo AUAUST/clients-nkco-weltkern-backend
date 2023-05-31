@@ -1,3 +1,34 @@
+Title: The Swiss National Bank|in Zurich
+
+----
+
+Multilinetitle:
+
+The Swiss National Bank
+in Zurich
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'The Swiss National Bank <br>in Zurich'
@@ -55,27 +86,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-The Swiss National Bank
-in Zurich
-
-----
-
 Uuid: jz67yl3ZM2TWmsyt
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

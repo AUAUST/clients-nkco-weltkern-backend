@@ -1,3 +1,31 @@
+Title: Forever Everett
+
+----
+
+Multilinetitle: Forever Everett
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Forever Everett
@@ -93,24 +121,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Forever Everett
-
-----
-
 Uuid: iWNjHpHUJumFX5f2
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

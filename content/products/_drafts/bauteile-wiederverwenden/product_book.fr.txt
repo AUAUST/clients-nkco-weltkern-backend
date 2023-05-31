@@ -1,3 +1,31 @@
+Title: Bauteile wiederverwenden
+
+----
+
+Multilinetitle: Bauteile wiederverwenden
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Bauteile wiederverwenden
@@ -33,24 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Bauteile wiederverwenden
-
-----
-
 Uuid: pa3XSh7OD0oFCnmS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

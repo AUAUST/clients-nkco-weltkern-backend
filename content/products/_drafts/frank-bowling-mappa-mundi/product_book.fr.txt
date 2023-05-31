@@ -1,3 +1,34 @@
+Title: Frank Bowling|Mappa Mundi
+
+----
+
+Multilinetitle:
+
+Frank Bowling
+Mappa Mundi
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Frank Bowling <br>Mappa Mundi'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Frank Bowling
-Mappa Mundi
-
-----
-
 Uuid: P2NbBL261DgazjhH
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

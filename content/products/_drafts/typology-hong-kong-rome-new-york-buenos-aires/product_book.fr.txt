@@ -1,3 +1,34 @@
+Title: Typology|Hong Kong, Rome, New York, Buenos Aires
+
+----
+
+Multilinetitle:
+
+Typology
+Hong Kong, Rome, New York, Buenos Aires
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Typology <br>Hong Kong, Rome, New York, Buenos Aires'
@@ -55,27 +86,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Typology
-Hong Kong, Rome, New York, Buenos Aires
-
-----
-
 Uuid: 7mI3bdkhXe5zghBi
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Donald Judd|Paintings
+
+----
+
+Multilinetitle:
+
+Donald Judd
+Paintings
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Donald Judd <br>Paintings'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Donald Judd
-Paintings
-
-----
-
 Uuid: so8tHGcDUG62Y5CM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

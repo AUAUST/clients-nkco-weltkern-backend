@@ -1,3 +1,31 @@
+Title: Heads Together >brbr
+
+----
+
+Multilinetitle: Heads Together >brbr
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Heads Together >br<Weed and the >br<Underground Press Syndicate'
@@ -70,24 +98,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Heads Together >brbr
-
-----
-
 Uuid: HkKll65pmF4JJrTR
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

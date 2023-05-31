@@ -1,3 +1,34 @@
+Title: Thierry Chancogne|Le Gobelet de cristal
+
+----
+
+Multilinetitle:
+
+Thierry Chancogne
+Le Gobelet de cristal
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Thierry Chancogne <br>Le Gobelet de cristal'
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Thierry Chancogne
-Le Gobelet de cristal
-
-----
-
 Uuid: NTmmdFsjYUPegwN0
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

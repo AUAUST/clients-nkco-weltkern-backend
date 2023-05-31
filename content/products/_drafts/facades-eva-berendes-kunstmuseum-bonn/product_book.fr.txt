@@ -1,3 +1,34 @@
+Title: Façades|Eva Berendes/Kunstmuseum Bonn
+
+----
+
+Multilinetitle:
+
+Façades
+Eva Berendes/Kunstmuseum Bonn
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Façades <br>Eva Berendes/Kunstmuseum Bonn'
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Façades
-Eva Berendes/Kunstmuseum Bonn
-
-----
-
 Uuid: agkq7tdpc7ekXwrM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

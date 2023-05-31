@@ -1,3 +1,34 @@
+Title: Kazumichi Maruoka|Death
+
+----
+
+Multilinetitle:
+
+Kazumichi Maruoka
+Death
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Kazumichi Maruoka <br>Death'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Kazumichi Maruoka
-Death
-
-----
-
 Uuid: UWU5oWzBKv8IFBgY
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

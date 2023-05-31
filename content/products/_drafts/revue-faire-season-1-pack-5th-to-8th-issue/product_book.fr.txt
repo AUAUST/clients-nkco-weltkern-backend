@@ -1,3 +1,34 @@
+Title: Revue Faire|Season 1 Pack: 5th to 8th issue
+
+----
+
+Multilinetitle:
+
+Revue Faire
+Season 1 Pack: 5th to 8th issue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Revue Faire <br>Season 1 Pack: 5th to 8th issue'
@@ -79,27 +110,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Revue Faire
-Season 1 Pack: 5th to 8th issue
-
-----
-
 Uuid: bqpnMtyGOFvDewS5
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

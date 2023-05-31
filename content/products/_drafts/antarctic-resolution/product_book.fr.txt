@@ -1,3 +1,31 @@
+Title: Antarctic Resolution
+
+----
+
+Multilinetitle: Antarctic Resolution
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Antarctic Resolution
@@ -35,24 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Antarctic Resolution
-
-----
-
 Uuid: XcQg6UFJjfJhy0v9
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Virgil Abloh™|Nike® ICONS
+
+----
+
+Multilinetitle:
+
+Virgil Abloh™
+Nike® ICONS
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Virgil Abloh™ <br>Nike® ICONS'
@@ -74,27 +105,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Virgil Abloh™
-Nike® ICONS
-
-----
-
 Uuid: 6wknZzmTIKkzG3In
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

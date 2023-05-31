@@ -1,3 +1,31 @@
+Title: How Will We Plan And Build In The Future?
+
+----
+
+Multilinetitle: How Will We Plan And Build In The Future?
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -38,24 +66,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: How Will We Plan And Build In The Future?
-
-----
-
 Uuid: xTdq5Iphb9IU80FS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

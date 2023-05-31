@@ -1,3 +1,31 @@
+Title: New Material Award 2009–2018
+
+----
+
+Multilinetitle: New Material Award 2009–2018
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: New Material Award 2009–2018
@@ -27,24 +55,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: New Material Award 2009–2018
-
-----
-
 Uuid: 2dbLne90K9q4CtnL
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

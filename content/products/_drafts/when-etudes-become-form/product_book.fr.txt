@@ -1,3 +1,31 @@
+Title: When Études Become Form
+
+----
+
+Multilinetitle: When Études Become Form
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: When Études Become Form
@@ -60,24 +88,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: When Études Become Form
-
-----
-
 Uuid: EkysfKsPfWJUhuwt
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

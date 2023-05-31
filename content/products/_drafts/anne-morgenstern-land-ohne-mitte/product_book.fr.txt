@@ -1,3 +1,34 @@
+Title: Anne Morgenstern|Land ohne Mitte
+
+----
+
+Multilinetitle:
+
+Anne Morgenstern
+Land ohne Mitte
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Anne Morgenstern <br>Land ohne Mitte'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Anne Morgenstern
-Land ohne Mitte
-
-----
-
 Uuid: hK7XwzTR9imssQhR
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

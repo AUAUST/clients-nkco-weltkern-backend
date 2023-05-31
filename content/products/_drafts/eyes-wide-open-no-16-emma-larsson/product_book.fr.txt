@@ -1,3 +1,34 @@
+Title: Eyes Wide Open No.16|Emma Larsson
+
+----
+
+Multilinetitle:
+
+Eyes Wide Open No.16
+Emma Larsson
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Eyes Wide Open No.16 <br>Emma Larsson'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Eyes Wide Open No.16
-Emma Larsson
-
-----
-
 Uuid: bl8upSz4aQF2i04u
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

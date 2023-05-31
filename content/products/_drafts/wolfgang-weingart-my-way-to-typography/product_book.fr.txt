@@ -1,3 +1,34 @@
+Title: Wolfgang Weingart|My Way to Typography
+
+----
+
+Multilinetitle:
+
+Wolfgang Weingart
+My Way to Typography
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Wolfgang Weingart <br>My Way to Typography'
@@ -40,27 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Wolfgang Weingart
-My Way to Typography
-
-----
-
 Uuid: iaPmmzGU0Wbqy5zE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

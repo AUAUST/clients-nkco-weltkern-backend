@@ -1,3 +1,34 @@
+Title: Barry McGee|Fuzz Gathering
+
+----
+
+Multilinetitle:
+
+Barry McGee
+Fuzz Gathering
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Barry McGee <br>Fuzz Gathering'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Barry McGee
-Fuzz Gathering
-
-----
-
 Uuid: NdaGTt988efi0Lyf
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: KALEIDOSCOPE #37 FW20-21|Cover: S.R. Studio. LA. CA
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #37 FW20-21
+Cover: S.R. Studio. LA. CA
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #37 FW20-21 <br>Cover: S.R. Studio. LA. CA'
@@ -135,27 +166,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-KALEIDOSCOPE #37 FW20-21
-Cover: S.R. Studio. LA. CA
-
-----
-
 Uuid: OH8LKLgBicyG2z7v
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

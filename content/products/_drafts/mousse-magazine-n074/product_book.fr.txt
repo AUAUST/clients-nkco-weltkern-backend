@@ -1,3 +1,31 @@
+Title: Mousse magazine n°74
+
+----
+
+Multilinetitle: Mousse magazine n°74
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Mousse magazine n°74
@@ -44,24 +72,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Mousse magazine n°74
-
-----
-
 Uuid: s954ovz7Mk2ZpBHF
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

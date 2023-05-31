@@ -1,3 +1,34 @@
+Title: Revue Faire|Season 1 Pack: 13th to 15th issue
+
+----
+
+Multilinetitle:
+
+Revue Faire
+Season 1 Pack: 13th to 15th issue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Revue Faire <br>Season 1 Pack: 13th to 15th issue'
@@ -75,27 +106,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Revue Faire
-Season 1 Pack: 13th to 15th issue
-
-----
-
 Uuid: LSsgvuWDj6lysEmB
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

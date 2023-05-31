@@ -1,3 +1,34 @@
+Title: Lars Dyrendom|American Sights
+
+----
+
+Multilinetitle:
+
+Lars Dyrendom
+American Sights
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Lars Dyrendom <br>American Sights'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Lars Dyrendom
-American Sights
-
-----
-
 Uuid: bbxiwNIiyuYMuxHu
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

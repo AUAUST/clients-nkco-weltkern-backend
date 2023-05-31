@@ -1,3 +1,31 @@
+Title: all the lonely people
+
+----
+
+Multilinetitle: all the lonely people
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: all the lonely people
@@ -35,24 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: all the lonely people
-
-----
-
 Uuid: PK26eaQs3vBpyYKL
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

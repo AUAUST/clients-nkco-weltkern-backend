@@ -1,3 +1,31 @@
+Title: Retail Apocalypse
+
+----
+
+Multilinetitle: Retail Apocalypse
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Retail Apocalypse
@@ -34,24 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Retail Apocalypse
-
-----
-
 Uuid: AbLlzqB2BZG84lwC
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

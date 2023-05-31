@@ -1,3 +1,34 @@
+Title: Carlo Mollino|Architect and Storyteller
+
+----
+
+Multilinetitle:
+
+Carlo Mollino
+Architect and Storyteller
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Carlo Mollino <br>Architect and Storyteller'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Carlo Mollino
-Architect and Storyteller
-
-----
-
 Uuid: Z0V6uCMbf4Dh00we
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

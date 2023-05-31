@@ -1,3 +1,31 @@
+Title: Imeldific
+
+----
+
+Multilinetitle: Imeldific
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Imeldific
@@ -65,24 +93,4 @@ tags:
 
 ----
 
-Multilinetitle: Imeldific
-
-----
-
 Uuid: P06LD7jXNYc1MOvV
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

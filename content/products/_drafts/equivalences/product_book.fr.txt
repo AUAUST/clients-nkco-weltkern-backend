@@ -1,3 +1,31 @@
+Title: Equivalences
+
+----
+
+Multilinetitle: Equivalences
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Equivalences
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Equivalences
-
-----
-
 Uuid: X0QkGlqm9O5M9VSL
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

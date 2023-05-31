@@ -1,3 +1,34 @@
+Title: Iouri Podladtchikov|Brand New Songs
+
+----
+
+Multilinetitle:
+
+Iouri Podladtchikov
+Brand New Songs
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Iouri Podladtchikov <br>Brand New Songs'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Iouri Podladtchikov
-Brand New Songs
-
-----
-
 Uuid: NAmsTNCyeg5XQI1g
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

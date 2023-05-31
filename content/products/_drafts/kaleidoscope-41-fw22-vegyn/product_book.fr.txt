@@ -1,3 +1,34 @@
+Title: KALEIDOSCOPE #41 FW22|Vegyn
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #41 FW22
+Vegyn
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #41 FW22 <br>Vegyn'
@@ -78,27 +109,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-KALEIDOSCOPE #41 FW22
-Vegyn
-
-----
-
 Uuid: VyO7WdaLX1qza2F7
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

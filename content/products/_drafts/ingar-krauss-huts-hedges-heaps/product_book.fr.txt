@@ -1,3 +1,34 @@
+Title: Ingar Krauss|Huts Hedges Heaps
+
+----
+
+Multilinetitle:
+
+Ingar Krauss
+Huts Hedges Heaps
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ingar Krauss <br>Huts Hedges Heaps'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ingar Krauss
-Huts Hedges Heaps
-
-----
-
 Uuid: uDrjgOXVS2C9MxWs
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

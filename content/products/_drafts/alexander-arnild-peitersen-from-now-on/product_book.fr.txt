@@ -1,3 +1,34 @@
+Title: Alexander Arnild Peitersen|From Now On
+
+----
+
+Multilinetitle:
+
+Alexander Arnild Peitersen
+From Now On
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Alexander Arnild Peitersen <br>From Now On'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Alexander Arnild Peitersen
-From Now On
-
-----
-
 Uuid: Iqj5qLwQTFs7bwcy
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

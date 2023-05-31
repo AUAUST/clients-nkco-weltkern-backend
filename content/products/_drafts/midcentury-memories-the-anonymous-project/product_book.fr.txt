@@ -1,3 +1,34 @@
+Title: Midcentury Memories|The Anonymous Project
+
+----
+
+Multilinetitle:
+
+Midcentury Memories
+The Anonymous Project
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Midcentury Memories <br>The Anonymous Project'
@@ -57,27 +88,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Midcentury Memories
-The Anonymous Project
-
-----
-
 Uuid: DEiXUgqtDacHi51y
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: The Wood That Makes Our Cities
+
+----
+
+Multilinetitle: The Wood That Makes Our Cities
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Wood That Makes Our Cities
@@ -31,24 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Wood That Makes Our Cities
-
-----
-
 Uuid: 8Ayc7BXXnLqM38Qt
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

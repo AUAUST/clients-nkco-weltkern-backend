@@ -1,3 +1,34 @@
+Title: Guido Guidi & Gerry Johansson|Verso Nord
+
+----
+
+Multilinetitle:
+
+Guido Guidi & Gerry Johansson
+Verso Nord
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Guido Guidi & Gerry Johansson <br>Verso Nord'
@@ -34,27 +65,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Guido Guidi & Gerry Johansson
-Verso Nord
-
-----
-
 Uuid: gd1xj2X23W1MEovI
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Giorgio di Noto|The Iceberg
+
+----
+
+Multilinetitle:
+
+Giorgio di Noto
+The Iceberg
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Giorgio di Noto <br>The Iceberg'
@@ -52,27 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Giorgio di Noto
-The Iceberg
-
-----
-
 Uuid: ZCUdbCDsIINzykM2
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

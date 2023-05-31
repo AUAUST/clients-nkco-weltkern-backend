@@ -1,3 +1,34 @@
+Title: Jiří Makovec|From… To…
+
+----
+
+Multilinetitle:
+
+Jiří Makovec
+From… To…
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Jiří Makovec <br>From… To…'
@@ -48,27 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Jiří Makovec
-From… To…
-
-----
-
 Uuid: 1sWZK4kkSGX5El4r
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: La Troisième Vie d’Agnès Varda
+
+----
+
+Multilinetitle: La Troisième Vie d’Agnès Varda
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: La Troisième Vie d’Agnès Varda
@@ -61,24 +89,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: La Troisième Vie d’Agnès Varda
-
-----
-
 Uuid: 1pLEtNPvs7OFuia8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Swiss Design Awards 2016
+
+----
+
+Multilinetitle: Swiss Design Awards 2016
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Swiss Design Awards 2016
@@ -43,24 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Swiss Design Awards 2016
-
-----
-
 Uuid: swFTo8f9aVakZ6eN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

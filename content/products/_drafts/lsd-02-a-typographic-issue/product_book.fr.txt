@@ -1,3 +1,34 @@
+Title: LSD #02|A Typographic Issue
+
+----
+
+Multilinetitle:
+
+LSD #02
+A Typographic Issue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'LSD #02 <br>A Typographic Issue'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-LSD #02
-A Typographic Issue
-
-----
-
 Uuid: BoRku9ODaBSKAptd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

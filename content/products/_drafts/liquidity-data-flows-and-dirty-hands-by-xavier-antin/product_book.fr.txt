@@ -1,3 +1,34 @@
+Title: Liquidity, Data Flows and|Dirty Hands by Xavier Antin
+
+----
+
+Multilinetitle:
+
+Liquidity, Data Flows and
+Dirty Hands by Xavier Antin
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Liquidity, Data Flows and <br>Dirty Hands by Xavier Antin'
@@ -39,27 +70,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Liquidity, Data Flows and
-Dirty Hands by Xavier Antin
-
-----
-
 Uuid: 9mpvPPSBTXZH3jQj
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

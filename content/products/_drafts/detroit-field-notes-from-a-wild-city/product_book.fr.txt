@@ -1,3 +1,34 @@
+Title: Detroit|Field Notes from a Wild City
+
+----
+
+Multilinetitle:
+
+Detroit
+Field Notes from a Wild City
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Detroit <br>Field Notes from a Wild City'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Detroit
-Field Notes from a Wild City
-
-----
-
 Uuid: aLFtOcbD1VPLrAy9
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

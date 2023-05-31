@@ -1,3 +1,34 @@
+Title: Things We Do Together|The Post-Reader
+
+----
+
+Multilinetitle:
+
+Things We Do Together
+The Post-Reader
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Things We Do Together <br>The Post-Reader'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Things We Do Together
-The Post-Reader
-
-----
-
 Uuid: rplrzcBMMoaTtwfj
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

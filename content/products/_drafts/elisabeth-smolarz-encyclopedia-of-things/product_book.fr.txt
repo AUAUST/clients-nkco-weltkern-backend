@@ -1,3 +1,34 @@
+Title: Elisabeth Smolarz|Encyclopedia of Things
+
+----
+
+Multilinetitle:
+
+Elisabeth Smolarz
+Encyclopedia of Things
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Elisabeth Smolarz <br>Encyclopedia of Things'
@@ -47,27 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Elisabeth Smolarz
-Encyclopedia of Things
-
-----
-
 Uuid: 4etkYy7drWOeagQo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

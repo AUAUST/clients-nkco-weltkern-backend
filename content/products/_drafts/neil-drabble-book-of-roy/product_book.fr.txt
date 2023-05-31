@@ -1,3 +1,34 @@
+Title: Neil Drabble|Book of Roy
+
+----
+
+Multilinetitle:
+
+Neil Drabble
+Book of Roy
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Neil Drabble <br>Book of Roy'
@@ -35,27 +66,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Neil Drabble
-Book of Roy
-
-----
-
 Uuid: dfMUI5bjTPPTt20o
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

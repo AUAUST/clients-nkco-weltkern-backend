@@ -1,3 +1,31 @@
+Title: SYMPTOMS OF THE FUTURE
+
+----
+
+Multilinetitle: SYMPTOMS OF THE FUTURE
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: SYMPTOMS OF THE FUTURE
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: SYMPTOMS OF THE FUTURE
-
-----
-
 Uuid: phEvuwIJyOWvnMAq
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Michail Pirgelis|Opaque Surfaces
+
+----
+
+Multilinetitle:
+
+Michail Pirgelis
+Opaque Surfaces
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Michail Pirgelis <br>Opaque Surfaces'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Michail Pirgelis
-Opaque Surfaces
-
-----
-
 Uuid: oHtTWM2f8tfvgT5b
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

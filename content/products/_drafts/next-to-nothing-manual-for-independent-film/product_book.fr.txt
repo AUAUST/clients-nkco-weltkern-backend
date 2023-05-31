@@ -1,3 +1,34 @@
+Title: Next To Nothing|Manual for Independent Film
+
+----
+
+Multilinetitle:
+
+Next To Nothing
+Manual for Independent Film
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Next To Nothing <br>Manual for Independent Film'
@@ -42,27 +73,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Next To Nothing
-Manual for Independent Film
-
-----
-
 Uuid: Csf11MeZVc4sFEz7
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

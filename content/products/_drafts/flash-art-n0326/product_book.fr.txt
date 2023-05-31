@@ -1,3 +1,31 @@
+Title: Flash Art n°326
+
+----
+
+Multilinetitle: Flash Art n°326
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Flash Art n°326
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Flash Art n°326
-
-----
-
 Uuid: DmsfRpHWQbSfiGNw
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Curating Digital Art
+
+----
+
+Multilinetitle: Curating Digital Art
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Curating Digital Art
@@ -30,24 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Curating Digital Art
-
-----
-
 Uuid: YaoOPU5nC2gHq57k
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

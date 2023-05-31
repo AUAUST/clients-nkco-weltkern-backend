@@ -1,3 +1,34 @@
+Title: Erling Kagge|Walking. Movements North Of Bolzano
+
+----
+
+Multilinetitle:
+
+Erling Kagge
+Walking. Movements North Of Bolzano
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Erling Kagge <br>Walking. Movements North Of Bolzano'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Erling Kagge
-Walking. Movements North Of Bolzano
-
-----
-
 Uuid: FRszug3E8WxvnKH4
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

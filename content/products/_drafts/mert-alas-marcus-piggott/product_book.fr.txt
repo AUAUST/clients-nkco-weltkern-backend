@@ -1,3 +1,31 @@
+Title: Mert Alas & Marcus Piggott
+
+----
+
+Multilinetitle: Mert Alas & Marcus Piggott
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mert Alas & Marcus Piggott'
@@ -61,24 +89,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Mert Alas & Marcus Piggott
-
-----
-
 Uuid: ozqXgjVXYcmzpDFn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

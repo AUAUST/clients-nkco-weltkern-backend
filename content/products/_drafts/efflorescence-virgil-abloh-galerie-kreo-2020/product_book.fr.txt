@@ -1,3 +1,34 @@
+Title: “Efflorescence” Virgil Abloh™|Galerie Kreo ©2020
+
+----
+
+Multilinetitle:
+
+“Efflorescence” Virgil Abloh™
+Galerie Kreo ©2020
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: '“Efflorescence” Virgil Abloh™ <br>Galerie Kreo ©2020'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-“Efflorescence” Virgil Abloh™
-Galerie Kreo ©2020
-
-----
-
 Uuid: eNO2IYRwQ0ghEVnn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Dear to Me|Peter Zumthor in Conversation
+
+----
+
+Multilinetitle:
+
+Dear to Me
+Peter Zumthor in Conversation
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Dear to Me <br>Peter Zumthor in Conversation'
@@ -60,27 +91,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Dear to Me
-Peter Zumthor in Conversation
-
-----
-
 Uuid: 0m0svpK12E50mV5x
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

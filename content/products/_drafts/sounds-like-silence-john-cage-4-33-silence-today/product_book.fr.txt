@@ -1,3 +1,34 @@
+Title: Sounds Like Silence|John Cage 4' 33" Silence Today
+
+----
+
+Multilinetitle:
+
+Sounds Like Silence
+John Cage 4' 33" Silence Today
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: |
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Sounds Like Silence
-John Cage 4' 33" Silence Today
-
-----
-
 Uuid: HNktpcS5LOyxF5Nw
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

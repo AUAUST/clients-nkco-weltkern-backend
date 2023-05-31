@@ -1,3 +1,34 @@
+Title: KALEIDOSCOPE #41 FW22|Tosh Basco
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #41 FW22
+Tosh Basco
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #41 FW22 <br>Tosh Basco'
@@ -78,27 +109,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-KALEIDOSCOPE #41 FW22
-Tosh Basco
-
-----
-
 Uuid: mh6MamR9gJeHopLI
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

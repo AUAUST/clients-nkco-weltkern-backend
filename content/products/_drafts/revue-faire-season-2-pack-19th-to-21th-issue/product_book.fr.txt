@@ -1,3 +1,34 @@
+Title: Revue Faire|Season 2 Pack: 19th to 21th issue
+
+----
+
+Multilinetitle:
+
+Revue Faire
+Season 2 Pack: 19th to 21th issue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Revue Faire <br>Season 2 Pack: 19th to 21th issue'
@@ -79,27 +110,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Revue Faire
-Season 2 Pack: 19th to 21th issue
-
-----
-
 Uuid: IB021WLFD1JZwovq
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

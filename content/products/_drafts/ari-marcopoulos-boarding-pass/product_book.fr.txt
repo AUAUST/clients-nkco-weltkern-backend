@@ -1,3 +1,34 @@
+Title: Ari Marcopoulos|Boarding Pass
+
+----
+
+Multilinetitle:
+
+Ari Marcopoulos
+Boarding Pass
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ari Marcopoulos <br>Boarding Pass'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ari Marcopoulos
-Boarding Pass
-
-----
-
 Uuid: wK7S14Sqggxwq3tV
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

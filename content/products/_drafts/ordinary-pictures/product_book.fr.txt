@@ -1,3 +1,31 @@
+Title: Ordinary Pictures
+
+----
+
+Multilinetitle: Ordinary Pictures
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Ordinary Pictures
@@ -30,24 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Ordinary Pictures
-
-----
-
 Uuid: 1iyPmtARzS6sJGC3
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

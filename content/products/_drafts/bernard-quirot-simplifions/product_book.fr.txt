@@ -1,3 +1,34 @@
+Title: Bernard Quirot|Simplifions
+
+----
+
+Multilinetitle:
+
+Bernard Quirot
+Simplifions
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Bernard Quirot <br>Simplifions'
@@ -45,27 +76,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Bernard Quirot
-Simplifions
-
-----
-
 Uuid: xoxskWoQ5ulRxa9n
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

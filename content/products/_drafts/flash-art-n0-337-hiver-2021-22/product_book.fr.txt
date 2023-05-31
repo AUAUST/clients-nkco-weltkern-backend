@@ -1,3 +1,34 @@
+Title: Flash Art n° 337|Hiver 2021-22
+
+----
+
+Multilinetitle:
+
+Flash Art n° 337
+Hiver 2021-22
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Flash Art n° 337 <br>Hiver 2021-22'
@@ -67,27 +98,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Flash Art n° 337
-Hiver 2021-22
-
-----
-
 Uuid: gpKih9lo8qpyqJF3
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

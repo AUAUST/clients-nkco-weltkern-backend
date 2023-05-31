@@ -1,3 +1,31 @@
+Title: Olivier Mosset
+
+----
+
+Multilinetitle: Olivier Mosset
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Olivier Mosset
@@ -34,24 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Olivier Mosset
-
-----
-
 Uuid: zRT8LRtCDH7ynjn8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Loredana Nemes|Immergrün
+
+----
+
+Multilinetitle:
+
+Loredana Nemes
+Immergrün
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Loredana Nemes <br>Immergrün'
@@ -34,27 +65,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Loredana Nemes
-Immergrün
-
-----
-
 Uuid: xJC8SzTVh4KXumop
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

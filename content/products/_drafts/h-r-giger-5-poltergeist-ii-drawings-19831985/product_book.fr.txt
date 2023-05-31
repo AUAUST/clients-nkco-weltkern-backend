@@ -1,3 +1,34 @@
+Title: H. R. Giger|5 – Poltergeist II: Drawings 1983–1985
+
+----
+
+Multilinetitle:
+
+H. R. Giger
+5 – Poltergeist II: Drawings 1983–1985
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'H. R. Giger <br>5 – Poltergeist II: Drawings 1983–1985'
@@ -70,27 +101,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-H. R. Giger
-5 – Poltergeist II: Drawings 1983–1985
-
-----
-
 Uuid: zmPBe4PbWpYwAl0S
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

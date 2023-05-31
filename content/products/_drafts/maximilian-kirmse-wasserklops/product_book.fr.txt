@@ -1,3 +1,34 @@
+Title: Maximilian Kirmse|Wasserklops
+
+----
+
+Multilinetitle:
+
+Maximilian Kirmse
+Wasserklops
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Maximilian Kirmse <br>Wasserklops'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Maximilian Kirmse
-Wasserklops
-
-----
-
 Uuid: 3CzoLCioukGhRscQ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

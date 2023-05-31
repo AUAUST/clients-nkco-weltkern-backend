@@ -1,3 +1,34 @@
+Title: Spectre 3|Ruines contemporaines
+
+----
+
+Multilinetitle:
+
+Spectre 3
+Ruines contemporaines
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Spectre 3 <br>Ruines contemporaines'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Spectre 3
-Ruines contemporaines
-
-----
-
 Uuid: ja7SuGr5O41GNo4M
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Early Video Art And Experimental Films Networks
+
+----
+
+Multilinetitle: Early Video Art And Experimental Films Networks
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -50,24 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Early Video Art And Experimental Films Networks
-
-----
-
 Uuid: pTsfcn8VDCOQX1jK
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

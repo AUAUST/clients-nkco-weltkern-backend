@@ -1,3 +1,31 @@
+Title: Bowie Texas
+
+----
+
+Multilinetitle: Bowie Texas
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Bowie Texas
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Bowie Texas
-
-----
-
 Uuid: ZJpoQT32VQYM78l4
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

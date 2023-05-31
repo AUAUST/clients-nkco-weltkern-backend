@@ -1,3 +1,31 @@
+Title: Swiss Lessons
+
+----
+
+Multilinetitle: Swiss Lessons
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Swiss Lessons
@@ -80,24 +108,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Swiss Lessons
-
-----
-
 Uuid: oF7rizgJ7w2MhCyd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

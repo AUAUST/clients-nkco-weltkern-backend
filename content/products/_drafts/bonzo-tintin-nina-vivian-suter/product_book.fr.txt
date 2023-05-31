@@ -1,3 +1,34 @@
+Title: Bonzo, Tintin & Nina|Vivian Suter
+
+----
+
+Multilinetitle:
+
+Bonzo, Tintin & Nina
+Vivian Suter
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Bonzo, Tintin & Nina <br>Vivian Suter'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Bonzo, Tintin & Nina
-Vivian Suter
-
-----
-
 Uuid: U61swLcEnTiLHhv3
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: MAMCO Genève
+
+----
+
+Multilinetitle: MAMCO Genève
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: MAMCO Genève
@@ -35,24 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: MAMCO Genève
-
-----
-
 Uuid: DnAIBi4yQ95svYG2
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Support Magazine|Issue n°1
+
+----
+
+Multilinetitle:
+
+Support Magazine
+Issue n°1
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Support Magazine <br>Issue n°1'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Support Magazine
-Issue n°1
-
-----
-
 Uuid: bDmQe5voUtoyevwG
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

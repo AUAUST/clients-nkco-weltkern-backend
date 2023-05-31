@@ -1,3 +1,34 @@
+Title: Sonne, Meer und nackte Menschen|Die Nudistenfilme des Schweizers Werner Kunz
+
+----
+
+Multilinetitle:
+
+Sonne, Meer und nackte Menschen
+Die Nudistenfilme des Schweizers Werner Kunz
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Sonne, Meer und nackte Menschen <br>Die Nudistenfilme des Schweizers Werner Kunz'
@@ -66,27 +97,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Sonne, Meer und nackte Menschen
-Die Nudistenfilme des Schweizers Werner Kunz
-
-----
-
 Uuid: XLxLs46i0c6XZIwp
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

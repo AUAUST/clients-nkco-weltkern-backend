@@ -1,3 +1,34 @@
+Title: Paolo Di Lucente|Rome
+
+----
+
+Multilinetitle:
+
+Paolo Di Lucente
+Rome
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Paolo Di Lucente <br>Rome'
@@ -74,27 +105,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Paolo Di Lucente
-Rome
-
-----
-
 Uuid: zj6sbIPLGTSukFwo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

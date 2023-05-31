@@ -1,3 +1,34 @@
+Title: Tal R|Garbage Man
+
+----
+
+Multilinetitle:
+
+Tal R
+Garbage Man
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Tal R <br>Garbage Man'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tal R
-Garbage Man
-
-----
-
 Uuid: ioZ7hKPnkrh7sWfN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

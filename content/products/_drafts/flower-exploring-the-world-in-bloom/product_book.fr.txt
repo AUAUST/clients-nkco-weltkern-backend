@@ -1,3 +1,34 @@
+Title: Flower|Exploring the World in Bloom
+
+----
+
+Multilinetitle:
+
+Flower
+Exploring the World in Bloom
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Flower <br>Exploring the World in Bloom'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Flower
-Exploring the World in Bloom
-
-----
-
 Uuid: dZeK39anTLHoYaAf
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

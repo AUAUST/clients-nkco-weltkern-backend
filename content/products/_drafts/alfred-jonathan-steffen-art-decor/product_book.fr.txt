@@ -1,3 +1,34 @@
+Title: Alfred Jonathan Steffen|Art Décor
+
+----
+
+Multilinetitle:
+
+Alfred Jonathan Steffen
+Art Décor
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Alfred Jonathan Steffen <br>Art Décor'
@@ -59,27 +90,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Alfred Jonathan Steffen
-Art Décor
-
-----
-
 Uuid: J8rUwqpHgTuRrYnp
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Mix & Stir|New Outlooks on Contemporary Art from Global Perspectives
+
+----
+
+Multilinetitle:
+
+Mix & Stir
+New Outlooks on Contemporary Art from Global Perspectives
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mix & Stir <br>New Outlooks on Contemporary Art from Global Perspectives'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Mix & Stir
-New Outlooks on Contemporary Art from Global Perspectives
-
-----
-
 Uuid: 8LjEV7V06PPiOAcG
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

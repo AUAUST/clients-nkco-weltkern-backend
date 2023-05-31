@@ -1,3 +1,31 @@
+Title: KAWS
+
+----
+
+Multilinetitle: KAWS
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: KAWS
@@ -46,24 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: KAWS
-
-----
-
 Uuid: tPGPu2sf56VhTI4v
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

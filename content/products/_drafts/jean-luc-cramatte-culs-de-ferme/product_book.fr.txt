@@ -1,3 +1,34 @@
+Title: Jean-Luc Cramatte|Culs de ferme
+
+----
+
+Multilinetitle:
+
+Jean-Luc Cramatte
+Culs de ferme
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Jean-Luc Cramatte <br>Culs de ferme'
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Jean-Luc Cramatte
-Culs de ferme
-
-----
-
 Uuid: tlijTIVN0bCm6Oh3
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

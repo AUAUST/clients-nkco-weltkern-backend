@@ -1,3 +1,31 @@
+Title: A Fascinating Plan
+
+----
+
+Multilinetitle: A Fascinating Plan
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: A Fascinating Plan
@@ -35,24 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: A Fascinating Plan
-
-----
-
 Uuid: G8NWI4fDaZudLPmN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

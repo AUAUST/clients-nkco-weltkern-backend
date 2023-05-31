@@ -1,3 +1,34 @@
+Title: Ringgummimatte|Micha Zweifel
+
+----
+
+Multilinetitle:
+
+Ringgummimatte
+Micha Zweifel
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ringgummimatte <br>Micha Zweifel'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ringgummimatte
-Micha Zweifel
-
-----
-
 Uuid: 88xRtUVIAqp8UHqd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

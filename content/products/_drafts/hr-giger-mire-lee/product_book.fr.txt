@@ -1,3 +1,31 @@
+Title: HR Giger & Mire Lee
+
+----
+
+Multilinetitle: HR Giger & Mire Lee
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'HR Giger & Mire Lee'
@@ -27,24 +55,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: HR Giger & Mire Lee
-
-----
-
 Uuid: nBt9YfESWk7bLZ1X
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

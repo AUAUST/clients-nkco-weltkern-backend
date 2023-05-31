@@ -1,3 +1,34 @@
+Title: Olivier Suter|Children
+
+----
+
+Multilinetitle:
+
+Olivier Suter
+Children
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Olivier Suter <br>Children'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Olivier Suter
-Children
-
-----
-
 Uuid: g8X6XBMziWbDeTV9
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

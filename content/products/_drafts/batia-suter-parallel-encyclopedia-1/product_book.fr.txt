@@ -1,3 +1,34 @@
+Title: Batia Suter|Parallel Encyclopedia 1
+
+----
+
+Multilinetitle:
+
+Batia Suter
+Parallel Encyclopedia 1
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Batia Suter <br>Parallel Encyclopedia 1'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Batia Suter
-Parallel Encyclopedia 1
-
-----
-
 Uuid: E9MZj1zVYhUYWeOm
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Designed in the USSR|1950–1989
+
+----
+
+Multilinetitle:
+
+Designed in the USSR
+1950–1989
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Designed in the USSR <br>1950–1989'
@@ -48,27 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Designed in the USSR
-1950–1989
-
-----
-
 Uuid: g2HitSEEdb98O800
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

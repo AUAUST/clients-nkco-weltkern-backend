@@ -1,3 +1,34 @@
+Title: Dazed|30 Years Confused: The Covers
+
+----
+
+Multilinetitle:
+
+Dazed
+30 Years Confused: The Covers
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Dazed <br>30 Years Confused: The Covers'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Dazed
-30 Years Confused: The Covers
-
-----
-
 Uuid: hqlXJVkpyd9WERGp
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

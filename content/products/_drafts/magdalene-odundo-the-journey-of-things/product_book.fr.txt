@@ -1,3 +1,34 @@
+Title: Magdalene Odundo|The Journey of Things
+
+----
+
+Multilinetitle:
+
+Magdalene Odundo
+The Journey of Things
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Magdalene Odundo <br>The Journey of Things'
@@ -45,27 +76,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Magdalene Odundo
-The Journey of Things
-
-----
-
 Uuid: o4Fplml1oKfX69rS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

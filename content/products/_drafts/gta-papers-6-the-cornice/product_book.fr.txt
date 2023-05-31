@@ -1,3 +1,34 @@
+Title: gta papers 6|The Cornice
+
+----
+
+Multilinetitle:
+
+gta papers 6
+The Cornice
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'gta papers 6 <br>The Cornice'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-gta papers 6
-The Cornice
-
-----
-
 Uuid: wVAGslTukHEHAbeV
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

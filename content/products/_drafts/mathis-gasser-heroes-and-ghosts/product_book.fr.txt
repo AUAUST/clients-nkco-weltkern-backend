@@ -1,3 +1,34 @@
+Title: Mathis Gasser|Heroes and Ghosts
+
+----
+
+Multilinetitle:
+
+Mathis Gasser
+Heroes and Ghosts
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mathis Gasser <br>Heroes and Ghosts'
@@ -34,27 +65,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Mathis Gasser
-Heroes and Ghosts
-
-----
-
 Uuid: hdgw6lr21M8K0Ooi
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

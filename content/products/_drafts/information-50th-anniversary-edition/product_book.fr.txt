@@ -1,3 +1,34 @@
+Title: Information|50th Anniversary Edition
+
+----
+
+Multilinetitle:
+
+Information
+50th Anniversary Edition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Information <br>50th Anniversary Edition'
@@ -47,27 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Information
-50th Anniversary Edition
-
-----
-
 Uuid: gDFv4TvvsFOcR38s
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

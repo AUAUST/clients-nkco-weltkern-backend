@@ -1,3 +1,34 @@
+Title: Elisabeth Kübler|Vom Leben einer Unangepassten
+
+----
+
+Multilinetitle:
+
+Elisabeth Kübler
+Vom Leben einer Unangepassten
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Elisabeth Kübler <br>Vom Leben einer Unangepassten'
@@ -54,27 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Elisabeth Kübler
-Vom Leben einer Unangepassten
-
-----
-
 Uuid: uRqcyGMldArx9PKN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

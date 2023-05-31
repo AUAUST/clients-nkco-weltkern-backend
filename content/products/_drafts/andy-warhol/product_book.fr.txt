@@ -1,3 +1,31 @@
+Title: Andy Warhol
+
+----
+
+Multilinetitle: Andy Warhol
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Andy Warhol
@@ -60,24 +88,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Andy Warhol
-
-----
-
 Uuid: LLLcOuQyO4QBvviD
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Types We Can Make
+
+----
+
+Multilinetitle: Types We Can Make
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Types We Can Make
@@ -41,24 +69,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Types We Can Make
-
-----
-
 Uuid: V3aNFPrDZCf0tpdK
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

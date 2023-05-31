@@ -1,3 +1,34 @@
+Title: KALEIDOSCOPE #38 SS21|Cover: Gilber & George & Blondey
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #38 SS21
+Cover: Gilber & George & Blondey
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #38 SS21 <br>Cover: Gilber & George & Blondey'
@@ -129,27 +160,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-KALEIDOSCOPE #38 SS21
-Cover: Gilber & George & Blondey
-
-----
-
 Uuid: wYk7bxPELk69fbJK
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

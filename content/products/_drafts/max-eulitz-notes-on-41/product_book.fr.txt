@@ -1,3 +1,34 @@
+Title: Max Eulitz|Notes on 41
+
+----
+
+Multilinetitle:
+
+Max Eulitz
+Notes on 41
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Max Eulitz <br>Notes on 41'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Max Eulitz
-Notes on 41
-
-----
-
 Uuid: hZzsZ6D950XLpZUT
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

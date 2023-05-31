@@ -1,3 +1,34 @@
+Title: Alastair Sooke|Pop Art
+
+----
+
+Multilinetitle:
+
+Alastair Sooke
+Pop Art
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Alastair Sooke <br>Pop Art'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Alastair Sooke
-Pop Art
-
-----
-
 Uuid: CEjDs3piqTlZXaXl
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

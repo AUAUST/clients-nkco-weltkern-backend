@@ -1,3 +1,34 @@
+Title: The Archive of Dark|Kirstine Roepstorff
+
+----
+
+Multilinetitle:
+
+The Archive of Dark
+Kirstine Roepstorff
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'The Archive of Dark <br>Kirstine Roepstorff'
@@ -56,27 +87,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-The Archive of Dark
-Kirstine Roepstorff
-
-----
-
 Uuid: N3RRp3pcN30aT4Wo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

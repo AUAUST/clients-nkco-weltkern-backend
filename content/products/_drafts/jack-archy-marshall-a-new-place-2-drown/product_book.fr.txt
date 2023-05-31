@@ -1,3 +1,34 @@
+Title: Jack & Archy Marshall|A New Place 2 Drown
+
+----
+
+Multilinetitle:
+
+Jack & Archy Marshall
+A New Place 2 Drown
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Jack & Archy Marshall <br>A New Place 2 Drown'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Jack & Archy Marshall
-A New Place 2 Drown
-
-----
-
 Uuid: ayUtMnCnNMyHioS8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

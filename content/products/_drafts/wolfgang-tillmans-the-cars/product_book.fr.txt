@@ -1,3 +1,34 @@
+Title: Wolfgang Tillmans|The Cars
+
+----
+
+Multilinetitle:
+
+Wolfgang Tillmans
+The Cars
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Wolfgang Tillmans <br>The Cars'
@@ -55,27 +86,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Wolfgang Tillmans
-The Cars
-
-----
-
 Uuid: 34LOjUvNxlt2ioxy
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

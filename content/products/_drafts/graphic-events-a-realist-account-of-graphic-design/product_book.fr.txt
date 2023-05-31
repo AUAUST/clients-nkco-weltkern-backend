@@ -1,3 +1,34 @@
+Title: Graphic Events|A Realist Account of Graphic Design
+
+----
+
+Multilinetitle:
+
+Graphic Events
+A Realist Account of Graphic Design
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Graphic Events <br>A Realist Account of Graphic Design'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Graphic Events
-A Realist Account of Graphic Design
-
-----
-
 Uuid: MeqtvCEhhMvYUju8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

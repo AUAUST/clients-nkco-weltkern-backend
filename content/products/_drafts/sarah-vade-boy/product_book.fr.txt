@@ -1,3 +1,34 @@
+Title: Sarah Vadé|Boy
+
+----
+
+Multilinetitle:
+
+Sarah Vadé
+Boy
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Sarah Vadé <br>Boy'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Sarah Vadé
-Boy
-
-----
-
 Uuid: FIhQRe8CD8GjyQCY
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Self Service Magazine|Issue #54
+
+----
+
+Multilinetitle:
+
+Self Service Magazine
+Issue #54
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Self Service Magazine <br>Issue #54'
@@ -26,27 +57,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Self Service Magazine
-Issue #54
-
-----
-
 Uuid: Oy21211X1opfxipQ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

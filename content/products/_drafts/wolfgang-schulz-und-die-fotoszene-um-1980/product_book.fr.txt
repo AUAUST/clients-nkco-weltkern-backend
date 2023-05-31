@@ -1,3 +1,31 @@
+Title: Wolfgang Schulz und die Fotoszene um 1980
+
+----
+
+Multilinetitle: Wolfgang Schulz und die Fotoszene um 1980
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -71,24 +99,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Wolfgang Schulz und die Fotoszene um 1980
-
-----
-
 Uuid: sFr4dFkzzYcAzYs9
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

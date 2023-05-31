@@ -1,3 +1,31 @@
+Title: Grid systems in graphic design
+
+----
+
+Multilinetitle: Grid systems in graphic design
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Grid systems in graphic design
@@ -54,24 +82,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Grid systems in graphic design
-
-----
-
 Uuid: X1KElNj5ZiYoRWRr
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

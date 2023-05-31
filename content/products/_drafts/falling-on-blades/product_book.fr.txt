@@ -1,3 +1,31 @@
+Title: Falling on Blades
+
+----
+
+Multilinetitle: Falling on Blades
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Falling on Blades
@@ -58,24 +86,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Falling on Blades
-
-----
-
 Uuid: 1vyiAOpUZ7besqzP
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

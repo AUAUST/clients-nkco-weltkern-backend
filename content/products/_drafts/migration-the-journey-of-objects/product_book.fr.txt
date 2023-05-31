@@ -1,3 +1,34 @@
+Title: Migration|The Journey Of Objects
+
+----
+
+Multilinetitle:
+
+Migration
+The Journey Of Objects
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Migration <br>The Journey Of Objects'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Migration
-The Journey Of Objects
-
-----
-
 Uuid: iWP7g4NqgZE5Lnxe
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

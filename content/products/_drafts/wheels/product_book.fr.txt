@@ -1,3 +1,31 @@
+Title: Wheels
+
+----
+
+Multilinetitle: Wheels
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Wheels
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Wheels
-
-----
-
 Uuid: IYy40NX3FdZufsnG
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

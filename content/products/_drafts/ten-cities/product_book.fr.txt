@@ -1,3 +1,31 @@
+Title: Ten Cities
+
+----
+
+Multilinetitle: Ten Cities
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Ten Cities
@@ -72,24 +100,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Ten Cities
-
-----
-
 Uuid: vijJnimhpurIiS8s
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

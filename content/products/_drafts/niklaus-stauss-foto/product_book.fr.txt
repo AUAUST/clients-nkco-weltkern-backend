@@ -1,3 +1,34 @@
+Title: Niklaus Stauss|Foto
+
+----
+
+Multilinetitle:
+
+Niklaus Stauss
+Foto
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Niklaus Stauss <br>Foto'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Niklaus Stauss
-Foto
-
-----
-
 Uuid: 6vWZQbmaFjjBpgI6
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

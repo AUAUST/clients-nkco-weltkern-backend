@@ -1,3 +1,34 @@
+Title: Universal Design Studio|Inside Out
+
+----
+
+Multilinetitle:
+
+Universal Design Studio
+Inside Out
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Universal Design Studio <br>Inside Out'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Universal Design Studio
-Inside Out
-
-----
-
 Uuid: QpG4A570eDQPaY1w
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

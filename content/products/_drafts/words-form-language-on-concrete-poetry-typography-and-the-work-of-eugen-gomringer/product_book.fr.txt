@@ -1,3 +1,34 @@
+Title: Words form language|On Concrete Poetry, Typography, and the Work of Eugen Gomringer
+
+----
+
+Multilinetitle:
+
+Words form language
+On Concrete Poetry, Typography, and the Work of Eugen Gomringer
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Words form language <br>On Concrete Poetry, Typography, and the Work of Eugen Gomringer'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Words form language
-On Concrete Poetry, Typography, and the Work of Eugen Gomringer
-
-----
-
 Uuid: TAcpSz6jeb9jr2Cd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

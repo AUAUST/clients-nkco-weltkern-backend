@@ -1,3 +1,34 @@
+Title: Time|trans magazin
+
+----
+
+Multilinetitle:
+
+Time
+trans magazin
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Time <br>trans magazin'
@@ -52,27 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Time
-trans magazin
-
-----
-
 Uuid: nVqWgVe4fD3TozrI
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

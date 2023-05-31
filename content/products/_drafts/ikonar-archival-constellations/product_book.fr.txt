@@ -1,3 +1,34 @@
+Title: IKONAR|Archival Constellations
+
+----
+
+Multilinetitle:
+
+IKONAR
+Archival Constellations
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'IKONAR <br>Archival Constellations'
@@ -67,27 +98,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-IKONAR
-Archival Constellations
-
-----
-
 Uuid: Drl0QxW8CpC0L8jA
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

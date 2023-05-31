@@ -1,3 +1,34 @@
+Title: KALEIDOSCOPE #38 SS21|Cover: Fatima Al Qadiri
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #38 SS21
+Cover: Fatima Al Qadiri
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #38 SS21 <br>Cover: Fatima Al Qadiri'
@@ -129,27 +160,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-KALEIDOSCOPE #38 SS21
-Cover: Fatima Al Qadiri
-
-----
-
 Uuid: OSQVBLpVK1Svz1lC
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

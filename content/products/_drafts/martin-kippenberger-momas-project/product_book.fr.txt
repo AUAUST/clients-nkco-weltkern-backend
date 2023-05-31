@@ -1,3 +1,34 @@
+Title: Martin Kippenberger|MOMAS Project
+
+----
+
+Multilinetitle:
+
+Martin Kippenberger
+MOMAS Project
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Martin Kippenberger <br>MOMAS Project'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Martin Kippenberger
-MOMAS Project
-
-----
-
 Uuid: d3xduyXAq866EQYj
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

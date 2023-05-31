@@ -1,3 +1,31 @@
+Title: Consumer Culture Landscapes in Socialist Yugoslavia
+
+----
+
+Multilinetitle: Consumer Culture Landscapes in Socialist Yugoslavia
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -35,24 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Consumer Culture Landscapes in Socialist Yugoslavia
-
-----
-
 Uuid: X2sR939rPQC45b3o
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

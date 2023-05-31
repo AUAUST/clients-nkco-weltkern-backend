@@ -1,3 +1,31 @@
+Title: Mousse magazine n°68
+
+----
+
+Multilinetitle: Mousse magazine n°68
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Mousse magazine n°68
@@ -56,24 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Mousse magazine n°68
-
-----
-
 Uuid: DxShBSa2hq8QUO3g
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

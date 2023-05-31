@@ -1,3 +1,34 @@
+Title: Cristiano Volk|Laissez-Faire
+
+----
+
+Multilinetitle:
+
+Cristiano Volk
+Laissez-Faire
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Cristiano Volk <br>Laissez-Faire'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Cristiano Volk
-Laissez-Faire
-
-----
-
 Uuid: mrNljRrVPDdywyrT
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

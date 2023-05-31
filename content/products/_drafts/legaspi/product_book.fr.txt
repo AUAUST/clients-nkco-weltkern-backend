@@ -1,3 +1,31 @@
+Title: Legaspi
+
+----
+
+Multilinetitle: Legaspi
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Legaspi
@@ -56,24 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Legaspi
-
-----
-
 Uuid: waITbRjcIFN1r5Tf
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

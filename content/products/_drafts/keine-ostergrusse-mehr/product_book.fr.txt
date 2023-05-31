@@ -1,3 +1,31 @@
+Title: Keine Ostergrüsse mehr!
+
+----
+
+Multilinetitle: Keine Ostergrüsse mehr!
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Keine Ostergrüsse mehr!
@@ -33,24 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Keine Ostergrüsse mehr!
-
-----
-
 Uuid: as8Z4bRu9nidJoCr
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

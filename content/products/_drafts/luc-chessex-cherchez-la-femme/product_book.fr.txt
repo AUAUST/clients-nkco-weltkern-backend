@@ -1,3 +1,34 @@
+Title: Luc Chessex|Cherchez la femme
+
+----
+
+Multilinetitle:
+
+Luc Chessex
+Cherchez la femme
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Luc Chessex <br>Cherchez la femme'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Luc Chessex
-Cherchez la femme
-
-----
-
 Uuid: THTOGtAi73uNG9B1
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Abzgram|C/O Berlin Talent Awards 2022
+
+----
+
+Multilinetitle:
+
+Abzgram
+C/O Berlin Talent Awards 2022
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Abzgram <br>C/O Berlin Talent Awards 2022'
@@ -60,27 +91,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Abzgram
-C/O Berlin Talent Awards 2022
-
-----
-
 Uuid: wLb5U4X5MIO8ZIGA
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

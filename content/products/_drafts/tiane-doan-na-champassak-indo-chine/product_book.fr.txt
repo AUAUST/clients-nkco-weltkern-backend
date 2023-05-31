@@ -1,3 +1,34 @@
+Title: Tiane Doan na Champassak|Indo-Chine
+
+----
+
+Multilinetitle:
+
+Tiane Doan na Champassak
+Indo-Chine
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Tiane Doan na Champassak <br>Indo-Chine'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tiane Doan na Champassak
-Indo-Chine
-
-----
-
 Uuid: KeZW537vx9rDfSKJ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

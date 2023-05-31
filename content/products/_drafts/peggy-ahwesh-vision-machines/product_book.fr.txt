@@ -1,3 +1,34 @@
+Title: Peggy Ahwesh|Vision Machines
+
+----
+
+Multilinetitle:
+
+Peggy Ahwesh
+Vision Machines
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Peggy Ahwesh <br>Vision Machines'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Peggy Ahwesh
-Vision Machines
-
-----
-
 Uuid: E82LGqPxYafVfp71
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

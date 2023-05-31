@@ -1,3 +1,34 @@
+Title: Shooting the Tiger|Xiaoxiao Xu
+
+----
+
+Multilinetitle:
+
+Shooting the Tiger
+Xiaoxiao Xu
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Shooting the Tiger <br>Xiaoxiao Xu'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Shooting the Tiger
-Xiaoxiao Xu
-
-----
-
 Uuid: Zv2osCoWElD8D0mi
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

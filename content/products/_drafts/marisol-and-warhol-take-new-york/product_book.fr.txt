@@ -1,3 +1,34 @@
+Title: Marisol and Warhol|Take New York
+
+----
+
+Multilinetitle:
+
+Marisol and Warhol
+Take New York
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Marisol and Warhol <br>Take New York'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Marisol and Warhol
-Take New York
-
-----
-
 Uuid: N7L60lPCwcdS0QXE
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

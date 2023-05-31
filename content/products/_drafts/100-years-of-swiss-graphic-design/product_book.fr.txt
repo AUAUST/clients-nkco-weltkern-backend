@@ -1,3 +1,31 @@
+Title: 100 Years of Swiss Graphic Design
+
+----
+
+Multilinetitle: 100 Years of Swiss Graphic Design
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 100 Years of Swiss Graphic Design
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: 100 Years of Swiss Graphic Design
-
-----
-
 Uuid: FiXfSEoHCGaSd7aS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

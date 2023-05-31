@@ -1,3 +1,31 @@
+Title: Swiss Design Awards 2017
+
+----
+
+Multilinetitle: Swiss Design Awards 2017
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Swiss Design Awards 2017
@@ -43,24 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Swiss Design Awards 2017
-
-----
-
 Uuid: wqVTpUZbHDk8UNz2
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

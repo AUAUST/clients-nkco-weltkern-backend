@@ -1,3 +1,31 @@
+Title: We Want To Look Up At The Sun, But Could The Sun Be Looking Down On Us?
+
+----
+
+Multilinetitle: We Want To Look Up At The Sun, But Could The Sun Be Looking Down On Us?
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -46,24 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: We Want To Look Up At The Sun, But Could The Sun Be Looking Down On Us?
-
-----
-
 Uuid: 2vFXbCiiAPf8o3zu
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

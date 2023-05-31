@@ -1,3 +1,31 @@
+Title: Fellini 8 1/2
+
+----
+
+Multilinetitle: Fellini 8 1/2
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Fellini 8 1/2
@@ -57,24 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Fellini 8 1/2
-
-----
-
 Uuid: 1riCPpwRF5XKZQNM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

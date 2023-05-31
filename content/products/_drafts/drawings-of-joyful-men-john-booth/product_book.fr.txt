@@ -1,3 +1,34 @@
+Title: Drawings of Joyful Men|John Booth
+
+----
+
+Multilinetitle:
+
+Drawings of Joyful Men
+John Booth
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Drawings of Joyful Men <br>John Booth'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Drawings of Joyful Men
-John Booth
-
-----
-
 Uuid: RIR5WrBVwBbiuABX
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

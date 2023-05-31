@@ -1,3 +1,34 @@
+Title: Jörg Brüggemann|Autobahn
+
+----
+
+Multilinetitle:
+
+Jörg Brüggemann
+Autobahn
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Jörg Brüggemann <br>Autobahn'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Jörg Brüggemann
-Autobahn
-
-----
-
 Uuid: qO2C2ZhRUlDtmcxk
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

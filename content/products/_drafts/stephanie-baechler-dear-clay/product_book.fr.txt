@@ -1,3 +1,34 @@
+Title: Stephanie Baechler|Dear Clay,
+
+----
+
+Multilinetitle:
+
+Stephanie Baechler
+Dear Clay,
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Stephanie Baechler <br>Dear Clay,'
@@ -47,27 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Stephanie Baechler
-Dear Clay,
-
-----
-
 Uuid: OWBuKClKvVDq12SD
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

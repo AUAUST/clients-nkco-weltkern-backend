@@ -1,3 +1,34 @@
+Title: Artists & Agents|Performance Art and Secret Services
+
+----
+
+Multilinetitle:
+
+Artists & Agents
+Performance Art and Secret Services
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Artists & Agents <br>Performance Art and Secret Services'
@@ -48,27 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Artists & Agents
-Performance Art and Secret Services
-
-----
-
 Uuid: 7nZSbO2R2yyfiG49
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: A New Program for Graphic Design
+
+----
+
+Multilinetitle: A New Program for Graphic Design
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: A New Program for Graphic Design
@@ -55,24 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: A New Program for Graphic Design
-
-----
-
 Uuid: PUJosK7U11KbjdbF
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: 100 Best Posters 19:|Germany – Austria – Switzerland
+
+----
+
+Multilinetitle:
+
+100 Best Posters 19:
+Germany – Austria – Switzerland
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: '100 Best Posters 19: <br>Germany – Austria – Switzerland'
@@ -59,27 +90,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-100 Best Posters 19:
-Germany – Austria – Switzerland
-
-----
-
 Uuid: 0NrcTfJdTJCMOhV6
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

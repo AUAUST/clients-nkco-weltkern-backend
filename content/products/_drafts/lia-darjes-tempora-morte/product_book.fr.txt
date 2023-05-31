@@ -1,3 +1,34 @@
+Title: Lia Darjes|Tempora Morte
+
+----
+
+Multilinetitle:
+
+Lia Darjes
+Tempora Morte
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Lia Darjes <br>Tempora Morte'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Lia Darjes
-Tempora Morte
-
-----
-
 Uuid: kR4oq7os6Sq5yXCZ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

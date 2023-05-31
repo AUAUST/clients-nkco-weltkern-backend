@@ -1,3 +1,34 @@
+Title: Architecture Itself and Other|Postmodernization Effects
+
+----
+
+Multilinetitle:
+
+Architecture Itself and Other
+Postmodernization Effects
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Architecture Itself and Other <br>Postmodernization Effects'
@@ -58,27 +89,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Architecture Itself and Other
-Postmodernization Effects
-
-----
-
 Uuid: xfPSPTLUGvQWZIxo
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

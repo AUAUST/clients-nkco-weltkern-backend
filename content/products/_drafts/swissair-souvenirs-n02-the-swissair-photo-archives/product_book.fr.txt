@@ -1,3 +1,34 @@
+Title: Swissair Souvenirs N°2|The Swissair Photo Archives
+
+----
+
+Multilinetitle:
+
+Swissair Souvenirs N°2
+The Swissair Photo Archives
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Swissair Souvenirs N°2 <br>The Swissair Photo Archives'
@@ -52,27 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Swissair Souvenirs N°2
-The Swissair Photo Archives
-
-----
-
 Uuid: wxh3Uu37aPFIdrvG
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Karl-Heinz Drescher|Berlin Typo Posters, Texts, and Interviews
+
+----
+
+Multilinetitle:
+
+Karl-Heinz Drescher
+Berlin Typo Posters, Texts, and Interviews
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Karl-Heinz Drescher <br>Berlin Typo Posters, Texts, and Interviews'
@@ -34,27 +65,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Karl-Heinz Drescher
-Berlin Typo Posters, Texts, and Interviews
-
-----
-
 Uuid: xGHmEg3dQ2CKd32s
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

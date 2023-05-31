@@ -1,3 +1,31 @@
+Title: OMA NY: Search Term
+
+----
+
+Multilinetitle: OMA NY: Search Term
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'OMA NY: Search Term'
@@ -32,24 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: OMA NY: Search Term
-
-----
-
 Uuid: vLoM0bkohlgnbeIa
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Spatial Sequences and Urban Infrastructure
+
+----
+
+Multilinetitle: Spatial Sequences and Urban Infrastructure
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -47,24 +75,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Spatial Sequences and Urban Infrastructure
-
-----
-
 Uuid: Ca2w4hA0XJkS2gsU
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

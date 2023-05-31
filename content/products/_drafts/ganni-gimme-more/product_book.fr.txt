@@ -1,3 +1,34 @@
+Title: Ganni|Gimme More
+
+----
+
+Multilinetitle:
+
+Ganni
+Gimme More
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ganni <br>Gimme More'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ganni
-Gimme More
-
-----
-
 Uuid: 1swOBPQoKfthDRHI
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

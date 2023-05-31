@@ -1,3 +1,31 @@
+Title: Less is More (Gold)
+
+----
+
+Multilinetitle: Less is More (Gold)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Less is More (Gold)
@@ -51,24 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Less is More (Gold)
-
-----
-
 Uuid: 8vpeJxOJEU03RhCM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: David Hockney|My Window
+
+----
+
+Multilinetitle:
+
+David Hockney
+My Window
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'David Hockney <br>My Window'
@@ -56,27 +87,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-David Hockney
-My Window
-
-----
-
 Uuid: 6pj9GDv1Zs1xXPLZ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

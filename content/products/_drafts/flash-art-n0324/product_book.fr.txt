@@ -1,3 +1,31 @@
+Title: Flash Art n°324
+
+----
+
+Multilinetitle: Flash Art n°324
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Flash Art n°324
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Flash Art n°324
-
-----
-
 Uuid: 51TFeJtA1SxTNTVS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

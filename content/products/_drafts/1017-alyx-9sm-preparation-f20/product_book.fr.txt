@@ -1,3 +1,34 @@
+Title: 1017-ALYX-9SM|Preparation F20
+
+----
+
+Multilinetitle:
+
+1017-ALYX-9SM
+Preparation F20
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: '1017-ALYX-9SM <br>Preparation F20'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-1017-ALYX-9SM
-Preparation F20
-
-----
-
 Uuid: 9cKO47IsJj6p2ezV
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

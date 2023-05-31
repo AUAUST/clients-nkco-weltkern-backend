@@ -1,3 +1,31 @@
+Title: Augmented Photography
+
+----
+
+Multilinetitle: Augmented Photography
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Augmented Photography
@@ -35,24 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Augmented Photography
-
-----
-
 Uuid: ei17K2XHNBxWqvXI
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

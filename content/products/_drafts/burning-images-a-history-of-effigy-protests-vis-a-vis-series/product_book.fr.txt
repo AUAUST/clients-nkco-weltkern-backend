@@ -1,3 +1,34 @@
+Title: Burning Images|A History of Effigy Protests Vis-A-Vis Series
+
+----
+
+Multilinetitle:
+
+Burning Images
+A History of Effigy Protests Vis-A-Vis Series
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Burning Images <br>A History of Effigy Protests Vis-A-Vis Series'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Burning Images
-A History of Effigy Protests Vis-A-Vis Series
-
-----
-
 Uuid: vxvW2PNAYRghD0jU
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

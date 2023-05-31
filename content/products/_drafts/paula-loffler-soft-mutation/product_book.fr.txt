@@ -1,3 +1,34 @@
+Title: Paula Löffler|Soft Mutation
+
+----
+
+Multilinetitle:
+
+Paula Löffler
+Soft Mutation
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Paula Löffler <br>Soft Mutation'
@@ -42,27 +73,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Paula Löffler
-Soft Mutation
-
-----
-
 Uuid: 3YeTyXFsca10YhMM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

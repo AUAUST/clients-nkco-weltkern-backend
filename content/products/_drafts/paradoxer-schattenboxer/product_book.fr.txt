@@ -1,3 +1,34 @@
+Title: Paradoxer|Schattenboxer
+
+----
+
+Multilinetitle:
+
+Paradoxer
+Schattenboxer
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Paradoxer <br>Schattenboxer'
@@ -60,27 +91,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Paradoxer
-Schattenboxer
-
-----
-
 Uuid: nrEKg3L85WHGJZMY
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

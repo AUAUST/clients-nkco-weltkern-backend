@@ -1,3 +1,34 @@
+Title: Alexandra Bachzetsis|An Ideal for Living
+
+----
+
+Multilinetitle:
+
+Alexandra Bachzetsis
+An Ideal for Living
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Alexandra Bachzetsis <br>An Ideal for Living'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Alexandra Bachzetsis
-An Ideal for Living
-
-----
-
 Uuid: movVOVsnTDc0VjXP
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

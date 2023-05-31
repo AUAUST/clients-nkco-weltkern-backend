@@ -1,3 +1,34 @@
+Title: Katinka Bock|Rauschen
+
+----
+
+Multilinetitle:
+
+Katinka Bock
+Rauschen
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Katinka Bock <br>Rauschen'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Katinka Bock
-Rauschen
-
-----
-
 Uuid: Cl9URv1r5qDinIsN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

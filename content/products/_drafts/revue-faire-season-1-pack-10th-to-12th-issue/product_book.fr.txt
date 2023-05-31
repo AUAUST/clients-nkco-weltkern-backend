@@ -1,3 +1,34 @@
+Title: Revue Faire|Season 1 Pack: 10th to 12th issue
+
+----
+
+Multilinetitle:
+
+Revue Faire
+Season 1 Pack: 10th to 12th issue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Revue Faire <br>Season 1 Pack: 10th to 12th issue'
@@ -71,27 +102,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Revue Faire
-Season 1 Pack: 10th to 12th issue
-
-----
-
 Uuid: k4BUfB30FzPksrdA
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

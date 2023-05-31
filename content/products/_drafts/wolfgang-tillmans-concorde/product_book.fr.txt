@@ -1,3 +1,34 @@
+Title: Wolfgang Tillmans|Concorde
+
+----
+
+Multilinetitle:
+
+Wolfgang Tillmans
+Concorde
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Wolfgang Tillmans <br>Concorde'
@@ -52,27 +83,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Wolfgang Tillmans
-Concorde
-
-----
-
 Uuid: qDsxfMFh69gmuzao
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

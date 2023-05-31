@@ -1,3 +1,34 @@
+Title: Dieter Rams|The Complete Works
+
+----
+
+Multilinetitle:
+
+Dieter Rams
+The Complete Works
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Dieter Rams <br>The Complete Works'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Dieter Rams
-The Complete Works
-
-----
-
 Uuid: Ikv4vrdmnilYbl1v
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Dominique Putz|Les figures architectoniques: La construction logique de la forme
+
+----
+
+Multilinetitle:
+
+Dominique Putz
+Les figures architectoniques: La construction logique de la forme
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Dominique Putz <br>Les figures architectoniques: La construction logique de la forme'
@@ -57,27 +88,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Dominique Putz
-Les figures architectoniques: La construction logique de la forme
-
-----
-
 Uuid: Y0LwztzHaKj8NMYp
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

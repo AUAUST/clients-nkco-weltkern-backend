@@ -1,3 +1,34 @@
+Title: Eduardo Kac|Télescope intérieur
+
+----
+
+Multilinetitle:
+
+Eduardo Kac
+Télescope intérieur
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Eduardo Kac <br>Télescope intérieur'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Eduardo Kac
-Télescope intérieur
-
-----
-
 Uuid: y6BfUr5niBKk4k4C
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

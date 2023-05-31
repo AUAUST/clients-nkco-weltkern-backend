@@ -1,3 +1,31 @@
+Title: Via Lactea
+
+----
+
+Multilinetitle: Via Lactea
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Via Lactea
@@ -57,24 +85,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Via Lactea
-
-----
-
 Uuid: jav6xKVVx4H0mmgx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

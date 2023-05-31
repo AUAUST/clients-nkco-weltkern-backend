@@ -1,3 +1,34 @@
+Title: Ceremony|(Burial-of-an-Undead-World)
+
+----
+
+Multilinetitle:
+
+Ceremony
+(Burial-of-an-Undead-World)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ceremony <br>(Burial-of-an-Undead-World)'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ceremony
-(Burial-of-an-Undead-World)
-
-----
-
 Uuid: ufeCynd1AbSgSOBf
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

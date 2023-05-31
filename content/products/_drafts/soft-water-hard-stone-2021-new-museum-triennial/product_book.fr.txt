@@ -1,3 +1,34 @@
+Title: Soft Water Hard Stone|2021 New Museum Triennial
+
+----
+
+Multilinetitle:
+
+Soft Water Hard Stone
+2021 New Museum Triennial
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Soft Water Hard Stone <br>2021 New Museum Triennial'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Soft Water Hard Stone
-2021 New Museum Triennial
-
-----
-
 Uuid: PLqg8HFSVdS8W84p
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

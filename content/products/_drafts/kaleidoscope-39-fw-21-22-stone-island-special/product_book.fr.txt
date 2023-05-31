@@ -1,3 +1,34 @@
+Title: KALEIDOSCOPE #39 FW 21-22|STONE ISLAND SPECIAL
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #39 FW 21-22
+STONE ISLAND SPECIAL
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #39 FW 21-22 <br>STONE ISLAND SPECIAL'
@@ -85,27 +116,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-KALEIDOSCOPE #39 FW 21-22
-STONE ISLAND SPECIAL
-
-----
-
 Uuid: 9GYTjmakoWufFmal
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

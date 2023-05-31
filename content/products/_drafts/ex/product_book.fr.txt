@@ -1,3 +1,31 @@
+Title: Ex
+
+----
+
+Multilinetitle: Ex
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Ex
@@ -41,24 +69,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Ex
-
-----
-
 Uuid: L4hKVG3LBP2iyKuf
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

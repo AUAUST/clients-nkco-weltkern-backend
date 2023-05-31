@@ -1,3 +1,31 @@
+Title: Workout
+
+----
+
+Multilinetitle: Workout
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Workout
@@ -53,24 +81,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Workout
-
-----
-
 Uuid: 1bz3ujXuFtb06dbk
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

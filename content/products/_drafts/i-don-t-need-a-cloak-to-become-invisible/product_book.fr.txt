@@ -1,3 +1,31 @@
+Title: I don't need a cloak to become invisible
+
+----
+
+Multilinetitle: I don't need a cloak to become invisible
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: "I don't need a cloak to become invisible"
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: I don't need a cloak to become invisible
-
-----
-
 Uuid: 1LFMwSNokXw4fXrz
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

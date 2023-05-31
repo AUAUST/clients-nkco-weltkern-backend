@@ -1,3 +1,31 @@
+Title: Mousse magazine n°67
+
+----
+
+Multilinetitle: Mousse magazine n°67
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Mousse magazine n°67
@@ -56,24 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Mousse magazine n°67
-
-----
-
 Uuid: EryYGalvSoy3bi27
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

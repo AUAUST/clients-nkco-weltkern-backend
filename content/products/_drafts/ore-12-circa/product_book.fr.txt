@@ -1,3 +1,31 @@
+Title: Ore 12 Circa
+
+----
+
+Multilinetitle: Ore 12 Circa
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Ore 12 Circa
@@ -70,24 +98,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Ore 12 Circa
-
-----
-
 Uuid: dwePFi4ijSfrcH0k
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

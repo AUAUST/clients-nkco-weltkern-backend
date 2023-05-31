@@ -1,3 +1,34 @@
+Title: Christien Meindertsma|Checked Baggage
+
+----
+
+Multilinetitle:
+
+Christien Meindertsma
+Checked Baggage
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Christien Meindertsma <br>Checked Baggage'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Christien Meindertsma
-Checked Baggage
-
-----
-
 Uuid: ZbuAVBQiWSp7UdVZ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

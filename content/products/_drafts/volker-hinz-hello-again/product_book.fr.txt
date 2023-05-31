@@ -1,3 +1,34 @@
+Title: Volker Hinz|Hello. Again.
+
+----
+
+Multilinetitle:
+
+Volker Hinz
+Hello. Again.
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Volker Hinz <br>Hello. Again.'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Volker Hinz
-Hello. Again.
-
-----
-
 Uuid: RZ6stZeRipJPudeM
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

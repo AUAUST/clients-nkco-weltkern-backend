@@ -1,3 +1,34 @@
+Title: Mathias Braschler & Monika Fischer|China
+
+----
+
+Multilinetitle:
+
+Mathias Braschler & Monika Fischer
+China
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mathias Braschler & Monika Fischer <br>China'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Mathias Braschler & Monika Fischer
-China
-
-----
-
 Uuid: mLIJyVfRTvZw33b8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

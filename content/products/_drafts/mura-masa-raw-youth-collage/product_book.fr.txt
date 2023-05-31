@@ -1,3 +1,34 @@
+Title: Mura Masa|Raw Youth Collage
+
+----
+
+Multilinetitle:
+
+Mura Masa
+Raw Youth Collage
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mura Masa <br>Raw Youth Collage'
@@ -46,27 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Mura Masa
-Raw Youth Collage
-
-----
-
 Uuid: SAjrZa76N4qWTUeb
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

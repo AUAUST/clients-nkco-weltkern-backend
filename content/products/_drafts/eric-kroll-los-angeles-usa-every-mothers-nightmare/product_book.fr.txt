@@ -1,3 +1,34 @@
+Title: Eric Kroll (Los Angeles, USA)|Every Mother’s Nightmare
+
+----
+
+Multilinetitle:
+
+Eric Kroll (Los Angeles, USA)
+Every Mother’s Nightmare
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Eric Kroll (Los Angeles, USA) <br>Every Mother’s Nightmare'
@@ -38,27 +69,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Eric Kroll (Los Angeles, USA)
-Every Mother’s Nightmare
-
-----
-
 Uuid: HDluPIwqjuc0BAV8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Alexandra Dautel|May You Continue To Blossom
+
+----
+
+Multilinetitle:
+
+Alexandra Dautel
+May You Continue To Blossom
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Alexandra Dautel <br>May You Continue To Blossom'
@@ -61,27 +92,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Alexandra Dautel
-May You Continue To Blossom
-
-----
-
 Uuid: 4V1Nlo7jWylrXqIu
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

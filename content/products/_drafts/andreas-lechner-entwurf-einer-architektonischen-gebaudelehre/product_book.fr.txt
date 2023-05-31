@@ -1,3 +1,34 @@
+Title: Andreas Lechner|Entwurf einer architektonischen Gebäudelehre
+
+----
+
+Multilinetitle:
+
+Andreas Lechner
+Entwurf einer architektonischen Gebäudelehre
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Andreas Lechner <br>Entwurf einer architektonischen Gebäudelehre'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Andreas Lechner
-Entwurf einer architektonischen Gebäudelehre
-
-----
-
 Uuid: jCb6QYXeFwHJFbac
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

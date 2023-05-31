@@ -1,3 +1,34 @@
+Title: Tova Mozard|Cops, Psychics And Comedy
+
+----
+
+Multilinetitle:
+
+Tova Mozard
+Cops, Psychics And Comedy
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Tova Mozard <br>Cops, Psychics And Comedy'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tova Mozard
-Cops, Psychics And Comedy
-
-----
-
 Uuid: 8YZht0E9QOJ6QtdY
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

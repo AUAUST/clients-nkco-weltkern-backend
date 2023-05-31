@@ -1,3 +1,31 @@
+Title: Fiction Practice
+
+----
+
+Multilinetitle: Fiction Practice
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Fiction Practice
@@ -30,24 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Fiction Practice
-
-----
-
 Uuid: ADqqBxxxDJ3D2PZD
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

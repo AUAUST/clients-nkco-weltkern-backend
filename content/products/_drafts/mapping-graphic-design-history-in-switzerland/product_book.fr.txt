@@ -1,3 +1,31 @@
+Title: Mapping Graphic Design History in Switzerland
+
+----
+
+Multilinetitle: Mapping Graphic Design History in Switzerland
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -68,24 +96,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Mapping Graphic Design History in Switzerland
-
-----
-
 Uuid: x6jHlBu6OjBUHG2Y
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

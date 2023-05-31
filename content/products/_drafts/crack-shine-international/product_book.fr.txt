@@ -1,3 +1,31 @@
+Title: Crack & Shine International
+
+----
+
+Multilinetitle: Crack & Shine International
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Crack & Shine International'
@@ -40,24 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Crack & Shine International
-
-----
-
 Uuid: 7K8MQAaDirh2mhS4
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

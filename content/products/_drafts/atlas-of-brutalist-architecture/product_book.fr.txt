@@ -1,3 +1,31 @@
+Title: Atlas of Brutalist Architecture
+
+----
+
+Multilinetitle: Atlas of Brutalist Architecture
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Atlas of Brutalist Architecture
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Atlas of Brutalist Architecture
-
-----
-
 Uuid: tTacP0JYjh5pQ5Tj
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

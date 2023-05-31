@@ -1,3 +1,31 @@
+Title: Still Life
+
+----
+
+Multilinetitle: Still Life
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Still Life
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Still Life
-
-----
-
 Uuid: k79J56bhYcGnopBl
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

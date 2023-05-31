@@ -1,3 +1,34 @@
+Title: Martin Parr|Boring Postcards USA
+
+----
+
+Multilinetitle:
+
+Martin Parr
+Boring Postcards USA
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Martin Parr <br>Boring Postcards USA'
@@ -40,27 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Martin Parr
-Boring Postcards USA
-
-----
-
 Uuid: aZz2ZYlIdyAsKQZg
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

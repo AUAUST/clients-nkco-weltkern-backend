@@ -1,3 +1,34 @@
+Title: Tine Bek|The Vulgarity of Being Three-Dimensional
+
+----
+
+Multilinetitle:
+
+Tine Bek
+The Vulgarity of Being Three-Dimensional
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Tine Bek <br>The Vulgarity of Being Three-Dimensional'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Tine Bek
-The Vulgarity of Being Three-Dimensional
-
-----
-
 Uuid: 2IjLGMwK97O2nYPi
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

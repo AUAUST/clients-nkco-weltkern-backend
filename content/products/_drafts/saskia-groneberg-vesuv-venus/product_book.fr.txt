@@ -1,3 +1,34 @@
+Title: Saskia Groneberg|Vesuv, Venus
+
+----
+
+Multilinetitle:
+
+Saskia Groneberg
+Vesuv, Venus
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Saskia Groneberg <br>Vesuv, Venus'
@@ -35,27 +66,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Saskia Groneberg
-Vesuv, Venus
-
-----
-
 Uuid: cNdfoD2VXHnTsdPF
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

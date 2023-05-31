@@ -1,3 +1,34 @@
+Title: Casebook|Independent Film Culture
+
+----
+
+Multilinetitle:
+
+Casebook
+Independent Film Culture
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Casebook <br>Independent Film Culture'
@@ -42,27 +73,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Casebook
-Independent Film Culture
-
-----
-
 Uuid: jjAoH2A3I5pMfSyF
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

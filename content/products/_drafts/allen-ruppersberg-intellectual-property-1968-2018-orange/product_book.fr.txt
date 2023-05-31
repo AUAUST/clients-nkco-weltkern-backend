@@ -1,3 +1,31 @@
+Title: Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)
+
+----
+
+Multilinetitle: Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)'
@@ -41,24 +69,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)
-
-----
-
 Uuid: IkZSrcuxyhbN2Wtq
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Pocket Guide|Dan Mitchell Posters
+
+----
+
+Multilinetitle:
+
+Pocket Guide
+Dan Mitchell Posters
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Pocket Guide <br>Dan Mitchell Posters'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Pocket Guide
-Dan Mitchell Posters
-
-----
-
 Uuid: F1vrfazGJnq7hh5S
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

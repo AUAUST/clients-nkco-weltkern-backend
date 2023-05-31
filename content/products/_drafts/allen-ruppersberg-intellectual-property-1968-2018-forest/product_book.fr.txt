@@ -1,3 +1,31 @@
+Title: Allen Ruppersberg: Intellectual Property, 1968-2018 (Forest)
+
+----
+
+Multilinetitle: Allen Ruppersberg: Intellectual Property, 1968-2018 (Forest)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Allen Ruppersberg: Intellectual Property, 1968-2018 (Forest)'
@@ -41,24 +69,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Allen Ruppersberg: Intellectual Property, 1968-2018 (Forest)
-
-----
-
 Uuid: Y0lrJf2sUmtnt0UC
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

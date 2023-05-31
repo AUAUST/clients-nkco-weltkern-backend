@@ -1,3 +1,34 @@
+Title: Missoni|The Great Italian Fashion
+
+----
+
+Multilinetitle:
+
+Missoni
+The Great Italian Fashion
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Missoni <br>The Great Italian Fashion'
@@ -36,27 +67,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Missoni
-The Great Italian Fashion
-
-----
-
 Uuid: w3R8RpOhPv2gPvsR
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

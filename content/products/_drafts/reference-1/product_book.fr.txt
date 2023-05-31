@@ -1,3 +1,31 @@
+Title: Reference #1
+
+----
+
+Multilinetitle: Reference #1
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Reference #1'
@@ -27,24 +55,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Reference #1
-
-----
-
 Uuid: HZrc70SzXZQrJ2uO
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

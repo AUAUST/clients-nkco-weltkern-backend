@@ -1,3 +1,34 @@
+Title: Weber – 0001|Blue/Orange Cover
+
+----
+
+Multilinetitle:
+
+Weber – 0001
+Blue/Orange Cover
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Weber – 0001 <br>Blue/Orange Cover'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Weber – 0001
-Blue/Orange Cover
-
-----
-
 Uuid: jqMvlEF9C7SrJqa0
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

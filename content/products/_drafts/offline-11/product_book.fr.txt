@@ -1,3 +1,31 @@
+Title: Offline #11
+
+----
+
+Multilinetitle: Offline #11
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Offline #11'
@@ -51,24 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Offline #11
-
-----
-
 Uuid: h3Ew7XR6znXJ7FVn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

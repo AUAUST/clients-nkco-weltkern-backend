@@ -1,3 +1,34 @@
+Title: Le Silver Book|Second Edition
+
+----
+
+Multilinetitle:
+
+Le Silver Book
+Second Edition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Le Silver Book <br>Second Edition'
@@ -47,27 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Le Silver Book
-Second Edition
-
-----
-
 Uuid: Q4iUPd3e5hS2coxH
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

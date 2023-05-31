@@ -1,3 +1,31 @@
+Title: Giorgio Armani
+
+----
+
+Multilinetitle: Giorgio Armani
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Giorgio Armani
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Giorgio Armani
-
-----
-
 Uuid: AFM4x4L2U0fTGi4R
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Nicolas Frey|Monsters in Suits
+
+----
+
+Multilinetitle:
+
+Nicolas Frey
+Monsters in Suits
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Nicolas Frey <br>Monsters in Suits'
@@ -31,27 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Nicolas Frey
-Monsters in Suits
-
-----
-
 Uuid: 8R1EF3rCwKZn5u8W
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

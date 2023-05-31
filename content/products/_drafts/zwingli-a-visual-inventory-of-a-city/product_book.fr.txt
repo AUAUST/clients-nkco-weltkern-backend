@@ -1,3 +1,34 @@
+Title: Zwingli|A visual Inventory of a City
+
+----
+
+Multilinetitle:
+
+Zwingli
+A visual Inventory of a City
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Zwingli <br>A visual Inventory of a City'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Zwingli
-A visual Inventory of a City
-
-----
-
 Uuid: yz41C161UyDlC2i2
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

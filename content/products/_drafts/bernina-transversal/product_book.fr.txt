@@ -1,3 +1,31 @@
+Title: Bernina transversal
+
+----
+
+Multilinetitle: Bernina transversal
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Bernina transversal
@@ -36,24 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Bernina transversal
-
-----
-
 Uuid: yykitiJrFHIST4Z4
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

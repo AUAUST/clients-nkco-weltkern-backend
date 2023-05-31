@@ -1,3 +1,31 @@
+Title: Zwischen Anlagen Anderer
+
+----
+
+Multilinetitle: Zwischen Anlagen Anderer
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Zwischen Anlagen Anderer
@@ -76,24 +104,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Zwischen Anlagen Anderer
-
-----
-
 Uuid: xMefserJWE6HdfAR
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

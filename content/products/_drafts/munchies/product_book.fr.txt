@@ -1,3 +1,31 @@
+Title: Munchies
+
+----
+
+Multilinetitle: Munchies
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Munchies
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Munchies
-
-----
-
 Uuid: p4CQywDkyDGjoObx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

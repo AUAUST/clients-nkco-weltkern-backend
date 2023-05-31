@@ -1,3 +1,31 @@
+Title: Flash Art n°325
+
+----
+
+Multilinetitle: Flash Art n°325
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Flash Art n°325
@@ -28,24 +56,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Flash Art n°325
-
-----
-
 Uuid: u8x8clJMw18fQF2T
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

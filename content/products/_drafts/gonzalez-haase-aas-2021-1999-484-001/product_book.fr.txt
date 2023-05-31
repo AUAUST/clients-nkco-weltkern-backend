@@ -1,3 +1,34 @@
+Title: Gonzalez Haase|AAS: 2021-1999 484-001
+
+----
+
+Multilinetitle:
+
+Gonzalez Haase
+AAS: 2021-1999 484-001
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Gonzalez Haase <br>AAS: 2021-1999 484-001'
@@ -48,27 +79,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Gonzalez Haase
-AAS: 2021-1999 484-001
-
-----
-
 Uuid: yULKHwvqbcRDgzb8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

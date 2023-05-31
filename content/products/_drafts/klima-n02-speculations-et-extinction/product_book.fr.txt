@@ -1,3 +1,34 @@
+Title: Klima n°2|Spéculations et extinction
+
+----
+
+Multilinetitle:
+
+Klima n°2
+Spéculations et extinction
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Klima n°2 <br>Spéculations et extinction'
@@ -64,27 +95,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Klima n°2
-Spéculations et extinction
-
-----
-
 Uuid: UbVOsz9f87XCcFNi
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

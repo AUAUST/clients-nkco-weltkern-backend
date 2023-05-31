@@ -1,3 +1,31 @@
+Title: Embodying Anew
+
+----
+
+Multilinetitle: Embodying Anew
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Embodying Anew
@@ -42,24 +70,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Embodying Anew
-
-----
-
 Uuid: JqEcB91VJbbB3pu2
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

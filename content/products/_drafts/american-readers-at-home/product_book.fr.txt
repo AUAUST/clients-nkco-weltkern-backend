@@ -1,3 +1,31 @@
+Title: American Readers at Home
+
+----
+
+Multilinetitle: American Readers at Home
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: American Readers at Home
@@ -66,24 +94,4 @@ tags:
 
 ----
 
-Multilinetitle: American Readers at Home
-
-----
-
 Uuid: S98lU78LHpg0CBcF
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

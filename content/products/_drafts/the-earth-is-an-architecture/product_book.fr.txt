@@ -1,3 +1,31 @@
+Title: The Earth is an Architecture
+
+----
+
+Multilinetitle: The Earth is an Architecture
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Earth is an Architecture
@@ -34,24 +62,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Earth is an Architecture
-
-----
-
 Uuid: ethN7fK3ui39JFaN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

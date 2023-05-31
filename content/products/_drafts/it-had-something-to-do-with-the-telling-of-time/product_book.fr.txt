@@ -1,3 +1,31 @@
+Title: It Had Something To Do With The Telling Of Time
+
+----
+
+Multilinetitle: It Had Something To Do With The Telling Of Time
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -33,24 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: It Had Something To Do With The Telling Of Time
-
-----
-
 Uuid: WCRgnGjT5QikDxYh
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

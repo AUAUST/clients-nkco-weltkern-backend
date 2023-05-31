@@ -1,3 +1,31 @@
+Title: The Snows of Venice
+
+----
+
+Multilinetitle: The Snows of Venice
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Snows of Venice
@@ -48,24 +76,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Snows of Venice
-
-----
-
 Uuid: lsBO2pC0YMNA1vIe
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Hans-Christian Schink|Hinterland
+
+----
+
+Multilinetitle:
+
+Hans-Christian Schink
+Hinterland
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Hans-Christian Schink <br>Hinterland'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Hans-Christian Schink
-Hinterland
-
-----
-
 Uuid: dvZzCOAWPqReaNKW
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

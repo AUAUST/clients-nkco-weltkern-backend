@@ -1,3 +1,34 @@
+Title: Heinz Peter Knes|E.M.T. in MSP
+
+----
+
+Multilinetitle:
+
+Heinz Peter Knes
+E.M.T. in MSP
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Heinz Peter Knes <br>E.M.T. in MSP'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Heinz Peter Knes
-E.M.T. in MSP
-
-----
-
 Uuid: 6gFiVXyFICmuxBHS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

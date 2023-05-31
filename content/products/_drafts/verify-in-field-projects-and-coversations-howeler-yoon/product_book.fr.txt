@@ -1,3 +1,34 @@
+Title: Verify in Field|Projects and Coversations Höweler + Yoon
+
+----
+
+Multilinetitle:
+
+Verify in Field
+Projects and Coversations Höweler + Yoon
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Verify in Field <br>Projects and Coversations Höweler + Yoon'
@@ -33,27 +64,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Verify in Field
-Projects and Coversations Höweler + Yoon
-
-----
-
 Uuid: IT0UxbF0dv7pNiI0
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

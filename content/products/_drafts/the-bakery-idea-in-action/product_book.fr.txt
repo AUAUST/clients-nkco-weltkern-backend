@@ -1,3 +1,34 @@
+Title: The Bakery|Idea in Action
+
+----
+
+Multilinetitle:
+
+The Bakery
+Idea in Action
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'The Bakery <br>Idea in Action'
@@ -53,27 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-The Bakery
-Idea in Action
-
-----
-
 Uuid: 0yYZqw8qThPb4Uno
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

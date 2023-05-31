@@ -1,3 +1,31 @@
+Title: Chaque Mercredi Caracas
+
+----
+
+Multilinetitle: Chaque Mercredi Caracas
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Chaque Mercredi Caracas
@@ -29,24 +57,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Chaque Mercredi Caracas
-
-----
-
 Uuid: gIh1xSyd7Ase26ap
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

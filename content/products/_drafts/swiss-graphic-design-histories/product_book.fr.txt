@@ -1,3 +1,31 @@
+Title: Swiss Graphic Design Histories
+
+----
+
+Multilinetitle: Swiss Graphic Design Histories
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Swiss Graphic Design Histories
@@ -39,24 +67,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Swiss Graphic Design Histories
-
-----
-
 Uuid: PIBuiHpKLs7eZsyu
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

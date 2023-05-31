@@ -1,3 +1,34 @@
+Title: Shared Cities Atlas|Post-socialist Cities and Active Citizenship in Central Europe
+
+----
+
+Multilinetitle:
+
+Shared Cities Atlas
+Post-socialist Cities and Active Citizenship in Central Europe
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Shared Cities Atlas <br>Post-socialist Cities and Active Citizenship in Central Europe'
@@ -43,27 +74,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Shared Cities Atlas
-Post-socialist Cities and Active Citizenship in Central Europe
-
-----
-
 Uuid: u5PkippyV5pYmGAz
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

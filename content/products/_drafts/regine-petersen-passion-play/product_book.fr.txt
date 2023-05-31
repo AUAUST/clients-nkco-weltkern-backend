@@ -1,3 +1,34 @@
+Title: Regine Petersen|Passion Play
+
+----
+
+Multilinetitle:
+
+Regine Petersen
+Passion Play
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Regine Petersen <br>Passion Play'
@@ -27,27 +58,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Regine Petersen
-Passion Play
-
-----
-
 Uuid: GETlrafnouX9CNzR
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

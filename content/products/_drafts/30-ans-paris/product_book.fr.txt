@@ -1,3 +1,31 @@
+Title: 30 ans Ã Paris
+
+----
+
+Multilinetitle: 30 ans Ã Paris
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 30 ans Ã  Paris
@@ -49,24 +77,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: 30 ans Ã Paris
-
-----
-
 Uuid: F0tRyQzzqpaJJZmW
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

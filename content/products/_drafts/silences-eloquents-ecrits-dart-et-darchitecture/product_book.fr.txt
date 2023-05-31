@@ -1,3 +1,31 @@
+Title: Silences éloquents. Écrits d’art et d’architecture.
+
+----
+
+Multilinetitle: Silences éloquents. Écrits d’art et d’architecture.
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: >
@@ -48,24 +76,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Silences éloquents. Écrits d’art et d’architecture.
-
-----
-
 Uuid: aV0Wy2MqUgJlNWWt
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Dutch designers|Yearbook 2021
+
+----
+
+Multilinetitle:
+
+Dutch designers
+Yearbook 2021
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Dutch designers <br>Yearbook 2021'
@@ -30,27 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Dutch designers
-Yearbook 2021
-
-----
-
 Uuid: 6tk5u72fdYYps3RP
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

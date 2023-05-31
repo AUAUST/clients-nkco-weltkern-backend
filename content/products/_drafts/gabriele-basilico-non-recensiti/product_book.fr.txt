@@ -1,3 +1,34 @@
+Title: Gabriele Basilico|Non recensiti
+
+----
+
+Multilinetitle:
+
+Gabriele Basilico
+Non recensiti
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Gabriele Basilico <br>Non recensiti'
@@ -61,27 +92,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Gabriele Basilico
-Non recensiti
-
-----
-
 Uuid: 1dVpGxHAvI7ckBgO
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

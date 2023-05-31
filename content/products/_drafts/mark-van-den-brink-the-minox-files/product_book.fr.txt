@@ -1,3 +1,34 @@
+Title: Mark van den Brink|The Minox Files
+
+----
+
+Multilinetitle:
+
+Mark van den Brink
+The Minox Files
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Mark van den Brink <br>The Minox Files'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Mark van den Brink
-The Minox Files
-
-----
-
 Uuid: m2xGaKvRQmQCc9zS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

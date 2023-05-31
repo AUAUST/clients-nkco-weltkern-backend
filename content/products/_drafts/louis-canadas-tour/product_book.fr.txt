@@ -1,3 +1,34 @@
+Title: Louis Canadas|Tour
+
+----
+
+Multilinetitle:
+
+Louis Canadas
+Tour
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Louis Canadas <br>Tour'
@@ -28,27 +59,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Louis Canadas
-Tour
-
-----
-
 Uuid: mPST7zSHDtH725K5
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

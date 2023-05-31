@@ -1,3 +1,31 @@
+Title: Immediate Spaces 16–19
+
+----
+
+Multilinetitle: Immediate Spaces 16–19
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Immediate Spaces 16–19
@@ -56,24 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Immediate Spaces 16–19
-
-----
-
 Uuid: hZlhXMCivQ0I6Pu5
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

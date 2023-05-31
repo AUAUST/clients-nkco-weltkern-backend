@@ -1,3 +1,35 @@
+Title: Stanislaus von Moos|Erste Hilfe|Architekturdiskurs nach 1940 Eine Schweizer Spurensuche
+
+----
+
+Multilinetitle:
+
+Stanislaus von Moos
+Erste Hilfe
+Architekturdiskurs nach 1940 Eine Schweizer Spurensuche
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Stanislaus von Moos <br>Erste Hilfe <br>Architekturdiskurs nach 1940 Eine Schweizer Spurensuche'
@@ -29,28 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Stanislaus von Moos
-Erste Hilfe
-Architekturdiskurs nach 1940 Eine Schweizer Spurensuche
-
-----
-
 Uuid: yNNVrZwJEB9vyk9d
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Design Capital #1|The Circuit
+
+----
+
+Multilinetitle:
+
+Design Capital #1
+The Circuit
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Design Capital #1 <br>The Circuit'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Design Capital #1
-The Circuit
-
-----
-
 Uuid: LcfRf1hT9gcbCd4L
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

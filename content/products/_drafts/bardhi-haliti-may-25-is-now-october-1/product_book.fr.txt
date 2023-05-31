@@ -1,3 +1,34 @@
+Title: Bardhi Haliti|May 25 is now October 1
+
+----
+
+Multilinetitle:
+
+Bardhi Haliti
+May 25 is now October 1
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Bardhi Haliti <br>May 25 is now October 1'
@@ -60,27 +91,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Bardhi Haliti
-May 25 is now October 1
-
-----
-
 Uuid: RF5i1QdbHRDSiBvB
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

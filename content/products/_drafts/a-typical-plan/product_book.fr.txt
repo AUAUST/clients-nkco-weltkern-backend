@@ -1,3 +1,31 @@
+Title: A-Typical Plan
+
+----
+
+Multilinetitle: A-Typical Plan
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: A-Typical Plan
@@ -56,24 +84,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: A-Typical Plan
-
-----
-
 Uuid: W4MppKUowg6ErONH
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

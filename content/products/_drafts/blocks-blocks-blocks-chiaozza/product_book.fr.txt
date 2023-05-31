@@ -1,3 +1,34 @@
+Title: Blocks Blocks Blocks|Chiaozza
+
+----
+
+Multilinetitle:
+
+Blocks Blocks Blocks
+Chiaozza
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Blocks Blocks Blocks <br>Chiaozza'
@@ -38,27 +69,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Blocks Blocks Blocks
-Chiaozza
-
-----
-
 Uuid: C3eTFfqDsDO5SmHt
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

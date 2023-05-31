@@ -1,3 +1,34 @@
+Title: Daniel Arsham|Paris, 3020
+
+----
+
+Multilinetitle:
+
+Daniel Arsham
+Paris, 3020
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Daniel Arsham <br>Paris, 3020'
@@ -49,27 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Daniel Arsham
-Paris, 3020
-
-----
-
 Uuid: 0lFmOUY1Wwi95D5n
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

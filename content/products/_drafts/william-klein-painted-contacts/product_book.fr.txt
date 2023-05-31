@@ -1,3 +1,34 @@
+Title: William Klein|Painted Contacts
+
+----
+
+Multilinetitle:
+
+William Klein
+Painted Contacts
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'William Klein <br>Painted Contacts'
@@ -49,27 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-William Klein
-Painted Contacts
-
-----
-
 Uuid: qw0YmYfLyXri8hSx
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,31 @@
+Title: Toiletpaper Magazine n° 19
+
+----
+
+Multilinetitle: Toiletpaper Magazine n° 19
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Toiletpaper Magazine n° 19
@@ -27,24 +55,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Toiletpaper Magazine n° 19
-
-----
-
 Uuid: zx4Ac5JarBr1W7xd
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Painted Faces|Broadcast Material 1989–2006
+
+----
+
+Multilinetitle:
+
+Painted Faces
+Broadcast Material 1989–2006
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Painted Faces <br>Broadcast Material 1989–2006'
@@ -47,27 +78,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Painted Faces
-Broadcast Material 1989–2006
-
-----
-
 Uuid: A5hwb6Q5NAKRDNXq
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

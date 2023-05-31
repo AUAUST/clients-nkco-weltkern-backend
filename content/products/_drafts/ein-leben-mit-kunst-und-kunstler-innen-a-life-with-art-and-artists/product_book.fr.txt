@@ -1,3 +1,34 @@
+Title: Ein Leben mit Kunst und Künstler|innen / A Life with Art and Artists
+
+----
+
+Multilinetitle:
+
+Ein Leben mit Kunst und Künstler
+innen / A Life with Art and Artists
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ein Leben mit Kunst und Künstler <br>innen / A Life with Art and Artists'
@@ -35,27 +66,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ein Leben mit Kunst und Künstler
-innen / A Life with Art and Artists
-
-----
-
 Uuid: aq80U6Sz8MLIL6FG
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

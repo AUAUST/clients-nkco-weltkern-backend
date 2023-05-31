@@ -1,3 +1,34 @@
+Title: Xiaopeng Yuan|Our friends
+
+----
+
+Multilinetitle:
+
+Xiaopeng Yuan
+Our friends
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Xiaopeng Yuan <br>Our friends'
@@ -32,27 +63,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Xiaopeng Yuan
-Our friends
-
-----
-
 Uuid: fEnNheAVgbiuKiYq
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

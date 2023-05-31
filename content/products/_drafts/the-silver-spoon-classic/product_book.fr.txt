@@ -1,3 +1,31 @@
+Title: The Silver Spoon Classic
+
+----
+
+Multilinetitle: The Silver Spoon Classic
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The Silver Spoon Classic
@@ -44,24 +72,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The Silver Spoon Classic
-
-----
-
 Uuid: BxXfZnwFSCjSwLaQ
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

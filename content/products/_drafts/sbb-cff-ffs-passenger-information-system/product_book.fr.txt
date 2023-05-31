@@ -1,3 +1,34 @@
+Title: SBB CFF FFS|Passenger Information System
+
+----
+
+Multilinetitle:
+
+SBB CFF FFS
+Passenger Information System
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'SBB CFF FFS <br>Passenger Information System'
@@ -45,27 +76,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-SBB CFF FFS
-Passenger Information System
-
-----
-
 Uuid: dm6BUiog2JNg3qlj
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

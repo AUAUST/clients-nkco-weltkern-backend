@@ -1,3 +1,35 @@
+Title: Aurélien Mole|Éric Tabuchi|Un être, un acte, un objet, un lieu
+
+----
+
+Multilinetitle:
+
+Aurélien Mole
+Éric Tabuchi
+Un être, un acte, un objet, un lieu
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Aurélien Mole <br>Éric Tabuchi <br>Un être, un acte, un objet, un lieu'
@@ -39,28 +71,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Aurélien Mole
-Éric Tabuchi
-Un être, un acte, un objet, un lieu
-
-----
-
 Uuid: Ac0BbqEBUBsTXpDN
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

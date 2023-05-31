@@ -1,3 +1,31 @@
+Title: Echoing Exhibition Views
+
+----
+
+Multilinetitle: Echoing Exhibition Views
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Echoing Exhibition Views
@@ -32,24 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Echoing Exhibition Views
-
-----
-
 Uuid: VBr3mGC3WcfcMD56
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

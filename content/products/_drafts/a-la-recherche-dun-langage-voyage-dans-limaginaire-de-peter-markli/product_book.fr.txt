@@ -1,3 +1,34 @@
+Title: À la recherche d’un langage|Voyage dans l’imaginaire de Peter Märkli|
+
+----
+
+Multilinetitle:
+
+À la recherche d’un langage
+Voyage dans l’imaginaire de Peter Märkli
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'À la recherche d’un langage <br>Voyage dans l’imaginaire de Peter Märkli<br>'
@@ -59,27 +90,4 @@ tags:
 
 ----
 
-Multilinetitle:
-
-À la recherche d’un langage
-Voyage dans l’imaginaire de Peter Märkli
-
-----
-
 Uuid: jXOdzzkurXkvRA5Y
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

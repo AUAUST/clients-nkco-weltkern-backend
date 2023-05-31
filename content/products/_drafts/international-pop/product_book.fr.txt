@@ -1,3 +1,31 @@
+Title: International Pop
+
+----
+
+Multilinetitle: International Pop
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: International Pop
@@ -29,24 +57,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: International Pop
-
-----
-
 Uuid: Dp7KkmxBB08Tjxtz
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

@@ -1,3 +1,34 @@
+Title: Harry Hachmeister|harry
+
+----
+
+Multilinetitle:
+
+Harry Hachmeister
+harry
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Harry Hachmeister <br>harry'
@@ -37,27 +68,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Harry Hachmeister
-harry
-
-----
-
 Uuid: wZldZzKxViNO1XXW
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

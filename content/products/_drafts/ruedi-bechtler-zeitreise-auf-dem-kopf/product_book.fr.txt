@@ -1,3 +1,34 @@
+Title: Ruedi Bechtler|Zeitreise auf dem Kopf
+
+----
+
+Multilinetitle:
+
+Ruedi Bechtler
+Zeitreise auf dem Kopf
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: 'Ruedi Bechtler <br>Zeitreise auf dem Kopf'
@@ -29,27 +60,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle:
-
-Ruedi Bechtler
-Zeitreise auf dem Kopf
-
-----
-
 Uuid: VjBMYwrYCFUER5Ud
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

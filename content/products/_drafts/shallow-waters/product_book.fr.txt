@@ -1,3 +1,31 @@
+Title: Shallow Waters
+
+----
+
+Multilinetitle: Shallow Waters
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: Shallow Waters
@@ -33,24 +61,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: Shallow Waters
-
-----
-
 Uuid: MuJNjtaJRBBkiivp
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 

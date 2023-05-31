@@ -1,3 +1,31 @@
+Title: The World of Apartamento
+
+----
+
+Multilinetitle: The World of Apartamento
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
 Oldweltkern:
 
 title: The World of Apartamento
@@ -52,24 +80,4 @@ tags: [ ]
 
 ----
 
-Multilinetitle: The World of Apartamento
-
-----
-
 Uuid: 3z5mHr49p7jH0Dt2
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
