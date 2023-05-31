@@ -94,7 +94,6 @@ return [
         $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br>';
         $returnString .= 'poids: ' . json_encode($product['poids']) . '<br>';
         $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
-        $returnString .= 'welt_price: ' . $product['welt_price'] . '<br>';
         $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
         $returnString .= 'ISBN: ' . (function () use ($product) {
           foreach ($product['header'][0]['header']['block_option'] as $option) {

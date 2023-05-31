@@ -122,6 +122,12 @@ columns:
               fr: Contient les informations de l'ancien Weltkern, pour la migration mais aussi pour rendre le nouveau site rétrocompatible.
               en: Contains the old Weltkern informations, for the migration but also to make the new site retrocompatible.
             fields:
+              title:
+                type: text
+                disabled: true
+                label:
+                  fr: Titre
+                  en: Title
               slug:
                 type: text
                 disabled: true
