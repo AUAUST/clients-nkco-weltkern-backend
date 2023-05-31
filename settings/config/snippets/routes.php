@@ -65,7 +65,7 @@ return [
       //     id: 12312
       // cover: ""
 
-      $newProducts = [];
+      // $newProducts = [];
       $products = WK1::products();
 
       $productsPage = page('products');
@@ -75,9 +75,9 @@ return [
 
       foreach ($products as $index => $product) {
 
-        // if ($index > 1) {
-        //   break;
-        // }
+        if ($index > 0) {
+          break;
+        }
 
         // Only extract books, not typefaces nor stationery
         if ($product['categories'][0]['slug'] !== 'books') {
