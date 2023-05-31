@@ -162,10 +162,14 @@ columns:
                 type: textarea
                 disabled: true
                 buttons: false
+                width: 2/3
+                size: medium
               details:
                 type: textarea
                 disabled: true
                 buttons: false
+                width: 1/3
+                size: medium
               gallery:
                 type: structure
                 width: 1/2
