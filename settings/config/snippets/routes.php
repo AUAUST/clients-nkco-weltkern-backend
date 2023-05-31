@@ -68,6 +68,9 @@ return [
         $title = preg_replace('/<br\s*\/?>/', '|', $title);
         // Remove all other HTML tags
         $title = Str::unhtml($title);
+        // Deduplicate spaces, and remove spaces next to a pipe
+        $title = preg_replace('/\s+/', ' ', $title);
+        $title = preg_replace('/\s*\|\s*/', '|', $title);
 
         $slug = Str::slug($title);
         $content = [
