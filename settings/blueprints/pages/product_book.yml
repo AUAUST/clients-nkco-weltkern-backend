@@ -164,6 +164,21 @@ columns:
                   fr: Poids
                   en: Weight
                 after: kg
+              author:
+                type: object
+                fields:
+                  name:
+                    type: text
+                    disabled: true
+                    label:
+                      fr: Nom
+                      en: Name
+                    width: 3/4
+                  id:
+                    type: number
+                    disabled: true
+                    label: ID
+                    width: 1/4
               description:
                 type: textarea
                 disabled: true

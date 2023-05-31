@@ -90,8 +90,13 @@ return [
         $returnString .= 'price: ' . $product['price'] . '<br>';
         $returnString .= 'weight: ' . $product['weight'] . '<br>';
         $returnString .= 'categories: ' . json_encode($product['categories']) . '<br>';
-        $returnString .= 'tags: ' . json_encode($product['tags']) . '<br>';
-        $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br>';
+        $returnString .= 'tags: ' . json_encode($product['tags']) . '<br><br>';
+        $returnString .= 'header: ' . json_encode($product['header'][0]['header']) . '<br><br><br>';
+
+        $author = $product['header'][0]['header']['author_information']['author'];
+        $returnString .= 'author_name: ' . $author['name'] . '<br>';
+        $returnString .= 'author_id: ' . $author['term_id'] . '<br>';
+
         $returnString .= 'poids: ' . json_encode($product['poids']) . '<br>';
         $returnString .= 'header_color: ' . $product['header_color'] . '<br>';
         $returnString .= 'options: ' . json_encode($product['options']) . '<br>';
