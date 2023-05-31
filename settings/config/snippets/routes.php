@@ -165,5 +165,37 @@ return [
 
       return $returnString;
     }
-  ]
+  ],
+  [
+    'pattern' => 'update-weltkern',
+    'language' => '*',
+    'action' => function () {
+      $productsPage = page('products');
+      $products = $productsPage->drafts();
+
+      $isbns = '';
+      $noisbn = 0;
+
+      foreach ($products as $product) {
+
+        $isbn = $product->oldWeltkern()->toObject()->isbn()->toString();
+
+        if ($isbn === 'NO ISBN') {
+          $noisbn++;
+          continue;
+        }
+
+        $isbns .= $isbn . '<br>';
+
+        // $product = $product->update([
+        //   'isbn' => [
+        //     '10' => $product->isbn(),
+        //     '13' => $product->isbn13(),
+        //   ]
+        // ]);
+      }
+
+      return 'Missing ISBN: ' . $noisbn . '<br><br>' . $isbns;
+    }
+  ],
 ];
