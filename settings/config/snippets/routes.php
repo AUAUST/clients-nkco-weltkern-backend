@@ -204,24 +204,41 @@ return [
         $oldWeltkern = $product->oldWeltkern()->toObject();
         $content = [];
 
-        // Get an parse ISBN
+        // Get and parse ISBN
         $rawIsbn = $oldWeltkern->isbn()->toString();
         $isbn = trim($rawIsbn);
 
         if ($isbn !== 'NO ISBN') {
-          // If the ISBN has both 10 and 13 digits (2955701072 / 978-2-955-70107-2), trim the first one
-          if (preg_match('/^(\d{10})\s*\/\s*/', $isbn, $matches)) {
-            $isbn = Str::after($isbn, $matches[0]);
+          // If there's both the ISBN 10 and 13, we split the slash and keep the 13
+          // Necessary because lot of the stored ISBNs are in the "2955701072 / 978-2-955-70107-2" format
+          if (
+            $isbn13 = explode('/', $isbn)[1] ?? false
+          ) {
+            $isbn = $isbn13;
           }
 
-          // Remove dashes from the ISBN
-          $isbn = preg_replace('/-/', '', $isbn);
-          // Insert back the dashes at the right places (normalizes the ISBN)
-          $isbn = preg_replace('/(\d{3})(\d{1,5})(\d{1,7})(\d{1,7})(\d{1,7})/', '$1-$2-$3-$4-$5', $isbn);
+          $change = '0: NONE';
+
+          // Remove all non-digit characters from the ISBN
+          // Trims and removes dashes at the same time
+          $isbn = preg_replace('/\D/', '', $isbn);
+
+          // If the ISBN has 10 digits, convert it to 13
+          if (strlen($isbn) === 10 && Str::startsWith($isbn, '978') === false) {
+            $isbn = '978' . $isbn;
+            $change = '1: 10 to 13';
+          }
+
+          // The the ISBN hasn't 13 digits, add a note
+          if (strlen($isbn) !== 13) {
+            $change = '1: NOT 13';
+          }
 
           $content['isbn'] = [
             'wk1' => $rawIsbn,
-            'isbn13' => $isbn
+            'isbn13' => $isbn,
+            'change' => $change,
+            'book' => $product->title()->toString(),
           ];
         }
 
