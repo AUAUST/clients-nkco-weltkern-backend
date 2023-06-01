@@ -200,18 +200,15 @@ return [
 
       $contents = [];
 
-      foreach ($products as $product) {
-        $oldWeltkern = $product->oldWeltkern()->toObject();
-        $content = [];
-
-        // Get and parse ISBN
-        $rawIsbn = $oldWeltkern->isbn()->toString();
-        $isbn = trim($rawIsbn);
+      function getIsbn($isbn)
+      {
+        $isbn = trim($isbn);
 
         // Ignore missing ISBNs
         if ($isbn === 'NO ISBN') {
-          continue;
+          return false;
         }
+
 
         // If there's both the ISBN 10 and 13, we split the slash and keep the 13
         // Necessary because lot of the stored ISBNs are in the "2955701072 / 978-2-955-70107-2" format
@@ -225,6 +222,7 @@ return [
         // Trims and removes dashes at the same time
         $isbn = preg_replace('/\D/', '', $isbn);
 
+
         // If the ISBN has 10 digits, convert it to 13
         if (strlen($isbn) === 10) {
           $isbn = '978' . $isbn;
@@ -232,14 +230,20 @@ return [
 
         // If the ISBN yet doesn't have 13 digits, we ignore it
         if (strlen($isbn) !== 13) {
-          continue;
+          return false;
         }
 
-        $content['isbn'] = [
-          'wk1' => $rawIsbn,
-          'isbn' => $isbn,
-          'book' => $product->title()->toString(),
-        ];
+        return $isbn;
+      }
+
+      foreach ($products as $product) {
+        $oldWeltkern = $product->oldWeltkern()->toObject();
+        $content = [];
+
+        $isbn = getIsbn($oldWeltkern->isbn()->toString());
+
+        // Get and parse ISBN
+        $rawIsbn = $oldWeltkern->isbn()->toString();
       }
 
       $contents[] = $content;
