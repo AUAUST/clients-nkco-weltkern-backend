@@ -397,4 +397,21 @@ class WK1
       ];
     }
   }
+
+  /**
+   * Takes a tags array and returns either a cleaned up version of it, or null if the tags are invalid or there are none.
+   *
+   * @param array $tags The tags to fix.
+   * @return array|null The fixed tags, or null if the tags are invalid or there are none.
+   */
+  public static function fixTags(array $tags)
+  {
+    // If there are no tags, we return null
+    if (count($tags) === 0) {
+      return null;
+    }
+
+    // Return the tags as-is for now
+    return $tags;
+  }
 }

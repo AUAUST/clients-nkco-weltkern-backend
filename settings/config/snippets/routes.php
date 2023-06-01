@@ -208,8 +208,9 @@ return [
         try {
           $contents[] = [
             'wk1-slug' => $oldWeltkern->slug()->toString(),
-            'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
-            'dimensions' => WK1::fixDimensions($oldWeltkern->details()),
+            // 'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
+            // 'dimensions' => WK1::fixDimensions($oldWeltkern->details()),
+            'tags' => WK1::fixTags($oldWeltkern->tags()->toStructure()->toArray()),
           ];
         } catch (Exception $e) {
           $contents[] = 'Errored: ' . $e->getMessage() . ' (' . $e->getFile() . ', ' . $e->getLine() . ')';
