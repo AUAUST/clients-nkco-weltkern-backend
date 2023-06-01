@@ -290,4 +290,66 @@ class WK1
 
     return $publishers;
   }
+
+  /**
+   * Takes a raw ISBN, accepting a few formats, and returns a 13-digit ISBN when possible.
+   * False if no valid ISBN was found.
+   *
+   * @param string $isbn The ISBN to parse.
+   * @return string|false The parsed ISBN, or false if no valid ISBN was found.
+   */
+  public static function fixIsbn($isbn)
+  {
+    $isbn = trim($isbn);
+
+    // Ignore missing ISBNs
+    if ($isbn === 'NO ISBN') {
+      return false;
+    }
+
+    // If there's both the ISBN 10 and 13, we split the slash and keep the 13
+    // Necessary because lot of the stored ISBNs are in the "2955701072 / 978-2-955-70107-2" format
+    if (
+      $isbn13 = explode('/', $isbn)[1] ?? false
+    ) {
+      $isbn = $isbn13;
+    }
+
+    // Remove all non-digit characters from the ISBN
+    // Trims and removes dashes at the same time
+    $isbn = preg_replace('/\D/', '', $isbn);
+
+
+    // If the ISBN has 10 digits, convert it to 13
+    if (strlen($isbn) === 10) {
+      $isbn = '978' . $isbn;
+    }
+
+    // If the ISBN yet doesn't have 13 digits, we ignore it
+    if (strlen($isbn) !== 13) {
+      return false;
+    }
+
+    // If the ISBN doesn't start with 978 or 979, we ignore it
+    if (
+      !Str::startsWith($isbn, '978') &&
+      !Str::startsWith($isbn, '979')
+    ) {
+      return false;
+    }
+
+    // Checksum calculation
+    $sum = 0;
+    for ($i = 0; $i < 12; $i++) {
+      $sum += $isbn[$i] * (($i % 2) ? 3 : 1);
+    }
+    $check = (10 - ($sum % 10)) % 10;
+
+    // If the checksum is wrong, we ignore it
+    if ($isbn[12] != $check) {
+      return false;
+    }
+
+    return $isbn;
+  }
 }
