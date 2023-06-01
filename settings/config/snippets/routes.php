@@ -208,42 +208,42 @@ return [
         $rawIsbn = $oldWeltkern->isbn()->toString();
         $isbn = trim($rawIsbn);
 
-        if ($isbn !== 'NO ISBN') {
-          // If there's both the ISBN 10 and 13, we split the slash and keep the 13
-          // Necessary because lot of the stored ISBNs are in the "2955701072 / 978-2-955-70107-2" format
-          if (
-            $isbn13 = explode('/', $isbn)[1] ?? false
-          ) {
-            $isbn = $isbn13;
-          }
-
-          $change = '0: NONE';
-
-          // Remove all non-digit characters from the ISBN
-          // Trims and removes dashes at the same time
-          $isbn = preg_replace('/\D/', '', $isbn);
-
-          // If the ISBN has 10 digits, convert it to 13
-          if (strlen($isbn) === 10 && Str::startsWith($isbn, '978') === false) {
-            $isbn = '978' . $isbn;
-            $change = '1: 10 to 13';
-          }
-
-          // The the ISBN hasn't 13 digits, add a note
-          if (strlen($isbn) !== 13) {
-            $change = '1: NOT 13';
-          }
-
-          $content['isbn'] = [
-            'wk1' => $rawIsbn,
-            'isbn13' => $isbn,
-            'change' => $change,
-            'book' => $product->title()->toString(),
-          ];
+        // Ignore missing ISBNs
+        if ($isbn === 'NO ISBN') {
+          continue;
         }
 
-        $contents[] = $content;
+        // If there's both the ISBN 10 and 13, we split the slash and keep the 13
+        // Necessary because lot of the stored ISBNs are in the "2955701072 / 978-2-955-70107-2" format
+        if (
+          $isbn13 = explode('/', $isbn)[1] ?? false
+        ) {
+          $isbn = $isbn13;
+        }
+
+        // Remove all non-digit characters from the ISBN
+        // Trims and removes dashes at the same time
+        $isbn = preg_replace('/\D/', '', $isbn);
+
+        // If the ISBN has 10 digits, convert it to 13
+        if (strlen($isbn) === 10) {
+          $isbn = '978' . $isbn;
+        }
+
+        // If the ISBN yet doesn't have 13 digits, we ignore it
+        if (strlen($isbn) !== 13) {
+          continue;
+        }
+
+        $content['isbn'] = [
+          'wk1' => $rawIsbn,
+          'isbn' => $isbn,
+          'book' => $product->title()->toString(),
+        ];
       }
+
+      $contents[] = $content;
+
 
       return dump($contents, false);
     }
