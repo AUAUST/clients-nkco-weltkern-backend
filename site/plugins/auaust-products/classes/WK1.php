@@ -2,11 +2,11 @@
 
 namespace auaust\products;
 
-use Kirby\Http\Params;
 use Kirby\Http\Remote;
 use Kirby\Http\Request\Query;
 use Kirby\Http\Url;
 use Kirby\Toolkit\Str;
+use Kirby\Data\Yaml;
 
 // Weltkern 1.0
 class WK1
@@ -298,7 +298,7 @@ class WK1
    * @param string $isbn The ISBN to parse.
    * @return string|false The parsed ISBN, or false if no valid ISBN was found.
    */
-  public static function fixIsbn($isbn)
+  public static function fixIsbn(string $isbn)
   {
     $isbn = trim($isbn);
 
@@ -351,5 +351,35 @@ class WK1
     }
 
     return $isbn;
+  }
+
+  /**
+   * Takes WK1's "details" field formatted as YAML, and tries to extract the dimensions from it.
+   *
+   * @param string $yaml The YAML to parse.
+   * @return array|null The dimensions, or null if none were found.
+   */
+  public static function fixDimensions(string $yaml)
+  {
+    $data = Yaml::decode($yaml);
+
+    $dimensionsString = null;
+
+    // $data is an array of arrays, each being a single key-value pair
+    foreach ($data as $pair) {
+      if (array_keys($pair)[0] === 'Size') {
+        $dimensionsString = $pair['Size'];
+        break;
+      }
+    }
+
+    // The product has no dimensions field
+    if ($dimensionsString === null) {
+      return null;
+    }
+
+    // $dimensionsString is a string with 2 or 3 dimensions, separated by "×"
+
+    return null;
   }
 }

@@ -204,9 +204,15 @@ return [
 
       foreach ($products as $product) {
         $oldWeltkern = $product->oldWeltkern()->toObject();
-        $contents[] = [
-          "isbn" => WK1::fixIsbn($oldWeltkern->isbn())
-        ];
+
+        try {
+          $contents[] = [
+            'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
+            'dimensions' => WK1::fixDimensions($oldWeltkern->details()),
+          ];
+        } catch (Exception $e) {
+          $contents[] = 'Errored: ' . $e->getMessage() . ' (' . $e->getFile() . ', ' . $e->getLine() . ')';
+        }
       }
 
 
