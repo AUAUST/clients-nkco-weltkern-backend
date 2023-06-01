@@ -205,21 +205,27 @@ return [
         $content = [];
 
         // Get an parse ISBN
-        $isbn = $oldWeltkern->isbn()->toString();
+        $rawIsbn = $oldWeltkern->isbn()->toString();
+        $isbn = trim($rawIsbn);
 
         if ($isbn !== 'NO ISBN') {
-
-          // It it matches either "3946770789 / 978-3946770787" or "2955701072 / 978-2-955-70107-2"
-          if (preg_match('/^(\d{10})\s*\/\s*(\d{3}-?\d{10})$/', $isbn, $matches)) {
-            $isbn10 = $matches[1];
-            $isbn13 = $matches[2];
-
-            $content['isbn'] = [
-              'isbn10' => $isbn10,
-              'isbn13' => $isbn13
-            ];
+          // If the ISBN has both 10 and 13 digits (2955701072 / 978-2-955-70107-2), trim the first one
+          if (preg_match('/^(\d{10})\s*\/\s*/', $isbn, $matches)) {
+            $isbn = Str::after($isbn, $matches[0]);
           }
+
+          // Remove dashes from the ISBN
+          $isbn = preg_replace('/-/', '', $isbn);
+          // Insert back the dashes at the right places (normalizes the ISBN)
+          $isbn = preg_replace('/(\d{3})(\d{1,5})(\d{1,7})(\d{1,7})(\d{1,7})/', '$1-$2-$3-$4-$5', $isbn);
+
+          $content['isbn'] = [
+            'wk1' => $rawIsbn,
+            'isbn13' => $isbn
+          ];
         }
+
+        $contents[] = $content;
       }
 
       return dump($contents, false);
