@@ -378,8 +378,23 @@ class WK1
       return null;
     }
 
-    // $dimensionsString is a string with 2 or 3 dimensions, separated by "×"
+    // Some exceptions are present in the data that aren't worth handling
+    // We just ignore them, and return -1 for each dimension instead
+    try {
+      $splitDimensions = explode('×', $dimensionsString);
 
-    return null;
+      return [
+        // as decimal
+        'x' => floatval($splitDimensions[0]),
+        'y' => floatval($splitDimensions[1]),
+        'z' => floatval($splitDimensions[2] ?? -1),
+      ];
+    } catch (\Throwable $th) {
+      return [
+        'x' => -1,
+        'y' => -1,
+        'z' => -1,
+      ];
+    }
   }
 }

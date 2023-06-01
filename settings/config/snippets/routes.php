@@ -207,6 +207,7 @@ return [
 
         try {
           $contents[] = [
+            'wk1-slug' => $oldWeltkern->slug()->toString(),
             'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
             'dimensions' => WK1::fixDimensions($oldWeltkern->details()),
           ];
