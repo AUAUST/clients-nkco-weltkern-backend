@@ -10,7 +10,7 @@ load([
 ], __DIR__);
 
 F::loadClasses([
-  'auaust\\products\\WK1' => 'classes/WK1.php'
+  'AUAUST\\products\\WK1' => 'classes/WK1.php'
 ], __DIR__);
 
 Kirby::plugin("auaust/products", [

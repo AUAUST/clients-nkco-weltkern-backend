@@ -2,7 +2,7 @@
 
 use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
-use auaust\products\WK1;
+use AUAUST\products\WK1;
 use Kirby\Data\Yaml;
 
 return [

@@ -1,6 +1,6 @@
 <?php
 
-namespace auaust\products;
+namespace AUAUST\products;
 
 use Kirby\Http\Remote;
 use Kirby\Http\Request\Query;

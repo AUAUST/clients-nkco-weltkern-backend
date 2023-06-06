@@ -1,7 +1,7 @@
 <?php
 
 use Kirby\Toolkit\Str;
-use auaust\products\WK1;
+use AUAUST\products\WK1;
 
 $products = WK1::products(
   (int) (params()['amount'] ?? null),
