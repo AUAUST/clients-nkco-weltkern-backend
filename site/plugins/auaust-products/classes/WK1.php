@@ -6,7 +6,6 @@ use Kirby\Http\Remote;
 use Kirby\Http\Request\Query;
 use Kirby\Http\Url;
 use Kirby\Toolkit\Str;
-use Kirby\Data\Yaml;
 
 // Weltkern 1.0
 class WK1
@@ -359,26 +358,19 @@ class WK1
    * @param string $yaml The YAML to parse.
    * @return array|null The dimensions, or null if none were found.
    */
-  public static function fixDimensions(string $yaml)
+  public static function fixDimensions(mixed $dimensionsString)
   {
-    $data = Yaml::decode($yaml);
 
-    $dimensionsString = null;
-
-    // $data is an array of arrays, each being a single key-value pair
-    foreach ($data as $pair) {
-      if (array_keys($pair)[0] === 'Size') {
-        $dimensionsString = $pair['Size'];
-        break;
-      }
+    if (is_array($dimensionsString)) {
+      return "Array: " . dump($dimensionsString);
     }
-
     // The product has no dimensions field
+    // Enables to have a simpler parameter in the function call
     if ($dimensionsString === null) {
       return null;
     }
 
-    // Some exceptions are present in the data that aren't worth handling
+    // Some exceptions are present in the way dimensions are stored
     // We just ignore them, and return -1 for each dimension instead
     try {
       $splitDimensions = explode('×', $dimensionsString);

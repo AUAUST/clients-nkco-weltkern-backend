@@ -3,6 +3,7 @@
 use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
 use auaust\products\WK1;
+use Kirby\Data\Yaml;
 
 return [
   [
@@ -204,12 +205,37 @@ return [
 
       foreach ($products as $product) {
         $oldWeltkern = $product->oldWeltkern()->toObject();
+        $details =
+          (function () use ($oldWeltkern) {
+            $yaml = Yaml::decode(
+              $oldWeltkern->details()->toString()
+            );
+
+            $data = [];
+
+            foreach ($yaml as $pair) {
+              // Some details are not in a key-value pair format but rather a simple string
+              // We skip those
+              if (!is_array($pair)) {
+                continue;
+              }
+
+              foreach ($pair as $key => $value) {
+                $data[$key] = $value;
+              }
+            }
+
+
+            return $data;
+          }
+          )();
+
 
         try {
           $contents[] = [
             'wk1-slug' => $oldWeltkern->slug()->toString(),
-            // 'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
-            // 'dimensions' => WK1::fixDimensions($oldWeltkern->details()),
+            'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
+            'dimensions' => WK1::fixDimensions($details['Size']),
             'tags' => WK1::fixTags($oldWeltkern->tags()->toStructure()->toArray()),
           ];
         } catch (Exception $e) {
