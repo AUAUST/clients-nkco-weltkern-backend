@@ -19,7 +19,7 @@ columns:
         template: tag
         parent: site.find("tags")
         layout: table
-
+        sortable: false
   - width: 1/2
     sections:
       tagsets:
