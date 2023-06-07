@@ -2,4 +2,15 @@ Title: Tags
 
 ----
 
+Tags:
+
+- 
+  id: null
+  name: Animaux
+  tags:
+    - page://suCpYeP1LUE5RSG6
+    - page://4UQnANcvxE5fomXQ
+
+----
+
 Uuid: fZ3PvNZ5aHONnyX8
