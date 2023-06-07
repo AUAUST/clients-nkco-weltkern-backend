@@ -21,7 +21,7 @@ columns:
               en: Title
             size: tiny
             buttons: false
-            width: 2/3
+            width: 1/2
             help:
               fr: |
                 Titre complet du livre, autorisant les retours à la ligne.
@@ -34,7 +34,7 @@ columns:
               en: Separator
             required: true
             default: dash
-            width: 1/3
+            width: 1/2
             options:
               space:
                 fr: Espace
@@ -42,6 +42,13 @@ columns:
               dash:
                 fr: Tiret
                 en: Dash
+            help:
+              fr: |
+                Défini le séparateur entre les lignes du titre. Uniquement visible si le titre est multiligne.
+                Espace: <strong>{{ page.titleWithSeparator('space') }}</strong>
+                Tiret: <strong>{{ page.titleWithSeparator('dash') }}</strong>
+              en: |
+                Separator between the title and the subtitle.
 
           publisher:
             type: pages
