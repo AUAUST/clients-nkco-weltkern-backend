@@ -22,3 +22,6 @@ columns:
               - link
               - "|"
             size: medium
+          tagsets:
+            type: pages
+            query: page.tagsets
