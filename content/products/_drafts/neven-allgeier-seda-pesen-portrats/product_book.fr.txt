@@ -9,7 +9,7 @@ Porträts
 
 ----
 
-Multilinetitleseparator: dash
+Multilinetitleseparator: space
 
 ----
 
