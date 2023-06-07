@@ -5,7 +5,7 @@ title:
 icon: tag
 
 columns:
-  - width: 2/3
+  - width: 1/2
     sections:
       tags:
         type: pages
@@ -13,7 +13,9 @@ columns:
           fr: Tags
           en: Tags
         template: tag
-  - width: 1/3
+        layout: table
+
+  - width: 1/2
     sections:
       tagsets:
         type: fields
