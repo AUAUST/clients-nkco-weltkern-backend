@@ -236,7 +236,6 @@ return [
             'wk1-slug' => $oldWeltkern->slug()->toString(),
             'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
             'dimensions' => WK1::fixDimensions($details['Size']),
-            'tags' => WK1::fixTags($oldWeltkern->tags()->toStructure()->toArray()),
           ];
         } catch (Exception $e) {
           $contents[] = 'Errored: ' . $e->getMessage() . ' (' . $e->getFile() . ', ' . $e->getLine() . ')';
