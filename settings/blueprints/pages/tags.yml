@@ -12,33 +12,28 @@ columns:
         label:
           fr: Tags
           en: Tags
+        help:
+          fr: |
+            Les tags permettent de connecter des produits entre eux par thème.
+            Ils peuvent être utilisés comme filtres, pour faciliter la recherche, etc.
         template: tag
+        parent: site.find("tags")
         layout: table
 
   - width: 1/2
     sections:
       tagsets:
-        type: fields
-        fields:
-          tags:
-            type: structure
-            label:
-              fr: Groupes de tags
-              en: Tag sets
-            help:
-              fr: |
-                Les groupes de tags permettent de regrouper des tags par thème.
-                Ils peuvent être utilisés pour connecter des produits, lister des tags par catégorie, etc.
-              en: |
-                Tag sets allow to group tags by theme.
-                They can be used to connect products, list tags by category, etc.
-            fields:
-              id:
-                type: hidden
-              name:
-                type: text
-                label:
-                  fr: Nom
-                  en: Name
-              tags:
-                type: pages
+        type: pages
+        label:
+          fr: Groupes de tags
+          en: Tag sets
+        help:
+          fr: |
+            Les groupes de tags permettent de regrouper des tags par thème.
+            Ils peuvent être utilisés pour connecter des produits, lister des produits par catégorie, etc.
+          en: |
+            Tag sets allow to group tags by theme.
+            They can be used to connect products, list tags by category, etc.
+        template: tagset
+        parent: site.find("tagsets")
+        layout: table
