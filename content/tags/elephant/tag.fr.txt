@@ -1,9 +1,0 @@
-Title: Elephant
-
-----
-
-Uuid: y38fGBqvrcDI07ls
-
-----
-
-Text: 
