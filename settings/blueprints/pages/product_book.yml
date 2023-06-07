@@ -80,6 +80,8 @@ columns:
               fr: ""
               en: "CHF"
             width: 1/2
+          tags:
+            tagset: test
 
           auto_kerns:
             translate: false
