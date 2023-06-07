@@ -14,6 +14,10 @@ Pagetypefacessettings: - page://v92seFbQk17QBGbT
 
 ----
 
+Pagetags: - page://fZ3PvNZ5aHONnyX8
+
+----
+
 Pagehome: - page://r7B7QwhbFuuV3o6G
 
 ----
