@@ -361,17 +361,19 @@ class WK1
   public static function fixDimensions(mixed $dimensionsString)
   {
 
-    if (is_array($dimensionsString)) {
-      return "Array: " . dump($dimensionsString);
+    // If the dimensions are not stored as a string, we ignore them
+    if (!is_string($dimensionsString)) {
+      return null;
     }
+
     // The product has no dimensions field
     // Enables to have a simpler parameter in the function call
     if ($dimensionsString === null) {
       return null;
     }
 
-    // Some exceptions are present in the way dimensions are stored
-    // We just ignore them, and return -1 for each dimension instead
+    // Some exceptions are present in the way dimensions are stored causing errors
+    // We just ignore them
     try {
       $splitDimensions = explode('×', $dimensionsString);
 
@@ -382,11 +384,7 @@ class WK1
         'z' => floatval($splitDimensions[2] ?? -1),
       ];
     } catch (\Throwable $th) {
-      return [
-        'x' => -1,
-        'y' => -1,
-        'z' => -1,
-      ];
+      return null;
     }
   }
 
