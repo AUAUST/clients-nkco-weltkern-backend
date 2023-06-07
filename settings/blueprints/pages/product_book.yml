@@ -21,9 +21,28 @@ columns:
               en: Title
             size: tiny
             buttons: false
+            width: 2/3
             help:
               fr: |
                 Titre complet du livre, autorisant les retours à la ligne.
+              en: |
+                Full title of the book, allowing line breaks.
+          multilineTitleSeparator:
+            type: select
+            label:
+              fr: Séparateur
+              en: Separator
+            required: true
+            default: dash
+            width: 1/3
+            options:
+              space:
+                fr: Espace
+                en: Space
+              dash:
+                fr: Tiret
+                en: Dash
+
           publisher:
             type: pages
             label:

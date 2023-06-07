@@ -9,6 +9,10 @@ Porträts
 
 ----
 
+Multilinetitleseparator: dash
+
+----
+
 Publisher: 
 
 ----
@@ -55,7 +59,7 @@ details: |
 gallery:
   - 
     url: >
-      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Porträts.jpg
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Porträts.jpg
     id: 21630
   - 
     url: >
