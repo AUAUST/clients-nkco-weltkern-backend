@@ -54,7 +54,8 @@ class ProductBookPage extends Page
     // Map the separator type to a separator string
     $separators = [
       'space' => ' ',
-      'dash' => ' – '
+      'dash' => ' – ',
+      'colon' => ': ',
     ];
 
     // Fall back to space by default in case an invalid separator type is provided somehow

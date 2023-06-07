@@ -42,14 +42,20 @@ columns:
               dash:
                 fr: Tiret
                 en: Dash
+              colon:
+                fr: Deux points
+                en: Colon
             help:
               fr: |
-                Défini le séparateur entre les lignes du titre. Uniquement visible si le titre est multiligne.
+                Défini le séparateur entre les lignes du titre. Uniquement visible si le titre est multiligne, dans les endroits où une seule ligne est autorisée.
                 Espace: <strong>{{ page.titleWithSeparator('space') }}</strong>
                 Tiret: <strong>{{ page.titleWithSeparator('dash') }}</strong>
+                Deux points: <strong>{{ page.titleWithSeparator('colon') }}</strong>
               en: |
-                Separator between the title and the subtitle.
-
+                Defines the separator between the title lines. Only visible if the title is multiline, in places where only one line is allowed.
+                Space: <strong>{{ page.titleWithSeparator('space') }}</strong>
+                Dash: <strong>{{ page.titleWithSeparator('dash') }}</strong>
+                Colon: <strong>{{ page.titleWithSeparator('colon') }}</strong>
           publisher:
             type: pages
             label:

@@ -9,7 +9,7 @@ Porträts
 
 ----
 
-Multilinetitleseparator: space
+Multilinetitleseparator: colon
 
 ----
 
