@@ -1,0 +1,16 @@
+title:
+  fr: Tags
+  en: Tags
+
+icon: tag
+
+columns:
+  - width: 2/3
+    sections:
+      tags:
+        type: fields
+        fields:
+          tags:
+            type: structure
+            fields:
+              text: true
