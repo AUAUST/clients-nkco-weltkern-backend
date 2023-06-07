@@ -13,4 +13,21 @@ columns:
           tags:
             type: structure
             fields:
-              text: true
+              uuid:
+                type: hidden
+              name:
+                type: text
+                label:
+                  fr: Nom
+                  en: Name
+              description:
+                type: textarea
+                label:
+                  fr: Description
+                  en: Description
+                buttons:
+                  - bold
+                  - italic
+                  - "|"
+                  - link
+                  - "|"
