@@ -1,0 +1,31 @@
+page.update:after
+newPage: tags/magazine
+oldPage: tags/magazine
+oldPage->tags(): 
+newPage->tags(): 
+page.update:after
+newPage: tags/magazine
+oldPage: tags/magazine
+oldPage->tags(): 
+newPage->tags(): 
+page.update:after
+newPage: tags/magazine
+oldPage: tags/magazine
+oldPage->tags(): tagsets/books
+newPage->tags(): tagsets/books
+
+
+page.update:after
+newPage: tags/art-book
+oldPage: tags/art-book
+oldPage->tags(): tagsets/books
+newPage->tags(): tagsets/books
+
+
+page.update:after
+newPage: tags/art-book
+oldPage: tags/art-book
+oldPage->tags(): tagsets/books
+newPage->tags(): tagsets/books
+
+
