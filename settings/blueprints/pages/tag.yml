@@ -24,4 +24,4 @@ columns:
             size: medium
           tagsets:
             type: pages
-            query: page.tagsets
+            query: site.find('tagsets').children

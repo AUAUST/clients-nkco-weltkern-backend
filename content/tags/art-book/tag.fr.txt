@@ -2,6 +2,17 @@ Title: Art book
 
 ----
 
+Description: 
+
+----
+
+Tagsets:
+
+- page://pY1Bh4OaeZg6PIHt
+- page://vbr9b8BBJIsAoqUx
+
+----
+
 Uuid: muF468j3SMGNku7K
 
 ----
