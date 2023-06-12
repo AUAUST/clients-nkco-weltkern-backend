@@ -6,7 +6,15 @@ Multilinetitle: 9 Artists
 
 ----
 
+Multilinetitleseparator: space
+
+----
+
 Publisher: 
+
+----
+
+Tags: 
 
 ----
 

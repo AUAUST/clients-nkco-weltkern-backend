@@ -57,3 +57,14 @@ new tagsets:
 tags page update: tag
 old tagsets: 
 new tagsets: 
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book

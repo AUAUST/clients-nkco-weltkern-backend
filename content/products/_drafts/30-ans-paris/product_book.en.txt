@@ -1,12 +1,20 @@
-Title: 30 ans Ã Paris
+Title: 30 ans Ã  Paris
 
 ----
 
-Multilinetitle: 30 ans Ã Paris
+Multilinetitle: 30 ans Ã  Paris
+
+----
+
+Multilinetitleseparator: space
 
 ----
 
 Publisher: 
+
+----
+
+Tags: 
 
 ----
 
