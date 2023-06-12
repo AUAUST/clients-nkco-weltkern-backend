@@ -1,1 +1,83 @@
-Uuid: GBEAmBSS33zQhVIl
+Title: Sarai Meyron|No Words of Warmth
+
+----
+
+Multilinetitle:
+
+Sarai Meyron
+No Words of Warmth
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Sarai Meyron <br>No Words of Warmth'
+slug: sarai-meyron-no-words-of-warmth
+id: 25133
+isbn: 3959056434 / 978-3959056434
+price: 22.9
+weight: 0.6
+author:
+  name: Spector Books
+  id: 99
+description: '<p>No Words of Warmth / Keine wärmende Worte is a multifaceted and hybrid art book—combining text, sound, and images—that provides a glimpse of a young Jewish woman’s life as an artist in Germany. Associations relating to the roles of sister, daughter, mother, and grandmother are woven together through the eyes of the protagonist to create a cohesive feminist voice that explores the past and its influence on the present. Reality blurs with fantasy in a form of stream-of-consciousness writing that is as true as memory or remembered history. Energized by a process of critical selfreflection, this book can be seen as a stand against dehumanization, and a reflection of Jewish life in Germany today.</p>'
+details: |
+  - ISBN: 3959056434 / 978-3959056434
+  - Content: 192 pages
+  - Size: 160 × 215 mm
+  - Author: Sarai Meyron
+  - Design: Franziska Bauer
+  - Language: English / German
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/BOOK_COVER_.jpg
+    id: 25134
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/BOOK_SPREAD_1.jpg
+    id: 25136
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/BOOK_SPREAD_2.jpg
+    id: 25137
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/BOOK_SPREAD_3.jpg
+    id: 25138
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/BOOK_SPREAD_4.jpg
+    id: 25139
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/BOOK_SPREAD_5.jpg
+    id: 25140
+tags: [ ]
+
+----
+
+Uuid: eRMyJRDkFUQofnv7

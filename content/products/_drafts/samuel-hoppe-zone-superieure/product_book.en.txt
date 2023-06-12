@@ -1,1 +1,80 @@
-Uuid: jmBN5ii38ZzshsLg
+Title: Samuel Hoppe|Zone Supérieure
+
+----
+
+Multilinetitle:
+
+Samuel Hoppe
+Zone Supérieure
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Samuel Hoppe <br>Zone Supérieure'
+slug: samuel-hoppe-zone-superieure
+id: 3429
+isbn: 2955648827 / 978-2955648827
+price: 37.9
+weight: 0.5
+author:
+  name: RUE DU BOUQUET
+  id: 129
+description: '<p>Photographed primarily in the higher elevations of Switzerland by Samuel Hoppe, the sweeping, panoramic images in this publication capture the spirit of the mountains. Whether he chooses colour or black and white, what attracts him is the ferocity that unquestioningly defines a mountain as both a slow triumph and a paradoxical force. As Jean-Christophe Bailly writes in his text, Hoppe invites us to “cross and revisit an architectonic enchantment, a maelstrom of forms still in formation, and a journey through light”. Glaciers, rocky slopes, high-altitude lakes, and monumental peaks are gathered together in a sublime survey of breathtaking, expertly framed shots.</p>'
+details: |
+  - ISBN: 2955648827 / 978-2955648827
+  - Content: 68 pages
+  - Size: 230 × 5 × 300 mm
+  - Author: Samuel Hoppe
+  - Texts by: Jean-Christophe Bailly
+  - Design: Bizzarri-Rodriguez
+  - Language: English / French
+  - Publishing date: 2017
+  - Specs: Hardcover
+  - Images: © RUE DU BOUQUET. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Zone_Superieure.jpg
+    id: 3434
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-31.jpg
+    id: 3436
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-30.jpg
+    id: 3438
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-30.jpg
+    id: 3440
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Zone_Superieure_BACK.jpg
+    id: 3432
+tags: [ ]
+
+----
+
+Uuid: 565uppFC5DvIcop5
