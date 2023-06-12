@@ -29,3 +29,31 @@ oldPage->tags(): tagsets/books
 newPage->tags(): tagsets/books
 
 
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags aaaa update: tag
+tags page update: tag
+tags page update: tag
+tags ahdkakjdjakjdhaskjdh   update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+old tagsets: tags/art-book
+new tagsets: tags/art-book
+tags page update: tag
+old tagsets: 
+new tagsets: tagsets/countries
+tags page update: tag
+old tagsets: tagsets/countries
+new tagsets: 
+tags page update: tag
+old tagsets: 
+new tagsets: 
