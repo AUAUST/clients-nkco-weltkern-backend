@@ -68,3 +68,4 @@ tags page update: product_book
 tags page update: product_book
 tags page update: product_book
 tags page update: product_book
+tags page update: products
