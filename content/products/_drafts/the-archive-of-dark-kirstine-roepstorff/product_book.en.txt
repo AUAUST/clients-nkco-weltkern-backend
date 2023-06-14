@@ -1,0 +1,90 @@
+Title: The Archive of Dark|Kirstine Roepstorff
+
+----
+
+Multilinetitle:
+
+The Archive of Dark
+Kirstine Roepstorff
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'The Archive of Dark <br>Kirstine Roepstorff'
+slug: the-archive-of-dark-kirstine-roepstorff
+id: 13948
+isbn: 1916002470 / 978-1916002470
+price: 54.5
+weight: 1.2
+author:
+  name: InOtherWords
+  id: 105
+description: |
+  <p>A spectacle, a theatre, a multi dimensional document. An effort to merge language and formlessness in a yearn for a cyclic work. A stage for these merges to play out. A reminder that when we grow we don’t only grow upwards. The already porous membrane seemingly separating dark from light, pain from joy, active from passive becomes intensely insignificant when we occasionally get a chance to observe ourselves from the other side of the mirror. <em>The Archive of Dark</em> is a book project acting as an epilogue to a body of work investigating darkness that included two seperate yet coherent exhibitions; I<em>nfluenza, Theatre of Glowing Darkness</em>, 2017 and <em>Renaissance of the Night</em>, 2018. The book weaves together a dense collection of historic imagery into an organic and emotive narrative. It features a series of letters from a variety of contributors that include perceptual, intellectual, spiritual, scientific and artistic reflections.<br />
+  <br />
+  The book is case-bound with a linen cloth and has four cover variations, each with a different combination of plate sunk images. To select a specific print please email us.</p>
+details: |
+  - ISBN: 1916002470 / 978-1916002470
+  - Content: 304 Pages
+  - Size: 215 × 25 × 300 mm
+  - Authors: Kirstine Roepstorff
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © WELTKERN® / InOtherWords. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_ArchiveDark2.jpg
+    id: 13957
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/2021-12-01-19.50.51-2719289992641411687_223616698.jpg
+    id: 14079
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/2021-12-01-19.50.51-2719289992582788099_223616698.jpg
+    id: 14081
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/2021-12-01-19.50.51-2719289992641387326_223616698.jpg
+    id: 14083
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/2021-12-01-19.50.51-2719289992649711935_223616698.jpg
+    id: 14085
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/2021-11-13-09.18.04-2705925550659168510_223616698.jpg
+    id: 14087
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/2021-11-13-09.18.04-2705925550650802025_223616698.jpg
+    id: 14089
+tags: [ ]
+
+----
+
+Uuid: N3RRp3pcN30aT4Wo

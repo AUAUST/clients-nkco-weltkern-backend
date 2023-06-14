@@ -1,0 +1,68 @@
+Title: Shoplifters Issue 10|New Type Design Vol.2
+
+----
+
+Multilinetitle:
+
+Shoplifters Issue 10
+New Type Design Vol.2
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Shoplifters Issue 10 <br>New Type Design Vol.2'
+slug: >
+  pre-order-shoplifters-issue-10-new-type-design-vol-2
+id: 16636
+isbn: NO ISBN
+price: 56.8
+weight: 1.9
+author:
+  name: Actual Source
+  id: 128
+description: |
+  <p>Shoplifters is a bi-annual publication featuring the work of contemporary artists, photographers, designers, illustrators etc,. Shoplifters doesn&#8217;t have a single identity, it&#8217;s size, paper, typography, and tone changes each time it&#8217;s published.</p>
+  <p>TWK Lausanne featured in this book.</p>
+details: |
+  - Content: 832 pages / 156 typefaces
+  - Size: 170 × 245 mm
+  - Design: Work by Actual Source
+  - Main book typefaces: Prisma Text by Robert Huber available from Lineto
+  And Tschichold Rund Mono by Ben Fehrman-Lee
+  - Features: Nick Benson, Elias Hanzer, Sascha Lobe, AllCaps
+  + Character overview and index by designer and foundry.
+  - Language: English
+  - Publishing date: Q1 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Actual Source All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/02/2770612691628887160_2057330618-1-1.jpg
+    id: 17323
+tags: [ ]
+
+----
+
+Uuid: yccmUW3Q2bLPVS1T

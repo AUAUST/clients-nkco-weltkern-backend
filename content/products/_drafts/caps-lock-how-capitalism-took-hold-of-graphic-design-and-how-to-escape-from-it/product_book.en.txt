@@ -1,0 +1,88 @@
+Title: Caps Lock|How Capitalism Took Hold Of Graphic Design, And How To Escape From It
+
+----
+
+Multilinetitle:
+
+Caps Lock
+How Capitalism Took Hold Of Graphic Design, And How To Escape From It
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Caps Lock <br>How Capitalism Took Hold Of Graphic Design, And How To Escape From It'
+slug: >
+  caps-lock-how-capitalism-took-hold-of-graphic-design-and-how-to-escape-from-it
+id: 13197
+isbn: 9492095817 / 978-9492095817
+price: 37.9
+weight: 0.5
+author:
+  name: Valiz
+  id: 101
+description: |
+  <p>Capitalism could not exist without the coins, notes, documents, graphics, interfaces, branding and advertisements; artefacts that have been (partly) created by graphic designers. Even anti-consumerist strategies such as social design and speculative design are being appropriated within capitalist societies to serve economic growth. It seems that design is locked in a system of exploitation and profit, a cycle that fosters inequality and the depletion of natural resources.<br />
+  CAPS LOCK uses clear language and striking visual examples to show how graphic design and capitalism are inextricably linked. The book contains many case studies of designed objects related to capitalist societies and cultures, and also examines how the education and professional practice of (graphic) designers supports the market economy and how design practice is caught within that very system.</p>
+  <p>The content of CAPS LOCK is structured in chapters with titles of professions that designers can occupy (such as Educator; Engineer, Hacker, Futurist, Activist, etc.). These titles respond to the importance of not just how designers make work, but also how they perform daily economic and social roles.</p>
+  <p>Each chapter is divided into coherent articles in which diverse examples of objects and design practices are relayed. The book also features examples of radical design collectives, that work towards alternatives between design, community and reciprocity. </p>
+details: |
+  - ISBN: 9492095817 / 978-9492095817
+  - Content: 552 Pages
+  - Size: 184 × 117 mm
+  - Author: Ruben Pater
+  - Design: Ruben Pater
+  - Language: English
+  - Publishing date: 08.2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Valiz. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_capslock.jpg
+    id: 13198
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_capslock2.jpg
+    id: 13200
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_capslock6.jpg
+    id: 13208
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_capslock5.jpg
+    id: 13206
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_capslock4.jpg
+    id: 13204
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_capslock3.jpg
+    id: 13202
+tags: [ ]
+
+----
+
+Uuid: UJjbqgdRMGol00Lu

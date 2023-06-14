@@ -1,0 +1,86 @@
+Title: Giorgio di Noto|The Iceberg
+
+----
+
+Multilinetitle:
+
+Giorgio di Noto
+The Iceberg
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Giorgio di Noto <br>The Iceberg'
+slug: giorgio-di-noto-the-iceberg
+id: 5578
+isbn: 3906803395 / 978-3906803395
+price: 76.9
+weight: 0.9
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>The Internet can be regarded as an iceberg: the tip is the so-called surface web, the digital terrain we know and surf by means of search engines, social networks, blogs and news sites. The submerged part, roughly 90% of the iceberg, is the so-called deep web. Under the surface web that we use day in, day out, lies an encrypted and constantly evolving network of total anonymity, beyond the reach of search engines. This darknet is a lawless no-man’s land, only accessible using specific software, where anything goes and nothing is traceable, and where illicit online business, especially in contraband, proliferates. The Iceberg features a selection of stock images and original photographs drawn from the myriad ads for drug sales on the dark web designed to catch the consumer’s eye.<br />
+  <br />
+  The original photographs, probably taken with small cameras or smartphones, often look surreal and abstract due to the mysterious, exotic aesthetic of the subject-matter, on the one hand, and the low quality of the photos or inferior skills of the drug-pushing photographers themselves, on the other. Unlike the stock pictures, these original photographs are invisible in The Iceberg under normal light: printed in invisible ink, they can only be viewed under ultraviolet light – the same light drug enforcers use to look for traces of narcotics. Anonymously uploaded and probably designed to self-erase once they’ve served their function, these pictures are not traceable or visible on the surface web, and only exist temporarily in this dark, secret space on the deep web. (Giorgio di Noto, 2017)</p>
+details: |
+  - ISBN: 3906803395 / 978-3906803395
+  - Content: 128 pages
+  - Size: 165 × 30 × 240 mm
+  - Author: Giorgio di Noto
+  - Design: Nicolas Polli
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Hardcover
+  - Images: © Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_Iceberg.jpg
+    id: 5581
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_1-1.jpg
+    id: 5583
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_2-3.jpg
+    id: 5585
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_3-3.jpg
+    id: 5587
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_4-3.jpg
+    id: 5589
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_5-2.jpg
+    id: 5591
+tags: [ ]
+
+----
+
+Uuid: ZCUdbCDsIINzykM2

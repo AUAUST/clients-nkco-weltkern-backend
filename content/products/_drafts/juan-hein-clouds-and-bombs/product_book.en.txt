@@ -1,0 +1,65 @@
+Title: Juan Hein|Clouds and Bombs
+
+----
+
+Multilinetitle:
+
+Juan Hein
+Clouds and Bombs
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Juan Hein <br>Clouds and Bombs'
+slug: juan-hein-clouds-and-bombs
+id: 17812
+isbn: 8797052068 / 978-8797052068
+price: 28.9
+weight: 2.1
+author:
+  name: Disko Bay
+  id: 331
+description: |
+  <p>We, humans, have a special connection to clouds. We seem to recognize everything from faces to rearing horses reflected in these formations in the sky. But certain clouds signify something different than a mere approaching rainstorm or a vivid imagination. Those are the kind of clouds that are shaped by destruction, the kind that are pulled upwards and bloom like a mushroom after a nuclear detonation, or furiously rise over an erupting volcano and become terrifying epitomes of nature’s immense powers.</p>
+  <p>Juan Hein has turned his fascination towards the realm of technology, mining the digital cloud instead of seeking clouds in the sky. He peers into a vast body of information and images, and captures and re-photographs what he finds most interesting. He chooses the motif, he enlarges it, crops it and digitally manipulates it. This process stretches the final image into something in between an almost classical etching, with strong sculptural aspects, and a deliberately pixelated digital meta-reality. By doing this, Hein points to the very origin of the picture – historically, technically and conceptually.</p>
+  <p>In the age of fake news, the book is asking one simple question; is what you see true or false? Is it beauty or horror, a paraphrase of an illusive Chinese proverb or a meta-reality created by the mastermind. What do we actually see? Bombings, natural disasters or the silhouette of a rearing horse? Documented truth, aesthetic choices or pure fiction? Hopefully the answer will remain in flux just as fluid and transient as the clouds themselves.</p>
+details: |
+  - ISBN: 8797052068 / 978-8797052068
+  - Content: 44 pages
+  - Size: 200 × 250 mm
+  
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Paper-bound hardback with halftone print front and back
+  - Images: © WELTKERN® / Diskobay. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Juan-Hein.jpg
+    id: 17777
+tags: [ ]
+
+----
+
+Uuid: FvPcFjY3kJlvXNN5

@@ -21,9 +21,41 @@ columns:
               en: Title
             size: tiny
             buttons: false
+            width: 1/2
             help:
               fr: |
                 Titre complet du livre, autorisant les retours à la ligne.
+              en: |
+                Full title of the book, allowing line breaks.
+          multilineTitleSeparator:
+            type: select
+            label:
+              fr: Séparateur
+              en: Separator
+            required: true
+            default: dash
+            width: 1/2
+            options:
+              space:
+                fr: Espace
+                en: Space
+              dash:
+                fr: Tiret
+                en: Dash
+              colon:
+                fr: Deux points
+                en: Colon
+            help:
+              fr: |
+                Défini le séparateur entre les lignes du titre. Uniquement visible si le titre est multiligne, dans les endroits où une seule ligne est autorisée.
+                Espace: <strong>{{ page.titleWithSeparator('space') }}</strong>
+                Tiret: <strong>{{ page.titleWithSeparator('dash') }}</strong>
+                Deux points: <strong>{{ page.titleWithSeparator('colon') }}</strong>
+              en: |
+                Defines the separator between the title lines. Only visible if the title is multiline, in places where only one line is allowed.
+                Space: <strong>{{ page.titleWithSeparator('space') }}</strong>
+                Dash: <strong>{{ page.titleWithSeparator('dash') }}</strong>
+                Colon: <strong>{{ page.titleWithSeparator('colon') }}</strong>
           publisher:
             type: pages
             label:
@@ -48,6 +80,8 @@ columns:
               fr: ""
               en: "CHF"
             width: 1/2
+          tags:
+            tagset: test
 
           auto_kerns:
             translate: false

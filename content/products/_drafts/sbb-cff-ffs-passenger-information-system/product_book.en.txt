@@ -1,0 +1,79 @@
+Title: SBB CFF FFS|Passenger Information System
+
+----
+
+Multilinetitle:
+
+SBB CFF FFS
+Passenger Information System
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'SBB CFF FFS <br>Passenger Information System'
+slug: >
+  josef-muller-brockmann-passenger-information-system
+id: 7082
+isbn: 3037786108 / 978-3037786109
+price: 48.9
+weight: 1.3
+author:
+  name: Lars Müller Publishers
+  id: 85
+description: |
+  <p>In 1980 Josef Muller-Brockmann laid the cornerstone for a uniform visual identity for the Swiss Federal Railways (SBB) with his legendary Visual Information System at Train Stations and Stops. In view of Switzerland&#8217;s multilingualism, the manual proposed a signage system that largely did without language; with his functional typography, the pioneer of Swiss graphics conceived an intuitively comprehensible signage system for use throughout the country to also guide passengers unfamiliar with the terrain to their destination with the help of pictograms. The visual concept was developed in dialogue with the SBB and still dominates the railways&#8217; visual identity even today.<br />
+  <br />
+  Muller-Brockmann&#8217;s manual, greatly expanded in 1992 and given the title Passenger Information System, is a prime example of a complex design project that succeeds through extreme rationality and consistency. It thus serves as a compass for designers worldwide in their daily work. This reprint with an English translation makes the manual accessible for the first time to a broader public. Andres Janser examines the project in the context of Muller-Brockmann&#8217;s conceptual work and the systematic international design for which railways everywhere were striving during the period.</p>
+details: |
+  - ISBN: 3037786108 / 978-3037786109
+  - Content: 222 pages
+  - Size: 210 × 18 × 297 mm
+  - Author: Josef Müller-Brockmann
+  - Design: Josef Müller-Brockmann, Integral Lars Müller
+  - Language: English / German
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © Lars Müller Publishers. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_PassengerCFF-1.jpg
+    id: 7094
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-17.jpg
+    id: 7088
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-33.jpg
+    id: 7090
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-33.jpg
+    id: 7092
+tags: [ ]
+
+----
+
+Uuid: dm6BUiog2JNg3qlj

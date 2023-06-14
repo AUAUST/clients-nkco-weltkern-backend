@@ -1,0 +1,70 @@
+Title: Guillaume Aubry & Sterling Hudson|Sunset Cocktails
+
+----
+
+Multilinetitle:
+
+Guillaume Aubry & Sterling Hudson
+Sunset Cocktails
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Guillaume Aubry & Sterling Hudson <br>Sunset Cocktails'
+slug: >
+  guillaume-aubry-sterling-hudson-sunset-cocktails
+id: 20631
+isbn: 2365680509 / 978-2365680509
+price: 16.5
+weight: 0.4
+author:
+  name: JBE BOOKS
+  id: 347
+description: |
+  <p>Sunset Cocktails is an invitation to transform contemplation into a sensory experience of assimilation of the world to literally drink the sunset.</p>
+  <p>Based on Guillaume Aubry’s esthetic research on the artistic and mystical yet daily figure of the sunset, Sunset Cocktails presents 12 cocktails devised by mixologist Sterling Hudson.</p>
+  <p>From the dazzling Regulus, whose saffron ice cube spreads its light in the vermouth, to Grand Soir, a political sunset that infuses the charcoal into the vodka.</p>
+  <p>In a luminous afterword, Ryoko Sekiguchi awakens our senses and our bodies to receive fascination for an aesthetic and gustatory experience.</p>
+  <p>The circular outline of the sun becomes visible to the naked eye.<br />
+  The blinding light softens and ceases to burn the pupil.<br />
+  The heavenly body melts and dilutes its bitterness into a sensorial experience of the world.<br />
+  Astonishment of an esthetic sunset.</p>
+details: |
+  - ISBN: 2365680509 / 978-2365680509
+  - Content: 80 pages
+  - Size: 200 × 120 mm
+  - Language: English
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / JBE BOOKS. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/sunset-coktail-1.jpg
+    id: 20633
+tags: [ ]
+
+----
+
+Uuid: Jk5V0qGeUjOu9eKU

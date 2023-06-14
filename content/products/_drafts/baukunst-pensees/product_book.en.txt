@@ -1,0 +1,64 @@
+Title: Baukunst|Pensées
+
+----
+
+Multilinetitle:
+
+Baukunst
+Pensées
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Baukunst <br>Pensées'
+slug: baukunst-pensees
+id: 14535
+isbn: 2491039087 / 978-2491039080
+price: 40.6
+weight: 0.7
+author:
+  name: Cosa Mentale
+  id: 87
+description: '<p>Construction of collisions of ideas, of assemblages of thoughts, which bring out new images, silences, certainties, doubts, worlds and which deliver us a method of thinking and composing. The drawing of a portrait of the Belgian office BAUKUNST.</p>'
+details: |
+  - ISBN: 2491039087 / 978-2491039080
+  - Content: 256 Pages
+  - Size: 194 × 270 mm
+  - Artist: Baukunst
+  - Author: Frédéric Einaudi
+  - Design: Spassky Fischer
+  - Language: French
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Baukunst.jpg
+    id: 14536
+tags: [ ]
+
+----
+
+Uuid: nc9J2bsqwQx65Y9t

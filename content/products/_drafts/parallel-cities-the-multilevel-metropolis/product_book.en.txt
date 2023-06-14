@@ -1,0 +1,62 @@
+Title: Parallel Cities|The Multilevel Metropolis
+
+----
+
+Multilinetitle:
+
+Parallel Cities
+The Multilevel Metropolis
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Parallel Cities <br>The Multilevel Metropolis'
+slug: >
+  parallel-cities-the-multilevel-metropolis
+id: 17597
+isbn: 1935963120 / 978-1935963120
+price: 54.9
+weight: 0.2
+author:
+  name: Walker Art Centre
+  id: 312
+description: '<p>Parallel Cities examines the history of the multilevel city with a focus on elevated pedestrian systems as a recurrent concept in urban planning and design. The book chronicles the evolution and migration of this concept from 19th-century French social utopian thinkers and 20th-century Soviet Constructivist architectural circles to its incubation in postwar London, its theorization by members of CIAM and Team 10, and its eventual dissemination to North America and Asia, where extensive systems were built in cities such as Minneapolis, Calgary and Hong Kong. This fascinating and untold history explores an architectural idea as it evolves under varying social, geographic and political contexts―charting its use as an ever-shifting multipurpose tool to segregate or commingle the classes, foster social cohesion and the public good, facilitate security and surveillance, improve pedestrian safety and traffic flows, or to enhance retail consumption by ameliorating climatic extremes. The implementation of streets above streets creates parallel cities, not mirrored but alternate realities where questions about access, use and control emerge. The book considers both radical visionary schemes of the future urban metropolis by progressive architects and the grand, if visually more mundane, implementation plans of extensive networks built in cities around the world that engender what the authors call a surreptitious urbanism. The first and only comprehensive book on the subject, Parallel Cities represents important new scholarly research on a topic that remains a persistent theme in architecture and urban planning. Accompanying the extensively illustrated text is a lexicon of related terms and an appendix of specific systems drawn from key cities.</p>'
+details: |
+  - ISBN: 1935963120 / 978-1935963120
+  - Content: 208 pages
+  - Size: 177 × 246 mm
+  - Language: English
+  - Publishing date: 2016
+  - Specs: Paperback
+  - Images: © WELTKERN® / Walker Art Center. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_PARALLELCITIES.jpg
+    id: 17598
+tags: [ ]
+
+----
+
+Uuid: LzhcJCAAoJaCiPO8

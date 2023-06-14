@@ -1,0 +1,67 @@
+Title: Bonzo, Tintin & Nina|Vivian Suter
+
+----
+
+Multilinetitle:
+
+Bonzo, Tintin & Nina
+Vivian Suter
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Bonzo, Tintin & Nina <br>Vivian Suter'
+slug: bonzo-tintin-nina-vivian-suter
+id: 17907
+isbn: 3775751933 / 978-3775751933
+price: 62.2
+weight: 0.2
+author:
+  name: Hatje Cantz Verlag
+  id: 207
+description: '<p>This comprehensive monograph surveys four decades of work by Swiss Argentine artist Vivian Suter (born 1949), from early drawings and her painterly wall reliefs of the 1980s to her recent outdoor installations.</p>'
+details: |
+  - ISBN: 3775751933 / 978-3775751933
+  - Content: 352 pages
+  
+  - Size: 302 × 223 × 23 mm
+  - Language: English
+  - Publication: 2022
+  - Specs: Hardcover
+  
+  - Images: © WELTKERN® / Hatje Cantz Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_bonzo.jpg
+    id: 17879
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_bonzo2.jpg
+    id: 17881
+tags: [ ]
+
+----
+
+Uuid: U61swLcEnTiLHhv3

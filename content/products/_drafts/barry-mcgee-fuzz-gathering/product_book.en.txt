@@ -1,0 +1,61 @@
+Title: Barry McGee|Fuzz Gathering
+
+----
+
+Multilinetitle:
+
+Barry McGee
+Fuzz Gathering
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Barry McGee <br>Fuzz Gathering'
+slug: barry-mcgee-fuzz-gathering
+id: 17819
+isbn: 1091539272 / 979-1091539272
+price: 17.5
+weight: 2.1
+author:
+  name: Perrotin
+  id: 121
+description: '<p>This zine gathers several photos, collages and drawings of Barry Mc Gee. He created a unique visual language, composed of geometrical patterns and recurring symbols.</p>'
+details: |
+  - ISBN: 1091539272 / 979-1091539272
+  - Content: 144 pages
+  - Size: 145 × 105 mm
+  
+  - Language: English
+  - Specs: Softcover
+  - Images: © WELTKERN® / Perrotin. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_BARRY-MCGEE-FUZZ-GATHERING-FANZINE.jpg
+    id: 17791
+tags: [ ]
+
+----
+
+Uuid: NdaGTt988efi0Lyf

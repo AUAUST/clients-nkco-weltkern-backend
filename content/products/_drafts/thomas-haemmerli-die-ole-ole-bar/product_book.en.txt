@@ -1,0 +1,80 @@
+Title: Thomas Haemmerli|Die Olé Olé Bar
+
+----
+
+Multilinetitle:
+
+Thomas Haemmerli
+Die Olé Olé Bar
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Thomas Haemmerli <br>Die Olé Olé Bar'
+slug: thomas-haemmerli-die-ole-ole-bar
+id: 29603
+isbn: 3907236550 / 978-3907236550
+price: 49.9
+weight: 2.1
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>The Olé Olé Bar is a Zürich institution. Located in the &#8220;Chreis Cheib&#8221; on Langstrasse, it has been a refuge for the thirsty, the lonely and the party-goers since it was founded in 1966. Regulars like Lara Stoll, Yvonne Eisenring and Dominique Feusi tell anecdotes. Friends like Dieter Meier and Thomas Haemmerli provide sketches of their inner lives, Michèle Roten, Thomas Kapielski and Christian Schachinger sing the praises of the bar and intoxication. The centerpiece of the volume is a facsimile of the diaries known as the &#8220;Barbie Book&#8221;. The women&#8217;s crew, who have been running the Olé Olé Bar for ten years, record every evening who was there, what was left behind, stolen or damaged, whether there was dancing, flirting or even mating. And how things go on at a hot spot where society gives itself over to intoxication night after night.</p>
+  <p>Designed by Jonas Voegeli/Kerstin Landis and richly illustrated with photos and telltale documents from the inner life of the bar, Die OléOlé-Bar. Geschichten aus dem Barbiebuch is a delightful slice of Zürich night life and a look at the recent history of its local customs.</p>
+details: |
+  - ISBN: 3907236550 / 978-3907236550
+  - Content: 344 pages
+  - Size: 170 × 240 mm
+  - Design: Jonas Voegeli, Kerstin Landis
+  - Language: German
+  - Publishing date: 2023
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_COVER_-5.jpg
+    id: 29604
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_-5.jpg
+    id: 29605
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_2-5.jpg
+    id: 29606
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_3-4.jpg
+    id: 29607
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_4-4.jpg
+    id: 29608
+tags: [ ]
+
+----
+
+Uuid: awzc4d4i30YOmDnm

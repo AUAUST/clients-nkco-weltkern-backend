@@ -1,0 +1,61 @@
+Title: Kazumichi Maruoka|Death
+
+----
+
+Multilinetitle:
+
+Kazumichi Maruoka
+Death
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Kazumichi Maruoka <br>Death'
+slug: kazumichi-maruoka-death
+id: 14159
+isbn: NO ISBN
+price: 14.9
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: '<p>With “Elephants”, the Zurich based artist Zuni Halpern (*1978) has continued a work she started in Chicago. The publication contains pencil drawings in which Halpern combines impressions of the city – its architecture, sculptures, and public art – with her fascination for elephants. The artist has enhanced the created stories and functions of bodies with luminous layers of color. These were added to the drawings exclusively for the publication using a combination of analog and digital techniques. Viewers can immerse themselves in a wild world of crushing, embracing and playing. The elephant creatures, sculptures and women’s bodies are repeated again and again by Halpern as shapes in order to weave them into new sceneries and to continue the graphic stories. In this way, the artist creates a world which can be freely explored, where anything is possible and new elements can be discovered every time the book is opened.</p>'
+details: |
+  - Content: 24 Pages
+  - Size: 130 × 190 mm
+  - Edited by: Hiroshi Iguchi
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Innen Zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Death.jpg
+    id: 14176
+tags: [ ]
+
+----
+
+Uuid: UWU5oWzBKv8IFBgY

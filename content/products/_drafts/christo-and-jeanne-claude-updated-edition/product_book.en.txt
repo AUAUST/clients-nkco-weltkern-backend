@@ -1,0 +1,84 @@
+Title: Christo and Jeanne-Claude|Updated Edition
+
+----
+
+Multilinetitle:
+
+Christo and Jeanne-Claude
+Updated Edition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Christo and Jeanne-Claude <br>Updated Edition'
+slug: >
+  christo-and-jeanne-claude-updated-edition
+id: 2861
+isbn: 3836566990 / 978-3836566995
+price: 189.9
+weight: 7.3
+author:
+  name: Taschen
+  id: 91
+description: '<p>Between biography, critical analysis and catalog, this updated edition features the famous TASCHEN Collector&#8217;s Edition, designed by Christo himself. It looks back at the entirety of Christo and Jeanne-Claude&#8217;s work, from the first drawings and family photos to the plans for future projects. Hundreds of photographs and drawings trace the couple&#8217;s creations over the past 10 years, such as The Floating Quays and The Mastaba, London, and discuss current works in progress, including The Mastaba, Abu Dhabi and The Arc de Triomphe, Paris. In addition to Wolfgang Volz&#8217;s extensive photographic documentation and an updated introduction by Paul Goldberger, the book features an interview between the artists and the author that was the last conversation Jeanne-Claude had about their work before her death in 2009. It thus forms an eloquent tribute to Jeanne-Claude, and a celebration of the work of two artists whose imagination touched the landscape of every continent. &#8220;Each project is like a slice of our lives, a part of something I will never forget.&#8221; &#8211; Christo</p>'
+details: |
+  - ISBN: 3836566990 / 978-3836566995
+  - Content: 616 pages
+  - Size: 365 × 75 × 415 mm
+  
+  - Authors: Paul Goldberger, Wolfgang Volz, Christo and Jeanne-Claude
+  - Language: English / French / German
+  - Publishing date: 2019
+  - Specs: Hardcover
+  - Images: © Taschen. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Christo-and-Jeanne-Claude.jpg
+    id: 2864
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Christo-and-Jeanne-Claude3.jpg
+    id: 2866
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Christo-and-Jeanne-Claude1.jpg
+    id: 2868
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Christo-and-Jeanne-Claude2.jpg
+    id: 2870
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Christo-and-Jeanne-Claude4.jpg
+    id: 2872
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Christo-and-Jeanne-Claude5.jpg
+    id: 2874
+tags: [ ]
+
+----
+
+Uuid: pqElKexk07Yx58vq

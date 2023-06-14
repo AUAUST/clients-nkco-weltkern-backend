@@ -1,0 +1,88 @@
+Title: Eva Berendes|Window Shopping
+
+----
+
+Multilinetitle:
+
+Eva Berendes
+Window Shopping
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Eva Berendes <br>Window Shopping'
+slug: window-shopping-eva-berendes
+id: 22507
+isbn: 3959056168 / ‎978-3959056168
+price: 31.5
+weight: 0.6
+author:
+  name: Spector Books
+  id: 99
+description: '<p>Eva Berendes uses the medium of painting as an expanded field of production, sculpture, and public art. Her artistic methods interrogate the constituents of image-making, putting their key attributes into new dialogues with those of architecture, urban infrastructure, and everyday objects. The monographic publication comprises her recent bodies of work, including the series “Gates”, “Guards”, and “Loggia Paintings”, which featured in the exhibition Window Shopping at Kunstverein Siegen. Here, the artist alludes to modes of reception familiar from contexts related to consumption and action. Works refer to architectural elements involved in the transition from outside to inside and lead visitors through doors, gates, windows, and barriers.</p>'
+details: |
+  - ISBN: 3959056168 / ‎978-3959056168
+  - Content: 80 pages
+  - Size: 235 × 325 mm
+  - Artist: Eva Berendes
+  - Design: Lamm & Kirch
+  
+  - Language: English, German
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / ‎Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_Window-Shopping.jpg
+    id: 22508
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_1-1.jpg
+    id: 23495
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_2-2.jpg
+    id: 23496
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_3-2.jpg
+    id: 23497
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_4-2.jpg
+    id: 23498
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_5-2.jpg
+    id: 23499
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_6-1.jpg
+    id: 23500
+tags: [ ]
+
+----
+
+Uuid: KW7oijGuJYXGUzZ2

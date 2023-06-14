@@ -1,0 +1,61 @@
+Title: Maximilian Kirmse|Wasserklops
+
+----
+
+Multilinetitle:
+
+Maximilian Kirmse
+Wasserklops
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Maximilian Kirmse <br>Wasserklops'
+slug: maximilian-kirmse-wasserklops
+id: 20758
+isbn: 3981910896 / 978-3981910896
+price: 13.5
+weight: 0.4
+author:
+  name: Floating Opera Press
+  id: 350
+description: '<p>Wasserklops, Maximilian Kirmse&#8217;s first book, contains illustrations of the artist&#8217;s recent paintings and drawings, with texts by Fid. Fischer and Jan Koslowski. The book is launched to coincide with Kirmse&#8217;s solo exhibition Emozoni at Haverkampf Gallery.</p>'
+details: |
+  - ISBN: 3981910896 / 978-3981910896
+  - Content: 72 pages
+  - Size: 200 × 190 mm
+  - Language: English
+  - Publication: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Floating Opera Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_MAXIMILIAN-KIRMSE-WASSERKLOPS.jpg
+    id: 20759
+tags: [ ]
+
+----
+
+Uuid: 3CzoLCioukGhRscQ

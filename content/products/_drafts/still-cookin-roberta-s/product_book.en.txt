@@ -1,0 +1,67 @@
+Title: Still Cookin'|Roberta's
+
+----
+
+Multilinetitle:
+
+Still Cookin'
+Roberta's
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: "Still Cookin' <br>Roberta's"
+slug: still-cookin-robertas
+id: 14801
+isbn: 0847869806 / 978-0847869800
+price: 44.9
+weight: 0.6
+author:
+  name: Rizzoli Publications
+  id: 115
+description: |
+  <p>Carlo Mirarchi and Brandon Hoy, the creative minds behind Roberta’s, are at it again with a follow-up to their best-selling cookbook. Roberta’s: Still Cookin’ takes a deep dive into the kaleidoscopic world of food and spirits that the cult restaurant is known for.<br />
+  <br />
+  Originally nestled in the heart of Bushwick, the ever-hip restaurant Roberta’s has been serving up good vibes and tasty bites to a cohort of loyal customers from around the globe. Once widely known for its perfectly charred pizzas, the restaurant now sees loyal regulars and international foodies alike flock in search of elevated, unfussy pastas, salads, meats, desserts, and mind-bending cocktails. Since its inception in 2008, the Roberta’s universe has grown to include a restaurant in Culver City, Los Angeles, as well as in Grand Central Station and the East Village in New York, along with endless pop-ups around the U.S., including fixtures at Frieze Art Fair in L.A. and New York.<br />
+  <br />
+  This book offers a one way-ticket to the Roberta’s universe, packed with never-before-published recipes from the ever-evolving menu, alongside signature graphics, photographs, drawings, and stories from the restaurant responsible for single-handedly making pizza cool again. Hoy and Mirarchi explore the eight pillars of the Roberta’s menu: pantry, charcuterie, vegetables, grill, pizzas, pastas, drinks, and desserts. All-new recipes include signature pizzas like the Famous Original, the Bee Sting, and Team Zissou, as well as classics like Green Lettuces, Cacio e Pepe, and Clam Tagliatelle.</p>
+details: |
+  - ISBN: 0847869806 / 978-0847869800
+  - Content: 256 Pages
+  - Size: 237 × 26 × 292 mm
+  - Authors: Carlo Mirarchi, Brandon Hoy
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Roberta.jpg
+    id: 14802
+tags: [ ]
+
+----
+
+Uuid: k00uhwXijEPaxbNW

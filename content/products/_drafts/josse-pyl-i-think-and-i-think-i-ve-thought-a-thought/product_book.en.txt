@@ -1,0 +1,64 @@
+Title: Josse Pyl|I Think And I Think I've Thought A Thought
+
+----
+
+Multilinetitle:
+
+Josse Pyl
+I Think And I Think I've Thought A Thought
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: "Josse Pyl <br>I Think And I Think I've Thought A Thought"
+slug: >
+  josse-pyl-i-think-and-i-think-ive-thought-a-thought
+id: 15217
+isbn: 9464460016 / 978-9464460018
+price: 36.4
+weight: 0.6
+author:
+  name: Roma Publications
+  id: 268
+description: '<p>Language abounds in all areas of Josse Pyl&#8217;s artistic practice. His sculptures and drawings are often attempts to translate the hidden logic of signs and symbols, while his animatronic works draw attention to the ways communication is performed. Working with a range of media and materials, Pyl gives shape to the experiences of thinking, writing, looking, and reading, locating them within spatial environments. i THINK and I think i&#8217;ve THOUGHT a thought collects the various components of Pyl&#8217;s practice from 2014 to 2021 in one publication by making use of the frottage technique. Working with pencil and paper, Pyl has inscribed each page with elements taken from different works. From these fragments, when they are taken together, a new vocabulary can be assembled: a collection of semantic artifacts rendered in binary patterns of light and shadow, negative and positive, and in no gradated or hierarchical order. The images that can be composed from these fractured parts are revealed only gradually as they superimpose upon each other, conjuring new associations, new ways of reading, with each turn of the page.</p>'
+details: |
+  - ISBN: 9464460016 / 978-9464460018
+  - Content: 240 pages
+  - Size: 210 × 300 mm
+  - Edited by: Roma Publications
+  - Design: Jungmyung Lee/J-LTF
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_JossePyl.jpg
+    id: 15218
+tags: [ ]
+
+----
+
+Uuid: iZOrX2DRBJ1GnDkk

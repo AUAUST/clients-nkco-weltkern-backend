@@ -1,0 +1,88 @@
+Title: Façades|Eva Berendes/Kunstmuseum Bonn
+
+----
+
+Multilinetitle:
+
+Façades
+Eva Berendes/Kunstmuseum Bonn
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Façades <br>Eva Berendes/Kunstmuseum Bonn'
+slug: facades-eva-berendes-kunstmuseum-bonn
+id: 29503
+isbn: 3959057233 / 978-3959057233
+price: 29.9
+weight: 2.1
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>The monographic publication focuses on Eva Berendes’s most recent body of work, “Façades”, alongside a selection of older works. As the current recipient of the Bonn Art Award, her “Façades” can be seen in an exhibition of the same name at the Kunstmuseum Bonn, where they are on display in both interior and exterior spaces. The works have been expressly created for this presentation, which responds to the architecture of the institution and the specific site of a “museum,” while also engaging in artistic reflection on an abstract mode of painting that extends into space. The artist alludes to modes of reception that are familiar from contexts related to consumption and action. The works refer to architectural elements in the transition from outside to inside and lead visitors’ bodies and gazes through doors, gates, windows, and barriers. </p>
+  <p>Eva Berendes studied in Munich, Berlin and London. The artist has exhibited widely in group and solo exhibitions at institutions and galleries. Recently she has been awarded the Bonner Kunstpreis.</p>
+details: |
+  - ISBN: 3959057233 / 978-3959057233
+  - Content: 90 pages
+  - Size: 230 × 320 mm
+  - Design: Florian Lamm, Lamm & Kirch
+  - Language: English
+  - Publishing date: 2023
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_COVER_-2.jpg
+    id: 29504
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_6.jpg
+    id: 29510
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_5-1.jpg
+    id: 29509
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_4-2.jpg
+    id: 29508
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_3-2.jpg
+    id: 29507
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_2-2.jpg
+    id: 29506
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_SPREAD_-2.jpg
+    id: 29505
+tags: [ ]
+
+----
+
+Uuid: agkq7tdpc7ekXwrM

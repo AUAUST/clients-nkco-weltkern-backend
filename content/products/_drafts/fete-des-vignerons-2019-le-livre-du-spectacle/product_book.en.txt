@@ -1,0 +1,93 @@
+Title: Fête des Vignerons 2019|Le livre du spectacle
+
+----
+
+Multilinetitle:
+
+Fête des Vignerons 2019
+Le livre du spectacle
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Fête des Vignerons 2019 <br>Le livre du spectacle'
+slug: >
+  fete-des-vignerons-2019-le-livre-du-spectacle
+id: 7289
+isbn: 2839926843 / 978-2839926843
+price: 29.9
+weight: 0.4
+author:
+  name: La Confrérie des Vignerons de Vevey
+  id: 236
+description: '<p>Imagine, it takes place only once in a generation. Therefore, 222 years separate the first Fête des Vignerons from its 12th edition in 2019. Always more beautiful, ambitious and grandiose, they are each time in tune with their time, respectful of their traditional origins and deeply contemporary. All of them took place on the Place du Marché in Vevey, in the very heart of the small town on the Vaud Riviera, facing Lake Geneva and the Alps.</p>'
+details: |
+  - ISBN: 2839926843 / 978-2839926843
+  - Content: 165 pages
+  - Size: 163 × 16 × 233 mm
+  - Authors: Sabine Carruzzo-Frey, Daniele Finzi Pasca, Guillaume Favrod, Gian Maria Sposito
+  - Edited by: La Confrérie des Vignerons de Vevey
+  - Design: Balmer Hählen
+  - Language: French
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN®. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_FeteVignerons.jpg
+    id: 7337
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-27.jpg
+    id: 7339
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-43.jpg
+    id: 7341
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-43.jpg
+    id: 7343
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-32.jpg
+    id: 7345
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-17.jpg
+    id: 7347
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_6-5.jpg
+    id: 7349
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_FeteVignerons_BACK.jpg
+    id: 7335
+tags: [ ]
+
+----
+
+Uuid: 7oETXGeTzeKb5aq3

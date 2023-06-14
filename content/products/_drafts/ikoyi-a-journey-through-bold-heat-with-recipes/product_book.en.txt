@@ -1,0 +1,91 @@
+Title: Ikoyi|A Journey Through Bold Heat with Recipes
+
+----
+
+Multilinetitle:
+
+Ikoyi
+A Journey Through Bold Heat with Recipes
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Ikoyi <br>A Journey Through Bold Heat with Recipes'
+slug: >
+  ikoyi-a-journey-through-bold-heat-with-recipes
+id: 29460
+isbn: 1838666309 / 978-1838666309
+price: 52.2
+weight: 2.1
+author:
+  name: Phaidon Press
+  id: 92
+description: |
+  <p>‘In what seems like only a brief moment, Ikoyi has shaken the world of cooking – René Redzepi, chef &#038; co-owner of noma</p>
+  <p>The exciting debut cookbook from the acclaimed chef of the two-Michelin-starred London restaurant Ikoyi</p>
+  <p>Ikoyi, named as one of the World&#8217;s 50 Best Restaurants in 2022, is one of the most original, flavor-driven restaurants of its time. Run by childhood-friend duo Iré Hassan-Odukale and chef Jeremy Chan, the innovative culinary mind behind the unique tasting menu, its menu is inspired by the spices of Sub-Saharan West Africa and produce from local farms and artisan producers. </p>
+  <p>The book includes narratives throughout illustrating Ikoyi’s inspiration and inception, as influenced by Chan’s experiences living, cooking, and traveling in Hong Kong, Canada, Sub-Saharan Africa, and Europe. Each recipe in this fascinating book features a story about how the dish was developed, plus the influences of seasonality and produce from local producers. This debut cookbook tells the compelling story and journey of Chan and Ikoyi, with 80 recipes that Chan has carefully developed to encapsulate bold heat: his signature style.</p>
+details: |
+  - ISBN: 1838666309 / 978-1838666309
+  - Content: 256 pages
+  - Size: 290 × 214 mm
+  - Design: Julie Peeters
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Hardback
+  - Images: © WELTKERN ® / Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Ikoyi_COVER_.jpg
+    id: 29467
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Ikoyi_SPREAD_01.jpg
+    id: 29466
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Ikoyi_SPREAD_02.jpg
+    id: 29465
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Ikoyi_SPREAD_03.jpg
+    id: 29464
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Ikoyi_SPREAD_04.jpg
+    id: 29463
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Ikoyi_SPREAD_05.jpg
+    id: 29462
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Ikoyi_SPREAD_06.jpg
+    id: 29461
+tags: [ ]
+
+----
+
+Uuid: lbf8vaagyCtEC1fC

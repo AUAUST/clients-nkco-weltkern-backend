@@ -1,0 +1,93 @@
+Title: DOSIS III|The club as exhibition venue
+
+----
+
+Multilinetitle:
+
+DOSIS III
+The club as exhibition venue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'DOSIS III <br>The club as exhibition venue'
+slug: dosis-iii-the-club-as-exhibition-venue
+id: 24877
+isbn: 3959055598 / 978 3959055598
+price: 16.5
+weight: 0.7
+author:
+  name: Spector Books
+  id: 99
+description: '<p>The club as exhibition venue: in summer 2021, after more than a year of pandemic-induced downtime, the Institut fuer Zukunft (IfZ) in Leipzig reopened its doors to host two back-to-back exhibitions, DOSIS I and DOSIS II, conceived and curated by a crew from the IfZ. Works were produced by a total of fifty-eight artists, who effectively took over the club’s premises. The book contains views of the exhibited artworks, demonstrating the (im) possibility of combining the ideas of club culture and artistic production. It also contains material on the works on display and essays on the relationship between the club and contemporary art. The book is not a record of the exhibition; rather, it shows how the club can be transformed, with a period of crisis causing new ideas to be implemented. In this sense, it is a book that is both about and for the club. Founded in 2014, the Institut fuer Zukunft (IfZ) is an electronic music club in Leipzig.</p>'
+details: |
+  - ISBN: 3959055598 / 978 3959055598
+  - Content: 192 pages
+  - Size: 185 × 280 mm
+  - Language: German
+  - Publishing date: August 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_COVER_01.jpg
+    id: 24988
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_01.jpg
+    id: 24984
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_02.jpg
+    id: 24983
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_03.jpg
+    id: 24982
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_04.jpg
+    id: 24981
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_05.jpg
+    id: 24980
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_06.jpg
+    id: 24979
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_07.jpg
+    id: 24978
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/11/DOSIS-III_SPREAD_08.jpg
+    id: 24977
+tags: [ ]
+
+----
+
+Uuid: ZIo8eKmu36XzKnta

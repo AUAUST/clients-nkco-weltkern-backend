@@ -1,0 +1,67 @@
+Title: Christophe Jacquet|Bienvenue
+
+----
+
+Multilinetitle:
+
+Christophe Jacquet
+Bienvenue
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Christophe Jacquet <br>Bienvenue'
+slug: christophe-jacquet-bienvenue
+id: 15112
+isbn: 1096155064 / 979-1096155064
+price: 22.8
+weight: 0.3
+author:
+  name: Tombolo Presses
+  id: 282
+description: |
+  <p>A tribute to a forgotten book, Bienvenue revives the thwarted editorial history of the book Pour Jean Sénac, dedicated to the homosexual poet and Algerian independence fighter. This edition proposes the publication and the re-edition of documents of the time and contemporary productions of Christophe Jacquet, graphic designer of Pour Jean Sénac, as well as a long conversation between Jacquet and Thierry Chancogne around this singular project.<br />
+  <br />
+  At the beginning of the years 2000, Aldo Herlaut, director of the French Cultural Center in Algiers, entrusts the book production of the collection of poems, documents and testimonies woven around the libertarian homosexual figure and faithful to Algeria of Jean Sénac to Christophe Jacquet. For Jean Sénac is not the only edition planned in the catalog of the editions Rubicube and the collection A4. To propose to the thwarted relations of France and Algeria a freer face, smiling and sensitive, other titles are planned. We want to claim the figure and the unknown work of the cosmopolitan and adventurous writer Isabelle Wilhelmina Marie Eberhart. A Frenchwoman of Russian-German origin born in Switzerland who ended up a Muslim, alongside the Algerian population and refractory to the colonial society. Under the title Bienvenue, Christophe Jacquet wants to edit a set of photographs of landscapes, lives, activities and presences of post-colonial and post-Gia Algeria that he took during the preparation of Pour Jean Sénac and the realization of the visual identity of the French and Algerian cultural center.<br />
+  <br />
+  Finally, Pour Jean Sénac will be the only printed project of this ambitious editorial program. A printed book but which will not know an official launching and will end up for a good part of its copies in boxes perhaps still sleeping somewhere in the French cultural center of the capital of Algeria. The present work, published on the occasion of the Designing Writing research program at the École Cantonale de Lausanne, aims to revive this forgotten editorial history. It is a question, through the publication of a conversation around the For Jean Sénac and the publication or re-publication of documents from the period or contemporary productions by Christophe Jacquet, of proceeding with an untimely launch. It is a question, thirteen years after its release, of welcoming Pour Jean Sénac.</p>
+details: |
+  - ISBN: 1096155064 / 979-1096155064
+  - Content: 60 pages
+  - Size: 210 × 297 mm
+  - Texts by: Christophe Jacquet et Thierry Chancogne.
+  - Language: French
+  - Publishing date: 2018
+  - Specs: Softcover
+  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Bienvenue.jpg
+    id: 15138
+tags: [ ]
+
+----
+
+Uuid: kKNfzfS0sAO8VMXc

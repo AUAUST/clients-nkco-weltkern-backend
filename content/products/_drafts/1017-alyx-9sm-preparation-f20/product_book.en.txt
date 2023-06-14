@@ -1,0 +1,63 @@
+Title: 1017-ALYX-9SM|Preparation F20
+
+----
+
+Multilinetitle:
+
+1017-ALYX-9SM
+Preparation F20
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: '1017-ALYX-9SM <br>Preparation F20'
+slug: 1017-alyx-9sm-preparation-f20
+id: 13908
+isbn: 1916002456 / 978-1916002456
+price: 30.9
+weight: 0.3
+author:
+  name: InOtherWords
+  id: 105
+description: '<p><em>Preparation</em> F20 is the fourth in the series exploring narratives around the various ‘acts of preparing’ leading up to the Alyx show in Paris. This edition features the sculptures of Ewan MacFarlane and the backstage mirror designed in collaboration with Alexander Gerber, OK-RM and Gary Gill. Photographed by Esther Theaker it is the result of a close collaboration both in the shoot and edit. The book features 156 images: 112 in double-black and 44 colour plates with silk-screened cover and embossed textured dust-jacket.</p>'
+details: |
+  - ISBN: 1916002456 / 978-1916002456
+  - Content: 156 pages
+  - Size: 178 × 12 × 110 mm
+  - Author: 1017-ALYX-9SM
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / InOtherWords. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_F20.jpg
+    id: 13909
+tags: [ ]
+
+----
+
+Uuid: 9cKO47IsJj6p2ezV

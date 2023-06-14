@@ -1,0 +1,93 @@
+Title: Olga Prader|C’est Bien
+
+----
+
+Multilinetitle:
+
+Olga Prader
+C’est Bien
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Olga Prader <br>C’est Bien'
+slug: olga-prader-cest-bien
+id: 18530
+isbn: 3952471098 / 978-3952471098
+price: 14.9
+weight: 0.2
+author:
+  name: Cpress
+  id: 327
+description: |
+  <p>The Struwwelpeter and other creatures cavort in a sunlit and happy garden. They all give into their crave to dig their fingers further inside an adventure reminiscent of both Warhol’s In the Bottom of My Garden and Brueghel’s Children’s Games.<br />
+  Olga Prader’s colouring book contains<br />
+  46 drawings. C’est bien.</p>
+details: |
+  - ISBN: 3952471098 / 978-3952471098
+  - Content: 48 pages
+  - Size: 210 × 297 mm
+  - Language: English
+  - Graphic Design by: Studio Nüssli+Nuessli
+  - Publication: 2021
+  - Specs: Paperback
+  - Images: © WELTKERN® / Cpress. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader.jpg
+    id: 18498
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader1-1.jpg
+    id: 18550
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader2.jpg
+    id: 18551
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader3.jpg
+    id: 18552
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader4.jpg
+    id: 18553
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader5.jpg
+    id: 18554
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader6.jpg
+    id: 18555
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Olga-Prader7.jpg
+    id: 18556
+tags: [ ]
+
+----
+
+Uuid: nWilwZleRWFUi8kd

@@ -1,0 +1,67 @@
+Title: Frank Bowling|Mappa Mundi
+
+----
+
+Multilinetitle:
+
+Frank Bowling
+Mappa Mundi
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Frank Bowling <br>Mappa Mundi'
+slug: frank-bowling-mappa-mundi
+id: 14061
+isbn: 3791356587 / 978-3791356587
+price: 54.9
+weight: 1.7
+author:
+  name: Prestel
+  id: 112
+description: |
+  <p>Featuring numerous works and rarely seen large-scale paintings from Frank Bowling’s sweeping 60-year career, this book highlights the artist’s magnificent use of sensuous color and rich texture in pictures that are at once absorbing and tactile. When they were first exhibited in the late 1960s, Frank Bowling’s immense &#8220;map paintings&#8221; were widely celebrated for their vibrant color and subtle modulation of the painted surface. These works, like many in Bowling’s oeuvre, draw on the principle of mapping to create a kind of mental geography, woven throughout with personal and historic imagery. This collection of paintings from throughout Bowling’s career features exquisite reproductions that illuminate his experiments with material and the paintings’ wide range of pictorial possibilities.<br />
+  <br />
+  Accompanied by an extensive curatorial survey, art historical contributions, prose poem, biographical visual essay, as well as the collected writings and correspondence of the artist, this book offers an in depth exploration of Bowling’s career and aspects of his journey from his home in Guyana to London and New York. It also highlights references to the natural world and his use of classical and literary symbolism. This book creates a true mappa mundi—an evolving map of Bowling’s inner and physical worlds.</p>
+details: |
+  - ISBN: 3791356587 / 978-3791356587
+  - Content: 256 Pages
+  - Size: 235 × 27 × 295 mm
+  - Artist: Frank Bowling
+  - Edited by: Okwui Enwezor
+  - Contributions from: Frank Bowling, Kobena Mercer, Anna Schneider, Zoe Whitley
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Prestel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_FrankBowling.jpg
+    id: 14074
+tags: [ ]
+
+----
+
+Uuid: P2NbBL261DgazjhH

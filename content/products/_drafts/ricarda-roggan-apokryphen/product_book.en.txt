@@ -1,0 +1,95 @@
+Title: Ricarda Roggan|Apokryphen
+
+----
+
+Multilinetitle:
+
+Ricarda Roggan
+Apokryphen
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Ricarda Roggan <br>Apokryphen'
+slug: ricarda-roggan-apokryphen
+id: 22503
+isbn: 3959056700 / 978-3959056700
+price: 31.5
+weight: 0.6
+author:
+  name: Spector Books
+  id: 99
+description: '<p>A lock of Ludwig van Beethoven’s hair, Kurt Tucholsky’s pencil, a cup belonging to Johann Gottfried Seume that Friedrich Schiller might have drunk from … Ricarda Roggan takes photographs of these objects in different museums and archives. Since 2013, she has built up an extensive collection of these everyday personal items, whose value is determined by museum provenance histories. Bernd Kuchenbeiser’s design attempts a new way of sorting things based on their lexical attributes. The result is an essential reference work of historical objects ranging from Almanach (almanach) to Zündholzetui (matchbox cover).</p>'
+details: |
+  - ISBN: 3959056700 / 978-3959056700
+  - Content: 304 pages
+  - Size: 200 × 160 mm
+  - Authors: Ricarda Roggan
+  - Design: Bernd Kuchenbeiser
+  - Language: German
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / ‎Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_Ricarda-Roggan.jpg
+    id: 22504
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_.1jpg.jpg
+    id: 23482
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_2.jpg
+    id: 23483
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_3.jpg
+    id: 23484
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_4.jpg
+    id: 23485
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_5.jpg
+    id: 23486
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_6.jpg
+    id: 23487
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_7.jpg
+    id: 23488
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_SPREAD_8.jpg
+    id: 23489
+tags: [ ]
+
+----
+
+Uuid: 0gPzBEIERjE2IzVh

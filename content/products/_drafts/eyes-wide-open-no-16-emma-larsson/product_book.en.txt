@@ -1,0 +1,61 @@
+Title: Eyes Wide Open No.16|Emma Larsson
+
+----
+
+Multilinetitle:
+
+Eyes Wide Open No.16
+Emma Larsson
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Eyes Wide Open No.16 <br>Emma Larsson'
+slug: eyes-wide-open-no-16-emma-larsson
+id: 21175
+isbn: NO ISBN
+price: 9.4
+weight: 0.2
+author:
+  name: Hato Press
+  id: 330
+description: |
+  <p>Zine no.16 in the Hato Press Zine series ‘Eyes Wide Open’ by Emma Larsson.</p>
+  <p>Eyes Wide Open features works part of an archive of untitled pieces exploring colorful dreamscapes merged with inarticulable melancholy.</p>
+details: |
+  - Content: 16 pages
+  - Size: 140 × 200 mm
+  - Language: English
+  - Specs: Softcover / Saddle stitch binding
+  - Images: © WELTKERN® / Hato Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_No.16-Eyes-Wide-Open-by-Emma-Larsson.jpg
+    id: 21177
+tags: [ ]
+
+----
+
+Uuid: bl8upSz4aQF2i04u

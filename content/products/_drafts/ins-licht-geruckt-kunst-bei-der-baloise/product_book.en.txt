@@ -1,0 +1,75 @@
+Title: Ins Licht gerückt|Kunst bei der Baloise
+
+----
+
+Multilinetitle:
+
+Ins Licht gerückt
+Kunst bei der Baloise
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Ins Licht gerückt <br>Kunst bei der Baloise'
+slug: ins-licht-geruckt-kunst-bei-der-baloise
+id: 5712
+isbn: 3775746410 / 978-3775746410
+price: 47.9
+weight: 1.5
+author:
+  name: Hatje Cantz Verlag
+  id: 207
+description: '<p>For art experts, the Swiss Baloise has a name not only as an insurance and financial services provider. With art promotion programmes, museum cooperations and the renowned Baloise Art Prize for up-and-coming artists, which is awarded at Art|Basel, it makes a lasting contribution to the development of contemporary art. What is less well known so far is that parallel to this commitment, it has also built up a high-calibre art collection. This collection dates back to the middle of the 20th century and has gathered works by renowned artists since its turn to contemporary art in the 1990s. With a focus on photography and works on paper since the 1960s, these include Miriam Cahn, Simon Fujiwara, Katharina Fritsch, Bruce Nauman and Jeff Wall.</p>'
+details: |
+  - ISBN: 3775746410 / 978-3775746410
+  - Content: 244 pages
+  - Size: 230 × 25 × 300 mm
+  - Author: Andreas Burckhardt
+  - Language: German
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © WELTKERN®. All rights reserved.
+  - Condition: Second-hand, As new (9/10)
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_InsLicht1.jpg
+    id: 5716
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_InsLicht2.jpg
+    id: 5718
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_1-4.jpg
+    id: 5720
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_2-8.jpg
+    id: 5722
+tags: [ ]
+
+----
+
+Uuid: yUCYSWbYhyEZVc4H

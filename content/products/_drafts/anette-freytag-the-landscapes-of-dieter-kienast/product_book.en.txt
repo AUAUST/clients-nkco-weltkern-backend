@@ -1,0 +1,67 @@
+Title: Anette Freytag|The Landscapes of Dieter Kienast
+
+----
+
+Multilinetitle:
+
+Anette Freytag
+The Landscapes of Dieter Kienast
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Anette Freytag <br>The Landscapes of Dieter Kienast'
+slug: >
+  anette-freytag-the-landscapes-of-dieter-kienast
+id: 18756
+isbn: 3856763879 / 978-3856763879
+price: 85.9
+weight: 0.2
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>Dieter Kienast (1945–1998) is a key figure in European landscape architecture. Amidst a striking change in societal understandings of nature, he sought a synthesis between design and ecology in the 1970s. He designed spaces to make the dissolving opposition between city and countryside legible and to enable aesthetic experience to help cope with increasingly complex everyday life. As a designer, planner, researcher and university lecturer, Kienast introduced new challenges into the discussion of those fields. Critique of urban planning, processes of participation and the significance of spontaneous urban vegetation played just as much a role in these discussions as did art, literature, architecture and the popularity of postmodernism.</p>'
+details: |
+  - ISBN: 3856763879 / 978-3856763879
+  - Content: 257 pages
+  - Size: 230 × 310 mm
+  
+  - Language: English
+  - Preface by: Erik A. de Jong
+  - Graphic design: Büro 146
+  - Photographs by: Georg Aerni, Christian Vogt
+  - Foreword by: Christophe Girot
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Gta Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Anette-Freytag-1.jpg
+    id: 18750
+tags: [ ]
+
+----
+
+Uuid: mfGjzukChG4lWd21

@@ -1,0 +1,91 @@
+Title: Minimetal|11 mantras
+
+----
+
+Multilinetitle:
+
+Minimetal
+11 mantras
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Minimetal <br>11 mantras'
+slug: >
+  nik-emch-laurent-goei-minimetal-11-mantras
+id: 3260
+isbn: 3906803090 / 978-3906803098
+price: 64.9
+weight: 1.5
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>22 years ago, Nik Emch and Laurent Goei formed the Zürich-based artist duo Minimetal. They produce musical visual art projects and play both underground venues and white-roomed art galleries. Their “sound sculptures” are a veritable torrent of guitar sounds, drums, vocals – and images. A torrent that has been carrying audiences off into a hypnotic stratosphere for 22 years now. Minimetal is punk, rock, art and above all: a lifetime project.<br />
+  <br />
+  Back in the early ’90s Emch and Goei composed 11 songs with the idea of playing what they call “Minimetal”:  a mini-band, just the two of them, but with plenty of power and metal. To this day they’ve stuck to these 11 songs, which have become their mantras, reinterpreted over the years in highly produced or rough and unfinished renditions ranging from pop and punk to noise and techno. How and why have remained crucial questions as their discussions and arguments in the studio have become part of the show.<br />
+  <br />
+  From the get-go, the duo steered clear of the usual rock show arenas, rarely, if ever, performing on stage. This eschewal of “maxi” venues gave Minimetal plenty of latitude to explore new ways of performing and recording, which invariably led to the art scene and now to an artist’s book.<br />
+  <br />
+  <em>MINIMETAL 11 MANTRAS</em> isn&#8217;t just a journey back across 22 years of Minimetal&#8217;s multi-media œuvre, but a journey through the history of sound quality as well. This photobook is illustrated with QR codes, “quick response” codes you can scan with a smartphone for direct access to 13 hours of audio and video content on the web, which makes this book a sound and video carrier as well.</p>
+details: |
+  - ISBN: 3906803090 / 978-3906803098
+  - Content: 260 pages
+  - Size: 215 × 17 × 275 mm
+  - Authors: Laurent Goei, Nik Emch
+  - Design: Minimetal
+  - Language: French
+  - Publishing date: 2016
+  - Specs: Softcover
+  - Images: © Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Minimetal11mantras.jpg
+    id: 3265
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-22.jpg
+    id: 3267
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-22.jpg
+    id: 3269
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-22.jpg
+    id: 3271
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-17.jpg
+    id: 3273
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Minimetal11mantras_BACK.jpg
+    id: 3263
+tags: [ ]
+
+----
+
+Uuid: wHr4iqueA9LVmzxa

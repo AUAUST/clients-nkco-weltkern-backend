@@ -1,0 +1,83 @@
+Title: Breadcrumb|Art & Sandwiches
+
+----
+
+Multilinetitle:
+
+Breadcrumb
+Art & Sandwiches
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Breadcrumb <br>Art & Sandwiches'
+slug: breadcrumb
+id: 17696
+isbn: 9493148529 / 978-9493148529
+price: 22.9
+weight: 0.2
+author:
+  name: Onomatopee
+  id: 319
+description: |
+  <p>A sandwich can be so much more than an item of food consisting of bread with a filling. The making of a sandwich is a tasteful and relational creation, sprinkling community, criticality and cultural economy.</p>
+  <p>Ranging from sculpture, found imagery, drawing and much more, Breadcrumb compiles and reflects upon forty-one sandwich recipes by artists from different places across the globe, presenting the sandwich as a fuzzy, expanding object, lacking strict definition.</p>
+  <p>The Breadcrumb cookbook brings artistic value to everyday life and instigates thought as well as food for digestion. Buen provecho.</p>
+details: |
+  - ISBN: 9493148529 / 978-9493148529
+  - Content: 188 pages
+  - Size: 160 × 200 mm
+  
+  - Language: English
+  - Edited by: Eliot Z. Felde and Cristina Ramos
+  - Graphic design: Fred Heinsohn
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Breadcrumb.jpg
+    id: 17697
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_breadcrumb2-2.jpg
+    id: 18744
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_breadcrumb4.jpg
+    id: 18746
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_breadcrumb1-1.jpg
+    id: 18743
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_breadcrumb3-1.jpg
+    id: 18745
+tags: [ ]
+
+----
+
+Uuid: 5ZgOkthwxXBVjL4v

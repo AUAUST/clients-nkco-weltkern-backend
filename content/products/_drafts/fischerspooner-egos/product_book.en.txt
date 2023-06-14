@@ -1,0 +1,65 @@
+Title: Fischerspooner|Egos
+
+----
+
+Multilinetitle:
+
+Fischerspooner
+Egos
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Fischerspooner <br>Egos'
+slug: fischerspooner-egos
+id: 17963
+isbn: 8862084291 / 978-8862084291
+price: 38.5
+weight: 0.7
+author:
+  name: Damiani Books
+  id: 336
+description: |
+  <p>Fischerspooner’s new project, &#8216;Egos&#8217;, is a study on the morphology of characters, relationships, narratives, and spaces. In this artistic experiment, two things remain constant: the physical space—Casey Spooner’s apartment—and the cast—the artists and their latest collaborators. Yet the photographs featured in &#8216;Egos&#8217; result from many different photographer’s approaches to this same material, resulting in wildly divergent but uncannily similar images. The dynamic mix of photographs may feature the same space and the same people, yet the tenors of the scenes drastically change in their exploration of intimacy, the erotic, homosexuality, and the threshold between private and public.</p>
+  <p>The book, like dream-work, is layered with displacement, desire, and disguise. &#8216;Egos&#8217; not only manifests in book form, but also in the music of their forthcoming album.</p>
+details: |
+  - ISBN: 8862084291 / 978-8862084291
+  - Content: 96 pages
+  - Size: 210 × 270 mm
+  - Language: English
+  - Editors: Gregor Muir, Yilmaz Dziewior
+  - Publication: 2015
+  - Specs: Hardcover
+  
+  - Images: © WELTKERN® / Damiani Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Fischerspooner-–-Egos.jpg
+    id: 17914
+tags: [ ]
+
+----
+
+Uuid: fh5eqUrS8ZePxkic

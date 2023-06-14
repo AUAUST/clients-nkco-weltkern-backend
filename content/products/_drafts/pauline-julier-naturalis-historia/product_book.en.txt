@@ -1,0 +1,106 @@
+Title: Pauline Julier|Naturalis Historia
+
+----
+
+Multilinetitle:
+
+Pauline Julier
+Naturalis Historia
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Pauline Julier <br>Naturalis Historia'
+slug: pauline-julier-naturalis-historia
+id: 5653
+isbn: |
+  2909230238 / 978-2909230238
+price: 42.9
+weight: 1.4
+author:
+  name: Centre Culturel Suisse
+  id: 79
+description: |
+  <p>Pauline Julier can be defined as an artist-researcher. She has been working on her Naturalis Historia project since 2014, but it was back in 2010 that she first had the idea. This long-term research has finally led to three complementary mediums of the same corpus: the exhibition, the book and the film. In 2017, an exhibition presented in two versions, first at the Ferme-Asile in Sion and then at the Centre Culturel Suisse in Paris, allowed visitors to discover several works through different devices &#8211; light boxes, 16 mm film and video projections on the walls, slide and film projections in micro-architectures &#8211; in the course of a spatial wandering that each visitor made at his or her own pace. The present book provides a self-contained articulation of all the elements of the project over 504 pages, taking us from the discovery of a 300-million-year-old petrified forest in northern China to the controlled &#8216;suicide&#8217; of the Cassini probe in Saturn&#8217;s atmosphere in 2017. The film, to be completed in 2018, will immerse the viewer in a cinematic montage of all the images in this collection.<br />
+  <br />
+  Nature, the history of nature, the relationship between humans and nature: the subject is immense and universal. To &#8220;treat&#8221; it from her base in Geneva, Pauline Julier has explored numerous regions, from the air-conditioned hotels of Doha to the open-cast coal mines of northern China, from the churches and museums of Naples to the smoky slopes of Vesuvius, from the caves of the Jura to the taxidermied animal-haunted rooms of the Musée de la Chasse et de la Nature in Paris. This exploration has also taken place through the stories of authors who have taken her from Iceland to the Ecuadorian Amazon. Her wanderings have taken place not only geographically, but also through the history of ideas through authors and researchers such as the writer and naturalist Pliny the Elder, the poet and philosopher Giacomo Leopardi, the novelist and playwright Alexandre Dumas, the writer Jules Verne, the anthropologist Philippe Descola, the philosopher François Jullien, the volcanologist Maurice Krafft, the professor of paleobiology Jun Wang and the sociologist and philosopher Bruno Latour. The texts gathered in this book are of various kinds: quotations, writings by Pauline Julier, as well as two long interviews she conducted with Philippe Descola and Bruno Latour respectively. As for the images, they allow on the one hand a detailed immersion in a &#8220;book&#8221; version of Pauline Julier&#8217;s films, and on the other hand the discovery of numerous iconographic references which constituted the sources of her research.</p>
+details: |
+  - ISBN: 2909230238 / 978-2909230238
+  
+  - Content: 504 pages
+  - Size: 170 × 30 × 260 mm
+  - Design: Ludovic Balland
+  - Author: Pauline Julier
+  - Edited by: Jean-Paul Felley, Olivier Kaeser
+  - Texts by: Pauline Julier, Anna Manubens, Cyril Neyrat, entretiens avec Philippe Descola et Bruno Latour par Pauline Julier
+  - Language: English / German
+  - Publishing date: 2018
+  - Specs: Softcover
+  - Images: © Centre Culturel Suisse. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_NaturalisHistoria-1.jpg
+    id: 5706
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_-3.jpg
+    id: 5658
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_2-6.jpg
+    id: 5660
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_3-6.jpg
+    id: 5662
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_4-6.jpg
+    id: 5664
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_5-3.jpg
+    id: 5666
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_6.jpg
+    id: 5668
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_7.jpg
+    id: 5670
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_8.jpg
+    id: 5672
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_9.jpg
+    id: 5674
+tags: [ ]
+
+----
+
+Uuid: zcE9lFWPOT26AQ1Z

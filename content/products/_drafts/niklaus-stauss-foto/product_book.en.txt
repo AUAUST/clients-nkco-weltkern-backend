@@ -1,0 +1,87 @@
+Title: Niklaus Stauss|Foto
+
+----
+
+Multilinetitle:
+
+Niklaus Stauss
+Foto
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Niklaus Stauss <br>Foto'
+slug: niklaus-stauss-foto
+id: 6761
+isbn: 3906803562 / 978-3906803562
+price: 75.9
+weight: 2.4
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>Over the course of an extraordinary career spanning six decades, Zürich photographer Niklaus Stauss has portrayed over fifty thousand people in the fields of art, music, theater, opera, literature, film and dance. He was in Louis Armstrong’s dressing room, got a shot of Brigitte Bardot standing in the reeds as he floated by on an inflatable raft, and accompanied some major figures in the Swiss arts scene, including Niklaus Meienberg, Harald Szeemann and Daniel Schmid, over many years. And yet he’s no paparazzo; he simply takes pictures of people wherever he himself happens to be. He has always taken an interest in both accomplished and aspiring artists, hence the abundance of portraits from the outset of great careers and creative developments. The fact that a great many of Stauss’s younger subjects later gained fame testifies to his instinct for artistic potential.<br />
+  <br />
+  This book presents an overview of his photographic work as well as a very personal record of the Swiss and European arts scene of the past sixty years. Edited by Barbara Stauss, it’s also a daughter’s tribute to her father on his 80th birthday.</p>
+details: |
+  - ISBN: 3906803562 / 978-3906803562
+  - Content: 448 pages
+  - Size: 220 × 33 × 330 mm
+  - Author: Niklaus Stauss
+  - Edited by: Barbara Stauss
+  - Design: Hanna Williamson-Koller
+  - Language: German
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Foto.jpg
+    id: 6764
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-11.jpg
+    id: 6766
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-26.jpg
+    id: 6768
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-26.jpg
+    id: 6770
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-18.jpg
+    id: 6772
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Foto_BACK.jpg
+    id: 6762
+tags: [ ]
+
+----
+
+Uuid: 6vWZQbmaFjjBpgI6

@@ -1,0 +1,63 @@
+Title: Flaneur Issue 08|Taipei Wanda Road
+
+----
+
+Multilinetitle:
+
+Flaneur Issue 08
+Taipei Wanda Road
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Flaneur Issue 08 <br>Taipei Wanda Road'
+slug: flaneur-issue-08-taipei-wanda-road
+id: 5563
+isbn: 3945918074 / 978-3945918074
+price: 28.9
+weight: 1
+author:
+  name: Edition Messner
+  id: 227
+description: '<p>The eighth issue of ‘Flaneur’ is devoted to the intersection of Kangding Road and Wanda Road in Taipei, a crossroads of layered colonial and urban histories. Taipei had always held a certain fascination for the editorial team, so when the opportunity arose to do a three-month artist residency at Taipei Art Village Treasure Hill, they seized the moment. In an interdisciplinary, collaborative effort, the axis is mapped out from different angles, revealing the layers, colonial implications, unvoiced stories, and contradictions of this place of displacements. With diverse contributions by more than fifteen local artists and writers, the magazine delves into the oldest part of the Taiwanese capital.</p>'
+details: |
+  - ISBN: 3945918074 / 978-3945918074
+  - Content: 220 pages
+  - Size: 310 × 13 × 240 mm
+  - Author: Flaneur
+  - Design: Studio Yukiko
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © Edition Messner. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_Flaneurissue08-1.jpg
+    id: 6607
+tags: [ ]
+
+----
+
+Uuid: xzUQg9ixDmYxqdAC

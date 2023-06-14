@@ -1,0 +1,71 @@
+Title: “Efflorescence” Virgil Abloh™|Galerie Kreo ©2020
+
+----
+
+Multilinetitle:
+
+“Efflorescence” Virgil Abloh™
+Galerie Kreo ©2020
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: '“Efflorescence” Virgil Abloh™ <br>Galerie Kreo ©2020'
+slug: >
+  efflorescence-virgil-abloh-galerie-kreo-2020
+id: 13408
+isbn: NO ISBN
+price: 15.5
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: '<p>Efflorescence: the collection’s name seems paradoxical for what appears at first to be solid blocks of reality to sit, gather, and look at oneself. Beyond the sharp fact that it is always fruitful to deal with paradoxes, this botanical term reflects the production method of the pieces. Like these wildflowers that fit into the interstices and corners of urban space, the holes, formal accidents, and graffiti that cover and personalize— in different ways each time—the concrete surface offers a visual and emotional texture to recharge our immediate environment: a landscape where the rigidity of structures and urban planning meets the randomness of organic growth and human appropriation and mark-making.</p>'
+details: |
+  - Print run: 500 copies
+  - Content: 28 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  Black & White Offset Printed
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_1.jpg
+    id: 13409
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_2.jpg
+    id: 13411
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_3.jpg
+    id: 13413
+tags: [ ]
+
+----
+
+Uuid: eNO2IYRwQ0ghEVnn

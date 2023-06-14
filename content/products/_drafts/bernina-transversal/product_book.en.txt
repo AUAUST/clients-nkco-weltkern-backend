@@ -1,0 +1,67 @@
+Title: Bernina transversal
+
+----
+
+Multilinetitle: Bernina transversal
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Bernina transversal
+slug: bernina-transversal
+id: 29295
+isbn: 3038602378 / 978-3038602378
+price: 67.5
+weight: 2.1
+author:
+  name: Park Books
+  id: 88
+description: '<p>A pictorial epos on the spectacular Alpine landscape on Bernina Pass—intensely used for tourism, energy production, and as transit route—and its infrastructure buildings.</p>'
+details: |
+  - ISBN: 3038602378 / 978-3038602378
+  - Content: 132 pages
+  - Size: 275 × 310 mm
+  - Design: Bonbon – Valeria Bonin, Diego Bontognali
+  - Language: German, Italian, English
+  - Publishing date: 2021
+  - Specs: Hardback
+  - Images: © WELTKERN ® / Park Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Bernina-Transversal_COVER_.jpg
+    id: 29299
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Bernina-Transversal_SPREAD_02.jpg
+    id: 29297
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/Bernina-Transversal_SPREAD_01.jpg
+    id: 29298
+tags: [ ]
+
+----
+
+Uuid: yykitiJrFHIST4Z4

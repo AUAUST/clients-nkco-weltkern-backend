@@ -1,0 +1,81 @@
+Title: Early Video Art And Experimental Films Networks
+
+----
+
+Multilinetitle: Early Video Art And Experimental Films Networks
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: >
+  Early Video Art And Experimental Films
+  Networks
+slug: >
+  early-video-art-and-experimental-films-networks
+id: 3021
+isbn: 2970115700 / 978-2970115700
+price: 49.9
+weight: 1.1
+author:
+  name: ECAL
+  id: 95
+description: '<p>An international history of video art and experimental film networks in the early 1970s: the book offers a new approach to the subject by focusing on an examination of the structures of distribution and production of the moving image, complemented by case studies of two historical exhibitions and Jonas Mekas&#8217; Anthology Film Archives.</p>'
+details: |
+  - ISBN: 2970115700 / 978-2970115700
+  - Content: 268 pages
+  - Size: 230 × 13 × 308 mm
+  - Author: Bovier Francois
+  - Edited by: François Bovier
+  - Texts by: Bovier Francois, Kristen Alfaro, Enrico Camporesi, Katarzyna Cytlak, Larisa Dryansky, Tristan Lavoyer, Adeena Mey, Kris Paulsen, Cosetta G. Saba, Andrew V. Uroskie
+  - Design: EUROSTANDARD
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Softcover
+  - Images: © ECAL. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Early_Video_Art.jpg
+    id: 3026
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-14.jpg
+    id: 3028
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-14.jpg
+    id: 3030
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-14.jpg
+    id: 3032
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Early_Video_Art_BACK.jpg
+    id: 3024
+tags: [ ]
+
+----
+
+Uuid: pTsfcn8VDCOQX1jK

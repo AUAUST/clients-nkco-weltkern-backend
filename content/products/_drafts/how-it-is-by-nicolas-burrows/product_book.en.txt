@@ -1,0 +1,62 @@
+Title: How it is... by Nicolas Burrows
+
+----
+
+Multilinetitle: How it is... by Nicolas Burrows
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: How it is... by Nicolas Burrows
+slug: how-it-is-by-nicolas-burrows
+id: 17798
+isbn: 1910239148 / 978-1910239148
+price: 13.9
+weight: 0.2
+author:
+  name: Hato Press
+  id: 330
+description: |
+  <p>Nicolas Burrows&#8217; children&#8217;s book How It Is&#8230; plays with concepts of sound and color. It is a visual sequence that uses bold, block images and playful language to reinterpret the world around us. Nicolas&#8217;s unique imagining of the natural environment lends fresh perspective on how we can see, hear, touch and experience the everyday.</p>
+  <p>Nicolas Burrows is an artist, illustrator and musician from Lancashire, currently living and working in London. His visual practice is concerned with formal aspects of harmony, improvisation, composition and color. Works are largely collage-based, incorporating printmaking, drawing and assemblage.</p>
+  <p>Nicolas is also a member of Nous Vous, a group of artists &#038; friends collaborating since 2007 across illustration, print design, animation, art direction &#038; publishing.</p>
+details: |
+  - ISBN: 1910239148 / 978-1910239148
+  - Content: 36 pages
+  - Size: 270 × 170 mm
+  
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Paperback
+  - Images: © WELTKERN® / Hato Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_How-it-is...-by-Nicolas-Burrows.jpg
+    id: 19360
+tags: [ ]
+
+----
+
+Uuid: C1Mjk6TqeD6VrebU

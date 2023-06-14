@@ -1,0 +1,74 @@
+Title: Tadao Ando|Recent Project 3
+
+----
+
+Multilinetitle:
+
+Tadao Ando
+Recent Project 3
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Tadao Ando <br>Recent Project 3'
+slug: tadao-ando-recent-project-3
+id: 13695
+isbn: 4871406938 / 978-4871406932
+price: 28.9
+weight: 2.1
+author:
+  name: Ada Edita
+  id: 269
+description: |
+  <p>The collection of recent projects of Tadao Ando who now actively works in the world particularly in Asia. The book includes 10 brand-new works:<br />
+  <br />
+  Bourse de Commerce / Pinault Collection 2016-21 Paris, France<br />
+  Kröller-Müller Museum 2018- Otterlo, the Netherlands<br />
+  Nakanoshima Children’s Book Forest 2017-19 Osaka, Osaka<br />
+  Wrightwood 659 2013-18 Chicago, U.S.A.<br />
+  Taizo Kuroda Gallery 2018-20 Ito, Shizuoka<br />
+  LG Art Center 2015-22 Seoul, South Korea<br />
+  Penthouse in Manhattan III 2013-19 New York, U.S.A.<br />
+  He Art Museum 2014-20 Foshan, Guangdong, China<br />
+  IPU (International Pacific University) “Discovery”, “Harmony”, “Inspire”<br />
+  2014-19, 2015-16, 2017-18 Okayama, Okayama<br />
+  Rock Field Shizuoka Factory 1989-2020 Iwata, Shizuoka</p>
+details: |
+  - ISBN: 4871406938 / 978-4871406932
+  - Content: 160 pages
+  - Size: 260 × 300 mm
+  - Edited by: Ada Edita
+  - Language: Japanese / English
+  - Publishing date: 2021
+  - Images: © WELTKERN® / Ada Edita. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Tadao-1.jpg
+    id: 13711
+tags: [ ]
+
+----
+
+Uuid: gdJlhsQ7pcvpjO17

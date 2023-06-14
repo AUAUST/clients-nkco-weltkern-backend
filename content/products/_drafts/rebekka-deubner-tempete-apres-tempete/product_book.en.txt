@@ -1,0 +1,73 @@
+Title: Rebekka Deubner|Tempête après tempête
+
+----
+
+Multilinetitle:
+
+Rebekka Deubner
+Tempête après tempête
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Rebekka Deubner <br>Tempête après tempête'
+slug: rebekka-deubner-tempete-apres-tempete
+id: 20616
+isbn: 9493146730 / 978-9493146730
+price: 30.9
+weight: 0.7
+author:
+  name: APE
+  id: 345
+description: |
+  <p>The images of ‘tempête après tempête’ were shot during Rebekka Deubners second journey to Fukushima-ken, in the summer of 2019. On 03.11.2011 a part of the north-east-coast was impacted by three major catastrophes: a naval quake, a tsunami, and lastly the explosion of the Fukushima Daiichi nuclear power plant.</p>
+  <p>Deconstruction does not only causes annihilation, it also creates the occasion for new forms of life to emerge. ‘tempête après tempête’ portrays Fukushima through close-ups of inhabitants, scattered pieces of land, details of sea landscapes, moving elements of nature such as insects, humans, seaweed, pieces of bodies,… they all merge into a new and hybrid body.</p>
+  <p>For Deubner taking close-ups is a way of working that is essential to her practice. Looking at things from a near perspective, gives her the opportunity to feel their materiality and texture directly through her eyes. It is as if the lens of the camera is an extension of her touch. It also allows her and her subjects to experience a form of contemplation. Taking time to create a testimony of this land where all the scattered pieces were never been understood as a whole.</p>
+details: |
+  - ISBN: 9493146730 / 978-9493146730
+  - Content: 104 pages
+  - Size: 230× 320 mm
+  - Language: English
+  - Texts by: Virginie Huet
+  - Publication: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Art Paper Editions. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_tempete.jpg
+    id: 20617
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_tempete1.jpg
+    id: 20618
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_tempete-2.jpg
+    id: 20619
+tags: [ ]
+
+----
+
+Uuid: g6mo5Qx0FELfXh2b

@@ -1,0 +1,83 @@
+Title: Basil Hyman|The Havana Archive
+
+----
+
+Multilinetitle:
+
+Basil Hyman
+The Havana Archive
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Basil Hyman <br>The Havana Archive'
+slug: basil-hyman-the-havana-archive
+id: 3652
+isbn: 1861543298 / 978-1861543295
+price: 32.9
+weight: 1
+author:
+  name: Booth-Clibborn
+  id: 169
+description: '<p>This lavishly illustrated book includes photographs, postcards, flyers, tickets and brochures, which conjure up the atmosphere of Cuba s past times and places and some of those associated with it. Divided into two parts; the first, a visual Archive, which was the property of a Chicago gangster Grover Dullard, is a vignette of Prohibition and proof of Havana s attractions for the Mob; and the second, an extraordinary collection of printed material from pre-revolutionary Cuba, which paint a picture of its heyday.</p>'
+details: |
+  - ISBN: 1861543298 / 978-1861543295
+  - Content: 240 pages
+  - Size: 240 × 16 × 305 mm
+  - Author: Basil Hyman
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2012
+  - Specs: Hardcover
+  - Images: © Booth-Clibborn. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Havana.jpg
+    id: 3657
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-41.jpg
+    id: 3659
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-40.jpg
+    id: 3661
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-39.jpg
+    id: 3663
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-29.jpg
+    id: 3665
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Havana_BACK.jpg
+    id: 3655
+tags: [ ]
+
+----
+
+Uuid: myavWsW37opt5F1s

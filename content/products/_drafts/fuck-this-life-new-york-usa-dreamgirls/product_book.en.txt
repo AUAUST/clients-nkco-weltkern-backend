@@ -1,0 +1,69 @@
+Title: FUCK THIS LIFE (New York, USA)|DREAMGIRLS
+
+----
+
+Multilinetitle:
+
+FUCK THIS LIFE (New York, USA)
+DREAMGIRLS
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'FUCK THIS LIFE (New York, USA) <br>DREAMGIRLS'
+slug: fuck-this-life-new-york-usa-dreamgirls
+id: 13432
+isbn: NO ISBN
+price: 12.5
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: ""
+details: |
+  - Content: 24 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Softcover
+  Color Offset Print
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_J1.jpg
+    id: 13491
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_J3.jpg
+    id: 13495
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_J2.jpg
+    id: 13493
+tags: [ ]
+
+----
+
+Uuid: m5xvMaQRZYURWzCB

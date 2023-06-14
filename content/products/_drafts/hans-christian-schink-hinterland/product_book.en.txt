@@ -1,0 +1,66 @@
+Title: Hans-Christian Schink|Hinterland
+
+----
+
+Multilinetitle:
+
+Hans-Christian Schink
+Hinterland
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Hans-Christian Schink <br>Hinterland'
+slug: hans-christian-schink-hinterland
+id: 15467
+isbn: 396070044X / 978-3960700449
+price: 47.2
+weight: 1.3
+author:
+  name: Hartmann Books
+  id: 309
+description: |
+  <p>The German term “Hinterland“ describes the sparsely populated areas off the cities. As the title of this book it refers to the remote regions of Brandenburg and Mecklenburg-Vorpommern, surrounding the greater area of Berlin. Hans-Christian Schink explains: “On the other hand, the title Hinterland also refers to the imaginary landscapes that emerge from my memory. Landscapes that I know from my childhood….so this series is not about portraying concrete places. My pictures are more the result of a search without a destination.” In his project, that he pursues since 2012, Hans-Christian Schink tries to keep a balance of showing the brittle beauty of this form of landscape whilst transporting an atmosphere of melancholy, which stems from the endangerment of this landscape caused by the permanent exploitation of its resources. The titles of his pictures, using the regular names of the locations, such as „Bei Kublank, Plath, Cölpin, Bei Woldegk, Am Wanzkaer See“ etc. – have an unfamiliar if not strange, foreign or outdated sound even to German native speakers.<br />
+  <br />
+  Hans-Christian Schink, born in Erfurt in 1961, studied at the Academy of Visual Arts in Leipzig. He is considered one of the most important representatives of contemporary photography in Germany. His works, mostly landscape studies in the field of tension between nature and civilization, are exhibited internationally and can be found in important public and private collections.</p>
+details: |
+  - ISBN: 396070044X / 978-3960700449
+  - Content: 148 pages
+  - Size: 295 × 20 × 310 mm
+  - Artist: Hans-Christian Schink
+  - Edited by: Hartmann Books
+  - Language: German / English
+  - Publishing date: 2020
+  - Specs: Clothbound with foil stamped cover type
+  - Images: © WELTKERN® / Hartmann Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Hinterland.jpg
+    id: 15468
+tags: [ ]
+
+----
+
+Uuid: dvZzCOAWPqReaNKW

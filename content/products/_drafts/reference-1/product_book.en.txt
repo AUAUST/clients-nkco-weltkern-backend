@@ -1,0 +1,58 @@
+Title: Reference #1
+
+----
+
+Multilinetitle: Reference #1
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Reference #1'
+slug: reference-1
+id: 21110
+isbn: NO ISBN
+price: 34.9
+weight: 2
+author:
+  name: Unknown
+  id: 247
+description: |
+  <p>Reference #1 is a limited edition print publication centered around an exploration of living design in recent history. The publication aims to highlight a myriad of approaches towards the topic, with subjects including the late Cristiano Toraldo di Francia of Superstudio, Ken Price, Polly Pocket, Stonehenge, Minitel, Japanese Demolition, and the Rosetta Stone, among others.<br />
+  Contributors include Joan Didion, Takashi Homma, Superstudio, Charlotte Wales, Eric Wrenn, Blommers &#038; Schumm, Joe Gebbia, Image Group, Alessandro Bava, Calla Henkel and Max Pitegoff, Maciek Pozoga, Octave Perrault, and Nancy Meyers, among others.</p>
+details: |
+  - Size: 250 × 180 mm
+  - Language: English
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Antenne Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_Reference.jpg
+    id: 21111
+tags: [ ]
+
+----
+
+Uuid: HZrc70SzXZQrJ2uO

@@ -1,0 +1,77 @@
+Title: Toyin Ojih Odutola
+
+----
+
+Multilinetitle: Toyin Ojih Odutola
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Toyin Ojih Odutola
+slug: toyin-ojih-odutola
+id: 3759
+isbn: '0995708273 / 978-0995708273 '
+price: 19.9
+weight: 0.4
+author:
+  name: Barbican
+  id: 159
+description: |
+  <p>The Barbican presents the first-ever UK commission by Nigerian-American artist Toyin Ojih Odutola, a site-specific installation for The Curve. An epic cycle of drawings unfurls across the 90-metre long gallery, exploring an imagined ancient myth conceived by the artist.  An immersive soundscape by renowned conceptual sound artist Peter Adjaye fills the gallery in response to Ojih Odutola’s work.<br />
+  <br />
+  Executed in pastel, charcoal and chalk, the installation features a series of 40 new drawings, each work acting as an individual episode within an overarching narrative. Ojih Odutola encourages the viewer to piece together the fragments of the stories she presents. For A Countervailing Theory, the artist has woven a tale of a fictional ancient civilisation in central Nigeria dominated by female rulers and served by male labourers.<br />
+  <br />
+  Offering an insight into this remarkable body of work, the accompanying publication features a new text by writer Zadie Smith and an interview with the artist by exhibition curator Lotte Johnson.</p>
+details: |
+  - ISBN: 0995708273 / 978-0995708273
+  - Content: 56 pages
+  - Size: 170 × 12 × 240 mm
+  - Author: Toyin Ojih Odutola
+  - Texts by: Zadie Smith, Lotte Johnson
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © Barbican. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Toyin.jpg
+    id: 4012
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Toyin1.jpg
+    id: 4014
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Toyin2.jpg
+    id: 4016
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_Toyin3.jpg
+    id: 4018
+tags: [ ]
+
+----
+
+Uuid: 78i8JDI4BwrJpzW1

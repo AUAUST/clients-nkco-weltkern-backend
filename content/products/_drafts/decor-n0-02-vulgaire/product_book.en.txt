@@ -1,0 +1,66 @@
+Title: Décor n° 02|Vulgaire
+
+----
+
+Multilinetitle:
+
+Décor n° 02
+Vulgaire
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Décor n° 02 <br>Vulgaire'
+slug: decor-n-02-vulgaire
+id: 23336
+isbn: 2905710772 / 978-2905710772
+price: 22.5
+weight: 0.8
+author:
+  name: EnsAD Paris
+  id: 385
+description: |
+  <p>The second issue of the annual review of the École des Arts Décoratifs, devoted to the question of the vulgar, explores through creations, portfolios, interviews, fictions and theoretical texts the polysemy of this word which embodies all the tensions of our time, dealing as much with gastronomy and cinema as with grossophobia, glitter and fanzines, yellow waistcoats, Trump and Putin.<br />
+  <br />
+  Published by the École des arts décoratifs de Paris, Décor is an annual magazine dedicated to the contemporary environment, which aims to reflect on emerging creation in the fields of design, fashion, graphics, video or sculpture, scenography or animation, textiles or photography. Through interviews, portfolios, theoretical or fictional texts, each issue takes stock of an issue (&#8220;decor&#8221;, &#8220;vulgar&#8221;, &#8220;plastic&#8221;, &#8220;child&#8221;&#8230;) that structures the environment, representations and social devices.<br />
+  Décor calls on authors from different fields of theory (philosophy, art history, human sciences, etc.) as well as from literary and artistic creation. They may be recognised personalities and confirmed specialists, as well as students of the School or young talents.<br />
+  The Décor magazine is also available in two other formats. It includes a digital component (revuedecor.fr) and social networks that are editorialized as a magazine of artistic discovery, as well as living &#8220;reviews&#8221; in the form of events and exhibitions.</p>
+details: |
+  - ISBN: 2905710772 / 978-2905710772
+  - Content: 496 pages
+  - Size: 165 × 240 mm
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / EnsAD. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_vulgaire.jpg
+    id: 23340
+tags: [ ]
+
+----
+
+Uuid: CjsBL2IaQYvGAiBo

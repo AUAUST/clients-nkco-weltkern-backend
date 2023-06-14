@@ -1,0 +1,64 @@
+Title: Never Too Small|Joel Beath
+
+----
+
+Multilinetitle:
+
+Never Too Small
+Joel Beath
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Never Too Small <br>Joel Beath'
+slug: never-too-small-joel-beath
+id: 19229
+isbn: 1922417213 / 978-1922417213
+price: 52.2
+weight: 1.7
+author:
+  name: Smith Street Books
+  id: 364
+description: |
+  <p>Joel Beath and Elizabeth Price explore this question drawing inspiration from a diverse collection of apartment designs, all smaller than 50m2/540ft2. Through the lens of five small-footprint design principles and drawing on architectural images and detailed floor plans, the authors examine how architects and designers are reimagining small space living. </p>
+  <p>Full of inspiration we can each apply to our own spaces, this is a book that offers hope and inspiration for a future of our cities and their citizens in which sustainability and style, comfort and affordability can co-exist. Never Too Small proves living better doesn&#8217;t have to mean living larger.</p>
+details: |
+  - ISBN: 1922417213 / 978-1922417213
+  - Content: 296 pages
+  - Size: 217 × 257 mm
+  - Language: English
+  - Author: Joel Beath and Elizabeth Price
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Smith Street Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_nevertoosmall.jpg
+    id: 19231
+tags: [ ]
+
+----
+
+Uuid: tHG5EdXQJuWa4b1n

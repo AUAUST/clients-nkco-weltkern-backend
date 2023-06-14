@@ -1,0 +1,66 @@
+Title: Anders Edström|Shiotani
+
+----
+
+Multilinetitle:
+
+Anders Edström
+Shiotani
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Anders Edström <br>Shiotani'
+slug: anders-edstrom-shiotani
+id: 20761
+isbn: 9151984339 / 978-9151984339
+price: 92.5
+weight: 2.3
+author:
+  name: AKPE
+  id: 351
+description: |
+  <p>Albany Arts Communications is delighted to announce the publication of Shiotani, a 23-year chronicle of life in a remote Japanese village by acclaimed Swedish photographer, Anders Edström.<br />
+  The book, which will be launched in the UK at Claire de Rouen Books on 9 September 2021, documents the life and times of Edström’s wife’s family and the small village of Shiotani, which is twenty-nine miles away from even the outskirts of Kyoto, Japan’s second city. Edström made his first visit there in 1993 and has continued to do so intermittently. Shiotani is comprised of only forty-seven inhabitants and most of the people who live there still farm traditionally, harvesting rice, tea and mushrooms. The first pictures he took there were no more than a record of his trip. It only became an artistic project fifteen years later in the Christmas of 2008 when he made up a photo album for his wife’s grandmother.</p>
+  <p>Opening with rural vistas where houses and their inhabitants make only occasional interventions on the landscape, the book goes on to focus on the family’s day to day activities. Edström brings the viewer on family trips, recording the train rides, car parks and lunch tables with as much care as he records the mountains and the details of the landscape around them. From late nights drinking to the passing of time and the losses that accompany it the focus of his photography remains on his extended family. Edström and his camera bear witness to the passing of both of his wife’s grandparents, and the rituals that accompany death in the rural community.</p>
+  <p>Over the twenty-three years this book covers, Edström notes that, ‘There is a sense of change, but of slow change, a pace and energy quite different from my long-time residence in Tokyo. The village has a sense of isolation. When I first visited, my mother-in-law talked about the American soldiers giving them chocolate as they trooped past, but when I arrived, they hadn’t seen a Westerner in a long time, and they were all very curious. They were curious, but also very welcoming, quickly becoming used to me and learning not to react to me taking pictures.’</p>
+  <p>For Edström, ‘It’s also not about one picture; the sequence of pictures is so important for me, [and deciding] which ones go together.’ In an essay which accompanies the book, writer and musician Jeff Rian described the layout of the photographs as ‘story-board like’, and indeed the images also inspired another project, The Works and Days (of Tayoko Shiojiri in the Shiotani Basin), in which his wife’s family play themselves in a narrative, near documentary about the life of vegetable farmer Tayoko, and her dying husband. An eight-hour long narrative film created with his long-time collaborator C.W. Winter, who has also contributed an essay to the book, it won a Golden Bear at the Berlin International Film Festival and will be shown on 12 September 2021 at the ICA London as part of the Open City Documentary Festival</p>
+details: |
+  - ISBN: 9151984339 / 978-9151984339
+  - Content: 756 pages
+  - Size: 267 × 210 mm
+  - Language: English
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / AKPE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_.jpg
+    id: 20762
+tags: [ ]
+
+----
+
+Uuid: rHwzjDuwPOje87oB

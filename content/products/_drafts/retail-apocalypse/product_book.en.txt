@@ -1,0 +1,65 @@
+Title: Retail Apocalypse
+
+----
+
+Multilinetitle: Retail Apocalypse
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Retail Apocalypse
+slug: retail-apocalypse
+id: 17902
+isbn: 3856764142 / 978-3856764142
+price: 48.5
+weight: 0.2
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>Shopping is history, in both senses of the word. As shopping shifts online and the economic shocks associated with the COVID-19 pandemic push bankruptcies to ­unprecedented levels, retail is facing its own version of the end of days. The arsenal of commercial techniques that retail has developed can no longer function as usual. The entangled worlds of architecture, fashion, business and art that supplied those techniques now appear to us in a new way, as a museum of a culture that is now ­becoming extinct. At the same time, retail’s techniques of attraction and distraction have become visible in a new way. Stripped of their use value, they reveal themselves as techniques of pure display. Retail Apocalypse presents a compendium of case studies, interventions, and object lessons rescued from the bonfire of retail culture. It ranges from Friedrich Kiesler’s display windows to Gae Aulenti’s Fiat show­rooms, from J. G. Ballard’s dystopian fantasies to TELFAR’s critical utopias, from Rem Koolhaas to Herzog &#038; de Meuron.</p>'
+details: |
+  - ISBN: 3856764142 / 978-3856764142
+  - Content: 616 pages
+  - Size: 216 × 279 mm
+  - Language: German / English
+  - Publication: 2021
+  - With contributions, texts and works by: Gae Aulenti, Tom Avermaete und Janina Gosseye, J. G. Ballard, Lisa Boos, Claire Fontaine, Herzog & de Meuron, Rei Kawakubo, Friedrich Kiesler, Rem Koolhaas, Lynn Hershman Leeson, Adolf Loos, Reba Maybury, Smiljan Radić, Lilly Reich, Martha Rosler, Elaine Sturtevant, TELFAR, James Wines / SITE, Émile Zola, and others
+  - Design: Teo Schifferli, Fabian Fretz
+  - Specs: Open thread-stitching
+  
+  - Images: © WELTKERN® / gta Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_retailapo.jpg
+    id: 17883
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_retailapo2.jpg
+    id: 17885
+tags: [ ]
+
+----
+
+Uuid: AbLlzqB2BZG84lwC

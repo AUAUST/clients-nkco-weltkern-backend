@@ -1,0 +1,82 @@
+Title: Ai Weiwei & HORNBACH|Safety Jackets Zipped the Other Way (EN)
+
+----
+
+Multilinetitle:
+
+Ai Weiwei & HORNBACH
+Safety Jackets Zipped the Other Way (EN)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Ai Weiwei & HORNBACH <br>Safety Jackets Zipped the Other Way (EN)'
+slug: >
+  ai-weiwei-hornbach-safety-jackets-zipped-the-other-way-english
+id: 7158
+isbn: NO ISBN
+price: 23.9
+weight: 0.4
+author:
+  name: HORNBACH
+  id: 235
+description: '<p>The book borrows its structure from a classic manual. Ai Weiwei’s process is set in a narrative strand. Step by step, the reader is guided through the creation, manual and the subsequent reflection of the artwork. Through its linear narrative style, the art and working method become accessible and the viewer is directly involved in the project. Visually, existing manual elements are quoted and embedded in an art book context. The varnished «picture panels» are numbered in a way that is familiar from instruction manuals. In addition, material lists are combined with art photographs to emphasize the intertwining of the artwork and its building instruction.</p>'
+details: |
+  - Content: 48 pages
+  - Size: 200 × 5 × 147 mm
+  - Publishing date: 2020
+  - Design: Data-Orbit
+  - Language: English
+  - Specs: Softcover
+  - Images: © L'édition PIÈCE D'OUVRAGE de HORNBACH. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_.jpg
+    id: 7175
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-21.jpg
+    id: 7161
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-37.jpg
+    id: 7163
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-37.jpg
+    id: 7165
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-28.jpg
+    id: 7167
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-13.jpg
+    id: 7169
+tags: [ ]
+
+----
+
+Uuid: h8ryODmlvzXu0nG3

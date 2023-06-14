@@ -1,0 +1,90 @@
+Title: David Hockney|My Window
+
+----
+
+Multilinetitle:
+
+David Hockney
+My Window
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'David Hockney <br>My Window'
+slug: david-hockney-my-window
+id: 25856
+isbn: 3836593922 / 978-3836593922
+price: 94.9
+weight: 2.8
+author:
+  name: Taschen
+  id: 91
+description: '<p>Previously available in a Collector&#8217;s Edition, Hockney&#8217;s artist book will appear as an unlimited XL edition. In 120 iPhone and iPad drawings, the artist captures his perception of the world through the window of his Yorkshire home. Each image represents a fleeting moment &#8211; collectively they paint the passage of time through Hockney&#8217;s eyes.</p>'
+details: |
+  - ISBN: 3836593922 / 978-3836593922
+  - Content: 248 pages
+  - Size: 386 × 298 mm
+  - Design: Face.
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / Taschen. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_COVER_.jpg
+    id: 25903
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_SPREAD_01.jpg
+    id: 25902
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_SPREAD_02.jpg
+    id: 25901
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_SPREAD_03.jpg
+    id: 25900
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_SPREAD_04.jpg
+    id: 25899
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_SPREAD_05.jpg
+    id: 25898
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_SPREAD_06.jpg
+    id: 25897
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/01/David-Hockney_My-Window_SPREAD_07.jpg
+    id: 25896
+tags: [ ]
+
+----
+
+Uuid: 6pj9GDv1Zs1xXPLZ

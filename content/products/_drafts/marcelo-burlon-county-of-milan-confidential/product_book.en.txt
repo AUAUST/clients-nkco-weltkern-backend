@@ -1,0 +1,67 @@
+Title: Marcelo Burlon|County of Milan: Confidential
+
+----
+
+Multilinetitle:
+
+Marcelo Burlon
+County of Milan: Confidential
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Marcelo Burlon <br>County of Milan: Confidential'
+slug: >
+  marcelo-burlon-county-of-milan-confidential
+id: 19225
+isbn: 8891830449 / 978-8891830449
+price: 116.5
+weight: 2.8
+author:
+  name: Rizzoli Publications
+  id: 115
+description: |
+  <p>Marcelo Burlon is the driving force and originator behind County of Milan. He is a trailblazer who moves across milieus and disciplines with remarkable ease, embodying that defining contemporary quality: liquidity. Averse to cultural and geographic borders, Burlon is first and foremost a polymath: a much sought-after party organizer, DJ, designer, photographer, nightlife wizard, and general aggregator. Invention, for Burlon, is in the mix.</p>
+  <p>His biography provides the background to this fluid vision. Marcelo Burlon, in fact, has been immersed in a culturally varied milieu from day one, having been raised in El Bolsón, Argentina, where the first hippies merged with gauchos. Transplanted to Italy while barely a teenager, he made his way into nightlife, then took over Milan to conquer the world.<br />
+  The endeavor started with a bunch of t-shirts in 2012, but a complete collection quickly ensued, turning into both a social and commercial phenomenon. Its inclusive message got the fire started: County of Milan is all about embracing and celebrating diversity, as the brand&#8217;s highly spectacular, intensely emotional shows testify.</p>
+  <p>This illustrated book follows the structure of a police investigation report, with a suspect, interrogations, evidence, accomplice profiles, and an affidavit describing Marcelo&#8217;s biography, brand, tribe and creations.</p>
+details: |
+  - ISBN: 8891830449 / 978-8891830449
+  - Content: 352 pages
+  - Size: 249 × 311 mm
+  - Language: English
+  - Author:  Angelo Flaccavento
+  - Publication: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_marceloburlon.jpg
+    id: 19228
+tags: [ ]
+
+----
+
+Uuid: AIqRvkBZYmOqQSAx

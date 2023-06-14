@@ -1,0 +1,82 @@
+Title: KALEIDOSCOPE #26|Winter 2016
+
+----
+
+Multilinetitle:
+
+KALEIDOSCOPE #26
+Winter 2016
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'KALEIDOSCOPE #26 <br>Winter 2016'
+slug: kaleidoscope-26-winter-2016
+id: 7960
+isbn: NO ISBN
+price: 7.9
+weight: 1.2
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: '<p><em>KALEIDOSCOPE</em> is today’s most innovative magazine of contemporary art and visual culture, founded in 2009 in Milan at the core of a creative studio with a distinctly curatorial and interdisciplinary approach.</p>'
+details: |
+  - ISBN / EAN: 2000000005874
+  - Content: 272 pages
+  - Size: 220 × 12 × 280 mm
+  - Design: Bureau Borsche
+  - Language: English
+  - Publishing date: 2016
+  - Specs: Softcover
+  - Images: © WELTKERN® / KALEIDOSCOPE / Bureau Borsche. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_COVER_K26.jpg
+    id: 7977
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_1-3.jpg
+    id: 7979
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_2-3.jpg
+    id: 7981
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_3-3.jpg
+    id: 7983
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_4-3.jpg
+    id: 7985
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_5-2.jpg
+    id: 7987
+tags: [ ]
+
+----
+
+Uuid: YlTs5OxcpYfRzIhi

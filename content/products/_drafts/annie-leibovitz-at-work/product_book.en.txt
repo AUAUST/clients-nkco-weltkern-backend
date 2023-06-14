@@ -1,0 +1,78 @@
+Title: Annie Leibovitz at Work
+
+----
+
+Multilinetitle: Annie Leibovitz at Work
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Annie Leibovitz at Work
+slug: annie-leibovitz-at-work
+id: 5530
+isbn: 0714878294 / 978-0224087575
+price: 59.9
+weight: 1.2
+author:
+  name: Phaidon Press
+  id: 92
+description: |
+  <p>The celebrated photographer Annie Leibovitz, author of the <em>New York Times</em> bestselling book <em>A Photographer&#8217;s Life</em>, provides the stories, and technical description, of how some of her most famous images came to be.<br />
+  <br />
+  Starting in 1974, with her coverage of Nixon&#8217;s resignation, and culminating with her controversial portraits of Queen Elizabeth II early in 2007, Leibovitz explains what professional photographers do and how they do it. The Rolling Stones&#8217; tour in 1975, the famous nude session with John Lennon and Yoko Ono hours before Lennon was killed, the American Express and Gap campaigns, Whoopi Goldberg in a bathtub of milk, Demi Moore pregnant and naked on the cover of <em>Vanity Fair</em>, and coverage of the couture collections in Paris with Puff Daddy and Kate Moss are among the subjects of this original and informative work. The photos and stories are arranged chronologically, moving from film to digital. Leibovitz&#8217;s fans and lovers of great photography will find her stories of how one learns to see &#8211; and then how to photograph &#8211; inspiring.</p>
+details: |
+  - ISBN: 0714878294 / 978-0224087575
+  - Content: 256 pages
+  - Size: 247 × 26 × 190 mm
+  - Author: Annie Leibovitz
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_Annieleibovitzatwork.jpg
+    id: 5534
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_.jpg
+    id: 5536
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_2.jpg
+    id: 5538
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_3.jpg
+    id: 5540
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_4.jpg
+    id: 5542
+tags: [ ]
+
+----
+
+Uuid: wdJv3rCkUOQZXuAd

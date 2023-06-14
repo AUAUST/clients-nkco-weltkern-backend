@@ -1,0 +1,61 @@
+Title: Perrotin Yearbook|n°29 – 2019
+
+----
+
+Multilinetitle:
+
+Perrotin Yearbook
+n°29 – 2019
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Perrotin Yearbook <br>n°29 – 2019'
+slug: perrotin-yearbook-n29-2019
+id: 17592
+isbn: 1091539197 / 979-1091539197
+price: 39.9
+weight: 0.2
+author:
+  name: Perrotin
+  id: 121
+description: '<p>The Yearbook reflects the activities of the six Perrotin gallery&#8217;s spaces during 2019 assembling exhibition views, conversations with the artists, photographs of workshops and events.</p>'
+details: |
+  - ISBN: 1091539197 / 979-1091539197
+  - Content: 480 pages
+  - Size: 320 × 240 mm
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_perrotinyearbook.jpg
+    id: 17595
+tags: [ ]
+
+----
+
+Uuid: zYxgv0HNX2Jwsl1u

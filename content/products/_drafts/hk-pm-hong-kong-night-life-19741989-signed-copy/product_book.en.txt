@@ -1,0 +1,70 @@
+Title: HK:PM|Hong Kong Night Life 1974–1989 Signed copy
+
+----
+
+Multilinetitle:
+
+HK:PM
+Hong Kong Night Life 1974–1989 Signed copy
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'HK:PM <br>Hong Kong Night Life 1974–1989 Signed copy'
+slug: hkpm-hong-kong-night-life-1974-1989
+id: 22298
+isbn: 9887712176 / 978-9887712176
+price: 48.9
+weight: 0.8
+author:
+  name: AsiaOne
+  id: 375
+description: '<p>&#8220;HK:PM, Hong Kong Night Life 1974-1989&#8221;, looks at the city I first discovered as a young photographer and later lived in for fifteen years. During my time in Hong Kong, through the 1970s and 1980s, I rarely saw photographs that showed the Hong Kong that I knew and grew attached to, especially the less glamorous parts of the city and particularly at night. The only visual references that came close were mostly found in Hong Kong gangster films of the period. So I tried to make pictures of what the city looked and felt like to me: in the streets, in the bars and clubs, and by finding my way onto building rooftops. Unseen for 30 years, I am happy to present these pictures in this new book, &#8220;HK:PM&#8221;, published by Asia One in Hong Kong.</p>'
+details: |
+  - ISBN: 9887712176 / 978-9887712176
+  - Content: 160 pages
+  - Size: 178 × 247 mm
+  - Language: English
+  - Publishing date: 2017
+  - Edited by : Greg Girard
+  - Specs: Hardcover
+  - Images: © WELTKERN® / AsiaOne. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_HKPM.-HONG-KONG-NIGHT-LIFE.jpg
+    id: 22300
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_HKPM1-1.jpg
+    id: 22303
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_HKPM2-1.jpg
+    id: 22304
+tags: [ ]
+
+----
+
+Uuid: ov6zKWRInPumNz94

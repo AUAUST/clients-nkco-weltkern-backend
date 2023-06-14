@@ -1,0 +1,78 @@
+Title: Mathis Altmann|Amalgamate
+
+----
+
+Multilinetitle:
+
+Mathis Altmann
+Amalgamate
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Mathis Altmann <br>Amalgamate'
+slug: mathis-altmann-amalgamate
+id: 23314
+isbn: 1280579041 / 979-1280579041
+price: 24.9
+weight: 0.9
+author:
+  name: Lenz Press
+  id: 231
+description: '<p>Mathis Altmann (b. 1987 in Munich, lives and works in Los Angeles and Zurich) belongs to a generation of artists whose work is characterised by a strong socio-critical awareness. His installations torpedo the illusion of a glamorous and carefree world by allowing viewers to look behind appearances. Altmann creates contrasting scenarios from consumer goods, everyday objects, waste and building materials. It is a subtle play with the traditions of assemblage and collage, which in terms of content is accompanied by the representation of a disparate world. The works are based on themes such as abundance, consumption, functionality and superficiality. The conditions for creative digital work in the environment of an accelerated and globalised urban everyday life are particularly important to him. He does not oppose the complexity of the world by simplification, but by exaggerating the abundance of information in a theatrical way to the point of grotesqueness, thus creating a complex interweaving of fragments of content and form that play with ambiguities, controversies and incompatibilities. Mathis Altmann was awarded the 12th Manor Art Prize of the Canton of Zurich.</p>'
+details: |
+  - ISBN: 1280579041 / 979-1280579041
+  - Content: 128 pages
+  - Size: 210 × 270 mm
+  - Design: Dan Solbach
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Softcover
+  - Images: © WELTKERN® / ‎Lenz Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_amalgamate.jpg
+    id: 23333
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_1-6.jpg
+    id: 23315
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-13.jpg
+    id: 23316
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-13.jpg
+    id: 23317
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_4-11.jpg
+    id: 23318
+tags: [ ]
+
+----
+
+Uuid: 9i4YgmM9RiJjHYQe

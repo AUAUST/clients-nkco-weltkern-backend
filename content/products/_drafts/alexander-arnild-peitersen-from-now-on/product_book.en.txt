@@ -1,0 +1,64 @@
+Title: Alexander Arnild Peitersen|From Now On
+
+----
+
+Multilinetitle:
+
+Alexander Arnild Peitersen
+From Now On
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Alexander Arnild Peitersen <br>From Now On'
+slug: alexander-arnild-peitersen-from-now-on
+id: 17814
+isbn: |
+  8797052051 / 978-8797052051
+price: 28.9
+weight: 2.1
+author:
+  name: Disko Bay
+  id: 331
+description: '<p>Alexander Arnild Peitersen’s first monograph From Now On is a fragmented reflection on times that have passed, depicted in an array of monochrome and colour images captured over a period of six years. Peitersen is focusing on themes such as transition and memory and investigates personal feelings of isolation and alienation in this intriguing and slow pulsed body of work. Scenes of landscapes, hunting, dancing, drinking, and the unforgiving reality of nature’s dominance all interweave in Peitersen’s set of bleached and reduced colour images. Peitersen juxtaposes mysticism, rituals and poetry in a way to map out the necessities needed to survive as a human being.</p>'
+details: |
+  - ISBN: 8797052051 / 978-8797052051
+  
+  - Content: 112 pages
+  - Size: 240 × 305 mm
+  
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Diskobay. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Alexander-Arnild-Peitersen.jpg
+    id: 17781
+tags: [ ]
+
+----
+
+Uuid: Iqj5qLwQTFs7bwcy

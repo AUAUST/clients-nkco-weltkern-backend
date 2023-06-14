@@ -1,0 +1,63 @@
+Title: Tom Avermaete, Janina Gosseye|Urban Design in the 20th Century A History
+
+----
+
+Multilinetitle:
+
+Tom Avermaete, Janina Gosseye
+Urban Design in the 20th Century A History
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Tom Avermaete, Janina Gosseye <br>Urban Design in the 20th Century A History'
+slug: >
+  tom-avermaete-janina-gosseye-urban-design-in-the-20th-century-a-history
+id: 18683
+isbn: 3856764180 / 978-3856764180
+price: 57.5
+weight: 1.3
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>Our time is an urban age. More people live in cities than ever before, cities are growing larger and denser than ever, and urbanity has reached unprecedented levels of complexity. This boom in urbanization, today evident around the globe, began in earnest around the turn of the twentieth century, when technological advancement and the extraction of seemingly endless supplies of natural resources dovetailed to propel urban development. As urban populations steadily increased, architects and planners were not only faced with designing housing and public space but also with responding to emerging societal challenges such as (geo)political tensions, reconstruction after two world wars, decolonization, economic crises, growing climatic concerns, and cultural shifts. Through the analysis of more than one hundred richly illustrated urban design projects and initiatives, this book provides the first comprehensive history of how these challenges have continuously propelled new attitudes and approaches in the discipline of urban design since the early 1900s.</p>'
+details: |
+  - ISBN: 3856764180 / 978-3856764180
+  - Content: 440 pages
+  - Size: 195 × 260 mm
+  - Language: English
+  - Graphic Design by: Büro 146
+  - Publication: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Gta Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Tom-Avermaete-Janina-Gosseye.jpg
+    id: 18514
+tags: [ ]
+
+----
+
+Uuid: CMhtEbS1rmYSqHsi

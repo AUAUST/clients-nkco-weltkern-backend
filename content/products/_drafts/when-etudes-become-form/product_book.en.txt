@@ -1,0 +1,91 @@
+Title: When Études Become Form
+
+----
+
+Multilinetitle: When Études Become Form
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: When Études Become Form
+slug: when-etudes-become-form
+id: 6731
+isbn: 0847862979 / 978-0847862979
+price: 76.9
+weight: 2.15
+author:
+  name: Rizzoli Publications
+  id: 115
+description: |
+  <p><em>Études</em> is a fresh and a comprehensive look at a hot fashion-and-art at collective, documenting its evolution into an arbiter of contemporary cool. Based in Paris and Brooklyn, Etudes is one of most innovative brands in fashion and street wear today. With a look dominated by bold graphics and a sleek, relaxed silhouette intended for both men and women, the brand&#8217;s unique, transatlantic style has drawn a young, sophisticated following. Established in 2012 by Aurélien Arbet and Jérémie Egry, Études&#8217; star rose rapidly, making it on the official calendar of Paris Fashion Week less that two years after its founding. Occupying a role more in keeping with insurgent Japanese brands from Harajuku, Études is a fashion label, a creative agency and publishing house with a focus on art &#038; photography. With a goal of becoming a total lifestyle label, the brand&#8217;s approach is demanding, coherent, consistent and resolutely contemporary.<br />
+  <br />
+  This book presents the wide array of fashion, art, and style that Études has facilitated since its founding. Filled with over 200 photographs and illustrations documenting work and collaborations with highly applauded artists and brands including Kara Walker, Ari Marcopoulus, RETROSUPERFUTURE, Devonte Hynes, Matthew Chambers, Mark Gonzales as well as a selection of interviews and essays commissioned specially for this book, Études is an engaging volume that highlights an ethic of collaboration that is one of the most fashion-forward of any contemporary fashion and street wear labels.</p>
+details: |
+  - ISBN: 0847862979 / 978-0847862979
+  - Content: 256 pages
+  - Size: 244 × 32 × 336 mm
+  - Author: Etudes
+  - Contributions from: Ari Marcopoulos, Gus Van Sant, Mark Gonzales, Pedro Winter
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Etudes.jpg
+    id: 6746
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Etudes_BACK.jpg
+    id: 6744
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Etudes1.jpg
+    id: 6750
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Etudes1_BACK.jpg
+    id: 6748
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-10.jpg
+    id: 6752
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-25.jpg
+    id: 6754
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-25.jpg
+    id: 6756
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-17.jpg
+    id: 6758
+tags: [ ]
+
+----
+
+Uuid: EkysfKsPfWJUhuwt

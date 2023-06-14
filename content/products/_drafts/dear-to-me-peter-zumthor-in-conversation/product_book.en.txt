@@ -1,0 +1,94 @@
+Title: Dear to Me|Peter Zumthor in Conversation
+
+----
+
+Multilinetitle:
+
+Dear to Me
+Peter Zumthor in Conversation
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Dear to Me <br>Peter Zumthor in Conversation'
+slug: dear-to-me-peter-zumthor-in-conversation
+id: 13653
+isbn: 3039420100 / 978-3039420100
+price: 134.8
+weight: 1.5
+author:
+  name: 'Scheidegger &amp; Spiess'
+  id: 89
+description: |
+  <p>In summer 2017, celebrated Swiss architect Peter Zumthor curated the exhibition Dear to Me at the Kunsthaus Bregenz, marking the twentieth anniversary of one of his most famous designs. Part of the program were conversations with philosophers, curators, historians, composers, writers, photographers, collectors, and craftsmen that Zumthor had invited to contribute to the exhibition. His dialogues with them o­ffer insights into the thoughts and practice of fascinating personalities. Together with his counterparts, he explores artistic preferences and practices, reasonings, as well as practical knowledge from artisanal experience. Always charming and aff­ectionate, he follows up persistently, and with gentle determination takes his guests on mutual intellectual strolls.<br />
+  <br />
+  In Dear to Me, Zumthor’s equally serious and serene conversations with Anita with Anita Albus, Aleida Assmann, Marcel Beyer, Hélène Binet, Hannes Böhringer, Renate Breuss, Claudia Comte, Bice Curiger, Esther Kinsky, Ralf Konersmann, Walter Lietha, Olga Neuwirth, Rebecca Saunders, Karl Schlögel, Martin Seel, Rudolf Walli, and Wim Wenders are collected in seventeen booklets held together in an exquisitely manufactured box. An eighteenth complementary booklet documents the Dear to Me exhibition in Bregenz through concise texts and images.<br />
+  <br />
+  Peter Zumthor works with his Atelier of around thirty people in the alpine setting of Haldenstein, Switzerland, producing architectural originals like Kunsthaus Bregenz, Therme Vals, Museum Kolumba Köln, the Steilneset Memorial in Vardø, and currently the new building for the Los Angeles Museum of Art (LACMA).</p>
+details: |
+  - ISBN: 3039420100 / 978-3039420100
+  - Content: 444 pages
+  - Size: 210 × 125 mm
+  - Language: English
+  - Publishing date: 2021
+  - Specs: 18 Stapled booklets in box, 9 color illustrations
+  - Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv.jpg
+    id: 13635
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv1.jpg
+    id: 13637
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv2.jpg
+    id: 13639
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv4.jpg
+    id: 13643
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv7.jpg
+    id: 13649
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv6.jpg
+    id: 13647
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv5.jpg
+    id: 13645
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_peterzumthorconv3.jpg
+    id: 13641
+tags: [ ]
+
+----
+
+Uuid: 0m0svpK12E50mV5x

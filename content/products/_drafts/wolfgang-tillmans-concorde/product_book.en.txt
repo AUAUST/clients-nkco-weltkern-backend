@@ -1,0 +1,86 @@
+Title: Wolfgang Tillmans|Concorde
+
+----
+
+Multilinetitle:
+
+Wolfgang Tillmans
+Concorde
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Wolfgang Tillmans <br>Concorde'
+slug: wolfgang-tillmans-concorde
+id: 7866
+isbn: 3960981671 / 978-3960981671
+price: 25.9
+weight: 0.6
+author:
+  name: Buchhandlung Walther König
+  id: 90
+description: '<p>According to photographer Wolfgang Tillmans (born 1968), &#8220;for the chosen few, flying Concorde is apparently a glamorous but cramped and slightly boring routine while to watch it in air, landing or taking off is a strange and free spectacle, a super modern anachronism and an image of the desire to overcome time and distance through technology.&#8221; With no text other than the inner-front flap&#8217;s description, this fifth printing of Tillmans&#8217; now iconic artist&#8217;s book (first published in 1997) consists of 62 color photographs of the Concorde airplane&#8211;taking off, landing or in flight, and sometimes as just a tiny, birdlike silhouette in the sky. The photographs speak of both the beauty and the environmental devastation produced by this fabled French airplane, both sides of which Tillmans captures in his casual yet formally elegant signature style.</p>'
+details: |
+  - ISBN: 3960981671 / 978-3960981671
+  - Content: 128 pages
+  - Size: 160 × 10 × 239 mm
+  - Author: Wolfgang Tillmans
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Softcover
+  - Images: © WELTKERN® / Buchhandlung Walther Konig. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_COVER_Concorde.jpg
+    id: 7871
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_1.jpg
+    id: 7873
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_2.jpg
+    id: 7875
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_3.jpg
+    id: 7877
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_4.jpg
+    id: 7879
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_SPREAD_5.jpg
+    id: 7881
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/06/BOOK_COVER_Concorde_BACK.jpg
+    id: 7869
+tags: [ ]
+
+----
+
+Uuid: qDsxfMFh69gmuzao

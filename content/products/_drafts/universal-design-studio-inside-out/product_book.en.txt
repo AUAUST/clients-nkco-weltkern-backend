@@ -1,0 +1,67 @@
+Title: Universal Design Studio|Inside Out
+
+----
+
+Multilinetitle:
+
+Universal Design Studio
+Inside Out
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Universal Design Studio <br>Inside Out'
+slug: universal-design-studio-inside-out
+id: 13739
+isbn: 1838663053 / 978-1838663056
+price: 54.6
+weight: 1.9
+author:
+  name: Phaidon Press
+  id: 92
+description: |
+  <p>The debut monograph from award-winning and acclaimed architecture and interior design practice Universal Design Studio &#8211; and the perfect expression of this award-winning studio&#8217;s ethos and approach: to design from the inside out.<br />
+  <br />
+  Universal Design Studio has spent two decades redefining the way people live, work, and interact. With offices in London, New York, and Shanghai, its diverse portfolio includes collaborations with world-renowned brands Stella McCartney, Ace Hotel, IBM, H&#038;M, Google, Fortnum &#038; Mason, and The BBC Office Group, and each project is underpinned by a rigorous research and development process. The book includes sketches, renders, archival and reference images, details, and drawings, which sit alongside stunning finished building and interiors photography, offering a holistic view of how the practice works and thinks. In addition, insightful and engaging texts, as well as a series of conversations with key Universal collaborators, are used to to demonstrate how fundamental design is to creating better spaces, better experiences, and better cities.<br />
+  <br />
+  Part manual, part manifesto, the book is organized into three thematic chapters &#8211; Human, Rigorous, and Transformative &#8211; which together create a fascinating, multilayered depiction of an innovative contemporary design practice.</p>
+details: |
+  - ISBN: 1838663053 / 978-1838663056
+  - Content: 312 pages
+  - Size: 290 × 214 mm
+  - Author: Universal Design Studio
+  - Edited by: Phaidon Press
+  - Language: English
+  - Publishing date: 2021
+  - Images: © WELTKERN® /  Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_universaldesignstudio.jpg
+    id: 13740
+tags: [ ]
+
+----
+
+Uuid: QpG4A570eDQPaY1w

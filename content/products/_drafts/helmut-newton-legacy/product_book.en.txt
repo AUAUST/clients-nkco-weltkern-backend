@@ -1,0 +1,66 @@
+Title: Helmut Newton|Legacy
+
+----
+
+Multilinetitle:
+
+Helmut Newton
+Legacy
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Helmut Newton <br>Legacy'
+slug: helmut-newton-legacy
+id: 17980
+isbn: 3836584586 / 978-3836584586
+price: 78.5
+weight: 0.2
+author:
+  name: Taschen
+  id: 91
+description: |
+  <p>Virtually unparalleled in scope and spanning more than five decades, the photography of visionary Helmut Newton (1920–2004) reached millions through publication in magazines like Vogue and Elle.</p>
+  <p>His oeuvre transcended genres, bringing elegance, style, and voyeurism to fashion, portrait, and glamour photography through a body of work that remains as inimitable as it is unrivaled. Having mastered the art of fashion photography early in his career, Newton’s shoots invariably went beyond standard practice, blurring the lines between reality and illusion. Newton’s clear aesthetic pervades all areas of his work, particularly fashion, portraiture, and nude photography. Women take center stage – with subjects such as Catherine Deneuve, Liz Taylor, and Charlotte Rampling. Moving beyond traditional narrative approaches, Newton’s fashion photography is imbued not only with luxurious elegance and subtle seduction, but also cultural references and a surprising sense of humor.</p>
+  <p>During the 1990s, Newton shot for the German, American, Italian, French, and Russian editions of Vogue, primarily in and around Monte Carlo where he was living from 1981 onwards. Transforming locations like his own garage into starkly contrasting or particularly minimalist theatrical stages, Newton would often portray the eccentric lives of the beautiful and rich, full of eroticism and elegance, in unconventional scenarios. He made use of and simultaneously questioned visual clichés, at times tinged with self-irony or mockery, but always full of empathy.</p>
+  <p>Helmut Newton. Legacy, which accompanies an international exhibition tour of Newton’s work, showcases highlights from one of the most published bodies of work in photography, including numerous rediscovered images. A prolific image maker and genuine visionary, this book celebrates Newton’s lasting influence on modern photography and visual art to this day.</p>
+details: |
+  - ISBN: 3836584586 / 978-3836584586
+  - Content: 424 pages
+  - Size: 240 × 340 mm
+  - Language: English, German, French
+  - Edited by: Matthias Harder
+  - Publication: 2021
+  - Specs: Hardcover with dust jacket
+  - Images: © WELTKERN® / Taschen All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Helmut-Newton-–-Legacy.jpg
+    id: 17918
+tags: [ ]
+
+----
+
+Uuid: VUXMRtYSoTzHbYPw

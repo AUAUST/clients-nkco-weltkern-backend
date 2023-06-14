@@ -1,0 +1,104 @@
+Title: Das leichte Haus
+
+----
+
+Multilinetitle: Das leichte Haus
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Das leichte Haus
+slug: das-leichte-haus
+id: 2901
+isbn: 3944669458 / 978-3944669458
+price: 49.9
+weight: 1.4
+author:
+  name: Spector Books
+  id: 99
+description: '<p>Edition Bauhaus 44 The starting point for the informed research by Walter Scheiffele is the publication »Der Raum als Membran« [»Space as Membrane«] published in 1926. In this book, Siegfried Ebeling developed his theory of biological architecture. Even though he was closely read by many Bauhaus architects, Ebeling’s work was soon forgotten. Walter Scheiffele’s comprehensive essay bears witness to the genesis of an idea that is still virulent today: With Ebeling a connection to utopian architecture that was seemingly missing from the Bauhaus in Dessau can be reestablished. Through his work, the fantastical designs of the Glass Chain can be reconnected to the plans for metal buildings by Hugo Junkers, to membrane architecture from Frei Otto to Werner Sobek and all the way to ideas of climate engineering as propagated by Matthias Schuler today. Ebeling remained true to his utopian projects even in the post-war period, but failed to penetrate West German reality with his ideas. It is high time to rediscover his work — and with it a significant lineage of utopian architecture.</p>'
+details: |
+  - ISBN: 3944669458 / 978-3944669458
+  - Content: 320 pages
+  - Size: 225 × 20 × 275 mm
+  - Author: Walter Scheiffele
+  - Edited by: Stiftung Bauhaus Dessau
+  - Texts by: Walter Scheiffele
+  
+  - Introduction: Philipp Oswalt
+  - Design: Ludovic Balland
+  - Language: German
+  - Publishing date: 2016
+  - Specs: Hardcover
+  - Images: © Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_dasleichtehaus.jpg
+    id: 2906
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-10.jpg
+    id: 2908
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-10.jpg
+    id: 2910
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-10.jpg
+    id: 2912
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-8.jpg
+    id: 2914
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_5-2.jpg
+    id: 2916
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_6-1.jpg
+    id: 2918
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_7.jpg
+    id: 2920
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_8.jpg
+    id: 2922
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_9.jpg
+    id: 2924
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_DasLeichteAus_Back.jpg
+    id: 2904
+tags: [ ]
+
+----
+
+Uuid: 5FyOafUkcah80SlS

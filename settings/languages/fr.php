@@ -2,7 +2,7 @@
 
 return [
   'code' => 'fr',
-  'default' => true,
+  'default' => false,
   'direction' => 'ltr',
   'locale' => [
     'LC_ALL' => 'fr_FR'
@@ -11,7 +11,7 @@ return [
   'translations' => [],
   'url' => NULL,
   'smartypants' => [
-    'doublequote.open'  => '&#171;&#8198;',
-    'doublequote.close' => '&#8198;&#187;',
+    'doublequote.open'  => '&#171; ',
+    'doublequote.close' => ' &#187;',
   ]
 ];

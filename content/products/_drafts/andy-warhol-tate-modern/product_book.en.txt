@@ -1,0 +1,65 @@
+Title: Andy Warhol|Tate Modern
+
+----
+
+Multilinetitle:
+
+Andy Warhol
+Tate Modern
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Andy Warhol <br>Tate Modern'
+slug: andy-warhol-now
+id: 17906
+isbn: 1849766708 / 978-1849766708
+price: 32.5
+weight: 1.2
+author:
+  name: Buchhandlung Walther König
+  id: 90
+description: |
+  <p>&#8220;Andy Warhol Now&#8221; is the catalogue for the retrospective at the Musem Ludwig in Cologne, which impressively illustrates his status as a Pop Art icon with 100 works, but includes his migrant background and homosexuality with a contemporary view.</p>
+  <p>As an underground art star, Andy Warhol was the antidote to the macho American postwar art scene who redefinded the language of painting, sculpture and film. This humanistic re-visioning explores his background as a child of an emigrant family, his ideas about death and religion and his queer perspective, revealing an artist who both succeeded and failed in equal measure and whose work marked a period of cultural transformation that still resonated today. Exploring Warhol&#8217;s knowing flirtation with the commercial world of celebrity alongside his advocacy of alternative lifestyles, it presents his work within the the context of his time in a way that connects to contemporary concerns.</p>
+details: |
+  - ISBN: 1849766708 / 978-1849766708
+  - Content: 224 pages
+  - Size: 220 × 290 mm
+  - Language: English
+  - Editors: Gregor Muir, Yilmaz Dziewior
+  - Publication: 2020
+  - Specs: Softcover
+  
+  - Images: © WELTKERN® / Buchhandlung Walther König. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/04/BOOK_COVER_Andy.jpg
+    id: 19740
+tags: [ ]
+
+----
+
+Uuid: In4Uk5XRnxBMNvbW

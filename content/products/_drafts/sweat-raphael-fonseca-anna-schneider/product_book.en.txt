@@ -1,0 +1,62 @@
+Title: Sweat|Raphael Fonseca & Anna Schneider
+
+----
+
+Multilinetitle:
+
+Sweat
+Raphael Fonseca & Anna Schneider
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Sweat <br>Raphael Fonseca & Anna Schneider'
+slug: sweat-raphael-fonseca-anna-schneider
+id: 15364
+isbn: 3947858286 / 978-3947858286
+price: 25.3
+weight: 0.7
+author:
+  name: Roma Publications
+  id: 268
+description: '<p>Appearing alongside the eponymous exhibition at the Haus der Kunst in Munich, this book gathers together over 30 artists and writers to connect historical perspectives on and contemporary struggles for radical social emancipation. Its premise is sweat – a sign of both attraction and struggle, a residue of physical vitality, and a modulator of temperature that both enlivens the senses and smooths the friction among conjugating bodies. Including new commissions and groundbreaking works from the 1970s and ’80s, these sensual acts help to materialise narratives which have been silenced or rendered invisible, focusing on a politics and poetics of bodies without shame.</p>'
+details: |
+  - ISBN: 3947858286 / 978-3947858286
+  - Content: 286 pages
+  - Size: 170 × 240 mm
+  - Authors: Raphael Fonseca, Anna Schneider
+  - Language: German, English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / K Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_Sweat-–-Raphael-Fonseca-Anna-Schneider-2.jpg
+    id: 15428
+tags: [ ]
+
+----
+
+Uuid: 2Dvp2LyoQzSxHvgn

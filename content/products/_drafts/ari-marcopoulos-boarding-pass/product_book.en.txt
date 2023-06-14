@@ -1,0 +1,63 @@
+Title: Ari Marcopoulos|Boarding Pass
+
+----
+
+Multilinetitle:
+
+Ari Marcopoulos
+Boarding Pass
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Ari Marcopoulos <br>Boarding Pass'
+slug: ari-marcopoulos-boarding-pass
+id: 14948
+isbn: 390599996X / 978-3905999969
+price: 23.5
+weight: 0.2
+author:
+  name: Nieves
+  id: 386
+description: '<p>For photographer and filmmaker Ari Marcopoulos, air travel is quite a point of obsession. Before moving to New York in 1980, where he would eventually carve out a career defined by his raw and intimate renderings of some of America’s most significant subcultural protagonists, he spent much of his childhood flying with his father, a commercial airline pilot. ‘Boarding Pass’ takes this experience of flight and the machines that make it possible as its defining motifs. The characteristically intuitive, spontaneous images in this volume offer countless perspectives of airplanes on the tarmac or in flight, rerouting our gaze from the pragmatic and economic towards the poetic.</p>'
+details: |
+  - ISBN: 390599996X / 978-3905999969
+  - : 80 pages
+  - Size: 140 × 200 mm
+  - Authors: Ari Marcopoulos
+  - Edited by: Perimeter Editions
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Softcover
+  - Images: © WELTKERN® / Nieves. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_BoardingPass.jpg
+    id: 14949
+tags: [ ]
+
+----
+
+Uuid: wK7S14Sqggxwq3tV

@@ -1,0 +1,103 @@
+Title: Peter Sutherland|Colorado
+
+----
+
+Multilinetitle:
+
+Peter Sutherland
+Colorado
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Peter Sutherland <br>Colorado'
+slug: peter-sutherland-colorado
+id: 11851
+isbn: 8897185123 / 978-8897185123
+price: 51.5
+weight: 1.1
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: |
+  <p>Released on the occasion of Peter Sutherland&#8217;s solo exhibition hosted at Spazio Maiocchi in May 2021, curated by KALEIDOSCOPE and supported by Carhartt WIP and Slam Jam.<br />
+  <br />
+  Titled “Colorado,” the exhibition featured a new body of work comprised of medium- and large-format photographs, and a new series of collages, and a billboard commission. The accompanying book by the same title, designed by Swiss art direction firm Kasper-Florio, will feature the complete series of photographs and collages, a conversation with Leo Fitzpatrick, and a foreword by Maia Ruth Lee.<br />
+  <br />
+  After twenty years in New York, during lockdown the artist decided to leave the city and move back to his native Colorado—resulting in a body of work brimming with nature, punctuated by hikes, camping, and fortuitous encounters. In the artist’s own words, “A lot of my work is autobiographical: I’ve used photography to document my own experiences—and being from Colorado, nature was always part of those experiences. Many New Yorkers see nature as a vacation space, but even after all those years there, I’ve never lost the sense of the city being the vacation spot, and nature being home.”<br />
+  <br />
+  Peter Sutherland (American, b. 1976) is an artist working across fine art and commissioned photography. His work has been exhibited in institutions and galleries worldwide, including the Contemporary Art Museum, St Louis; Galerie Rodolphe Janssen, Brussels; White Cube, London; Zabludowicz Collection, London.</p>
+details: |
+  - ISBN: 8897185123 / 978-8897185123
+  - Content: 148 Pages
+  - Size: 200 × 18 × 300 mm
+  - Author: Peter Sutherland
+  - Texts by: Maia Ruth Lee, Leo Fitzpatrick
+  - Design: Kasper Florio
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_COVER_Colorado.jpg
+    id: 11873
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_1-1.jpg
+    id: 11875
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_2-1.jpg
+    id: 11877
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_3-1.jpg
+    id: 11879
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_4-1.jpg
+    id: 11881
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_5-1.jpg
+    id: 11883
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_6-1.jpg
+    id: 11885
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_7-1.jpg
+    id: 11887
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_8.jpg
+    id: 11889
+tags: [ ]
+
+----
+
+Uuid: 6M9pI1rAL8u8c4Ca

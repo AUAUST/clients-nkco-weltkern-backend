@@ -1,0 +1,74 @@
+Title: RIMOWA|Limited Edition
+
+----
+
+Multilinetitle:
+
+RIMOWA
+Limited Edition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'RIMOWA <br>Limited Edition'
+slug: rimowa-limited-edition
+id: 3417
+isbn: 1614287186 / 978-1614287186
+price: 189.9
+weight: 3.4
+author:
+  name: Assouline
+  id: 131
+description: '<p>Founded in Cologne in 1898, RIMOWA has become synonymous with sleek design and effortless travel. Standing at a three-way intersection of innovation, utility, and luxury, RIMOWA has uniquely positioned itself as a luxury goods manufacturer focused on craftsmanship and dedication&#8211;never allowing trends to dictate their design. Paul Morszeck laid the cornerstone for the company&#8217;s success 120 years ago by placing a premium on impeccable construction and utmost stability. RIMOWA&#8217;s success skyrocketed in the 1920s when the suitcases caught the eye of the world&#8217;s travelers prizing function above all else, followed by the launch of the first aluminum luggage in 1937 that has made all RIMOWA products distinctive and unique. This book celebrates 120 years of the functional and practical luxury brand, and the people and story behind it&#8211;focusing on the ingenuity and inspiration that have characterized RIMOWA&#8217;s innovative designs and the creative history that has laid the groundwork for a dynamic future.</p>'
+details: |
+  - ISBN: 1614287186 / 978-1614287186
+  - Content: 192 pages
+  - Size: 414 × 58 × 290 mm
+  - Author: Dan Thawley
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © Assouline. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_rimowa.jpg
+    id: 3421
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_rimowa_1.jpg
+    id: 3423
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_rimowa_2.jpg
+    id: 3425
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_rimowa_3.jpg
+    id: 3427
+tags: [ ]
+
+----
+
+Uuid: Z01n9om44KVCDJdO

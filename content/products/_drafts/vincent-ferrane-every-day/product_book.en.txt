@@ -1,0 +1,61 @@
+Title: Vincent Ferrané|Every-day
+
+----
+
+Multilinetitle:
+
+Vincent Ferrané
+Every-day
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Vincent Ferrané <br>Every-day'
+slug: vincent-ferrane-every-day
+id: 21108
+isbn: 9188113474 / 978-9188113474
+price: 41.8
+weight: 0.6
+author:
+  name: Libraryman
+  id: 362
+description: '<p>Every-day by Vincent Ferrané (b. 1974, French) is a series of photographs of transgender or non-binary people, without classification or mention. It focuses on ways of experiencing one’s gender which, within the framework of social and cultural norms and conventions, trouble or escape the binary system of feminine and masculine. The images document, through the portraits of Ava, Jackie, Leo, Mathieu, Matthias, Maty and Raya, seized in their privacy, a simple but key event, both symbolic and physical; that of getting ready, in front of your mirror, to leave your home. In an apparent harmless everyday life, through a repetition of actions, representations, strategies, histories and convictions specific to each person, the ever fragile project of being oneself is revealed.</p>'
+details: |
+  - ISBN: 9188113474 / 978-9188113474
+  - Content: 56 pages
+  - Size: 215 × 275 mm
+  - Language: English
+  - Publication: 2020
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Libraryman. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_VINCENT-FERRANEEvery-day.jpg
+    id: 21109
+tags: [ ]
+
+----
+
+Uuid: IWiqEB4aIjLl77yp

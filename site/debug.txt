@@ -1,0 +1,71 @@
+page.update:after
+newPage: tags/magazine
+oldPage: tags/magazine
+oldPage->tags(): 
+newPage->tags(): 
+page.update:after
+newPage: tags/magazine
+oldPage: tags/magazine
+oldPage->tags(): 
+newPage->tags(): 
+page.update:after
+newPage: tags/magazine
+oldPage: tags/magazine
+oldPage->tags(): tagsets/books
+newPage->tags(): tagsets/books
+
+
+page.update:after
+newPage: tags/art-book
+oldPage: tags/art-book
+oldPage->tags(): tagsets/books
+newPage->tags(): tagsets/books
+
+
+page.update:after
+newPage: tags/art-book
+oldPage: tags/art-book
+oldPage->tags(): tagsets/books
+newPage->tags(): tagsets/books
+
+
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags aaaa update: tag
+tags page update: tag
+tags page update: tag
+tags ahdkakjdjakjdhaskjdh   update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+tags page update: tag
+old tagsets: tags/art-book
+new tagsets: tags/art-book
+tags page update: tag
+old tagsets: 
+new tagsets: tagsets/countries
+tags page update: tag
+old tagsets: tagsets/countries
+new tagsets: 
+tags page update: tag
+old tagsets: 
+new tagsets: 
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: product_book
+tags page update: products

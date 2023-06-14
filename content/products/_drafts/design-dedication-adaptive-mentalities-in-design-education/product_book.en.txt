@@ -1,0 +1,94 @@
+Title: Design Dedication|Adaptive Mentalities in Design Education
+
+----
+
+Multilinetitle:
+
+Design Dedication
+Adaptive Mentalities in Design Education
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Design Dedication <br>Adaptive Mentalities in Design Education'
+slug: >
+  design-dedication-adaptive-mentalities-in-design-education
+id: 10980
+isbn: |
+  9492095734 / 978-9492095732
+price: 21.6
+weight: 0.4
+author:
+  name: Valiz
+  id: 101
+description: |
+  <p>This book explores an attitude in and toward design education that is socially engaged, politically aware, generous in approach, lyrical in tone, experimental in form and collaborative in practice. How can we talk about and draw out the political aspect inherent in the work of design students? What are the underlying values of such a pedagogy? What kind of practices are developed in this context? How can an institute support and safeguard this?<br />
+  <br />
+  <em>Design Dedication</em> explores these approaches through statements from within and reaches out to design students, designers, artists and teachers who are open to questioning their own practices and reformulating values in design education in the face of an unpredictable tomorrow.</p>
+details: |
+  - ISBN: 9492095734 / 978-9492095732
+  
+  - Content: 192 Pages
+  - Size: 170 × 15 × 235 mm
+  - Edited by: Annelys de Vet
+  - Contributions from: Hannes Bernard, Michèle Champagne, Pinar Demirdag, Liesbeth Fit, Rana Ghavami, Anja Groten, Agata Jaworska, Anastasia Kubrak, Sherida Kuffour
+  - Design: Tessa Meeus, Alex Walker
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN® / Valiz / De Monsterkamer (monsterkamer.nl). All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Dedication.jpg
+    id: 11009
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-13.jpg
+    id: 11011
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-12.jpg
+    id: 11013
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-13.jpg
+    id: 11015
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-13.jpg
+    id: 11017
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-13.jpg
+    id: 11019
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_Dedication_BACK.jpg
+    id: 11007
+tags: [ ]
+
+----
+
+Uuid: pQL4arTJdHgwccmK

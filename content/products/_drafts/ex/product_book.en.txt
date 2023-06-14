@@ -1,0 +1,72 @@
+Title: Ex
+
+----
+
+Multilinetitle: Ex
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Ex
+slug: taro-izumi-ex
+id: 5739
+isbn: 3775747370 / 978-3775747370
+price: 43.9
+weight: 1
+author:
+  name: Hatje Cantz Verlag
+  id: 207
+description: '<p>For his show at Museum Tinguely, Tokyo-based multimedia artist Taro Izumi (1976) presents new works such as a washing machine on a pyramid, robot vacuum cleaners or people who lick the floor. This spiralbound volume transposes his machine pageant to book form.</p>'
+details: |
+  - ISBN: 3775747370 / 978-3775747370
+  - Content: 192 pages
+  - Size: 180 × 20 × 254 mm
+  - Author: Taro Izumi
+  - Language: English / German
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN®. All rights reserved.
+  - Condition: Second-hand, As new (9/10)
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_Ex.jpg
+    id: 5751
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_1-6.jpg
+    id: 5753
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_2-10.jpg
+    id: 5755
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_Ex_BACK.jpg
+    id: 5749
+tags: [ ]
+
+----
+
+Uuid: L4hKVG3LBP2iyKuf

@@ -1,0 +1,65 @@
+Title: The Earth is an Architecture
+
+----
+
+Multilinetitle: The Earth is an Architecture
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: The Earth is an Architecture
+slug: the-earth-is-an-architecture
+id: 13862
+isbn: 395905372X / 978-3959053723
+price: 22.9
+weight: 0.3
+author:
+  name: Spector Books
+  id: 99
+description: |
+  <p>Since the dawn of humankind, our planet has been profoundly affected by the constant, exponential increase in the world’s population. Having gone from being a flat disc to a sphere, the Earth is now architecture. This does not mean that it has been superseded by architecture but rather that the two are inextricably linked by a common destiny.<br />
+  This intercontinental epic traces the history of terrestrial infrastructure, from the mythological works of giants to those of human origin. Five situations explore the fundamental conditions on which the actual infrastructure is based, opening the way to new architectural fictions. The book will be launched to coincide with the 17th Venice International Architecture Biennale in 2021, where TVK will display an installation in the international pavilion in the Giardini.<br />
+  <br />
+  TVK is an international office of architecture and urban design, created by Pierre Alain Trévelo and Antoine Viger-Kohler in Paris in 2003. The agency pursues a theoretical and architectural approach that seeks to capture the complexity and paradoxical nature of the contemporary situation on Earth.</p>
+details: |
+  - ISBN: 395905372X / 978-3959053723
+  - Content: 208 pages
+  - Size: 120 × 195 mm
+  - Authors: Pierre Alain Trévelo, Antoine Viger-Kohler, Alexandre Bullier, David Enon, David Malaud, Mathieu Mercuriali, Océane Ragoucy
+  - Edited by: Spector Books
+  - Design: Julien Hourcade
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_TheEarthisanArchitecture.jpg
+    id: 13863
+tags: [ ]
+
+----
+
+Uuid: ethN7fK3ui39JFaN

@@ -1,0 +1,71 @@
+Title: Inbar Levi (Los Angeles, USA)|In Light of Darkness
+
+----
+
+Multilinetitle:
+
+Inbar Levi (Los Angeles, USA)
+In Light of Darkness
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Inbar Levi (Los Angeles, USA) <br>In Light of Darkness'
+slug: >
+  inbar-levi-los-angeles-usa-in-light-of-darkness
+id: 13510
+isbn: NO ISBN
+price: 12.5
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: ""
+details: |
+  - Edition of: 100
+  - Content: 24 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  Black & White Photocopy
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_C1.jpg
+    id: 13447
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_C2.jpg
+    id: 13449
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_C3.jpg
+    id: 13451
+tags: [ ]
+
+----
+
+Uuid: y5AAWAs0ADWxIRaI

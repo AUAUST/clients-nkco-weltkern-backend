@@ -1,0 +1,82 @@
+Title: Designed in the USSR|1950–1989
+
+----
+
+Multilinetitle:
+
+Designed in the USSR
+1950–1989
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Designed in the USSR <br>1950–1989'
+slug: designed-in-the-ussr-1950-1989
+id: 2972
+isbn: 0714875570 / 978-0714875576
+price: 49.9
+weight: 1.2
+author:
+  name: Phaidon Press
+  id: 92
+description: '<p>This captivating survey of Soviet design from 1950 to 1989 features more than 350 items from the Moscow Design Museum&#8217;s unique collection. From children&#8217;s toys, homewares, and fashion to posters, electronics, and space-race ephemera, each object reveals something of life in a planned economy during a fascinating time in Russia&#8217;s history. Organized into three chapters &#8211; Citizen, State, and World &#8211; the book is a micro-to-macro tour of the functional, kitsch, politicized, and often avant-garde designs from this largely undocumented period.</p>'
+details: |
+  - ISBN: 0714875570 / 978-0714875576
+  - Content: 240 pages
+  - Size: 213 × 32 × 286 mm
+  - Author: The Moscow Design Museum
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_DesignedUSSR.jpg
+    id: 2977
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-12.jpg
+    id: 2979
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-12.jpg
+    id: 2981
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-12.jpg
+    id: 2983
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-10.jpg
+    id: 2985
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_DesignedUSSR_BACK.jpg
+    id: 2975
+tags: [ ]
+
+----
+
+Uuid: g2HitSEEdb98O800

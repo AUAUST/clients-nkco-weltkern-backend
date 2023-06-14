@@ -1,0 +1,69 @@
+Title: This is not a commercial.|Billboard/Billding
+
+----
+
+Multilinetitle:
+
+This is not a commercial.
+Billboard/Billding
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'This is not a commercial. <br>Billboard/Billding'
+slug: >
+  this-is-not-a-commercial-billboard-billding
+id: 13833
+isbn: 3907236076 / 978-3907236079
+price: 51.9
+weight: 1.3
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>On Zurich’s Langstrasse everyone has to do their thing, make money—and we had to earn our daily bread too. “You pay the bill, we paint the board”: Billboard. We painted ads of all kinds—for a fee. We placed a commercial <em>Billboard</em> (2011–2015) on the roof deck of Esther Eppstein’s message salon, a former artist’s space. What used to be the Perla-Mode building now houses a chain restaurant for vegetarians. It took a while for the concept to catch on: people were skeptical. But then business picked up, and we—and others—painted everything from love letters and breakup notes, political statements, gossip and rumors to graffiti and street art and even tobacco ads. Business was good, so we expanded. The sculpture became a “billding”. Living off—and behind—a billboard.<br />
+  <br />
+  <em>This is not a commercial</em> addresses questions of economic models and strategies for artists to survive in today’s neoliberal market structure. As painters, we procured work for ourselves through this participatory sculpture. We don’t paint BMWs in Veli &#038; Amos style: the brand is part and parcel of our sculpture, our postcards, our paintings and now our book. The point of the book is not only to document our billboard project, but also to keep it as up-to date as possible—with ads.</p>
+details: |
+  - ISBN: 3907236076 / 978-3907236079
+  - Content: 254 pages
+  - Size: 260 × 170 mm
+  - Artists: Veli & Amos
+  - Author: Esther Eppstein
+  - Edited by: Edition Patrick Frey
+  - Design: Teo Schifferli
+  - Language: German / English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_VeliAmos-1.jpg
+    id: 13836
+tags: [ ]
+
+----
+
+Uuid: PBVs3Q2kqZmdcHBV

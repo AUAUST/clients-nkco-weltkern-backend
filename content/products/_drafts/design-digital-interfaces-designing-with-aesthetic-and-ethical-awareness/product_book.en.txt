@@ -1,0 +1,64 @@
+Title: Design & Digital Interfaces|Designing With Aesthetic and Ethical Awareness
+
+----
+
+Multilinetitle:
+
+Design & Digital Interfaces
+Designing With Aesthetic and Ethical Awareness
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Design & Digital Interfaces <br>Designing With Aesthetic and Ethical Awareness'
+slug: >
+  design-digital-interfaces-designing-with-aesthetic-and-ethical-awareness
+id: 22450
+isbn: 1350068278 / ‎ 978-1350068278
+price: 24.9
+weight: 0.4
+author:
+  name: Bloomsbury Publishing
+  id: 377
+description: '<p>Are digital interfaces controlling more than we realise? Can designers take responsibility, and should they? From domestic appliances like Siri and Amazon Echo, to large scale Facebook manipulation and Google search prediction, digital interfaces are ubiquitous in everyday life and their influences affect how people live, feel and behave. As they grow in complexity and increase integration into our lives we need to address the social, ethical, political and aesthetic responsibilities of those designing and creating the computer systems all around us. Through discussion with cutting-edge designers and thinkers and with international examples, the authors explain how we need an expanded aesthetic, critical and ethical awareness on the part of designers willing to act with sensitivity and understanding towards the people they design for and with. This critical take on the process and implications of interface design looks beyond the mechanics of making, and into the techno-political realm of deliberate and unintended consequences.</p>'
+details: |
+  - ISBN: 1350068278 / ‎ 978-1350068278
+  - Content: 176 pages
+  - Size: 157 × 234 mm
+  - Authors: Ben Stopher, John Fass, Eva Verhoeven, Tobias Revell
+  - Language: English
+  - Font in use: TWK Lausanne
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / ‎Bloomsbury Visual Arts. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_Design-and-Digital-Interfaces.jpg
+    id: 22451
+tags: [ ]
+
+----
+
+Uuid: Zo5c4OCJdj93XLL8

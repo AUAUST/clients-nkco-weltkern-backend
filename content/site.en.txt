@@ -1,0 +1,53 @@
+Title: WELTKERN®
+
+----
+
+Pageproducts: - page://1Pe3NwsOKSHPFHCF
+
+----
+
+Pagetypefaces: - page://pqhBHiO60WWCE9SF
+
+----
+
+Pagetypefacessettings: - page://v92seFbQk17QBGbT
+
+----
+
+Pagetags: - page://fZ3PvNZ5aHONnyX8
+
+----
+
+Pagehome: - page://r7B7QwhbFuuV3o6G
+
+----
+
+Pagekerns: - page://R6slQ8V1IM2Rkt5Q
+
+----
+
+Pageabout: - page://dp6dsUqibP2vepsr
+
+----
+
+Pageerror: - page://Ad01ZY3S5WhjwqZG
+
+----
+
+Pagesuppliers: - page://b38ldcEz97YoxcRH
+
+----
+
+Pagedesigners: - page://qTfWZB6rA0eSKVJc
+
+----
+
+Titleshort: WK®
+
+----
+
+Titlesimple: Weltkern
+
+----
+
+Slogan: WELTKERN®, CURATOR AND PRODUCER OF DESIGN

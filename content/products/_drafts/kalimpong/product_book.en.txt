@@ -1,0 +1,96 @@
+Title: Kalimpong
+
+----
+
+Multilinetitle: Kalimpong
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Kalimpong
+slug: shezad-dawood-kalimpong
+id: 5958
+isbn: 3956792762 / 978-3956792762
+price: 33.9
+weight: 0.8
+author:
+  name: Sternberg Press
+  id: 133
+description: |
+  <p>It’s 1912. We find ourselves in Kalimpong, India, in the foothills of the Himalayas. We are in the company of the eccentric Belgian-French explorer Alexandra David-Néel. She is planning a secretive, forbidden journey into Tibet …  Fast forward to the 1960s. Kalimpong has become a hotbed of espionage, denounced by the Chinese as a “nest of spies” after being used by everyone from the Russians to the CIA, the nascent Indian secret service, some remaining British colonial stalwarts, Tibetan Khamba guerillas, and the Chinese themselves, of course. There are mountains, caves, and secret passages. Indeed, it has all the hallmarks of a remarkable adventure&#8230;<br />
+  <br />
+  <em>Kalimpong</em> is an artist project in book form by the London-based artist Shezad Dawood. Set in Kalimpong at various moments from 1912 to the present day, Dawood’s project is part fact, part fiction. There are explorers and spies, poets and travelers, lovers and strangers, princesses and humanoids, all strangely connected across the globe through this curious Indian town.<br />
+  <br />
+  To develop the story, Dawood invited a number of international writers and cultural commentators to contribute texts, opting for an “exquisite corpse” method, whereby writers recommended or responded to other writers, resulting in some surprising twists.<br />
+  <br />
+  The publication accompanies an immersive virtual-reality work of the same name by the artist, which premiered at Timothy Taylor gallery, London, in the fall of 2016.</p>
+details: |
+  - ISBN: 3956792762 / 978-3956792762
+  - Content: 94 pages
+  - Size: 230 × 15 × 290 mm
+  - Author: Shezad Dawood
+  - Contributions from: Tenzing Barshee, Kai Friese, Alexander Keefe, Barbara Sirieix, Rosie Thomas.
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2016
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Sternberg Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Kalimpong-2.jpg
+    id: 6001
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Kalimpong_2-1.jpg
+    id: 5997
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_-6.jpg
+    id: 5966
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-8.jpg
+    id: 5968
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-8.jpg
+    id: 5970
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-5.jpg
+    id: 5972
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_5-4.jpg
+    id: 5974
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_Kalimpong_BACK-1.jpg
+    id: 5999
+tags: [ ]
+
+----
+
+Uuid: r25tJnGqDZlCcc83

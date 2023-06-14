@@ -1,0 +1,82 @@
+Title: André de Dienes|Marilyn Monroe
+
+----
+
+Multilinetitle:
+
+André de Dienes
+Marilyn Monroe
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'André de Dienes <br>Marilyn Monroe'
+slug: andre-de-dienesmarilyn-monroe
+id: 2790
+isbn: 3836527103 / 978-3836559300
+price: 19.9
+weight: 1.4
+author:
+  name: Taschen
+  id: 91
+description: '<p>Photographs and memoirs of the man who was Marilyn&#8217;s first photographer, but also her short-lived fiancé and then her friend throughout her life. Part of the TASCHEN <em>Bibliotheca Universalis</em> collection, these intimate archives by André de Dienes illustrate the metamorphosis of Norma Jean from a fledgling model to a very fragile international star, Marilyn Monroe, right up until the last days of her life and her tragic death. The whole composes an unparalleled portrait of an icon who still exerts the same power of fascination today.</p>'
+details: |
+  - ISBN: 3836527103 / 978-3836559300
+  - Content: 616 pages
+  - Size: 184 × 76 × 235 mm
+  - Author: Steve Christ
+  - Language: German
+  - Publishing date: 2011
+  - Specs: Hardcover
+  - Images: © Taschen. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_André-de-Dienes.jpg
+    id: 2793
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_André-de-Dienes1.jpg
+    id: 2795
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_André-de-Dienes2.jpg
+    id: 2797
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_André-de-Dienes3.jpg
+    id: 2799
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_André-de-Dienes4.jpg
+    id: 2801
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_André-de-Dienes5.jpg
+    id: 2803
+tags: [ ]
+
+----
+
+Uuid: 3KZ4kj31njQ5dhRB

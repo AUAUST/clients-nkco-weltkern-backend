@@ -1,0 +1,118 @@
+Title: Imponderable|The Archives of Tony Oursler (First Edition)
+
+----
+
+Multilinetitle:
+
+Imponderable
+The Archives of Tony Oursler (First Edition)
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Imponderable <br>The Archives of Tony Oursler (First Edition)'
+slug: >
+  imponderable-the-archives-of-tony-oursler-first-edition
+id: 5593
+isbn: 3037644751 / 978-3037644751
+price: 229.9
+weight: 3.1
+author:
+  name: JRP|Editions
+  id: 94
+description: |
+  <p>The artist&#8217;s own archive of phantasmagoria: a unique collection of objects and ephemera relating to magic, the paranormal, occultism, pseudoscience, technology as well as their cultural and media portrayals.<br />
+  Started in the Nineties, Oursler&#8217;s vast personal archive functions as an open visual resource, historical inquiry, and—most intriguingly—a family history. One of the collection&#8217;s many digressions is the friendship between the artist&#8217;s grandfather Charles Fulton Oursler—a famous early 20th Century author and publisher—and magician and escapologist Harry Houdini, their joint campaign against fraudulent mediums, and a historic interaction with Arthur Conan Doyle, who, beyond his Sherlock Holmes series, was an important advocate for spiritualism and the paranormal.<br />
+  <br />
+  This publication features up to 1,200 objects from Oursler&#8217;s collection, including photographs, prints, historic manuscripts, rare books, letters, and objects. Additional topics include stage magic, thought photography, demonology, cryptozoology, optics, mesmerism, automatic writing, hypnotism, fairies, cults, the occult, color theory, and UFOs. Linking these wide-ranging materials is Oursler&#8217;s underlying interest in belief systems and human nature—the suspension of disbelief, or perhaps just our propensity to believe. The material in Oursler&#8217;s collection broadens recent explorations of technology and mystical cultural production, investigating the relationships between science, pseudo-science, religion, and the occult with visual and archival documents that demonstrate the power of images to carry and challenge our most cherished beliefs.</p>
+details: |
+  - ISBN: 3037644751 / 978-3037644751
+  - Content: 520 pages
+  - Size: 116 × 50 × 280 mm
+  - Author: Tony Oursler
+  - Edited by: Tom Eccles, Maja Hoffmann, Beatrix Ruf.
+  - Texts by: Jordan Bear, Karen Beckman, Noam Elcott, Maja Hoffmann, Branden W. Joseph, Peter Lamont, Fred Nadis, Stephanie O'Rourke, Jim Steinmeyer, Christopher Turner
+  - Design: Zak Group
+  - Language: English
+  - Publishing date: 2015
+  - Specs: Softcover
+  - Images: © JRP|Edition. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_COVER_Imponderable.jpg
+    id: 5596
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler1.jpg
+    id: 5598
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler2.jpg
+    id: 5600
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler3.jpg
+    id: 5602
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler4.jpg
+    id: 5604
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler5.jpg
+    id: 5606
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler6.jpg
+    id: 5608
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler7.jpg
+    id: 5610
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler8.jpg
+    id: 5612
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler9.jpg
+    id: 5614
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler10.jpg
+    id: 5616
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler11.jpg
+    id: 5618
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/04/BOOK_SPREAD_TonyOursler12.jpg
+    id: 5620
+tags: [ ]
+
+----
+
+Uuid: aCtCNw6h4aIoVLvL

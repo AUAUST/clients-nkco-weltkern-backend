@@ -1,0 +1,81 @@
+Title: Stephanie Baechler|Dear Clay,
+
+----
+
+Multilinetitle:
+
+Stephanie Baechler
+Dear Clay,
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Stephanie Baechler <br>Dear Clay,'
+slug: stephanie-baechler-dear-clay
+id: 23690
+isbn: 9082771213 / 978-9082771213
+price: 24.9
+weight: 0.8
+author:
+  name: Building Fictions
+  id: 389
+description: '<p>In his practice, Lukas Rehm examines the conditions and theatrics of social structures and the impact of new technological artefacts. Borrowing its form and structure from the graphic novel, ‘333’ interweaves moving image works with textual fragments from transcripts, referential sources, or retrospective descriptions. Seeking and sensing threads such as affect, barriers, memory, knowledge production, or post-human timescales, the publication transposes the still images and quotes into an analogue sequence echoing the temporal, spatial, and sonic dimensions of installation constructs and filmic experiences. The artist’s process therefore becomes a narrative of new interdependencies.</p>'
+details: |
+  - ISBN: 9082771213 / 978-9082771213
+  - Content: 240 pages
+  - Size: 200 × 280 mm
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN® / Building Fictions. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_DearClay.jpg
+    id: 23721
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_1-9.jpg
+    id: 23722
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_3-16.jpg
+    id: 23724
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_4-14.jpg
+    id: 23725
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_5-6.jpg
+    id: 23726
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_2-16.jpg
+    id: 23723
+tags: [ ]
+
+----
+
+Uuid: OWBuKClKvVDq12SD

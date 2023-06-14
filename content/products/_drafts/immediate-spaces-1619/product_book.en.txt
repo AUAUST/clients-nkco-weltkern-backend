@@ -1,0 +1,87 @@
+Title: Immediate Spaces 16–19
+
+----
+
+Multilinetitle: Immediate Spaces 16–19
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Immediate Spaces 16–19
+slug: immediate-spaces-16-19
+id: 6874
+isbn: |
+  3038601934 / 978-3038601937
+price: 34.9
+weight: 0.9
+author:
+  name: Park Books
+  id: 88
+description: |
+  <p>The Studio for Immediate Spaces (SIS) is a two-year MA programme at Amsterdam’s renowned Sandberg Instituut. It aims at exploring and shaping spatial practices on the genesis and production of contemporary spatial configurations. Through extensive field investigations, SIS works as a laboratory testing ideas relevant to how we live today and how we could live tomorrow.<br />
+  <br />
+  Rural flatlands, suburbia and gritty city settings; Mediterranean shorelines and Alpine mountainscapes; open-pit mines and industrial legacies; abandoned buildings and unfinished infrastructures; harbors, airports and refugee camps: Such places were the sites of SIS’s research and production between 2016 and 2019. Directed by Swiss architect Leopold Banchini, it embraced a truly global approach that crossed, and deliberately ignored, borders.<br />
+  <br />
+  This book offers a glimpse into this unique journey around the world. Illustrated with some 790 color and black-and-white photographs, it features work produced collectively by participants in simultaneous roles of geographer, researcher, architect, urban planner and designer. Brief texts on each project and essays by Leopold Banchini and IS faculty members Marie-Avril Berthet, Ludwig Engel, Fabulous Future, Mark Minkjan, Julian Schubert, and Maike Statz as well as by curator and writer Lukas Feireiss round out this exceptional documentation of forward-thinking higher education in spatial design.</p>
+details: |
+  - ISBN: 3038601934 / 978-3038601937
+  
+  - Content: 182 pages
+  - Edited by: Leopold Banchini, Malissa Anne Cañez Sabus
+  - Size: 190 × 16 × 280 mm
+  - Design: Ludovic Balland
+  - Language: English
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © Park Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_ImmediateSpaces.jpg
+    id: 6877
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_1-14.jpg
+    id: 6879
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-29.jpg
+    id: 6881
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-29.jpg
+    id: 6883
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-21.jpg
+    id: 6885
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_ImmediateSpaces_BACK.jpg
+    id: 6875
+tags: [ ]
+
+----
+
+Uuid: hZlhXMCivQ0I6Pu5

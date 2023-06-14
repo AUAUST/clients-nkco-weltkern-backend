@@ -1,0 +1,100 @@
+Title: Linda McCartney|Life in Photographs
+
+----
+
+Multilinetitle:
+
+Linda McCartney
+Life in Photographs
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Linda McCartney <br>Life in Photographs'
+slug: linda-mccartney-life-in-photographs
+id: 9423
+isbn: 3836527286 / 978-3836527286
+price: 39.9
+weight: 2.7
+author:
+  name: Taschen
+  id: 91
+description: |
+  <p>This title shows the world through Linda&#8217;s lens. This is a retrospective of Linda McCartney&#8217;s life and photography. In 1966, during a brief stint as a receptionist for &#8220;Town and Country&#8221; magazine, Linda Eastman snagged a press pass to a very exclusive promotional event for the &#8220;Rolling Stones&#8221; aboard a yacht on the Hudson River; her fresh, candid photographs of the band were far superior to the formal shots made by the band&#8217;s official photographer, and she was instantly on the way to making a name for herself as a top rock &#8216;n&#8217; roll photographer.<br />
+  <br />
+  On May 11, 1968, when her portrait of Eric Clapton was featured on the cover of &#8220;Rolling Stone&#8221;, she entered the record books as the first woman to have that honor. During her tenure as the leading photographer of the late 1960s&#8217; musical scene, she captured many of rock&#8217;s most important musicians on film, including Aretha Franklin, Jimi Hendrix, Bob Dylan, Janis Joplin, Simon &#038; Garfunkel, The Who, The Doors, and the Grateful Dead. In 1967, Linda went to London to document the &#8220;Swinging Sixties&#8221;, where she met Paul McCartney at the Bag &#8216;o Nails club and subsequently photographed the Beatles during a launch event for the Sgt. Pepper&#8217;s Lonely Hearts Club Band album. Paul and Linda fell in love, and were married on March 12, 1969.<br />
+  <br />
+  For the next three decades, until her untimely death, she devoted herself to her family, vegetarianism, animal rights, and photography. From her early rock &#8216;n&#8217; roll portraits, through the final years of the Beatles, via touring with Wings to raising four children with Paul, Linda captured her whole world on film. Her shots range from spontaneous family pictures to studio sessions with Stevie Wonder and Michael Jackson, as well as artists Willem de Kooning and Gilbert and George. Always unassuming and fresh, her work displays a warmth and feeling for the precise moment that captures the essence of any subject. Whether photographing her children, celebrities, animals, or a fleeting moment of everyday life, she did so without pretension or artifice. This retrospective volume &#8211; selected from her archive of over 200,000 images &#8211; is produced in close collaboration with Paul McCartney and their children. As such, it is a moving personal journal and a lasting testament to Linda&#8217;s talent.</p>
+details: |
+  - ISBN: 3836527286 / 978-3836527286
+  - Content: 288 pages
+  - Size: 265 × 36 × 374 mm
+  - Edited by: Alison Castle
+  - Contributions from: Annie Leibovitz, Martin Harrison
+  - Language: English
+  - Publishing date: 2011
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Taschen. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_COVER_Linda-1.jpg
+    id: 9473
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_.jpg
+    id: 9431
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_2-1.jpg
+    id: 9433
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_3-1.jpg
+    id: 9435
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_4-1.jpg
+    id: 9437
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_5-1.jpg
+    id: 9439
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_6.jpg
+    id: 9441
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_7.jpg
+    id: 9443
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/07/BOOK_SPREAD_8.jpg
+    id: 9445
+tags: [ ]
+
+----
+
+Uuid: jzWMzIhG5RiPNLfc

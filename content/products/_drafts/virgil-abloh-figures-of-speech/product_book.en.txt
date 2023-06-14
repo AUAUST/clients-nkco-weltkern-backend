@@ -1,0 +1,83 @@
+Title: Virgil Abloh|Figures of Speech
+
+----
+
+Multilinetitle:
+
+Virgil Abloh
+Figures of Speech
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Virgil Abloh <br>Figures of Speech'
+slug: virgil-abloh-figures-of-speech
+id: 3874
+isbn: 3791358574 / 978-3791358574
+price: 149.9
+weight: 2.5
+author:
+  name: Prestel
+  id: 112
+description: |
+  <p>Virgil Abloh&#8217;s story is both quintessentially and subversively American. Born to Ghanaian parents in Rockford, Illinois, he launched his career as a member of Kanye West&#8217;s creative team in 2002. Ever since, his diverse professional and artistic endeavors have spanned work at Fendi, art directing musical albums, launching a sports-inspired fashion label, developing a multi-platform brand, starting a furniture collection, launching a collaborative exhibition with Takashi Murakami, publishing a song, and forming a partnership with Nike. Most recently he was named artistic director at Louis Vuitton and performed at Lollapalooza.<br />
+  <br />
+  This multi-faceted and vibrant book accompanies the first retrospective of his work, which is being presented in his hometown of Chicago in 2019. Images of his creations in the world of fashion, furniture, graphic arts, architecture, and collaborations with other artists are accompanied by essays that view his work through the lens of the African diaspora and explore his remarkable fluidity between high and low culture. At the core of this book is Abloh&#8217;s deep interest in empowering young people, an optimistic stance that reflects his generous energy and willingness to turn the status quo on its head.</p>
+details: |
+  - ISBN: 3791358574 / 978-3791358574
+  - Content: 288 pages
+  - Size: 314 × 51 × 340 mm
+  - Edited by: Michael Darling
+  - Contributions from: Rem Koolhaas, Taiye Selasi, Lou Stoppard, Michael Rock
+  - Design: OK-RM
+  - Language: English
+  - Publishing date: 2019
+  - Specs: Hardcover
+  - Images: © Prestel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_VirgilAblohSPECIAL.jpg
+    id: 5528
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-58.jpg
+    id: 4191
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-57.jpg
+    id: 4193
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-56.jpg
+    id: 4195
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-41.jpg
+    id: 4197
+tags: [ ]
+
+----
+
+Uuid: nS2d3Wup23MNCzFs

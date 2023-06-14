@@ -1,0 +1,60 @@
+Title: Cold Revolution
+
+----
+
+Multilinetitle: Cold Revolution
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Cold Revolution
+slug: cold-revolution
+id: 15643
+isbn: 8867494507 / 978-8867494507
+price: 39.9
+weight: 0.8
+author:
+  name: Mousse Publishing
+  id: 111
+description: '<p>Stemming from an international conference and curatorial project at the Zachęta &#8211; National Gallery of Art, Warsaw, in 2020-2021, this publication is dedicated to socialist realism, a sensitive and problematic period in contemporary art history, interrogating the relationship between the visual culture of the 1950s and the radical social revolution that took place in Central and Eastern Europe in the &#8220;chilly&#8221; climate of rising international tensions and strengthening communist dictatorships.</p>'
+details: |
+  - ISBN: 8867494507 / 978-8867494507
+  - Content: 320 pages
+  - Size: 160 × 20 × 213 mm
+  - Edited by: Jérôme Bazin et Joanna Kordjak
+  - Texts by: Justyna Balisz-Schmelz, Jérôme Bazin, Irina Cărăbaș, Ralf Forster, Maja & Reuben Fowkes, Katerina Gadzheva, Wojciech Grzybała, Emma Hanzlíková, Sándor Hornyik, Sándor Horváth, Astrid Ihle, Constantin Iordachi, Dorota Jarecka, Vít Jakubíček, Marie Klimešová, Joanna Kordjak, Doreen Mende, Alina Mircea, Zsolt Petrányi, Agata Pietrasik Kristina Popova Nadège Ragaru Gábor Rieder, Hana Rousová, Piotr Rypson, Piotr Słodkowski, Oliver Sukrow, Aleksandra Sumorok, Ondřej Táborský, Monika Talarczyk, Irina Tulbure, Aneta Vasileva, Magdalena Ziółkowska
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_ColdRevolution.jpg
+    id: 15645
+tags: [ ]
+
+----
+
+Uuid: WewdflwTYRe0iRFc

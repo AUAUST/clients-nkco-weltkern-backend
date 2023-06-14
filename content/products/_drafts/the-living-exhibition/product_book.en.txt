@@ -1,0 +1,95 @@
+Title: The Living Exhibition
+
+----
+
+Multilinetitle: The Living Exhibition
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: The Living Exhibition
+slug: the-living-exhibition
+id: 18484
+isbn: 3959055635 / 978-3959055635
+price: 21.9
+weight: 0.2
+author:
+  name: Spector Books
+  id: 99
+description: '<p>The predominance of white cube, still the prevalent display model in contemporary art, can be traced back to the Enlightenment ideas that isolated things and removed them from their context. The series of exhibitions presented in this book are conceived of as ‘living exhibitions’ that break with this convention, suggesting that the strict separation between exhibit and viewer in the museum could be dissolved in favour an emphasis on interconnection and process. In lieu of seeing of exhibitions as a kind of vessel for content, filled by a changing assortment of objects and themes, the exhibitions featured here play with the format itself, focusing on time-based concepts that promote new kinds of encounters and a new, systemic worldview. As a result, the exhibitions may change daily—indeed, at any time—and take on a life of their own.</p>'
+details: |
+  - ISBN: 3959055635 / 978-3959055635
+  - Content: 292 pages
+  - Size: 130 × 195 mm
+  - Language: English
+  - Edited by: Thomas Oberender, Paul Rabe, Berliner Festspiele/ Immersion
+  - Publication: 2022
+  - Specs: Perfect bound softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition.jpg
+    id: 18510
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition-1.jpg
+    id: 18582
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition1-1.jpg
+    id: 18583
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition2.jpg
+    id: 18584
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition3.jpg
+    id: 18585
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition4.jpg
+    id: 18586
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition5.jpg
+    id: 18587
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition6.jpg
+    id: 18588
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition7.jpg
+    id: 18589
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_The-Living-Exhibition8.jpg
+    id: 18590
+tags: [ ]
+
+----
+
+Uuid: psLAA4h3ryZGrzTx

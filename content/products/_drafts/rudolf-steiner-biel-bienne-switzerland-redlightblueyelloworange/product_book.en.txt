@@ -1,0 +1,72 @@
+Title: Rudolf Steiner (Biel/Bienne, Switzerland)|Redlightblueyelloworange
+
+----
+
+Multilinetitle:
+
+Rudolf Steiner (Biel/Bienne, Switzerland)
+Redlightblueyelloworange
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Rudolf Steiner (Biel/Bienne, Switzerland) <br>Redlightblueyelloworange'
+slug: >
+  rudolf-steiner-biel-bienne-switzerland-redlightblueyelloworange
+id: 13511
+isbn: NO ISBN
+price: 12.5
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: ""
+details: |
+  - Supported by: Edition Fästing Plockare, Biel / Bienne
+  - Content: 24 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Softcover
+  Color Offset Print
+  First edition
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_F1.jpg
+    id: 13465
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_F2.jpg
+    id: 13467
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_F3.jpg
+    id: 13469
+tags: [ ]
+
+----
+
+Uuid: G340MH6h5UIovl7W

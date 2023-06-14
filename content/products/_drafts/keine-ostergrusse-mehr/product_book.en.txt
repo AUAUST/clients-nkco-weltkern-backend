@@ -1,0 +1,64 @@
+Title: Keine Ostergrüsse mehr!
+
+----
+
+Multilinetitle: Keine Ostergrüsse mehr!
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Keine Ostergrüsse mehr!
+slug: keine-ostergrusse-mehr
+id: 12858
+isbn: 3907236192 / 978-3907236192
+price: 49.5
+weight: 1.65
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>“No more Easter greetings!” it says on some of the file cards that were kept on guests at the Grand Hotel Waldhaus in Vulpera: apparently, the hotel didn’t want every guest to come back. Its concierge and receptionists stoically put up with the rude behavior of some of their illustrious and moneyed patrons, but noted these irksome experiences on individual file cards. In fact, the hotel staff discreetly watched their guests, listened in on their phone calls and kept notes on their various improprieties and unseemly behavior.<br />
+  <br />
+  Although tucked away in a Swiss alpine idyll, this grand Belle Époque hotel was not impervious to the tensions and upheavals that rocked European society between the wars and especially during World War II. So what did the receptionists say as they watched guests depart by the dozen in the wake of the 1932 bank crisis? Or when Easter greetings sent to Jewish guests came back marked “RETURN TO SENDER”, “NO LONGER AT THIS ADDRESS” or simply “UNDELIVERABLE”? How did they treat high-ranking Nazi guests during the war, or Jewish Holocaust survivors who came back to the hotel after the war? The Hotel Waldhaus burned down in 1989: it was arson, but the case has never been solved. Some 20,000 file cards on the hotel’s guests, however, were among the items salvaged from the remains. This rare resource provides an interesting look not only at the hotel’s erstwhile guests, but also at the staff who kept the files.</p>
+details: |
+  - ISBN: 3907236192 / 978-3907236192
+  - Content: 388 Pages
+  - Size: 190 × 35 × 270 mm
+  - Author: Martin Suter, Hans Heiss, Bettina Spoerri, Lois Hechenblaikner, Andrea Kühbacher
+  - Edited by: Lois Hechenblaikner, Andrea Kühbacher, Rolf Zollinger
+  - Design: TGG Hafen Senn Stieger
+  - Language: German
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/11/BOOK_COVER_Keine-Ostergrüsse-mehr.jpg
+    id: 12867
+tags: [ ]
+
+----
+
+Uuid: as8Z4bRu9nidJoCr

@@ -1,0 +1,62 @@
+Title: The Wood That Makes Our Cities
+
+----
+
+Multilinetitle: The Wood That Makes Our Cities
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: The Wood That Makes Our Cities
+slug: the-wood-that-makes-our-cities
+id: 18760
+isbn: 3038602583 / 978-3038602583
+price: 49.9
+weight: 1.2
+author:
+  name: Park Books
+  id: 88
+description: |
+  <p>Wood is an ideal building material for sustainable architecture. It grows back and absorbs large quantities of CO2. But where does it actually come from in each case, and how will we make forestry and wood processing fit for the future? In what ways are conventional notions of professions and qualifications in architecture, engineering, and construction tested by using wood as building material?</p>
+  <p>French journalist Michèle Leloup together with architect François Leclercq—a pioneer of timber construction in France—have for a long time explored the ecological, economic, industrial, and technical challenges of using timber for major structures and urban architecture. This book summarizes their findings using examples from the French forestry and construction industry. It also takes a look at Austria and the innovative work by Hermann Kaufmann, an internationally revered leader in the further development of traditional timber architecture. In addition, the book features five projects by Leclercq Associés.</p>
+  <p>Richly and attractively illustrated with new images by French architecture photographer Cyrille Weiner, The Wood That Makes Our Cities offers a concise survey of topical questions and findings in contemporary timber construction.</p>
+details: |
+  - ISBN: 3038602583 / 978-3038602583
+  - Content: 192 pages
+  - Size: 225 × 320 mm
+  - Language: English
+  - Contributions by: Christophe Catsaros, Andrée Corvol, Jean-Philippe Estner, Pascal Grosjean, Benjamin Kieffer, Paul Laigle, François Leclercq, Michèle Leloup, and Patrick Molinié. Photographs by Cyrille Weiner.
+  - Publishing date: 2022
+  - Specs: Hardback
+  - Images: © WELTKERN® / Park books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_TWTMOC.jpg
+    id: 21465
+tags: [ ]
+
+----
+
+Uuid: 8Ayc7BXXnLqM38Qt

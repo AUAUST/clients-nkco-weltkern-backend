@@ -1,0 +1,80 @@
+Title: Bowie Texas
+
+----
+
+Multilinetitle: Bowie Texas
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: Bowie Texas
+slug: bowie-texas
+id: 2629
+isbn: NO ISBN
+price: 59.9
+weight: 2
+author:
+  name: Edition Patrick Frey
+  id: 98
+description: |
+  <p>PierLuigi Macor took the tranquil, richly atmospheric photographs featured in Bowie, Texas over the course of five extended road trips from 2011 to 2016 across Montana, Texas and Colorado, up the Mississippi River and from New Orleans over to the high-desert town of Marfa, Texas. Driving around alone in his car far from the big cities, Macor pursued a single objective: to take good pictures and savor the satisfaction of getting the shot just right.<br />
+  This quest took him across North America’s iconic landscapes and gave rise time and again to close encounters of very different kinds. After just a few minutes’ conversation, one man — who turns out to be a fellow photographer, on his way to a baseball game with his son — spontaneously invites Macor to join them for a meal in a diner. Elsewhere, mistrustful sheriffs and other unsavory characters threaten him with lethal weapons. He comes across Mexican street vendors and drunken rednecks alike, as well as an espresso bar under the pink skies of Detroit, of all places. PierLuigi Macor delicately and perceptively captures these cinematic scenes of everyday life in America and the individual fates he encountered on the road.<br />
+  Taken together, these widely diverse and richly atmospheric photographs go to make up a visual novel of lyrical poignancy. Landscapes, roads and houses, even the people he portrays, need no names to tell their story. The photos are fragments of present-day reality in America, unstaged and highly evocative, even elegiac.<br />
+  A representative cross-section of his very expressive non-commercial work, this volume presents a selection of Macor’s personal color photographs for the first time.</p>
+details: |
+  - ISBN / EAN: 978-3-906-80357-9 / 3906803579
+  - Content: 180 pages
+  - Size: 280 × 28 × 335 mm
+  - Author: PierLuigi Macor
+  - Design: Studio Achermann Zürich
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Hardcover
+  - Images: © Edition Patrick Frey, All rights reserved
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_BowieTexas.jpg
+    id: 2643
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4.jpg
+    id: 2651
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3.jpg
+    id: 2649
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2.jpg
+    id: 2647
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_.jpg
+    id: 2645
+tags: [ ]
+
+----
+
+Uuid: ZJpoQT32VQYM78l4

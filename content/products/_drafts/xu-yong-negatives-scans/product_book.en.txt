@@ -1,0 +1,73 @@
+Title: Xu Yong|Negatives: Scans
+
+----
+
+Multilinetitle:
+
+Xu Yong
+Negatives: Scans
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Xu Yong <br>Negatives: Scans'
+slug: xu-yong-negatives-scans
+id: 21622
+isbn: 3954762986 / 978-3954762989
+price: 43.5
+weight: 1
+author:
+  name: Distanz
+  id: 366
+description: '<p>Xu Yong (b. China, 1954; lives and works in Beijing, China) makes art that scrutinizes the photographic medium and its documentary variants and interpretations. An autodidact with a background in advertising, the artist is fascinated by the influence that images have on our collective memories. In 1989, a 35-year-old Yong joined the protesters on Tiananmen Square and used his camera to record the events on celluloid. The publication Negatives: Scans is the second series he presents in the form of unprocessed film. As in the earlier Negatives series, released in 2014, Yong uncovers a censored history, testing the hypothesis that the photographic negative—a preliminary stage on the way to the photograph properly speaking—provides more cogent evidence than analog or digital photography. This focus makes his compilation of documentary pictures an analytical study in the power of images and their ability to shed light on cultural taboos and historical amnesia. With essays by Gérard A. Goodrow and Shu Yang.</p>'
+details: |
+  - ISBN: 3954762986 / 978-3954762989
+  - Content: 136 pages
+  - Size: 260 × 340 mm
+  - Language: German / English
+  - Publishing date: 2019
+  - Specs: Hardcover with Linen
+  - Images: © WELTKERN® / Distanz. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Negatives-Scans.jpg
+    id: 21623
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_SPREAD_1-2.jpg
+    id: 21624
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_SPREAD_2-2.jpg
+    id: 21625
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_SPREAD_3-2.jpg
+    id: 21626
+tags: [ ]
+
+----
+
+Uuid: zv9eQufpFLxHom9W

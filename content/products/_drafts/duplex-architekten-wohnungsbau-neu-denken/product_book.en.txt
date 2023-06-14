@@ -1,0 +1,106 @@
+Title: Duplex Architekten|Wohnungsbau neu denken
+
+----
+
+Multilinetitle:
+
+Duplex Architekten
+Wohnungsbau neu denken
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Duplex Architekten <br>Wohnungsbau neu denken'
+slug: >
+  duplex-architekten-wohnungsbau-neu-denken
+id: 12294
+isbn: 3038602309 / 978-3038602309
+price: 64.9
+weight: 2.1
+author:
+  name: Park Books
+  id: 88
+description: |
+  <p>Duplex Architects were founded in 2007 in Zurich and now also run offices in Dusseldorf, Hamburg, and, most recently, in Paris. They have gained an excellent reputation internationally for their designs of various scales and across a vast range of typologies.<br />
+  <br />
+  This first monograph on Duplex Architects&#8217; work in Germany and Switzerland offers a close look at their approach to housing design. Five projects in Switzerland are documented extensively through a wealth of images, plans, and visualisations, exemplifying the firm&#8217;s position on urban planning, typology research, and materiality and demonstrating their utterly independent way of working. Urban scale, search for new forms of communal living, the importance of community, and a collaborative design process are at the core of Duplex Architects&#8217; explorations into residential architecture.<br />
+  <br />
+  Nele Dechmann&#8217;s text and Ludovic Balland&#8217;s photo essay serve to illuminate Duplex Architects&#8217; work each in their own way. Further texts are contributed by the firm&#8217;s founding partners Anne Kaestle and Dan Schurch, as well as by other expert authors, who cast their own personal glance at the five projects featured in this book.</p>
+details: |
+  - ISBN: 3038602309 / 978-3038602309
+  - Content: 320 Pages
+  - Size: 234 × 31 × 304 mm
+  - Authors: Ludovic Balland, Nele Dechmann
+  - Texts by: Nele Dechmann
+  - Design: Ludovic Balland, Jana Lill, Annina Schepping, Valentin Kopka, Pascal Sennhauser, Dominik Lang
+  - Language: German
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN®. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_COVER_Duplex.jpg
+    id: 12299
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_1-8.jpg
+    id: 12301
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_2-8.jpg
+    id: 12303
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_3-8.jpg
+    id: 12305
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_4-7.jpg
+    id: 12307
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_5-5.jpg
+    id: 12309
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_6-5.jpg
+    id: 12311
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_7-5.jpg
+    id: 12313
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_SPREAD_8-4.jpg
+    id: 12315
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/10/BOOK_COVER_Duplex_BACK.jpg
+    id: 12297
+tags: [ ]
+
+----
+
+Uuid: EGeEnVDyCte2EqxU

@@ -1,0 +1,65 @@
+Title: Against and for Method|Revisiting Architectural Design as Research
+
+----
+
+Multilinetitle:
+
+Against and for Method
+Revisiting Architectural Design as Research
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Against and for Method <br>Revisiting Architectural Design as Research'
+slug: >
+  against-and-for-method-revisiting-architectural-design-as-research
+id: 18748
+isbn: 3856764135 / 978-3856764135
+price: 30.9
+weight: 0.2
+author:
+  name: gta Verlag
+  id: 324
+description: '<p>Can design processes constitute genuine forms of research? Of course they can. Against and for Method highlights exemplary cases of how studio architects teach architectural design, both with and without methodological and research ap­proaches strictly in mind. This edited volume openly addresses deficiencies in studio teaching and proposes possibilities for integrating methodological approaches into teaching and practice. Contributions by leading scholars in architecture, plus interviews with five practicing architects who are studio professors at ETH Zurich, reveal the ways in which design concepts are considered, teased apart and passed along. ­The texts contributions and interviews intend to urge studio teachers to reflect on their ­methods and consider to what extent systematic and conceptually coherent approaches aid their students.</p>'
+details: |
+  - ISBN: 3856764135 / 978-3856764135
+  - Content: 284 pages
+  - Size: 110 × 177 mm
+  
+  - Language: English
+  - Edited by: Jan Silberberger
+  - Graphic design: Brighten the Corners
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Gta Verlag. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Jan-Silberberger.jpg
+    id: 18752
+tags: [ ]
+
+----
+
+Uuid: vSM62M6pQnouLAH3

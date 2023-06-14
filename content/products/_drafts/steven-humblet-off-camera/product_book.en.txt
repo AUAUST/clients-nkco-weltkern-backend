@@ -1,0 +1,62 @@
+Title: Steven Humblet|Off Camera
+
+----
+
+Multilinetitle:
+
+Steven Humblet
+Off Camera
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Steven Humblet <br>Off Camera'
+slug: steven-humblet-off-camera
+id: 15299
+isbn: 9492811882 / 978-9492811882
+price: 32.8
+weight: 1.1
+author:
+  name: Roma Publications
+  id: 268
+description: '<p>Visual manifesto with works by 47 artists, exploring the notion of ‘the photographic’, an analysis of the effects the technical image has on the visual culture as a whole. The photo essay focuses on contemporary artistic practises and experimental approaches to photography, divided into four themes: The Photographic Fossil, Chemical Matter, Optical Confusion, and Performing the Image. The accompanying text insert, with contributions by Steven Humblet, Marc De Blieck, Liz Deschenes, Markus Kramer, and Joanna Zylinska, engages a discourse among artists and intellectuals on defining photography and technique. <em>Off Camera</em> is the conclusion of a research project carried out by Belgian researcher Steven Humblet’s group, Thinking Tools, at the Royal Academy of Fine Arts, Antwerp.</p>'
+details: |
+  - ISBN: 9492811882 / 978-9492811882
+  - Content: 152 pages
+  - Size: 240 × 310 mm
+  - Edited by: Steven Humblet
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_OffCamera.jpg
+    id: 15300
+tags: [ ]
+
+----
+
+Uuid: FJ3qqtXHxHkzXokU

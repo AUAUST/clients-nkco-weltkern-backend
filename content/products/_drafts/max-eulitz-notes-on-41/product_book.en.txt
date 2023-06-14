@@ -1,0 +1,65 @@
+Title: Max Eulitz|Notes on 41
+
+----
+
+Multilinetitle:
+
+Max Eulitz
+Notes on 41
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Max Eulitz <br>Notes on 41'
+slug: max-eulitz-notes-on-41
+id: 16412
+isbn: 3959055676 / 978-3959055673
+price: 11.9
+weight: 0.2
+author:
+  name: Spector Books
+  id: 99
+description: '<p>In the beginning was the word. Or rather, a rumour that put Max Eulitz on a flight to Kyiv in 2019. He was following the chatter about an ambitious new techno club: one without a name, yet full of promise. During a residency at the Goethe-Institut Kyiv, Eulitz witnessed the transformation of a massive, Soviet-era brewery into this no-name club—a centre of subculture intent on rivalling the best techno churches of the Western world. This landmark site, and the implications of its historical transmutation into such a space, became the focus of his research. Notes on 41 is a collection of essays illustrating the circumstances surrounding the creation of this nightclub. The book outlines structural challenges and the historical context, which imbue this site with such vitality, in Kyiv’s post-Maidan landscape. The issues raised consider the complexity of the sociopolitical situation in Ukraine.</p>'
+details: |
+  - ISBN: 3959055676 / 978-3959055673
+  - Content: 152 pages
+  - Size: 110 × 175 mm
+  - Authors: Max Eulitz
+  - Texts by: Lian Rangkuty, Yustyna Kravchuk
+  - Edited by: Spector Books
+  - Design: Hannes Drißner
+  - Language: Ukrainian / English
+  - Publishing date: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Spector Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_Noteson41.jpg
+    id: 16413
+tags: [ ]
+
+----
+
+Uuid: hZzsZ6D950XLpZUT

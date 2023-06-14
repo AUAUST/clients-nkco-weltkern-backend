@@ -1,0 +1,108 @@
+Title: Virgil Abloh™|Nike® ICONS
+
+----
+
+Multilinetitle:
+
+Virgil Abloh™
+Nike® ICONS
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Virgil Abloh™ <br>Nike® ICONS'
+slug: virgil-abloh-nike-icons-copy
+id: 3904
+isbn: 3037640104 / 978-3037640104
+price: 69.5
+weight: 2.5
+author:
+  name: Taschen
+  id: 91
+description: |
+  <p>In 2016, sportswear manufacturer Nike and fashion designer Virgil Abloh joined forces to create a sneaker collection celebrating 10 of the Oregon-based company’s most iconic shoes. With their project The Ten―which reimagines icons like Air Jordan 1, Air Max 90, Air Force 1, and Air Presto, among others―they reinvigorated sneaker culture.<br />
+  <br />
+  Virgil Abloh’s new designs offer deep insights into engineering ingenuity and burst with cultural cachet. Drawing on the genius of the original shoe using lettering, ironic labels, collage, and sculpting techniques, Abloh plays with language and sculptural elements to construct new meaning. Inspired by the wit of Dadaism, architectural theory, and avant-garde happenings, he analyzes what makes each shoe iconic and deconstructs it into an artistic assemblage, making each shoe into a piece of industrial design, a readymade sculpture, and a wearable all at once.Icons traces Abloh’s investigative, creative process through documentation of the prototypes, original text messages from Abloh to Nike designers, and treasures from the Nike archives. We find Swooshes sliced away from Air Jordans and reapplied with tape or thread, Abloh’s typical text fragments in quotation marks on Air Force 1, and All Stars cut into pieces. We take a look behind the scenes and witness Abloh’s DIY approach, which gives each model in the Off-WhiteTM c/o Nike collection its own unique touch.<br />
+  <br />
+  The book documents Abloh’s cooperative way of working and reaffirms the power of print. For its design Nike and Abloh partnered with the acclaimed London-based design studio Zak Group. Together they conceived a two-part compendium, equal parts catalog and conceptual toolbox. The first part of the book presents a visual culture of sneakers while a lexicon in the second part defines the key people, places, objects, ideas, materials, and scenes from which the project grew. Texts by Nike’s Nicholas Schonberger, writer Troy Patterson, curator and historian Glenn Adamson, and Virgil Abloh himself frame the collaborative work within fashion and design history. A foreword by Hiroshi Fujiwara places the project within the historical continuum of Nike collaborators.</p>
+details: |
+  - ISBN: 3037640104 / 978-3037640104
+  - Content: 352 pages
+  - Size: 241 × 37 × 292 mm
+  - Author: Virgil Abloh
+  - Design: Zak Group
+  - Language: English
+  - Publishing date: 2021
+  - Specs: Hardcover, Swiss binding
+  - Images: © Taschen. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_COVER_VAA_icone.jpg
+    id: 1882
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_COVER_VAA_icone2.jpg
+    id: 1884
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_COVER_VAA_icone3.jpg
+    id: 1886
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone8.jpg
+    id: 1902
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone7.jpg
+    id: 1900
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone6.jpg
+    id: 1898
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone5.jpg
+    id: 1896
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone4.jpg
+    id: 1894
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone3.jpg
+    id: 1892
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone2.jpg
+    id: 1890
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/02/BOOK_SPREAD_VAA_icone1.jpg
+    id: 1888
+tags: [ ]
+
+----
+
+Uuid: 6wknZzmTIKkzG3In

@@ -1,0 +1,95 @@
+Title: Alexandra Dautel|May You Continue To Blossom
+
+----
+
+Multilinetitle:
+
+Alexandra Dautel
+May You Continue To Blossom
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Alexandra Dautel <br>May You Continue To Blossom'
+slug: >
+  alexandra-dautel-may-you-continue-to-blossom
+id: 18525
+isbn: 3907333006 / 978-3907333006
+price: 37.9
+weight: 0.2
+author:
+  name: Cpress
+  id: 327
+description: '<p>Alexandra Dautel’s May You Continue to Blossom is a critical investigation into the nature of illusion, told via the story of Neot Semadar – a kibbutz and self-styled utopia in the desert of Southern Israel. Through a feverish, layered constellation of words and images, it walks the line between delusion and belief, visually exploring the texture and terms of ideology, and asking what lies behind the construction of an ideal place. </p>'
+details: |
+  - ISBN: 3907333006 / 978-3907333006
+  - Content: 224 pages
+  - Size: 200 × 260 mm
+  - Language: English
+  - Graphic Design by: Alexandra Dautel, Studio Nüssli+Nuessli
+  - Publication: 2021
+  - Specs: Softcover
+  - Images: © WELTKERN® / Cpress. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_AlexandraDautel.jpg
+    id: 18504
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_AlexandraDautel1.jpg
+    id: 18505
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_May-You-Continue-To-Blossom.jpg
+    id: 18557
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_May-You-Continue-To-Blossom2.jpg
+    id: 18558
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_May-You-Continue-To-Blossom4.jpg
+    id: 18560
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_May-You-Continue-To-Blossom5.jpg
+    id: 18561
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_May-You-Continue-To-Blossom6.jpg
+    id: 18562
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_May-You-Continue-To-Blossom7.jpg
+    id: 18563
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_May-You-Continue-To-Blossom8.jpg
+    id: 18564
+tags: [ ]
+
+----
+
+Uuid: 4V1Nlo7jWylrXqIu

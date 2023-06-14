@@ -1,0 +1,67 @@
+Title: Patrice Carré|Loin hop
+
+----
+
+Multilinetitle:
+
+Patrice Carré
+Loin hop
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Patrice Carré <br>Loin hop'
+slug: patrice-carre-loin-hop
+id: 15107
+isbn: 1096155125 / 979-1096155125
+price: 36.3
+weight: 1
+author:
+  name: Tombolo Presses
+  id: 282
+description: |
+  <p>Patrice Carré is a sculptor and a music lover whose work is developed in a mixture of freedom and constraint specific to music (whether or not his sculptures and &#8220;arrangements&#8221; include a sound dimension). This monograph traces the development, since the 1980s, of a work with a singular poetic tone.<br />
+  Loin Hop is Patrice Carré&#8217;s second major monograph. The book, directed by Thibaut Robin, is organized like a playful, sonorous and tasty landscape to be traversed in any direction. The colorful climate varies from one region to another. Its format corresponds to Hergé&#8217;s adventure comic books.<br />
+  Through 120 reproductions of sculptures, installations, objects, situations, photomontages, photographs by Patrice Carré, three texts by Catherine Elkar, Lise Guéhenneux, Emmanuel Latreille, two reproductions of fetish paintings that are four hundred and six years old, a long interview with Alexandre Castant, forty-six very graphic iconographic notes, one can discover the work of the artist since the late 1980s.</p>
+details: |
+  - ISBN: 1096155125 / 979-1096155125
+  - Content: 180 pages
+  - Size: 224 × 295 mm
+  - Author: Patrice Carré
+  - Texts by: Patrice Carré, Alexandre Castant, Catherine Elkar, Lise Guéhenneux, Emmanuel Latreille.
+  - Design: Thibaut Robin
+  - Language: French
+  - Publishing date: 2020
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_LoinHop.jpg
+    id: 15119
+tags: [ ]
+
+----
+
+Uuid: vRubEwYMBvoZO4RM

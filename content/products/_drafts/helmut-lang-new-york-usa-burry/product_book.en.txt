@@ -1,0 +1,71 @@
+Title: HELMUT LANG (New York, USA)|Burry
+
+----
+
+Multilinetitle:
+
+HELMUT LANG (New York, USA)
+Burry
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'HELMUT LANG (New York, USA) <br>Burry'
+slug: helmut-lang-new-york-usa-burry
+id: 13514
+isbn: NO ISBN
+price: 12.5
+weight: 0.1
+author:
+  name: Innen Zines
+  id: 263
+description: ""
+details: |
+  - Supported by: Edition Fästing Plockare, Biel / Bienne
+  - Content: 28 Pages
+  - Size: 130 × 190 mm
+  - Language: English
+  - Publishing date: 2018
+  - Specs: Softcover
+  Black & White Offset Printed
+  Edition of 1000
+  - Images: © WELTKERN® / innen zines. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_I1.jpg
+    id: 13483
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_I2.jpg
+    id: 13485
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_innenzines_I3.jpg
+    id: 13487
+tags: [ ]
+
+----
+
+Uuid: 9oCcdHvjpafofckR

@@ -1,0 +1,87 @@
+Title: Erik Brunetti|Oval Parody
+
+----
+
+Multilinetitle:
+
+Erik Brunetti
+Oval Parody
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Erik Brunetti <br>Oval Parody'
+slug: erik-brunetti-oval-parody
+id: 25212
+isbn: 8897185222 / 978-8897185222
+price: 47.9
+weight: 2.1
+author:
+  name: KALEIDOSCOPE
+  id: 242
+description: |
+  <p>Published by KALEIDOSCOPE, edited by Alessio Ascari, and designed by Swiss-based art direction firm Kasper-Florio, “Erik Brunetti: Oval Parody” is a new artist book published on the occasion of the exhibition of the same title at Spazio Maiocchi, Milan.</p>
+  <p>Inspired by FUCT’s now defunct parody of the Ford logo—the iconic graphics that cemented Brunetti’s authority as the original subverter of what is now called streetwear, and played a key early role in establishing reappropriation as a fundamental gesture within its lexicon—“Oval Parody” centers on a new series of twelve acrylic paintings furthering Brunetti’s thought-provoking feedback loop of reference, interpretation, and creation. </p>
+  <p>Featuring an essay by Adam Wray, the book is punctuated by Brunetti’s annotations, first-hand anecdotes, and rarely-seen images stemming directly from FUCT’s archives. </p>
+  <p>Erik Brunetti (American, b. 1967) is an American artist, designer, and founder of the cult Los Angeles brand FUCT.</p>
+details: |
+  - ISBN: 8897185222 / 978-8897185222
+  - Content: 60 pages
+  - Size: 260 × 325 mm
+  - Author: Alessio Ascari
+  - Design: Kasper Florio
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / Kaleidoscope. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/ERIK-BRUNETTI_OVAL-PARODY_COVER_.jpg
+    id: 25218
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/ERIK-BRUNETTI_OVAL-PARODY_SPREAD_05_.jpg
+    id: 25213
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/ERIK-BRUNETTI_OVAL-PARODY_SPREAD_04_.jpg
+    id: 25214
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/ERIK-BRUNETTI_OVAL-PARODY_SPREAD_03_.jpg
+    id: 25215
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/ERIK-BRUNETTI_OVAL-PARODY_SPREAD_02_.jpg
+    id: 25216
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/12/ERIK-BRUNETTI_OVAL-PARODY_SPREAD_01_.jpg
+    id: 25217
+tags: [ ]
+
+----
+
+Uuid: TlWYk5LKG1nbLoZo

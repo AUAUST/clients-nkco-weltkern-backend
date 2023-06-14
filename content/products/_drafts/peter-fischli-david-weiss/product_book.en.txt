@@ -1,0 +1,58 @@
+Title: Peter Fischli & David Weiss
+
+----
+
+Multilinetitle: Peter Fischli & David Weiss
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Peter Fischli & David Weiss'
+slug: peter-fischli-david-weiss
+id: 22231
+isbn: 0714843237 / 978-0714843230
+price: 38.5
+weight: 1.1
+author:
+  name: Phaidon Press
+  id: 92
+description: '<p>Peter Fischli and David Weiss are highly prestigious contemporary artists, positioned at the very cutting edge of new art, who work collaboratively on sculpture, photography and video. This is the first time they have agreed to the publication of a monograph on their work.</p>'
+details: |
+  - ISBN: 0714843237 / 978-0714843230
+  - Content: 160 pages
+  - Size: 250 × 290 mm
+  - Language: English
+  - Publishing date: 2005
+  - Specs: Softcover
+  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/08/BOOK_COVER_PeterFDavidW.jpg
+    id: 22334
+tags: [ ]
+
+----
+
+Uuid: 5aarf3fGbouEWS9F

@@ -2,7 +2,8 @@
 
 use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
-use auaust\products\WK1;
+use AUAUST\products\WK1;
+use Kirby\Data\Yaml;
 
 return [
   [
@@ -167,7 +168,7 @@ return [
     }
   ],
   [
-    'pattern' => 'update-weltkern',
+    'pattern' => 'isbn',
     'language' => '*',
     'action' => function () {
       $productsPage = page('products');
@@ -186,16 +187,74 @@ return [
         }
 
         $isbns .= $isbn . '<br>';
-
-        // $product = $product->update([
-        //   'isbn' => [
-        //     '10' => $product->isbn(),
-        //     '13' => $product->isbn13(),
-        //   ]
-        // ]);
       }
 
       return 'Missing ISBN: ' . $noisbn . '<br><br>' . $isbns;
     }
   ],
+  [
+    'pattern' => 'migration',
+    'language' => '*',
+    'action' => function () {
+      $productsPage = page('products');
+      $products = $productsPage->drafts();
+
+      $contents = [];
+
+
+
+      foreach ($products as $product) {
+        $oldWeltkern = $product->oldWeltkern()->toObject();
+        $details =
+          (function () use ($oldWeltkern) {
+            $yaml = Yaml::decode(
+              $oldWeltkern->details()->toString()
+            );
+
+            $data = [];
+
+            foreach ($yaml as $pair) {
+              // Some details are not in a key-value pair format but rather a simple string
+              // We skip those
+              if (!is_array($pair)) {
+                continue;
+              }
+
+              foreach ($pair as $key => $value) {
+                $data[$key] = $value;
+              }
+            }
+
+
+            return $data;
+          }
+          )();
+
+
+        try {
+          $contents[] = [
+            'wk1-slug' => $oldWeltkern->slug()->toString(),
+            'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
+            'dimensions' => WK1::fixDimensions($details['Size']),
+          ];
+        } catch (Exception $e) {
+          $contents[] = 'Errored: ' . $e->getMessage() . ' (' . $e->getFile() . ', ' . $e->getLine() . ')';
+        }
+      }
+
+
+
+      return dump($contents, false);
+    }
+  ],
+  [
+    'pattern' => 'option/(:all)',
+    'language' => '*',
+    'action' => function ($lang, $option) {
+      return dump(
+        kirby()->option($option, 'Not found'),
+        false
+      );
+    }
+  ]
 ];

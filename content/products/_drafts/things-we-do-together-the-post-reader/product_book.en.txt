@@ -1,0 +1,71 @@
+Title: Things We Do Together|The Post-Reader
+
+----
+
+Multilinetitle:
+
+Things We Do Together
+The Post-Reader
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Things We Do Together <br>The Post-Reader'
+slug: things-we-do-together-the-post-reader
+id: 14959
+isbn: 8867494414 / 978-8867494415
+price: 23.2
+weight: 0.7
+author:
+  name: Mousse Publishing
+  id: 111
+description: |
+  <p>Things We Do Together. The Post-Reader is a collection of essays and honest conversations with practitioners, based on experiences and observations of long-term processes taking place at the intersection of art, education, and activism.<br />
+  <br />
+  Collaboration is more than just a mechanism for the collective management of resources. It can be a way of disrupting the systems existing both in the art world and in everyday life, where capitalism and extreme individualism lead to the collapse of communities and the deepening of social inequalities.<br />
+  <br />
+  Artists, activists, researchers and educators initiate social situations all over the world—in places where institutions fail them, they establish their own. They work collectively for the benefit of the community and in cooperation with the community. The scope of influence of their practices is more often located outside the gallery than inside. They treat art as a tool for building a community, not for producing sellable goods. Their practices are based on research, process, and long-term collaboration involving exchange, generosity, and trust. They are willing to bear the associated risks. They oppose the laws of the market and focus on teamwork, solidarity, and the gift economy. They redefine the concept of art and help to hack systems. They produce alternative teaching and unlearning systems, new economies and spaces of imagination.<br />
+  <br />
+  In their practice, the authors and protagonists of this post-reader use skills from across a number of fields, they support and create communities around the world—in Ursus, Poland; in the Amazon, in a village in Java, or in the suburbs of New Orleans. Collected in this volume, the reports from many years of experience of practitioners from Ukraine, Poland, Indonesia, Mexico, the USA, and Brazil can be treated as a road map, a compendium of approaches, recommendations, and as inspiration for action.</p>
+details: |
+  - ISBN: 8867494414 / 978-8867494415
+  - : 340 pages
+  - Size: 152 × 225 mm
+  - Authors: Marianna Dobkowska, Krzysztof Łukomski
+  - Edited by: Mousse Publishing
+  - Language: English
+  - Design: Krzysztof Bielecki
+  - Publishing date: 2020
+  - Specs: Softcover
+  - Images: © WELTKERN® / Mousse Publishing. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/01/BOOK_COVER_ThingsWeDoTogether.jpg
+    id: 14969
+tags: [ ]
+
+----
+
+Uuid: rplrzcBMMoaTtwfj

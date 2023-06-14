@@ -1,0 +1,79 @@
+Title: Living High|Trinity Tower, Paris La Défense
+
+----
+
+Multilinetitle:
+
+Living High
+Trinity Tower, Paris La Défense
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Living High <br>Trinity Tower, Paris La Défense'
+slug: >
+  living-high-trinity-tower-paris-la-defense-2
+id: 23360
+isbn: 3038602705 / 978-3038602705
+price: 42.9
+weight: 1.1
+author:
+  name: Park Books
+  id: 88
+description: |
+  <p>Located in the business district La Défense of Paris, Trinity is a thirty-two-story office tower, built ex nihilo on a concrete slab poured above a seven-lane roadway. Designed by Paris-based firm Cro&#038;Co Architecture, it provides 3,500 square meters of landscaped public space and links two previously disconnected neighborhoods within La Défense, enhancing the quality of life of its users. Diverging from traditional office building design, Trinity Tower is a unique high-rise with an offset transparent core, conceived to facilitate open interaction with its environment, and to promote new forms of working through its shared spaces, terraces, and balconies, and an accessible rooftop. It marks a break with the inward-looking buildings that have predominated in La Défense so far and that are indifferent to their surroundings. By creating public and semi-public space, Trinity Tower proposes inhabiting the heights and making use of aspects that are rarely exploited in high-rise buildings<br />
+  <br />
+  This book, published in collaboration with the Paris-based agency Metropolis, shows through texts by architect and writer Olivier Namias and images by photographer Luc Boegly how the Trinity Tower project’s different views were made, the iterations that led to a system where vision connects, assembles and brings together. It reveals the elements involved in making these various views, destined to disappear as construction advanced.<br />
+  <br />
+  Living high, the first book on the work of the acclaimed firm Cro&#038;Co Architecture, is a deep dive into a truly unique structure, making the case for high-rise buildings based on the conviction that height will play a key role in tomorrow’s city.</p>
+details: |
+  - ISBN: 3038602705 / 978-3038602705
+  - Content: 148 pages
+  - Size: 220 × 320 mm
+  - Language: English / French
+  - Publishing date: 2021
+  - Specs: Hardcover
+  - Images: © WELTKERN® / Park Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_COVER_livinghigh.jpg
+    id: 23368
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_lh1.jpg
+    id: 23369
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_lh2.jpg
+    id: 23370
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/09/BOOK_SPREAD_lh3.jpg
+    id: 23371
+tags: [ ]
+
+----
+
+Uuid: 8TToxPWAovfvbQ6a

@@ -1,0 +1,64 @@
+Title: RESOLUTION Magazine #0|The Pixel
+
+----
+
+Multilinetitle:
+
+RESOLUTION Magazine #0
+The Pixel
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'RESOLUTION Magazine #0 <br>The Pixel'
+slug: resolution-magazine-0-the-pixel
+id: 17705
+isbn: 9493148192 / 978-9493148192
+price: 9.9
+weight: 0.2
+author:
+  name: Onomatopee
+  id: 319
+description: '<p>This issue of RESOLUTION looks at the most elementary building block of a digital image. It is nerdy, utterly unsexy, but nevertheless has remained enigmatic. This issue looks at pixel from a technical, ethical, artistic, and and economic viewpoint.</p>'
+details: |
+  - ISBN: 9493148192 / 978-9493148192
+  - Content: 96 pages
+  - Size: 170 × 267 mm
+  
+  - Language: English
+  - Edited by: Maria João Baltazar, Tomé Saldanha Quadros
+  - Graphic design: D-E-A-L
+  - Publishing date: 2019
+  - Specs: Softcover
+  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_RESOLUTIONmagazineThePixel.jpg
+    id: 17687
+tags: [ ]
+
+----
+
+Uuid: 7egpQVpon9Ux14CG

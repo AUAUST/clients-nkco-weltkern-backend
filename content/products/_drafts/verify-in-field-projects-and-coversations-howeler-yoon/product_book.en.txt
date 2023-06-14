@@ -1,0 +1,67 @@
+Title: Verify in Field|Projects and Coversations Höweler + Yoon
+
+----
+
+Multilinetitle:
+
+Verify in Field
+Projects and Coversations Höweler + Yoon
+
+----
+
+Publisher: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Image: 
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
+
+----
+
+Oldweltkern:
+
+title: 'Verify in Field <br>Projects and Coversations Höweler + Yoon'
+slug: >
+  verify-in-field-projects-and-coversations-howeler-yoon
+id: 16218
+isbn: 3038602248 / 978-3038602248
+price: 48.5
+weight: 0.8
+author:
+  name: Park Books
+  id: 88
+description: |
+  <p>Höweler + Yoon Architecture, founded in 2001 and based in Boston, gained early praise for ephemeral and interactive public projects and today is recognized for striking works that combine conceptual imagination and technological sophistication. The firm&#8217;s impressive body of work has expanded the scope of design beyond traditional disciplinary boundaries and has won them numerous national and international awards. Verify in Field is Höweler + Yoon&#8217;s second book. Its title derives from a notational convention on architectural drawings to indicate that the information is subject to unknown conditions in the field. The book highlights verification as an integral part of the design process and demonstrates it as a productive tool to test ideas and act on the world.<br />
+  <br />
+  For both disciplinary and contractual reasons, the instruments of design&#8211;drawings, models, and prototypes&#8211;operate on the world at a distance. Techniques of prototyping, measurement, feedback, negotiation, and intervention inform the diverse output of the studio. Verify in Field features recent designs by Höweler + Yoon, including such projects as the Memorial to Enslaved Laborers at the University of Virginia; a floating outdoor classroom in Philadelphia; the MIT Museum; and a pedestrian bridge in Shanghai&#8217;s Expo Park. The book also examines the discipline&#8217;s pressing questions, as they relate to verification, uncertainty, and agency, in a series of essays by Eric Höweler and J. Meejin Yoon on topics that include means and methods, the public realm, energy and environments, the construction detail, and social media. These themes are echoed in conversations with collaborators, historians, and theorists: Adam Greenfield, Nader Tehrani, Kate Orff, Daniel Barber, and Ana Miljacki.</p>
+details: |
+  - ISBN: 3038602248 / 978-3038602248
+  - Content: 360 pages
+  - Size: 195 × 235 mm
+  - Author: Eric Höweler, J. Meejin Yoon
+  - Edited by: Park Books
+  - Language: English
+  - Publishing date: 2022
+  - Specs: Paperback
+  - Images: © WELTKERN® / Park Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/02/BOOK_COVER_Verify-in-Field.jpg
+    id: 16219
+tags: [ ]
+
+----
+
+Uuid: IT0UxbF0dv7pNiI0
