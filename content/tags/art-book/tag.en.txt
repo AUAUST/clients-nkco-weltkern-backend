@@ -2,11 +2,7 @@ Title: Art book
 
 ----
 
-Description: 
-
-----
-
-Tagsets: 
+Description:
 
 ----
 
@@ -14,4 +10,4 @@ Uuid: muF468j3SMGNku7K
 
 ----
 
-Text: 
+Text:

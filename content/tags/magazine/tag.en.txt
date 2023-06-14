@@ -2,11 +2,7 @@ Title: Magazine
 
 ----
 
-Description: 
-
-----
-
-Tagsets: - page://vbr9b8BBJIsAoqUx
+Description:
 
 ----
 
@@ -14,4 +10,4 @@ Uuid: r56ykyl0yoUpqw5b
 
 ----
 
-Text: 
+Text:

@@ -2,15 +2,8 @@ Title: Books
 
 ----
 
-Tags:
-
-- page://muF468j3SMGNku7K
-- page://1DzbScEzO2MKVRnr
-
-----
-
 Uuid: pY1Bh4OaeZg6PIHt
 
 ----
 
-Text: 
+Text:
