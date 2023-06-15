@@ -30,7 +30,7 @@ return [
         'status' => 'ok',
         'data' => [
           'count' => $products->count(),
-          'products' => $products->pluck('slug'),
+          'products' => $products->pluck('dataArray'),
         ]
       ],
       200

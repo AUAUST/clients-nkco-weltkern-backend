@@ -74,4 +74,16 @@ class ProductBookPage extends Page
       $title
     );
   }
+
+  /**
+   * Return the book's data, structured for the API
+   */
+  public function dataArray()
+  {
+    return [
+      'title' => $this->title()->toString(),
+      'multilineTitle' => $this->content()->get("multilineTitle")->toString(),
+      'uuid' => $this->uuidValue(),
+    ];
+  }
 }
