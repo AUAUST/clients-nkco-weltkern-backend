@@ -7,6 +7,7 @@ use Kirby\Data\Yaml;
 
 return [
   require_once __DIR__ . '/product.php',
+  require_once __DIR__ . '/products.php',
   require_once __DIR__ . '/publishers.php',
 
   [
