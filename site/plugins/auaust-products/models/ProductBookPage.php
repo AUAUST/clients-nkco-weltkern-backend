@@ -85,7 +85,7 @@ class ProductBookPage extends Page
       'multilineTitle' => $this->content()->get("multilineTitle")->toString(),
       'uuid' => $this->uuidValue(),
       'slug' => $this->slug(),
-      'isbn' => $this->isbn()->toString() || null,
+      'isbn' => $this->isbn()->value(),
     ];
   }
 }
