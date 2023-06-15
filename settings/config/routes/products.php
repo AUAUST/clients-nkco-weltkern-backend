@@ -7,7 +7,8 @@ $getProducts = function (int|null $count = null) {
     $max = -1;
   } else if ($count <= 0) {
     return Response::json([
-      "message" => "Count must be a positive integer or 'all'",
+      'status' => 'error',
+      'message' => 'Count must be a positive integer or \'all\'',
     ], 400);
   } else {
     $max = $count;
@@ -17,7 +18,13 @@ $getProducts = function (int|null $count = null) {
   $products = page('products')->drafts()->limit($max);
 
   return Response::json(
-    $products->pluck('slug'),
+    [
+      'status' => 'ok',
+      'data' => [
+        'count' => $products->count(),
+        'products' => $products->pluck('slug'),
+      ]
+    ],
     200
   );
 };
