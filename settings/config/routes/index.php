@@ -5,9 +5,16 @@ use Kirby\Toolkit\Str;
 use AUAUST\products\WK1;
 use Kirby\Data\Yaml;
 
+/**
+ * Set all the API routes
+ * Routes are defined in their own files. Some files includes multiple routes, some only one.
+ * This is the reason why some are spreaded with `...(require_once)`, and some are not.
+ *
+ * @see https://getkirby.com/docs/guide/routing#routes
+ */
 return [
   require_once __DIR__ . '/product.php',
-  require_once __DIR__ . '/products.php',
+  ...(require_once __DIR__ . '/products.php'),
   require_once __DIR__ . '/publishers.php',
 
   [
