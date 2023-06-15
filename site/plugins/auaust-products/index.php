@@ -25,5 +25,14 @@ Kirby::plugin("auaust/products", [
       // Stores the processed data from the WK1 API for use in the code
       'wk1' => true
     ]
-  ]
+  ],
+  'pageMethods' => [
+    /**
+     * Returns the UUID of a page, with the page:// prefix removed
+     */
+    'uuidValue' => function () {
+      $uuid = $this->uuid()->toString();
+      return substr($uuid, strpos($uuid, '://') + 3);
+    }
+  ],
 ]);
