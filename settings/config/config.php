@@ -10,5 +10,5 @@ return [
 
   "smartypants" => true,
 
-  "routes" => require_once __DIR__ . "/snippets/routes.php",
+  "routes" => require_once __DIR__ . "/routes/index.php",
 ];
