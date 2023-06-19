@@ -81,8 +81,10 @@ class ProductBookPage extends Page
   public function dataArray()
   {
     return [
-      'title' => $this->title()->toString(),
-      'multilineTitle' => $this->content()->get("multilineTitle")->toString(),
+      'titles' => [
+        'inline' => $this->title()->toString(),
+        'multiline' => $this->content()->get("multilineTitle")->toString()
+      ],
       'uuid' => $this->uuidValue(),
       'slug' => $this->slug(),
       'isbn' => $this->isbn()->value(),
