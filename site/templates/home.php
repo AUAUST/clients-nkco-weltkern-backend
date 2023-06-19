@@ -1,7 +1,6 @@
 <?php
 
 use Kirby\Cms\Response;
-use Kirby\Data\Json;
 
 use FontLib\Font;
 
@@ -16,22 +15,13 @@ $data = [
   "slogan" => $site->slogan()->toString(),
 ];
 
-// JSON string
-$body = Json::encode($data);
-
 // Response object
-$response = Response::json(
-  $data,
-  null,
-  true
+echo Response::json(
+  [
+    'status' => 'ok',
+    'data' => $data
+  ],
 );
-
-?>
-
-<?=
-
-// Send the response
-$response->send();
 
 ?>
 
