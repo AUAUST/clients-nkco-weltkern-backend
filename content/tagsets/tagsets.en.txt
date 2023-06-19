@@ -1,4 +1,4 @@
-Title: Groupe de tags
+Title: Tags management
 
 ----
 

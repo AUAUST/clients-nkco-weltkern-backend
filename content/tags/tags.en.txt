@@ -1,10 +1,10 @@
-Title: Tags
+Title: Tags management
 
 ----
 
 Tags:
 
-- 
+-
   id: null
   name: Animaux
   tags:
