@@ -1,1 +1,28 @@
+Names:
+
+firstname: Nizar
+lastname: Kazan
+
+----
+
+Description:
+
+Nizar Kazan, born in Lausanne, Switzerland, on 15th November 1997, graduated in graphic design at Eracom in Lausanne in 2017 with honors. During his studies and afterwards, he started working on his first graphic and type design projects.
+
+Directly after his studies, Nizar Kazan interned at Ludovic Balland Typography Cabinet in Basel.
+
+End of September 2017, Nizar Kazan established his own practice.
+
+Initially, he settled in Lausanne, and since September 2019, he has moved his office to Orbe, his hometown. Nizar Kazan defines himself as a creative director. He is involved in many fields, from photography to fashion or even architecture.
+
+Since January 2018, he commercializes his first typeface, the "Lausanne."
+
+To date, the Lausanne has been a great success around the world. It has been used by many designers for (among others) MoMA (USA), Mono GmbH (Germany), Naomi Osaka, Dan Carter, Landesmuseum Zürich, Museo Tamayo, Liste Art Fair Basel, or Universal Music.
+
+From January until October 2020, he completed his mandatory military service in the Swiss Air Force at the Military Police Training School in Sion. During his service, he was promoted to sergeant and received some distinctions, including one for his commitment during the COVID-19 crisis.
+
+In March 2021, Nizar Kazan founded Weltkern®, a multi-faceted publisher, shop, and type foundry. Weltkern® can be defined as a 'curator and producer of design.' It is a platform on which he and his team can expand and experiment, but above all, try to reshuffle the cards, to rethink the rules in these fields.
+
+----
+
 Uuid: aD7SqR3cGf09rT76
