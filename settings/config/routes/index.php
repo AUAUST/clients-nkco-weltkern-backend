@@ -26,6 +26,7 @@ return [
       ], 200);
     }
   ],
+  require_once __DIR__ . '/search.php',
   require_once __DIR__ . '/product.php',
   require_once __DIR__ . '/products.php',
   require_once __DIR__ . '/publishers.php',
