@@ -6,11 +6,12 @@ use Kirby\Filesystem\F;
 // Load the ProductsPage model class
 load([
   'ProductsPage' => 'models/ProductsPage.php',
+  'ProductPage' => 'models/ProductPage.php',
   'ProductBookPage' => 'models/ProductBookPage.php'
 ], __DIR__);
 
 F::loadClasses([
-  'AUAUST\\products\\WK1' => 'classes/WK1.php'
+  'AUAUST\\products\\WK1' => 'classes/WK1.php',
 ], __DIR__);
 
 Kirby::plugin("auaust/products", [
