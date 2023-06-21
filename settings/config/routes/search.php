@@ -25,21 +25,28 @@ return [
     }
 
     if ($count === 'all') {
-      $count = -1;
+      $count = null;
     } else {
       $count = intval($count);
 
       // If $count is 0 or less, set it to -1
       // Invalid values will fallback to 0 in intval() so it sanitizes automatically
       if ($count < 1) {
-        $count = -1;
+        $count = null;
       }
     }
 
     // If the params are empty, return the latest $count articles
     if (empty($params)) {
       // TODO: drafts() -> children()
-      $products = page('products')->drafts()->limit($count);
+      $products = page('products')->drafts();
+
+      // if ($count) {
+      //   $products = $products->limit($count);
+      // }
+
+      // return print_r($products, true);
+      // return $products->pluck('dataArray');
 
       return Response::json([
         'status' => 'ok',
