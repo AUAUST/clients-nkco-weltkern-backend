@@ -2,11 +2,15 @@ Title: Andy Warhol
 
 ----
 
-Description: 
+Description: Discover the iconic works of this renowned artist, delve into his avant-garde techniques, and gain insights into the unique perspectives he brought to contemporary art. From his famous Campbell's Soup Cans to his captivating celebrity portraits, immerse yourself in the colorful and boundary-pushing realm of Andy Warhol.
 
 ----
 
 Tagsets: 
+
+----
+
+Cover: - file://kg6ejqsIS7A42hSs
 
 ----
 
