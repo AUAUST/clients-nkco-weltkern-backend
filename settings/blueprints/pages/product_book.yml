@@ -74,10 +74,10 @@ columns:
             step: 0.05
             min: 0
             after:
-              fr: CHF
-              en: ""
+              fr: "CHF"
+              en: " "
             before:
-              fr: ""
+              fr: " "
               en: "CHF"
             width: 1/2
           tags:

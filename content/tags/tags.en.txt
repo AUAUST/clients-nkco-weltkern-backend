@@ -1,4 +1,4 @@
-Title: Tags management
+Title: Tags
 
 ----
 

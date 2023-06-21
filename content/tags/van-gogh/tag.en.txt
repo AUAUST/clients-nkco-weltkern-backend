@@ -2,11 +2,15 @@ Title: Van Gogh
 
 ----
 
-Description: 
+Description: Immerse yourself in the vibrant and expressive world of Vincent van Gogh. Discover the post-impressionist painter's iconic works, known for their bold colors and distinctive brushwork. From "Starry Night" to "Sunflowers," explore the emotions and influences behind his art and gain insights into the life and legacy of one of history's most celebrated artists.
 
 ----
 
 Tagsets: 
+
+----
+
+Cover: 
 
 ----
 

@@ -2,11 +2,15 @@ Title: Rome
 
 ----
 
-Description: 
+Description: Travel back in time to the eternal city of Rome, where ancient history and modern life blend seamlessly. Explore iconic landmarks like the Colosseum, the Roman Forum, and the Vatican City, each carrying centuries of stories and architectural splendor. Immerse yourself in the vibrant atmosphere of lively piazzas, indulge in authentic Italian cuisine, and wander through the winding streets lined with charming cafes and gelaterias. Discover the rich cultural heritage, art masterpieces, and the undeniable allure of Rome's timeless beauty.
 
 ----
 
 Tagsets: 
+
+----
+
+Cover: 
 
 ----
 

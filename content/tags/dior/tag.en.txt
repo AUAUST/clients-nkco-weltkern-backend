@@ -2,11 +2,15 @@ Title: Dior
 
 ----
 
-Description: 
+Description: Indulge in the world of luxury and haute couture with Dior. Discover the exquisite craftsmanship, innovative designs, and timeless elegance that have defined the iconic fashion house for decades. From the legendary New Look to the latest runway collections, immerse yourself in the glamour and sophistication that epitomize Dior's signature style.
 
 ----
 
 Tagsets: 
+
+----
+
+Cover: 
 
 ----
 

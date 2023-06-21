@@ -2,11 +2,15 @@ Title: Los Angeles
 
 ----
 
-Description: 
+Description: Discover the sun-drenched city of Los Angeles, where entertainment, glamour, and cultural diversity intersect. Explore the vibrant neighborhoods, iconic attractions like the Hollywood Sign and Venice Beach, and the thriving entertainment industry. From the Walk of Fame to the Getty Center, embrace the laid-back lifestyle and creative spirit that define the City of Angels.
 
 ----
 
 Tagsets: 
+
+----
+
+Cover: 
 
 ----
 
