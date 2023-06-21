@@ -14,7 +14,7 @@ use Kirby\Data\Yaml;
  */
 return [
   [
-    'pattern' => ['', 'v1'],
+    'pattern' => ['', 'home'],
     'language' => '*',
     'action' => function () {
       return Response::json([

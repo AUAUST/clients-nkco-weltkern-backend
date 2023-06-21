@@ -3,7 +3,7 @@
 use Kirby\Cms\Response;
 
 return [
-  'pattern' => ['v1/product', 'v1/product/(:any)'],
+  'pattern' => ['product', 'product/(:any)'],
   'language' => '*',
   'action'  => function ($lang = null, $id = null) {
     // Get the products
