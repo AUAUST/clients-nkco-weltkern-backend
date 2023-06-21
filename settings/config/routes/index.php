@@ -13,9 +13,32 @@ use Kirby\Data\Yaml;
  * @see https://getkirby.com/docs/guide/routing#routes
  */
 return [
+  [
+    'pattern' => ['', 'v1'],
+    'language' => '*',
+    'action' => function () {
+      return Response::json([
+        'status' => 'ok',
+        'data' => [
+          'message' => 'Welcome to the Weltkern API',
+          'version' => '1.0.0',
+        ]
+      ], 200);
+    }
+  ],
   require_once __DIR__ . '/product.php',
   require_once __DIR__ . '/products.php',
   require_once __DIR__ . '/publishers.php',
+  [
+    'pattern' => '(:all)',
+    'language' => '*',
+    'action' => function () {
+      return Response::json([
+        'status' => 'error',
+        'message' => 'This endpoint does not exist',
+      ], 404);
+    }
+  ],
 
   [
     'pattern' => 'query-weltkern',
