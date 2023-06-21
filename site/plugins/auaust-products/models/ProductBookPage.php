@@ -8,4 +8,18 @@ class ProductBookPage extends ProductPage
   {
     return WK1::productsQuantity();
   }
+
+  public function dataArray()
+  {
+    $default = parent::dataArray();
+
+    $extension = [
+      'isbn' => $this->isbn()->value(),
+    ];
+
+    return array_merge(
+      $default,
+      $extension
+    );
+  }
 }
