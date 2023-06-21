@@ -7,7 +7,7 @@ use Kirby\Filesystem\F;
 load([
   'ProductsPage' => 'models/ProductsPage.php',
   'ProductPage' => 'models/ProductPage.php',
-  'ProductBookPage' => 'models/ProductBookPage.php'
+  'ProductBookPage' => 'models/ProductBookPage.php',
 ], __DIR__);
 
 F::loadClasses([

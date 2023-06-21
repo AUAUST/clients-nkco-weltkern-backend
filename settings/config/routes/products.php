@@ -3,7 +3,10 @@
 use Kirby\Cms\Response;
 
 return [
-  'pattern' => 'products/(:alphanum)',
+  'pattern' => [
+    'products',
+    'products/(:alphanum)'
+  ],
   'language' => '*',
   'action' => function ($lang = null, int|string $count = 'all') {
 
