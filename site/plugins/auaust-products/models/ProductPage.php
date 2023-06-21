@@ -7,11 +7,13 @@ use AUAUST\products\WK1;
 
 class ProductPage extends Page
 {
+  /**
+   * Split the page's name into a multiline title using pipes
+   * `Un livre:|Une histoire` => `Un livre: \nUne histoire`.
+   * Handles `\|` to escape pipes.
+   */
   private static function splitName(string $name)
   {
-    // See if there are pipes to split in the page's title
-    // "Un livre:|Une histoire" => Un livre:\nUne histoire
-    // Handles \| to escape pipes
     $nameparts = preg_split('/(?<!\\\)\|/', $name);
 
     $title = implode(PHP_EOL, $nameparts);
@@ -19,6 +21,7 @@ class ProductPage extends Page
     return $title;
   }
 
+  // Overrides the create method to parse multiline titles
   public static function create(array $props): Page
   {
     // Update the page's "name" field default value
@@ -35,6 +38,9 @@ class ProductPage extends Page
     return $this->titleWithSeparator();
   }
 
+  /**
+   * Return the page's title, with line breaks replaced by a choosen separator
+   */
   public function titleWithSeparator(string|null $separator = null)
   {
     // Use the parameter separator if provided, otherwise use the page's multilineTitleSeparator field
@@ -71,7 +77,7 @@ class ProductPage extends Page
   }
 
   /**
-   * Return the book's data, structured for the API
+   * Return the product's data, structured for the API
    */
   public function dataArray()
   {
@@ -82,7 +88,6 @@ class ProductPage extends Page
       ],
       'uuid' => $this->uuidValue(),
       'slug' => $this->slug(),
-      'isbn' => $this->isbn()->value(),
     ];
   }
 }
