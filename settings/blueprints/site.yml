@@ -234,7 +234,7 @@ tabs:
         fields:
           __janitor_Algolia:
             type: janitor
-            command: "kirby janitor:backupzip"
+            command: "debug"
             label: Call `Example` Command
             help:
               fr: "Ceci est un exemple de commande personnalisée."
