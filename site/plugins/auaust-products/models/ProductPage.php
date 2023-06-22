@@ -77,6 +77,14 @@ class ProductPage extends Page
   }
 
   /**
+   * Return the page's multiline title as a string
+   */
+  public function multilineTitle(): string
+  {
+    return $this->content()->get('multilinetitle')->toString();
+  }
+
+  /**
    * Return the product's data, structured for the API
    */
   public function dataArray()
@@ -84,7 +92,7 @@ class ProductPage extends Page
     return [
       'titles' => [
         'inline' => $this->title()->toString(),
-        'multiline' => $this->content()->get("multilineTitle")->toString()
+        'multiline' => $this->multilineTitle()
       ],
       'uuid' => $this->uuidValue(),
       'slug' => $this->slug(),

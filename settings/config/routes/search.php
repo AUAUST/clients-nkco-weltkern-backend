@@ -18,7 +18,6 @@ return [
       params(),
     );
 
-    // If $count is unset but $type is an integer, set $count as $type and $type as 'all'
     if ($count === 'all' && preg_match('/^[0-9]+$/', $type)) {
       $count = $type;
       $type = 'all';
