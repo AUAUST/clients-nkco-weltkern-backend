@@ -30,6 +30,7 @@ return [
   require_once __DIR__ . '/product.php',
   require_once __DIR__ . '/products.php',
   require_once __DIR__ . '/publishers.php',
+  require_once __DIR__ . '/option.php',
   [
     'pattern' => '(:all)',
     'language' => '*',
@@ -246,14 +247,4 @@ return [
       return dump($contents, false);
     }
   ],
-  [
-    'pattern' => 'option/(:all)',
-    'language' => '*',
-    'action' => function ($lang, $option) {
-      return dump(
-        kirby()->option($option, 'Not found'),
-        false
-      );
-    }
-  ]
 ];
