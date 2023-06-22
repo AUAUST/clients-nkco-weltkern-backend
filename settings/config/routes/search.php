@@ -11,7 +11,7 @@ return [
     // hello_algolia.php
 
     // Connect and authenticate with your Algolia app
-    $client = SearchClient::create(secret('ALGOLIA_APP_ID'), secret('ALGOLIA_ADMIN_KEY'));
+    $client = SearchClient::create('EH5J1ND98KA', '275b696929eb4b83a25cea818e04a2b2');
 
     // Create a new index and add a record
     $index = $client->initIndex("test_index");
