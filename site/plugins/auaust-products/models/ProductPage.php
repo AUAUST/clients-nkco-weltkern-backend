@@ -94,7 +94,7 @@ class ProductPage extends Page
         'inline' => $this->title()->toString(),
         'multiline' => $this->multilineTitle()
       ],
-      'uuid' => $this->uuidValue(),
+      'uuid' => $this->simpleUuid(),
       'slug' => $this->slug(),
     ];
   }

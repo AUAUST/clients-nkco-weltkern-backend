@@ -31,9 +31,8 @@ Kirby::plugin("auaust/products", [
     /**
      * Returns the UUID of a page, with the page:// prefix removed
      */
-    'uuidValue' => function () {
-      $uuid = $this->uuid()->toString();
-      return substr($uuid, strpos($uuid, '://') + 3);
+    'simpleUuid' => function () {
+      return $this->uuid()->id();
     }
   ],
 ]);
