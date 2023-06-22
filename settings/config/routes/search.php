@@ -1,27 +1,29 @@
 <?php
 
 use Kirby\Cms\Response;
-use Algolia\AlgoliaSearch\SearchClient;
+use Algolia\AlgoliaSearch\SearchClient as Algolia;
 
 return [
   'pattern' => ['search', 'search/(:any)', 'search/(:any)/(:any)'],
   'language' => '*',
   'action' => function ($lang = null, string $type = 'all', string $count = 'all') {
 
-    // hello_algolia.php
-
     // Connect and authenticate with your Algolia app
-    $client = SearchClient::create(secret('ALGOLIA_APP_ID'), secret('ALGOLIA_ADMIN_KEY'));
+    $client = Algolia::create(
+      secret('ALGOLIA_APP_ID'),
+      secret('ALGOLIA_ADMIN_KEY')
+    );
 
     // Create a new index and add a record
-    $index = $client->initIndex("test_index");
+    $index = $client->initIndex('dev_products');
+
     $record = ["objectID" => 1, "name" => "test_record"];
     $index->saveObject($record)->wait();
 
     // Search the index and print the results
     $results = $index->search("test_record");
 
-    return dump($results["hits"][0], false);
+    return dump($results, false);
 
     $kirby   = kirby();
     $request = $kirby->request();
