@@ -22,7 +22,8 @@
     "kornrunner/blurhash": "^1.2",
     "tobimori/kirby-blurhash": "^1.2",
     "getkirby/cli": "dev-main",
-    "bnomei/kirby3-janitor": "dev-master"
+    "bnomei/kirby3-janitor": "dev-master",
+    "algolia/algoliasearch-client-php": "dev-master"
   },
   "config": {
     "allow-plugins": {
