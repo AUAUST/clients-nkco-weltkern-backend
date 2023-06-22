@@ -7,7 +7,7 @@ use Kirby\Filesystem\F;
 load([
   'ProductsPage' => 'models/ProductsPage.php',
   'ProductPage' => 'models/ProductPage.php',
-  'ProductBookPage' => 'models/ProductBookPage.php',
+  'BookPage' => 'models/BookPage.php',
 ], __DIR__);
 
 F::loadClasses([
@@ -17,7 +17,7 @@ F::loadClasses([
 Kirby::plugin("auaust/products", [
   'pageModels' => [
     'products' => 'ProductsPage',
-    'product_book' => 'ProductBookPage'
+    'product_book' => 'BookPage'
   ],
   'options' => [
     'cache' => [

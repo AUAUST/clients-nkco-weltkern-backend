@@ -2,7 +2,7 @@
 
 use AUAUST\products\WK1;
 
-class ProductBookPage extends ProductPage
+class BookPage extends ProductPage
 {
   public function sum()
   {
