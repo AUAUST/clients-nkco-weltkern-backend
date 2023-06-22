@@ -211,3 +211,12 @@ tabs:
               slogan:
                 type: text
                 label: "Slogan"
+  system:
+    title:
+      fr: "SYSTÈME"
+      en: "SYSTEM"
+    columns:
+      - width: 1/3
+        fields:
+          __janitor_Algolia:
+            type: text
