@@ -216,6 +216,20 @@ tabs:
       fr: "SYSTÈME"
       en: "SYSTEM"
     columns:
+      - width:
+        sections:
+          __sectionSystem:
+            type: info
+            headline:
+              fr: "Système"
+              en: "System"
+            text:
+              fr: |
+                La section system affiche des informations et fournit des outils pour gérer le site à un niveau plus bas.
+                Si vous souhaitez utiliser cette section, assurez-vous que ces conditions soient remplies :
+                **`($user->isAdmin() && $user->is('developer') && $user->knows('kirby') && $user->knows('php') && $user->knows('howItWorks') && $user->isSober() && $user->is('smart'));`**
+
+                Si vous ne comprenez pas ce que cela signifie, vous n'avez probablement pas besoin de cette section.
       - width: 1/3
         fields:
           __janitor_Algolia:
