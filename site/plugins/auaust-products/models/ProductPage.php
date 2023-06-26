@@ -98,4 +98,17 @@ class ProductPage extends Page
       'slug' => $this->slug(),
     ];
   }
+  /**
+   * Return the product's data, structured for Algolia
+   */
+  public function toAlgoliaData()
+  {
+    return [
+      // Required by Algolia, otherwise it'll be generated automatically
+      'objectID' => $this->simpleUuid(),
+
+      'title' => $this->multilineTitle(),
+      'slug' => $this->slug(),
+    ];
+  }
 }
