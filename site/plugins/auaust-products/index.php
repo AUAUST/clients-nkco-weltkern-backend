@@ -38,9 +38,6 @@ Kirby::plugin("auaust/products", [
   'collectionMethods' => [
     'toData' => function () {
       return $this->pluck('toData');
-    },
-    'toAlgoliaData' => function () {
-      return $this->pluck('toAlgoliaData');
     }
   ]
 ]);
