@@ -1,6 +1,6 @@
 {
-  "name": "auaust/kirby-wk-designers",
-  "description": "Designers plugin for Kirby CMS and Weltkern.",
+  "name": "auaust/kirby-designers",
+  "description": "Designers plugin for Kirby CMS.",
   "type": "kirby-plugin",
   "version": "1.0.0",
   "license": "proprietary",
