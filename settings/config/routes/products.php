@@ -33,7 +33,7 @@ return [
         'status' => 'ok',
         'data' => [
           'count' => $products->count(),
-          'products' => $products->toProductsData(),
+          'products' => $products->toData(),
         ]
       ],
       200

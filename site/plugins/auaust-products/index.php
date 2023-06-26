@@ -36,10 +36,8 @@ Kirby::plugin("auaust/products", [
     }
   ],
   'collectionMethods' => [
-    'toProductsData' => function () {
-      return $this->toArray(function ($product) {
-        return $product->toData();
-      });
+    'toData' => function () {
+      return $this->pluck('toData');
     }
   ]
 ]);
