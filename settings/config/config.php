@@ -1,19 +1,19 @@
 <?php
 
 return [
-  "debug" => false,
+  'debug' => false,
 
-  "languages" => true,
-  "languages.detect" => true,
+  'languages' => true,
+  'languages.detect' => true,
 
-  "date.handler" => "intl",
+  'date.handler' => 'intl',
 
-  "smartypants" => true,
+  'smartypants' => true,
 
-  "routes" => require_once __DIR__ . "/routes/index.php",
+  'routes' => require_once __DIR__ . '/routes/index.php',
 
-  "auaust.algolia" => [
-    "algoliaAppId"    => secret('ALGOLIA_APP_ID'),
-    "algoliaAdminKey" => secret('ALGOLIA_ADMIN_KEY')
+  'auaust.algolia' => [
+    'algoliaAppId'    => secret('ALGOLIA_APP_ID'),
+    'algoliaAdminKey' => secret('ALGOLIA_ADMIN_KEY')
   ]
 ];
