@@ -9,9 +9,9 @@ class BookPage extends ProductPage
     return WK1::productsQuantity();
   }
 
-  public function dataArray()
+  public function toData()
   {
-    $default = parent::dataArray();
+    $default = parent::toData();
 
     $extension = [
       'isbn' => $this->isbn()->value(),

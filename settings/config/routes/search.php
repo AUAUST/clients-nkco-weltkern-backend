@@ -63,13 +63,13 @@ return [
       // }
 
       // return print_r($products, true);
-      // return $products->pluck('dataArray');
+      // return $products->pluck('toData');
 
       return Response::json([
         'status' => 'ok',
         'data' => [
           'count' => $products->count(),
-          'products' => $products->pluck('dataArray'),
+          'products' => $products->pluck('toData'),
         ]
       ], 200);
     }

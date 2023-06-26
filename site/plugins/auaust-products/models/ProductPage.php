@@ -87,7 +87,7 @@ class ProductPage extends Page
   /**
    * Return the product's data, structured for the API
    */
-  public function dataArray()
+  public function toData()
   {
     return [
       'titles' => [
