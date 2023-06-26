@@ -35,4 +35,11 @@ Kirby::plugin("auaust/products", [
       return $this->uuid()->id();
     }
   ],
+  'collectionMethods' => [
+    'toProductsData' => function () {
+      return $this->toArray(function ($product) {
+        return $product->toData();
+      });
+    }
+  ]
 ]);
