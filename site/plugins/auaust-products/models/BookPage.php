@@ -22,4 +22,18 @@ class BookPage extends ProductPage
       $extension
     );
   }
+
+  public function toAlgoliaData()
+  {
+    $default = parent::toAlgoliaData();
+
+    $extension = [
+      'isbn' => $this->isbn()->value(),
+    ];
+
+    return array_merge(
+      $default,
+      $extension
+    );
+  }
 }
