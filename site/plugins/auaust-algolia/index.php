@@ -8,7 +8,10 @@ F::loadClasses([
 ], __DIR__);
 
 Kirby::plugin("auaust/algolia", [
-  'options' => [],
+  'options' => [
+    'algoliaAppId'    => null,
+    'algoliaAdminKey' => null,
+  ],
   'collectionMethods' => [
     'toAlgoliaData' => function () {
       return $this->pluck('toAlgoliaData');
