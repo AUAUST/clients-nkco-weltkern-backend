@@ -7,6 +7,8 @@ use AUAUST\products\WK1;
 
 class ProductPage extends Page
 {
+  protected string $type = 'product';
+
   /**
    * Split the page's name into a multiline title using pipes
    * `Un livre:|Une histoire` => `Un livre: \nUne histoire`.
@@ -85,6 +87,14 @@ class ProductPage extends Page
   }
 
   /**
+   * Return the product's type
+   */
+  public function type(): string
+  {
+    return $this->type;
+  }
+
+  /**
    * Return the product's data, structured for the API
    */
   public function toData()
@@ -96,6 +106,7 @@ class ProductPage extends Page
       ],
       'uuid' => $this->simpleUuid(),
       'slug' => $this->slug(),
+      'type' => $this->type(),
     ];
   }
   /**
