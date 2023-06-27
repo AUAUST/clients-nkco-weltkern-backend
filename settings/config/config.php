@@ -22,12 +22,37 @@ return [
         'indices' => [
           'dev_wk_products' => [
             'settings' => [
+              // Attributes
               'attributeForDistinct' => 'uuid',
+              // 'attributesForFaceting',
+
+              // 'attributesToRetrieve',
+              // 'unretrievableAttributes',
+
               'searchableAttributes' => [
                 'title',
                 'slug',
                 'description'
               ],
+
+              // Ranking
+              // 'ranking',
+              'customRanking' => [
+                'desc(popularity)',
+                'asc(price)'
+              ],
+
+              // Faceting
+              // 'maxValuesPerFacet',
+              // 'sortFacetValuesBy',
+
+              // Typos
+              // 'minWordSizefor1Typo',
+              // 'minWordSizefor2Typos',
+              // 'typoTolerance',
+
+              // Query strategy
+              'advancedSyntax' => true,
             ],
 
             'records' => function () {
