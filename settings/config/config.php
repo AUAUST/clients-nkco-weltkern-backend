@@ -17,7 +17,7 @@ return [
     return [
       'auaust.algolia' => [
         'algoliaAppId'  => secret('ALGOLIA_APP_ID'),
-        'algoliaApiKey' => secret('ALGOLIA_ADMIN_KEY'),
+        'algoliaApiKey' => secret('ALGOLIA_API_KEY'),
 
         'indices' => [
           'dev_wk_products' => [
