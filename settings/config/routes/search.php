@@ -1,6 +1,6 @@
 <?php
 
-use Kirby\Cms\Response;
+use AUAUST\Algolia\Algolia;
 // use Algolia\AlgoliaSearch\SearchClient as Algolia;
 
 return [
@@ -8,6 +8,9 @@ return [
   'language' => '*',
   'action' => function ($lang = null, string $type = 'all', string $count = 'all') {
 
+    $productsIndex = Algolia::initIndex('dev_wk_products');
+
+    return dump($productsIndex, false);
 
     // // Connect and authenticate with your Algolia app
     // $client = Algolia::create(

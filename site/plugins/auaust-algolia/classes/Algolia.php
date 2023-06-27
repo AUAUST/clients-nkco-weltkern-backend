@@ -15,14 +15,18 @@ class Algolia
     if (
       !($indexConfig = option("auaust.algolia.indices.{$indexName}"))
     ) {
-      throw new \Exception("Index '{$indexName}' not found");
+      throw new \Exception("The index '{$indexName}' was not found in the plugin config");
     }
+
+    $index = self::client()->initIndex($indexName);
 
     if (is_array($indexConfig['settings'])) {
       $config['settings'] = $indexConfig['settings'];
     }
 
-    $index = self::client()->initIndex($indexName);
+    if (!empty($config)) {
+      $index->setSettings($config['settings']);
+    }
 
     return $index;
   }
