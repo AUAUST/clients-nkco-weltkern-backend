@@ -17,7 +17,24 @@ return [
     return [
       'auaust.algolia' => [
         'algoliaAppId'    => secret('ALGOLIA_APP_ID'),
-        'algoliaAdminKey' => secret('ALGOLIA_ADMIN_KEY')
+        'algoliaAdminKey' => secret('ALGOLIA_ADMIN_KEY'),
+
+        'indices' => [
+          'dev_wk_products' => [
+            'settings' => [
+              'attributeForDistinct' => 'uuid',
+              'searchableAttributes' => [
+                'title',
+                'slug',
+                'description'
+              ],
+            ],
+
+            'records' => function () {
+              return page('products')->children()->toAlgoliaData();
+            }
+          ]
+        ]
       ]
     ];
   }
