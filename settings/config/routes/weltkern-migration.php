@@ -15,7 +15,6 @@ return [
       $kirby = kirby();
       $site  = $kirby->site();
 
-
       /**
        * @var Page $productsPage
        */
@@ -31,7 +30,6 @@ return [
       );
 
       $newProducts = [];
-      $updatedProducts = [];
 
       foreach ($remoteProducts as $product) {
 
@@ -56,6 +54,13 @@ return [
         $title = preg_replace('/\s*\|\s*/', '|', $title);
 
         $slug = Str::slug($title);
+        $baseSlug = $slug;
+        $nth  = 1;
+
+        while ($existingProducts->find($slug)) {
+          $slug = $baseSlug . '-' . ++$nth;
+        }
+
         $content = [
           'title' => $title,
 
@@ -73,7 +78,7 @@ return [
                 }
               }
               return 'NO ISBN';
-            })(),
+            })($product),
             'weight' => $product['weight'],
 
             'author' => (function ($product) {
@@ -82,10 +87,10 @@ return [
                 'name' => $author['name'],
                 'id'   => $author['term_id'],
               ];
-            })(),
+            })($product),
 
             'description' => $product['short_description'],
-            'details' => (function () use ($product) {
+            'details' => (function ($product) {
               $details = '';
 
               foreach ($product['header'][0]['header']['block_option'] as $option) {
@@ -93,7 +98,7 @@ return [
               }
 
               return $details;
-            })(),
+            })($product),
 
             'gallery' => (array_map(
               function ($image) {
@@ -118,31 +123,30 @@ return [
           ]
         ];
 
-        if ($productPage = $productsPage->draft($slug)) {
-          $productPage = $productPage->update($content);
-          $updatedProducts[] = $productPage;
-        } else {
-          $productPage = $productsPage->createChild([
-            'slug' => $slug,
-
-            'template' => 'product_book',
-            'content' => $content
-          ]);
-          $newProducts[] = $productPage;
-        }
+        // if ($productPage = $productsPage->draft($slug)) {
+        //   $productPage = $productPage->update($content);
+        //   $updatedProducts[] = $productPage;
+        // } else
+        // {
+        $newProducts[] = $productsPage->createChild([
+          'slug' => $slug,
+          'template' => 'product_book',
+          'content' => $content
+        ]);
       }
 
-      $returnString = '';
-
-      foreach ($newProducts as $product) {
-        $returnString .= '<pre style="color:green">ADD: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
+      if (empty($newProducts)) {
+        return Response::json([
+          'status' => 'success',
+          'message' => 'No new products found',
+        ], 200);
       }
 
-      foreach ($updatedProducts as $product) {
-        $returnString .= '<pre style="color:orange">UPDATE: ' . $product->title() . ' (' . $product->slug() . ')</pre>';
-      }
-
-      return $returnString;
+      return Response::json([
+        'status' => 'success',
+        'message' => 'New products found',
+        'data' => $newProducts,
+      ], 200);
     }
   ],
   // Parses the imported products drafts and fills the product pages with the data
