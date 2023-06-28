@@ -37,10 +37,10 @@ return [
 
               // Ranking
               // 'ranking',
-              'customRanking' => [
-                'desc(popularity)',
-                'asc(price)'
-              ],
+              // 'customRanking' => [
+              //   'desc(popularity)',
+              //   'asc(price)'
+              // ],
 
               // Faceting
               // 'maxValuesPerFacet',
