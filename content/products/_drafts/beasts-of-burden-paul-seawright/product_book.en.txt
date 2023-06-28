@@ -9,7 +9,15 @@ Paul Seawright
 
 ----
 
+Multilinetitleseparator: dash
+
+----
+
 Publisher: 
+
+----
+
+Tags: 
 
 ----
 

@@ -2,16 +2,8 @@ Title: Countries
 
 ----
 
-Tags:
-
-- page://qn7Ng3Uljgbnr2hb
-- page://iV3oT0GMjM3oS2MT
-- page://muF468j3SMGNku7K
+Tags: 
 
 ----
 
-Uuid: Y2sTbRetD3wZDBQQ
-
-----
-
-Text: 
+Uuid: CkDdQU1KKc0U8RZb

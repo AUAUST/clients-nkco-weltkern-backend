@@ -4,7 +4,7 @@ Title: Tags
 
 Tags:
 
-- 
+-
   id: null
   name: Animaux
   tags:
