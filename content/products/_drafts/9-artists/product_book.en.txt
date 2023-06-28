@@ -1,39 +1,3 @@
-Title: 9 Artists
-
-----
-
-Multilinetitle: 9 Artists
-
-----
-
-Multilinetitleseparator: space
-
-----
-
-Publisher: 
-
-----
-
-Tags: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 9 Artists
@@ -68,4 +32,32 @@ tags: [ ]
 
 ----
 
-Uuid: K3dEsHm2XDtlNLK1
+Multilinetitle: 9 Artists
+
+----
+
+Uuid: JyCATPODAhmCTppf
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

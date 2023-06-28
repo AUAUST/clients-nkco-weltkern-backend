@@ -123,11 +123,6 @@ return [
           ]
         ];
 
-        // if ($productPage = $productsPage->draft($slug)) {
-        //   $productPage = $productPage->update($content);
-        //   $updatedProducts[] = $productPage;
-        // } else
-        // {
         $newProducts[] = $productsPage->createChild([
           'slug' => $slug,
           'template' => 'product_book',
