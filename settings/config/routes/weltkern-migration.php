@@ -163,36 +163,31 @@ return [
       $products = $productsPage->drafts();
 
       $updatedProducts = [];
+      $erroredProducts = [];
 
       foreach ($products as $product) {
         $oldWeltkern = $product->oldWeltkern()->toObject();
 
+
+        $details =
+          Yaml::decode(
+            $oldWeltkern->details()->toString()
+          );
+
         try {
-          $details =
-            Yaml::decode(
-              $oldWeltkern->details()->toString()
-            );
+          $content = [
+            'wk1-slug' => $oldWeltkern->slug()->toString(),
+            'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
+            'dimensions' => WK1::fixDimensions($details['Size']),
+          ];
         } catch (Exception $e) {
-          return Response::json([
-            'status' => 'error',
-            'message' => $e->getMessage(),
-            'data' => [
-              'string' => $oldWeltkern->details()->toString(),
-            ]
-          ], 500);
+          $erroredProducts[] =
+            'Error in product '
+            . $product->id() . ': '
+            . $e->getMessage() . ' ('
+            . $e->getFile() . ', '
+            . $e->getLine() . ')';
         }
-
-
-
-        // try {
-        //   $contents[] = [
-        //     'wk1-slug' => $oldWeltkern->slug()->toString(),
-        //     'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
-        //     'dimensions' => WK1::fixDimensions($details['Size']),
-        //   ];
-        // } catch (Exception $e) {
-        //   $contents[] = 'Errored: ' . $e->getMessage() . ' (' . $e->getFile() . ', ' . $e->getLine() . ')';
-        // }
       }
 
       return 'hihi';
