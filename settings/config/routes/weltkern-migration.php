@@ -94,7 +94,7 @@ return [
               $details = '';
 
               foreach ($product['header'][0]['header']['block_option'] as $option) {
-                $details .= '- ' . $option['option'] . ': ' . $option['value'] . PHP_EOL;
+                $details .= $option['option'] . ': ' . $option['value'] . PHP_EOL;
               }
 
               return $details;
@@ -149,6 +149,55 @@ return [
     'pattern' => 'parse-weltkern',
     'language' => '*',
     'action' => function ($lang = null) {
+      $productsPage = page('products');
+      $products = $productsPage->drafts();
+
+      $contents = [];
+
+
+
+      foreach ($products as $product) {
+        $oldWeltkern = $product->oldWeltkern()->toObject();
+        $details =
+          (function () use ($oldWeltkern) {
+            $yaml = Yaml::decode(
+              $oldWeltkern->details()->toString()
+            );
+
+            $data = [];
+
+            foreach ($yaml as $pair) {
+              // Some details are not in a key-value pair format but rather a simple string
+              // We skip those
+              if (!is_array($pair)) {
+                continue;
+              }
+
+              foreach ($pair as $key => $value) {
+                $data[$key] = $value;
+              }
+            }
+
+
+            return $data;
+          }
+          )();
+
+
+        try {
+          $contents[] = [
+            'wk1-slug' => $oldWeltkern->slug()->toString(),
+            'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
+            'dimensions' => WK1::fixDimensions($details['Size']),
+          ];
+        } catch (Exception $e) {
+          $contents[] = 'Errored: ' . $e->getMessage() . ' (' . $e->getFile() . ', ' . $e->getLine() . ')';
+        }
+      }
+
+
+
+      return dump($contents, false);
     }
   ],
 ];
