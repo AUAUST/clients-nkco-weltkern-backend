@@ -1,0 +1,77 @@
+Oldweltkern:
+
+title: 'Souvenir St. Moritz #4'
+slug: souvenir-st-moritz-4
+id: 29744
+isbn: 3959057301 / 978-3959057301
+price: 47.8
+weight: 2.1
+author:
+  name: St. Moritz
+  id: 415
+description: |
+  <p>« Souvenir » is a series of yearly art photobooks published by St. Moritz, launched in 2019. It shows the views of artists on St. Moritz. Souvenir St. Moritz Volume 4 is a unique collaboration between two British artists: David Sims and Jake Chapman. 304 pages, 500 limited copies. Release: April 2023.</p>
+  <p>David Sims (born 1966) is a British fashion photographer who first made his name in the early 1990s with magazines such as The Face and i-D. Sims was born in Sheffield. He worked first as a photographer&#8217;s assistant with Robert Erdmann and Norman Watson. He was taken on by a photography agency and his work began to feature in editorial pages of magazines such as i-D, The Face and Vogue. He has also worked in advertising, creating images for brands such as Alexander McQueen, Balenciaga, Calvin Klein, Jil Sander and Yohji Yamamoto.</p>
+  <p>Iakovos &#8220;Jake&#8221; Chapman (born 1966) and Konstantinos &#8220;Dinos&#8221; Chapman (born 1962) are British visual artists, often known as the Chapman Brothers. Their subject matter tries to be deliberately shocking, including, in 2008, a series of works that appropriated original watercolours by Adolf Hitler. In 2022, with the announcement of Jake Chapman&#8217;s solo show Me, Myself and Eye, it was disclosed that the Chapman brothers had ended their professional association.</p>
+details: |
+  ISBN: 3959057301 / 978-3959057301
+  Content: 304 pages
+  Size: 145 × 190 mm
+  Language: English
+  Publishing date: 2023
+  Specs: Softvover
+  Images: © WELTKERN ® / St. Moritz. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/SOUVENIR-ST.-MORITZ_COVER_.jpg
+    id: 29740
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/SOUVENIR-ST.-MORITZ_SPREAD_01.jpg
+    id: 29739
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/SOUVENIR-ST.-MORITZ_SPREAD_02.jpg
+    id: 29738
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/SOUVENIR-ST.-MORITZ_SPREAD_03.jpg
+    id: 29737
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/SOUVENIR-ST.-MORITZ_SPREAD_04.jpg
+    id: 29736
+tags: [ ]
+
+----
+
+Multilinetitle: Souvenir St. Moritz #4
+
+----
+
+Uuid: Ze5OGTDF1oaXw4xi
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

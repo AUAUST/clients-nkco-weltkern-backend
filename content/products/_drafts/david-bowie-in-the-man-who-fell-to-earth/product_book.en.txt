@@ -1,31 +1,3 @@
-Title: David Bowie in The Man Who Fell to Earth
-
-----
-
-Multilinetitle: David Bowie in The Man Who Fell to Earth
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: David Bowie in The Man Who Fell to Earth
@@ -39,15 +11,15 @@ author:
   id: 91
 description: '<p>Heralded as an &#8220;experiment in pushing the limits of the mind,&#8221; Nicolas Roeg&#8217;s The Man Who Fell to Earth, released in 1976, stunned the film world. A true master stroke in the art of science fiction, the film not only provoked visual hallucinations and offered a haunting exploration of contemporary madness, it also allowed glam-rock legend David Bowie to make his acting debut, in the lead role of the paranoid alien Newton. Based on Walter Tevis&#8217; science fiction novel The Man Who Fell to Earth, The Man Who Came From Elsewhere follows the fate of Newton, an alien who landed on Earth to find water: his transformation into a wealthy entrepreneur using revolutionary technologies from his home planet, his awakening to sexuality with young Mary-Lou, and then his revelation of his alien identity, imprisonment, abandonment, and descent into alcoholism. Throughout the film, Roeg convinces with his attractive cast, including Bowie of course, excellent in his character of the offbeat space traveler, but also Candy Clark, Rip Torn and Buck Henry, perfect performers in their roles. To celebrate the 40th anniversary of this cult film, Taschen is releasing The Man Who Fell to Earth with a profusion of images taken from the film or during the shooting by the set photographer David James, including numerous shots of Bowie playing his ambiguity to the fullest.</p>'
 details: |
-  - ISBN: 3836562416 / 978-3836562416
-  - Content: 480 pages
-  - Size: 140 × 17 × 190 mm
+  ISBN: 3836562416 / 978-3836562416
+  Content: 480 pages
+  Size: 140 × 17 × 190 mm
   
-  - Author: Paul Duncan
-  - Language: English / French / German
-  - Publishing date: 2017
-  - Specs: Hardcover
-  - Images: © Taschen. All rights reserved.
+  Author: Paul Duncan
+  Language: English / French / German
+  Publishing date: 2017
+  Specs: Hardcover
+  Images: © Taschen. All rights reserved.
 gallery:
   - 
     url: >
@@ -73,4 +45,32 @@ tags: [ ]
 
 ----
 
-Uuid: 1EH36jmWzMaj5Q2x
+Multilinetitle: David Bowie in The Man Who Fell to Earth
+
+----
+
+Uuid: hrd5Rp5GHreUamv5
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

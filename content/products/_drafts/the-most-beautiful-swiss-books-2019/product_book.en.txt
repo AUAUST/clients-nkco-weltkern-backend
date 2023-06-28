@@ -1,31 +1,3 @@
-Title: The Most Beautiful Swiss Books 2019
-
-----
-
-Multilinetitle: The Most Beautiful Swiss Books 2019
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: The Most Beautiful Swiss Books 2019
@@ -39,14 +11,14 @@ author:
   id: 103
 description: '<p>The book presents the results of the annual competition . Each year, an international jury selects around twenty outstanding and groundbreaking books from Switzerland, which are then awarded prizes by the Federal Office of Culture. The catalog documents and comments on the award-winning books, is an informative reference work, and is always itself an example of current book design.</p>'
 details: |
-  - ISBN: 3909928576 / 978-3909928576
-  - Content: 240 pages
-  - Size: 220 × 16 × 320 mm
-  - Design: Teo Schifferli
-  - Language: English / German / French
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © Edition Hochparterre. All rights reserved.
+  ISBN: 3909928576 / 978-3909928576
+  Content: 240 pages
+  Size: 220 × 16 × 320 mm
+  Design: Teo Schifferli
+  Language: English / German / French
+  Publishing date: 2020
+  Specs: Softcover
+  Images: © Edition Hochparterre. All rights reserved.
 gallery:
   - 
     url: >
@@ -56,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: ZDSHtCOXs2bIbWu0
+Multilinetitle: The Most Beautiful Swiss Books 2019
+
+----
+
+Uuid: wgz6zVzTm9LBVfWP
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

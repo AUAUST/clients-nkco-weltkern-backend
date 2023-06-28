@@ -1,31 +1,3 @@
-Title: A-Typical Plan
-
-----
-
-Multilinetitle: A-Typical Plan
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: A-Typical Plan
@@ -41,16 +13,16 @@ author:
   id: 88
 description: '<p><em>A-Typical Plan</em> is an analytical and atmospheric insight into the architecture and typology of the office building from the 1880s to 2012. Featured are buildings and projects by Frank Lloyd Wright, Kenzo Tange, Giuseppe Terragni, Le Corbusier, SANAA, Herzog &#038; de Meuron, Toyo Ito, Christian Kerez, and others. Other than with residential architecture, the office building has scarcely been investigated in a comparative way in books. Moreover, in most cases only the exterior of such buildings has been described and depicted. The new book <em>A-Typical Plan</em> now closes this gap. Based on twenty case studies that are illustrated with sections, floor plans and photographs, it analyses the evolving typology of office blocks&#8217; interiors. Nine essays, an interview, and a comic strip shed light at various aspects and facets of the office building throughout its history. Work by students at Ecole Polytechnique Federal de Lausanne&#8217;s (EPFL) school of architecture shows how such research is transformed into new projects. Essays by Inaki Abalos, Pier Vittorio Aureli, Andrea Bassi, Florian Idenburg, Jeannette Kuo, Freek Persyn, Antoine Picon. Graphic essay by Jimenez Lai.</p>'
 details: |
-  - ISBN: 3906027090 / 978-3906027098
+  ISBN: 3906027090 / 978-3906027098
   
-  - Content: 206 pages
-  - Size: 150 × 15 × 250 mm
-  - Author: Jeannette Kuo
-  - Design: Bänziger Hug GmbH
-  - Language: English
-  - Publishing date: 2013
-  - Specs: Hardcover
-  - Images: © Park Books. All rights reserved.
+  Content: 206 pages
+  Size: 150 × 15 × 250 mm
+  Author: Jeannette Kuo
+  Design: Bänziger Hug GmbH
+  Language: English
+  Publishing date: 2013
+  Specs: Hardcover
+  Images: © Park Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -84,4 +56,32 @@ tags: [ ]
 
 ----
 
-Uuid: W4MppKUowg6ErONH
+Multilinetitle: A-Typical Plan
+
+----
+
+Uuid: D0RXu6m40zNGoj6D
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

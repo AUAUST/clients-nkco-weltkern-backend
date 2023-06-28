@@ -1,39 +1,3 @@
-Title: Unlirice|#00 Domains Issue
-
-----
-
-Multilinetitle: 
-
-----
-
-Multilinetitleseparator: 
-
-----
-
-Publisher: 
-
-----
-
-Tags: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Unlirice <br>#00 Domains Issue'
@@ -53,15 +17,50 @@ description: |
   <p>UNLIRICE #00 is a sort of rough sketch, one that we hope to continue to fill in together with everyone in any way that comes to mind. The magazine format itself is only one, provisional form of UNLIRICE.</p>
   <p>I hope that this project gives rise to new contexts and new connections, and unlocks some part of Asia’s untapped potential.</p>
 details: |
-  - Content: 464 pages
-  - Size: 290 × 220 mm
-  - Language: English
-  - Publication: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / UNLIRICE. All rights reserved.
+  Content: 464 pages
+  Size: 290 × 220 mm
+  Language: English
+  Publication: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / UNLIRICE. All rights reserved.
 gallery:
   - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2022/06/BOOK_COVER_UNLIRICE-Volume-00.jpg
     id: 21131
 tags: [ ]
+
+----
+
+Multilinetitle:
+
+Unlirice
+#00 Domains Issue
+
+----
+
+Uuid: nfK5p8OjanPhs7FV
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

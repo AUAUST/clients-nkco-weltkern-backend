@@ -1,34 +1,3 @@
-Title: Le Style sapin|Une expérience de l'art nouveau
-
-----
-
-Multilinetitle:
-
-Le Style sapin
-Une expérience de l'art nouveau
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: "Le Style sapin <br>Une expérience de l'art nouveau"
@@ -43,14 +12,14 @@ author:
   id: 89
 description: '<p>This book in French, produced in collaboration with the Musée de la Chaux-de-Fonds, offers a study of a style that is still little known: in parallel to the style described as &#8220;noodle&#8221;, the sapin style is an emanation of Art Nouveau specific to the canton of Neuchâtel and the Swiss Jura. Carried by the school of La Chaux-de-Fonds and by the teaching of Charles l&#8217;Eplattenier, it provided a decorative alternative to the great industrialization of Swiss cities at the beginning of the 20th century. Before founding his modernist theories, Le Corbusier was trained in this style, from which he later retained some influences.</p>'
 details: |
-  - ISBN: 3858818844 / 978-3858818843
-  - Content: 240 pages
-  - Size: 237 × 285 mm
-  - Author: Marie Gaitzsch
-  - Language: French
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN ® / Scheidegger & Spiess. All rights reserved.
+  ISBN: 3858818844 / 978-3858818843
+  Content: 240 pages
+  Size: 237 × 285 mm
+  Author: Marie Gaitzsch
+  Language: French
+  Publishing date: 2022
+  Specs: Softcover
+  Images: © WELTKERN ® / Scheidegger & Spiess. All rights reserved.
 gallery:
   - 
     url: >
@@ -76,4 +45,35 @@ tags: [ ]
 
 ----
 
-Uuid: u0QdAXDhu2pvqkId
+Multilinetitle:
+
+Le Style sapin
+Une expérience de l'art nouveau
+
+----
+
+Uuid: l1dj3FH7CPPeRKuz
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

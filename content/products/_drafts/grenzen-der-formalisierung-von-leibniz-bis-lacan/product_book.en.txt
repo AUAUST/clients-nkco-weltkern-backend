@@ -1,34 +1,3 @@
-Title: Grenzen der Formalisierung|Von Leibniz bis Lacan
-
-----
-
-Multilinetitle:
-
-Grenzen der Formalisierung
-Von Leibniz bis Lacan
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Grenzen der Formalisierung <br>Von Leibniz bis Lacan'
@@ -46,15 +15,15 @@ description: |
   <p>Dr Michael Friedman is a historian of mathematics and works at the Cluster of Excellence ”Matters of Activity,“ Humboldt University of Berlin. His most recent publication is A History of Folding in Mathematics (Basel 2018).</p>
   <p>Dr Angelika Seppi is a research associate at Humboldt University of Berlin and the Bauhaus Universität Weimar. She carries out research at the interface of philosophy, media studies, art and visual history.</p>
 details: |
-  - ISBN: 3959052757 / 978-3959052757
-  - Content: 248 pages
-  - Size: 160 × 230 mm
-  - Language: German
-  - Designed by: Florian Lamm
-  - Texts by: Samo Tomšič
-  - Publication: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: 3959052757 / 978-3959052757
+  Content: 248 pages
+  Size: 160 × 230 mm
+  Language: German
+  Designed by: Florian Lamm
+  Texts by: Samo Tomšič
+  Publication: 2022
+  Specs: Softcover
+  Images: © WELTKERN® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -88,4 +57,35 @@ tags: [ ]
 
 ----
 
-Uuid: Gf5vBOLONxeWjNJO
+Multilinetitle:
+
+Grenzen der Formalisierung
+Von Leibniz bis Lacan
+
+----
+
+Uuid: 0QReMAANj916qzYq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

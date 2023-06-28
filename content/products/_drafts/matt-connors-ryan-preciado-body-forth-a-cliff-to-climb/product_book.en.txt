@@ -1,34 +1,3 @@
-Title: Matt Connors & Ryan Preciado|Body Forth / A Cliff to Climb
-
-----
-
-Multilinetitle:
-
-Matt Connors & Ryan Preciado
-Body Forth / A Cliff to Climb
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Matt Connors & Ryan Preciado <br>Body Forth / A Cliff to Climb'
@@ -43,12 +12,12 @@ author:
   id: 368
 description: '<p>Published on the occasion of the two-person show at Canada Gallery, Body Forth / A Cliff To Climb is an image correspondence between the artists Matt Connors and Ryan Preciado. Two directional, the book switches in the middle and requires the viewer to rotate the book, changing the perspective; East to West, West to East; Matt to Ryan, Ryan to Matt. The book also features a newly commissioned text by Durga Chew-Bose.</p>'
 details: |
-  - ISBN: 8885898775 / 979-8885898775
-  - Content: 196 pages
-  - Size: 266 × 222 mm
-  - Language: English
-  - Publication: 2022
-  - Specs: Softcover
+  ISBN: 8885898775 / 979-8885898775
+  Content: 196 pages
+  Size: 266 × 222 mm
+  Language: English
+  Publication: 2022
+  Specs: Softcover
 gallery:
   - 
     url: >
@@ -58,4 +27,35 @@ tags: [ ]
 
 ----
 
-Uuid: abK5PHvSNfqetIJl
+Multilinetitle:
+
+Matt Connors & Ryan Preciado
+Body Forth / A Cliff to Climb
+
+----
+
+Uuid: ZREcWU95aCpodQs5
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

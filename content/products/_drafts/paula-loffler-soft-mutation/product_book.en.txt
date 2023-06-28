@@ -1,34 +1,3 @@
-Title: Paula Löffler|Soft Mutation
-
-----
-
-Multilinetitle:
-
-Paula Löffler
-Soft Mutation
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Paula Löffler <br>Soft Mutation'
@@ -45,13 +14,13 @@ description: |
   <br />
   The publication soft mutation features works from the past three years, with a focus on the exhibition of the same title mounted by Städtische Galerie Eichenmüllerhaus in conjunction with Löffler’s receipt of the Young Artists’ Fellowship of the Old Hanseatic City of Lemgo. With a text by Miriam Bettin. Each copy also includes an artist’s edition in the form of a foldout poster.</p>
 details: |
-  - ISBN: 395476413X / 978-3954764136
-  - Content: 64 pages
-  - Size: 210 × 300 mm
-  - Language: German
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: 395476413X / 978-3954764136
+  Content: 64 pages
+  Size: 210 × 300 mm
+  Language: German
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Distanz. All rights reserved.
 gallery:
   - 
     url: >
@@ -73,4 +42,35 @@ tags: [ ]
 
 ----
 
-Uuid: 3YeTyXFsca10YhMM
+Multilinetitle:
+
+Paula Löffler
+Soft Mutation
+
+----
+
+Uuid: rJkR0SgQBGaxCs9J
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

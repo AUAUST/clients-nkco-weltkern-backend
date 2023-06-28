@@ -1,31 +1,3 @@
-Title: Types We Can Make
-
-----
-
-Multilinetitle: Types We Can Make
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Types We Can Make
@@ -39,15 +11,15 @@ author:
   id: 95
 description: '<p>Accompanying the eponymous exhibition, this book reflects in detail the design methodologies taught at the ECAL and highlights some of the external collaborations. Some of the graphic design graduates have their typefaces represented: Nicolas Eigenheer, Phillippe Desarzens, Matthieu Cortat, Emmanuel Rey, Jeremy Schorderet, Ian Party and many others. World-class teachers such as Ludovic Balland, Cornel Windin, Jonas Voegeli and NORM Zurich are also featured in the book. Types We Can Makes goes beyond typefaces alone to show their use in various formats: editions of the art magazine Sang Bleu, logos designed for rapper Jay-Z&#8217;s Roc Nation, artist monographs for Die Gestalten and JRP Ringier, art direction and poster design by Körner Union or Tatiana Rihs&#8230;</p>'
 details: |
-  - Content: 128 pages
-  - Size: 180 × 21 × 310 mm
-  - Edited by: Gilles Gavillet, François Rappo, Jeremy Schorderet
-  - Texts by: Pierre Keller, Jonas Vögeli
-  - Design: Gilles Gavillet, François Rappo, Jeremy Schorderet
-  - Language: English
-  - Publishing date: 2010
-  - Specs: Hardcover
-  - Images: © ECAL. All rights reserved.
+  Content: 128 pages
+  Size: 180 × 21 × 310 mm
+  Edited by: Gilles Gavillet, François Rappo, Jeremy Schorderet
+  Texts by: Pierre Keller, Jonas Vögeli
+  Design: Gilles Gavillet, François Rappo, Jeremy Schorderet
+  Language: English
+  Publishing date: 2010
+  Specs: Hardcover
+  Images: © ECAL. All rights reserved.
 gallery:
   - 
     url: >
@@ -69,4 +41,32 @@ tags: [ ]
 
 ----
 
-Uuid: V3aNFPrDZCf0tpdK
+Multilinetitle: Types We Can Make
+
+----
+
+Uuid: qcnQwnCS6KamWBBY
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,31 +1,3 @@
-Title: Andy Warhol
-
-----
-
-Multilinetitle: Andy Warhol
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Andy Warhol
@@ -45,16 +17,16 @@ description: |
   <br />
   Looking at his background in an immigrant family, ideas of death and religion, sexuality, and ambition to push traditional artistic boundaries, the book reveals Warhol as an artist who succeeded and failed in equal measure and who embraced the establishment while cavorting with the underground. It explores Warhol&#8217;s flirtation with the commercial world of celebrity alongside his socially engaged collaborations and advocacy of alternative lifestyles. Including many iconic as well as lesser-known works, this book highlights Warhol&#8217;s conceptual ambition within the shifting creative and political landscape, permitting a broad view of how Warhol, and his work, mark a period of cultural transformation.</p>
 details: |
-  - ISBN: 0847869253 / 978-0847869251
+  ISBN: 0847869253 / 978-0847869251
   
-  - Content: 224 Pages
-  - Size: 222 × 22 × 289 mm
-  - Authors: Gregor Muir, Yilmaz Dziewior
-  - Contributions from: Kenneth Brummel, Stephan Diederich, Olivia Laing
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  Content: 224 Pages
+  Size: 222 × 22 × 289 mm
+  Authors: Gregor Muir, Yilmaz Dziewior
+  Contributions from: Kenneth Brummel, Stephan Diederich, Olivia Laing
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
 gallery:
   - 
     url: >
@@ -88,4 +60,32 @@ tags: [ ]
 
 ----
 
-Uuid: LLLcOuQyO4QBvviD
+Multilinetitle: Andy Warhol
+
+----
+
+Uuid: wmUbcyJxiWcQi1em
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

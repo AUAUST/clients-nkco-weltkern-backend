@@ -1,31 +1,3 @@
-Title: National Letters
-
-----
-
-Multilinetitle: National Letters
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: National Letters
@@ -39,18 +11,18 @@ author:
   id: 370
 description: '<p>National Letters is the first book published by Letter Books. National Letters travels through the episodes of the past in which letters, languages, and scripts played an important role in creating nation states and national identities. Through four case studies (Turkey, Israel, Georgia, Ethiopia), the main body of the book explores four languages and nations which were each, against all odds and for various reasons, able to develop and maintain their writing system throughout their entire history, up to the founding of their nation state.</p>'
 details: |
-  - ISBN: 8027098491 / 978-8027098491
-  - Content: 384 pages
-  - Size: 110 × 180 mm
-  - Language: English
-  - Publishing date: 2019
-  - Edited by : Marek Nedelka
-  - Designed by: Marek Nedelka
-  - Contributions by: Rusudan Amirejibi–Mullen, Ivo T. Budil, Birol Caymaz, Tomáš Garrigue Masaryk, Marek Nedelka, William Safran, Emmanuel Szurek
+  ISBN: 8027098491 / 978-8027098491
+  Content: 384 pages
+  Size: 110 × 180 mm
+  Language: English
+  Publishing date: 2019
+  Edited by : Marek Nedelka
+  Designed by: Marek Nedelka
+  Contributions by: Rusudan Amirejibi–Mullen, Ivo T. Budil, Birol Caymaz, Tomáš Garrigue Masaryk, Marek Nedelka, William Safran, Emmanuel Szurek
   
-  - Postcard letterings by: Jan Horčík, Seb McLauchlan, Anežka Minaříková, Jan Novák
-  - Specs: Embossed softcover, 300 copies
-  - Images: © WELTKERN® / Letter books. All rights reserved.
+  Postcard letterings by: Jan Horčík, Seb McLauchlan, Anežka Minaříková, Jan Novák
+  Specs: Embossed softcover, 300 copies
+  Images: © WELTKERN® / Letter books. All rights reserved.
 gallery:
   - 
     url: >
@@ -112,4 +84,32 @@ tags: [ ]
 
 ----
 
-Uuid: FB9SvLofBmvtN2Ib
+Multilinetitle: National Letters
+
+----
+
+Uuid: A7GSDuA1BghRoB0n
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

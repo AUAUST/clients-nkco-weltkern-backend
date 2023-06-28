@@ -1,34 +1,3 @@
-Title: A–Chan|Off Beat
-
-----
-
-Multilinetitle:
-
-A–Chan
-Off Beat
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'A–Chan <br>Off Beat'
@@ -46,13 +15,13 @@ description: |
   <p>Off Beat presents photographs taken in New York City in 2008 and 2009, when A-chan began working with black and white film. The images were made in the same wandering spirit as those in Vibrant Home, also to be published this season by Steidl. A-chan explored the streets of New York, allowing her compositions to reveal themselves rather than searching for pre-determined motifs. Pigeons perched on a branch, the lyrical geometry of serviettes on a table, or the play of shapes created by a bus silhouetted against traffic: such is the material of A-chan’s restless, charming vision.</p>
   <p>Born in 1978 and raised in Japan, A-chan began her career photographing advertisements, CD jackets and magazine editorials. She has since exhibited her photographs and held slide shows at galleries in Tokyo. In 2006 A-chan moved to New York City and in 2007 began working with Robert Frank. She has co-edited and co-designed a number of Frank’s books including &#8220;Tal Uf Tal Ab&#8221; (2010), &#8220;Pangnirtung&#8221; (2011) and &#8220;You Would&#8221; (2012).</p>
 details: |
-  - ISBN: 3869304168 / 978-3869304168
-  - Content: 60 pages
-  - Size: 190 × 250 mm
-  - Language: English
-  - Publication: 2012
-  - Specs: Softcover
-  - Images: © WELTKERN® / Steidl. All rights reserved.
+  ISBN: 3869304168 / 978-3869304168
+  Content: 60 pages
+  Size: 190 × 250 mm
+  Language: English
+  Publication: 2012
+  Specs: Softcover
+  Images: © WELTKERN® / Steidl. All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: JSBswLA8yZhrDdnM
+Multilinetitle:
+
+A–Chan
+Off Beat
+
+----
+
+Uuid: LtCMTLViB4YA9Bj2
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

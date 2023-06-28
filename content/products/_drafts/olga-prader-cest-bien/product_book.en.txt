@@ -1,34 +1,3 @@
-Title: Olga Prader|C’est Bien
-
-----
-
-Multilinetitle:
-
-Olga Prader
-C’est Bien
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Olga Prader <br>C’est Bien'
@@ -45,14 +14,14 @@ description: |
   Olga Prader’s colouring book contains<br />
   46 drawings. C’est bien.</p>
 details: |
-  - ISBN: 3952471098 / 978-3952471098
-  - Content: 48 pages
-  - Size: 210 × 297 mm
-  - Language: English
-  - Graphic Design by: Studio Nüssli+Nuessli
-  - Publication: 2021
-  - Specs: Paperback
-  - Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: 3952471098 / 978-3952471098
+  Content: 48 pages
+  Size: 210 × 297 mm
+  Language: English
+  Graphic Design by: Studio Nüssli+Nuessli
+  Publication: 2021
+  Specs: Paperback
+  Images: © WELTKERN® / Cpress. All rights reserved.
 gallery:
   - 
     url: >
@@ -90,4 +59,35 @@ tags: [ ]
 
 ----
 
-Uuid: nWilwZleRWFUi8kd
+Multilinetitle:
+
+Olga Prader
+C’est Bien
+
+----
+
+Uuid: YLjONwuno3Hn07Fp
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

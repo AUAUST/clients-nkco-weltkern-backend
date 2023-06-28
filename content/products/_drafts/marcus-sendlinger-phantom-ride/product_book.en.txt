@@ -1,34 +1,3 @@
-Title: Marcus Sendlinger|Phantom Ride
-
-----
-
-Multilinetitle:
-
-Marcus Sendlinger
-Phantom Ride
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Marcus Sendlinger <br>Phantom Ride'
@@ -45,13 +14,13 @@ description: |
   <br />
   The publication Phantom Ride presents collages and sculptures from the past three years to chart a journey through cities and peripheries dotted with traces of a promise of freedom.</p>
 details: |
-  - ISBN: 3954763745 / 978-3954763740
-  - Content: 128 pages
-  - Size: 220 × 280 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: 3954763745 / 978-3954763740
+  Content: 128 pages
+  Size: 220 × 280 mm
+  Language: English
+  Publishing date: 2020
+  Specs: Hardcover
+  Images: © WELTKERN® / Distanz. All rights reserved.
 gallery:
   - 
     url: >
@@ -77,4 +46,35 @@ tags: [ ]
 
 ----
 
-Uuid: ziCRAxMG6jrSXmYn
+Multilinetitle:
+
+Marcus Sendlinger
+Phantom Ride
+
+----
+
+Uuid: wjBHNMfLew61wxqC
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

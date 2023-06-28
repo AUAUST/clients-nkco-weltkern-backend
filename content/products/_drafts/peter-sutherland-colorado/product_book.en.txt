@@ -1,34 +1,3 @@
-Title: Peter Sutherland|Colorado
-
-----
-
-Multilinetitle:
-
-Peter Sutherland
-Colorado
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Peter Sutherland <br>Colorado'
@@ -49,16 +18,16 @@ description: |
   <br />
   Peter Sutherland (American, b. 1976) is an artist working across fine art and commissioned photography. His work has been exhibited in institutions and galleries worldwide, including the Contemporary Art Museum, St Louis; Galerie Rodolphe Janssen, Brussels; White Cube, London; Zabludowicz Collection, London.</p>
 details: |
-  - ISBN: 8897185123 / 978-8897185123
-  - Content: 148 Pages
-  - Size: 200 × 18 × 300 mm
-  - Author: Peter Sutherland
-  - Texts by: Maia Ruth Lee, Leo Fitzpatrick
-  - Design: Kasper Florio
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISBN: 8897185123 / 978-8897185123
+  Content: 148 Pages
+  Size: 200 × 18 × 300 mm
+  Author: Peter Sutherland
+  Texts by: Maia Ruth Lee, Leo Fitzpatrick
+  Design: Kasper Florio
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
 gallery:
   - 
     url: >
@@ -100,4 +69,35 @@ tags: [ ]
 
 ----
 
-Uuid: 6M9pI1rAL8u8c4Ca
+Multilinetitle:
+
+Peter Sutherland
+Colorado
+
+----
+
+Uuid: YreoKvpFXsmrgONe
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

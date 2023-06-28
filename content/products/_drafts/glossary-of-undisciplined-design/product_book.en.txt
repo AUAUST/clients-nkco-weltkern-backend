@@ -1,31 +1,3 @@
-Title: Glossary of Undisciplined Design
-
-----
-
-Multilinetitle: Glossary of Undisciplined Design
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Glossary of Undisciplined Design
@@ -39,16 +11,16 @@ author:
   id: 99
 description: '<p>D for Dummy Woman, M for Monster’s Tools, S for Style Defense, U for Unstable Signs―<em>The Glossary of Undisciplined Design</em> presents a feminist unpacking of the field of graphic design, offering &#8220;undisciplinarity&#8221; as the solution to a discipline that has historically featured a multitude of dogmatic rules, discriminatory structures and a particularly one-sided canon. Carried by a decidedly fragmentary and collective backbone, <em>The Glossary of Undisciplined Design</em> combines a multitude of theories and narratives of varying densities and forms, from visual essay, to hands-on experiment, to interview or advertorial, to poem, to speculative tale and scholarly writing. With around 55 contributions by 20 international designers, activists, educators and theorists, the handbook progresses alphabetically, exploring role models, tools and methods of dissent within a colorful and graphic handbook, featuring qualities akin to those of an artist’s zine.</p>'
 details: |
-  - ISBN: 3959054467 / 978-3959054461
-  - Content: 312 Pages
-  - Size: 110 × 175 mm
-  - Edited by: Anja Kaiser, Rebecca Stephany
-  - Contributions from: Clara Balaguer, Ece Canli, Sheila Levrant de Bretteville, Markus Dreßen, Sara Kaaman, Jungmyung Lee, Vincent Schier, Franciska Zólyom
-  - Design: Anja Kaiser, Rebecca Stephany
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: 3959054467 / 978-3959054461
+  Content: 312 Pages
+  Size: 110 × 175 mm
+  Edited by: Anja Kaiser, Rebecca Stephany
+  Contributions from: Clara Balaguer, Ece Canli, Sheila Levrant de Bretteville, Markus Dreßen, Sara Kaaman, Jungmyung Lee, Vincent Schier, Franciska Zólyom
+  Design: Anja Kaiser, Rebecca Stephany
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -106,4 +78,32 @@ tags: [ ]
 
 ----
 
-Uuid: 9YmowlgyvLJ4PQoo
+Multilinetitle: Glossary of Undisciplined Design
+
+----
+
+Uuid: WNGZpTWrHWu3sSn7
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

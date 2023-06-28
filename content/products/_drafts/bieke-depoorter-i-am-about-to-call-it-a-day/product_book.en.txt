@@ -1,34 +1,3 @@
-Title: Bieke Depoorter|I Am About To Call It a Day
-
-----
-
-Multilinetitle:
-
-Bieke Depoorter
-I Am About To Call It a Day
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Bieke Depoorter <br>I Am About To Call It a Day'
@@ -50,15 +19,15 @@ description: |
   <br />
   We are immersed in obscurity. We find ourselves scarcely scratching the surface of these unpolished and unvarnished images. A surreal breeze drifts through the portraits and landscapes in this book despite their documentary nature, while the visual idiom inclines towards the cinematographic. Maybe these images were not meant to be fathomed; rather, the photographer is acutely aware of the inarticulate and the ineffable, melting away into thin air ever so easily. We watch how everything puzzles into place within the frame of the picture, and how once upon a time the light caressed a surface. Faraway, so close. </p>
 details: |
-  - ISBN: 3905929690 / 978-3905929690
-  - Content: 80 Pages
-  - Size: 285 × 13 × 420 mm
-  - Artist: Bieke Depoorter
-  - Design: Armand Mevis
-  - Language: French
-  - Publishing date: 2014
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: 3905929690 / 978-3905929690
+  Content: 80 Pages
+  Size: 285 × 13 × 420 mm
+  Artist: Bieke Depoorter
+  Design: Armand Mevis
+  Language: French
+  Publishing date: 2014
+  Specs: Hardcover
+  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -68,4 +37,35 @@ tags: [ ]
 
 ----
 
-Uuid: fbE41eQVzi3ohCFm
+Multilinetitle:
+
+Bieke Depoorter
+I Am About To Call It a Day
+
+----
+
+Uuid: j9c7K6kWQa57mjXD
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

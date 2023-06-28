@@ -1,34 +1,3 @@
-Title: Décor n° 02|Vulgaire
-
-----
-
-Multilinetitle:
-
-Décor n° 02
-Vulgaire
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Décor n° 02 <br>Vulgaire'
@@ -47,13 +16,13 @@ description: |
   Décor calls on authors from different fields of theory (philosophy, art history, human sciences, etc.) as well as from literary and artistic creation. They may be recognised personalities and confirmed specialists, as well as students of the School or young talents.<br />
   The Décor magazine is also available in two other formats. It includes a digital component (revuedecor.fr) and social networks that are editorialized as a magazine of artistic discovery, as well as living &#8220;reviews&#8221; in the form of events and exhibitions.</p>
 details: |
-  - ISBN: 2905710772 / 978-2905710772
-  - Content: 496 pages
-  - Size: 165 × 240 mm
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / EnsAD. All rights reserved.
+  ISBN: 2905710772 / 978-2905710772
+  Content: 496 pages
+  Size: 165 × 240 mm
+  Language: English
+  Publishing date: 2022
+  Specs: Softcover
+  Images: © WELTKERN® / EnsAD. All rights reserved.
 gallery:
   - 
     url: >
@@ -63,4 +32,35 @@ tags: [ ]
 
 ----
 
-Uuid: CjsBL2IaQYvGAiBo
+Multilinetitle:
+
+Décor n° 02
+Vulgaire
+
+----
+
+Uuid: t7zSDp9jiljkidgZ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

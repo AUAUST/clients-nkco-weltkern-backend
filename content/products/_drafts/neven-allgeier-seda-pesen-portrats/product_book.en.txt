@@ -1,38 +1,3 @@
-Title: Neven Allgeier, Seda Pesen|Porträts
-
-----
-
-Multilinetitle:
-
-Neven Allgeier, Seda Pesen
-Porträts
-
-----
-
-Multilinetitleseparator: colon
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Neven Allgeier, Seda Pesen <br>Porträts'
@@ -49,17 +14,17 @@ description: |
   <br />
   Porträts is the first contemporary foray into publishing an extensive selection of these photographs and reflecting what they show. In a nod to the generation portraits by recognized masters of the medium like Thomas Ruff and Stefan Moses, the pictures are meant to capture not only the individual subjects, but also contemporary aesthetic codes—through the photography as such as well as the fashion styles and settings. The book—a who’s who of young art and review of contemporary aesthetics—features over 125 emerging artists. It is rounded out by essays by Anne-Marie Bonnet, Heinz Drügh, Barbara Kapusta, and Barbara Zeman.</p>
 details: |
-  - ISBN: 3954763966 / 978-3954763962
-  - Content: 184 pages
-  - Size: 220 × 300 mm
-  - Language: German
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: 3954763966 / 978-3954763962
+  Content: 184 pages
+  Size: 220 × 300 mm
+  Language: German
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Distanz. All rights reserved.
 gallery:
   - 
     url: >
-      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Porträts.jpg
+      https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_Porträts.jpg
     id: 21630
   - 
     url: >
@@ -81,4 +46,35 @@ tags: [ ]
 
 ----
 
-Uuid: WcpnUs1liaPX9BXV
+Multilinetitle:
+
+Neven Allgeier, Seda Pesen
+Porträts
+
+----
+
+Uuid: kZ3dEb58T1q32pS4
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

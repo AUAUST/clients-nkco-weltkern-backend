@@ -1,34 +1,3 @@
-Title: The Society|Jessica Sarah Rinland
-
-----
-
-Multilinetitle:
-
-The Society
-Jessica Sarah Rinland
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'The Society <br>Jessica Sarah Rinland'
@@ -44,13 +13,13 @@ description: |
   <p>This book has been published on the occasion of: Black Pond (2018), a film by Jessica Sarah Rinland with the Elmbridge Natural History Society.</p>
   <p><em>The Society</em> brings together photographic and written documentation between the artist, Jessica Sarah Rinland and her collaborators on Black Pond, the Elmbridge Natural History Society. In parallel with the film, the book draws an epistolary narrative structured around their email exchanges over a period of years. The current activities of the Society members—bat trapping, moth trapping, fungus forays, tree measuring, botanical walks—are explored in reference to the previous histories of the land, including the occupation by 17th century agrarian socialists, The Diggers. Between the members’ writings and imagery captured by Rinland, as she participates in their rambles throughout the Common land located in the south of England, emerges an intimate rustle, sounds of cooperation between humans and (amongst) nature.</p>
 details: |
-  - Content: 160 pages
-  - Size: 130 × 190 mm
-  - Author: Jessica Sarah Rinland
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Editions HS / printedmatter.org. All rights reserved.
+  Content: 160 pages
+  Size: 130 × 190 mm
+  Author: Jessica Sarah Rinland
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Editions HS / printedmatter.org. All rights reserved.
 gallery:
   - 
     url: >
@@ -60,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: FmomyNdM6iNVAqxW
+Multilinetitle:
+
+The Society
+Jessica Sarah Rinland
+
+----
+
+Uuid: 9pzaC3apS8onN9xg
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Lisa Sudhibhasilp|No Thanks, I'm Just Looking
-
-----
-
-Multilinetitle:
-
-Lisa Sudhibhasilp
-No Thanks, I'm Just Looking
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: "Lisa Sudhibhasilp <br>No Thanks, I'm Just Looking"
@@ -43,13 +12,13 @@ author:
   id: 389
 description: '<p>Born out of her fascination for shop displays, Lisa Sudhibhasilp imagined an exhibition in a hardware store. Improvising a series of sculptural interventions in situ, the artist played with existing display structures, proposing the hardware store as a place where the display of materiality can be contemplated like works of art in exhibition spaces. Photographer Johannes Schwartz documented the artist’s ephemeral installations and the existing fixtures and fittings, creating a portrait of the store.</p>'
 details: |
-  - ISBN: 9082771220 / 978-9082771220
-  - Content: 208 pages
-  - Size: 230 × 340 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © WELTKERN® / Building Fictions. All rights reserved.
+  ISBN: 9082771220 / 978-9082771220
+  Content: 208 pages
+  Size: 230 × 340 mm
+  Language: English
+  Publishing date: 2020
+  Specs: Softcover
+  Images: © WELTKERN® / Building Fictions. All rights reserved.
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: Xn2FA9HLNzo39Ixb
+Multilinetitle:
+
+Lisa Sudhibhasilp
+No Thanks, I'm Just Looking
+
+----
+
+Uuid: jlbobSOxlAHDBlP8
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

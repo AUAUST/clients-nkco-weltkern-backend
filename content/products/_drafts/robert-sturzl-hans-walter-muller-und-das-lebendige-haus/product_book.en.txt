@@ -1,34 +1,3 @@
-Title: Robert Stürzl|Hans-Walter Müller und das lebendige Haus
-
-----
-
-Multilinetitle:
-
-Robert Stürzl
-Hans-Walter Müller und das lebendige Haus
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Robert Stürzl <br>Hans-Walter Müller und das lebendige Haus'
@@ -45,15 +14,15 @@ description: |
   <p>The publication is based on the editor’s discussions with the architect, civil engineer, and artist Hans-Walter Müller, who has been developing forms of pneumatic architecture since the late 1960s. Müller has designed inflatable volumes for artists like Jean Dubuffet, Salvador Dalí, and Maurice Béjart and has himself had his permanent home in an air structure on an airfield south of Paris since 1973. Hans-Walter Müller und das lebendige Haus combines conversations, photographs and drawings from Müller’s archive with early texts written by the architect and a comprehensive catalogue raisonné covering the period from 1961 to 2022. The publication thus provides German readers with the first in-depth study of the life’s work of the visionary architect and champion of living architecture.</p>
   <p>Hans-Walter Müller, born 1935 in Worms, is an architect and engineer. He has been building pneumatic structures since the early 1970s.</p>
 details: |
-  - ISBN: 3959055116 / 978-3959055116
-  - Content: 232 pages
-  - Size: 155 × 210 mm
-  - Language: German
-  - Designed by: Hannes Drißner
-  - Edited by: Robert Stürzl
-  - Publication: 2022
-  - Specs: Softcover with PVC dust jacket
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: 3959055116 / 978-3959055116
+  Content: 232 pages
+  Size: 155 × 210 mm
+  Language: German
+  Designed by: Hannes Drißner
+  Edited by: Robert Stürzl
+  Publication: 2022
+  Specs: Softcover with PVC dust jacket
+  Images: © WELTKERN® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -63,4 +32,35 @@ tags: [ ]
 
 ----
 
-Uuid: apFPucSLIAVFcH2D
+Multilinetitle:
+
+Robert Stürzl
+Hans-Walter Müller und das lebendige Haus
+
+----
+
+Uuid: UasFkt9agHVeCNuq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

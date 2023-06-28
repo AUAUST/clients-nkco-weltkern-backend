@@ -1,34 +1,3 @@
-Title: Lia Darjes|Tempora Morte
-
-----
-
-Multilinetitle:
-
-Lia Darjes
-Tempora Morte
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Lia Darjes <br>Tempora Morte'
@@ -42,17 +11,17 @@ author:
   id: 309
 description: '<p>During a residency in Kaliningrad (formerly East Prussia) Lia Darjes discovered the small improvised market stands on the roadsides of this neglected area largely cut off from the development of modern Europe. The Kaliningrad “oblast” was a military area with heavily restricted access until 1991 and since the end of the USSR has been a Russian exclave isolated between the EU members Poland and Lithuania. On the simplest improvised stands old women offer what they harvest with their hands from their gardens, nearby fields and forests to supplement their feeble pensions. The pictures live from the aura of simplicity and plainness of the presentation of goods on the ground, on wooden boxes, newspapers or simple camping tables. Lia Darje’s pictures show what is on offer in a classic, almost timeless impression: Potatoes, apples, berries, owers, garlic tubers, homemade marmalade, and most exceptionally a piece of meat. Her still lives are complimented by a few portraits of market women and traders. With the pictures of Tempora Morte in her first photobook Lia Darjes aims to develop a relationship of the classical still life genre with contemporary documentary photography.</p>'
 details: |
-  - ISBN: 3960700369 / 978-3960700364
-  - Content: 72 pages
-  - Size: 220 × 240 mm
-  - Artist: Lia Darjes
-  - Edited by: Hartmann Books
-  - Texts by: Andrei Zavadski
-  - Design: Hannah Feldmeier
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Hardcover with foil stamped lettering and tipped in picture
-  - Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: 3960700369 / 978-3960700364
+  Content: 72 pages
+  Size: 220 × 240 mm
+  Artist: Lia Darjes
+  Edited by: Hartmann Books
+  Texts by: Andrei Zavadski
+  Design: Hannah Feldmeier
+  Language: English
+  Publishing date: 2019
+  Specs: Hardcover with foil stamped lettering and tipped in picture
+  Images: © WELTKERN® / Hartmann Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: kR4oq7os6Sq5yXCZ
+Multilinetitle:
+
+Lia Darjes
+Tempora Morte
+
+----
+
+Uuid: xWmC1RuMk1GXwPwa
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

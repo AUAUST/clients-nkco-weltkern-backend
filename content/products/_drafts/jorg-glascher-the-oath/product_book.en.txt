@@ -1,34 +1,3 @@
-Title: Jörg Gläscher|The Oath
-
-----
-
-Multilinetitle:
-
-Jörg Gläscher
-The Oath
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Jörg Gläscher <br>The Oath'
@@ -47,17 +16,17 @@ description: |
   <br />
   His photographs of and about mayors, judges, police officers, and citizens provides a reality check of the state of this world’s democracies that are finding themselves under increasing pressure. It is this set of issues that is being made the topic in “The Oath”, Jörg Gläscher’s comprehensive visual investigation from eleven countries on four continents. The work demonstrates that good photography is able to depict complex political issues in impressive images.</p>
 details: |
-  - ISBN: 3960700768 / 978-3960700760
-  - Content: 208 pages
-  - Size: 240 × 300 mm
-  - Artist: Jörg Gläscher
-  - Edited by: Hartmann Books
-  - Texts by: Sonja Zekri
-  - Design: Florian Lamm
-  - Language: German / English
-  - Publishing date: 2021
-  - Specs: Hardcover with foil-stamping
-  - Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: 3960700768 / 978-3960700760
+  Content: 208 pages
+  Size: 240 × 300 mm
+  Artist: Jörg Gläscher
+  Edited by: Hartmann Books
+  Texts by: Sonja Zekri
+  Design: Florian Lamm
+  Language: German / English
+  Publishing date: 2021
+  Specs: Hardcover with foil-stamping
+  Images: © WELTKERN® / Hartmann Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -67,4 +36,35 @@ tags: [ ]
 
 ----
 
-Uuid: 2qhOXmX6coVtvC9E
+Multilinetitle:
+
+Jörg Gläscher
+The Oath
+
+----
+
+Uuid: RAjNe1gnQ97CTd3c
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

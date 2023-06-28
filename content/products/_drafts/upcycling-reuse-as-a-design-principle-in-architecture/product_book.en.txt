@@ -1,34 +1,3 @@
-Title: Upcycling|Reuse as a Design Principle in Architecture
-
-----
-
-Multilinetitle:
-
-Upcycling
-Reuse as a Design Principle in Architecture
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Upcycling <br>Reuse as a Design Principle in Architecture'
@@ -48,13 +17,13 @@ description: |
   This publication explores the potential of historical concepts of upcycling – the qualitative recycling of buildings and building components – and confronts them with new developments in architectural and building practice.<br />
   Importantly, the authors look into the question of whether and how new solutions could be found for future architecture. “Recycling and upcycling” should not be a matter of idealism, but rather present an argument for economy and the quality of structure and design.</p>
 details: |
-  - ISBN: 3038630463 / 978-3038630463
-  - Content: 204 pages
-  - Size: 158 × 24 × 206 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Triest Verlag. All rights reserved.
+  ISBN: 3038630463 / 978-3038630463
+  Content: 204 pages
+  Size: 158 × 24 × 206 mm
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Triest Verlag. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: HNj0YS6SNd9Y7vqG
+Multilinetitle:
+
+Upcycling
+Reuse as a Design Principle in Architecture
+
+----
+
+Uuid: 5fQVP78hCAJxPQfS
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: KALEIDOSCOPE #41 FW22|Vegyn
-
-----
-
-Multilinetitle:
-
-KALEIDOSCOPE #41 FW22
-Vegyn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #41 FW22 <br>Vegyn'
@@ -45,13 +14,13 @@ description: |
   <p>In conversation with Hans Ulrich Obrist, artist Charles Atlas reminisces about starting out in the NYC underground drag scene of the 1970s, and collaborating with the likes of Merce Cunningham, Michael Clark, and Leigh Bowery. Reinterpreted through the lens of photographer Charlie Engman, his lexicon is one of raw energy and omnivorous imagination, spanning from docu-fantasy to mathematics, from TV to TikTok.</p>
   <p>Shot in Tokyo by Motoyuki Daifu on the occasion of his Don&#8217;t Follow Me Because I&#8217;m Lost Too!! tour, London-based VEGYN is something of a prodigy, having produced music for the likes of Frank Ocean, founded his own record label, and doubled as a graphic designer. Here, he sits down for a chat with Cyrus Goberville to explain how he remains level-headed in the oversaturated electronic music arena.</p>
 details: |
-  - Content: 348 pages
-  - Size: 230 × 300 mm
-  - Design: Kasper Florio with Samuel Bänziger
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Soft Cover with embossing
-  - Images: © WELTKERN ® / Kaleidoscope. All rights reserved.
+  Content: 348 pages
+  Size: 230 × 300 mm
+  Design: Kasper Florio with Samuel Bänziger
+  Language: English
+  Publishing date: 2022
+  Specs: Soft Cover with embossing
+  Images: © WELTKERN ® / Kaleidoscope. All rights reserved.
 gallery:
   - 
     url: >
@@ -109,4 +78,35 @@ tags: [ ]
 
 ----
 
-Uuid: VyO7WdaLX1qza2F7
+Multilinetitle:
+
+KALEIDOSCOPE #41 FW22
+Vegyn
+
+----
+
+Uuid: OAYs6GTjKPCx9Zs6
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

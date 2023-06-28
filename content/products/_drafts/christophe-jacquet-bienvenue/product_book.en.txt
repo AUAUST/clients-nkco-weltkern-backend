@@ -1,34 +1,3 @@
-Title: Christophe Jacquet|Bienvenue
-
-----
-
-Multilinetitle:
-
-Christophe Jacquet
-Bienvenue
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Christophe Jacquet <br>Bienvenue'
@@ -47,14 +16,14 @@ description: |
   <br />
   Finally, Pour Jean Sénac will be the only printed project of this ambitious editorial program. A printed book but which will not know an official launching and will end up for a good part of its copies in boxes perhaps still sleeping somewhere in the French cultural center of the capital of Algeria. The present work, published on the occasion of the Designing Writing research program at the École Cantonale de Lausanne, aims to revive this forgotten editorial history. It is a question, through the publication of a conversation around the For Jean Sénac and the publication or re-publication of documents from the period or contemporary productions by Christophe Jacquet, of proceeding with an untimely launch. It is a question, thirteen years after its release, of welcoming Pour Jean Sénac.</p>
 details: |
-  - ISBN: 1096155064 / 979-1096155064
-  - Content: 60 pages
-  - Size: 210 × 297 mm
-  - Texts by: Christophe Jacquet et Thierry Chancogne.
-  - Language: French
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+  ISBN: 1096155064 / 979-1096155064
+  Content: 60 pages
+  Size: 210 × 297 mm
+  Texts by: Christophe Jacquet et Thierry Chancogne.
+  Language: French
+  Publishing date: 2018
+  Specs: Softcover
+  Images: © WELTKERN® / Les presses du réel. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: kKNfzfS0sAO8VMXc
+Multilinetitle:
+
+Christophe Jacquet
+Bienvenue
+
+----
+
+Uuid: ZydoWdnuYCTMTpSE
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

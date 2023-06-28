@@ -1,34 +1,3 @@
-Title: Dieter Rams|The Complete Works
-
-----
-
-Multilinetitle:
-
-Dieter Rams
-The Complete Works
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Dieter Rams <br>The Complete Works'
@@ -46,13 +15,13 @@ description: |
   <br />
   This extraordinary book forms a catalogue raisonné of every product that Rams has designed in his lifetime – a true celebration of his seminal contribution to the field of industrial and product design. Including 300 color illustrations, the book is organized chronologically, each product is accompanied by a detailed description and specification breakdown, making this the ultimate reference guide for Rams fans and an ideal complement to Phaidon&#8217;s global bestseller Dieter Rams: As Little Design as Possible.</p>
 details: |
-  - ISBN: 1838661533 / 978-1838661533
-  - Content: 344 pages
-  - Size: 270 × 205 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: 1838661533 / 978-1838661533
+  Content: 344 pages
+  Size: 270 × 205 mm
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Phaidon Press. All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: Ikv4vrdmnilYbl1v
+Multilinetitle:
+
+Dieter Rams
+The Complete Works
+
+----
+
+Uuid: LR0jFVjjPMJ6r3xu
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

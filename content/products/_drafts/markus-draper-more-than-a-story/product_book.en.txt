@@ -1,34 +1,3 @@
-Title: Markus Draper|More than a story
-
-----
-
-Multilinetitle:
-
-Markus Draper
-More than a story
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Markus Draper <br>More than a story'
@@ -42,16 +11,16 @@ author:
   id: 99
 description: '<p>Markus Draper’s More than a story presents a selection of his images going back to the eruption of Mount St. Helens in Washington state in the US on 18 May 1980. Draper began to develop a fascination with photos and videos of this natural disaster in 2007. In the same year, he focused for the first time on the volcano’s peculiar ash cloud formations—a motif that would become a recurrent subject that still informs his paintings today. It is important for the artist that his pictures cannot be ”located“. ”My paintings do not seek to depict a concrete event—rather, they express a general feeling of insecurity, acting as a kind of diagnosis of society: there is a sense of unease, of vague fear and malaise that cannot be related to any specific causes. They also express a kind of criticism. It may be more comfortable for people to persevere in a state of fear than attempt to change the situation they are in.“</p>'
 details: |
-  - ISBN: 3959055463 / 978-3959055468
-  - Content: 44 pages
-  - Size: 240 × 320 mm
-  - Authors: Markus Draper
-  - Edited by: Spector Books
-  - Design: Christian Lange Studio
-  - Language: English / German
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: 3959055463 / 978-3959055468
+  Content: 44 pages
+  Size: 240 × 320 mm
+  Authors: Markus Draper
+  Edited by: Spector Books
+  Design: Christian Lange Studio
+  Language: English / German
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: 1EY3wzsDiHlIIuYj
+Multilinetitle:
+
+Markus Draper
+More than a story
+
+----
+
+Uuid: YUkF77TsAGqDSpzG
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Patrice Carré|Loin hop
-
-----
-
-Multilinetitle:
-
-Patrice Carré
-Loin hop
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Patrice Carré <br>Loin hop'
@@ -45,16 +14,16 @@ description: |
   Loin Hop is Patrice Carré&#8217;s second major monograph. The book, directed by Thibaut Robin, is organized like a playful, sonorous and tasty landscape to be traversed in any direction. The colorful climate varies from one region to another. Its format corresponds to Hergé&#8217;s adventure comic books.<br />
   Through 120 reproductions of sculptures, installations, objects, situations, photomontages, photographs by Patrice Carré, three texts by Catherine Elkar, Lise Guéhenneux, Emmanuel Latreille, two reproductions of fetish paintings that are four hundred and six years old, a long interview with Alexandre Castant, forty-six very graphic iconographic notes, one can discover the work of the artist since the late 1980s.</p>
 details: |
-  - ISBN: 1096155125 / 979-1096155125
-  - Content: 180 pages
-  - Size: 224 × 295 mm
-  - Author: Patrice Carré
-  - Texts by: Patrice Carré, Alexandre Castant, Catherine Elkar, Lise Guéhenneux, Emmanuel Latreille.
-  - Design: Thibaut Robin
-  - Language: French
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+  ISBN: 1096155125 / 979-1096155125
+  Content: 180 pages
+  Size: 224 × 295 mm
+  Author: Patrice Carré
+  Texts by: Patrice Carré, Alexandre Castant, Catherine Elkar, Lise Guéhenneux, Emmanuel Latreille.
+  Design: Thibaut Robin
+  Language: French
+  Publishing date: 2020
+  Specs: Hardcover
+  Images: © WELTKERN® / Les presses du réel. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: vRubEwYMBvoZO4RM
+Multilinetitle:
+
+Patrice Carré
+Loin hop
+
+----
+
+Uuid: 8khj4bnLygJRRzSU
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

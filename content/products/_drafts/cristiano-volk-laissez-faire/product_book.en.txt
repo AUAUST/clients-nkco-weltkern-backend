@@ -1,34 +1,3 @@
-Title: Cristiano Volk|Laissez-Faire
-
-----
-
-Multilinetitle:
-
-Cristiano Volk
-Laissez-Faire
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Cristiano Volk <br>Laissez-Faire'
@@ -42,14 +11,14 @@ author:
   id: 294
 description: '<p>“Imagine a life lived under the glow of artificial daylight, where reality is not experienced directly, but mediated through screens. Imagine a world so densely networked that all of the distinctions by which we have learned to make sense of time and place – interior and exterior, private and public, day and night – have collapsed into a single, neon- hued hallucination. Imagine the collective alienation of billions of conjoined subjects whose sole purpose is to act as vehicles for the exchange of commodities. This is the world described in Cristiano Volk’s Laissez-Faire. It may sound like a dystopian future, but it is our present.” – Eugenie Shinkle</p>'
 details: |
-  - ISBN: 9083165837 / 978-9083165837
-  - Content: 216 pages
-  - Size: 220 × 290 mm
-  - Author: Eugenie Shinkle
-  - Edited by: Fw:Books
-  - Language: English
-  - Spec: Softcover
-  - Images: © WELTKERN® / Fw:Books. All rights reserved.
+  ISBN: 9083165837 / 978-9083165837
+  Content: 216 pages
+  Size: 220 × 290 mm
+  Author: Eugenie Shinkle
+  Edited by: Fw:Books
+  Language: English
+  Spec: Softcover
+  Images: © WELTKERN® / Fw:Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: mrNljRrVPDdywyrT
+Multilinetitle:
+
+Cristiano Volk
+Laissez-Faire
+
+----
+
+Uuid: o0XaKy4LnViiWqQN
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

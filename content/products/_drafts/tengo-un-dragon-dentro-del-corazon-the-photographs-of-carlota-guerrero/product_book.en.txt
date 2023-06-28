@@ -1,34 +1,3 @@
-Title: Tengo un dragón dentro del corazón|The Photographs of Carlota Guerrero
-
-----
-
-Multilinetitle:
-
-Tengo un dragón dentro del corazón
-The Photographs of Carlota Guerrero
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tengo un dragón dentro del corazón <br>The Photographs of Carlota Guerrero'
@@ -43,14 +12,14 @@ author:
   id: 112
 description: '<p>Although her reputation exploded in 2016 with her iconic portrait of Solange Knowles for the artist&#8217;s album A Seat at the Table, self-taught photographer Carlota Guerrero has been producing work for more than a decade. This first book of her imagery is a record of Guerrero&#8217;s evolving style and a compilation of her visual obsessions. It also features texts by some of her renowned collaborative partners including the musician Rosalia, Rupi Kaur, the fashion designer Paloma Lanna, and the writers Alejandra Smits and Leticia Sala, as well as an introduction by the artist herself. In turns dreamy and unflinching, Guerrero&#8217;s work explores ideas of femininity and gender, nature and human connections, the female body, patterns, and the Golden Ratio. The monograph collects her early work, when she was just discovering her talents and her passion for photographing women in nature; stills from a performance piece that wowed at Art Basel Miami; a collaboration with poet Rupi Kaur; pictures from her project documenting the transgender community in Cuba, and more. At once subversive and ethereal, classical and distinctly individual, Guerrero&#8217;s photography signals a young artist increasingly at home in a chaotic world and poised to take on whatever comes next.</p>'
 details: |
-  - ISBN: 3791387111 / 978-3791387116
-  - Content: 192 Pages
-  - Size: 222 × 25 × 308 mm
-  - Author: Carlota Gerrero
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Prestel / Moom (boom.cat). All rights reserved.
+  ISBN: 3791387111 / 978-3791387116
+  Content: 192 Pages
+  Size: 222 × 25 × 308 mm
+  Author: Carlota Gerrero
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Prestel / Moom (boom.cat). All rights reserved.
 gallery:
   - 
     url: >
@@ -84,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: qzMoTQABoxKFqWge
+Multilinetitle:
+
+Tengo un dragón dentro del corazón
+The Photographs of Carlota Guerrero
+
+----
+
+Uuid: EEJ9D81SxEltsTco
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

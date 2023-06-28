@@ -1,34 +1,3 @@
-Title: LSD #02|A Typographic Issue
-
-----
-
-Multilinetitle:
-
-LSD #02
-A Typographic Issue
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'LSD #02 <br>A Typographic Issue'
@@ -42,16 +11,16 @@ author:
   id: 277
 description: '<p>‘Le Signe Design’ (LSD) is a periodical platform for production, distribution, creative support, dialogue, and mediation between the artistic field of graphic design and the public. The work of font designer Jean-François Rey and his exhibition ‘Typography and comics’ is the focus of its second issue, with the aim of drawing attention to the position of font designers and considering the evolution of a practice and technological rupture. Also featured are a text on the history of art and graphic design by Catherine Guiral, Frank Adebiaye’s studies on “free” fonts, and an essay by Camille Circlude on research into inclusive, non-binary, post-binary, or even genderfuck typographical practices.</p>'
 details: |
-  - ISBN: 295720441X / 978-2957204410
-  - Content: 224 Pages
-  - Size: 130 × 190 mm
-  - Authors: Jean-Michel Géridan
-  - Edited by: Le Signe Design
-  - Design: Officeabc
-  - Language: French / English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / centrenationaldugraphisme.fr. All rights reserved.
+  ISBN: 295720441X / 978-2957204410
+  Content: 224 Pages
+  Size: 130 × 190 mm
+  Authors: Jean-Michel Géridan
+  Edited by: Le Signe Design
+  Design: Officeabc
+  Language: French / English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / centrenationaldugraphisme.fr. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: BoRku9ODaBSKAptd
+Multilinetitle:
+
+LSD #02
+A Typographic Issue
+
+----
+
+Uuid: 2YoIcFpjk14MRcWQ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Michael Müller|Schwierige Bilder
-
-----
-
-Multilinetitle:
-
-Michael Müller
-Schwierige Bilder
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Michael Müller <br>Schwierige Bilder'
@@ -45,14 +14,14 @@ description: |
   <p>Müller’s painting is programmatic. His series in large formats revolve around the process in which a picture comes into being. The series Schwierige Bilder (Difficult Paintings) to which this publication is dedicated consists of sprawling diptychs composed of canvases of different lengths that integrate photographic reproductions and painterly gestures in a kind of symbiosis. Müller begins by developing the nonrepresentational painting on one wing of the diptych. Then he takes photographs, reworks them on the computer, and prints the result on the second wing, doubling some passages of the picture and superimposing other details in turn. Overpainting parts of both elements of the picture and adding new painterly gestures yields a palimpsest in which different times interweave on the canvas.</p>
   <p>The catalogue, published in conjunction with the exhibition in Sammlung Wemhöner’s unfinished renovated spaces, presents the first in-depth survey of the artist’s complex painted oeuvre. With an introduction by the curator Philipp Bollmann and writings by Larissa Kikol, Oliver Koerner von Gustorf, and Travis Jeppesen.</p>
 details: |
-  - ISBN: 3954764099 / 978-3954764099
-  - Content: 84 Pages
-  - Size: 224 × 280 mm
-  - Language: English / German
-  - Publishing date: 2021
-  - Edited by: Philipp Bollmann, Sammlung Wemhöner
-  - Specs: 31 Color Images, Hardcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: 3954764099 / 978-3954764099
+  Content: 84 Pages
+  Size: 224 × 280 mm
+  Language: English / German
+  Publishing date: 2021
+  Edited by: Philipp Bollmann, Sammlung Wemhöner
+  Specs: 31 Color Images, Hardcover
+  Images: © WELTKERN® / Distanz. All rights reserved.
 gallery:
   - 
     url: >
@@ -74,4 +43,35 @@ tags: [ ]
 
 ----
 
-Uuid: 1BlGrcP5E6U4eJR6
+Multilinetitle:
+
+Michael Müller
+Schwierige Bilder
+
+----
+
+Uuid: D0hMAevv7Xo3eibR
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

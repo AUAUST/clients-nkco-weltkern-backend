@@ -1,31 +1,3 @@
-Title: Fields of Sight
-
-----
-
-Multilinetitle: Fields of Sight
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Fields of Sight
@@ -43,14 +15,14 @@ description: |
   <p>On 29 March at 4 pm, the artist will join curator Tine Colstrup for a Walk &#038; Talk in the exhibition, and on 30 March Gauri Gill will take part in a Q&#038;A session. For the Q&#038;A, Sonja Furu who is a Danish journalist based in New Dehli will talk to Gauri Gill about her books Acts of Appearance and Fields of Sight.</p>
   <p>Preceding their talk Sonja Furu will present a lecture at 7.30 pm, on the topic of India today.</p>
 details: |
-  - ISBN: 3907236475 / 978-3907236475
-  - Content: 372 pages
-  - Size: 290 × 210 mm
-  - Design: David Keshavjee, Maximage
-  - Language: English
-  - Publishing date: 2023
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+  ISBN: 3907236475 / 978-3907236475
+  Content: 372 pages
+  Size: 290 × 210 mm
+  Design: David Keshavjee, Maximage
+  Language: English
+  Publishing date: 2023
+  Specs: Hardcover
+  Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -96,4 +68,32 @@ tags: [ ]
 
 ----
 
-Uuid: WVXYM3DtpszUShwB
+Multilinetitle: Fields of Sight
+
+----
+
+Uuid: mJUTXbcdtMYUyYPD
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

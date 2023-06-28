@@ -1,34 +1,3 @@
-Title: Marten Bel|The World’s World
-
-----
-
-Multilinetitle:
-
-Marten Bel
-The World’s World
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Marten Bel <br>The World’s World'
@@ -44,16 +13,16 @@ description: |
   <p>If maps have the power to structure the way we look at the world than the collection in The World’s World shows that people always adjust dominant worldviews to fit their needs.</p>
   <p>‘Would you draw me a map of the world?’ On airports, via Internet and in the bus artist Maarten Bel assembled maps by people from all over the world. Often the distance from one country to the next is wrong and continents are shown as islands: if you’d compare the maps to the atlas of the world, you’d see a misguided worldview. But, The World’s World isn’t so much a collection of erroneous maps as it is a collection of testimonies of individual life paths.</p>
 details: |
-  - ISBN: 9491677038 / 978-9491677038
-  - Content: 70 pages
-  - Size: 190 × 260 mm
+  ISBN: 9491677038 / 978-9491677038
+  Content: 70 pages
+  Size: 190 × 260 mm
   
-  - Language: English
-  - Edited by: Ellen Zoete
-  - Graphic design: Mark van den Heuvel
-  - Publishing date: 2012
-  - Specs: book block/ open spine
-  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: English
+  Edited by: Ellen Zoete
+  Graphic design: Mark van den Heuvel
+  Publishing date: 2012
+  Specs: book block/ open spine
+  Images: © WELTKERN® / Onomatopee. All rights reserved.
 gallery:
   - 
     url: >
@@ -63,4 +32,35 @@ tags: [ ]
 
 ----
 
-Uuid: 9n83bP9l65FiPAPx
+Multilinetitle:
+
+Marten Bel
+The World’s World
+
+----
+
+Uuid: xMT4WSmEmtkKLb9w
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

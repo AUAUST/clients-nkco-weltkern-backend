@@ -1,34 +1,3 @@
-Title: Künstlerportraits|Helga Paris
-
-----
-
-Multilinetitle:
-
-Künstlerportraits
-Helga Paris
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Künstlerportraits <br>Helga Paris'
@@ -49,16 +18,16 @@ description: |
   <br />
   Gerhard Wolf, born 1928 in Bad Frankenhausen, is an editor, author, and publisher. At Aufbau he published young nonconformist writers. In 1991 he launched Janus Press. He was married to Christa Wolf.</p>
 details: |
-  - ISBN: 3959055137 / 978-3959055130
-  - Content: 152 pages
-  - Size: 240 × 185 mm
-  - Author: Helga Paris
-  - Edited by: Spector Books
-  - Design: Hannes Drißner
-  - Language: German / English
-  - Publishing date: 2021
-  - Specs: Thread-sewn hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: 3959055137 / 978-3959055130
+  Content: 152 pages
+  Size: 240 × 185 mm
+  Author: Helga Paris
+  Edited by: Spector Books
+  Design: Hannes Drißner
+  Language: German / English
+  Publishing date: 2021
+  Specs: Thread-sewn hardcover
+  Images: © WELTKERN® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -68,4 +37,35 @@ tags: [ ]
 
 ----
 
-Uuid: zqaR8fKEahMZvHIT
+Multilinetitle:
+
+Künstlerportraits
+Helga Paris
+
+----
+
+Uuid: 8Gw96nb6dAEmI6S3
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

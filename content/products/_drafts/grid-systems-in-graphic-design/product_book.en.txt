@@ -1,31 +1,3 @@
-Title: Grid systems in graphic design
-
-----
-
-Multilinetitle: Grid systems in graphic design
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Grid systems in graphic design
@@ -45,14 +17,14 @@ description: |
   <br />
   This book now attempts to close a gap by giving examples and exact directions to the professional concerning all grid problems that can occur. The author, a world-renowned professional, thus offers his colleagues the tools to solve problems more easily.</p>
 details: |
-  - ISBN: 3721201451 / 978-3721201451
-  - Content: 176 pages
-  - Size: 213 × 20 × 300 mm
-  - Author: Josef Müller-Brockmann
-  - Language: English / German
-  - Publishing date: 2011
-  - Specs: Hardcover
-  - Images: © WELTKERN®. All rights reserved.
+  ISBN: 3721201451 / 978-3721201451
+  Content: 176 pages
+  Size: 213 × 20 × 300 mm
+  Author: Josef Müller-Brockmann
+  Language: English / German
+  Publishing date: 2011
+  Specs: Hardcover
+  Images: © WELTKERN®. All rights reserved.
 gallery:
   - 
     url: >
@@ -82,4 +54,32 @@ tags: [ ]
 
 ----
 
-Uuid: X1KElNj5ZiYoRWRr
+Multilinetitle: Grid systems in graphic design
+
+----
+
+Uuid: vh28cO2Xv09ZGsGs
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

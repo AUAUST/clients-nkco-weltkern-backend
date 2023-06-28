@@ -1,34 +1,3 @@
-Title: Mahalla|The Survey
-
-----
-
-Multilinetitle:
-
-Mahalla
-The Survey
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mahalla <br>The Survey'
@@ -42,15 +11,15 @@ author:
   id: 249
 description: '<p><em>Mahalla – The Survey</em> constitutes a scientific investigation and an artistic statement which aims to offer a critical reading and a tentative exploration of a fascinating element of cultural heritage: the mahalla. Historically forged by family, ethnic and professional ties, the traditional mahalla is a neighbourhood which perpetuates an ancient form of ‘living together’ in many variations across large parts of Asia. This survey of mahallas in Tashkent, Uzbekistan was prompted by curiosity about the various low-rise / high-density architectural types in such neighbourhoods and the social structures in which they are rooted. The Mahalla – The Survey box contains drone imagery, contemporary street views, redrawn cadastral maps, floor plans and sections, point cloud imagery, explanatory texts, sound by Carlos Casas and exclusive art prints by Bas Princen, all combined in an exquisitely designed folder. This special edition is published on the occasion of the first participation of the Republic of Uzbekistan at the International Architecture Exhibition – La Biennale di Venezia in 2021.</p>'
 details: |
-  - ISBN: 1280336033 / 979-1280336033
-  - Content: Box containing three folders, one vinyl, 300 pages
-  - Size: 249 × 78 × 310 mm
-  - Contributions from: Carlos Casas, Emanuel Christ & Christoph Gantenbein, Victoria Easton , Bas Princen
-  - Design: Pupilla Grafik
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Humboldt Books. All rights reserved.
+  ISBN: 1280336033 / 979-1280336033
+  Content: Box containing three folders, one vinyl, 300 pages
+  Size: 249 × 78 × 310 mm
+  Contributions from: Carlos Casas, Emanuel Christ & Christoph Gantenbein, Victoria Easton , Bas Princen
+  Design: Pupilla Grafik
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Humboldt Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -128,4 +97,35 @@ tags: [ ]
 
 ----
 
-Uuid: nbXErrnrKCGrfGHr
+Multilinetitle:
+
+Mahalla
+The Survey
+
+----
+
+Uuid: NKVpGHbr0ZKRxyVU
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

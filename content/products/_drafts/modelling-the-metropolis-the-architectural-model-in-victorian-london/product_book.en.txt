@@ -1,34 +1,3 @@
-Title: Modelling the Metropolis|The Architectural Model in Victorian London
-
-----
-
-Multilinetitle:
-
-Modelling the Metropolis
-The Architectural Model in Victorian London
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Modelling the Metropolis <br>The Architectural Model in Victorian London'
@@ -44,14 +13,14 @@ description: |
   <p>Architectural models made nineteenth-century London. As the city grew it became the global centre of finance, industrial capitalism, and the British Empire. New buildings, urban spaces, and networks of infrastructure were demanded, constructed, and rebuilt. Models were a crucial medium of communication that enabled architects, politicians, and the wider public to conceive the city’s expansion of buildings and spaces.</p>
   <p>Based on extensive research in archives, museums, and period publications, Modelling the Metropolis addresses not just architectural models but also an eclectic range of images and objects – from technical products to sculptures, diagrams to engravings, maps to photographs – that dramatize the politics and aesthetics of London architecture in the nineteenth century.</p>
 details: |
-  - ISBN: 3856764357 / 978-3856764357
-  - Content: 188 pages
-  - Size: 165 × 245 mm
-  - Language: English
-  - Publishing date: 2023
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / gta Verlag. All rights reserved.
-  - Design: Salzmann Gertsch
+  ISBN: 3856764357 / 978-3856764357
+  Content: 188 pages
+  Size: 165 × 245 mm
+  Language: English
+  Publishing date: 2023
+  Specs: Hardcover
+  Images: © WELTKERN ® / gta Verlag. All rights reserved.
+  Design: Salzmann Gertsch
 gallery:
   - 
     url: >
@@ -81,4 +50,35 @@ tags: [ ]
 
 ----
 
-Uuid: bCIsPodJ5MwsJnUe
+Multilinetitle:
+
+Modelling the Metropolis
+The Architectural Model in Victorian London
+
+----
+
+Uuid: zxS89VKVpfDVd7yH
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Nike|Better is Temporary
-
-----
-
-Multilinetitle:
-
-Nike
-Better is Temporary
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Nike <br>Better is Temporary'
@@ -53,15 +22,15 @@ description: |
   <br />
   Combining 500 color illustrations with stories, insights, knowledge, passion, and history shared by Nike&#8217;s remarkable team, <em>Nike: Better is Temporary</em> will serve as a manual of innovation and inspiration for generations to come.</p>
 details: |
-  - ISBN: 1838660518 / 978-1838660512
-  - Content: 256 pages
-  - Size: 232 × 32 × 315 mm
-  - Author: Sam Grawe
-  - Design: Maximage
-  - Publishing date: 2021
-  - Language: English
-  - Specs: Hardcover
-  - Images: © WELTKERN®/ Phaidon Press. All rights reserved.
+  ISBN: 1838660518 / 978-1838660512
+  Content: 256 pages
+  Size: 232 × 32 × 315 mm
+  Author: Sam Grawe
+  Design: Maximage
+  Publishing date: 2021
+  Language: English
+  Specs: Hardcover
+  Images: © WELTKERN®/ Phaidon Press. All rights reserved.
 gallery:
   - 
     url: >
@@ -99,4 +68,35 @@ tags: [ ]
 
 ----
 
-Uuid: NsMVRDud7sJUre8y
+Multilinetitle:
+
+Nike
+Better is Temporary
+
+----
+
+Uuid: MSbSh8sA0klZoerZ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

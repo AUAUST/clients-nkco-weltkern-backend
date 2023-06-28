@@ -1,34 +1,3 @@
-Title: Maximage|Color Combinations (1st edition)
-
-----
-
-Multilinetitle:
-
-Maximage
-Color Combinations (1st edition)
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Maximage <br>Color Combinations (1st edition)'
@@ -42,16 +11,16 @@ author:
   id: 95
 description: '<p><em>Color Combinations</em> explores how different colors and shades can interact with each other and how they can blend into each other. Without chapters or formulas, the colors range from brilliant to matte, from blue to celadon, from icy to bubbly, from reflective to absorptive, from dark light to gray matter, from spectral to metameric, from sun to neon, from Atlanta to Albertville, or from Leipzig to Juba via Naples and back, in an attempt to tell infinite stories. Readers won&#8217;t find this year&#8217;s hot color or next season&#8217;s trends here. Instead, each page tells a different story that each user can identify with, reinterpret or reappropriate in their own way. <em>Color Combinations</em> was created as part of the Workflow research project (Ra&#038;D) conducted at ECAL on printing technologies. A project directed by Maximage and supported by the HES-SO.</p>'
 details: |
-  - ISBN: 2970115793 / 978-2970115793
-  - Content: 240 pages
-  - Size: 150 × 33 × 235 cm
-  - Authors: Benjamin Plantier, Thomi Wolfensberger, Maximage
-  - Edited by: Maximage & ECAL
-  - Design: Maximage
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © ECAL. All rights reserved.
+  ISBN: 2970115793 / 978-2970115793
+  Content: 240 pages
+  Size: 150 × 33 × 235 cm
+  Authors: Benjamin Plantier, Thomi Wolfensberger, Maximage
+  Edited by: Maximage & ECAL
+  Design: Maximage
+  Language: English
+  Publishing date: 2017
+  Specs: Softcover
+  Images: © ECAL. All rights reserved.
 gallery:
   - 
     url: >
@@ -81,4 +50,35 @@ tags: [ ]
 
 ----
 
-Uuid: JVPZFarNVzkhVs4V
+Multilinetitle:
+
+Maximage
+Color Combinations (1st edition)
+
+----
+
+Uuid: fNN2ufFaHu5kpq2D
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Fire|trans magazin
-
-----
-
-Multilinetitle:
-
-Fire
-trans magazin
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Fire <br>trans magazin'
@@ -42,14 +11,14 @@ author:
   id: 324
 description: '<p>The 41st issue of trans magazin deals with the diverse nature of an elemental force: a force we all encounter, fear, are drawn to, and depend on. By playing with fire, this issue expands the territories of architecture into landscapes of politics, apparatus, and sensory perceptions.</p>'
 details: |
-  - ISBN: 3856764388 / 978-3856764388
-  - Content: 162 pages
-  - Size: 210 × 280 mm
-  - Design: Pierre Benoit
-  - Language: German or English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN ® / gta Verlag. All rights reserved.
+  ISBN: 3856764388 / 978-3856764388
+  Content: 162 pages
+  Size: 210 × 280 mm
+  Design: Pierre Benoit
+  Language: German or English
+  Publishing date: 2022
+  Specs: Softcover
+  Images: © WELTKERN ® / gta Verlag. All rights reserved.
 gallery:
   - 
     url: >
@@ -87,4 +56,35 @@ tags: [ ]
 
 ----
 
-Uuid: eNzvbAqutAj7k1ou
+Multilinetitle:
+
+Fire
+trans magazin
+
+----
+
+Uuid: S9qRU7p5riuZtDsJ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

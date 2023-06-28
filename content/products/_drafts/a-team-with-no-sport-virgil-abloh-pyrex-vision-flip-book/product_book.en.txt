@@ -1,34 +1,3 @@
-Title: A Team With No Sport|Virgil Abloh Pyrex Vision Flip Book
-
-----
-
-Multilinetitle:
-
-A Team With No Sport
-Virgil Abloh Pyrex Vision Flip Book
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'A Team With No Sport <br>Virgil Abloh Pyrex Vision Flip Book'
@@ -46,14 +15,14 @@ description: |
   <br />
   Since he launched Pyrex Vision, Abloh has been translating his tools and techniques from his training as an architect and engineer into the fashion world and beyond. He eventually closed Pyrex Vision to open Off-White™, collaborating with brands like Nike, musicians, architects, and others. In addition to creating Off-White™, Abloh has worked with Kanye West, collaborated with Takashi Murakami, performed at Lollapalooza, started a furniture collection with IKEA, and more. In 2018, Abloh was named Men’s Artistic Director at Louis Vuitton.</p>
 details: |
-  - ISBN: 3791358994 / 978-3791358994
-  - Content: 124 pages
-  - Size: 56 × 16 × 130 mm
-  - Author: Virgil Abloh
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Prestel. All rights reserved.
+  ISBN: 3791358994 / 978-3791358994
+  Content: 124 pages
+  Size: 56 × 16 × 130 mm
+  Author: Virgil Abloh
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Prestel. All rights reserved.
 gallery:
   - 
     url: >
@@ -83,4 +52,35 @@ tags: [ ]
 
 ----
 
-Uuid: LGeU0q9r7AFsDmET
+Multilinetitle:
+
+A Team With No Sport
+Virgil Abloh Pyrex Vision Flip Book
+
+----
+
+Uuid: y5FzZlyIpSTbvTAb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

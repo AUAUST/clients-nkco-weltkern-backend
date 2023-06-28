@@ -1,31 +1,3 @@
-Title: Bauteile wiederverwenden
-
-----
-
-Multilinetitle: Bauteile wiederverwenden
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Bauteile wiederverwenden
@@ -44,14 +16,14 @@ description: |
   <br />
   With contributions by Andreas Abegg, Marc Angst, Guido Brandi, Barbara Buser, Arne Vande Capelle, Michael Eidenbenz, Nathanea Elte, Deborah Fehlmann, Patric Fischli-Boson, Oya Atalay Franck, Michaël Ghyoot, Pascal Hentschel, Meinrad Huser, Christian Kohler, Marc Loeliger, Ákos Moravánszky, Kerstin Müller, Andreas Oefner, Katrin Pfäffli, Michael Pöll, Tina Puffert, François Renaud, Barbara Rentsch, Alexis Ringli, Andreas Sonderegger, Eva Stricker, Cyrille Veron and Barbara Zeleny.</p>
 details: |
-  - ISBN: 3038602590 / 978-3038602590
-  - Content: 344 Pages
-  - Size: 215 × 285 mm
-  - Design: Ludovic Balland Typography Cabinet, Basel (CH)
-  - Language: German
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Park Books. All rights reserved.
+  ISBN: 3038602590 / 978-3038602590
+  Content: 344 Pages
+  Size: 215 × 285 mm
+  Design: Ludovic Balland Typography Cabinet, Basel (CH)
+  Language: German
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Park Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +33,32 @@ tags: [ ]
 
 ----
 
-Uuid: pa3XSh7OD0oFCnmS
+Multilinetitle: Bauteile wiederverwenden
+
+----
+
+Uuid: CemvvTgU9iS1os76
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

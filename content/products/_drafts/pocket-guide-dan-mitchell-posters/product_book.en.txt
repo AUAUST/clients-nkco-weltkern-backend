@@ -1,34 +1,3 @@
-Title: Pocket Guide|Dan Mitchell Posters
-
-----
-
-Multilinetitle:
-
-Pocket Guide
-Dan Mitchell Posters
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Pocket Guide <br>Dan Mitchell Posters'
@@ -42,16 +11,16 @@ author:
   id: 98
 description: '<p>This is the first book to bring together Dan Mitchell’s complete posters and flyers. The British artist designs subversive, socially critical and humorous posters to promote his own shows as well as those of fellow artists, and to serve as critical commentary on everyday occurrences. Whilst carrying on the age-old tradition of poster art, he explores contemporary approaches involving various print sizes and even digital posters. “The Age of LOLZ is Over. Long Live DEATH LOLZ” proclaims Mitchell in a satirical commentary on a serious state of affairs: the age of “laughing out loud” is over. The book is rounded out with an interview of the artist by Swiss curators Fredi Fischli and Niels Olsen.</p>'
 details: |
-  - ISBN: 3907236173 / 978-3907236178
-  - Content: 254 pages
-  - Size: 260 × 170 mm
-  - Artist: Dan Mitchell
-  - Edited by: Edition Patrick Frey
-  - Design: Teo Schifferli
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: 3907236173 / 978-3907236178
+  Content: 254 pages
+  Size: 260 × 170 mm
+  Artist: Dan Mitchell
+  Edited by: Edition Patrick Frey
+  Design: Teo Schifferli
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: F1vrfazGJnq7hh5S
+Multilinetitle:
+
+Pocket Guide
+Dan Mitchell Posters
+
+----
+
+Uuid: 0PnHkq4o4KO7myos
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

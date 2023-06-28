@@ -1,34 +1,3 @@
-Title: Frank Bowling|Mappa Mundi
-
-----
-
-Multilinetitle:
-
-Frank Bowling
-Mappa Mundi
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Frank Bowling <br>Mappa Mundi'
@@ -45,16 +14,16 @@ description: |
   <br />
   Accompanied by an extensive curatorial survey, art historical contributions, prose poem, biographical visual essay, as well as the collected writings and correspondence of the artist, this book offers an in depth exploration of Bowling’s career and aspects of his journey from his home in Guyana to London and New York. It also highlights references to the natural world and his use of classical and literary symbolism. This book creates a true mappa mundi—an evolving map of Bowling’s inner and physical worlds.</p>
 details: |
-  - ISBN: 3791356587 / 978-3791356587
-  - Content: 256 Pages
-  - Size: 235 × 27 × 295 mm
-  - Artist: Frank Bowling
-  - Edited by: Okwui Enwezor
-  - Contributions from: Frank Bowling, Kobena Mercer, Anna Schneider, Zoe Whitley
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Prestel. All rights reserved.
+  ISBN: 3791356587 / 978-3791356587
+  Content: 256 Pages
+  Size: 235 × 27 × 295 mm
+  Artist: Frank Bowling
+  Edited by: Okwui Enwezor
+  Contributions from: Frank Bowling, Kobena Mercer, Anna Schneider, Zoe Whitley
+  Language: English
+  Publishing date: 2017
+  Specs: Hardcover
+  Images: © WELTKERN® / Prestel. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: P2NbBL261DgazjhH
+Multilinetitle:
+
+Frank Bowling
+Mappa Mundi
+
+----
+
+Uuid: UarH2i7Bjf6IRUQ5
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

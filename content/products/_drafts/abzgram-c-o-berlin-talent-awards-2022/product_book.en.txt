@@ -1,34 +1,3 @@
-Title: Abzgram|C/O Berlin Talent Awards 2022
-
-----
-
-Multilinetitle:
-
-Abzgram
-C/O Berlin Talent Awards 2022
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Abzgram <br>C/O Berlin Talent Awards 2022'
@@ -44,16 +13,16 @@ description: |
   <p>In her Abzgram project, which has steadily developed since 2017, the Polish media artist Karolina Wojtas breaches every conceivable rule of photography, be it through offbeat compositions, oversaturated colours, blur, or her aggressive use of flash. She uses these sometimes found, sometimes staged scenarios to print on various materials, which transform exhibition spaces into room-sized installations that visitors can walk through. Wojtas’s complex multimedia work responds with caustic irony to the rigid Polish school system, whose imposition of rules on children has a streak of militarism to it: stand still, do not touch each other, keep your hands by your sides, look straight ahead. The artist invites readers to transport themselves back to the world of childhood via a process of re-enactment. The book is published as part of the C / O Berlin Talent Award 2022 with texts by Matthias Gründig; it accompanies Wojtas’s exhibition Abzgram at C / O Berlin.</p>
   <p>Karolina Wojtas, born 1996 in Jaroslaw (Poland), lives and works as an interdisciplinary artist in Łodz (Poland). Matthias Gründig, born 1989, lives and works as a scientist and critic in Essen.</p>
 details: |
-  - ISBN: 3959057189 / 978-3959057189
-  - Content: 204 pages
-  - Size: 185 × 245 mm
-  - Design: Naroska Design
+  ISBN: 3959057189 / 978-3959057189
+  Content: 204 pages
+  Size: 185 × 245 mm
+  Design: Naroska Design
   
-  - Language: English, German
-  - Publishing date: 2023
-  - Specs: Hardcover
+  Language: English, German
+  Publishing date: 2023
+  Specs: Hardcover
   
-  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+  Images: © WELTKERN ® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -91,4 +60,35 @@ tags: [ ]
 
 ----
 
-Uuid: wLb5U4X5MIO8ZIGA
+Multilinetitle:
+
+Abzgram
+C/O Berlin Talent Awards 2022
+
+----
+
+Uuid: 4fkdwINSTnWxHJee
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

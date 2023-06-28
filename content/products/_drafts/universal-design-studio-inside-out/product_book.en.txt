@@ -1,34 +1,3 @@
-Title: Universal Design Studio|Inside Out
-
-----
-
-Multilinetitle:
-
-Universal Design Studio
-Inside Out
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Universal Design Studio <br>Inside Out'
@@ -47,14 +16,14 @@ description: |
   <br />
   Part manual, part manifesto, the book is organized into three thematic chapters &#8211; Human, Rigorous, and Transformative &#8211; which together create a fascinating, multilayered depiction of an innovative contemporary design practice.</p>
 details: |
-  - ISBN: 1838663053 / 978-1838663056
-  - Content: 312 pages
-  - Size: 290 × 214 mm
-  - Author: Universal Design Studio
-  - Edited by: Phaidon Press
-  - Language: English
-  - Publishing date: 2021
-  - Images: © WELTKERN® /  Phaidon Press. All rights reserved.
+  ISBN: 1838663053 / 978-1838663056
+  Content: 312 pages
+  Size: 290 × 214 mm
+  Author: Universal Design Studio
+  Edited by: Phaidon Press
+  Language: English
+  Publishing date: 2021
+  Images: © WELTKERN® /  Phaidon Press. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: QpG4A570eDQPaY1w
+Multilinetitle:
+
+Universal Design Studio
+Inside Out
+
+----
+
+Uuid: eR2jGPibxv3CU0YW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

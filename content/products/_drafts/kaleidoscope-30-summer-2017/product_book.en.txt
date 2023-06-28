@@ -1,34 +1,3 @@
-Title: KALEIDOSCOPE #30|Summer 2017
-
-----
-
-Multilinetitle:
-
-KALEIDOSCOPE #30
-Summer 2017
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #30 <br>Summer 2017'
@@ -42,14 +11,14 @@ author:
   id: 242
 description: '<p><em>KALEIDOSCOPE</em> is today’s most innovative magazine of contemporary art and visual culture, founded in 2009 in Milan at the core of a creative studio with a distinctly curatorial and interdisciplinary approach.</p>'
 details: |
-  - ISBN: 2000000005874
-  - Content: 272 pages
-  - Size: 220 × 12 × 280 mm
-  - Design: Bureau Borsche
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE / Bureau Borsche. All rights reserved.
+  ISBN: 2000000005874
+  Content: 272 pages
+  Size: 220 × 12 × 280 mm
+  Design: Bureau Borsche
+  Language: English
+  Publishing date: 2017
+  Specs: Softcover
+  Images: © WELTKERN® / KALEIDOSCOPE / Bureau Borsche. All rights reserved.
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: MN57g7NksrFZNsHn
+Multilinetitle:
+
+KALEIDOSCOPE #30
+Summer 2017
+
+----
+
+Uuid: uqapgBYauFFMav7B
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

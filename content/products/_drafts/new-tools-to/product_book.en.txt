@@ -1,31 +1,3 @@
-Title: New Tools To:
-
-----
-
-Multilinetitle: New Tools To:
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'New Tools To:'
@@ -42,14 +14,14 @@ description: |
   <br />
   Participating students: Valentina D&#8217;Urbano, Monika Micevičiūtė, Elias Erkan, Elia Preuss, Katharina Tewes, Jenny Schreiter, Thomas Spieler, Lukas Winkler, Noël Wiedemer.</p>
 details: |
-  - ISBN: 3956792762 / 978-3956792762
-  - Content: 100 pages
-  - Size: 190 × 11 × 230 mm
-  - Design: Ludovic Balland
-  - Language: German
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © WELTKERN® / HGB Leipzig. All rights reserved.
+  ISBN: 3956792762 / 978-3956792762
+  Content: 100 pages
+  Size: 190 × 11 × 230 mm
+  Design: Ludovic Balland
+  Language: German
+  Publishing date: 2018
+  Specs: Hardcover
+  Images: © WELTKERN® / HGB Leipzig. All rights reserved.
 gallery:
   - 
     url: >
@@ -71,4 +43,32 @@ tags: [ ]
 
 ----
 
-Uuid: jQTaAlQNZV0b8Qco
+Multilinetitle: New Tools To:
+
+----
+
+Uuid: CvcLvZ87W3B5EZKV
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

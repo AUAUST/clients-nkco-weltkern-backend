@@ -1,31 +1,3 @@
-Title: Swiss Lessons
-
-----
-
-Multilinetitle: Swiss Lessons
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Swiss Lessons
@@ -44,17 +16,17 @@ description: |
   In part three [Projects] architectural projects of the students are presented.<br />
   The three parts allow three different layouts and designs. The first part is like an atlas, the second part like a photography book and the third part is the combination of part one and two. This structure supports the reader to focus on the different aspects of teaching.</p>
 details: |
-  - ISBN: 3906027340 / 978-3906027340
-  - Content: 160 pages
-  - Size: 230 × 12 × 310 mm
-  - Design: Ludovic Balland
-  - Authors: Harry Gugger, Aurélie Blanchard
-  - Edited by: Harry Gugger, Aurélie Blanchard, Gwendolyn Kerschbaumer, Götz Menzel
-  - Contributions from: Laboratory Basel (laba), EPFL
-  - Language: English
-  - Publishing date: 2014
-  - Specs: Softcover
-  - Images: © Park Books. All rights reserved.
+  ISBN: 3906027340 / 978-3906027340
+  Content: 160 pages
+  Size: 230 × 12 × 310 mm
+  Design: Ludovic Balland
+  Authors: Harry Gugger, Aurélie Blanchard
+  Edited by: Harry Gugger, Aurélie Blanchard, Gwendolyn Kerschbaumer, Götz Menzel
+  Contributions from: Laboratory Basel (laba), EPFL
+  Language: English
+  Publishing date: 2014
+  Specs: Softcover
+  Images: © Park Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -108,4 +80,32 @@ tags: [ ]
 
 ----
 
-Uuid: oF7rizgJ7w2MhCyd
+Multilinetitle: Swiss Lessons
+
+----
+
+Uuid: i6zRlsOucgLVu6o4
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

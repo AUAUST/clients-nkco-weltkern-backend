@@ -1,31 +1,3 @@
-Title: Under the Rainbow
-
-----
-
-Multilinetitle: Under the Rainbow
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Under the Rainbow
@@ -39,16 +11,16 @@ author:
   id: 95
 description: '<p>This book is part of a research project conducted at ECAL that takes a critical look at standards in the field of offset printing. One will find here a collection of texts and images related to colour printing which recount histories, at times unknown, others forgotten, or else, for some, never told.</p>'
 details: |
-  - ISBN: 2970120926 / 978-2970120926
-  - Content: 274 pages
-  - Size: 140 × 20 × 210 mm
-  - Edited by: Tatiana Rihs, Maximage
-  - Texts by: Carolyn L. Kane, Alexandra Loske, Sarah Lowengard, Brooke Sylvia Palmieri, Tatiana Rihs, Elizabeth Savage & Ad Stinjman, Amy Sillman
-  - Design: Ramaya Tegegne
-  - Language: English / French / German
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © ECAL. All rights reserved.
+  ISBN: 2970120926 / 978-2970120926
+  Content: 274 pages
+  Size: 140 × 20 × 210 mm
+  Edited by: Tatiana Rihs, Maximage
+  Texts by: Carolyn L. Kane, Alexandra Loske, Sarah Lowengard, Brooke Sylvia Palmieri, Tatiana Rihs, Elizabeth Savage & Ad Stinjman, Amy Sillman
+  Design: Ramaya Tegegne
+  Language: English / French / German
+  Publishing date: 2018
+  Specs: Softcover
+  Images: © ECAL. All rights reserved.
 gallery:
   - 
     url: >
@@ -86,4 +58,32 @@ tags: [ ]
 
 ----
 
-Uuid: E8i3pGECRWyeRFhB
+Multilinetitle: Under the Rainbow
+
+----
+
+Uuid: Y3SKKUboFrmB9R7x
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

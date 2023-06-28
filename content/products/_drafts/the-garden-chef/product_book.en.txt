@@ -1,31 +1,3 @@
-Title: The Garden Chef
-
-----
-
-Multilinetitle: The Garden Chef
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: The Garden Chef
@@ -47,15 +19,15 @@ description: |
   <br />
   The gardens are from around the globe and include traditional kitchen gardens, allotments polytunnels and raised beds, aeroponic roof gardens, greenhouses, and urban community farms and micro farms. The chefs featured offer insight into the growing methods they employ and provide information on key plants and varieties grown.</p>
 details: |
-  - ISBN: 0714878227 / 978-0714878225
-  - Content: 256 pages
-  - Size: 216 × 26 × 273 mm
-  - Author: Phaidon Editors
-  - Introduction: Jeremy Fox
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN®. All rights reserved.
+  ISBN: 0714878227 / 978-0714878225
+  Content: 256 pages
+  Size: 216 × 26 × 273 mm
+  Author: Phaidon Editors
+  Introduction: Jeremy Fox
+  Language: English
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © WELTKERN®. All rights reserved.
 gallery:
   - 
     url: >
@@ -77,4 +49,32 @@ tags: [ ]
 
 ----
 
-Uuid: QpnRIjpeMg7x4edx
+Multilinetitle: The Garden Chef
+
+----
+
+Uuid: Q0IRrQpHJQvoFkMX
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

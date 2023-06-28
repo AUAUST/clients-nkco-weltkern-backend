@@ -1,34 +1,3 @@
-Title: Dutch designers|Yearbook 2021
-
-----
-
-Multilinetitle:
-
-Dutch designers
-Yearbook 2021
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Dutch designers <br>Yearbook 2021'
@@ -42,16 +11,16 @@ author:
   id: 114
 description: '<p>Dutch designers are noted worldwide for their originality and daring innovations, and their work penetrates the capillaries of our society. Design is everywhere and the world seems makeable. This is an image to which the unorthodox methods and creative power of designers contribute. Although the Covid-19 crisis is fundamentally affecting the creative sector, the accompanying major social and economic challenges facing the world also offer many opportunities. How resilient is the design sector and how can it contribute to the necessary transitions?</p>'
 details: |
-  - ISBN: 9462086579 / 978-9462086579
-  - Content: 192 pages
-  - Size: 210 × 260 mm
-  - Author: Freek Kroesbergen
-  - Edited by: nai010 Publishers
-  - Design: Studio de Ronners
-  - Language: Dutch / English
-  - Spec: Hardcover
-  - Publishing date: 2021
-  - Images: © WELTKERN® / bno.nl. All rights reserved.
+  ISBN: 9462086579 / 978-9462086579
+  Content: 192 pages
+  Size: 210 × 260 mm
+  Author: Freek Kroesbergen
+  Edited by: nai010 Publishers
+  Design: Studio de Ronners
+  Language: Dutch / English
+  Spec: Hardcover
+  Publishing date: 2021
+  Images: © WELTKERN® / bno.nl. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: 6tk5u72fdYYps3RP
+Multilinetitle:
+
+Dutch designers
+Yearbook 2021
+
+----
+
+Uuid: xN1gftTh7HEMMyrh
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

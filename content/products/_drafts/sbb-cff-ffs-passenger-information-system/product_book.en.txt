@@ -1,34 +1,3 @@
-Title: SBB CFF FFS|Passenger Information System
-
-----
-
-Multilinetitle:
-
-SBB CFF FFS
-Passenger Information System
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'SBB CFF FFS <br>Passenger Information System'
@@ -46,15 +15,15 @@ description: |
   <br />
   Muller-Brockmann&#8217;s manual, greatly expanded in 1992 and given the title Passenger Information System, is a prime example of a complex design project that succeeds through extreme rationality and consistency. It thus serves as a compass for designers worldwide in their daily work. This reprint with an English translation makes the manual accessible for the first time to a broader public. Andres Janser examines the project in the context of Muller-Brockmann&#8217;s conceptual work and the systematic international design for which railways everywhere were striving during the period.</p>
 details: |
-  - ISBN: 3037786108 / 978-3037786109
-  - Content: 222 pages
-  - Size: 210 × 18 × 297 mm
-  - Author: Josef Müller-Brockmann
-  - Design: Josef Müller-Brockmann, Integral Lars Müller
-  - Language: English / German
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Lars Müller Publishers. All rights reserved.
+  ISBN: 3037786108 / 978-3037786109
+  Content: 222 pages
+  Size: 210 × 18 × 297 mm
+  Author: Josef Müller-Brockmann
+  Design: Josef Müller-Brockmann, Integral Lars Müller
+  Language: English / German
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © Lars Müller Publishers. All rights reserved.
 gallery:
   - 
     url: >
@@ -76,4 +45,35 @@ tags: [ ]
 
 ----
 
-Uuid: dm6BUiog2JNg3qlj
+Multilinetitle:
+
+SBB CFF FFS
+Passenger Information System
+
+----
+
+Uuid: zPWLau7bcAiLewsS
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

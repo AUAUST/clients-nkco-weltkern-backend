@@ -1,34 +1,3 @@
-Title: Paradoxer|Schattenboxer
-
-----
-
-Multilinetitle:
-
-Paradoxer
-Schattenboxer
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Paradoxer <br>Schattenboxer'
@@ -44,16 +13,16 @@ description: |
   <p>We live in a world of the greatest paradoxes, which Emanuel Halpern works into his latest book. Paradoxer Schattenboxer follows Hunn and Altermann through an unmistakably Swiss-inspired dystopian/utopian retro-sci fi environmental crime novel in Film noir style. The dramatis personae include Al Pacone (The Boss), his gangster cronies and corrupt officials. But a nasty-piece-of-work CEO and a cruise fleet (Preperline) are a must as well, a “dolce vita doomsday cult, equipped with state-of-the-art technology to ward off every conceivable doomsday scenario”. A forest fire poses an imminent threat and blocks access to the border area between Pappstadt and Puerto Paradisio. Against all odds, the conflagration is finally contained, and a three-day downpour brings long-awaited relief to the ill-used vegetation. A happy ending! Right?</p>
   <p>This short story combines a wide range of different genres, characters and themes into an almost bewildering patchwork, a casual and yet close-knit tapestry interwoven with religion, politics and art history, climate change and the environment. And it asks, not just parenthetically, some big questions: Is there a right way of leading the wrong life? What’s the difference between culture and propaganda, art and sports? These earnest, even deadly serious matters are contrasted with Emanuel Halpern’s whimsical and quaintly familiar-looking visual idiom in the subsequent graphic novel as well, with its bright children’s-book colors and soft outlines. One could almost convince oneself that the world isn’t doing all that badly after all. Almost. A reality teetering on the very brink of disaster can only be portrayed comically.</p>
 details: |
-  - : 3907236482 / 978-3907236482
-  - Content: 60 pages
-  - Size: 325 × 245 mm
-  - Design: Face.
-  - :
-  - Design: Halpern Halpern
-  - Language: German English
-  - Publishing date: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+  : 3907236482 / 978-3907236482
+  Content: 60 pages
+  Size: 325 × 245 mm
+  Design: Face.
+  :
+  Design: Halpern Halpern
+  Language: German English
+  Publishing date: 2022
+  Specs: Hardcover
+  Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -91,4 +60,35 @@ tags: [ ]
 
 ----
 
-Uuid: nrEKg3L85WHGJZMY
+Multilinetitle:
+
+Paradoxer
+Schattenboxer
+
+----
+
+Uuid: vgY1tnal7iBsjiNT
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

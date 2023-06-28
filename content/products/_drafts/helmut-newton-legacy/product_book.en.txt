@@ -1,34 +1,3 @@
-Title: Helmut Newton|Legacy
-
-----
-
-Multilinetitle:
-
-Helmut Newton
-Legacy
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Helmut Newton <br>Legacy'
@@ -46,14 +15,14 @@ description: |
   <p>During the 1990s, Newton shot for the German, American, Italian, French, and Russian editions of Vogue, primarily in and around Monte Carlo where he was living from 1981 onwards. Transforming locations like his own garage into starkly contrasting or particularly minimalist theatrical stages, Newton would often portray the eccentric lives of the beautiful and rich, full of eroticism and elegance, in unconventional scenarios. He made use of and simultaneously questioned visual clichés, at times tinged with self-irony or mockery, but always full of empathy.</p>
   <p>Helmut Newton. Legacy, which accompanies an international exhibition tour of Newton’s work, showcases highlights from one of the most published bodies of work in photography, including numerous rediscovered images. A prolific image maker and genuine visionary, this book celebrates Newton’s lasting influence on modern photography and visual art to this day.</p>
 details: |
-  - ISBN: 3836584586 / 978-3836584586
-  - Content: 424 pages
-  - Size: 240 × 340 mm
-  - Language: English, German, French
-  - Edited by: Matthias Harder
-  - Publication: 2021
-  - Specs: Hardcover with dust jacket
-  - Images: © WELTKERN® / Taschen All rights reserved.
+  ISBN: 3836584586 / 978-3836584586
+  Content: 424 pages
+  Size: 240 × 340 mm
+  Language: English, German, French
+  Edited by: Matthias Harder
+  Publication: 2021
+  Specs: Hardcover with dust jacket
+  Images: © WELTKERN® / Taschen All rights reserved.
 gallery:
   - 
     url: >
@@ -63,4 +32,35 @@ tags: [ ]
 
 ----
 
-Uuid: VUXMRtYSoTzHbYPw
+Multilinetitle:
+
+Helmut Newton
+Legacy
+
+----
+
+Uuid: FGj0TTxBnU7GYDmq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

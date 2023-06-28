@@ -1,31 +1,3 @@
-Title: Flash Art n°325
-
-----
-
-Multilinetitle: Flash Art n°325
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Flash Art n°325
@@ -39,14 +11,14 @@ author:
   id: 110
 description: '<p>10 pages dedicated to Simone Fattal; Marina Fokidis; Peter Halley by Elena Sorokina; Yto Barrada by Peter Benson Miller; interview with Ghislaine Leung; Laure Prouvost&#8217;s project for the French pavilion of the 58th Venice Biennale&#8230;</p>'
 details: |
-  - ISSN: 0015-3524
-  - Content: 132 pages
-  - Size: 225 × 06 × 290 mm
-  - Design: Wrong Studio
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Flash Art. All rights reserved.
+  ISSN: 0015-3524
+  Content: 132 pages
+  Size: 225 × 06 × 290 mm
+  Design: Wrong Studio
+  Language: English
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © Flash Art. All rights reserved.
 gallery:
   - 
     url: >
@@ -56,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: u8x8clJMw18fQF2T
+Multilinetitle: Flash Art n°325
+
+----
+
+Uuid: dd2kFWyioi7DwJzh
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

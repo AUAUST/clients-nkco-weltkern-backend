@@ -1,34 +1,3 @@
-Title: Michael Etzensperger|Masken
-
-----
-
-Multilinetitle:
-
-Michael Etzensperger
-Masken
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Michael Etzensperger <br>Masken'
@@ -45,14 +14,14 @@ description: |
   <p>Struck by this art-historical phenomenon, Etzensperger began to hunt for images of masks in a variety of illustrated books, ranging from anthropological studies to coffee-table books, published throughout the 20th century and the early 21st century. Beyond the motifs of the photographic plates, he became increasingly fascinated by the changing surface qualities of the reproductions that were determined by printing techniques, photographic stock, camera optics, and other factors. Etzensperger then began to use the mask images he had collected as starting points for new images by making double exposures of the reproductions. In these composite pictures, two masks merge into a new hallucinatory face effigy, whilst the overlay of the different surface qualities produces painterly effects. The masks – said to subsume the identity of the wearer in traditional cultures – become non-identical themselves in the newly created image. Consequently, Etzensperger transposed these images, created from the book plates, back into book form, thus coming full circle. The book Masken (Masks) is at once a reflection on the transcultural phenomenon of masks and their impact on 20th century art, on the history of illustrated books and reproduction technologies, as well as a delirious visual delight.<br />
   Martin Jaeggi</p>
 details: |
-  - ISBN: 3952471036 / 978-3952471036
-  - Content: 72 pages
-  - Size: 210 × 320 mm
-  - Language: English
-  - Graphic Design by: Studio Nüssli+Nuessli
-  - Publication: 2018
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: 3952471036 / 978-3952471036
+  Content: 72 pages
+  Size: 210 × 320 mm
+  Language: English
+  Graphic Design by: Studio Nüssli+Nuessli
+  Publication: 2018
+  Specs: Hardcover
+  Images: © WELTKERN® / Cpress. All rights reserved.
 gallery:
   - 
     url: >
@@ -78,4 +47,35 @@ tags: [ ]
 
 ----
 
-Uuid: gIr9SLZYv6H2Vcw5
+Multilinetitle:
+
+Michael Etzensperger
+Masken
+
+----
+
+Uuid: HeQCflSaMwtQRQNW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

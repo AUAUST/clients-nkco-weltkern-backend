@@ -1,34 +1,3 @@
-Title: softspot|A container for the near and close
-
-----
-
-Multilinetitle:
-
-softspot
-A container for the near and close
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'softspot <br>A container for the near and close'
@@ -46,15 +15,15 @@ description: |
   <p>Conceived of and compiled during 2020 and 2021 with Esther Cloe Theaker, Max Creasy, Rosita Kær, Smari R. Robertsson, Tony Karlsson Savci, and Michela Zoppi.</p>
   <p>Each softspot contains three copies of the same book. You are invited to keep one and to gift the others as you wish.</p>
 details: |
-  - ISBN: 1916002487 / 978-1916002487
-  - Content: 406 pages
-  - Size: 136 × 75 × 86 mm
-  - Author: James Taylor-Foster & OK-RM
-  - Design: James Taylor-Foster, OK-RM
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / InOtherWords. All rights reserved.
+  ISBN: 1916002487 / 978-1916002487
+  Content: 406 pages
+  Size: 136 × 75 × 86 mm
+  Author: James Taylor-Foster & OK-RM
+  Design: James Taylor-Foster, OK-RM
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / InOtherWords. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: OPrlGsstO5nEHTvC
+Multilinetitle:
+
+softspot
+A container for the near and close
+
+----
+
+Uuid: oA99xpmw3AkTE3fw
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

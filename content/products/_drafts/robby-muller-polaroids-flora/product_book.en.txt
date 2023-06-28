@@ -1,34 +1,3 @@
-Title: Robby Müller|Polaroids – Flora
-
-----
-
-Multilinetitle:
-
-Robby Müller
-Polaroids – Flora
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Robby Müller <br>Polaroids – Flora'
@@ -42,14 +11,14 @@ author:
   id: 268
 description: '<p>Dutch cinematographer Robby Müller (1940–2018) was one of the greatest pioneers in modern film history. A new book celebrates the Polaroids taken by this daring “master of light”, who worked as a cinematographer alongside Wim Wenders, Jim Jarmusch, and Steve McQueen. This delicate, printed collection shows Müller’s sensitivity to light, acute aesthetic eye, and his attraction to natural motifs. Each snapshot of flowers, insects, and trees sparkles like a jewel, exposing such minute details as a translucent petal or a miraculous close-up of a stamp. With a contribution by French cinematographer Agnès Godard, it is designed by Linda van Deursen and edited by Andrea Müller-Schirmer.</p>'
 details: |
-  - ISBN: 9492811929 / 978-9492811929
-  - Content: 56 Pages
-  - Size: 170 × 5 × 230 mm
-  - Authors: A. Muller-schirmer, A. Godard
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+  ISBN: 9492811929 / 978-9492811929
+  Content: 56 Pages
+  Size: 170 × 5 × 230 mm
+  Authors: A. Muller-schirmer, A. Godard
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Roma Publications. All rights reserved.
 gallery:
   - 
     url: >
@@ -83,4 +52,35 @@ tags: [ ]
 
 ----
 
-Uuid: Hwjl63AWc8gjzZhr
+Multilinetitle:
+
+Robby Müller
+Polaroids – Flora
+
+----
+
+Uuid: JdHIfYXU29r8Ebhk
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Tal R|Garbage Man
-
-----
-
-Multilinetitle:
-
-Tal R
-Garbage Man
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tal R <br>Garbage Man'
@@ -45,14 +14,14 @@ description: |
   <p>The works evoke in their pseudo-encyclopaedic phenomenon associations, Aby Warburg&#8217;s Mnemosyne Atlas, or, to refer to another artist, the Atlas by Gerhard Richter. Similar to him, the arranged pieces within the collages from <em>Garbage Man</em> served and serve the artist also as templates for paintings and sculptures.</p>
   <p>Tal R has boundless creative energy: he transforms everything in his environment into art. His work looks wild and vital, with a knowingly playful, almost absurdist tone. Tal R freely combines techniques and materials: he paints, draws and makes collages, sculptures and furniture. Tal R is a keen observer, who takes inspiration from reality as well as his imagination.</p>
 details: |
-  - ISBN: 3907179284 / 978-3907179284
-  - Content: 400 Pages
-  - Size: 200 × 20 × 140 mm
-  - Author: Tal R
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Innen Zines / Nieves (nieves.ch). All rights reserved.
+  ISBN: 3907179284 / 978-3907179284
+  Content: 400 Pages
+  Size: 200 × 20 × 140 mm
+  Author: Tal R
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Innen Zines / Nieves (nieves.ch). All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: ioZ7hKPnkrh7sWfN
+Multilinetitle:
+
+Tal R
+Garbage Man
+
+----
+
+Uuid: FyTprk3LZ2Z0qhmb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: I Seem to Live [vol.2]|The New York Diaries (1969-2011)
-
-----
-
-Multilinetitle:
-
-I Seem to Live [vol.2]
-The New York Diaries (1969-2011)
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'I Seem to Live [vol.2] <br>The New York Diaries (1969-2011)'
@@ -46,15 +15,15 @@ description: |
   <br />
   Jonas Mekas (1922–2019) was born in Lithuania and arrived in New York in 1949 via post-war DP camps in Germany. Co-founder of the Anthology Film Archives, Mekas was a filmmaker, writer, and poet, as well as a tireless advocate for experimental art and a New York City legend.</p>
 details: |
-  - ISBN: 3959052901 / 978-3959052900
-  - Content: 800 pages
-  - Size: 160 × 215 mm
-  - Author: Jonas Mekas
-  - Edited by: Spector Books
-  - Design: Fabian Bremer, Pascal Storz
-  - Language: English
-  - Publishing date: 2022
-  - Images: © WELTKERN® /  Spector Books. All rights reserved.
+  ISBN: 3959052901 / 978-3959052900
+  Content: 800 pages
+  Size: 160 × 215 mm
+  Author: Jonas Mekas
+  Edited by: Spector Books
+  Design: Fabian Bremer, Pascal Storz
+  Language: English
+  Publishing date: 2022
+  Images: © WELTKERN® /  Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: dg5nTpKWJEnLIMKL
+Multilinetitle:
+
+I Seem to Live [vol.2]
+The New York Diaries (1969-2011)
+
+----
+
+Uuid: 5z2f29dxkjLUWfAG
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

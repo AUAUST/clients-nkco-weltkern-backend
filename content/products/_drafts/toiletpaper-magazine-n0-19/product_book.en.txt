@@ -1,31 +1,3 @@
-Title: Toiletpaper Magazine n° 19
-
-----
-
-Multilinetitle: Toiletpaper Magazine n° 19
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Toiletpaper Magazine n° 19
@@ -39,13 +11,13 @@ author:
   id: 384
 description: '<p>Toiletpaper is an artists’ magazine created and produced by Maurizio Cattelan and Pierpaolo Ferrari, born out of a passion or obsession they both cultivate: images. Number 19 is powered by REDBULL. The magazine contains no text; each picture springs from an idea, often simple, and through a complex orchestration of people it becomes the materialization of the artists’ mental outbursts. Since the first issue, in June 2010, ‘Toiletpaper’ has created a world that displays ambiguous narratives and a troubling imagination. It combines the vernacular of commercial photography with twisted narrative tableaux and surrealistic imagery. The result is a publication that is itself a work of art, which, through its accessible form as a magazine, and through its wide distribution, challenges the limits of the contemporary art economy.</p>'
 details: |
-  - ISBN: 8862087834 / 978-8862087834
-  - Content: 42 pages
-  - Size: 225 × 290 mm
-  - Language: English / italian
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / Toiletpaper. All rights reserved.
+  ISBN: 8862087834 / 978-8862087834
+  Content: 42 pages
+  Size: 225 × 290 mm
+  Language: English / italian
+  Publishing date: 2022
+  Specs: Softcover
+  Images: © WELTKERN® / Toiletpaper. All rights reserved.
 gallery:
   - 
     url: >
@@ -55,4 +27,32 @@ tags: [ ]
 
 ----
 
-Uuid: zx4Ac5JarBr1W7xd
+Multilinetitle: Toiletpaper Magazine n° 19
+
+----
+
+Uuid: RQXEzuImSmy5f6S1
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

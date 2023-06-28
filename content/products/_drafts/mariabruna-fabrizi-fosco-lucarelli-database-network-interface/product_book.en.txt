@@ -1,34 +1,3 @@
-Title: Mariabruna Fabrizi & Fosco Lucarelli|Database Network Interface
-
-----
-
-Multilinetitle:
-
-Mariabruna Fabrizi & Fosco Lucarelli
-Database Network Interface
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mariabruna Fabrizi & Fosco Lucarelli <br>Database Network Interface'
@@ -49,14 +18,14 @@ description: |
   <br />
   En ce sens, la publication présente une sélection d&#8217;études de cas soulignant les liens possibles entre les projets culturels numériques et non numériques et leurs homologues architecturaux.</p>
 details: |
-  - ISBN: 2493283009 / 978-2493283009
-  - Content: 176 Pages
-  - Size: 240 × 320 mm
-  - Artist: Mariabruna Fabrizi, Fosco Lucarelli
-  - Design: Spassky Fischer, Frédéric Jaman
-  - Language: English
-  - Publishing date: 2021
-  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+  ISBN: 2493283009 / 978-2493283009
+  Content: 176 Pages
+  Size: 240 × 320 mm
+  Artist: Mariabruna Fabrizi, Fosco Lucarelli
+  Design: Spassky Fischer, Frédéric Jaman
+  Language: English
+  Publishing date: 2021
+  Images: © WELTKERN® / Les presses du réel. All rights reserved.
 gallery:
   - 
     url: >
@@ -66,4 +35,35 @@ tags: [ ]
 
 ----
 
-Uuid: GCR7op8uURzzokQG
+Multilinetitle:
+
+Mariabruna Fabrizi & Fosco Lucarelli
+Database Network Interface
+
+----
+
+Uuid: ceSMqtYxjp9I5hcj
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

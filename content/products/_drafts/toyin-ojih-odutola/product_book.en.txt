@@ -1,31 +1,3 @@
-Title: Toyin Ojih Odutola
-
-----
-
-Multilinetitle: Toyin Ojih Odutola
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Toyin Ojih Odutola
@@ -44,15 +16,15 @@ description: |
   <br />
   Offering an insight into this remarkable body of work, the accompanying publication features a new text by writer Zadie Smith and an interview with the artist by exhibition curator Lotte Johnson.</p>
 details: |
-  - ISBN: 0995708273 / 978-0995708273
-  - Content: 56 pages
-  - Size: 170 × 12 × 240 mm
-  - Author: Toyin Ojih Odutola
-  - Texts by: Zadie Smith, Lotte Johnson
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © Barbican. All rights reserved.
+  ISBN: 0995708273 / 978-0995708273
+  Content: 56 pages
+  Size: 170 × 12 × 240 mm
+  Author: Toyin Ojih Odutola
+  Texts by: Zadie Smith, Lotte Johnson
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © Barbican. All rights reserved.
 gallery:
   - 
     url: >
@@ -74,4 +46,32 @@ tags: [ ]
 
 ----
 
-Uuid: 78i8JDI4BwrJpzW1
+Multilinetitle: Toyin Ojih Odutola
+
+----
+
+Uuid: oxJXz2SipR4F1fFw
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

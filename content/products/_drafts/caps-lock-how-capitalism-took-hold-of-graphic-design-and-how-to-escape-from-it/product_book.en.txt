@@ -1,34 +1,3 @@
-Title: Caps Lock|How Capitalism Took Hold Of Graphic Design, And How To Escape From It
-
-----
-
-Multilinetitle:
-
-Caps Lock
-How Capitalism Took Hold Of Graphic Design, And How To Escape From It
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Caps Lock <br>How Capitalism Took Hold Of Graphic Design, And How To Escape From It'
@@ -47,15 +16,15 @@ description: |
   <p>The content of CAPS LOCK is structured in chapters with titles of professions that designers can occupy (such as Educator; Engineer, Hacker, Futurist, Activist, etc.). These titles respond to the importance of not just how designers make work, but also how they perform daily economic and social roles.</p>
   <p>Each chapter is divided into coherent articles in which diverse examples of objects and design practices are relayed. The book also features examples of radical design collectives, that work towards alternatives between design, community and reciprocity. </p>
 details: |
-  - ISBN: 9492095817 / 978-9492095817
-  - Content: 552 Pages
-  - Size: 184 × 117 mm
-  - Author: Ruben Pater
-  - Design: Ruben Pater
-  - Language: English
-  - Publishing date: 08.2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Valiz. All rights reserved.
+  ISBN: 9492095817 / 978-9492095817
+  Content: 552 Pages
+  Size: 184 × 117 mm
+  Author: Ruben Pater
+  Design: Ruben Pater
+  Language: English
+  Publishing date: 08.2021
+  Specs: Softcover
+  Images: © WELTKERN® / Valiz. All rights reserved.
 gallery:
   - 
     url: >
@@ -85,4 +54,35 @@ tags: [ ]
 
 ----
 
-Uuid: UJjbqgdRMGol00Lu
+Multilinetitle:
+
+Caps Lock
+How Capitalism Took Hold Of Graphic Design, And How To Escape From It
+
+----
+
+Uuid: QIMIKCYDtdDdQXTr
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

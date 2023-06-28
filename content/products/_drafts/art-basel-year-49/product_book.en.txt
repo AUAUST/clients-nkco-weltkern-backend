@@ -1,34 +1,3 @@
-Title: Art Basel|Year 49
-
-----
-
-Multilinetitle:
-
-Art Basel
-Year 49
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Art Basel <br>Year 49'
@@ -49,16 +18,16 @@ description: |
   <br />
   “Art Basel | Year 49” is the sixth volume of an innovative series of publications started in 2014, which constitutes a valuable archive of the current state and evolution of the art world in the 2010s.</p>
 details: |
-  - ISBN: 3037645529 / 978-3037645529
-  - Content: 784 pages
-  - Size: 210 × 48 × 295 mm
-  - Design: Gavillet & Cie
-  - Edited by: Clément Dirié, Marc Spiegler
-  - Texts by: Andrea Bellini, Haegue Yang, Judy Chicago, Lubaina Himid, Lynn Hershman Leeson, Paul Chan, Rasheed Araeen, Ryan Gander, Valérie Knoll, Xiaoyu Weng
-  - Language: English
-  - Specs: Hardcover
-  - Publishing date: 2019
-  - Images: © WELTKERN® / JRP|Editions. All rights reserved.
+  ISBN: 3037645529 / 978-3037645529
+  Content: 784 pages
+  Size: 210 × 48 × 295 mm
+  Design: Gavillet & Cie
+  Edited by: Clément Dirié, Marc Spiegler
+  Texts by: Andrea Bellini, Haegue Yang, Judy Chicago, Lubaina Himid, Lynn Hershman Leeson, Paul Chan, Rasheed Araeen, Ryan Gander, Valérie Knoll, Xiaoyu Weng
+  Language: English
+  Specs: Hardcover
+  Publishing date: 2019
+  Images: © WELTKERN® / JRP|Editions. All rights reserved.
 gallery:
   - 
     url: >
@@ -68,4 +37,35 @@ tags: [ ]
 
 ----
 
-Uuid: woLGmWdP0mfCxltP
+Multilinetitle:
+
+Art Basel
+Year 49
+
+----
+
+Uuid: GKKrwJjlM52buqGs
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

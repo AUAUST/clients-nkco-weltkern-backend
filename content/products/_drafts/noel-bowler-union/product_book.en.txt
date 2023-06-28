@@ -1,34 +1,3 @@
-Title: Noel Bowler|Union
-
-----
-
-Multilinetitle:
-
-Noel Bowler
-Union
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Noel Bowler <br>Union'
@@ -42,14 +11,14 @@ author:
   id: 355
 description: '<p>Made over a four year period defined by economic uncertainty, increased worker insecurity and the decline of traditional work practices, Union responds to how the institutions of organised labour, designed to protect workers from exploitation in the nineteenth century, have responded to the economic crisis of today. Bowler&#8217;s photographs document the interior spaces of trade union offices in fourteen different countries and provide a glimpse into the normally unseen spaces where the decisions and policies are created that affect so many.</p>'
 details: |
-  - ISBN: 3868286199 / 978-3868286199
-  - Content: 128 pages
-  - Size: 240 × 280 mm
-  - Language: English
-  - Edited by: Ken Grant
-  - Publication: 2015
-  - Specs: Half cloth
-  - Images: © WELTKERN® / Kehrer Verlag. All rights reserved.
+  ISBN: 3868286199 / 978-3868286199
+  Content: 128 pages
+  Size: 240 × 280 mm
+  Language: English
+  Edited by: Ken Grant
+  Publication: 2015
+  Specs: Half cloth
+  Images: © WELTKERN® / Kehrer Verlag. All rights reserved.
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: sl18k1P0nxfyMXRr
+Multilinetitle:
+
+Noel Bowler
+Union
+
+----
+
+Uuid: XP4JPv8H3u3cvpzm
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

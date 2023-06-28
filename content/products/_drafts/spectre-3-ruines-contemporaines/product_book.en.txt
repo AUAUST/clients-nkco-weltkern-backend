@@ -1,34 +1,3 @@
-Title: Spectre 3|Ruines contemporaines
-
-----
-
-Multilinetitle:
-
-Spectre 3
-Ruines contemporaines
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Spectre 3 <br>Ruines contemporaines'
@@ -42,15 +11,15 @@ author:
   id: 87
 description: '<p>It is increasingly difficult to gain a perception of the present world that is not entirely determined by itself. <em>Contemporary ruin</em> questions our indifference to the past, our dependence on the present, and our future uncertainties. It is obvious that our era will continue to produce abandoned, unfinished, deteriorated and rapidly obsolete spaces; this new issue of Spectre questions the contemporary capacity to generate significant ruins.</p>'
 details: |
-  - ISBN: 2491039066 / 978-2491039066
-  - Content: 208 pages
-  - Size: 249 × 17 × 310 mm
-  - Edited by: Claudia Mion
-  - Design: Spassky Fischer, Giovanni Murolo
-  - Language: English / French
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: 2491039066 / 978-2491039066
+  Content: 208 pages
+  Size: 249 × 17 × 310 mm
+  Edited by: Claudia Mion
+  Design: Spassky Fischer, Giovanni Murolo
+  Language: English / French
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Cosa Mentale. All rights reserved.
 gallery:
   - 
     url: >
@@ -84,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: ja7SuGr5O41GNo4M
+Multilinetitle:
+
+Spectre 3
+Ruines contemporaines
+
+----
+
+Uuid: 1Z5QS4wNUnx3S5qK
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

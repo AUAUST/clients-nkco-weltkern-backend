@@ -1,34 +1,3 @@
-Title: Jörg Brüggemann|Autobahn
-
-----
-
-Multilinetitle:
-
-Jörg Brüggemann
-Autobahn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Jörg Brüggemann <br>Autobahn'
@@ -45,16 +14,16 @@ description: |
   <br />
   Jörg Brüggemann is a photographer, lecturer, and curator from Berlin. He has been a member of the OSTKREUZ agency since 2009, and has also worked there as managing director and lecturer since 2019. He works for magazines including ZEIT Magazin, GEO, Monocle, and others and has been awarded numerous prizes and scholarships in the past.</p>
 details: |
-  - ISBN: 3960700520 / 978-3960700524
-  - Content: 96 pages
-  - Size: 268 × 320 mm
-  - Artist: Jörg Brüggemann
-  - Edited by: Hartmann Books
-  - Design: HelloMe
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Clothbound hardcover with foil stamping
-  - Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: 3960700520 / 978-3960700524
+  Content: 96 pages
+  Size: 268 × 320 mm
+  Artist: Jörg Brüggemann
+  Edited by: Hartmann Books
+  Design: HelloMe
+  Language: English
+  Publishing date: 2020
+  Specs: Clothbound hardcover with foil stamping
+  Images: © WELTKERN® / Hartmann Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: qO2C2ZhRUlDtmcxk
+Multilinetitle:
+
+Jörg Brüggemann
+Autobahn
+
+----
+
+Uuid: tz6ZQktQUUCDQkkE
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

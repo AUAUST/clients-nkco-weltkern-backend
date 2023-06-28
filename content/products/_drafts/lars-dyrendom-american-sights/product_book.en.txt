@@ -1,34 +1,3 @@
-Title: Lars Dyrendom|American Sights
-
-----
-
-Multilinetitle:
-
-Lars Dyrendom
-American Sights
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Lars Dyrendom <br>American Sights'
@@ -45,14 +14,14 @@ description: |
   <br />
   The artists’ book «American Sights» is a photographic journey back in time and to sights of the 20th century, zooming in on touristic artifacts from the beginning of mass image production. Four hundred 3D View-Master reels were browsed to select a series that carries a romantic distance between the image and the viewer.</p>
 details: |
-  - ISBN: 3945900420 / 978-3945900420
-  - Content: 224 Pages
-  - Size: 220 × 25 × 263 mm
-  - Author: Lars Dyrendom
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+  ISBN: 3945900420 / 978-3945900420
+  Content: 224 Pages
+  Size: 220 × 25 × 263 mm
+  Author: Lars Dyrendom
+  Language: English
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © WELTKERN® / Edition Taube. All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: bbxiwNIiyuYMuxHu
+Multilinetitle:
+
+Lars Dyrendom
+American Sights
+
+----
+
+Uuid: 0aCUllAS4t06aiBJ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

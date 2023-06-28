@@ -1,31 +1,3 @@
-Title: Mert Alas & Marcus Piggott
-
-----
-
-Multilinetitle: Mert Alas & Marcus Piggott
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mert Alas & Marcus Piggott'
@@ -44,14 +16,14 @@ description: |
   <br />
   Bringing our best-selling Collector&#8217;s Edition to an affordable, compact format, this collection explores the unique vision of a creative partnership that has defined and redefined standards for glamour, fashion, and luxury. Approximately 300 images from the megawatt Mert and Marcus portfolio are accompanied by an introduction by Charlotte Cotton.</p>
 details: |
-  - ISBN: 3836573061 / 978-3836573061
-  - Content: 408 pages
-  - Size: 262 × 41 × 350 mm
-  - Author: Charlotte Cotton
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Taschen. All rights reserved.
+  ISBN: 3836573061 / 978-3836573061
+  Content: 408 pages
+  Size: 262 × 41 × 350 mm
+  Author: Charlotte Cotton
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Taschen. All rights reserved.
 gallery:
   - 
     url: >
@@ -89,4 +61,32 @@ tags: [ ]
 
 ----
 
-Uuid: ozqXgjVXYcmzpDFn
+Multilinetitle: Mert Alas & Marcus Piggott
+
+----
+
+Uuid: mlbnNgIsAXXrTS5t
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

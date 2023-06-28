@@ -1,34 +1,3 @@
-Title: Perrotin Yearbook|n°28 – 2018
-
-----
-
-Multilinetitle:
-
-Perrotin Yearbook
-n°28 – 2018
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Perrotin Yearbook <br>n°28 – 2018'
@@ -42,15 +11,15 @@ author:
   id: 121
 description: '<p>The first volume of the Yearbook reflects the activities of the six Perrotin gallery&#8217;s spaces during 2018 assembling exhibition views, conversations with the artists, photographs of workshops and events. Includes contributions by Johan Creten, Colin Lemoine, Matthieu Poirier, Barbara MacAdam, Jean-Michel Othoniel, Daniel S. Palmer, Alexandra Cunningham Cameron, Felix Burrichter, Matthew Ronay, Elena Sorokina, Lee Bae, Henri-François Debailleux, Paul Pfeiffer, Iván Argote, Otani Workshop, Laurent Grasso, Arnauld Pierre, Sébastien Pluot, gimhongsok, Mami Kataoka, Chen Fei, Travis Diehl, Claire Tabouret, Milan Zrnic, Eric Dahan, Xavier Veilhan, Mark Peckmezian, Gelitin, Jesper Just, and more.</p>'
 details: |
-  - ISBN: 1091539159 / 979-1091539159
-  - Content: 416 pages
-  - Size: 240 × 35 × 320 mm
-  - Edited by: Raphaël Gatel, Manon Lutanie.
-  - Design: Bureau Antoine Roux
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Hardcover
-  - Images: © Perrotin, All rights reserved
+  ISBN: 1091539159 / 979-1091539159
+  Content: 416 pages
+  Size: 240 × 35 × 320 mm
+  Edited by: Raphaël Gatel, Manon Lutanie.
+  Design: Bureau Antoine Roux
+  Language: English
+  Publishing date: 2019
+  Specs: Hardcover
+  Images: © Perrotin, All rights reserved
 gallery:
   - 
     url: >
@@ -84,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: J3yULQuAGUSEd3sS
+Multilinetitle:
+
+Perrotin Yearbook
+n°28 – 2018
+
+----
+
+Uuid: hIJ8NBZJCyYWEkqa
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

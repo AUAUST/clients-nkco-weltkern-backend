@@ -1,34 +1,3 @@
-Title: Art Basel|Year 50
-
-----
-
-Multilinetitle:
-
-Art Basel
-Year 50
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Art Basel <br>Year 50'
@@ -51,16 +20,16 @@ description: |
   <br />
   “Art Basel | Year 50” is the seventh volume of an innovative series of publications started in 2014, which constitutes a valuable archive of the current state and evolution of the art world in the 2010s.</p>
 details: |
-  - ISBN: 3037645550 / 978-3037645550
-  - Content: 656 pages
-  - Size: 210 × 40 × 295 mm
-  - Design: Gavillet & Cie
-  - Edited by: Clément Dirié, Marc Spiegler
-  - Texts by: AA Bronson, Alessandra Pirici, Harry Bellet, Kurt Wyss, Massimo Minini, Natasha Ginwala, Otobong Nkanga, Pauline J. Yao, Raphael Chikukwa, Ulla Dreyfus-Best
-  - Publishing date: 2019
-  - Language: English
-  - Specs: Hardcover
-  - Images: © WELTKERN® / JRP|Editions. All rights reserved.
+  ISBN: 3037645550 / 978-3037645550
+  Content: 656 pages
+  Size: 210 × 40 × 295 mm
+  Design: Gavillet & Cie
+  Edited by: Clément Dirié, Marc Spiegler
+  Texts by: AA Bronson, Alessandra Pirici, Harry Bellet, Kurt Wyss, Massimo Minini, Natasha Ginwala, Otobong Nkanga, Pauline J. Yao, Raphael Chikukwa, Ulla Dreyfus-Best
+  Publishing date: 2019
+  Language: English
+  Specs: Hardcover
+  Images: © WELTKERN® / JRP|Editions. All rights reserved.
 gallery:
   - 
     url: >
@@ -70,4 +39,35 @@ tags: [ ]
 
 ----
 
-Uuid: fQOT56Vw5kfaAZyj
+Multilinetitle:
+
+Art Basel
+Year 50
+
+----
+
+Uuid: t7fYkwaptxfZDZFL
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,31 +1,3 @@
-Title: The Noise Landscape
-
-----
-
-Multilinetitle: The Noise Landscape
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: The Noise Landscape
@@ -42,15 +14,15 @@ description: |
   <p>The expansive areas around large airports, affected by noise, infrastructure, and transient forms of architecture, have until now not been researched as a phenomenon. But these noise landscapes are emerging worldwide, often surpassing the neighbouring city in size, and sometimes rivalling it in economic importance. <br />
   On the basis of eight European case studies (Amsterdam, Zurich, London-Heathrow, Frankfurt, Munich, Madrid and the two Paris airports) this book provides the first account of how these landscapes emerged as the result of technical determinations, what is taking place in them, and how they can be interpreted.  The book is the outcome of several years of research by the chair of Kees Christiaanse at the ETH Zurich.</p>
 details: |
-  - ISBN: 9462083554 / 978-9462083554
-  - Content: 272 pages
-  - Size: 170 × 32 × 235 mm
-  - Edited by: Benedikt Boucsein, Kees Christiaanse, Eirini Kasioumi, Christian Salewski
-  - Contributions from: Mark Michaeli, Peter Ortner
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Hardcover
-  - Images: © nai010 Publishers. All rights reserved.
+  ISBN: 9462083554 / 978-9462083554
+  Content: 272 pages
+  Size: 170 × 32 × 235 mm
+  Edited by: Benedikt Boucsein, Kees Christiaanse, Eirini Kasioumi, Christian Salewski
+  Contributions from: Mark Michaeli, Peter Ortner
+  Language: English
+  Publishing date: 2017
+  Specs: Hardcover
+  Images: © nai010 Publishers. All rights reserved.
 gallery:
   - 
     url: >
@@ -72,4 +44,32 @@ tags: [ ]
 
 ----
 
-Uuid: gtUAhaW925DomDYr
+Multilinetitle: The Noise Landscape
+
+----
+
+Uuid: idm4l3sgrgitV3Xh
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

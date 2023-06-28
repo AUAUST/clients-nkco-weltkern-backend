@@ -1,34 +1,3 @@
-Title: The Natural Enemies of Books|A Messy History of Women in Printing and Typography
-
-----
-
-Multilinetitle:
-
-The Natural Enemies of Books
-A Messy History of Women in Printing and Typography
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'The Natural Enemies of Books <br>A Messy History of Women in Printing and Typography'
@@ -43,14 +12,14 @@ author:
   id: 252
 description: '<p>&#8216;Natural Enemies of Books&#8217; is a response to the groundbreaking 1937 publication &#8216;Bookmaking on the Distaff Side&#8217;, which brought together contributions by women printers, illustrators, authors, typographers, and typesetters, highlighting the print industrys inequalities and proposing a takeover of the history of the book. Edited by feminist graphic design collective MMS, the publication includes newly commissioned essays and poems, conversations with former typesetters Inger Humlesjo, Ingegard Waaranpera, Gail Cartmail, and Megan Downey, and reprints of the original book and other publications.</p>'
 details: |
-  - ISBN: 099547303X / 978-0995473034
-  - Content: 180 Pages
-  - Size: 110 × 11 × 190 mm
-  - Edited by: Maryam Fanni
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Occasional Papers / People of Print (peopleofprint.com). All rights reserved.
+  ISBN: 099547303X / 978-0995473034
+  Content: 180 Pages
+  Size: 110 × 11 × 190 mm
+  Edited by: Maryam Fanni
+  Language: English
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © WELTKERN® / Occasional Papers / People of Print (peopleofprint.com). All rights reserved.
 gallery:
   - 
     url: >
@@ -84,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: I29h1Iw1KR147ygh
+Multilinetitle:
+
+The Natural Enemies of Books
+A Messy History of Women in Printing and Typography
+
+----
+
+Uuid: Gqe49U2hYbm2rwQs
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

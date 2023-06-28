@@ -1,34 +1,3 @@
-Title: Paul Hutchinson|Pictures and Words
-
-----
-
-Multilinetitle:
-
-Paul Hutchinson
-Pictures and Words
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Paul Hutchinson <br>Pictures and Words'
@@ -45,14 +14,14 @@ description: |
   <p>This book, the artist’s first, includes samples of his own writing, including lyrical soliloquies that reflect on scenes from his youth that struck and still strike him as peculiar, as well as sketches of his perceptions people’s interactions.</p>
   <p>In pictures as well as words, Hutchinson expertly uncovers the seeds of moving stories that lie dormant in seemingly fleeting instants.</p>
 details: |
-  - ISBN: 3954762309 / 978-3954762309
-  - Content: 228 Pages
-  - Size: 230 × 310 mm
-  - Language: English
-  - Publishing date: 2018
-  - Edited by: Paul Hutchinson
-  - Specs: 143 Color Images, Softcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: 3954762309 / 978-3954762309
+  Content: 228 Pages
+  Size: 230 × 310 mm
+  Language: English
+  Publishing date: 2018
+  Edited by: Paul Hutchinson
+  Specs: 143 Color Images, Softcover
+  Images: © WELTKERN® / Distanz. All rights reserved.
 gallery:
   - 
     url: >
@@ -74,4 +43,35 @@ tags: [ ]
 
 ----
 
-Uuid: 7GecJin8lLJgA4Iz
+Multilinetitle:
+
+Paul Hutchinson
+Pictures and Words
+
+----
+
+Uuid: kf2SL7EZwyHGiZLD
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Florina Leinß|Ersatzteillager
-
-----
-
-Multilinetitle:
-
-Florina Leinß
-Ersatzteillager
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Florina Leinß <br>Ersatzteillager'
@@ -49,14 +18,14 @@ description: |
   <p>When you order, please tell us which Version you want:<br />
   V1: green cover | V2: yellow cover | V3: blue-grey cover | V4: brown cover</p>
 details: |
-  - ISBN: 3945900130 / 978-3945900130
-  - Content: 192 Pages
-  - Size: 145 × 30 × 195 mm
-  - Author: Lars Dyrendom
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+  ISBN: 3945900130 / 978-3945900130
+  Content: 192 Pages
+  Size: 145 × 30 × 195 mm
+  Author: Lars Dyrendom
+  Language: English
+  Publishing date: 2018
+  Specs: Hardcover
+  Images: © WELTKERN® / Edition Taube. All rights reserved.
 gallery:
   - 
     url: >
@@ -66,4 +35,35 @@ tags: [ ]
 
 ----
 
-Uuid: 2yXD13NsGTeRAHGC
+Multilinetitle:
+
+Florina Leinß
+Ersatzteillager
+
+----
+
+Uuid: FPWNNOqkqhTfj9gi
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

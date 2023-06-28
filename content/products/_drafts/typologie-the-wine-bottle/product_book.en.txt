@@ -1,34 +1,3 @@
-Title: Typologie|The wine bottle
-
-----
-
-Multilinetitle:
-
-Typologie
-The wine bottle
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Typologie <br>The wine bottle'
@@ -47,14 +16,14 @@ description: |
   <br />
   Each issue features two sections: The first one is printed in tri-color on thick paper, and presents a series of original photos of ancient and contemporary objects, faithfully reproduced. The second one is printed in color on thin paper and contains authors&#8217; texts, a crossed interview, a factory documentary and archive images.</p>
 details: |
-  - ISBN: 490958030 / 978-2490958030
-  - Content: 64 pages
-  - Size: 210 × 7 × 260 mm
-  - Texts by: Philippe Louguet, Fabrice Domercq, José Garcia, Thierry de Putter
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Collections Typologie. All rights reserved.
+  ISBN: 490958030 / 978-2490958030
+  Content: 64 pages
+  Size: 210 × 7 × 260 mm
+  Texts by: Philippe Louguet, Fabrice Domercq, José Garcia, Thierry de Putter
+  Language: English
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © Collections Typologie. All rights reserved.
 gallery:
   - 
     url: >
@@ -84,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: WyXCdTh7vKPTNrdQ
+Multilinetitle:
+
+Typologie
+The wine bottle
+
+----
+
+Uuid: pbgyHF63gNEaWHLo
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Breadcrumb|Art & Sandwiches
-
-----
-
-Multilinetitle:
-
-Breadcrumb
-Art & Sandwiches
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Breadcrumb <br>Art & Sandwiches'
@@ -45,16 +14,16 @@ description: |
   <p>Ranging from sculpture, found imagery, drawing and much more, Breadcrumb compiles and reflects upon forty-one sandwich recipes by artists from different places across the globe, presenting the sandwich as a fuzzy, expanding object, lacking strict definition.</p>
   <p>The Breadcrumb cookbook brings artistic value to everyday life and instigates thought as well as food for digestion. Buen provecho.</p>
 details: |
-  - ISBN: 9493148529 / 978-9493148529
-  - Content: 188 pages
-  - Size: 160 × 200 mm
+  ISBN: 9493148529 / 978-9493148529
+  Content: 188 pages
+  Size: 160 × 200 mm
   
-  - Language: English
-  - Edited by: Eliot Z. Felde and Cristina Ramos
-  - Graphic design: Fred Heinsohn
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: English
+  Edited by: Eliot Z. Felde and Cristina Ramos
+  Graphic design: Fred Heinsohn
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Onomatopee. All rights reserved.
 gallery:
   - 
     url: >
@@ -80,4 +49,35 @@ tags: [ ]
 
 ----
 
-Uuid: 5ZgOkthwxXBVjL4v
+Multilinetitle:
+
+Breadcrumb
+Art & Sandwiches
+
+----
+
+Uuid: ZHzBcQDiCVfUkEd2
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

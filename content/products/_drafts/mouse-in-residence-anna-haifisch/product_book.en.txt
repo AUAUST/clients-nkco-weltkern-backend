@@ -1,39 +1,3 @@
-Title: Mouse in Residence|Anna Haifisch
-
-----
-
-Multilinetitle: 
-
-----
-
-Multilinetitleseparator: 
-
-----
-
-Publisher: 
-
-----
-
-Tags: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mouse in Residence <br>Anna Haifisch'
@@ -50,17 +14,52 @@ description: |
   <br />
   Jonas Mekas (1922–2019) was born in Lithuania and arrived in New York in 1949 via post-war DP camps in Germany. Co-founder of the Anthology Film Archives, Mekas was a filmmaker, writer, and poet, as well as a tireless advocate for experimental art and a New York City legend.</p>
 details: |
-  - ISBN: 395905503X / 978-3959055031
-  - Content: 144 pages
-  - Size: 110 × 180 mm
-  - Author: Anna Haifisch
-  - Edited by: Spector Books
-  - Language: English
-  - Publishing date: 2022
-  - Images: © WELTKERN® /  Spector Books. All rights reserved.
+  ISBN: 395905503X / 978-3959055031
+  Content: 144 pages
+  Size: 110 × 180 mm
+  Author: Anna Haifisch
+  Edited by: Spector Books
+  Language: English
+  Publishing date: 2022
+  Images: © WELTKERN® /  Spector Books. All rights reserved.
 gallery:
   - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_AnnaHaifisch.jpg
     id: 13760
 tags: [ ]
+
+----
+
+Multilinetitle:
+
+Mouse in Residence
+Anna Haifisch
+
+----
+
+Uuid: WVeZP6fQWYhIihV8
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

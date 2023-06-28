@@ -1,34 +1,3 @@
-Title: Alexandra Dautel|May You Continue To Blossom
-
-----
-
-Multilinetitle:
-
-Alexandra Dautel
-May You Continue To Blossom
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Alexandra Dautel <br>May You Continue To Blossom'
@@ -43,14 +12,14 @@ author:
   id: 327
 description: '<p>Alexandra Dautel’s May You Continue to Blossom is a critical investigation into the nature of illusion, told via the story of Neot Semadar – a kibbutz and self-styled utopia in the desert of Southern Israel. Through a feverish, layered constellation of words and images, it walks the line between delusion and belief, visually exploring the texture and terms of ideology, and asking what lies behind the construction of an ideal place. </p>'
 details: |
-  - ISBN: 3907333006 / 978-3907333006
-  - Content: 224 pages
-  - Size: 200 × 260 mm
-  - Language: English
-  - Graphic Design by: Alexandra Dautel, Studio Nüssli+Nuessli
-  - Publication: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: 3907333006 / 978-3907333006
+  Content: 224 pages
+  Size: 200 × 260 mm
+  Language: English
+  Graphic Design by: Alexandra Dautel, Studio Nüssli+Nuessli
+  Publication: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Cpress. All rights reserved.
 gallery:
   - 
     url: >
@@ -92,4 +61,35 @@ tags: [ ]
 
 ----
 
-Uuid: 4V1Nlo7jWylrXqIu
+Multilinetitle:
+
+Alexandra Dautel
+May You Continue To Blossom
+
+----
+
+Uuid: d9g74GjEdgJwQAK9
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Armin Morbach|Irony
-
-----
-
-Multilinetitle:
-
-Armin Morbach
-Irony
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Armin Morbach <br>Irony'
@@ -45,13 +14,13 @@ description: |
   <br />
   Morbach started taking photographs in 2007. The creative ambition and expressive energy that manifest themselves in his other ventures are evident in his pictures as well. Sparsely elegant compositions toy with hyperbole and the unconscious; an inimitable visual idiom unsettles and provokes the viewer. Morbach’s photography—which has also been presented in widely acclaimed exhibitions—has rapidly earned him worldwide renown. In his first book, titled IRONY, Armin Morbach caps his first decade as a photographer with a personal glimpse behind the scenes of the beauty and fashion business. With essays by Christiane Arp, Anke Degenhard, F.C. Gundlach, and the editorial team at TUSH.</p>
 details: |
-  - ISBN: 3954762072 / 978-3954762071
-  - Content: 200 pages
-  - Size: 250 × 335 mm
-  - Language: German / English
-  - Publishing date: 2017
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: 3954762072 / 978-3954762071
+  Content: 200 pages
+  Size: 250 × 335 mm
+  Language: German / English
+  Publishing date: 2017
+  Specs: Hardcover
+  Images: © WELTKERN® / Distanz. All rights reserved.
 gallery:
   - 
     url: >
@@ -73,4 +42,35 @@ tags: [ ]
 
 ----
 
-Uuid: fcuSlPgKXxGjZ24x
+Multilinetitle:
+
+Armin Morbach
+Irony
+
+----
+
+Uuid: 6Bh1Mh3WrSKF2dh7
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

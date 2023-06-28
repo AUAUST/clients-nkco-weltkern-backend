@@ -1,34 +1,3 @@
-Title: Probing Zurich|Pamphlet
-
-----
-
-Multilinetitle:
-
-Probing Zurich
-Pamphlet
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Probing Zurich <br>Pamphlet'
@@ -42,15 +11,15 @@ author:
   id: 324
 description: '<p>This issue of Pamphlet deals with the perception, visualization, and representation of distinct parts of Zurich and offers different ways of representing the city – both above ground and underground – by analyzing five unique sites, each of which represents a multifaceted, layered and spatially complex system: the ETH main building, Zurich main station, the Jelmoli department store, the Sihl River, and the Schanzengraben and adjacent Old Botanical Garden. Each site is approached from two perspectives: the visual aesthetic perspective of student works that accurately visualize the site through point cloud modelling; and the perspective of experts who have a special relation to the site or knowledge of the applied methods and technologies, thus contributing insights from urban history, city planning, architecture, and landscape architecture.</p>'
 details: |
-  - ISBN: 3856764371 / 978-3856764371
-  - Content: 88 pages
-  - Size: 150 × 230 mm
-  - Design: Julie Peeters
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Staple
-  - Specs: Softcover
-  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: 3856764371 / 978-3856764371
+  Content: 88 pages
+  Size: 150 × 230 mm
+  Design: Julie Peeters
+  Language: English
+  Publishing date: 2022
+  Specs: Staple
+  Specs: Softcover
+  Images: © WELTKERN ® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -72,4 +41,35 @@ tags: [ ]
 
 ----
 
-Uuid: snKB2xMSLf3Hgb42
+Multilinetitle:
+
+Probing Zurich
+Pamphlet
+
+----
+
+Uuid: a2FLKf6GjW0FZJge
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

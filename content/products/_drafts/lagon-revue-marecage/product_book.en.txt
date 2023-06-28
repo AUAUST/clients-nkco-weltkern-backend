@@ -1,34 +1,3 @@
-Title: Lagon Revue|Marécage
-
-----
-
-Multilinetitle:
-
-Lagon Revue
-Marécage
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Lagon Revue <br>Marécage'
@@ -42,13 +11,13 @@ author:
   id: 132
 description: '<p>Lagon Revue is a prospective comic book magazine exploring new forms of graphic narration. This French and English publication is printed with risograph, offset, and silkscreen, and takes a new name with each issue. The latest issue, Marécage, features comics by Manon Wertenbroek, Chris Harnan, Tom Lebaron-Khérif, Masanao Hirayama, Bettina Henni, Jean-Philippe Bretin, Lala Albert, Leon Sadler, Son Ni, Thomas Bayrle, Acacio Ortas, Michael Robbins, Margot Ferrick, Daylen Seu, Laura Brothers, Léopold Bensaid, Ellie Orain &#038; Hugo Ruyant, Melek Zertal, Sammy Stein, Maren Karlson, Jaakko Pallasvuo, and Alexis Beauclair.</p>'
 details: |
-  - Content: 212 pages
-  - Size: 230 × 15 × 330 mm
-  - Design: Jean-Philippe Bretin
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN®. All rights reserved.
+  Content: 212 pages
+  Size: 230 × 15 × 330 mm
+  Design: Jean-Philippe Bretin
+  Language: English
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © WELTKERN®. All rights reserved.
 gallery:
   - 
     url: >
@@ -82,4 +51,35 @@ tags: [ ]
 
 ----
 
-Uuid: TCYBkgsroxwe72t9
+Multilinetitle:
+
+Lagon Revue
+Marécage
+
+----
+
+Uuid: lZ0cpoUe20MVrwmj
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

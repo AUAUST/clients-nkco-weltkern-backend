@@ -1,34 +1,3 @@
-Title: Le Silver Book|Second Edition
-
-----
-
-Multilinetitle:
-
-Le Silver Book
-Second Edition
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Le Silver Book <br>Second Edition'
@@ -47,16 +16,16 @@ description: |
   <br />
   Originally a report commissioned by Nike, the book “Le Silver: An Italian Oral History of the Nike Air Max 97” tells the story of the phenomenon through the voices of those who wore the shoe with the greatest obsessiveness. In doing so, it becomes a snapshot of the attitude of late ‘90s Italian urban culture.</p>
 details: |
-  - ISBN: 2840669562 / 978-2840669562
-  - Content: 152 Pages
-  - Size: 125 × 10 × 205 mm
-  - Author: Lodovico Pignatti Morano
-  - Texts by: Lodovico Pignatti Morano
-  - Design: Bureau Mirko Borsche
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISBN: 2840669562 / 978-2840669562
+  Content: 152 Pages
+  Size: 125 × 10 × 205 mm
+  Author: Lodovico Pignatti Morano
+  Texts by: Lodovico Pignatti Morano
+  Design: Bureau Mirko Borsche
+  Language: English
+  Publishing date: 2017
+  Specs: Softcover
+  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
 gallery:
   - 
     url: >
@@ -78,4 +47,35 @@ tags: [ ]
 
 ----
 
-Uuid: Q4iUPd3e5hS2coxH
+Multilinetitle:
+
+Le Silver Book
+Second Edition
+
+----
+
+Uuid: fnScGZI2Toi2QEfh
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

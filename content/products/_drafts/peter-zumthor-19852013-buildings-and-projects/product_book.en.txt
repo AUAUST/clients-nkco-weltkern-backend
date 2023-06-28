@@ -1,34 +1,3 @@
-Title: Peter Zumthor 1985–2013|Buildings and Projects
-
-----
-
-Multilinetitle:
-
-Peter Zumthor 1985–2013
-Buildings and Projects
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Peter Zumthor 1985–2013 <br>Buildings and Projects'
@@ -46,13 +15,13 @@ description: |
   <p>This five-volume overview of his work to date presents forty-three buildings and projects, including some that have never been published before. On 856 pages with over 750 photographs, plans, sketches, drawings and watercolors, and with texts written by Peter Zumthor himself specially for this monograph, it documents a wide range of projects from several world-famous buildings to some that never left the drawing board.</p>
   <p>With photographs by Hélène Binet, Hans Danuser, Ralph Feiner, Thomas Flechtner, Walter Mair, Joël Tettamanti, and others.</p>
 details: |
-  - ISBN: 3858813046 / 978-3858813046
-  - Content: 856 pages
-  - Size: 327 × 257 × 113 mm
-  - Language: English
-  - Publishing date: 2014
-  - Specs: Boxed set, 5 Books, Hardcover
-  - Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+  ISBN: 3858813046 / 978-3858813046
+  Content: 856 pages
+  Size: 327 × 257 × 113 mm
+  Language: English
+  Publishing date: 2014
+  Specs: Boxed set, 5 Books, Hardcover
+  Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
 gallery:
   - 
     url: >
@@ -66,4 +35,35 @@ tags: [ ]
 
 ----
 
-Uuid: kao9YdB0KskezmR9
+Multilinetitle:
+
+Peter Zumthor 1985–2013
+Buildings and Projects
+
+----
+
+Uuid: 7seikNzrhlkV6Hd6
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

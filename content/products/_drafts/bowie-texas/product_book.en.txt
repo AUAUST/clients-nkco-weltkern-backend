@@ -1,31 +1,3 @@
-Title: Bowie Texas
-
-----
-
-Multilinetitle: Bowie Texas
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Bowie Texas
@@ -43,15 +15,15 @@ description: |
   Taken together, these widely diverse and richly atmospheric photographs go to make up a visual novel of lyrical poignancy. Landscapes, roads and houses, even the people he portrays, need no names to tell their story. The photos are fragments of present-day reality in America, unstaged and highly evocative, even elegiac.<br />
   A representative cross-section of his very expressive non-commercial work, this volume presents a selection of Macor’s personal color photographs for the first time.</p>
 details: |
-  - ISBN / EAN: 978-3-906-80357-9 / 3906803579
-  - Content: 180 pages
-  - Size: 280 × 28 × 335 mm
-  - Author: PierLuigi Macor
-  - Design: Studio Achermann Zürich
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © Edition Patrick Frey, All rights reserved
+  ISBN / EAN: 978-3-906-80357-9 / 3906803579
+  Content: 180 pages
+  Size: 280 × 28 × 335 mm
+  Author: PierLuigi Macor
+  Design: Studio Achermann Zürich
+  Language: English
+  Publishing date: 2018
+  Specs: Hardcover
+  Images: © Edition Patrick Frey, All rights reserved
 gallery:
   - 
     url: >
@@ -77,4 +49,32 @@ tags: [ ]
 
 ----
 
-Uuid: ZJpoQT32VQYM78l4
+Multilinetitle: Bowie Texas
+
+----
+
+Uuid: 8pVjxgYLTMsDSpYv
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

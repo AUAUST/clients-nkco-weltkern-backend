@@ -14,16 +14,16 @@ description: |
   <br />
   His works combine memory of the past with attention to contemporary urban and popular phenomena. It is an art of expression and accumulation, of the overproduction of information and of the delirium of the senses, of neurosis and paranoia, and in which the gigantism of the shapes and their proliferation appear like a corrupt manifestation of desire, consumption, anxiety, and the need for control that characterizes contemporary occidental culture.</p>
 details: |
-  - ISBN: 3037640104 / 978-3037640104
-  - Content: 168 pages
-  - Size: 237 × 17 × 286 mm
-  - Author: Sterling Ruby
-  - Edited by: Alessandro Rabottini
-  - Texts by: Jörg Heiser, Robert Hobbs, Catherine Taft
-  - Language: English
-  - Publishing date: 2009
-  - Specs: Softcover
-  - Images: © WELTKERN® / JRP|Editions. All rights reserved.
+  ISBN: 3037640104 / 978-3037640104
+  Content: 168 pages
+  Size: 237 × 17 × 286 mm
+  Author: Sterling Ruby
+  Edited by: Alessandro Rabottini
+  Texts by: Jörg Heiser, Robert Hobbs, Catherine Taft
+  Language: English
+  Publishing date: 2009
+  Specs: Softcover
+  Images: © WELTKERN® / JRP|Editions. All rights reserved.
 gallery:
   - 
     url: >
@@ -57,7 +57,7 @@ Multilinetitle: Sterling Ruby
 
 ----
 
-Uuid: y7AdAqd19gaMgdEi
+Uuid: fho9h63WRCJoMhqz
 
 ----
 

@@ -1,31 +1,3 @@
-Title: Glassbox
-
-----
-
-Multilinetitle: Glassbox
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Glassbox
@@ -45,16 +17,16 @@ description: |
   This book is an opportunity for one of the first Parisian artist-run spaces (and one of the last survivors of this era) to look back at the context of its creation, but also to confront it with the mutations of the cultural scene and its professionalization, with the development of the figure of the critic and the curator.<br />
   Beyond a return on experience by the teams of the various periods and the artists having participated in the project, the work proposes a more global reflection on the conditions of emergence of the independent and collective places, and their inscription in the institutional and artistic scene.</p>
 details: |
-  - ISBN: 1096155033 / 979-1096155033
-  - Content: 304 pages
-  - Size: 210 × 297 mm
-  - Edited by: Clémence Agnez
-  - Texts by: Clémence Agnez, Saâdane Afif, Jean-Christophe Arcos, Dominique Blais, Nicolas Bourriaud, Collectif 1.0.3, Lucille de Witte, Élie During, Flora Katz, Sarah Ihler-Meyer, Irma Name (Hélène Deléan et Clément Caignart), Sabrina Issa, Patrice Joly, Sophie Lapalu, Ingrid Luquet-Gad, Éric Mangion, Olivier Marboeuf, Pedro Morais, Stefan Nikolaev, Hans-Ulrich Obrist, Joël Riff.
-  - Design: Syndicat
-  - Language: French
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Les presses du réel / Glassbox. All rights reserved.
+  ISBN: 1096155033 / 979-1096155033
+  Content: 304 pages
+  Size: 210 × 297 mm
+  Edited by: Clémence Agnez
+  Texts by: Clémence Agnez, Saâdane Afif, Jean-Christophe Arcos, Dominique Blais, Nicolas Bourriaud, Collectif 1.0.3, Lucille de Witte, Élie During, Flora Katz, Sarah Ihler-Meyer, Irma Name (Hélène Deléan et Clément Caignart), Sabrina Issa, Patrice Joly, Sophie Lapalu, Ingrid Luquet-Gad, Éric Mangion, Olivier Marboeuf, Pedro Morais, Stefan Nikolaev, Hans-Ulrich Obrist, Joël Riff.
+  Design: Syndicat
+  Language: French
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © WELTKERN® / Les presses du réel / Glassbox. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +36,32 @@ tags: [ ]
 
 ----
 
-Uuid: p5zyyVANzh86pGuX
+Multilinetitle: Glassbox
+
+----
+
+Uuid: KVkyVK5OrXvTO5I0
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

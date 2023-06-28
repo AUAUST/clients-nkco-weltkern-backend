@@ -1,34 +1,3 @@
-Title: Gego|The Architecture of an Artist
-
-----
-
-Multilinetitle:
-
-Gego
-The Architecture of an Artist
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Gego <br>The Architecture of an Artist'
@@ -46,14 +15,14 @@ description: |
   <br />
   Gertrud Louise Goldschmidt (1912, Hamburg, Germany – 1994, Caracas, Venezuela) better known as Gego, was a German Venezuelan sculptor, installation artist, architect, and draughtswoman. She is best known for the work she did in the 1960s and 1970s, com- prising abstract drawings, three-dimensional works, and wire constructions.</p>
 details: |
-  - ISBN: 3959055628 / 978-3959055628
-  - Content: 220 pages
-  - Size: 200 × 270 mm
-  - Language: English
-  - Edited by: Ulrike Groos, Philip Kurz , Stefanie Reisinger, Kerstin Thomas
-  - Publication: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: 3959055628 / 978-3959055628
+  Content: 220 pages
+  Size: 200 × 270 mm
+  Language: English
+  Edited by: Ulrike Groos, Philip Kurz , Stefanie Reisinger, Kerstin Thomas
+  Publication: 2022
+  Specs: Hardcover
+  Images: © WELTKERN® / Spector Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -91,4 +60,35 @@ tags: [ ]
 
 ----
 
-Uuid: R9hDIGUVq4eB2sRk
+Multilinetitle:
+
+Gego
+The Architecture of an Artist
+
+----
+
+Uuid: LWmdRAif6xLtgBzd
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

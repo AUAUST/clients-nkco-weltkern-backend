@@ -1,31 +1,3 @@
-Title: Butt Book
-
-----
-
-Multilinetitle: Butt Book
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Butt Book
@@ -44,14 +16,14 @@ description: |
   <br />
   All of this valuable insight, as well as some 400 photos from 1900 to 2008, were included in TASCHEN’s original The Big Butt Book, released in 2010. Now, that same content is compressed and reconfigured into TASCHEN’s popular Bibliotheca Universalis format, with some new photos thrown in just for fun. You’ll still find works by Elmer Batters, Jean-Paul Goude, Ralph Gibson, Richard Kern, Jan Saudek, Ed Fox, Guido Argentini, and Sante D’Orazio, of butts ranging from petite Pam Anderson’s to sumptuous Serena Williams’s, all contextualized by interviews with porn icon John (Buttman) Stagliano, filmmaker Tinto Brass, and butt queens Buffie the Body, Coco Austin, and Brazil’s Watermelon Woman, but in a portable size, at an affordable price. What could be more bootylicious?</p>
 details: |
-  - ISBN: 3836566877 / 978-3836566872
-  - Content: 512 pages
-  - Size: 153 × 4 × 205 mm
-  - Author: Dian Hanson
-  - Language: English / French / German
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © Taschen. All rights reserved.
+  ISBN: 3836566877 / 978-3836566872
+  Content: 512 pages
+  Size: 153 × 4 × 205 mm
+  Author: Dian Hanson
+  Language: English / French / German
+  Publishing date: 2018
+  Specs: Hardcover
+  Images: © Taschen. All rights reserved.
 gallery:
   - 
     url: >
@@ -77,4 +49,32 @@ tags: [ ]
 
 ----
 
-Uuid: 6ANvoZ0z7xlU7rZQ
+Multilinetitle: Butt Book
+
+----
+
+Uuid: Gwj6F6N2vfBC0Abe
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Jong Won Rhee|Solitudes of Human Places
-
-----
-
-Multilinetitle:
-
-Jong Won Rhee
-Solitudes of Human Places
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Jong Won Rhee <br>Solitudes of Human Places'
@@ -45,15 +14,15 @@ description: |
   <br />
   The human subjects of Jong Won Rhee’s photograph are, for the most part, turning away or turned in upon themselves. In fact, the characteristic blue rooftops, blooming poppies, garish billboards and store signs, the bundled spring onions at a market stall and the lush fields of South Korea all seem more colorful than the people we come across in these scenes of contemporary everyday life there.</p>
 details: |
-  - ISBN: 3907236338 / 978-3907236338
-  - Content: 144 Pages
-  - Size: 202 × 18 × 290 mm
-  - Author: Jong Won Rhee
-  - Design: Adeline Mollard
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: 3907236338 / 978-3907236338
+  Content: 144 Pages
+  Size: 202 × 18 × 290 mm
+  Author: Jong Won Rhee
+  Design: Adeline Mollard
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -63,4 +32,35 @@ tags: [ ]
 
 ----
 
-Uuid: eirDHqoshZEK4BKt
+Multilinetitle:
+
+Jong Won Rhee
+Solitudes of Human Places
+
+----
+
+Uuid: xb5SZsylIdAmCrFL
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

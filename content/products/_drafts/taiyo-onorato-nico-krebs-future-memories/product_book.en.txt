@@ -1,34 +1,3 @@
-Title: Taiyo Onorato & Nico Krebs|Future Memories
-
-----
-
-Multilinetitle:
-
-Taiyo Onorato & Nico Krebs
-Future Memories
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Taiyo Onorato & Nico Krebs <br>Future Memories'
@@ -47,15 +16,15 @@ description: |
   <br />
   Using a combination of large-format analog photography and various digitally controlled laser technologies, the artists have created a visual world that makes sci-fi allusions and takes an associative approach to an emotional world that swings back and forth between the optimism of the artists’ childhood and the dystopianism of the present day and age.</p>
 details: |
-  - ISBN: 3907236147 / 978-3907236147
-  - Content: 72 Pages
-  - Size: 220 × 10 × 280 mm
-  - Author: Taiyo Onorato, Nico Krebs
-  - Design: Claudio Barandun
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN®. All rights reserved.
+  ISBN: 3907236147 / 978-3907236147
+  Content: 72 Pages
+  Size: 220 × 10 × 280 mm
+  Author: Taiyo Onorato, Nico Krebs
+  Design: Claudio Barandun
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN®. All rights reserved.
 gallery:
   - 
     url: >
@@ -65,4 +34,35 @@ tags: [ ]
 
 ----
 
-Uuid: FmqXHhvh050E88SA
+Multilinetitle:
+
+Taiyo Onorato & Nico Krebs
+Future Memories
+
+----
+
+Uuid: aTVvZM4yaoHtrZPv
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

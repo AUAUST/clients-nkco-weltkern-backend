@@ -1,34 +1,3 @@
-Title: Post-Capital|A Reader
-
-----
-
-Multilinetitle:
-
-Post-Capital:
-A Reader
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Post-Capital <br>A Reader'
@@ -46,14 +15,14 @@ description: |
   Since then, the very forms of work, money, goods and consumption have been radically transformed by ever-changing technologies. The giants of information technology and online commerce are some of the most publicly traded companies in the world. Both abundant and infinitely reproducible, information has become a precious commodity that defies traditional economic principles, which would have it that the value of a commodity is determined by its scarcity. Post-Capital presents works by twenty-one artists who explore in different ways the aesthetics, paradoxes, aberrations, and ethical problems associated with post-industrial, even post-capital, economies.<br />
   The richly illustrated catalog, which includes an essay by the curator and short texts on the works on view, also includes recent texts by leading scholars of economics, art, and culture, including excerpts from books by James Bridle, Heike Geissler, Richard Seymour, Hito Steyerl, McKenzie Wark, and Shoshana Zuboff.</p>
 details: |
-  - : 8867494774 / 978-8867494774
-  - Content: 188 pages
-  - Size: 216 × 290 mm
-  - Design: Face.
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN ® / Mousse Publishing. All rights reserved.
+  : 8867494774 / 978-8867494774
+  Content: 188 pages
+  Size: 216 × 290 mm
+  Design: Face.
+  Language: English
+  Publishing date: 2022
+  Specs: Softcover
+  Images: © WELTKERN ® / Mousse Publishing. All rights reserved.
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: hK1elqn3fz5LztHj
+Multilinetitle:
+
+Post-Capital
+A Reader
+
+----
+
+Uuid: f21DJtr1yQSm1PDX
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

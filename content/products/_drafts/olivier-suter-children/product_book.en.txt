@@ -1,34 +1,3 @@
-Title: Olivier Suter|Children
-
-----
-
-Multilinetitle:
-
-Olivier Suter
-Children
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Olivier Suter <br>Children'
@@ -45,15 +14,15 @@ description: |
   <p>Pseudosciences like physiognomy à la Charles le Brun, who in the 17th century believed he could tell people’s characters and mental traits from their facial features, and phrenology, employed by the Belgian colonial rulers in the 1930s who divided their Rwandan subjects into Hutus and Tutsi based on measurements of their skulls—these are things of the past, and enlightened minds flatly reject racial profiling, too. Looking at the faces in Children, it’s clear to us that a person’s destiny is not written on their face, whether as a child or as an adult. So all we can do is gaze at a few dozen young faces that Olivier Suter presents to us and delight in or marvel at what became of these kids, who looked so very much like so many other kids in the world.</p>
   <p>Most Beautiful Swiss Books, 2019</p>
 details: |
-  - ISBN: 3906803999 / 978-3906803999
-  - Content: 288 Pages, 142 Color
-  - Size: 167 × 20 × 124 mm
-  - Artist: Olivier Suter
-  - Design: Adeline Mollard
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: 3906803999 / 978-3906803999
+  Content: 288 Pages, 142 Color
+  Size: 167 × 20 × 124 mm
+  Artist: Olivier Suter
+  Design: Adeline Mollard
+  Language: English
+  Publishing date: 2019
+  Specs: Hardcover
+  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -63,4 +32,35 @@ tags: [ ]
 
 ----
 
-Uuid: g8X6XBMziWbDeTV9
+Multilinetitle:
+
+Olivier Suter
+Children
+
+----
+
+Uuid: pgoeUiNMVjYRQfFr
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

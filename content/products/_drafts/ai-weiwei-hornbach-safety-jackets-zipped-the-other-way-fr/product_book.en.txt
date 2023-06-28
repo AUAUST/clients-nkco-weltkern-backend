@@ -1,34 +1,3 @@
-Title: Ai Weiwei & HORNBACH|Safety Jackets Zipped the Other Way (FR)
-
-----
-
-Multilinetitle:
-
-Ai Weiwei & HORNBACH
-Safety Jackets Zipped the Other Way (FR)
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Ai Weiwei & HORNBACH <br>Safety Jackets Zipped the Other Way (FR)'
@@ -43,13 +12,13 @@ author:
   id: 235
 description: '<p>The book borrows its structure from a classic manual. Ai Weiwei’s process is set in a narrative strand. Step by step, the reader is guided through the creation, manual and the subsequent reflection of the artwork. Through its linear narrative style, the art and working method become accessible and the viewer is directly involved in the project. Visually, existing manual elements are quoted and embedded in an art book context. The varnished «picture panels» are numbered in a way that is familiar from instruction manuals. In addition, material lists are combined with art photographs to emphasize the intertwining of the artwork and its building instruction.</p>'
 details: |
-  - Content: 48 pages
-  - Size: 200 × 5 × 147 mm
-  - Publishing date: 2020
-  - Design: Data-Orbit
-  - Language: French
-  - Specs: Softcover
-  - Images: © L'édition PIÈCE D'OUVRAGE de HORNBAC. All rights reserved.
+  Content: 48 pages
+  Size: 200 × 5 × 147 mm
+  Publishing date: 2020
+  Design: Data-Orbit
+  Language: French
+  Specs: Softcover
+  Images: © L'édition PIÈCE D'OUVRAGE de HORNBAC. All rights reserved.
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: ZgD69rekjHo70Tmo
+Multilinetitle:
+
+Ai Weiwei & HORNBACH
+Safety Jackets Zipped the Other Way (FR)
+
+----
+
+Uuid: wRzE8WJ6CgmUNYPr
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

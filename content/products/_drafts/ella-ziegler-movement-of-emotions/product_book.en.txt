@@ -1,34 +1,3 @@
-Title: Ella Ziegler|Movement Of Emotions
-
-----
-
-Multilinetitle:
-
-Ella Ziegler
-Movement Of Emotions
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Ella Ziegler <br>Movement Of Emotions'
@@ -48,15 +17,15 @@ description: |
   <br />
   The interweaving of image, text and monochrome colour surfaces creates four different reference spaces, each with its own rhythm and open syntax.</p>
 details: |
-  - ISBN: 3945900475 / 978-3945900475
+  ISBN: 3945900475 / 978-3945900475
   
-  - Content: 936 Pages in 4 volumes
-  - Size: 14 × 7 × 20 mm
-  - Artist: Ella Ziegler
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+  Content: 936 Pages in 4 volumes
+  Size: 14 × 7 × 20 mm
+  Artist: Ella Ziegler
+  Language: English
+  Publishing date: 2020
+  Specs: Softcover
+  Images: © WELTKERN® / Edition Taube. All rights reserved.
 gallery:
   - 
     url: >
@@ -66,4 +35,35 @@ tags: [ ]
 
 ----
 
-Uuid: kroIBNlITTQSowfv
+Multilinetitle:
+
+Ella Ziegler
+Movement Of Emotions
+
+----
+
+Uuid: EkIcNfd3W1vJruaG
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

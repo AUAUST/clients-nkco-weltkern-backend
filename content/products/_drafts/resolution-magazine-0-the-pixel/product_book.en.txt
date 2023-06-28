@@ -1,34 +1,3 @@
-Title: RESOLUTION Magazine #0|The Pixel
-
-----
-
-Multilinetitle:
-
-RESOLUTION Magazine #0
-The Pixel
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'RESOLUTION Magazine #0 <br>The Pixel'
@@ -42,16 +11,16 @@ author:
   id: 319
 description: '<p>This issue of RESOLUTION looks at the most elementary building block of a digital image. It is nerdy, utterly unsexy, but nevertheless has remained enigmatic. This issue looks at pixel from a technical, ethical, artistic, and and economic viewpoint.</p>'
 details: |
-  - ISBN: 9493148192 / 978-9493148192
-  - Content: 96 pages
-  - Size: 170 × 267 mm
+  ISBN: 9493148192 / 978-9493148192
+  Content: 96 pages
+  Size: 170 × 267 mm
   
-  - Language: English
-  - Edited by: Maria João Baltazar, Tomé Saldanha Quadros
-  - Graphic design: D-E-A-L
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: English
+  Edited by: Maria João Baltazar, Tomé Saldanha Quadros
+  Graphic design: D-E-A-L
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © WELTKERN® / Onomatopee. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: 7egpQVpon9Ux14CG
+Multilinetitle:
+
+RESOLUTION Magazine #0
+The Pixel
+
+----
+
+Uuid: K7L9wStVQXDN9LBq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

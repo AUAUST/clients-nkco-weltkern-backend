@@ -1,34 +1,3 @@
-Title: Simona Rota|Instant Village
-
-----
-
-Multilinetitle:
-
-Simona Rota
-Instant Village
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Simona Rota <br>Instant Village'
@@ -42,14 +11,14 @@ author:
   id: 329
 description: '<p>“To what extent can territory planning be considered meaningful? At what level its artificiality does more damage to the territory than improvisation? There are natural needs of using land that are best filled through improvisation, in those situations where urban planning fails to represent it and, there are needs, which despite of being collected by an urban plan, end up creating more precarious urban situations than spontaneous urbanism itself.”</p>'
 details: |
-  - ISBN: 8494011580 / 978-8494011580
-  - Content: 102 pages
-  - Size: 170 × 220 mm
+  ISBN: 8494011580 / 978-8494011580
+  Content: 102 pages
+  Size: 170 × 220 mm
   
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Fabulatorio. All rights reserved.
+  Language: English
+  Publishing date: 2020
+  Specs: Hardcover
+  Images: © WELTKERN® / Fabulatorio. All rights reserved.
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: hjQUNN5dWABkCTdx
+Multilinetitle:
+
+Simona Rota
+Instant Village
+
+----
+
+Uuid: o3jmEvJmpQex1hi1
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

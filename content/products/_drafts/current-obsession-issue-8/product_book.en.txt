@@ -1,34 +1,3 @@
-Title: Current Obsession|Issue 8
-
-----
-
-Multilinetitle:
-
-Current Obsession
-Issue 8
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Current Obsession <br>Issue 8'
@@ -46,12 +15,12 @@ description: |
   <p>Together with our vibrant international community, CO creates a beautiful printed publication in place of our usual in-person programming, and delivers it to the doorsteps of visitors who aren’t able to travel to Munich this year.</p>
   <p>Expect tons of beautiful images, staged exhibition environments, rendered digital jewels, fictional stories and more!</p>
 details: |
-  - Content: 256 pages
-  - Size: 420 × 300 mm
-  - Language: English
-  - Publication: 2021
-  - Specs: 8 glossy posters + 3 Newspapers in plastic sleeve
-  - Images: © WELTKERN® / Current Obsession. All rights reserved.
+  Content: 256 pages
+  Size: 420 × 300 mm
+  Language: English
+  Publication: 2021
+  Specs: 8 glossy posters + 3 Newspapers in plastic sleeve
+  Images: © WELTKERN® / Current Obsession. All rights reserved.
 gallery:
   - 
     url: >
@@ -73,4 +42,35 @@ tags: [ ]
 
 ----
 
-Uuid: XMnLo1Azv9LxsyuI
+Multilinetitle:
+
+Current Obsession
+Issue 8
+
+----
+
+Uuid: X5MbApDVeBJFbO2I
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

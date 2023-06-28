@@ -1,34 +1,3 @@
-Title: Mura Masa|Raw Youth Collage
-
-----
-
-Multilinetitle:
-
-Mura Masa
-Raw Youth Collage
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mura Masa <br>Raw Youth Collage'
@@ -45,13 +14,13 @@ description: |
   <p>Words from Mura Masa, Georgia, Ellie Rowsell, slowthai and Ned Green with accompanying photography &#038; artwork from Finn Constantine, Roxy Lee, Dexter Lander, Melchior Tersen, Jet Swan, Leon Sadler, Yannick val Gesto, Stefania Batoeva &#038; Charlotte Maeva Perret.</p>
   <p>&#8216;Comprising contributions from a host of amazing creatives the publication aims to evoke feelings youth, nostalgia and what it’s like to be young.&#8217; -Ruby Boddington, It&#8217;s Nice That</p>
 details: |
-  - ISBN: 1916168633 / 978-1916168633
-  - Content: 220 pages
-  - Size: 200 × 300 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+  ISBN: 1916168633 / 978-1916168633
+  Content: 220 pages
+  Size: 200 × 300 mm
+  Language: English
+  Publishing date: 2020
+  Specs: Softcover
+  Images: © WELTKERN® / ‎Topsafe. All rights reserved.
 gallery:
   - 
     url: >
@@ -77,4 +46,35 @@ tags: [ ]
 
 ----
 
-Uuid: SAjrZa76N4qWTUeb
+Multilinetitle:
+
+Mura Masa
+Raw Youth Collage
+
+----
+
+Uuid: dnccKT119yXhTsD0
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

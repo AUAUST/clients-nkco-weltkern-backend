@@ -1,34 +1,3 @@
-Title: Artist-run Democracy:|Sustaining a Model
-
-----
-
-Multilinetitle:
-
-Artist-run Democracy:
-Sustaining a Model
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Artist-run Democracy: <br>Sustaining a Model'
@@ -44,15 +13,15 @@ description: |
   <p>Off-the-grid from commercial galleries – selling visuals – and canonical institutions – there to support the often static national or regional identities– artists instigate grass-roots cultural safe havens in order to deliver the progressive and the experimental. They are fundamentally vulnerable to public-policy cycles, in the voluntary effort that holds the initiative together, in their provision of opportunities, and more. Despite the precarity of such organizing by these civil initiatives, and regardless of their promoting of a public cultural vitality beyond the demand of the public life, they are in poor public support and lack opportunities to gain public visibility.</p>
   <p>This publication zooms in on a particular mode of organizing: on the ‘Artist-run Democracy’. It does so by examining the workings of 126, an Artist-run gallery* in Galway, Ireland, as a benchmark. 126 is particular in the way the board is conceived, how the program is decided upon, how directors change every two year, &#8216;serving as volunteers&#8217;**, and more. This model is borrowed from Scottish initiatives, started a decades earlier. Unique to 126 is its remote positioning to the global art market. Close but not closed, they have sustained their project for more than 15 years. This book explores the grounds for this mode of organizing within the self-organized culture of the art sector, and may serve as inspiration and discussion for those committed to organising in the visual arts and beyond.</p>
 details: |
-  - ISBN: 9493148734 / 978-9493148734
-  - Content: 224 pages
-  - Size: 168 × 238 mm
-  - Language: English
-  - Edited by: Jim Ricks
-  - Graphic design: Gabriela Baka
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+  ISBN: 9493148734 / 978-9493148734
+  Content: 224 pages
+  Size: 168 × 238 mm
+  Language: English
+  Edited by: Jim Ricks
+  Graphic design: Gabriela Baka
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Onomatopee. All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: 2jWqvFyeNNZHOAbb
+Multilinetitle:
+
+Artist-run Democracy:
+Sustaining a Model
+
+----
+
+Uuid: XuWaeHUYG20To8pr
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

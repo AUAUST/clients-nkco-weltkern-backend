@@ -1,34 +1,3 @@
-Title: Marcelo Burlon|County of Milan: Confidential
-
-----
-
-Multilinetitle:
-
-Marcelo Burlon
-County of Milan: Confidential
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Marcelo Burlon <br>County of Milan: Confidential'
@@ -47,14 +16,14 @@ description: |
   The endeavor started with a bunch of t-shirts in 2012, but a complete collection quickly ensued, turning into both a social and commercial phenomenon. Its inclusive message got the fire started: County of Milan is all about embracing and celebrating diversity, as the brand&#8217;s highly spectacular, intensely emotional shows testify.</p>
   <p>This illustrated book follows the structure of a police investigation report, with a suspect, interrogations, evidence, accomplice profiles, and an affidavit describing Marcelo&#8217;s biography, brand, tribe and creations.</p>
 details: |
-  - ISBN: 8891830449 / 978-8891830449
-  - Content: 352 pages
-  - Size: 249 × 311 mm
-  - Language: English
-  - Author:  Angelo Flaccavento
-  - Publication: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Rizzoli. All rights reserved.
+  ISBN: 8891830449 / 978-8891830449
+  Content: 352 pages
+  Size: 249 × 311 mm
+  Language: English
+  Author:  Angelo Flaccavento
+  Publication: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Rizzoli. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: AIqRvkBZYmOqQSAx
+Multilinetitle:
+
+Marcelo Burlon
+County of Milan: Confidential
+
+----
+
+Uuid: QKSfxg4DuLpIXGsi
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

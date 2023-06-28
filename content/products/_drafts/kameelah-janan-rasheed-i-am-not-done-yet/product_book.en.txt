@@ -1,0 +1,94 @@
+Oldweltkern:
+
+title: 'Kameelah Janan Rasheed <br>I am not done yet'
+slug: kameelah-janan-rasheed-i-am-not-done-yet
+id: 30224
+isbn: 8867494989 / 978-8867494989
+price: 38.5
+weight: 2.1
+author:
+  name: Mousse Publishing
+  id: 111
+description: |
+  <p>A learner, Kameelah Janan Rasheed grapples with the poetics-pleasures-politics of Black knowledge production, information technologies and belief formation. Her work looks at knowledge and how it is created, embodied, stored, cataloged, hidden, learned, and also unlearned, with particular focus on facets of incompleteness, information (il)legibility and the use of seemingly error-ridden image and text data.<br />
+  Rasheed works primarily with paper and vinyl that she attaches to walls and public spaces, creating what she describes as &#8220;ecosystems of iterative and provisional projects.&#8221; Based on a 1974 poem of the same name by American writer Lucille Clifton, her exhibition &#8220;i am not done yet&#8221; deals with questions of incomplete knowledge and continuous learning through &#8220;Black storytelling&#8221; and &#8220;Islamic mysticism.&#8221; At the same time, the titular sentence &#8220;i am not done yet&#8221; can also be understood as an assertive, declarative statement in its own right.<br />
+  This artist book is published on the occasion of Kameelah Janan Rasheed&#8217;s first ever institutional exhibition in Germany at Kunstverein Hannover in 2022.</p>
+  <p>&#8220;When I think about the density of language, I imagine the material presence of the language in space. But I also hope there is acknowledgment that no sentence is a simple sentence. Every sentence holds meaning, exceeds meaning, moves in different directions simultaneously.&#8221;<br />
+  Kameelah Janan Rasheed</p>
+details: |
+  ISBN: 8867494989 / 978-8867494989
+  Content: 160 pages
+  Size: 240 × 290 mm
+  Language: English / German
+  Publishing date: 2023
+  Specs: Softcover
+  Images: © WELTKERN ® / Mousse Publishing. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_COVER_.jpg
+    id: 30209
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_SPREAD_01.jpg
+    id: 30208
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_SPREAD_02.jpg
+    id: 30207
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_SPREAD_03.jpg
+    id: 30206
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_SPREAD_04.jpg
+    id: 30205
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_SPREAD_05.jpg
+    id: 30204
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_SPREAD_06.jpg
+    id: 30203
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Kameelah-Janan-Rasheed_SPREAD_07.jpg
+    id: 30202
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Kameelah Janan Rasheed
+I am not done yet
+
+----
+
+Uuid: A4QYyaBhXTAqKrj5
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

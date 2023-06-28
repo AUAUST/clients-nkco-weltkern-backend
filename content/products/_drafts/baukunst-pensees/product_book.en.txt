@@ -1,34 +1,3 @@
-Title: Baukunst|Pensées
-
-----
-
-Multilinetitle:
-
-Baukunst
-Pensées
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Baukunst <br>Pensées'
@@ -42,16 +11,16 @@ author:
   id: 87
 description: '<p>Construction of collisions of ideas, of assemblages of thoughts, which bring out new images, silences, certainties, doubts, worlds and which deliver us a method of thinking and composing. The drawing of a portrait of the Belgian office BAUKUNST.</p>'
 details: |
-  - ISBN: 2491039087 / 978-2491039080
-  - Content: 256 Pages
-  - Size: 194 × 270 mm
-  - Artist: Baukunst
-  - Author: Frédéric Einaudi
-  - Design: Spassky Fischer
-  - Language: French
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: 2491039087 / 978-2491039080
+  Content: 256 Pages
+  Size: 194 × 270 mm
+  Artist: Baukunst
+  Author: Frédéric Einaudi
+  Design: Spassky Fischer
+  Language: French
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Cosa Mentale. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: nc9J2bsqwQx65Y9t
+Multilinetitle:
+
+Baukunst
+Pensées
+
+----
+
+Uuid: rptINp0P1wK1vaku
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

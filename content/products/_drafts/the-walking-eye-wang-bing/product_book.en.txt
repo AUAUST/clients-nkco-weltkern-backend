@@ -1,34 +1,3 @@
-Title: The Walking Eye|Wang Bing
-
-----
-
-Multilinetitle:
-
-The Walking Eye
-Wang Bing
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'The Walking Eye <br>Wang Bing'
@@ -42,16 +11,16 @@ author:
   id: 268
 description: '<p>In 170 sequences, eight iconic films are presented in this first referential book about the work of Chinese filmmaker Wang Bing. These include ‘West of the Tracks’ (2003), ‘Three Sisters’ (2012), and ’15 Hours’ (2017). For him, making films stems from an urgent need to question his own time, his own country; to establish an alternative to the official media coverage that oscillates between propaganda and censorship. Bing also pushes the limits of documentary language by harnessing the democratising possibilities of digital filmmaking. His attention to people and to things is captured in lengthy films, enabling viewers to see things up close, as near as possible to reality and truth.</p>'
 details: |
-  - ISBN: 9492811855 / 978-9492811851
-  - Content: 832 pages
-  - Size: 160 × 230 mm
-  - Author: Wang Bing
-  - Edited by: Roma Publications
-  - Design: Roger Willems, Dongyoung Lee
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+  ISBN: 9492811855 / 978-9492811851
+  Content: 832 pages
+  Size: 160 × 230 mm
+  Author: Wang Bing
+  Edited by: Roma Publications
+  Design: Roger Willems, Dongyoung Lee
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Roma Publications. All rights reserved.
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: gSeOxCU2FCcaxH7P
+Multilinetitle:
+
+The Walking Eye
+Wang Bing
+
+----
+
+Uuid: GaXo8Lwc0vYlAWb4
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: As If|Uta Eisenreich
-
-----
-
-Multilinetitle:
-
-As If
-Uta Eisenreich
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'As If <br>Uta Eisenreich'
@@ -42,13 +11,13 @@ author:
   id: 268
 description: '<p>This book of photographs is the sequel to ‘A NOT B’ (2010), wherein quotidian items are again staged and captured through the camera’s unblinking eye. Yet the images are no longer set in the innocent atmosphere of the preschool years, when the world is read through analogies, but catapulted into a darker space of representation at the cusp of adolescence, against the backdrop of a hyper-commercialised world. The compositions create a distinctive play with logic, language, and meaning. Objects transform from their humble selves into abstract shapes discharged of meaning, or alternately into advertisements for themselves, charged with desire or bad omens of an ominous future.</p>'
 details: |
-  - ISBN: 9492811967 / 978-9492811967
-  - Content: 156 pages
+  ISBN: 9492811967 / 978-9492811967
+  Content: 156 pages
   
-  - Size: 220 × 290 mm
-  - Language: English
-  - Publication: 2022
-  - Images: © WELTKERN® / Roma Publications. All rights reserved.
+  Size: 220 × 290 mm
+  Language: English
+  Publication: 2022
+  Images: © WELTKERN® / Roma Publications. All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: aKQZ4bLR6rbXpiO7
+Multilinetitle:
+
+As If
+Uta Eisenreich
+
+----
+
+Uuid: 4kFOBArLg0Mit8nR
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

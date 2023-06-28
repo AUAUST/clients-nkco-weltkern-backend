@@ -1,34 +1,3 @@
-Title: Peter Fischli & David Weiss|Will Happiness Find Me?
-
-----
-
-Multilinetitle:
-
-Peter Fischli & David Weiss
-Will Happiness Find Me?
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Peter Fischli & David Weiss <br>Will Happiness Find Me?'
@@ -43,13 +12,13 @@ author:
   id: 90
 description: '<p>An artist&#8217;s book by the renowned Swiss duo dedicated to the questions that everyone asks themselves once in a while: Can something be unbelievable? Should I get drunk? Could I be Japanese? Is the freedom of birds overrated? Am I a farmer in winter? Does unease grow by itself? Should I crawl into my bed and stop producing things all the time?</p>'
 details: |
-  - ISBN: 3883757230 / 978-3883757230
-  - Content: 168 pages
-  - Size: 109 × 16 × 145 mm
-  - Language: English
-  - Publishing date: 2003
-  - Specs: Softcover
-  - Images: © WELTKERN® / Buchhandlung Walther König. All rights reserved.
+  ISBN: 3883757230 / 978-3883757230
+  Content: 168 pages
+  Size: 109 × 16 × 145 mm
+  Language: English
+  Publishing date: 2003
+  Specs: Softcover
+  Images: © WELTKERN® / Buchhandlung Walther König. All rights reserved.
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: TVbayai4UzIceAVy
+Multilinetitle:
+
+Peter Fischli & David Weiss
+Will Happiness Find Me?
+
+----
+
+Uuid: JiQhAQeJJyc0RiYo
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

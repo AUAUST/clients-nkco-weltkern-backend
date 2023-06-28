@@ -1,31 +1,3 @@
-Title: Via Lactea
-
-----
-
-Multilinetitle: Via Lactea
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Via Lactea
@@ -42,16 +14,16 @@ description: |
   <br />
   <em>Via Lactea</em> presents tableau-like landscapes shot between 2015 and 2019 as well as precisely detailed and yet intimate painterly portraits of farmers and farm animals. Tommasini undertakes a visual study of the relationship between humans, animals and topography in the context of a rapidly changing and increasingly mechanized agriculture and dairy industry. For behind the scenes of our modern-day urban lives lies a vast infrastructure of people and things that a city needs to survive, including highly organized and digitized agro-industries, gigantic warehouses and data centers (Rem Koolhaas). These non urban realms are now, once again, undergoing a sea change—for better or for worse. <em>Via Lactea</em> provides a glimpse of one such peripheral microcosm caught up in the throes of technological transformation. Tommasini’s photographs are anything but folkloristic or romanticizing, for the details of the clothing, tools and machinery portrayed bear subtle but telltale signs of ineluctable coevolutionary upheavals.</p>
 details: |
-  - ISBN: 3907236017 / 978-3907236017
-  - Content: 164 pages
-  - Size: 248 × 17 × 195 mm
-  - Author: Alfio Tommasini
-  - Texts by: Noëmi Lerch
-  - Design: Sidi Vanetti
-  - Language: English / German
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © Edition Patrick Frey. All rights reserved.
+  ISBN: 3907236017 / 978-3907236017
+  Content: 164 pages
+  Size: 248 × 17 × 195 mm
+  Author: Alfio Tommasini
+  Texts by: Noëmi Lerch
+  Design: Sidi Vanetti
+  Language: English / German
+  Publishing date: 2020
+  Specs: Hardcover
+  Images: © Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -85,4 +57,32 @@ tags: [ ]
 
 ----
 
-Uuid: jav6xKVVx4H0mmgx
+Multilinetitle: Via Lactea
+
+----
+
+Uuid: iV22E1auTtaZrB07
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

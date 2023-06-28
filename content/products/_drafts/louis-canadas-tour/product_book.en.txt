@@ -1,34 +1,3 @@
-Title: Louis Canadas|Tour
-
-----
-
-Multilinetitle:
-
-Louis Canadas
-Tour
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Louis Canadas <br>Tour'
@@ -42,14 +11,14 @@ author:
   id: 394
 description: '<p>In 2020, the Tour de France was cancelled, then finally postponed. Tour is a collection of 101 photographs by Louis Canadas, taken on the official route of the competition during this period of suspension. The text is signed by the writer Fanny Taillandier.</p>'
 details: |
-  - ISBN: 9782493169006 / 978-9782493169006
-  - Content: 192 pages
-  - Size: 240 × 285 mm
-  - Edited by: Les éditions Secondes
-  - Texts by: Fanny Taillandier
-  - Language: French / English
-  - Publishing date: 2022
-  - Images: © WELTKERN® / Les Éditions Secondes. All rights reserved.
+  ISBN: 9782493169006 / 978-9782493169006
+  Content: 192 pages
+  Size: 240 × 285 mm
+  Edited by: Les éditions Secondes
+  Texts by: Fanny Taillandier
+  Language: French / English
+  Publishing date: 2022
+  Images: © WELTKERN® / Les Éditions Secondes. All rights reserved.
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: mPST7zSHDtH725K5
+Multilinetitle:
+
+Louis Canadas
+Tour
+
+----
+
+Uuid: kkdGTnjorSkNjYAm
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

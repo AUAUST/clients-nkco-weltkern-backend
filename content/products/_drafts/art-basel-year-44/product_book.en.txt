@@ -1,34 +1,3 @@
-Title: Art Basel|Year 44
-
-----
-
-Multilinetitle:
-
-Art Basel
-Year 44
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Art Basel <br>Year 44'
@@ -49,16 +18,16 @@ description: |
   <br />
   An extensive survey, a path to discovery, an indispensable piece of memorabilia—the first edition of the “Art Basel | Year 44” will no doubt be a favorite addition to the library of essential art books for the expanding global art world community.</p>
 details: |
-  - ISBN: 3037643624 / 978-3037643624
-  - Content: 784 pages
-  - Size: 210 × 46 × 295 mm
-  - Edited by: Annette Schönholzer, Lionel Bovier, Marc Spiegler
-  - Texts by: Arto Lindsay, Elaine Ng, Florence Derieux, Gianni Jetzer, Hans Ulrich Obrist, Harry Bellet, Massimo Minini, Mickalene Thomas, Pauline J. Yao, Philip Ursprung
-  - Design: Gavillet & Cie
-  - Language: English
-  - Publishing date: 2014
-  - Specs: Hardcover
-  - Images: © WELTKERN® / JRP|Editions. All rights reserved.
+  ISBN: 3037643624 / 978-3037643624
+  Content: 784 pages
+  Size: 210 × 46 × 295 mm
+  Edited by: Annette Schönholzer, Lionel Bovier, Marc Spiegler
+  Texts by: Arto Lindsay, Elaine Ng, Florence Derieux, Gianni Jetzer, Hans Ulrich Obrist, Harry Bellet, Massimo Minini, Mickalene Thomas, Pauline J. Yao, Philip Ursprung
+  Design: Gavillet & Cie
+  Language: English
+  Publishing date: 2014
+  Specs: Hardcover
+  Images: © WELTKERN® / JRP|Editions. All rights reserved.
 gallery:
   - 
     url: >
@@ -68,4 +37,35 @@ tags: [ ]
 
 ----
 
-Uuid: fV00TD00GLsOnk1c
+Multilinetitle:
+
+Art Basel
+Year 44
+
+----
+
+Uuid: LvTe6D9blecEVryv
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

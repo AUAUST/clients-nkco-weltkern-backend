@@ -1,31 +1,3 @@
-Title: Embodying Anew
-
-----
-
-Multilinetitle: Embodying Anew
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Embodying Anew
@@ -44,15 +16,15 @@ description: |
   <br />
   <em>Embodying Anew</em> is the second in a series published in collaboration with Maximillian William, London.</p>
 details: |
-  - ISBN: 1916002494 / 978-1916002494
-  - Content: Envelope containing multiple formats, limited edition (300 copies)
-  - Size: 110 × 220 mm
-  - Authors: Simone Leigh, Magdalene Odundo, Thaddeus Mosley
-  - Design: OK-RM
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / InOtherWords. All rights reserved.
+  ISBN: 1916002494 / 978-1916002494
+  Content: Envelope containing multiple formats, limited edition (300 copies)
+  Size: 110 × 220 mm
+  Authors: Simone Leigh, Magdalene Odundo, Thaddeus Mosley
+  Design: OK-RM
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / InOtherWords. All rights reserved.
 gallery:
   - 
     url: >
@@ -70,4 +42,32 @@ tags: [ ]
 
 ----
 
-Uuid: JqEcB91VJbbB3pu2
+Multilinetitle: Embodying Anew
+
+----
+
+Uuid: TMXkxLEABOh6hsSP
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

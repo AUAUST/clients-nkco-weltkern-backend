@@ -1,31 +1,3 @@
-Title: How it is... by Nicolas Burrows
-
-----
-
-Multilinetitle: How it is... by Nicolas Burrows
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: How it is... by Nicolas Burrows
@@ -42,14 +14,14 @@ description: |
   <p>Nicolas Burrows is an artist, illustrator and musician from Lancashire, currently living and working in London. His visual practice is concerned with formal aspects of harmony, improvisation, composition and color. Works are largely collage-based, incorporating printmaking, drawing and assemblage.</p>
   <p>Nicolas is also a member of Nous Vous, a group of artists &#038; friends collaborating since 2007 across illustration, print design, animation, art direction &#038; publishing.</p>
 details: |
-  - ISBN: 1910239148 / 978-1910239148
-  - Content: 36 pages
-  - Size: 270 × 170 mm
+  ISBN: 1910239148 / 978-1910239148
+  Content: 36 pages
+  Size: 270 × 170 mm
   
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Paperback
-  - Images: © WELTKERN® / Hato Press. All rights reserved.
+  Language: English
+  Publishing date: 2020
+  Specs: Paperback
+  Images: © WELTKERN® / Hato Press. All rights reserved.
 gallery:
   - 
     url: >
@@ -59,4 +31,32 @@ tags: [ ]
 
 ----
 
-Uuid: C1Mjk6TqeD6VrebU
+Multilinetitle: How it is... by Nicolas Burrows
+
+----
+
+Uuid: 1ql7trpCNKQ8hyGo
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Karl-Heinz Drescher|Berlin Typo Posters, Texts, and Interviews
-
-----
-
-Multilinetitle:
-
-Karl-Heinz Drescher
-Berlin Typo Posters, Texts, and Interviews
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Karl-Heinz Drescher <br>Berlin Typo Posters, Texts, and Interviews'
@@ -48,14 +17,14 @@ description: |
   The heavenly body melts and dilutes its bitterness into a sensorial experience of the world.<br />
   Astonishment of an esthetic sunset.</p>
 details: |
-  - ISBN: 3948440008 / 978-3948440008
-  - Content: 272 pages
-  - Size: 265 × 195 mm
-  - Design: Markus Lange
-  - Language: English
-  - Publication: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Slanted. All rights reserved.
+  ISBN: 3948440008 / 978-3948440008
+  Content: 272 pages
+  Size: 265 × 195 mm
+  Design: Markus Lange
+  Language: English
+  Publication: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / Slanted. All rights reserved.
 gallery:
   - 
     url: >
@@ -65,4 +34,35 @@ tags: [ ]
 
 ----
 
-Uuid: xGHmEg3dQ2CKd32s
+Multilinetitle:
+
+Karl-Heinz Drescher
+Berlin Typo Posters, Texts, and Interviews
+
+----
+
+Uuid: NXb8kaI2hjG4w8Xn
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

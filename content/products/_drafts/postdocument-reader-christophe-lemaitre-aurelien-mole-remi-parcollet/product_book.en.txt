@@ -1,34 +1,3 @@
-Title: Postdocument (Reader)|Christophe Lemaitre Aurélien Mole Remi Parcollet
-
-----
-
-Multilinetitle:
-
-Postdocument (Reader)
-Christophe Lemaitre Aurélien Mole Remi Parcollet
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Postdocument (Reader) <br>Christophe Lemaitre Aurélien Mole Remi Parcollet'
@@ -46,15 +15,15 @@ description: |
   Halfway through the entire project, the Postdocument reader redesigns all the first seven issues under the direction of the graphic design studio Spassky Fischer.<br />
   The eighth issue, published exclusively within this book, is devoted to the entry &#8220;Dimensions&#8221; (of the work). This eighth sequence gathers exhibition views realized in cultural institutions occupying post-industrial spaces. This architectural typology, through its influence on artistic forms and their scales (notably within biennials for example, often contexts of production), participates in the writing of today&#8217;s art history. It is thus the history of architecture which instructs the history of art, with for anachronistic relation this echo of the contemporary art to the past industrial productivist architecture.</p>
 details: |
-  - ISBN: 2840668416 / 978-2840668411
-  - Content: 392 pages
-  - Size: 210 × 297 mm
-  - Authors: Christophe Lemaitre, Aurélien Mole, Remi Parcollet
-  - Design: Spassky Fischer
-  - Language: English / French
-  - Publishing date: 2015
-  - Specs: Softcover
-  - Images: © WELTKERN® / Les presses du réel / postdocument.net. All rights reserved.
+  ISBN: 2840668416 / 978-2840668411
+  Content: 392 pages
+  Size: 210 × 297 mm
+  Authors: Christophe Lemaitre, Aurélien Mole, Remi Parcollet
+  Design: Spassky Fischer
+  Language: English / French
+  Publishing date: 2015
+  Specs: Softcover
+  Images: © WELTKERN® / Les presses du réel / postdocument.net. All rights reserved.
 gallery:
   - 
     url: >
@@ -64,4 +33,35 @@ tags: [ ]
 
 ----
 
-Uuid: 95g1i6ef46N9Jafl
+Multilinetitle:
+
+Postdocument (Reader)
+Christophe Lemaitre Aurélien Mole Remi Parcollet
+
+----
+
+Uuid: cfqVOX5gMcfVelyz
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

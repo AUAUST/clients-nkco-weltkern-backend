@@ -1,34 +1,3 @@
-Title: Tom Huber|Nguecokh
-
-----
-
-Multilinetitle:
-
-Tom Huber
-Nguecokh
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tom Huber <br>Nguecokh'
@@ -42,14 +11,14 @@ author:
   id: 327
 description: '<p>Photographer Tom Huber travels to the small Senegalese village of Nguecokh, in the Saloum River Delta about 200 kilometres south of Dakar. He meets the people, who mainly farm peanuts and melons and lead a self-sustained, communal life. Immediately upon his arrival,  the village children want to be photographed, and soon the adults too. Unexpectedly, a project begins to develop – a photobook that aims to strike a balance between  documentary photography and art, accompanied by a text in which the locals describe  the history of the village and their everyday lives. In the months following, the artist exchanges voice messages with his host Mamadou Senghor, the village teacher. They discuss climate change, polygamy, and religion. He describes the challenges in their education and health systems, recounts old folktales of trees and woods, and charts Nguecokh’s path toward the future.</p>'
 details: |
-  - ISBN: 3952471081 / 978-3952471081
-  - Content: 176 pages
-  - Size: 230 × 320 mm
-  - Language: English, French, German
-  - Graphic Design by: Studio Nüssli+Nuessli
-  - Publication: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: 3952471081 / 978-3952471081
+  Content: 176 pages
+  Size: 230 × 320 mm
+  Language: English, French, German
+  Graphic Design by: Studio Nüssli+Nuessli
+  Publication: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Cpress. All rights reserved.
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: wSQliA85RUdPsGj4
+Multilinetitle:
+
+Tom Huber
+Nguecokh
+
+----
+
+Uuid: gDLFV0cESFRZrB51
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

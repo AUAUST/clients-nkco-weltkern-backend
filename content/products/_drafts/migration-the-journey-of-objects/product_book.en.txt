@@ -1,34 +1,3 @@
-Title: Migration|The Journey Of Objects
-
-----
-
-Multilinetitle:
-
-Migration
-The Journey Of Objects
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Migration <br>The Journey Of Objects'
@@ -42,14 +11,14 @@ author:
   id: 295
 description: '<p>Museums rarely present objects as migrants. Yet they often arrive there by way of a migratory process, a historical echo of the flows of migration that have dominated the news over the past decade. As individuals migrate, so do cultures, skills, religions, ideas, objects, and materials. This is nothing new, and yet its recent acceleration forces us to think about a world in which migration is a constant and the traditional distinction between “native” and “immigrant” is of less relevance. Published together with an exhibition at the Röhsska Museum of Design and Craft in Gothenburg, this volume examines these shifts and how they continuously influence how knowledge is formed.</p>'
 details: |
-  - ISBN: 9198498103 / 978-9198498103
-  - Content: 200 pages
-  - Size: 210 × 280 mm
-  - Edited by: First
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Röhsska Museum. All rights reserved.
+  ISBN: 9198498103 / 978-9198498103
+  Content: 200 pages
+  Size: 210 × 280 mm
+  Edited by: First
+  Language: English
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © WELTKERN® / Röhsska Museum. All rights reserved.
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: iWP7g4NqgZE5Lnxe
+Multilinetitle:
+
+Migration
+The Journey Of Objects
+
+----
+
+Uuid: BhxktxcnoRa3MyzW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

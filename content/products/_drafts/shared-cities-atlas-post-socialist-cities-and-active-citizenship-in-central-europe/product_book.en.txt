@@ -1,34 +1,3 @@
-Title: Shared Cities Atlas|Post-socialist Cities and Active Citizenship in Central Europe
-
-----
-
-Multilinetitle:
-
-Shared Cities Atlas
-Post-socialist Cities and Active Citizenship in Central Europe
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Shared Cities Atlas <br>Post-socialist Cities and Active Citizenship in Central Europe'
@@ -43,16 +12,16 @@ author:
   id: 114
 description: '<p>Reflecting on the “urban commons” concept currently in vogue in architectural discourse, this volume collects research, data and photographs for seven case studies―post-socialist cities in Central Europe―emphasizing the collective action of remaking cities.</p>'
 details: |
-  - ISBN: 9462085213 / 978-9462085213
-  - Content: 252 pages
-  - Size: 160 × 23 × 240 mm
-  - Edited by: Helena Doudová
-  - Contributions from: Karol Piekarski, Paulina Urbańska, Waldemar Węgrzyn, Milota Sidorová, Elizabet Kovačeva, Olja Triaška Stefanović, Stefanie Heublein, Kamil Pavelka
-  - Design: Joost Grootens
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © nai010 Publishers. All rights reserved.
+  ISBN: 9462085213 / 978-9462085213
+  Content: 252 pages
+  Size: 160 × 23 × 240 mm
+  Edited by: Helena Doudová
+  Contributions from: Karol Piekarski, Paulina Urbańska, Waldemar Węgrzyn, Milota Sidorová, Elizabet Kovačeva, Olja Triaška Stefanović, Stefanie Heublein, Kamil Pavelka
+  Design: Joost Grootens
+  Language: English
+  Publishing date: 2019
+  Specs: Softcover
+  Images: © nai010 Publishers. All rights reserved.
 gallery:
   - 
     url: >
@@ -74,4 +43,35 @@ tags: [ ]
 
 ----
 
-Uuid: u5PkippyV5pYmGAz
+Multilinetitle:
+
+Shared Cities Atlas
+Post-socialist Cities and Active Citizenship in Central Europe
+
+----
+
+Uuid: VQ1rgG5zr1Qgkkbs
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

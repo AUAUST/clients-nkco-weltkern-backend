@@ -1,34 +1,3 @@
-Title: Manuel Schenck|(Paris, France)
-
-----
-
-Multilinetitle:
-
-Manuel Schenck
-(Paris, France)
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Manuel Schenck <br>(Paris, France)'
@@ -42,14 +11,14 @@ author:
   id: 263
 description: ""
 details: |
-  - Content: 36 Pages
-  - Size: 130 × 190 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
+  Content: 36 Pages
+  Size: 130 × 190 mm
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
   Color Offset Print
   First edition
-  - Images: © WELTKERN® / innen zines. All rights reserved.
+  Images: © WELTKERN® / innen zines. All rights reserved.
 gallery:
   - 
     url: >
@@ -67,4 +36,35 @@ tags: [ ]
 
 ----
 
-Uuid: 4g3IcCy8mtU6U2Gi
+Multilinetitle:
+
+Manuel Schenck
+(Paris, France)
+
+----
+
+Uuid: R3Ir7OdaYavR3ONk
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

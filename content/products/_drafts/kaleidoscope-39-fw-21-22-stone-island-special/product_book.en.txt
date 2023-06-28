@@ -1,34 +1,3 @@
-Title: KALEIDOSCOPE #39 FW 21-22|STONE ISLAND SPECIAL
-
-----
-
-Multilinetitle:
-
-KALEIDOSCOPE #39 FW 21-22
-STONE ISLAND SPECIAL
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #39 FW 21-22 <br>STONE ISLAND SPECIAL'
@@ -64,13 +33,13 @@ description: |
   <br />
   And finally, “SEASON,” the magazine’s opening section, accounts for the best of this fall/winter with profiles and interviews: Baiser Mortel by Cyrus Goberville in conversation with Bill Kouligas; Alexandra Bircken by Allan Gardner; Gateano Pesce by Luis Ortega Govela; Dash Snow by Katja Horvat; Calla Henkel by Theresa Patzschke; Avavav by Daria Miricola; Sara Sadik by Gabriela Acha; Julian-Jakob Kneer by Allan Gardner; Lamin Fofana by Claire Mouchemoure; Sayre Gomez by Dalya Benor; Filipinx by Lola Kramer; Martin Margiela by Francesca Gavin; Nuova Orfeo by Lorenzo Basilico; Sandra Mujinga by Geoffrey Mak; OMA NY: Search Term by Tibor Bielicky; Poison Anna by Conor McTernan; and Pope.L by Hanna Girma.</p>
 details: |
-  - ISSN: 2038-4087
-  - Content: 400 Pages
-  - Size: 230 × 24 × 300 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISSN: 2038-4087
+  Content: 400 Pages
+  Size: 230 × 24 × 300 mm
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
 gallery:
   - 
     url: >
@@ -116,4 +85,35 @@ tags: [ ]
 
 ----
 
-Uuid: 9GYTjmakoWufFmal
+Multilinetitle:
+
+KALEIDOSCOPE #39 FW 21-22
+STONE ISLAND SPECIAL
+
+----
+
+Uuid: k8VxqPMUayqSkik7
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,31 +1,3 @@
-Title: Las Vegas Studio
-
-----
-
-Multilinetitle: Las Vegas Studio
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Las Vegas Studio
@@ -40,15 +12,15 @@ author:
   id: 89
 description: '<p>&#8216;Learning From Las Vegas&#8217; is arguably one of the most influential texts in theory of architecture of the 20th-century. Since its first publication in 1972 it has been reprinted again and again and translated to many languages. Robert Venturi and Denise Scott Brown&#8217;s treatise had, and still has, lasting effect and is regarded until the present day as the starting singal of postmodernism in architecture and urban planning. The authors&#8217; thesis and arguments are essentially based on the media of photography and film, on the countless pictures Venturi/Scott Brown and Steven Izenour took during their field research of 1968 in the city of Las Vegas. Despite of this fact all editions but the very first one of 1972 use only small black and white images of poor quality to illustrate the text. <em>Las Vegas Studio</em> is the first to present a large selection of these iconic images and film stills in colour, large format and first rate quality. The essays complement the pictures and investigate how Venturi, Scott Brown and Izenour used images to contemplate the phenomenon of the modern city, and forge the link to the architectural practice of the past decades.</p>'
 details: |
-  - ISBN: 3858817648 / 978-3858817648
-  - Content: 196 pages
-  - Size: 200 × 20 × 280 mm
-  - Author: Hilar Stadler
-  - Edited by: Hilar Stadler, Martino Stierli, Peter Fischli
-  - Language: French
-  - Publishing date: 2015
-  - Specs: Softcover
-  - Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+  ISBN: 3858817648 / 978-3858817648
+  Content: 196 pages
+  Size: 200 × 20 × 280 mm
+  Author: Hilar Stadler
+  Edited by: Hilar Stadler, Martino Stierli, Peter Fischli
+  Language: French
+  Publishing date: 2015
+  Specs: Softcover
+  Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
 gallery:
   - 
     url: >
@@ -74,4 +46,32 @@ tags: [ ]
 
 ----
 
-Uuid: l22iLjBjGM21Y8ax
+Multilinetitle: Las Vegas Studio
+
+----
+
+Uuid: qtaIsnnqxI1h9zgz
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

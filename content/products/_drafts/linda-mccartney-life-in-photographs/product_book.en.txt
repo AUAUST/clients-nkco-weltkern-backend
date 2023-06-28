@@ -1,34 +1,3 @@
-Title: Linda McCartney|Life in Photographs
-
-----
-
-Multilinetitle:
-
-Linda McCartney
-Life in Photographs
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Linda McCartney <br>Life in Photographs'
@@ -47,15 +16,15 @@ description: |
   <br />
   For the next three decades, until her untimely death, she devoted herself to her family, vegetarianism, animal rights, and photography. From her early rock &#8216;n&#8217; roll portraits, through the final years of the Beatles, via touring with Wings to raising four children with Paul, Linda captured her whole world on film. Her shots range from spontaneous family pictures to studio sessions with Stevie Wonder and Michael Jackson, as well as artists Willem de Kooning and Gilbert and George. Always unassuming and fresh, her work displays a warmth and feeling for the precise moment that captures the essence of any subject. Whether photographing her children, celebrities, animals, or a fleeting moment of everyday life, she did so without pretension or artifice. This retrospective volume &#8211; selected from her archive of over 200,000 images &#8211; is produced in close collaboration with Paul McCartney and their children. As such, it is a moving personal journal and a lasting testament to Linda&#8217;s talent.</p>
 details: |
-  - ISBN: 3836527286 / 978-3836527286
-  - Content: 288 pages
-  - Size: 265 × 36 × 374 mm
-  - Edited by: Alison Castle
-  - Contributions from: Annie Leibovitz, Martin Harrison
-  - Language: English
-  - Publishing date: 2011
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Taschen. All rights reserved.
+  ISBN: 3836527286 / 978-3836527286
+  Content: 288 pages
+  Size: 265 × 36 × 374 mm
+  Edited by: Alison Castle
+  Contributions from: Annie Leibovitz, Martin Harrison
+  Language: English
+  Publishing date: 2011
+  Specs: Hardcover
+  Images: © WELTKERN® / Taschen. All rights reserved.
 gallery:
   - 
     url: >
@@ -97,4 +66,35 @@ tags: [ ]
 
 ----
 
-Uuid: jzWMzIhG5RiPNLfc
+Multilinetitle:
+
+Linda McCartney
+Life in Photographs
+
+----
+
+Uuid: BQZqWk6ZgRAvbutx
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

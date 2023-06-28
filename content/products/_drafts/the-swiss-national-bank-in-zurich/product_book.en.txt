@@ -1,34 +1,3 @@
-Title: The Swiss National Bank|in Zurich
-
-----
-
-Multilinetitle:
-
-The Swiss National Bank
-in Zurich
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'The Swiss National Bank <br>in Zurich'
@@ -45,14 +14,14 @@ description: |
   <p>Marking the building’s centenary, this book celebrates the Zurich home of the Swiss Franc. It describes in detailed and lavish illustrations the architecture and building history from the planning stage until today. This is supplemented by essays on bank architecture since the Middle Ages, the urban formation of Zurich, and the city’s development into a financial center in the late nineteenth century. In his contribution, the renowned Canadian British architect Adam Caruso compares it—from today’s perspective—with other central bank buildings and places it in the context of the Pfister brothers’ other public commissions, many of which occupy prominent locations in Zurich’s cityscape.</p>
   <p>Richly illustrated with historical and new photographs, original plans, and other documents, this book pays tribute to a piece of public architecture that combines monumentality with pragmatism and republican modesty.</p>
 details: |
-  - ISBN: 3039420957 / 978-3039420957
-  - Content: 412 pages
-  - Size: 200 × 280 mm
-  - Design: JMMP - Julian Mader, Max Prediger
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Hardback
-  - Images: © WELTKERN ® / Scheidegger & Spiess. All rights reserved.
+  ISBN: 3039420957 / 978-3039420957
+  Content: 412 pages
+  Size: 200 × 280 mm
+  Design: JMMP - Julian Mader, Max Prediger
+  Language: English
+  Publishing date: 2022
+  Specs: Hardback
+  Images: © WELTKERN ® / Scheidegger & Spiess. All rights reserved.
 gallery:
   - 
     url: >
@@ -86,4 +55,35 @@ tags: [ ]
 
 ----
 
-Uuid: jz67yl3ZM2TWmsyt
+Multilinetitle:
+
+The Swiss National Bank
+in Zurich
+
+----
+
+Uuid: oTceqVHooiFAhBkE
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

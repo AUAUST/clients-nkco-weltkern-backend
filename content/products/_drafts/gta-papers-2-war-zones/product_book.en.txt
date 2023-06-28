@@ -1,34 +1,3 @@
-Title: gta papers 2|War Zones
-
-----
-
-Multilinetitle:
-
-gta papers 2
-War Zones
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'gta papers 2 <br>War Zones'
@@ -42,17 +11,17 @@ author:
   id: 324
 description: '<p>After the Second World War and at the onset of the Cold War, warfare took different forms. War zones often lost their clear demarcations. People, landscapes, and built environments came to be subjugated to the strains and constraints of new forms of war that served both civil and military purposes. The contributions to War Zones investigate some of these implicit or explicit conditions, legacies, and impacts. From colonial or total war, asymmetric war or counterinsurgency, barricaded or besieged cities, refugee camps or borderlines, nuclear bunkers or ‘war ghosts’, to the state of emergency and drone warfare – these texts disclose the spatial aspects, statuses, and formation processes of past and current war zones.</p>'
 details: |
-  - ISBN: 3856763909 / 978-3856763909
-  - Content: 134 pages
-  - Size: 210 × 297 mm
+  ISBN: 3856763909 / 978-3856763909
+  Content: 134 pages
+  Size: 210 × 297 mm
   
-  - Language: English
-  - Edited by: Samia Henni
-  - Graphic design: büro uebele
-  - Contributions by: Nora Akawi, Silvia Berger Ziauddin, Jean-Louis Cohen, Léopold Lambert, Asja Mandić, Stanislaus von Moos, Arsalan Rafique, Ayesha Sarfraz, Ismae’l Sheikh Hassan, Eva Schreiner, Felicity D. Scott, Alfredo Thiermann, Daniel Weiss
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © WELTKERN® / Gta Verlag. All rights reserved.
+  Language: English
+  Edited by: Samia Henni
+  Graphic design: büro uebele
+  Contributions by: Nora Akawi, Silvia Berger Ziauddin, Jean-Louis Cohen, Léopold Lambert, Asja Mandić, Stanislaus von Moos, Arsalan Rafique, Ayesha Sarfraz, Ismae’l Sheikh Hassan, Eva Schreiner, Felicity D. Scott, Alfredo Thiermann, Daniel Weiss
+  Publishing date: 2018
+  Specs: Softcover
+  Images: © WELTKERN® / Gta Verlag. All rights reserved.
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: nvKvZQxZniUSZS6K
+Multilinetitle:
+
+gta papers 2
+War Zones
+
+----
+
+Uuid: 07aF4ZVKVhiH5PfR
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

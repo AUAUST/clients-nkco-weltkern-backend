@@ -1,34 +1,3 @@
-Title: Guidelines and Standards for the Visual Design|The Games of the XX Olympiad Munich 1972
-
-----
-
-Multilinetitle:
-
-Guidelines and Standards for the Visual Design
-The Games of the XX Olympiad Munich 1972
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Guidelines and Standards for the Visual Design<br> The Games of the XX Olympiad Munich 1972'
@@ -46,15 +15,15 @@ description: |
   <br />
   With the use of this kind of visual grammar more than 100 design areas were developped. They were successfull to create an extraordinary broad impact of the appearance and set new standards for branding and corporate design. Munich 1972 is still regarded as the most successful design project of all the Olympic Games.</p>
 details: |
-  - ISBN: 3721209990 / 978-3721209990
-  - Content: 44 pages
-  - Size: 225 × 40 × 300 mm
-  - Author: Otl Aicher
-  - Design: Otl Aicher
-  - Language: English / German / French
-  - Publishing date: 2019
-  - Specs: Ringbinder / Slipcase
-  - Images: © North East (northeastshop.jp). All rights reserved.
+  ISBN: 3721209990 / 978-3721209990
+  Content: 44 pages
+  Size: 225 × 40 × 300 mm
+  Author: Otl Aicher
+  Design: Otl Aicher
+  Language: English / German / French
+  Publishing date: 2019
+  Specs: Ringbinder / Slipcase
+  Images: © North East (northeastshop.jp). All rights reserved.
 gallery:
   - 
     url: >
@@ -92,4 +61,35 @@ tags: [ ]
 
 ----
 
-Uuid: rarNHSnSnQbxFpGO
+Multilinetitle:
+
+Guidelines and Standards for the Visual Design
+The Games of the XX Olympiad Munich 1972
+
+----
+
+Uuid: FRMlNmpTqLHq6AdS
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

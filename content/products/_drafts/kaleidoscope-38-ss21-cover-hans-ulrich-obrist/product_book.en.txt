@@ -1,34 +1,3 @@
-Title: KALEIDOSCOPE #38 SS21|Cover: Hans Ulrich Obrist
-
-----
-
-Multilinetitle:
-
-KALEIDOSCOPE #38 SS21
-Cover: Hans Ulrich Obrist
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #38 SS21 <br>Cover: Hans Ulrich Obrist'
@@ -64,13 +33,13 @@ description: |
   <br />
   And finally, “SEASON,” the magazine’s opening section, accounts for the best of this spring/summer with profiles and interviews: Tabboo! by <em>Allan Gardner</em>; Aria Dean by <em>Hanna Girma</em>; Memphis by <em>Luis Ortega Govela</em>; Pol Taburet by <em>Rhea Dillon</em>; Art Club2000 by <em>Lola Kramer</em>; Grant Levy-Lucero by <em>Jesse Seegers</em>; Priscavera by <em>Irina Baconsky</em>; Nancy Holt by <em>Cat Kron</em>; Klára Hosnedlová by <em>Kate Brown</em>; The Opioid Crisis Lookbook by <em>Patrick McGraw</em>; Ryūichi Sakamoto by <em>Tom Mouna</em>; Online Ceramics by <em>Katja Horvat</em>; Oko Ebombo by <em>Conor McTernan</em>; Issy Wood by <em>Harry Burke</em>; Public Access by <em>Isabel Flower</em>; D’heygere by <em>Madeleine Holth</em>.</p>
 details: |
-  - ISSN: 2038-4087
-  - Content: 400 Pages
-  - Size: 230 × 24 × 300 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISSN: 2038-4087
+  Content: 400 Pages
+  Size: 230 × 24 × 300 mm
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
+  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
 gallery:
   - 
     url: >
@@ -160,4 +129,35 @@ tags: [ ]
 
 ----
 
-Uuid: rUugthhkZrZNb8XC
+Multilinetitle:
+
+KALEIDOSCOPE #38 SS21
+Cover: Hans Ulrich Obrist
+
+----
+
+Uuid: 47VnxJwK7vHgWo0i
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

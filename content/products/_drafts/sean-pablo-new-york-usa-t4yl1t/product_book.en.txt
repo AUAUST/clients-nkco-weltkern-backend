@@ -1,34 +1,3 @@
-Title: Sean Pablo (New York, USA)|$T4YL1T
-
-----
-
-Multilinetitle:
-
-Sean Pablo (New York, USA)
-$T4YL1T
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Sean Pablo (New York, USA) <br>$T4YL1T'
@@ -42,15 +11,15 @@ author:
   id: 263
 description: ""
 details: |
-  - Supported by: Edition Fästing Plockare, Biel / Bienne
-  - Content: 36 Pages
-  - Size: 130 × 190 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
+  Supported by: Edition Fästing Plockare, Biel / Bienne
+  Content: 36 Pages
+  Size: 130 × 190 mm
+  Language: English
+  Publishing date: 2021
+  Specs: Softcover
   Color Offset Print
   First Edition
-  - Images: © WELTKERN® / innen zines. All rights reserved.
+  Images: © WELTKERN® / innen zines. All rights reserved.
 gallery:
   - 
     url: >
@@ -68,4 +37,35 @@ tags: [ ]
 
 ----
 
-Uuid: u1lDgoldqG67jb23
+Multilinetitle:
+
+Sean Pablo (New York, USA)
+$T4YL1T
+
+----
+
+Uuid: 2wez18vrokHOvTxL
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

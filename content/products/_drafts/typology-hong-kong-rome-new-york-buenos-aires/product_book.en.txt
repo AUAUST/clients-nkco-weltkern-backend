@@ -1,34 +1,3 @@
-Title: Typology|Hong Kong, Rome, New York, Buenos Aires
-
-----
-
-Multilinetitle:
-
-Typology
-Hong Kong, Rome, New York, Buenos Aires
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Typology <br>Hong Kong, Rome, New York, Buenos Aires'
@@ -43,16 +12,16 @@ author:
   id: 88
 description: '<p>In <em>Typology</em> more than one hundred and fifty buildings are documented through floor plans, axonometric projections, recent color photographs, and halftones. The buildings, many of them relatively unknown, were chosen in order to provide a basis for looking at metropolitan design in the twentieth century, and they show the patterns and differences found in architecture from around the world. Included are essays that provide meaningful context for the buildings and examine how local governments and zoning practices guide architecture.</p>'
 details: |
-  - ISBN: 3906027015 / 978-3906027012
-  - Content: 208 pages
-  - Size: 245 × 20 × 325 mm
-  - Edited by: Emanuel Christ, Victoria Easton, Christoph Gantenbein
-  - Contributions from: Emanuel Christ, Fernando Diez, Victoria Easton, Christoph Gantenbein, Francesco Garofalo, Carol Herselle Krinsky, and Hendrik Tieben
-  - Design: Ludovic Balland
-  - Language: English / German
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © Park Books. All rights reserved.
+  ISBN: 3906027015 / 978-3906027012
+  Content: 208 pages
+  Size: 245 × 20 × 325 mm
+  Edited by: Emanuel Christ, Victoria Easton, Christoph Gantenbein
+  Contributions from: Emanuel Christ, Fernando Diez, Victoria Easton, Christoph Gantenbein, Francesco Garofalo, Carol Herselle Krinsky, and Hendrik Tieben
+  Design: Ludovic Balland
+  Language: English / German
+  Publishing date: 2020
+  Specs: Hardcover
+  Images: © Park Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -86,4 +55,35 @@ tags: [ ]
 
 ----
 
-Uuid: 7mI3bdkhXe5zghBi
+Multilinetitle:
+
+Typology
+Hong Kong, Rome, New York, Buenos Aires
+
+----
+
+Uuid: 7w9O2PYEQGDT4ePo
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

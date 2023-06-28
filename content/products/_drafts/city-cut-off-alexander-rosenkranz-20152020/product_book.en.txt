@@ -1,34 +1,3 @@
-Title: City Cut Off|Alexander Rosenkranz 2015–2020
-
-----
-
-Multilinetitle:
-
-City Cut Off
-Alexander Rosenkranz 2015–2020
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'City Cut Off <br>Alexander Rosenkranz 2015–2020'
@@ -43,16 +12,16 @@ author:
   id: 88
 description: '<p>Berlin, Dakar, Detroit, Dubai, London, Moscow, New Delhi, New York, Oslo, Paris, Zurich: an artistic reflection on the city as background of contemporary architecture.</p>'
 details: |
-  - ISBN: 3038601906 / 978-3038601906
-  - Content: 190 pages
-  - Size: 297 × 20 × 420 mm
-  - Author: Alexander Rosenkranz
-  - Texts by: Ludovic Balland, Andy Rankin
-  - Design: Ludovic Balland
-  - Language: English / German / French
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © Institut für Buchkunst. All rights reserved.
+  ISBN: 3038601906 / 978-3038601906
+  Content: 190 pages
+  Size: 297 × 20 × 420 mm
+  Author: Alexander Rosenkranz
+  Texts by: Ludovic Balland, Andy Rankin
+  Design: Ludovic Balland
+  Language: English / German / French
+  Publishing date: 2021
+  Specs: Hardcover
+  Images: © Institut für Buchkunst. All rights reserved.
 gallery:
   - 
     url: >
@@ -82,4 +51,35 @@ tags: [ ]
 
 ----
 
-Uuid: aSOmfrI5W7FKwJJS
+Multilinetitle:
+
+City Cut Off
+Alexander Rosenkranz 2015–2020
+
+----
+
+Uuid: qeQr7tLJbadDEIgt
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

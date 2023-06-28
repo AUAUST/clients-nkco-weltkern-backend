@@ -1,34 +1,3 @@
-Title: Barbara Kruger|Thinking of You. I Mean Me. I Mean You
-
-----
-
-Multilinetitle:
-
-Barbara Kruger
-Thinking of You. I Mean Me. I Mean You
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Barbara Kruger <br>Thinking of You. I Mean Me. I Mean You'
@@ -46,14 +15,14 @@ description: |
   <p>This book serves as the catalog for the first major one-person exhibition of Kruger&#8217;s work to be mounted in the United States. The book, designed by Lorraine Wild in collaboration with the artist, contains texts by Rosalyn Deutsche, Katherine Dieckmann, Ann Goldstein, Steven Heller, Gary Indiana, Carol Squiers, and Lynne Tillman on subjects associated with Kruger&#8217;s work, including photography, graphic design, public space, power, and representation, as well as an extensive exhibition history, bibliography, and checklist of the exhibition. The cover features a new piece by Kruger, entitled Thinking of You,created especially for the catalog.</p>
   <p>The exhibition was organized by Ann Goldstein, curator at The Museum of Contemporary Art, Los Angeles.</p>
 details: |
-  - ISBN: 0262112507 / 978-0262112507
-  - Content: 268 pages
-  - Size: 225 × 285 mm
-  - Design: Face.
-  - Language: English
-  - Publishing date: 1999
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / MoMa. All rights reserved.
+  ISBN: 0262112507 / 978-0262112507
+  Content: 268 pages
+  Size: 225 × 285 mm
+  Design: Face.
+  Language: English
+  Publishing date: 1999
+  Specs: Hardcover
+  Images: © WELTKERN ® / MoMa. All rights reserved.
 gallery:
   - 
     url: >
@@ -87,4 +56,35 @@ tags: [ ]
 
 ----
 
-Uuid: X6gMESIc4eBej08N
+Multilinetitle:
+
+Barbara Kruger
+Thinking of You. I Mean Me. I Mean You
+
+----
+
+Uuid: q7vT4bJqan0tk6ui
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

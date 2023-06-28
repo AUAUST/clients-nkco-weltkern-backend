@@ -1,34 +1,3 @@
-Title: Weber – 0001|Yellow/Purple Cover
-
-----
-
-Multilinetitle:
-
-Weber – 0001
-Yellow/Purple Cover
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Weber – 0001 <br>Yellow/Purple Cover'
@@ -45,12 +14,12 @@ description: |
   <p>Within this curated collection we encounter an array of characters including Bruce Weber, Barbara Kruger, Andy Warhol, Yoko Ono, Raymond Pettibon, Eames Office, Calvin Klein, Tommy Hilfiger, Emporio Armani, Jean Paul Gaultier, Stussy, all pasted on the front of tshirts. Oscillating between tribute and parody, 0001 toys with the notion of the vintage t-shirt as akin to a Duchampian ready-made, a found object whose meaning shifts when viewed in a different context. This context, that of a catalogue, invites the reader to reconsider the socio-cultural worth of the t-shirt and its role within the visual culture of the contemporary.</p>
   <p>The cover is specified in a triptych of colour combinations produced in a unique book-form somewhere between a catalogue, manual and folder. Through its seriality, idiosyncrasy and self-awareness ‘0001’ renders the aspect of choice within the context of mass-production visible, and ultimately creates an object that is overtly playful. 0001 is a tome at 552 pages; printed on a bulky off-white paper predominantly monotone with full colour tipped-in sections accompanied by texts in English and Japanese by Hitoshi Ikeda, Kunichi Nomura, Ryo Todoroki, Sarah Andelman and Kazuki Hatanaka.</p>
 details: |
-  - ISBN: 1739930929 / 978-1739930929
-  - Content: 552 pages
-  - Size: 210 × 34 × 268 mm
-  - Language: English
-  - Specs: Hardcover, 1000 copies
-  - Images: © WELTKERN® / InOtherWords. All rights reserved.
+  ISBN: 1739930929 / 978-1739930929
+  Content: 552 pages
+  Size: 210 × 34 × 268 mm
+  Language: English
+  Specs: Hardcover, 1000 copies
+  Images: © WELTKERN® / InOtherWords. All rights reserved.
 gallery:
   - 
     url: >
@@ -84,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: utHzXqmy3J9yeflf
+Multilinetitle:
+
+Weber – 0001
+Yellow/Purple Cover
+
+----
+
+Uuid: zCHwejdAAgXERaeW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

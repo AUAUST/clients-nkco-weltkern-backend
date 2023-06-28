@@ -1,34 +1,3 @@
-Title: Lisbet Nielsen|Siggie
-
-----
-
-Multilinetitle:
-
-Lisbet Nielsen
-Siggie
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Lisbet Nielsen <br>Siggie'
@@ -49,14 +18,14 @@ description: |
   <p>The images capture a poetic and timeless universe that spring from the visual narrative of a young girls transition from child to adult – in close dialogue with the physical spaces in which this metamorphosis takes place, and in harmony with the change of seasons from outside the kitchen window.</p>
   <p>The Polaroid images have been lying in the drawer for many years, and it’s with a new, reflected and liberating gaze that Nielsen now has been able to select and compile the images so that the private gets retold and transformed into a generally human and open aesthetic expression.</p>
 details: |
-  - ISBN: 8797052075 / 978-8797052075
-  - Content: 64 pages
-  - Size: 122 × 140 mm
+  ISBN: 8797052075 / 978-8797052075
+  Content: 64 pages
+  Size: 122 × 140 mm
   
-  - Language: English and Danish
-  - Publishing date: 2021
-  - Specs: Embossed linen-bound mini hardback with tipped-in image
-  - Images: © WELTKERN® / Diskobay. All rights reserved.
+  Language: English and Danish
+  Publishing date: 2021
+  Specs: Embossed linen-bound mini hardback with tipped-in image
+  Images: © WELTKERN® / Diskobay. All rights reserved.
 gallery:
   - 
     url: >
@@ -66,4 +35,35 @@ tags: [ ]
 
 ----
 
-Uuid: SHTVBmWMQ4sfQ4LN
+Multilinetitle:
+
+Lisbet Nielsen
+Siggie
+
+----
+
+Uuid: aeaqHQOdMhhbOyAl
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

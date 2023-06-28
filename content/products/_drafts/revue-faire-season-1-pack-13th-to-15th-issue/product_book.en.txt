@@ -1,34 +1,3 @@
-Title: Revue Faire|Season 1 Pack: 13th to 15th issue
-
-----
-
-Multilinetitle:
-
-Revue Faire
-Season 1 Pack: 13th to 15th issue
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Revue Faire <br>Season 1 Pack: 13th to 15th issue'
@@ -57,14 +26,14 @@ description: |
   — To offer subscriptions on a twice-monthly basis. You can now order a complete pack of 15 issues!<br />
   — <em>Il s’agit de FAIRE</em>. It’s about DOING</p>
 details: |
-  - ISBN: 1095991106 / 979-1095991106
-  - Content: 20 pages per issue
-  - Size: 210 × 5 × 297 mm
-  - Design: Syndicat
-  - Language: English / French
-  - Publishing date: 2017
-  - Specs: Saddle stitched binding
-  - Images: © WELTKERN® / Empire Books. All rights reserved.
+  ISBN: 1095991106 / 979-1095991106
+  Content: 20 pages per issue
+  Size: 210 × 5 × 297 mm
+  Design: Syndicat
+  Language: English / French
+  Publishing date: 2017
+  Specs: Saddle stitched binding
+  Images: © WELTKERN® / Empire Books. All rights reserved.
 gallery:
   - 
     url: >
@@ -106,4 +75,35 @@ tags: [ ]
 
 ----
 
-Uuid: LSsgvuWDj6lysEmB
+Multilinetitle:
+
+Revue Faire
+Season 1 Pack: 13th to 15th issue
+
+----
+
+Uuid: PSlKc5frvrotlya2
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

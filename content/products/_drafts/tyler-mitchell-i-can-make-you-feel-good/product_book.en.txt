@@ -1,42 +1,3 @@
-Title: Tyler Mitchell|I Can Make You Feel Good
-
-----
-
-Multilinetitle:
-
-Tyler Mitchell
-I Can Make You Feel Good
-
-----
-
-Multilinetitleseparator: 
-
-----
-
-Publisher: 
-
-----
-
-Tags: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tyler Mitchell <br>I Can Make You Feel Good'
@@ -56,15 +17,15 @@ description: |
   <br />
   Based in Brooklyn, Mitchell works across many genres to explore and document a new aesthetic of Blackness. He is regularly published in avant- garde magazines, commissioned by prominent fashion houses, and exhibited in renowned art institutions, Mitchell has lectured at many such institutions including Harvard University, Paris Photo and the International Center of Photography (ICP), on the politics of image making.</p>
 details: |
-  - ISBN: 3791386085 / 978-3791386089
-  - Content: 208 Pages
-  - Size: 241 × 26 × 318 mm
-  - Author: Tyler Mitchell
-  - Contributions from: Hans Ulrich Obrist, Deborah Willis
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Prestel / Village Books (village books.co). All rights reserved.
+  ISBN: 3791386085 / 978-3791386089
+  Content: 208 Pages
+  Size: 241 × 26 × 318 mm
+  Author: Tyler Mitchell
+  Contributions from: Hans Ulrich Obrist, Deborah Willis
+  Language: English
+  Publishing date: 2020
+  Specs: Hardcover
+  Images: © WELTKERN® / Prestel / Village Books (village books.co). All rights reserved.
 gallery:
   - 
     url: >
@@ -94,4 +55,35 @@ tags: [ ]
 
 ----
 
-Uuid: hzAWjmF58f1cLZWi
+Multilinetitle:
+
+Tyler Mitchell
+I Can Make You Feel Good
+
+----
+
+Uuid: ACJBpnodRQvrKxfU
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

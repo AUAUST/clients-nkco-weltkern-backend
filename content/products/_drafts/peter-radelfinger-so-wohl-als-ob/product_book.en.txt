@@ -1,34 +1,3 @@
-Title: Peter Radelfinger|So wohl als ob
-
-----
-
-Multilinetitle:
-
-Peter Radelfinger
-So wohl als ob
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Peter Radelfinger <br>So wohl als ob'
@@ -52,15 +21,15 @@ description: |
   <br />
   Most beautiful Swiss books, 2016</p>
 details: |
-  - ISBN: 3906803081 / 978-3906803081
-  - Content: 680 Pages
-  - Size: 170 × 240 mm
-  - Artist: Peter Radelfinger
-  - Design: Kevin Casado, Jonas Vögeli, Sandro Wettstein
-  - Language: German
-  - Publishing date: 2016
-  - Specs: Softcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: 3906803081 / 978-3906803081
+  Content: 680 Pages
+  Size: 170 × 240 mm
+  Artist: Peter Radelfinger
+  Design: Kevin Casado, Jonas Vögeli, Sandro Wettstein
+  Language: German
+  Publishing date: 2016
+  Specs: Softcover
+  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
 gallery:
   - 
     url: >
@@ -90,4 +59,35 @@ tags: [ ]
 
 ----
 
-Uuid: n3NnelaRNJXYOoL5
+Multilinetitle:
+
+Peter Radelfinger
+So wohl als ob
+
+----
+
+Uuid: 2TZrCuQp1hK6AksB
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

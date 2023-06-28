@@ -1,34 +1,3 @@
-Title: Virgil Abloh|Figures of Speech
-
-----
-
-Multilinetitle:
-
-Virgil Abloh
-Figures of Speech
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Virgil Abloh <br>Figures of Speech'
@@ -45,16 +14,16 @@ description: |
   <br />
   This multi-faceted and vibrant book accompanies the first retrospective of his work, which is being presented in his hometown of Chicago in 2019. Images of his creations in the world of fashion, furniture, graphic arts, architecture, and collaborations with other artists are accompanied by essays that view his work through the lens of the African diaspora and explore his remarkable fluidity between high and low culture. At the core of this book is Abloh&#8217;s deep interest in empowering young people, an optimistic stance that reflects his generous energy and willingness to turn the status quo on its head.</p>
 details: |
-  - ISBN: 3791358574 / 978-3791358574
-  - Content: 288 pages
-  - Size: 314 × 51 × 340 mm
-  - Edited by: Michael Darling
-  - Contributions from: Rem Koolhaas, Taiye Selasi, Lou Stoppard, Michael Rock
-  - Design: OK-RM
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Hardcover
-  - Images: © Prestel. All rights reserved.
+  ISBN: 3791358574 / 978-3791358574
+  Content: 288 pages
+  Size: 314 × 51 × 340 mm
+  Edited by: Michael Darling
+  Contributions from: Rem Koolhaas, Taiye Selasi, Lou Stoppard, Michael Rock
+  Design: OK-RM
+  Language: English
+  Publishing date: 2019
+  Specs: Hardcover
+  Images: © Prestel. All rights reserved.
 gallery:
   - 
     url: >
@@ -80,4 +49,35 @@ tags: [ ]
 
 ----
 
-Uuid: nS2d3Wup23MNCzFs
+Multilinetitle:
+
+Virgil Abloh
+Figures of Speech
+
+----
+
+Uuid: uG6zZ7ljz1zyDm2p
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Juergen Teller|Siegerflieger
-
-----
-
-Multilinetitle:
-
-Juergen Teller
-Siegerflieger
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Juergen Teller <br>Siegerflieger'
@@ -44,13 +13,13 @@ description: |
   <p>For a German football enthusiast like Juergen Teller, summer 2014 couldn’t have been any better. The German national team—not guest of honor in Teller’s work since Nackig auf dem Fussballplatz (Steidl, 2004)—won the World Cup in Brazil, and Teller was there every step of the way. Siegerflieger (literally “the victors’ plane,” the affectionate name given to the German team’s customized jumbo) unfolds in typical diary-like Teller fashion: we see him enjoying a bratwurst or two, a casual round of chess with the family in his hometown of Bubenreuth, and perhaps one drink too many with his students from the Academy of Fine Arts in Nuremberg.</p>
   <p>Yet Teller’s obsession for football (also shared by his son Ed, the covert star of this book) remains center stage, be he watching the final live on TV or welcoming home the triumphant team at the Brandenburg Gate. Teller even went so far as to immortalize the German victory in his very first tattoo, a natural step for football fanatics. For the rest of us, we have the exuberant, testosterone-charged Siegerflieger to enjoy.</p>
 details: |
-  - ISBN: 3869309149 / 978-3869309149
-  - Content: 336 pages
-  - Size: 265 × 210 mm
-  - Language: English
-  - Publication: 2015
-  - Specs: Softcover
-  - Images: © WELTKERN® / Steidl Books All rights reserved.
+  ISBN: 3869309149 / 978-3869309149
+  Content: 336 pages
+  Size: 265 × 210 mm
+  Language: English
+  Publication: 2015
+  Specs: Softcover
+  Images: © WELTKERN® / Steidl Books All rights reserved.
 gallery:
   - 
     url: >
@@ -60,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: ZR6BGNEo2SOAUmGk
+Multilinetitle:
+
+Juergen Teller
+Siegerflieger
+
+----
+
+Uuid: 9saoXoiXgWKL7Ymb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

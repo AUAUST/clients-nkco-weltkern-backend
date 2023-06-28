@@ -1,31 +1,3 @@
-Title: EPA Graphic Standards System
-
-----
-
-Multilinetitle: EPA Graphic Standards System
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: EPA Graphic Standards System
@@ -45,18 +17,18 @@ description: |
   <br />
   Forty years later, Jesse Reed &#038; Hamish Smyth&#8211;creators of the <em>NYCTA</em> and <em>NASA Graphics Standards Manual</em> reissues&#8211;have partnered with CGH and AIGA, the US&#8217;s oldest and largest professional organization for design, to publish this classic graphic standards EPA manual as a hardcover volume. Each page is reproduced at the same size as the original three-ring binder pages, using the same vibrant Pantone inks with a total of 14 colors.</p>
 details: |
-  - ISBN: 0692878300 / 978-0692878309
-  - Content: 228 pages
-  - Size: 240 × 20 × 300 mm
-  - Authors: Jesse Reed, Hamish Smyth
-  - Edited by: Jesse Reed, Hamish Smyth
-  - Introduction: Tom Geismar
-  - Contributions from: Christopher Bonanos
-  - Design: Standards Manual
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Hardcover
-  - Images: © Standards Manual. All rights reserved.
+  ISBN: 0692878300 / 978-0692878309
+  Content: 228 pages
+  Size: 240 × 20 × 300 mm
+  Authors: Jesse Reed, Hamish Smyth
+  Edited by: Jesse Reed, Hamish Smyth
+  Introduction: Tom Geismar
+  Contributions from: Christopher Bonanos
+  Design: Standards Manual
+  Language: English
+  Publishing date: 2017
+  Specs: Hardcover
+  Images: © Standards Manual. All rights reserved.
 gallery:
   - 
     url: >
@@ -94,4 +66,32 @@ tags: [ ]
 
 ----
 
-Uuid: 9ZJj6dppq3VRk67p
+Multilinetitle: EPA Graphic Standards System
+
+----
+
+Uuid: TnYILOcBGDNVESj6
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
