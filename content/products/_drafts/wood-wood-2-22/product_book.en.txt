@@ -14,14 +14,14 @@ description: |
   <p>Fragments, sketches and photographs from past ­collections and collaborations have been ­juxtaposed to tell the story of a clothing brand in constant flux. The result is a slightly chaotic, intensely visual ­representation of the ­Copenhagen label.</p>
   <p>The image heavy pages are supplemented by a ­section of technical information, brief commentary from past collaborators and an ­interview with the founders, ­offering an insight into the roots of Wood Wood.</p>
 details: |
-  ISBN: 3959057301 / 978-3959057301
-  Content: 400 pages
-  Size: 210 × 280 mm
-  Design: Julie Peeters
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / WOOD WOOD. All rights reserved.
+  ISBN: "3959057301 / 978-3959057301"
+  Content: "400 pages"
+  Size: "210 × 280 mm"
+  Design: "Julie Peeters"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / WOOD WOOD. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Multilinetitle: WOOD WOOD 2-22
 
 ----
 
-Uuid: K2PCeupwvT7mcL5H
+Uuid: sWdXrZ0B9ZWAQELm
 
 ----
 

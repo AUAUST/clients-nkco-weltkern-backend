@@ -12,13 +12,13 @@ author:
   id: 235
 description: '<p>The book borrows its structure from a classic manual. Ai Weiwei’s process is set in a narrative strand. Step by step, the reader is guided through the creation, manual and the subsequent reflection of the artwork. Through its linear narrative style, the art and working method become accessible and the viewer is directly involved in the project. Visually, existing manual elements are quoted and embedded in an art book context. The varnished «picture panels» are numbered in a way that is familiar from instruction manuals. In addition, material lists are combined with art photographs to emphasize the intertwining of the artwork and its building instruction.</p>'
 details: |
-  Content: 48 pages
-  Size: 200 × 5 × 147 mm
-  Publishing date: 2020
-  Design: Data-Orbit
-  Language: English
-  Specs: Softcover
-  Images: © L'édition PIÈCE D'OUVRAGE de HORNBACH. All rights reserved.
+  Content: "48 pages"
+  Size: "200 × 5 × 147 mm"
+  Publishing date: "2020"
+  Design: "Data-Orbit"
+  Language: "English"
+  Specs: "Softcover"
+  Images: "© L'édition PIÈCE D'OUVRAGE de HORNBACH. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,7 +55,7 @@ Safety Jackets Zipped the Other Way (EN)
 
 ----
 
-Uuid: wQotdYfDGqUya0Zl
+Uuid: 7WpXgLlreFbNlR5u
 
 ----
 

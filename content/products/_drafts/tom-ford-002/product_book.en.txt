@@ -11,14 +11,14 @@ author:
   id: 115
 description: '<p>Tom Ford has become one of fashion&#8217;s great icons. He transformed Gucci from a moribund accessories label into one of the sexiest fashion brands in the world. His designs have increased sales at Gucci tenfold and have helped build the Gucci brand into the luxury goods conglomerate that it is today. Ford brought a hard-edged style synonymous with 21st century glamour to his clothes, and Hollywood sat up and took note. This book is a complete catalogue of Ford&#8217;s design work for both Gucci and Yves Saint Laurent from 1994 to 2004. It chronicles not only Ford&#8217;s clothing and accessories designs for both houses, but also explores Ford&#8217;s grand vision for the complete design of a brand, including architecture, store design, and advertising. <em>Tom Ford</em> features more than 200 photographs by Richard Avedon, Mario Testino, Steven Meisel, Helmut Newton, Herb Ritts, Terry Richardson, Craig McDean, Todd Eberle, and numerous other photographers including many previously unpublished images. Published to coincide with his departure from Gucci, this book has been created with Ford&#8217;s full cooperation and every page reflects his exceptional taste. It is Ford&#8217;s testament to a career of singular moments reinventing the boundaries of style and sensuality in clothing.</p>'
 details: |
-  ISBN: 0847826694 / 978-0847826698
-  Content: 416 Pages
-  Size: 287 × 56 × 370 mm
-  Authors: Tom Ford, Bridget Foley
-  Language: English
-  Publishing date: 2008
-  Specs: Hardcover
-  Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  ISBN: "0847826694 / 978-0847826698"
+  Content: "416 Pages"
+  Size: "287 × 56 × 370 mm"
+  Authors: "Tom Ford, Bridget Foley"
+  Language: "English"
+  Publishing date: "2008"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -32,7 +32,7 @@ Multilinetitle: Tom Ford 002
 
 ----
 
-Uuid: DLazvqslmlZgyGeU
+Uuid: AjY4s68t0r2CgDwi
 
 ----
 

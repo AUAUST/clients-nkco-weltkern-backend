@@ -14,14 +14,14 @@ description: |
   <br />
   This unusual artist&#8217;s book takes up a subject rarely deemed worthy of representation. &#8220;Virtually wherever there are people, there are cars and they are visually intermingling in whatever we see,&#8221; Tillmans points out. &#8220;We are looking at the world from a car and cars are in the foreground, the background or in between of what is in our view.&#8221; With over 100 color photographs and text by the artist himself, this new volume is an important addition to any photobook collection, and to our understanding of what it is to live in a world oversaturated with both cars and images.</p>
 details: |
-  ISBN: 3863357528 / 978-3863357528
-  Content: 128 pages
-  Size: 160 × 10 × 239 mm
-  Author: Wolfgang Tillmans
-  Language: English
-  Publishing date: 2015
-  Specs: Softcover
-  Images: © WELTKERN® / Buchhandlung Walther Konig. All rights reserved.
+  ISBN: "3863357528 / 978-3863357528"
+  Content: "128 pages"
+  Size: "160 × 10 × 239 mm"
+  Author: "Wolfgang Tillmans"
+  Language: "English"
+  Publishing date: "2015"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Buchhandlung Walther Konig. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,7 +62,7 @@ The Cars
 
 ----
 
-Uuid: X6KFMbmNeoCDnqIb
+Uuid: irfysriTxaXPQFpk
 
 ----
 

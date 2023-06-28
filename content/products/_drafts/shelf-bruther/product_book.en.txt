@@ -11,15 +11,15 @@ author:
   id: 99
 description: '<p>Numerous black and white and colour illustrations.</p>'
 details: |
-  ISBN: 3959057301 / 978-3959057301
-  Content: 200 pages
-  Size: 240 × 320 mm
-  Design: Julie Peeters
-  Language: English
-  Publishing date: April 2023
-  Specs: Threadsewn softcover
-  Edition Number: 1
-  Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: "3959057301 / 978-3959057301"
+  Content: "200 pages"
+  Size: "240 × 320 mm"
+  Design: "Julie Peeters"
+  Language: "English"
+  Publishing date: "April 2023"
+  Specs: "Threadsewn softcover
+  Edition Number: 1"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,7 +65,7 @@ Multilinetitle: Shelf Bruther
 
 ----
 
-Uuid: ncn2eqjKkSbMj2bB
+Uuid: E44EW61QOreoVuiT
 
 ----
 

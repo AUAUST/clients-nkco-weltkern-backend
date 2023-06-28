@@ -14,16 +14,16 @@ description: |
   <br />
   The idea was to make a book of his images, but it did not materialize and was eventually forgotten. In 2020, this box of photographs was unearthed: an unpublished work that adds a new dimension to the work of the Milanese photographer. In these black and white shots, Basilico establishes himself as a great photographer in a field that is not his own. There is no sense of melancholy in this reportage, but rather the pride, freedom and joy of a group of artists at work.</p>
 details: |
-  ISBN: 8899385866 / 978-8899385866
-  Content: 112 pages
-  Size: 225 × 9 × 262 mm
-  Author: Gabriele Basilico
-  Texts by: Gabriele Basilico, Joan Fontcuberta, Giovanna Calvenzi
-  Design: Maurizio Zanuso
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Humboldt Books. All rights reserved.
+  ISBN: "8899385866 / 978-8899385866"
+  Content: "112 pages"
+  Size: "225 × 9 × 262 mm"
+  Author: "Gabriele Basilico"
+  Texts by: "Gabriele Basilico, Joan Fontcuberta, Giovanna Calvenzi"
+  Design: "Maurizio Zanuso"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Humboldt Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -68,7 +68,7 @@ Non recensiti
 
 ----
 
-Uuid: XfIbn6kBjreVDDlC
+Uuid: A3aEYtXecnLPz2uS
 
 ----
 

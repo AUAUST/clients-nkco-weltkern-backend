@@ -11,16 +11,16 @@ author:
   id: 319
 description: '<p>This book brings together ideas and projects that seek to define a new role for design based on empathy. As a mediator of emotions and feelings, design is presented here as a practice that takes care as its main purpose. Designers adopt sensitive, diplomatic, sometimes therapeutic functions, with the aim of connecting us with one another but also with the world around us, with other species, with soil, water and even the universe. In this book, the reader will find new ideas, utopian propositions but also practical solutions for reinterpreting and reconnecting with the world around them. Taking food as a key medium of encounter, both between people and also with the more than human world, the designers featured in this book consciously operate in a multi-scalar realm – from the invisible microbial life that lives in our gut to the vast landscapes transformed by agricultural practices. Designs for more than one are those that take into consideration not just their immediate user or client but the many constituents inevitably impacted by any new object or action.</p>'
 details: |
-  ISBN: 9493148598 / 978-9493148598
-  Content: 408 pages
-  Size: 165 × 240 mm
+  ISBN: "9493148598 / 978-9493148598"
+  Content: "408 pages"
+  Size: "165 × 240 mm
   
-  Language: English
-  Edited by: Mariana Pestana, Sumitra
-  Graphic design: Macedo Cannatà
-  Publishing date: 2021
-  Specs: Dust-jacket, Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: "English "
+  Edited by: "Mariana Pestana, Sumitra"
+  Graphic design: "Macedo Cannatà"
+  Publishing date: "2021"
+  Specs: "Dust-jacket, Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Designs for more than one
 
 ----
 
-Uuid: huO55uzW0A2TpRC5
+Uuid: zOcjRkYDvo8HLeDt
 
 ----
 

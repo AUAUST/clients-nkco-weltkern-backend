@@ -15,17 +15,17 @@ description: |
   <br />
   Assembling Mekas’ diaries from this exciting period, enriched with his own personal visual material, <em>I Seem to Live</em> offers an intimate, unparalleled view of the postwar New York underground scene from one of its most beloved fixtures.</p>
 details: |
-  ISBN: 3959052887 / 978-3959052887
-  Content: 1000 pages
-  Size: 160 × 50 × 215 mm
-  Author: Jonas Mekas
-  Edited by: Anne König
+  ISBN: "3959052887 / 978-3959052887 "
+  Content: "1000 pages"
+  Size: "160 × 50 × 215 mm"
+  Author: "Jonas Mekas"
+  Edited by: "Anne König
   
-  Design: Fabian Bremer, Pascal Storz
-  Language: English
-  Publishing date: 2019
-  Specs: Hardcover
-  Images: © Spector Books. All rights reserved.
+  Design: "Fabian Bremer, Pascal Storz"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,7 +78,7 @@ Diaries 1950-1971, Volume 1
 
 ----
 
-Uuid: Hr8IBZayMYionDkg
+Uuid: 6M547cuHooCE4aJL
 
 ----
 

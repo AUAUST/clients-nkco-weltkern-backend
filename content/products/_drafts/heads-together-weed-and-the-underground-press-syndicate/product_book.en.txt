@@ -17,14 +17,14 @@ description: |
   <p>The art in this book speaks to a time when pot was smoked with optimism, as something potentially good for society and people, capable of activating profound transformation in the face of corrupt and powerful forces.</p>
   <p>With Oral Histories by: Ishmael Reed, John Sinclair, Marjorie Heins, Mariann Wizard-Vasquez, Abe Peck</p>
 details: |
-  ISBN: 3907236543 / 978-3907236543
-  Content: 566 pages
-  Size: 250 × 190 mm
-  Design: Grupo 438
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236543 / 978-3907236543"
+  Content: "566 pages"
+  Size: "250 × 190 mm"
+  Design: "Grupo 438"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -77,7 +77,7 @@ Weed and the Underground Press Syndicate
 
 ----
 
-Uuid: 09C755c3ZUcdD8tl
+Uuid: 340JoCXW3xCi80yY
 
 ----
 

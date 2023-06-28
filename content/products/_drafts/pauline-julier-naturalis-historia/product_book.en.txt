@@ -15,18 +15,18 @@ description: |
   <br />
   Nature, the history of nature, the relationship between humans and nature: the subject is immense and universal. To &#8220;treat&#8221; it from her base in Geneva, Pauline Julier has explored numerous regions, from the air-conditioned hotels of Doha to the open-cast coal mines of northern China, from the churches and museums of Naples to the smoky slopes of Vesuvius, from the caves of the Jura to the taxidermied animal-haunted rooms of the Musée de la Chasse et de la Nature in Paris. This exploration has also taken place through the stories of authors who have taken her from Iceland to the Ecuadorian Amazon. Her wanderings have taken place not only geographically, but also through the history of ideas through authors and researchers such as the writer and naturalist Pliny the Elder, the poet and philosopher Giacomo Leopardi, the novelist and playwright Alexandre Dumas, the writer Jules Verne, the anthropologist Philippe Descola, the philosopher François Jullien, the volcanologist Maurice Krafft, the professor of paleobiology Jun Wang and the sociologist and philosopher Bruno Latour. The texts gathered in this book are of various kinds: quotations, writings by Pauline Julier, as well as two long interviews she conducted with Philippe Descola and Bruno Latour respectively. As for the images, they allow on the one hand a detailed immersion in a &#8220;book&#8221; version of Pauline Julier&#8217;s films, and on the other hand the discovery of numerous iconographic references which constituted the sources of her research.</p>
 details: |
-  ISBN: 2909230238 / 978-2909230238
+  ISBN: "2909230238 / 978-2909230238
   
-  Content: 504 pages
-  Size: 170 × 30 × 260 mm
-  Design: Ludovic Balland
-  Author: Pauline Julier
-  Edited by: Jean-Paul Felley, Olivier Kaeser
-  Texts by: Pauline Julier, Anna Manubens, Cyril Neyrat, entretiens avec Philippe Descola et Bruno Latour par Pauline Julier
-  Language: English / German
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © Centre Culturel Suisse. All rights reserved.
+  Content: "504 pages"
+  Size: "170 × 30 × 260 mm"
+  Design: "Ludovic Balland"
+  Author: "Pauline Julier"
+  Edited by: "Jean-Paul Felley, Olivier Kaeser"
+  Texts by: "Pauline Julier, Anna Manubens, Cyril Neyrat, entretiens avec Philippe Descola et Bruno Latour par Pauline Julier"
+  Language: "English / German"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© Centre Culturel Suisse. All rights reserved."
 gallery:
   - 
     url: >
@@ -79,7 +79,7 @@ Naturalis Historia
 
 ----
 
-Uuid: m7pagM948FdMiLhL
+Uuid: eowO7AgLC6iJn9Lc
 
 ----
 

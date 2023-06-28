@@ -13,13 +13,13 @@ description: |
   <p>The Norwegian-German artist Yngve Holen (b. 1982; lives and works in Oslo and Berlin) uses sculpture and imaging processes to grapple with means of transportation, technologies, and the human body. In the aerospace industry, foreign object debris (FOD) is the umbrella term for objects found in inappropriate places where they may cause damage. The dislocation of an object is more relevant in this perspective than its other inherent qualities. Holen harnesses the concept to isolate familiar objects from their assigned contexts and their positions in the industry. In his staging, sculptures, machine components, and other industrial products meander between the man-machine complex and the body-spirit paradigm: ordinary objects become strange, charged with a striking sculptural quality that would seem to reveal the object’s organic or even humanoid presence.</p>
   <p>The publication documents Holen’s first solo exhibition in China and features over thirty new works the artist created for the presentation at the X Museum, Beijing. With essays by Poppy Dongxue Wu, Ida Eritsland and Timo Feldhaus.</p>
 details: |
-  ISBN: 3954764495 / 978-3954764495
-  Content: 192 pages
-  Size: 200 × 270 mm
-  Language: English / Chinese
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / X Museum. All rights reserved.
+  ISBN: "3954764495 / 978-3954764495"
+  Content: "192 pages"
+  Size: "200 × 270 mm"
+  Language: "English / Chinese"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / X Museum. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Foreign Object Debris
 
 ----
 
-Uuid: iXsOkoXiFemF6EoY
+Uuid: pKfJLfv1z1IWVslN
 
 ----
 

@@ -11,14 +11,14 @@ author:
   id: 268
 description: '<p>Appearing alongside the eponymous exhibition at the Haus der Kunst in Munich, this book gathers together over 30 artists and writers to connect historical perspectives on and contemporary struggles for radical social emancipation. Its premise is sweat – a sign of both attraction and struggle, a residue of physical vitality, and a modulator of temperature that both enlivens the senses and smooths the friction among conjugating bodies. Including new commissions and groundbreaking works from the 1970s and ’80s, these sensual acts help to materialise narratives which have been silenced or rendered invisible, focusing on a politics and poetics of bodies without shame.</p>'
 details: |
-  ISBN: 3947858286 / 978-3947858286
-  Content: 286 pages
-  Size: 170 × 240 mm
-  Authors: Raphael Fonseca, Anna Schneider
-  Language: German, English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / K Verlag. All rights reserved.
+  ISBN: "3947858286 / 978-3947858286"
+  Content: "286 pages"
+  Size: "170 × 240 mm"
+  Authors: "Raphael Fonseca, Anna Schneider"
+  Language: "German, English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / K Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -35,7 +35,7 @@ Raphael Fonseca & Anna Schneider
 
 ----
 
-Uuid: NIgnYrbIdYUxL47z
+Uuid: ZWB0ZHQlzbPIO2tb
 
 ----
 

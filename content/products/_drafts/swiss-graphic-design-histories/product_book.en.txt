@@ -14,18 +14,18 @@ description: |
   <br />
   In three volumes it features visual artefacts and archival documents, the majority published here for the first time, alongside likewise previously unpublished conversations with designers who have forged developments of the past decades, as well as new essays discussing key terms that refer to various design practices. The complexity of the undertaking is embraced through a system of keywords, thus enabling readers to connect contents within the individual volumes. A fourth volume comprising a glossary, bibliography, and an index of the keywords rounds out this long-awaited new survey of graphic design in multi-lingual Switzerland that sheds new light at networks, practices and media largely ignored so far.</p>
 details: |
-  ISBN: 3858818683 / 978-3858818683
-  Content: 814 pages
-  Size: 240 × 165 × 54 mm
-  Language: English
-  Editors: Davide Fornari, Lausanne (CH); Robert Lzicar, Bern (CH);
+  ISBN: "3858818683 / 978-3858818683"
+  Content: "814 pages"
+  Size: "240 × 165 × 54 mm"
+  Language: "English"
+  Editors: "Davide Fornari, Lausanne (CH); Robert Lzicar, Bern (CH);
   Sarah Owens, Zürich (CH); Michael Renner, Basel (CH);
-  Arne Scheuermann, Bern (CH); Peter J. Schneemann, Bern (CH)
-  Publication: 2021
-  Design: Simone Farner, Naima Schalcher
-  Specs: Hardcover, Slipcase
+  Arne Scheuermann, Bern (CH); Peter J. Schneemann, Bern (CH)"
+  Publication: "2021"
+  Design: "Simone Farner, Naima Schalcher"
+  Specs: "Hardcover, Slipcase
   
-  Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+  Images: "© WELTKERN® / Scheidegger & Spiess. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ Multilinetitle: Swiss Graphic Design Histories
 
 ----
 
-Uuid: 9C1Uhynka4U8F44j
+Uuid: iqdyq3B62X8AXEd1
 
 ----
 

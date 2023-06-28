@@ -17,15 +17,15 @@ description: |
   <br />
   <em>Art Décor</em> delves into the rich legacy of pictures Bob Steffen left behind, exploring the kaleidoscopic facets of his life. It brings back to life the forgotten art of window-dressing as well as artists&#8217; masquerade balls, a forgotten world of the 1950s and &#8217;60s, and follows Bob on his world travels. The portraits of the born poser become a springboard for musings on the nature of posing. His affair with an Afro-American ballet dancer leads us to the remarkable history of Afro-American dance companies in Europe before and after World War II. His life is retraced in interviews and collaged snippets of conversations. Art Décor is a potpourri as lavish as Bob Steffen&#8217;s store windows.</p>
 details: |
-  ISBN: 3906803500 / 978-3906803500
-  Content: 250 pages
-  Size: 260 × 10 × 360 mm
-  Author: Veronika Minder
-  Design: Krispin Heé
-  Language: German
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803500 / 978-3906803500 "
+  Content: "250 pages"
+  Size: "260 × 10 × 360 mm"
+  Author: "Veronika Minder"
+  Design: "Krispin Heé"
+  Language: "German"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -66,7 +66,7 @@ Art Décor
 
 ----
 
-Uuid: KaY0NV8JqAQ5HfR0
+Uuid: lcsbCxe0qcCU99gT
 
 ----
 

@@ -11,12 +11,12 @@ author:
   id: 304
 description: '<p>Self Service magazine is a Paris-based fashion and culture biannual. The publication always makes fashion photography a work of art, capturing couture in surprising scenes. Perhaps a top-brand hoodie on an unmade bed, or a matching ecru blouse and shorts in front of a schoolhouse chalkboard, and even graphic pink floral trousers against a red taffeta curtain. Indeed, this edition lets the photographers, the models, and the designs do all the talking. Special to this issue is a portfolio called “Initiated Dialogs”, in which 11 esteemed creative minds nominated young and promising talent that are transforming industry norms and challenging dysfunctional consumerism.</p>'
 details: |
-  Content: 516 pages
-  Size: 230 × 300 mm
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Self Service Magazine. All rights reserved.
+  Content: "516 pages"
+  Size: "230 × 300 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Self Service Magazine. All rights reserved."
 gallery:
   - 
     url: >
@@ -33,7 +33,7 @@ Issue #54
 
 ----
 
-Uuid: YcJSbQvf2SOfhOeo
+Uuid: wYG8w6Z0jw7DNsIo
 
 ----
 

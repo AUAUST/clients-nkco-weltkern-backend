@@ -12,14 +12,14 @@ author:
   id: 87
 description: '<p>The first French edition of the theoretical dialogue of the Italian architect and engraver Giovanni Battista Piranesi (1720-1778), one of the most radical texts in the history of modern architectural theory.</p>'
 details: |
-  ISBN: 2493283047 / 978-2493283047
-  Content: 96 pages
-  Size: 105 × 150 mm
-  Design: Spassky Fischer
-  Language: French
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Cosa Mentale. All rights reserved.
+  ISBN: "2493283047 / 978-2493283047"
+  Content: "96 pages"
+  Size: "105 × 150 mm"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -52,7 +52,7 @@ Point de vue sur l'architecture
 
 ----
 
-Uuid: 78ZHtnyNoB6dwMD1
+Uuid: 0u9x2J9zYaKEto9Q
 
 ----
 

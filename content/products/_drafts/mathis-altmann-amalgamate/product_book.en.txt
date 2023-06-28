@@ -11,14 +11,14 @@ author:
   id: 231
 description: '<p>Mathis Altmann (b. 1987 in Munich, lives and works in Los Angeles and Zurich) belongs to a generation of artists whose work is characterised by a strong socio-critical awareness. His installations torpedo the illusion of a glamorous and carefree world by allowing viewers to look behind appearances. Altmann creates contrasting scenarios from consumer goods, everyday objects, waste and building materials. It is a subtle play with the traditions of assemblage and collage, which in terms of content is accompanied by the representation of a disparate world. The works are based on themes such as abundance, consumption, functionality and superficiality. The conditions for creative digital work in the environment of an accelerated and globalised urban everyday life are particularly important to him. He does not oppose the complexity of the world by simplification, but by exaggerating the abundance of information in a theatrical way to the point of grotesqueness, thus creating a complex interweaving of fragments of content and form that play with ambiguities, controversies and incompatibilities. Mathis Altmann was awarded the 12th Manor Art Prize of the Canton of Zurich.</p>'
 details: |
-  ISBN: 1280579041 / 979-1280579041
-  Content: 128 pages
-  Size: 210 × 270 mm
-  Design: Dan Solbach
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / ‎Lenz Press. All rights reserved.
+  ISBN: "1280579041 / 979-1280579041"
+  Content: "128 pages"
+  Size: "210 × 270 mm"
+  Design: "Dan Solbach"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ‎Lenz Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -51,7 +51,7 @@ Amalgamate
 
 ----
 
-Uuid: bmWviAMaKdXLzE0u
+Uuid: X2IYEV8IwKKq06de
 
 ----
 

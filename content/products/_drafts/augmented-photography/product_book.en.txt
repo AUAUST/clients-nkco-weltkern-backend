@@ -16,16 +16,16 @@ description: |
   The publication presents also productions done by the Master&#8217;s students during practical exercises throughout the 2016-2017 academic year, together with a selection of representative works.<br />
   Workshop &#038; Projets includes Thomas Traum, Joe Hamilton, Letha Wilson &#038; Ethan Greenbaum, Rachel de Joode, Anne de Vries, and Thibault Brevet.</p>
 details: |
-  ISBN: 2970115748 / 978-2970115748
-  Content: 206 pages
-  Size: 200 × 252 mm
-  Language: English
-  Edited by: Milo Keller, Joël Vacheron, Maxime Guyon.
-  Graphic design: Frederik Mahler-Andersen
-  Contributions by: Marco de Mutiis, Nicolas Nova, Maxime Guyon, Joël Vacheron, Claus Gunti, Estelle Blaschke, Milo Keller, Harm van der Dorpel & William Kherbek, It's Our Playground, Ann-Christin Bertrand, Kim Knoppers, interviews with Timur Si-Qin, Asger Carlsen, Chris Wiley, Joe Hamilton, DIS, Ethan Greenbaum, Ultraviolet Production House, Letha Wilson, Michael Bussel, Travess Smalley.
-  Publishing date: 2018
-  Specs: Softcover, Dust jacket
-  Images: © WELTKERN® / ECAL. All rights reserved.
+  ISBN: "2970115748 / 978-2970115748"
+  Content: "206 pages"
+  Size: "200 × 252 mm"
+  Language: "English"
+  Edited by: "Milo Keller, Joël Vacheron, Maxime Guyon."
+  Graphic design: "Frederik Mahler-Andersen"
+  Contributions by: "Marco de Mutiis, Nicolas Nova, Maxime Guyon, Joël Vacheron, Claus Gunti, Estelle Blaschke, Milo Keller, Harm van der Dorpel & William Kherbek, It's Our Playground, Ann-Christin Bertrand, Kim Knoppers, interviews with Timur Si-Qin, Asger Carlsen, Chris Wiley, Joe Hamilton, DIS, Ethan Greenbaum, Ultraviolet Production House, Letha Wilson, Michael Bussel, Travess Smalley."
+  Publishing date: "2018"
+  Specs: "Softcover, Dust jacket"
+  Images: "© WELTKERN® / ECAL. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Multilinetitle: Augmented Photography
 
 ----
 
-Uuid: 2QDcE8NfurDMILl4
+Uuid: tm85LoBOXNhmuPBv
 
 ----
 

@@ -11,13 +11,13 @@ author:
   id: 92
 description: '<p>Peter Fischli and David Weiss are highly prestigious contemporary artists, positioned at the very cutting edge of new art, who work collaboratively on sculpture, photography and video. This is the first time they have agreed to the publication of a monograph on their work.</p>'
 details: |
-  ISBN: 0714843237 / 978-0714843230
-  Content: 160 pages
-  Size: 250 × 290 mm
-  Language: English
-  Publishing date: 2005
-  Specs: Softcover
-  Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: "0714843237 / 978-0714843230"
+  Content: "160 pages"
+  Size: "250 × 290 mm"
+  Language: "English"
+  Publishing date: "2005"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -31,7 +31,7 @@ Multilinetitle: Peter Fischli & David Weiss
 
 ----
 
-Uuid: PxIBTACS0loUvkVT
+Uuid: QffE7i0cO6j1KMFw
 
 ----
 

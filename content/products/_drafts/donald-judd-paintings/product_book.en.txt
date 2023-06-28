@@ -14,16 +14,16 @@ description: |
   <br />
   Donald Judd remains an important artist, whose radical ideas and work continue to provoke and influence the fields of art, architecture, and design. This book focuses on one of his first mature series of work, during an intense period when he was significantly moving away from accepted traditional styles through investigations of form and color. Featuring texts by renowned art historians and critics, Donald Judd: Paintings 1959-61 presents new scholarship on this canonical artist and demonstrates his ongoing influence.</p>
 details: |
-  ISBN: 3791357549 / 978-3791357546
-  Content: 136 Pages
-  Size: 220 × 18 × 258 mm
-  Artist: Donald Judd
-  Authors: Alex Gartenfeld, Falvin Judd, Kirsten Swenson, Alex Kitnick, Ellen Salpeter
-  Contributions from : Eileen Myles, Thomas Crow, David Joselit
-  Language: English
-  Publishing date: 2019
-  Specs: Hardcover
-  Images: © WELTKERN® / Prestel / ICA (icamiami.org). All rights reserved.
+  ISBN: "3791357549 / 978-3791357546"
+  Content: "136 Pages"
+  Size: "220 × 18 × 258 mm"
+  Artist: "Donald Judd"
+  Authors: "Alex Gartenfeld, Falvin Judd, Kirsten Swenson, Alex Kitnick, Ellen Salpeter"
+  Contributions from : "Eileen Myles, Thomas Crow, David Joselit"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Prestel / ICA (icamiami.org). All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Paintings
 
 ----
 
-Uuid: PTB1kmrzIoTzmGo2
+Uuid: SwsnAlXFPPoASjN1
 
 ----
 

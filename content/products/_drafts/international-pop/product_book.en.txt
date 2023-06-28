@@ -13,13 +13,13 @@ description: |
   <p>This dynamic new volume is the first major survey to chronicle the emergence and migration of Pop art from an international perspective, focusing on the period from the 1950s through the early 1970s. Including original texts from a diverse roster of contributors, this catalogue provides important new scholarship on the period, examining production by artists across the globe who were simultaneously confronting radical cultural and political developments that would lay the foundation for the emergence of an art form embracing figuration, media strategies and mechanical processes with a new spirit of urgency and/or exuberance. International Pop amplifies the scope and tenor of what we understand to be &#8220;Pop,&#8221; exposing the tremendous variety and complexity of this pivotal period and subject matter, and revealing how artists alternatively celebrated, cannibalized, rejected or assimilated some of the presumed qualities of Pop advanced in the US and Britain.</p>
   <p>Anchored by an expansive 48-page visual chronology, the book features in-depth essays by a range of scholars examining developments in Britain, Japan, Brazil, Argentina, Italy and Hungary as well as Western Europe and the US. The volume includes some 320 illustrations, including full-color plates of each work in the exhibition, which integrates many classics of Pop art with numerous rarely seen works. Among the artists included are Evelyne Axel, Peter Blake, Raymond Colares, Antônio Dias, Rosalyn Drexler, Erró, León Ferrari, Richard Hamilton, David Hockney, Jasper Johns, Tanaami Keiichi, Yves Klein, Jirí Kolár, Yayoi Kusama, Nelson Leirner, Ana Maria Maiolino, Antonio Manuel, Marisol, Marta Minujín, Claes Oldenburg, Wanda Pimentel, Michaelangelo Pistoletto, Sigmar Polke, Gerhard Richter, Mimmo Rotella, Ed Ruscha, Niki de Saint Phalle, Okamoto Shinjiro, Yokoo Tadanori, Wayne Thiebaud, Jean Tinguely, Shinohara Ushio and Andy Warhol.</p>
 details: |
-  ISBN: 1935963080 / 978-1935963080
-  Content: 398 pages
-  Size: 238 × 43 × 304 mm
-  Edited by: Darsie Alexander, Bartholomew Ryan. Text by Godfre Leung, Darsie Alexander, Maria Jose Herrera, Claudia Calirman, Erica Battle, Dávid Fehér, Luigia Lonardelli, Hiroko Ikegami, Ed Halter, Charlotte Cotton, Martin Harrison, Tomáš Pospiszyl.
-  Language: English
-  Publishing date: 2015
-  Images: © WELTKERN® / Walker Art Centre. All rights reserved.
+  ISBN: "1935963080 / 978-1935963080"
+  Content: "398 pages"
+  Size: "238 × 43 × 304 mm"
+  Edited by: "Darsie Alexander, Bartholomew Ryan. Text by Godfre Leung, Darsie Alexander, Maria Jose Herrera, Claudia Calirman, Erica Battle, Dávid Fehér, Luigia Lonardelli, Hiroko Ikegami, Ed Halter, Charlotte Cotton, Martin Harrison, Tomáš Pospiszyl."
+  Language: "English"
+  Publishing date: "2015"
+  Images: "© WELTKERN® / Walker Art Centre. All rights reserved."
 gallery:
   - 
     url: >
@@ -33,7 +33,7 @@ Multilinetitle: International Pop
 
 ----
 
-Uuid: 4h0h3GhmBPYHpib2
+Uuid: rDgY93ikozGjtpTg
 
 ----
 

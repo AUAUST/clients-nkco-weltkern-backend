@@ -17,14 +17,14 @@ description: |
   <p>This book includes landmark editorials with nearly every important fashion label of the era and celebrities from Kate Moss to Charlotte Rampling and Kurt Cobain to Yves Saint Laurent. Outtakes of iconic shoots (including infamous ones with Courtney Love, Cindy Sherman, Marc Jacobs, Victoria Beckham, and Björk) that have never been published will be included in this volume.</p>
   <p>Teller first broke into fashion in 1996 with a magazine cover of a naked Kristen McMenamy with the word Versace scrawled across her chest. Since then, his fashion photography has been featured in all the international Vogues, AnOther Magazine, Index, Self-Service, W, Details, Purple, i-D, and 032c, among others. A highly sought-after cult hero and the author of many iconic campaigns, Teller has collaborated with the likes of Helmut Lang, Raf Simons, Hedi Slimane, Nicolas Ghesquière, Phoebe Philo, Vivienne Westwood, Miuccia Prada, and Isabel Marant, and shot every season of Marc Jacobs’s ready-to-wear collections from 1998 to 2014. </p>
 details: |
-  ISBN: 0847870776 / 978-0847870776
-  Content: 608 pages
-  Size: 285 × 45 × 221 mm
-  Author: Juergen Teller is a German fine-art and fashion photographer.
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Rizzoli. All rights reserved.
+  ISBN: "0847870776 / 978-0847870776"
+  Content: "608 pages"
+  Size: "285 × 45 × 221 mm"
+  Author: "Juergen Teller is a German fine-art and fashion photographer."
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Donkey Man and Other Stories
 
 ----
 
-Uuid: qpBxtyahoVezjSp5
+Uuid: DnRdQvg6pSE0U7qs
 
 ----
 

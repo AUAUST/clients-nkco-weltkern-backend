@@ -11,13 +11,13 @@ author:
   id: 378
 description: '<p>Artists have long been inspired by children—by their imagination, creativity and unique ways of seeing and being in the world—and have made work that depicts and involves children as collaborators, that represents or mimics their ways of drawing or telling stories, that highlights their unique cultures, and that addresses ideas of innocence and spontaneity closely associated with children. To Begin Again: Artists and Childhood surveys how artists have reflected on and contributed to notions of childhood from the early 20th century to the present. The works in To Begin Again offer distinctive viewpoints and experiences, revealing how time and place, economics and race, and representation and aesthetics fundamentally shape how we experience and understand early development. The catalog underscores that while there is no single, uniform idea of childhood, it is nevertheless the ground upon which so much of society is built, negotiated and imagined.</p>'
 details: |
-  ISBN: 1636810706 / 978-1636810706
-  Content: 280 pages
-  Size: 240 × 170 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / ‎Delmonico Books. All rights reserved.
+  ISBN: "1636810706 / 978-1636810706"
+  Content: "280 pages"
+  Size: "240 × 170 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ‎Delmonico Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -34,7 +34,7 @@ Artists and Childhood
 
 ----
 
-Uuid: JvJVbc0leIlQuQMW
+Uuid: rIQ8eDDPq5ya9B0i
 
 ----
 

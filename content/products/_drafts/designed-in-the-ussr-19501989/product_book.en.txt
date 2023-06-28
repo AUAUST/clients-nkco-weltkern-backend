@@ -11,14 +11,14 @@ author:
   id: 92
 description: '<p>This captivating survey of Soviet design from 1950 to 1989 features more than 350 items from the Moscow Design Museum&#8217;s unique collection. From children&#8217;s toys, homewares, and fashion to posters, electronics, and space-race ephemera, each object reveals something of life in a planned economy during a fascinating time in Russia&#8217;s history. Organized into three chapters &#8211; Citizen, State, and World &#8211; the book is a micro-to-macro tour of the functional, kitsch, politicized, and often avant-garde designs from this largely undocumented period.</p>'
 details: |
-  ISBN: 0714875570 / 978-0714875576
-  Content: 240 pages
-  Size: 213 × 32 × 286 mm
-  Author: The Moscow Design Museum
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © Phaidon Press. All rights reserved.
+  ISBN: "0714875570 / 978-0714875576"
+  Content: "240 pages"
+  Size: "213 × 32 × 286 mm"
+  Author: "The Moscow Design Museum"
+  Language: "English "
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,7 +55,7 @@ Designed in the USSR
 
 ----
 
-Uuid: 3S9E1qoF5gwYWD6Q
+Uuid: 49qOn6E4mYICiJXa
 
 ----
 

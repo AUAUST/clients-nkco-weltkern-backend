@@ -15,15 +15,15 @@ description: |
   <br />
   <em>New York City Transit Authority: Objects</em> is a story told through the evolving design that spans decades of the city&#8217;s history. Kelley&#8217;s objects tell a greater story of New York&#8217;s past. For him, The NYCTA Project remains a photography experiment and self-funded hobby, archiving the culture of his home city. For the reader, it&#8217;s an intimate view of the city&#8217;s history that merges design and infrastructure over the past 150 years.</p>
 details: |
-  ISBN: 0692902554 / 978-0692902554
-  Content: 356 pages
-  Size: 254 × 33 × 254 mm
-  Authors: Jesse Reed, Hamish Smyth
-  Design: Order
-  Language: English
-  Publishing date: 2017
-  Specs: Hardcover
-  Images: © Standards manual. All rights reserved.
+  ISBN: "0692902554 / 978-0692902554"
+  Content: "356 pages"
+  Size: "254 × 33 × 254 mm"
+  Authors: "Jesse Reed, Hamish Smyth"
+  Design: "Order"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Hardcover"
+  Images: "© Standards manual. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,7 +60,7 @@ Objects
 
 ----
 
-Uuid: 6oUbTW4N3JuSB1Lu
+Uuid: HTllzeeyecVyZUs0
 
 ----
 

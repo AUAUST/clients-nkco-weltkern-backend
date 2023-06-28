@@ -16,17 +16,17 @@ description: |
   <br />
   <em>Design Dedication</em> explores these approaches through statements from within and reaches out to design students, designers, artists and teachers who are open to questioning their own practices and reformulating values in design education in the face of an unpredictable tomorrow.</p>
 details: |
-  ISBN: 9492095734 / 978-9492095732
+  ISBN: "9492095734 / 978-9492095732
   
-  Content: 192 Pages
-  Size: 170 × 15 × 235 mm
-  Edited by: Annelys de Vet
-  Contributions from: Hannes Bernard, Michèle Champagne, Pinar Demirdag, Liesbeth Fit, Rana Ghavami, Anja Groten, Agata Jaworska, Anastasia Kubrak, Sherida Kuffour
-  Design: Tessa Meeus, Alex Walker
-  Language: English
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / Valiz / De Monsterkamer (monsterkamer.nl). All rights reserved.
+  Content: "192 Pages"
+  Size: "170 × 15 × 235 mm"
+  Edited by: "Annelys de Vet"
+  Contributions from: "Hannes Bernard, Michèle Champagne, Pinar Demirdag, Liesbeth Fit, Rana Ghavami, Anja Groten, Agata Jaworska, Anastasia Kubrak, Sherida Kuffour"
+  Design: "Tessa Meeus, Alex Walker"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Valiz / De Monsterkamer (monsterkamer.nl). All rights reserved."
 gallery:
   - 
     url: >
@@ -67,7 +67,7 @@ Adaptive Mentalities in Design Education
 
 ----
 
-Uuid: sP8wmS5Wl9isOFcS
+Uuid: H4wlInU9zsFI63GO
 
 ----
 

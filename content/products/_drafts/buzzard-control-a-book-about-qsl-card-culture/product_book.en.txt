@@ -11,13 +11,13 @@ author:
   id: 379
 description: '<p>The great thing about radio, people who love radio say, is that the pictures are all in your head. Radio history is usually about broadcasters and audiences, but QSL cards chronicle a different culture: the two-way world of Citizen’s Band radio.‘QSL?’ means ‘Do you receive me?’ and ‘QSL’ means ‘I receive you’. The first Q-card was sent from Buffalo, New York, in 1916. For decades the cards became a social medium for amateur radio enthusiasts. CB aficionados could use the blank sides of QSL cards like classified ads, to promote services, CB clubs and societies. The images in this book are from the QSL card collection of Antoine Horfee, assembled as a novice’s celebration of the QSL card. Inside Buzzard Control, the pictures are now all in your hands.</p>'
 details: |
-  ISBN: 1916168640 / 978–1916168640
-  Content: 272 pages
-  Size: 185 × 225 mm
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+  ISBN: "1916168640 / 978–1916168640"
+  Content: "272 pages"
+  Size: "185 × 225 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ‎Topsafe. All rights reserved."
 gallery:
   - 
     url: >
@@ -54,7 +54,7 @@ A Book About QSL card culture
 
 ----
 
-Uuid: yrxg6asSjWgllqoJ
+Uuid: 7GJCapn88lHuldrf
 
 ----
 

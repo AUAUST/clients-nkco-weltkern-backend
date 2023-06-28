@@ -15,13 +15,13 @@ description: |
   <p>Founded in 2014 by the design ingenue Harry Nuriev, Crosby Studios is one of the buzziest furniture, interior design, lifestyle, and architecture brands of this day and age. With instantly recognizable viral pieces, Crosby Studios is behind some of today’s most original interiors that exude aspirational fantasy, conceptual artistry, and effortless cool—as well as being at the forefront of the metaverse revolution.</p>
   <p>Presenting Crosby Studios’ most popular interiors and newest metaverse spaces, this original volume is a must-have reference for the firm’s myriad fans. From private residences and commercial venues to daring creations specifically designed for the metaverse, the featured projects showcase all aspects of Nuriev’s signature style: monochromatic touches of bold colors that enliven interiors along with his original blend of Eastern European–inspired design and contemporary references to the digital world. A vibrant publication that celebrates one of the most enthralling names working in design today, this book is bound to appeal to interiors and digital enthusiasts everywhere.</p>
 details: |
-  ISBN: 0847872589 / 978-0847872589
-  Content: 288 pages
-  Size: 248 × 300 mm
-  Language: English
-  Publishing date: 2023
-  Specs: Hardcover
-  Images: © WELTKERN ® / Rizzoli Publications. All rights reserved.
+  ISBN: "0847872589 / 978-0847872589"
+  Content: "288 pages"
+  Size: "248 × 300 mm"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -38,7 +38,7 @@ From Interior Design to the Future of Design
 
 ----
 
-Uuid: h1mbVq2YqdnisIm5
+Uuid: F0DCiMZEm1KvttxY
 
 ----
 

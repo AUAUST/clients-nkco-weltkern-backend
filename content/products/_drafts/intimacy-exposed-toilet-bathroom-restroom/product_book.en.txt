@@ -14,14 +14,14 @@ description: |
   <p>The analysis of sanitary spaces and places dedicated to personal care, as in a privacy observatory, helps with the in-depth assessment of social changes, allowing us to determine how the lives of users can be improved, how conflicts of use in public places can be resolved between populations of different sexes and ages, and how the quality of public and private health can be enhanced. Observing these issues pushes us to explore the forms and meanings of bathrooms and private spaces in relation to their different functions, including those of transgressive and informal meeting places and spaces of inevitable and forced social coexistence. This book constitutes a new step in this field of research, presenting a series of scientific and artistic interventions that proves the diverse range of uses to which ”wet rooms“ can be put in social life, the evolution of the use of furniture, and the new meanings of details and objects in domestic bathrooms and public toilets.</p>
   <p>The texts, largely written for the 2018 symposium Intimacy Exposed: Toilet, Bathroom, Restroom (organized by the Department of Interior Architecture at HEAD – Genève) present a practice-based study of the recent past of modernist technologies and a vision of the future of personal and collective practices regarding the realm of the toilet. </p>
 details: |
-  ISBN: 3959055833 / 978-3959055833
-  Content: 110 pages
-  Size: 230 × 300 mm
-  Design: Elias Erkan
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: "3959055833 / 978-3959055833"
+  Content: "110 pages"
+  Size: "230 × 300 mm"
+  Design: "Elias Erkan"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,7 +62,7 @@ Toilet, Bathroom, Restroom
 
 ----
 
-Uuid: Ck0Ai1cEzbEK53ab
+Uuid: V9AFIdvAfZjtAX6s
 
 ----
 

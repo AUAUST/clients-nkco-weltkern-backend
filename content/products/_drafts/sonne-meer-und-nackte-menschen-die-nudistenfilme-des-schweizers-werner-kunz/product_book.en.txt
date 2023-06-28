@@ -17,14 +17,14 @@ description: |
   <p>In this first in-depth exploration of the forgotten Swiss film pioneer Werner Kunz, Zurich film scholar Matthias Uhlmann recaps the production, marketing and reception of Kunz’s extant oeuvre. This thoroughly researched monograph features summaries of the contents and a great many stills from his two dozen nudist films (including four feature-length motion pictures), as well as a rich variety of visual material from the director&#8217;s private archive. In interviews conducted by the author, the pioneer of sexual liberation in international film, the &#8220;godfather of all that stuff&#8221;, tells his own story.</p>
   <p>With a conversation between Edouard (Edi) Stöckli and Patrick Frey in English and German.</p>
 details: |
-  ISBN: 3907236444 / 978-3907236444
-  Content: 303 pages
-  Size: 330 × 240 mm
-  Design: Manu Beffa
-  Language: German
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236444 / 978-3907236444"
+  Content: "303 pages"
+  Size: "330 × 240 mm"
+  Design: "Manu Beffa"
+  Language: "German"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -73,7 +73,7 @@ Die Nudistenfilme des Schweizers Werner Kunz
 
 ----
 
-Uuid: itqzTwx15lkjEygR
+Uuid: 4SytSelmPmHpf4NN
 
 ----
 

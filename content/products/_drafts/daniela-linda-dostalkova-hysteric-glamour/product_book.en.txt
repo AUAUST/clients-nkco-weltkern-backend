@@ -12,15 +12,15 @@ author:
   id: 105
 description: '<p><em>Hysteric Glamour</em> is a two-act eco-drama that proposes a post-traumatic, authentic way of knowing and caring for nature that requires a radical reconstruction of our idea of love. Displayed narratives, in their distinct ways, emphasize the shift from heroic to holistic ethics. The book presents two distinct works (one video piece and one photo essay) conceived between 2016–2017. It is offered as an 80pp board book with a hinged spine and an ultra high gloss finish.</p>'
 details: |
-  ISBN: ‎0993223860 / 978-0993223860
-  Content: 80 Pages
-  Size: 170 × 25 × 240 mm
-  Authors: Daniela & Linda Dostálková
-  Design: OK-RM
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © WELTKERN® / InOtherWords / North East (northeastshop.com). All rights reserved.
+  ISBN: "‎0993223860 / 978-0993223860"
+  Content: "80 Pages"
+  Size: "170 × 25 × 240 mm"
+  Authors: "Daniela & Linda Dostálková"
+  Design: "OK-RM"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / InOtherWords / North East (northeastshop.com). All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Hysteric Glamour
 
 ----
 
-Uuid: G4sWBDOaDQDkC1BH
+Uuid: gT4YINPBA4p3RZWg
 
 ----
 

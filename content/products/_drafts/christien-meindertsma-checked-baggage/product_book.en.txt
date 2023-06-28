@@ -11,13 +11,13 @@ author:
   id: 359
 description: '<p>‘Checked Baggage’ is the first of two graduation projects by Christien Meindertsma for Design Academy Eindhoven. The book is an exhaustive catalogue of all the items confiscated from travellers in a one-week period at Amsterdam’s Schiphol Airport. Everything from cutlery, boxcutters, and pocket knives, to hairdressers’ scissors, wrenches, and nail clippers were among the items seized and later photographed in taxonomic arrangements for the book. Meindertsma captures the strangeness of this situation – the confiscation of sometimes very personal items at a time of heightened security. Each limited edition copy comes packaged with an actual item confiscated at the airport.</p>'
 details: |
-  ISBN: 4990717377 / 978-4990717377
-  Content: 335 pages
-  Size: 140 × 200 mm
-  Language: English / Japanese
-  Publication: 2022
-  Specs: Paperback
-  Images: © WELTKERN® / Thomas Eyck. All rights reserved.
+  ISBN: "4990717377 / 978-4990717377"
+  Content: "335 pages"
+  Size: "140 × 200 mm"
+  Language: "English / Japanese"
+  Publication: "2022"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Thomas Eyck. All rights reserved."
 gallery:
   - 
     url: >
@@ -34,7 +34,7 @@ Checked Baggage
 
 ----
 
-Uuid: ehQcryYt699tITGT
+Uuid: EiPramrTWCdLY5en
 
 ----
 

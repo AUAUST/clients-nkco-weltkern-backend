@@ -11,14 +11,14 @@ author:
   id: 111
 description: '<p>Of Course I&#8217;m Not Sorry is a colorful and lively journey through Tyra Tingleff&#8217;s artistic practice. Accompanied by her titles—intimate personal notes with the capacity to speak to all of us—the featured images offer a poetic commentary on conflicting emotions.</p>'
 details: |
-  ISBN: 8867494903 / 978-8867494903
-  Content: 160 pages
-  Size: 190 × 265 mm
+  ISBN: "8867494903 / 978-8867494903"
+  Content: "160 pages"
+  Size: "190 × 265 mm
   
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / Mousse. All rights reserved.
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Mousse. All rights reserved."
 gallery:
   - 
     url: >
@@ -35,7 +35,7 @@ Of Course I'm Not Sorry
 
 ----
 
-Uuid: MnmywvqRoKwqFSg5
+Uuid: ZRwwrpjjK8aMRNip
 
 ----
 

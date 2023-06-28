@@ -16,14 +16,14 @@ description: |
   <br />
   Known as much for its irreverent and iconoclastic spirit as it is for its commitment to design and quality, Supreme&#8217;s products have become as recognizable and coveted as those from the world&#8217;s top luxury brands-this book is no exception.</p>
 details: |
-  ISBN: 1838660314 / 978-1838660314
-  Content: 352 pages
-  Size: 235 × 38 × 295 mm
-  Author: Supreme
-  Language: English
-  Publishing date: 2020
-  Specs: Hardcover
-  Images: © Phaidon Press. All rights reserved.
+  ISBN: "1838660314 / 978-1838660314"
+  Content: "352 pages"
+  Size: "235 × 38 × 295 mm"
+  Author: "Supreme"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Multilinetitle: Supreme
 
 ----
 
-Uuid: vdTpoXv4abwTdvLb
+Uuid: XRMP1Jn2wvXE1luW
 
 ----
 

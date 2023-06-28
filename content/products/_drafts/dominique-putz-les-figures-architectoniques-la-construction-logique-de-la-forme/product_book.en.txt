@@ -18,16 +18,16 @@ description: |
   <br />
   This will lead us to question the nature of the founding principles and the systems that express them, and to search for them in the intentions that are embodied in architecture through the intermediary of figures and derive their rightful expression. It is in this perspective that this research will approach the deciphering of the form of buildings, cities and landscapes.</p>
 details: |
-  ISBN: 2491039079 / 978-2491039073
-  Content: 256 pages
-  Size: 110 × 20 × 210 mm
-  Author: Dominique Putz
-  Edited by: Simon Campedel
-  Design: Spassky Fischer
-  Language: French
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: "2491039079 / 978-2491039073"
+  Content: "256 pages"
+  Size: "110 × 20 × 210 mm"
+  Author: "Dominique Putz"
+  Edited by: "Simon Campedel"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,7 +64,7 @@ Les figures architectoniques: La construction logique de la forme
 
 ----
 
-Uuid: iTpTqX6V1rpgocl2
+Uuid: rW6APZer2Gq6jK7A
 
 ----
 

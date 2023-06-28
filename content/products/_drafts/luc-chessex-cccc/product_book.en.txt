@@ -11,13 +11,13 @@ author:
   id: 339
 description: '<p>Luc Chessex lived in Cuba from 1961 to 1975. As a member of the Prensa Latina agency and photo editor for the magazine Cuba internacional, he was an involved witness of the revolution. The Musée de l&#8217;Elysée is presenting four series of photographs from that time: Cherchez la Femme, Le Visage de la Révolution, Che and Coca.</p>'
 details: |
-  ISBN: 2883501041 / 978-2883501041
-  Content: 138 pages
-  Size: 185 × 285 mm
-  Language: English, French
-  Publication: 2014
-  Specs: Hardcover
-  Images: © WELTKERN® / Photo Elysée. All rights reserved.
+  ISBN: "2883501041 / 978-2883501041"
+  Content: "138 pages"
+  Size: "185 × 285 mm"
+  Language: "English, French"
+  Publication: "2014"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Photo Elysée. All rights reserved."
 gallery:
   - 
     url: >
@@ -34,7 +34,7 @@ CCCC
 
 ----
 
-Uuid: iwEmLN4jmHXbQoeI
+Uuid: rEbwfVNva6z7BsCf
 
 ----
 

@@ -14,16 +14,16 @@ description: |
   <br />
   This book presents an overview of his photographic work as well as a very personal record of the Swiss and European arts scene of the past sixty years. Edited by Barbara Stauss, it’s also a daughter’s tribute to her father on his 80th birthday.</p>
 details: |
-  ISBN: 3906803562 / 978-3906803562
-  Content: 448 pages
-  Size: 220 × 33 × 330 mm
-  Author: Niklaus Stauss
-  Edited by: Barbara Stauss
-  Design: Hanna Williamson-Koller
-  Language: German
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803562 / 978-3906803562"
+  Content: "448 pages"
+  Size: "220 × 33 × 330 mm"
+  Author: "Niklaus Stauss"
+  Edited by: "Barbara Stauss"
+  Design: "Hanna Williamson-Koller"
+  Language: "German"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,7 +60,7 @@ Foto
 
 ----
 
-Uuid: 7xkFwxLiybA4VY10
+Uuid: mOsQh5mOS1nXi0Ot
 
 ----
 

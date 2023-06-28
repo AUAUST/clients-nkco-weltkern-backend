@@ -11,15 +11,15 @@ author:
   id: 272
 description: '<p>“Chronos &#038; Kairos” is sculpture, memory and weight – a body held together by its sheets. The book consists of 512 pages with traces of graphite. Actions and repetitions in the here and now are expression and impression at the same time – a physical experience of writing, reading, seeing and of remembering. The drawing is not subject to any plan, only to the impulse. The process depicted dissolves the linearity of present and past. Thus there is no stable image, no reliability – instead there is a state of constant change. “Chronos &#038; Kairos” is a reflection on presence and existence and our subjective understanding of time and the other.</p>'
 details: |
-  ISBN: 3945900185 / 978-3945900185
-  Content: 512 Pages
-  Size: 240 × 40 × 240 mm
-  Artist: Julius Heinemann
-  Design: Lamm & Kirch
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Taube. All rights reserved.
+  ISBN: "3945900185 / 978-3945900185"
+  Content: "512 Pages"
+  Size: "240 × 40 × 240 mm"
+  Artist: "Julius Heinemann"
+  Design: "Lamm & Kirch"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Taube. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Chronos & Kairos
 
 ----
 
-Uuid: 0tQNehczOAcjqd0m
+Uuid: 8OFf9VGmNsf3bVT1
 
 ----
 

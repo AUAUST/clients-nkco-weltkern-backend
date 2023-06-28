@@ -15,16 +15,16 @@ description: |
   <br />
   Schramme am Himmel is an artistic collaboration between Alexander Kluge and Jonathan Meese, in which texts and images provide mutual inspiration and drive each other on.</p>
 details: |
-  ISBN: 3959055641 / 978-3959055642
-  Content: 344 pages
-  Size: 95 × 145 mm
-  Authors: Jonathan Meese, Alexander Kluge
-  Edited by: Spector Books
-  Design: Wolfgang Schwärzler
-  Language: German
-  Publishing date: 2022
-  Specs: Thread-sewn hardcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959055641 / 978-3959055642"
+  Content: "344 pages"
+  Size: "95 × 145 mm"
+  Authors: "Jonathan Meese, Alexander Kluge"
+  Edited by: "Spector Books"
+  Design: "Wolfgang Schwärzler"
+  Language: "German"
+  Publishing date: "2022"
+  Specs: "Thread-sewn hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Nachrichten vom Helden Hagen
 
 ----
 
-Uuid: 4FtRPsECuEz1UDRS
+Uuid: qFcXuqyP7hnc8Uoj
 
 ----
 

@@ -14,17 +14,17 @@ description: |
   <br />
   With printed media struggling to survive in the age of real-time digital news channels and social media, newspapers are forced to find new ways of storytelling. <em>American Readers at Home</em> also features new, personalised ways of recording and receiving news, highlighting their relation to personal experience and the context of readers&#8217; individual lives.</p>
 details: |
-  ISBN: 3858818096 / 978-3858818096
-  Content: 548 pages
-  Size: 240 × 28 × 330 mm
+  ISBN: "3858818096 / 978-3858818096"
+  Content: "548 pages"
+  Size: "240 × 28 × 330 mm
   
-  Author: Ludovic Balland
-  Introduction: Brice Matthieussent
-  Design: Ludovic Balland
-  Language: English
-  Publishing date: 2018
-  Specs: Paperback
-  Images: © Scheidegger & Spiess. All rights reserved.
+  Author: "Ludovic Balland"
+  Introduction: "Brice Matthieussent"
+  Design: "Ludovic Balland"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Paperback"
+  Images: "© Scheidegger & Spiess. All rights reserved."
 gallery:
   - 
     url: >
@@ -70,7 +70,7 @@ Multilinetitle: American Readers at Home
 
 ----
 
-Uuid: 2fRpwEqIaAhzw2Pu
+Uuid: p6iPbAArztXN11NG
 
 ----
 

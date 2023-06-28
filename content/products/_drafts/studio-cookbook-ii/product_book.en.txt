@@ -11,14 +11,14 @@ author:
   id: 330
 description: '<p>Studio Cookbook started off as a series of informal gatherings aiming to promote sociable lunches within different workspaces.</p>'
 details: |
-  ISBN: 1910239018 / 978-1910239018
-  Content: 64 pages
-  Size: 132 × 236 mm
+  ISBN: "1910239018 / 978-1910239018"
+  Content: "64 pages"
+  Size: "132 × 236 mm
   
-  Language: English
-  Publishing date: 2020
-  Specs: Softcover, Spiral bound
-  Images: © WELTKERN® / Hato Press. All rights reserved.
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover, Spiral bound"
+  Images: "© WELTKERN® / Hato Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -32,7 +32,7 @@ Multilinetitle: Studio Cookbook II
 
 ----
 
-Uuid: 5LZTzHTQa6I9NX2k
+Uuid: G09pKe0ZB4tsSzaj
 
 ----
 

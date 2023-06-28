@@ -14,17 +14,17 @@ description: |
   <p>Why do design? What is design for? In a world of dwindling natural resources, exhausted social and political systems, and an overload of information there are many urgent reasons to reimagine the design discipline, and there is a growing need to look at design education. Learning and unlearning should become part of an ongoing educational practice. We need new proposals for how to organize society, how to structure our governments, how to live with, not against, the planet, how to sift fact from fiction, how to relate to each other, and frankly, how to simply survive.</p>
   <p>Design as Learning asks: can design and design education provide these critical ideas and strategies? Interviewees include Åbäke (Maki Suzuki), Fabb (Burcu Biçer Saner, Efe Gözen), Navine G. Kahn-Dossos, Ebru Kurbak, Prototype Series (Mae-ling Lokko), Studio Folder (Marco Ferrari &#038; Elisa Pasqual), SulSolSal (Hannes Bernard &#038; Guido Gigli) and Pinar Yoldas.</p>
 details: |
-  ISBN: 9492095602 / 978-9492095602
-  Content: 208 pages
-  Size: 152 × 6 × 203 mm
-  Authors: Jan Boelen, Nelly Hayoun, Danah Abdulla, Deniz Ova, Gabrielle Kennedy, João Ferreira, Nahu Kubota, Zeynep Çelik Alexander
-  Edited by: Claudia Mareis, Nina Paim, Corinne Gisel, Nadine Botha, Vera Sacchetti
-  Contributions from: Peter Lang
-  Design: Offshore Studio
-  Language: English
-  Publishing date: 2019
-  Specs: Softcover
-  Images: © Valiz. All rights reserved.
+  ISBN: "9492095602 / 978-9492095602"
+  Content: "208 pages"
+  Size: "152 × 6 × 203 mm"
+  Authors: "Jan Boelen, Nelly Hayoun, Danah Abdulla, Deniz Ova, Gabrielle Kennedy, João Ferreira, Nahu Kubota, Zeynep Çelik Alexander"
+  Edited by: "Claudia Mareis, Nina Paim, Corinne Gisel, Nadine Botha, Vera Sacchetti"
+  Contributions from: "Peter Lang"
+  Design: "Offshore Studio"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Valiz. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ A School Of Schools Reader
 
 ----
 
-Uuid: UThiRcF2zYaVL7lh
+Uuid: vxF2G1HLg6kVSWTR
 
 ----
 

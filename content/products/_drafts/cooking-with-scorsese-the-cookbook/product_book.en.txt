@@ -14,13 +14,13 @@ description: |
   <p>From Wong Kar-wai’s intoxicating scenes in &#8216;In the Mood for Love&#8217; to Wes Anderson’s delicate pastries in &#8216;The Grand Budapest Hotel&#8217;, restaurants and chefs have embedded the gestures, imagined aromas, flavours and memories from these scenes into their menus.</p>
   <p>Cooking with Scorsese is now a series of books and clothing, morphed into film nights and occasional supper club. Over the years, it has taught us about the circularity of food and film and how each medium has in turn fed into each other.</p>
 details: |
-  ISBN: 1910239476 / 978-1910239476
-  Content: 208 pages
-  Size: 280 × 225 mm
+  ISBN: "1910239476 / 978-1910239476"
+  Content: "208 pages"
+  Size: "280 × 225 mm
   
-  Language: English
-  Specs: Hardcover
-  Images: © WELTKERN® / Hato Press. All rights reserved.
+  Language: "English"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Hato Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -45,7 +45,7 @@ The Cookbook
 
 ----
 
-Uuid: UbQ4PSDrdrUXwk54
+Uuid: 78dUybKUxxI1Syx5
 
 ----
 

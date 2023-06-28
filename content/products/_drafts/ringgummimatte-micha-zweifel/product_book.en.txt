@@ -18,16 +18,16 @@ description: |
   <br />
   Micha Zweifel, born in 1987 in Lucerne (Switzerland), lives and works in Rotterdam.</p>
 details: |
-  ISBN: 3959054262 / 978-3959054263
-  Content: 84 pages
-  Size: 236 × 322 mm
-  Author: Micha Zweifel
-  Edited by: Spector Books
-  Design: Krispin Heé, Tim Wetter
-  Language: English / German
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Spector Books / Art Viewer (artviewer.org). All rights reserved.
+  ISBN: "3959054262 / 978-3959054263"
+  Content: "84 pages"
+  Size: "236 × 322 mm"
+  Author: "Micha Zweifel"
+  Edited by: "Spector Books"
+  Design: "Krispin Heé, Tim Wetter"
+  Language: "English / German"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books / Art Viewer (artviewer.org). All rights reserved."
 gallery:
   - 
     url: >
@@ -44,7 +44,7 @@ Micha Zweifel
 
 ----
 
-Uuid: O0AYo6jagy9nucwd
+Uuid: TCeKY1Qeov9vnjjW
 
 ----
 

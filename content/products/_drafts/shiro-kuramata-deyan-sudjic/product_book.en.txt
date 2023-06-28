@@ -16,14 +16,14 @@ description: |
   <br />
   The second volume is a catalogue of works, presenting the over 600 pieces of furniture, products and interiors that Kuramata designed in his lifetime, most of which have never been published (and many of which, including nearly all the interiors, have been demolished). Each project is illustrated with an image from the Kuramata archives and accompanied by an extended caption plus key information.</p>
 details: |
-  ISBN: 0714845005 / 978-0714845005
-  Content: 416 pages
-  Size: 312 × 40 × 242 mm
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  The two volumes are presented together in a specially designed acrylic slipcase.
-  Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: "0714845005 / 978-0714845005"
+  Content: "416 pages"
+  Size: "312 × 40 × 242 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover
+  The two volumes are presented together in a specially designed acrylic slipcase."
+  Images: "© WELTKERN® / Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Deyan Sudjic
 
 ----
 
-Uuid: ZqITtcb2c6QyBiCn
+Uuid: b3cn8pV8rSUEgKzz
 
 ----
 

@@ -26,14 +26,14 @@ description: |
   — To offer subscriptions on a twice-monthly basis. You can now order a complete pack of 15 issues!<br />
   — <em>Il s’agit de FAIRE</em>. It’s about DOING</p>
 details: |
-  ISBN: 1095991151 / 979-1095991151
-  Content: 20 pages per issue
-  Size: 210 × 5 × 297 mm
-  Design: Syndicat
-  Language: English / French
-  Publishing date: 2018
-  Specs: Saddle stitched binding
-  Images: © WELTKERN® / Empire Books. All rights reserved.
+  ISBN: "1095991151 / 979-1095991151"
+  Content: "20 pages per issue"
+  Size: "210 × 5 × 297 mm"
+  Design: "Syndicat"
+  Language: "English / French"
+  Publishing date: "2018"
+  Specs: "Saddle stitched binding"
+  Images: "© WELTKERN® / Empire Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -86,7 +86,7 @@ Season 2 Pack: 16th to 18th issue
 
 ----
 
-Uuid: GnwmGc9HOQfkX2WH
+Uuid: FJfA0ZWrUzwEUo2R
 
 ----
 

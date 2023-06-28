@@ -17,15 +17,15 @@ description: |
   <br />
   <em>Planetary Echoes</em> aims to inspire readers to participate in the collective dream of space exploration through offering a deeper insight into what is already possible today. The deep-seated desire to explore―the vision of calling more than one planet our home―is paired here with the most urgent existential question of the 21st century: saving the Earth&#8217;s future.</p>
 details: |
-  ISBN: 3959051910 / 978-3959051910
-  Content: 230 pages
-  Size: 100 × 10 × 155 mm
-  Authors: Lukas Feireiss, Michael Najjar
-  Design: Floyd E. Schulze, WTHM – Büro für Gestaltung
-  Language: English
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © Spector Books. All rights reserved.
+  ISBN: "3959051910 / 978-3959051910"
+  Content: "230 pages"
+  Size: "100 × 10 × 155 mm"
+  Authors: "Lukas Feireiss, Michael Najjar"
+  Design: "Floyd E. Schulze, WTHM – Büro für Gestaltung"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,7 +78,7 @@ Exploring the implications of Human Settlement in Outer Space
 
 ----
 
-Uuid: CFNX6VGKhydbo72U
+Uuid: 1eHP9KogHWYvYZWx
 
 ----
 

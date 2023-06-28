@@ -16,13 +16,13 @@ description: |
   <p>Imaginarium is the culmination of Horfe’s lifetime obsession with drawing and making &#8211; on paper, on canvas, on wood and in sculpture &#8211; away from the streets, trains and rooftops that have made him internationally famous.<br />
   The result is a ludicrously energetic collection of images and 3D pieces, all painstakingly executed by hand over many months. The show recalls graffiti, Horfe says, in the way that he has “taken all the energy I used to put into my illegal painting and focused it towards one goal: describing and organizing my aesthetic in a way that I can share with everyone, graffiti fan or not.&#8221;</p>
 details: |
-  ISBN: 1916168633 / 978-1916168633
-  Content: 108 pages
-  Size: 210 × 297 mm
-  Language: English
-  Publishing date: 2013
-  Specs: Softcover
-  Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+  ISBN: "1916168633 / 978-1916168633"
+  Content: "108 pages"
+  Size: "210 × 297 mm"
+  Language: "English"
+  Publishing date: "2013"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ‎Topsafe. All rights reserved."
 gallery:
   - 
     url: >
@@ -51,7 +51,7 @@ Horfée's Imaginarium
 
 ----
 
-Uuid: xGu6djnNgM2MSygH
+Uuid: mJn75FEeMIFPNgiv
 
 ----
 

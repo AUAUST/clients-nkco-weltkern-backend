@@ -14,15 +14,15 @@ description: |
   <br />
   We invite 13 photographers based in different cities to create stories around their Still Life. In the past, most of their works are often marvelous and unrestrained, approaching images with full utilization of their resources, having access to whatever they need, traveling wherever they want. Now on the contrary, as the pandemic breaks the rules of our existence, they no longer receive such commissions as they used to be, staying home and dealing with the endless stagnancy. In response, an intervention has been imposed on their freely selected topics, each photographer needs to create their stories indoors with limited equipment. We are curious that how these photographers would respond to the current circumstances, to the chaos and anxiety, and what would they photograph for? From the spring of 2020, we have successively received their new works &#8211; some monument like mixtures of objects, the intimate relationships with animals or their companions, the imaginary getaway, or depictions of their mental states. As a result, they present a series of images, drowning away from reality, either optimistic or depressive, tardy, polished, and fragile.</p>
 details: |
-  ISBN: 9887519607 / 978-9887519607
-  Content: 250 Pages
-  Size: 210 × 270 mm
-  Edited by: Same Paper
-  Design: Han Gao
-  Language: English
-  Publishing date: 2020
-  Specs: Perfect Bound Paperback with Clear PU Jacket
-  Images: © WELTKERN® / Same Paper. All rights reserved.
+  ISBN: "9887519607 / 978-9887519607"
+  Content: "250 Pages"
+  Size: "210 × 270 mm"
+  Edited by: "Same Paper"
+  Design: "Han Gao"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Perfect Bound Paperback with Clear PU Jacket"
+  Images: "© WELTKERN® / Same Paper. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,7 +56,7 @@ Multilinetitle: Still Life
 
 ----
 
-Uuid: AIV9RHRrphpSnlY8
+Uuid: L7ElHbrD1kz7SbPD
 
 ----
 

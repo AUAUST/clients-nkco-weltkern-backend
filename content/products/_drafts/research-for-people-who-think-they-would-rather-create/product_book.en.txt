@@ -14,16 +14,16 @@ author:
   id: 319
 description: '<p>What is artistic research? What is a research document? How do these relate to the making process, invention, and creativity? What exactly is expected of me? If you have ever asked yourself any of these questions, then this book is for you. Research For People Who (Think They) Would Rather Create addresses all relevant aspects that need to be considered during a research and documentation process, such as: finding the right topic and approach; formulating your research question; working out your methods; choosing one or more suitable writing styles; and considering the possible roles of visual, virtual, auditory, embodied, and spatial materials.</p>'
 details: |
-  ISBN: 9493148437 / 978-9493148437
-  Content: 136 pages
-  Size: 130 × 200 mm
+  ISBN: "9493148437 / 978-9493148437"
+  Content: "136 pages"
+  Size: "130 × 200 mm
   
-  Language: English
-  Edited by: Dirk Vis and Florian Cramer
-  Graphic design: Robert Reinartz
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: "English "
+  Edited by: "Dirk Vis and Florian Cramer"
+  Graphic design: "Robert Reinartz"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Multilinetitle: Research For People Who Think They Would Rather Create
 
 ----
 
-Uuid: n56l7Yc97hWwdoxa
+Uuid: SOBdZT6EiKXxjAfn
 
 ----
 

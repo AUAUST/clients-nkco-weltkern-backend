@@ -14,14 +14,14 @@ description: |
   <br />
   <em>William Eggleston&#8217;s Guide</em> was the first one-man show of color photographs ever presented at The Museum of Modern Art, New York, and the Museum&#8217;s first publication of color photography. The reception was divided and passionate. The book and show unabashedly forced the art world to deal with color photography, a medium scarcely taken seriously at the time, and with the vernacular content of a body of photographs that could have been but definitely weren&#8217;t some average American&#8217;s Instamatic pictures from the family album. These photographs heralded a new mastery of the use of color as an integral element of photographic composition. Bound in a textured cover inset with a photograph of a tricycle and stamped with yearbook-style gold lettering, the <em>Guide</em> contained 48 images edited down from 375 shot between 1969 and 1971 and displayed a deceptively casual, actually super-refined look at the surrounding world. Here are people, landscapes and odd little moments in and around Eggleston&#8217;s hometown of Memphis&#8211;an anonymous woman in a loudly patterned dress and cat&#8217;s eye glasses sitting, left leg slightly raised, on an equally loud outdoor sofa; a coal-fired barbecue shooting up flames, framed by a shiny silver tricycle, the curves of a gleaming black car fender, and someone&#8217;s torso; a tiny, gray-haired lady in a faded, flowered housecoat, standing expectant, and dwarfed in the huge dark doorway of a mint-green room whose only visible furniture is a shaded lamp on an end table. For this edition of <em>William Eggleston&#8217;s Guide</em>, The Museum of Modern Art has made new color separations from the original 35 mm slides, producing a facsimile edition in which the color will be freshly responsive to the photographer&#8217;s intentions.</p>
 details: |
-  ISBN: 0714874715 / 978-0714874715
-  Content: 112 pages
-  Size: 230 × 45 × 230 mm
-  Authors: John Szarkowski, William Eggleston
-  Language: English
-  Publishing date: 2002
-  Specs: Hardcover
-  Images: © WELTKERN® / MoMA. All rights reserved.
+  ISBN: "0714874715 / 978-0714874715 "
+  Content: "112 pages"
+  Size: "230 × 45 × 230 mm"
+  Authors: "John Szarkowski, William Eggleston"
+  Language: "English"
+  Publishing date: "2002"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / MoMA. All rights reserved."
 gallery:
   - 
     url: >
@@ -47,7 +47,7 @@ Multilinetitle: William Eggleston's Guide
 
 ----
 
-Uuid: F8HRVEzbiqPBNY0o
+Uuid: Ue3AufTpslA0fw99
 
 ----
 

@@ -19,14 +19,14 @@ description: |
   <br />
   The new book Swissair Souvenirs presents around 270 of these photographs. Of excellent quality in every respect, the pictures also show the vast range of subjects covered by the collection. They are arranged by formal and thematic aspects, pairs and sequences or spreads revealing relations between subject fields as well as formal contrasts. An introductory essay and concise captions complement the images.</p>
 details: |
-  ISBN: 3858813591 / 978-3858813596
-  Content: 191 pages
-  Size: 200 × 23 × 267 mm
-  Author: Ruedi Weidmann
-  Language: English / German
-  Publishing date: 2013
-  Specs: Hardcover
-  Images: © WELTKERN®. All rights reserved.
+  ISBN: "3858813591 / 978-3858813596 "
+  Content: "191 pages"
+  Size: "200 × 23 × 267 mm"
+  Author: "Ruedi Weidmann"
+  Language: "English / German"
+  Publishing date: "2013"
+  Specs: "Hardcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,7 +59,7 @@ The Swissair Photo Archives
 
 ----
 
-Uuid: gR3qoNCsd4Fl4FKe
+Uuid: ovW16OdCfXsB6yAS
 
 ----
 

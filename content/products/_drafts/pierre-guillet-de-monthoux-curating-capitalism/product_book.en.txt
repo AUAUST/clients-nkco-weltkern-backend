@@ -12,14 +12,14 @@ author:
   id: 133
 description: '<p>Curating has evolved into much more than creating interesting exhibitions, promoting artists, and caring for artworks: in this millennium, art and business are fused, transforming capitalism from the inside out. Curating Capitalism implies new ways of management far beyond the simple commercialization of art and artist. Today, art and the artist inspire business. Beginning with Joseph Beuys’s declaration ART = CAPITAL and Andy Warhol&#8217;s vision of a capitalistic BUSINESS ART, Pierre Guillet de Monthoux contemplates the insights of contemporary curators to understand the new hybrid forms of art and business active in our current society and economy.</p>'
 details: |
-  ISBN: 1915609199 / 978-1915609199
-  Content: 360 pages
-  Size: 125 × 190 mm
-  Design: Ronnie Fueglister
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Sternberg Press. All rights reserved.
+  ISBN: "1915609199 / 978-1915609199"
+  Content: "360 pages"
+  Size: "125 × 190 mm"
+  Design: "Ronnie Fueglister"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Sternberg Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -52,7 +52,7 @@ Curating Capitalism
 
 ----
 
-Uuid: NOJ7MZYg3AHynET2
+Uuid: hHU3t6THo5lOPW4d
 
 ----
 

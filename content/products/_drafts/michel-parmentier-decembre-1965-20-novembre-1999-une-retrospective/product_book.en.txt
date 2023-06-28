@@ -17,14 +17,14 @@ description: |
   <br />
   The set published here brings together a selection of 31 major works by the artist, contextualised by 278 documents (most of them unpublished) from the Michel Parmentier archive, from various libraries, public and private collections. In addition, five previously unpublished texts are published: an introduction to the artist&#8217;s work by Robert Bonaccorsi, two critical texts by Philip Armstrong and Jean-Marc Poinsot respectively, and an account of creation by Agnès Foiret. Finally, a rigorous analysis accompanies Michel Parmentier&#8217;s work and the documents reproduced, through texts and comments by Guy Massaux.</p>
 details: |
-  ISBN: 2916636078 / 978-2916636078
-  Content: 220 pages
-  Size: 270 × 270 mm
-  Design: Ludovic Balland
-  Language: French
-  Publishing date: 2016
-  Specs: Hardcover, Cloth back, Dust jacket
-  Images: © WELTKERN® /‎ Editions Loevenbruck. All rights reserved.
+  ISBN: "2916636078 / 978-2916636078"
+  Content: "220 pages"
+  Size: "270 × 270 mm"
+  Design: "Ludovic Balland"
+  Language: "French"
+  Publishing date: "2016"
+  Specs: "Hardcover, Cloth back, Dust jacket"
+  Images: "© WELTKERN® /‎ Editions Loevenbruck. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Décembre 1965 – 20 novembre 1999, Une rétrospective
 
 ----
 
-Uuid: iCIwooNhlmk52MTT
+Uuid: 4WWvtwqXbKPvuhse
 
 ----
 

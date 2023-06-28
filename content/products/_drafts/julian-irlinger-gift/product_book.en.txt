@@ -14,15 +14,15 @@ description: |
   <br />
   Artist Julian Irlinger lives and works in Berlin. His works have been exhibited at a range of venues including Galerie Wedding—Raum für zeitgenössische Kunst in Berlin, the Wilhelm-Hack-Museum in Ludwigshafen, the MMK in Frankfurt am Main, and Artists Space, New York.</p>
 details: |
-  ISBN: 3959054882 / 978-3959054881
-  Content: 112 pages
-  Size: 215 × 300 mm
-  Author: Julian Irlinger, Jan Tappe, Kerstin Stakemeier
-  Edited by: Spector Books
-  Design: Marie Lautsch, Patrick A. Müller
-  Language: English / German
-  Publishing date: 2022
-  Images: © WELTKERN® /  Spector Books. All rights reserved.
+  ISBN: "3959054882 / 978-3959054881"
+  Content: "112 pages"
+  Size: "215 × 300 mm"
+  Author: "Julian Irlinger, Jan Tappe, Kerstin Stakemeier"
+  Edited by: "Spector Books"
+  Design: "Marie Lautsch, Patrick A. Müller"
+  Language: "English / German"
+  Publishing date: "2022"
+  Images: "© WELTKERN® /  Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Gift
 
 ----
 
-Uuid: xUEbEzXn6reHu7GC
+Uuid: UzCJnZTqUcoHRRAq
 
 ----
 

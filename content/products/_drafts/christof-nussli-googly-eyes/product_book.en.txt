@@ -21,14 +21,14 @@ description: |
   <p>I will not pretend to have any real answers for these hyperbolic questions. But I would like to suggest, as I think googly eyes does, that we are all in search of a way of looking that encompasses our (rather jaded) understanding of the mechanisms of capital and its effects on the visual experience of our lives. To be naïve is a bit passé, to say the least. But to enjoy the nuances of the visual detritus we are engulfed by daily is perhaps the highest state of enlightenment possible.</p>
   <p>Scott Cameron-Weaver</p>
 details: |
-  ISBN: 3952471043 / 978-3952471043
-  Content: 68 pages
-  Size: 230 × 312 mm
-  Language: English
-  Graphic Design by: Studio Nüssli+Nuessli
-  Publication: 2019
-  Specs: Softcover
-  Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: "3952471043 / 978-3952471043"
+  Content: "68 pages"
+  Size: "230 × 312 mm"
+  Language: "English"
+  Graphic Design by: "Studio Nüssli+Nuessli"
+  Publication: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cpress. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ googly eyes
 
 ----
 
-Uuid: ZRYNUJ9MR7CS8mV7
+Uuid: jkqZfDTD4mDfLkdb
 
 ----
 

@@ -11,13 +11,13 @@ author:
   id: 413
 description: '<p>AGENDA is a capsule of thoughts and feelings of the moment each issue is created in, and as such a co-curation together with each artist contributing to the publication. A free-spirited play with the concept of a magazine; this publication gathers poems and short stories, photographic essays and fashion, conversations with artists and musicians, art works and fantasy fuelled experiments.</p>'
 details: |
-  ISBN: 9152713020 / 978-9152713020
-  Content: 200 pages
-  Size: 240 × 315 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / KD PRESSE. All rights reserved.
+  ISBN: "9152713020 / 978-9152713020"
+  Content: "200 pages"
+  Size: "240 × 315 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / KD PRESSE. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ Multilinetitle: AGENDA N°1
 
 ----
 
-Uuid: 47NnJzpaRJMlSHGB
+Uuid: zhKCITVN1Z9qNrNF
 
 ----
 

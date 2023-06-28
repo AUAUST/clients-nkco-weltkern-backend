@@ -12,15 +12,15 @@ author:
   id: 90
 description: '<p>Alina Szapocznikow created an extensive and expressive oeuvre, in which she was intensively concerned with the human body, right up to her untimely death. In her sculptures, photographs and drawings she divided female bodies in particular into fragments such as lips, breasts, stomachs and limbs, to put them back together again in new ways and to integrate them as traces in her work. Her own body often found its way into the work in the form of casts. Having previously worked with classical materials such as bronze, she began to experiment with new materials such as polyester after arriving in Paris and mixing with the circle of Nouveaux Réalistes artists. With this she revolutionised the expressive possibilities of sculpture. The catalogue traces this artistic development by means of work from between 1954 and 1973, from early figurative sculptures to the “awkward objects,” which are strongly influenced by surrealism and pop art.</p>'
 details: |
-  ISBN: 3960984170 / 978-3960984177
-  Content: 200 pages
-  Size: 220 × 23 × 277 mm
-  Texts by: Alina Szapocznikow, Andrew Bonacina, Marta Dziewańska, Luisa Heese, Kirsty Bell, Marek Beylin, Griselda Pollock
-  Design: Ludovic Balland
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © Buchhandlung Walther König. All rights reserved.
+  ISBN: "3960984170 / 978-3960984177"
+  Content: "200 pages"
+  Size: "220 × 23 × 277 mm"
+  Texts by: "Alina Szapocznikow, Andrew Bonacina, Marta Dziewańska, Luisa Heese, Kirsty Bell, Marek Beylin, Griselda Pollock"
+  Design: "Ludovic Balland"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© Buchhandlung Walther König. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,7 +78,7 @@ Human Landscapes
 
 ----
 
-Uuid: Ai7aqdhEqXe4UAmY
+Uuid: ymxmrfElSvtpk02j
 
 ----
 

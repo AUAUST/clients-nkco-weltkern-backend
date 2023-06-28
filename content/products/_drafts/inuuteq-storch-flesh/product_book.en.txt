@@ -11,14 +11,14 @@ author:
   id: 331
 description: '<p>For a period of time the Greenlandic photographer Inuuteq Storch lived in New York City. Here he found himself spiritually at home but homesick in his body. Growing up in a place, where nature dominates everything, his body, unlike his soul, missed being close to nature. Those feelings together created a very specific way of looking at his surroundings. He started finding images that represented familiarity in this unfamiliar place.</p>'
 details: |
-  ISBN: 8797052020 / 978-8797052020
-  Content: 128 pages
-  Size: 215 × 280 mm
+  ISBN: "8797052020 / 978-8797052020"
+  Content: "128 pages"
+  Size: "215 × 280 mm
   
-  Language: English, Greenlandic, Danish
-  Publishing date: 2019
-  Specs: OTA bound paperback with silver print fold out cover
-  Images: © WELTKERN® / Diskobay. All rights reserved.
+  Language: "English, Greenlandic, Danish"
+  Publishing date: "2019"
+  Specs: "OTA bound paperback with silver print fold out cover"
+  Images: "© WELTKERN® / Diskobay. All rights reserved."
 gallery:
   - 
     url: >
@@ -35,7 +35,7 @@ Flesh
 
 ----
 
-Uuid: K4a8VozVsBxEM5Vo
+Uuid: pfchY6DkQdByrAdT
 
 ----
 

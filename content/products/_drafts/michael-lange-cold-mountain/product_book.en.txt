@@ -11,15 +11,15 @@ author:
   id: 309
 description: '<p>For six years, Michael Lange made extensive journeys to various regions of the French Alps (Mercantour, Ecrin, Serre-Chevalier, Valloire, Val Cenis, Vanoise and others) searching for solitude and silence. High up in the mountains he created a collection of impressive meditative images, between light and dark, quiet and storm. He followed the idea that there is also and particularly in landscape photography, the decisive moment, the moment of perfect harmony between nature, landscape and the photographer. Often he had to wait for days, sometimes for weeks, high up in the mountains. Constantly accompanied by changes in weather and light, rain and snow showers, sudden beams of sunlight and mountains covered in mist – he was always in search of that moment. The fifty-two images in the book combine the quiet majesty of the mountain landscapes with fleeting moments of the perception of nature. Michael Lange deals with the question of how we perceive what we see and how we can find new ways to express our feelings in pictures. The title COLD MOUNTAIN refers to the legendary Zen monk, poet and recluse Hanshan (“Cold Mountain”) from 7th century China. The selection of poems reflecting the solitude of the mountains and human soul states is taken from four famous Zen hermits – Hanshan, Ikkyu, Basho and Ryokan – from the 7th, 15th, 17th and 18th centuries in China and Japan. In the sequence of the book, the poems connect the groups of pictures. They set the tone and determine the atmosphere of the book and the pictures and reflect the author’s long relationship to Zen Buddhism, which has had a major influence on his landscape photography.</p>'
 details: |
-  ISBN: 396070058X / 978-3960700586
-  Content: 136 pages
-  Size: 245 × 16 × 326 mm
-  Edited by: Hartmann Books
-  Texts by: Michael Lange
-  Language: English / German
-  Publishing date: 2021
-  Specs: Hardcover, one altar foldout
-  Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: "396070058X / 978-3960700586"
+  Content: "136 pages"
+  Size: "245 × 16 × 326 mm"
+  Edited by: "Hartmann Books"
+  Texts by: "Michael Lange"
+  Language: "English / German"
+  Publishing date: "2021"
+  Specs: "Hardcover, one altar foldout"
+  Images: "© WELTKERN® / Hartmann Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Cold Mountain
 
 ----
 
-Uuid: muw3OFKUcd0i9s1j
+Uuid: rSdv97cZ4UaLrUtL
 
 ----
 

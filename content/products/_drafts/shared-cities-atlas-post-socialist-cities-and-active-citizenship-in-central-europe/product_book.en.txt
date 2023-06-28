@@ -12,16 +12,16 @@ author:
   id: 114
 description: '<p>Reflecting on the “urban commons” concept currently in vogue in architectural discourse, this volume collects research, data and photographs for seven case studies―post-socialist cities in Central Europe―emphasizing the collective action of remaking cities.</p>'
 details: |
-  ISBN: 9462085213 / 978-9462085213
-  Content: 252 pages
-  Size: 160 × 23 × 240 mm
-  Edited by: Helena Doudová
-  Contributions from: Karol Piekarski, Paulina Urbańska, Waldemar Węgrzyn, Milota Sidorová, Elizabet Kovačeva, Olja Triaška Stefanović, Stefanie Heublein, Kamil Pavelka
-  Design: Joost Grootens
-  Language: English
-  Publishing date: 2019
-  Specs: Softcover
-  Images: © nai010 Publishers. All rights reserved.
+  ISBN: "9462085213 / 978-9462085213"
+  Content: "252 pages"
+  Size: "160 × 23 × 240 mm"
+  Edited by: "Helena Doudová"
+  Contributions from: "Karol Piekarski, Paulina Urbańska, Waldemar Węgrzyn, Milota Sidorová, Elizabet Kovačeva, Olja Triaška Stefanović, Stefanie Heublein, Kamil Pavelka"
+  Design: "Joost Grootens"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© nai010 Publishers. All rights reserved."
 gallery:
   - 
     url: >
@@ -50,7 +50,7 @@ Post-socialist Cities and Active Citizenship in Central Europe
 
 ----
 
-Uuid: VQ1rgG5zr1Qgkkbs
+Uuid: vxw40QUQC0iVKyCZ
 
 ----
 

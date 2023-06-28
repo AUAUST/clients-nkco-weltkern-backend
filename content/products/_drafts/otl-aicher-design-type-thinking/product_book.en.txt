@@ -13,13 +13,13 @@ description: |
   <p>More than a truly brilliant graphic designer, Otl Aicher was a transformative thinker, photographer, typographer, ecologist, philosopher, co-founder and mentor of the renowned Hochschule fuer Gestaltung at Ulm, and teacher. On the centenary of his birth, this splendidly produced and designed book looks at every facet of his career and traces the many strands of his lasting influence.</p>
   <p>Otl Aicher is most famously known for the pictographs he designed for the 1972 summer Olympic Games in Munich. Fifty years later, his system of iconography has become a universal language, directing people to bathrooms, through subways, around airports and hospitals. But Aicher’s achievements extended far beyond the world of graphic design. Filled with illustrations, photographs, documents and archival material, and enhanced by thoughtful and personal essays from leading critics, designers, and friends, this survey takes a disciplinary approach to explore Aicher’s role as one of the founding figures of visual communication. We learn about Aicher’s work developing corporate brands; how he created the Rotis typeface, then built architecture incorporating the font; how he collaborated with artists and architects such as Josef Albers, Alexander Kluge, and Norman Foster; and how his founding of the Ulm School of Design reflected his passion for teaching, and for an open, free, and democratic society. Aicher’s achievements are evident in nearly every public space on the globe and this definitive and timely reference work rightfully places Aicher among the pioneering geniuses of the past century.</p>
 details: |
-  ISBN: 3791379449 / 978-3791379449
-  Content: 256 pages
-  Size: 240 × 287 mm
-  Language: English / French
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN® / Prestel. All rights reserved.
+  ISBN: "3791379449 / 978-3791379449"
+  Content: "256 pages"
+  Size: "240 × 287 mm"
+  Language: "English / French"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Prestel. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Design. Type. Thinking.
 
 ----
 
-Uuid: 9zJtjsemdt6e73Lb
+Uuid: XG5YaDvvShkgc36y
 
 ----
 

@@ -11,14 +11,14 @@ author:
   id: 207
 description: '<p>Shortly after the fall of the Berlin Wall, the French government invited the most interesting artists in the GDR, which was the process of breaking up, to Paris. And so in the spring of 1990, seven East German photographers sat in an indoor market café and decided to start an agency for the purpose of bracing themselves for the political, economic, and aesthetic challenges of a new era. They called themselves Ostkreuz after the bustling subway station in Berlin. The group has since written a unique success story: their photographs are printed in the most important international magazines; group exhibition projects—The City: Becoming and Decaying or On Borders—tour throughout the world. This special portfolio, which includes broadsheet images from each of the twenty members, is published on the occasion of the twenty-­fifth anniversary of the agency; an accompanying booklet tells the story of Ostkreuz and presents photographs from the era of the GDR by Sibylle Bergemann, Harald Hauswald, Ute and Werner Mahler, and others.</p>'
 details: |
-  ISBN: 3775740623 / 978-3775740623
-  Content: 159 pages
-  Size: 265 × 360 mm
-  Language: English, German, French
-  Edited by: Agentur der Fotografen
-  Publication: 2015
-  Specs: Softcover in slipcase
-  Images: © WELTKERN® / Hatje Cantz All rights reserved.
+  ISBN: "3775740623 / 978-3775740623"
+  Content: "159 pages"
+  Size: "265 × 360 mm"
+  Language: "English, German, French"
+  Edited by: "Agentur der Fotografen"
+  Publication: "2015"
+  Specs: "Softcover in slipcase"
+  Images: "© WELTKERN® / Hatje Cantz All rights reserved."
 gallery:
   - 
     url: >
@@ -32,7 +32,7 @@ Multilinetitle: Ostkreuz 25 Jahre
 
 ----
 
-Uuid: Ez3rPE6KVRd6jW8E
+Uuid: iVhbPTThKdz13m8b
 
 ----
 

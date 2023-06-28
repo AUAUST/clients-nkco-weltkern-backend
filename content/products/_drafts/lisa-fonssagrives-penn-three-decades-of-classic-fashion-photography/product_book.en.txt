@@ -15,14 +15,14 @@ description: |
   <p>She posed for Man Ray, Erwin Blumenfeld, Louise Dahl- Wolfe, Norman Parkinson, Richard Avedon, for her first husband Fernand Fonssagrives, her fellow European immigrant Horst P. Horst, and, of course, her second husband Irving Penn.</p>
   <p>Compiled and arranged by fashion photographer David Seidner in 1997, the book draws upon a collection of photographs which once belonged to Lisa Fonssagrives. It is an opulently produced homage to the first supermodel in the history of fashion and a nostalgic look back on the Golden Age of fashion photography in the 1930s, 1940s, and 1950s.</p>
 details: |
-  ISBN: 3829607964 / 978-3829607964
-  Content: 152 pages
-  Size: 220 × 290 mm
-  Language: English, German
-  Edited by: David Seidner
-  Publication: 2017
-  Specs: Softcover
-  Images: © WELTKERN® / Vendome Press. All rights reserved.
+  ISBN: "3829607964 / 978-3829607964"
+  Content: "152 pages"
+  Size: "220 × 290 mm"
+  Language: "English, German"
+  Edited by: "David Seidner"
+  Publication: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Vendome Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Three Decades of Classic Fashion Photography
 
 ----
 
-Uuid: ax6Wg638QyIv63bi
+Uuid: 52w041qQFpxCaq7R
 
 ----
 

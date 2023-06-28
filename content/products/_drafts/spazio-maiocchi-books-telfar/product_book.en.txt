@@ -14,13 +14,13 @@ description: |
   <br />
   &#8220;TELFAR: Nude&#8221;, a book of images by New York photographer Jason Nocito, completes the brand’s first fashion presentation in Italy—an exhibition without a single garment, centered on artist collaborations, eloquent to the progressive aesthetics and artistic DNA of the brand which laid the blueprint for today’s black avant-garde.</p>
 details: |
-  Content: 48 Pages
-  Size: 220 × 6 × 280 mm
-  Author: Jason Nocito
-  Language: English
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  Content: "48 Pages"
+  Size: "220 × 6 × 280 mm"
+  Author: "Jason Nocito"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Telfar
 
 ----
 
-Uuid: 55JZP8uJqfkP53Am
+Uuid: QCZyuHkvOtWa47SO
 
 ----
 

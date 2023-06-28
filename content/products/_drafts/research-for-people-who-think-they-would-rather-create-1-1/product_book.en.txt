@@ -16,14 +16,14 @@ description: |
   <p>What is artistic research? What is a research document? How do these relate to the making process, invention, and creativity? What exactly is expected of me? If you have ever asked yourself any of these questions, then this book is for you. Research For People Who (Think They) Would Rather Create addresses all relevant aspects that need to be considered during a research and documentation process, such as: finding the right topic and approach; formulating your research question; working out your methods; choosing one or more suitable writing styles; and considering the possible roles of visual, virtual, auditory, embodied, and spatial materials.</p>
   <p>&#8220;At the heart of Research for People Who (Think They) Would Rather Create are dozens of examples from the field of art and design – each of which illustrates one specific aspect of developing a thesis, essay, paper, report, proposal, research document, or however else it may be referred to in your own setting. You can read this book from cover to cover, or you can immediately flip to those subjects which you find most relevant at any given moment. Ultimately, Research for People Who (Think They) Would Rather Create is an invitation to contribute – quite literally, with your own projects, examples, and questions – since our goal is to help you develop your own research.&#8221;</p>
 details: |
-  ISBN: 9493148437 / 978-9493148437
-  Content: 136 pages
-  Size: 130 × 200 mm
-  Design: Robert Reinartz
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Onomatopee. All rights reserved.
+  ISBN: "9493148437 / 978-9493148437"
+  Content: "136 pages"
+  Size: "130 × 200 mm"
+  Design: "Robert Reinartz"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Multilinetitle: Research For People Who Think They Would Rather Create 1.1
 
 ----
 
-Uuid: 8R0i9uubT38CKHc5
+Uuid: xRuFaYkAWYmTn5h6
 
 ----
 

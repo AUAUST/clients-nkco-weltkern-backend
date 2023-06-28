@@ -12,17 +12,17 @@ author:
   id: 99
 description: '<p>In Sweden, the FACIT brand is as well-known as IBM or Olivetti. Based in Åtvidaberg, the company produced mechanical calculators, typewriters, and office furniture in the period between 1922 and 1998. By the 1970s the company had grown from a local family business into one of the world’s leading manufacturers. The company-sponsored football team ÅFF was playing in the first division. A few years later the FACIT organisation had disappeared—worn down by global capitalism. The FACIT Model looks at this peculiar outgrowth of corporate modernism through the printed matter produced in FACIT’s inhouse print shops. Type specimens, manuals, advertising leaflets, and product catalogues bear witness to a culture in which many of the codes and forms familiar to us from today’s world of work were defined or invented. The FACIT Model documents the visual research carried out by Our Polite Society in the archives of FACIT AB. The FACIT Model, fanfare, Amsterdam, from 6 to 22 April 2019 and at the FACIT Museum, Åtvidaberg, from 1 July to 29 September.</p>'
 details: |
-  ISBN: 3959052863 / 978-3959052863
-  Content: 200 Pages
-  Size: 210 × 20 × 297 mm
-  Author: Sylvia Lavin
-  Edited by: Our Polite Society
-  Texts by: Our Polite Society, Paul Gangloff, Isabel Mager, Gabriel Maher, Mark Owens
-  Design: Our Polite Society
-  Language: English
-  Publishing date: 2019
-  Specs: Softcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959052863 / 978-3959052863"
+  Content: "200 Pages"
+  Size: "210 × 20 × 297 mm"
+  Author: "Sylvia Lavin"
+  Edited by: "Our Polite Society"
+  Texts by: "Our Polite Society, Paul Gangloff, Isabel Mager, Gabriel Maher, Mark Owens"
+  Design: "Our Polite Society"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -71,7 +71,7 @@ Globalism, Localism, Identity
 
 ----
 
-Uuid: ZMg9ftGKPU8iotrW
+Uuid: PtTV2zmUKy4tdpni
 
 ----
 

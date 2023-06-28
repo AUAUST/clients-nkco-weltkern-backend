@@ -15,14 +15,14 @@ description: |
   <p>Through unpublished archives, this book analyses in depth the very first French translations of the two Global Tools bulletins, exclusive interviews with Andrea Branzi, Gaetano Pesce, Gianni Pettena, Ugo La Pietra, Alessandro Mendini and two writings in dialogue, one by Paolo Deganello and the other by Franco Raggi.<br />
   The latter presents Global Tools as follows: &#8220;Those who founded or participated in Global Tools were interested in building a programme of educational and productive research activities that started from below, with the theoretical aim of liberating individual creativity from the cultural superstructures that prevented or slowed down the capacity for expression, according to the hypothesis of free, anarchist (but organised) work, experimentation in the field of design, living and building&#8230; The attempt was also to return to a kind of &#8216;primary condition&#8217; of making that involved the individual &#8216;tools&#8217;, the first utensils at our disposal to interact with the outside world as hands, feet, senses, body, and their perception. Among the topics discussed were also a series of topics that came from the experience of American, English and Austrian anarchist groups. We have condensed a very generalized and pervasive, though underground, trend. An experimental and expressive research combined with an anti rhetoric of the project and a quasi-annulment of the canonical design practice to conceive its cure through &#8216;self-therapy&#8217;.&#8221;</p>
 details: |
-  ISBN: 2356990594 / 978-2356990594
-  Content: 264 pages
-  Size: 226 × 316 mm
-  Design: Stéréo Buro
-  Language: French
-  Publishing date: 2023
-  Specs: Hardcover
-  Images: © WELTKERN ® / isdaT. All rights reserved.
+  ISBN: "2356990594 / 978-2356990594"
+  Content: "264 pages"
+  Size: "226 × 316 mm"
+  Design: "Stéréo Buro"
+  Language: "French"
+  Publishing date: "2023"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / isdaT. All rights reserved."
 gallery:
   - 
     url: >
@@ -75,7 +75,7 @@ Global Tools (1973-1975)
 
 ----
 
-Uuid: QWNXq5kcoUPAfvRP
+Uuid: xwqam4u39ly8CajQ
 
 ----
 

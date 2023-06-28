@@ -11,16 +11,16 @@ author:
   id: 90
 description: '<p><em>OUTSIDE BEFORE BEYOND</em> is the first comprehensive monograph on Alicia Frankovich. The publication is structured by central works by this New Zealand artist from the past five years: Starting with the performance World is Home Planet (Basel, 2016), continuing with the solo exhibition OUTSIDE BEFORE BEYOND (Düsseldorf, 2017), the performances Twins &#038; Lovers (Düsseldorf/ Glarus, 2017) and Atlas of the Living World (Amsterdam, 2017 / Melbourne, 2018), and the billboards After Blue Marble (Bregenz, 2018), it concludes with her last comprehensive solo exhibition Exoplanets at MUMA &#8211; Monash University Museum of Arts, Melbourne (2018). Together with numerous illustrations and new essays by Karen Archey, Rosi Braidotti, Eva Birkenstock, Daniel Falb and Hannah Matthews, the publication provides an essential basis for a long-term scholarly engagement with the posthumanist endeavours of Alicia Frankovich.</p>'
 details: |
-  ISBN: 3960987706 / 978-3960987703
-  Content: 292 pages
-  Size: 205 × 19 × 273 mm
-  Author: Alicia Frankovich
-  Texts by: Karen Archey, Rosi Braidotti, Eva Birkenstock, Daniel Falb, Hannah Matthews
-  Language: English / German
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN®. All rights reserved.
-  Condition: Second-hand, As new (9/10)
+  ISBN: "3960987706 / 978-3960987703"
+  Content: "292 pages"
+  Size: "205 × 19 × 273 mm"
+  Author: "Alicia Frankovich"
+  Texts by: "Karen Archey, Rosi Braidotti, Eva Birkenstock, Daniel Falb, Hannah Matthews"
+  Language: "English / German"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN®. All rights reserved."
+  Condition: "Second-hand, As new (9/10)"
 gallery:
   - 
     url: >
@@ -45,7 +45,7 @@ Outside Before Beyond
 
 ----
 
-Uuid: Xpx8MalSzQju4nqS
+Uuid: 509CPSIDn30DUfgN
 
 ----
 

@@ -11,16 +11,16 @@ author:
   id: 99
 description: '<p><em>Irreguläre Tage</em> (Irregular Days) is a book project by the photographer and writer Michael Schade—a student of Arno Fischer and Astrid Klein—which almost saw completion back in 2001. Conceived as a text and image book, it is an autobiographical record of the GDR in its final stages and the first years after the reunification. The book takes the subjective view of a young man growing up maladjusted in the GDR, constantly at odds with social norms. Thoughts on photography are included in various parts of the text, which maintains a unique balance of private and social observation. The photos selected by Michael Schade make reference to subjects from the subcultural visual language of the 1990s—they have an inclination for the casual, the ephemeral. Michael Schade died in 2004, aged 39. <em>Irreguläre Tage</em> is the first publication from the artist’s estate and is published on occasion of the exhibition at the dkw. Kunstmuseum Dieselkraftwerk Cottbus.</p>'
 details: |
-  ISBN: 3940064677 / 978-3940064677
-  Content: 224 Pages
-  Size: 112 × 182 mm
-  Author: Michael Schade
-  Texts by: Michael Schade, Anne König
-  Design: Markus Dreßen
-  Language: German
-  Publishing date: 2013
-  Specs: Softcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3940064677 / 978-3940064677"
+  Content: "224 Pages"
+  Size: "112 × 182 mm"
+  Author: "Michael Schade"
+  Texts by: "Michael Schade, Anne König"
+  Design: "Markus Dreßen"
+  Language: "German"
+  Publishing date: "2013"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,7 +65,7 @@ Irreguläre Tage
 
 ----
 
-Uuid: 974krYJHiAi9NPa2
+Uuid: tiuvVQhvVz0Cdc7o
 
 ----
 

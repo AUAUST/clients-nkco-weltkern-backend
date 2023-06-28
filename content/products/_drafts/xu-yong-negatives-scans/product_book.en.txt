@@ -11,13 +11,13 @@ author:
   id: 366
 description: '<p>Xu Yong (b. China, 1954; lives and works in Beijing, China) makes art that scrutinizes the photographic medium and its documentary variants and interpretations. An autodidact with a background in advertising, the artist is fascinated by the influence that images have on our collective memories. In 1989, a 35-year-old Yong joined the protesters on Tiananmen Square and used his camera to record the events on celluloid. The publication Negatives: Scans is the second series he presents in the form of unprocessed film. As in the earlier Negatives series, released in 2014, Yong uncovers a censored history, testing the hypothesis that the photographic negative—a preliminary stage on the way to the photograph properly speaking—provides more cogent evidence than analog or digital photography. This focus makes his compilation of documentary pictures an analytical study in the power of images and their ability to shed light on cultural taboos and historical amnesia. With essays by Gérard A. Goodrow and Shu Yang.</p>'
 details: |
-  ISBN: 3954762986 / 978-3954762989
-  Content: 136 pages
-  Size: 260 × 340 mm
-  Language: German / English
-  Publishing date: 2019
-  Specs: Hardcover with Linen
-  Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: "3954762986 / 978-3954762989"
+  Content: "136 pages"
+  Size: "260 × 340 mm"
+  Language: "German / English"
+  Publishing date: "2019"
+  Specs: "Hardcover with Linen"
+  Images: "© WELTKERN® / Distanz. All rights reserved."
 gallery:
   - 
     url: >
@@ -46,7 +46,7 @@ Negatives: Scans
 
 ----
 
-Uuid: sN5bTBRDLyRohGsk
+Uuid: qkzA7a7Gs2zcOVLG
 
 ----
 

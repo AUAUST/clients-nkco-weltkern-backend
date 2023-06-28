@@ -11,16 +11,16 @@ author:
   id: 260
 description: '<p>In the midst of the youth revolt, the Rote Fabrik was opened in 1980 as an alternative cultural centre in Zurich. This book looks back at the prehistory and tells the story of Zurich&#8217;s alternative culture until today, which begins with resistance and ends with the establishment of a new understanding of culture, of which the Rote Fabrik became a symbol. The contributions critically examine the present and the company&#8217;s self-image, they tell stories from before and behind the scenes. For the first time, archival treasures were unearthed for this book and countless documents and photos were sifted through and classified.</p>'
 details: |
-  ISBN: 3039260089 / 978-3039260089
-  Content: 448 Pages
-  Size: 231 × 38 × 277 mm
-  Edited by: Interessengruppe Rote Fabrik
-  Contributions from: Philipp Anz, Nadine Zberg, Daniel Hitzig, Michelle Steinbeck, Stephan Pörtner, Katja Baigger, Stefan Busz, Michael Hiltbrunner, Viola Rohner, Christoph Müller, Esther Banz, Tan Wälchli, Philipp Klaus, Pablo Rohner, Rachel Mader, Geneva Moser, Nora Strassmann, Pete Mijnssen
-  Design: Huber/Sterzinger & sava (Sara Arzu Hardegger)
-  Language: German
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Huber/Sterzinger & sava (Sara Arzu Hardegger). All rights reserved.
+  ISBN: "3039260089 / 978-3039260089"
+  Content: "448 Pages"
+  Size: "231 × 38 × 277 mm"
+  Edited by: "Interessengruppe Rote Fabrik "
+  Contributions from: "Philipp Anz, Nadine Zberg, Daniel Hitzig, Michelle Steinbeck, Stephan Pörtner, Katja Baigger, Stefan Busz, Michael Hiltbrunner, Viola Rohner, Christoph Müller, Esther Banz, Tan Wälchli, Philipp Klaus, Pablo Rohner, Rachel Mader, Geneva Moser, Nora Strassmann, Pete Mijnssen"
+  Design: "Huber/Sterzinger & sava (Sara Arzu Hardegger)"
+  Language: "German"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Huber/Sterzinger & sava (Sara Arzu Hardegger). All rights reserved."
 gallery:
   - 
     url: >
@@ -93,7 +93,7 @@ Rote Fabrik
 
 ----
 
-Uuid: NiewJIqWly1lMA9F
+Uuid: 2QToLYRfHHdiDlO3
 
 ----
 

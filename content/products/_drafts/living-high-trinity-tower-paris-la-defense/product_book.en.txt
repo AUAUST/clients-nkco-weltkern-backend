@@ -17,13 +17,13 @@ description: |
   <br />
   Living high, the first book on the work of the acclaimed firm Cro&#038;Co Architecture, is a deep dive into a truly unique structure, making the case for high-rise buildings based on the conviction that height will play a key role in tomorrow’s city.</p>
 details: |
-  ISBN: 3038602705 / 978-3038602705
-  Content: 148 pages
-  Size: 220 × 320 mm
-  Language: English / French
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Park Books. All rights reserved.
+  ISBN: "3038602705 / 978-3038602705"
+  Content: "148 pages"
+  Size: "220 × 320 mm"
+  Language: "English / French"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Park Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -52,7 +52,7 @@ Trinity Tower, Paris La Défense
 
 ----
 
-Uuid: Jbn96JMPKS2SkZNe
+Uuid: y3YQAXIbdhOL1Mfx
 
 ----
 

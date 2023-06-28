@@ -11,15 +11,15 @@ author:
   id: 105
 description: '<p><em>Preparation</em> for 1017-ALYX-9SM is a seasonal series that explores narratives around the various ‘acts of preparing’ leading up the Alyx show in Paris, this edition focuses on Haruka Hirata and the process of Ikebana for the Paris presentation. Photographed by Esther Theaker and art-directed by OK-RM it is the result of a close collaboration both in the shoot and edit. Featuring 160 images: 120 in double-black and 40 colour plates with a silk-screened white cover and embossed textured dust-jacket.</p>'
 details: |
-  ISBN: 1916002425 / 978-1916002425
-  Content: 160 pages
-  Size: 178 × 12 × 110 mm
-  Author: 1017-ALYX-9SM
-  Design: OK-RM
-  Language: English
-  Publishing date: 2019
-  Specs: Softcover
-  Images: © InOtherWords. All rights reserved.
+  ISBN: "1916002425 / 978-1916002425"
+  Content: "160 pages"
+  Size: "178 × 12 × 110 mm"
+  Author: "1017-ALYX-9SM"
+  Design: "OK-RM"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© InOtherWords. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,7 +56,7 @@ Preparation F19
 
 ----
 
-Uuid: poKsNTNr25FcBIqd
+Uuid: HR9JcUHy2FXpGlbO
 
 ----
 

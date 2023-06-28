@@ -11,14 +11,14 @@ author:
   id: 308
 description: '<p>A book about eating and being eaten. Eating is seductive, and the relationship between food and humans is not uncomplicated. Food is taboo in many different ways: guttery is a death sin and almost every culture has cultivated how to eat and what to eat (as if we didn’t, something really bad would happen?). We live in a time where the dinner has become our only social arena, as the public sphere has been shut down for over a year now. A book with interviews, images and texts by and with: Lykke Li, David Shrigley, Wolfgang Tillmans, Honey Dijon, Frederik Bille Brahe, Matt Lambert, Michael Smith, Kornél Kovács, Lotta Lundgren &#038; Nadia Tehran.</p>'
 details: |
-  ISBN: 1792362958 / 978-1792362958
-  Content: 204 pages
-  Size: 215 × 20 × 285 mm
-  Contributions from: Lykke Li, David Shrigley, Wolfgang Tillmans, Honey Dijon, Frederik Bille Brahe, Matt Lambert, Michael Smith, Kornél, Kovács, Lotta Lundgren, Nadia Tehran
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Nuda Paper / gudbergnerger.com. All rights reserved.
+  ISBN: "1792362958 / 978-1792362958"
+  Content: "204 pages"
+  Size: "215 × 20 × 285 mm"
+  Contributions from: "Lykke Li, David Shrigley, Wolfgang Tillmans, Honey Dijon, Frederik Bille Brahe, Matt Lambert, Michael Smith, Kornél, Kovács, Lotta Lundgren, Nadia Tehran"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Nuda Paper / gudbergnerger.com. All rights reserved."
 gallery:
   - 
     url: >
@@ -32,7 +32,7 @@ Multilinetitle: Munchies
 
 ----
 
-Uuid: EBUt8HhHeDZq8Hrz
+Uuid: uPz9EeoehuVW9ZFL
 
 ----
 

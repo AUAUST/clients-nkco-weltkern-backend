@@ -15,14 +15,14 @@ description: |
   <br />
   <em>The World of Apartamento</em> is a celebration of the magazine’s 10th anniversary and features the best and most inspirational interiors from the publication’s pages. Like the magazine itself, the book is a carefully developed editorial mix—high-quality writing and beautiful photography—that communicates genuine stories and intimate moments. With more than 300 photographs and an eclectic mix of subjects like François Halard, Yorgos Lanthimos, Ezra Koenig, Paz de la Huerta, and more, the book is an inspiring look at individual design choices.</p>
 details: |
-  ISBN: 1419728921 / 978-1419728921
-  Content: 304 pages
-  Size: 245 × 38 × 312 mm
-  Authors: Omar Sosa, Nacho Alegre, Marco Verlardi
-  Language: English
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © Abrams Books. All rights reserved.
+  ISBN: "1419728921 / 978-1419728921"
+  Content: "304 pages"
+  Size: "245 × 38 × 312 mm"
+  Authors: "Omar Sosa, Nacho Alegre, Marco Verlardi"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© Abrams Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,7 +56,7 @@ Multilinetitle: The World of Apartamento
 
 ----
 
-Uuid: DKpUCyZ2zJqwdvoQ
+Uuid: ufaXqLikKXA1NA8u
 
 ----
 

@@ -18,15 +18,15 @@ description: |
   <br />
   Published with the Musée cantonal des Beaux-Arts, Lausanne, on the occasion of the exhibition Francis Alÿs: As Long as I’m Walking, October 15, 2021–January 16, 2022.</p>
 details: |
-  ISBN: 3037645727 / 978-3037645727
-  Content: 160 Pages
-  Size: 237 × 20 × 286 mm
-  Authors: Judith Rodenbeck, Julia Bryan-Wilson, Luis Pérez-Oramas, Nicole Schweizer
-  Edited by: Nicole Schweizer
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / JRP|Editions / Musée cantonal des Beaux-Arts. All rights reserved.
+  ISBN: "3037645727 / 978-3037645727"
+  Content: "160 Pages"
+  Size: "237 × 20 × 286 mm"
+  Authors: "Judith Rodenbeck, Julia Bryan-Wilson, Luis Pérez-Oramas, Nicole Schweizer"
+  Edited by: "Nicole Schweizer"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / JRP|Editions / Musée cantonal des Beaux-Arts. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ As Long as I'm Walking
 
 ----
 
-Uuid: z8PGDgXFov6HmF0v
+Uuid: QxPxLefTdLQWMpeM
 
 ----
 

@@ -14,14 +14,14 @@ description: |
   <br />
   Full of brand new interviews and research, Sooke describes the great works by Warhol, Lichtenstein and other key figures, but also re-examines the movement for the 21st century and asks if it is still art? He reveals a global story, tracing Pop&#8217;s surprising origins in 19th-century Paris to uncovering the forgotten female artists of the 1960s.</p>
 details: |
-  ISBN: 0241973066 / 978-0241973066
-  Content: 224 pages
-  Size: 111 × 16 × 181 mm
-  Author: Alastair Sooke
-  Language: English
-  Publishing date: 2016
-  Specs: Softcover
-  Images: © WELTKERN®. All rights reserved.
+  ISBN: "0241973066 / 978-0241973066"
+  Content: "224 pages"
+  Size: "111 × 16 × 181 mm"
+  Author: "Alastair Sooke"
+  Language: "English"
+  Publishing date: "2016"
+  Specs: "Softcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -38,7 +38,7 @@ Pop Art
 
 ----
 
-Uuid: p5J1LNSw4OS5Swlz
+Uuid: zQH7tiLonHcwdmPa
 
 ----
 

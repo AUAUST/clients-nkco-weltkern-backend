@@ -13,14 +13,14 @@ description: |
   <p>“We dive into Gerber’s worlds to lose ourselves and to find ourselves again in amazing places.” This is how the Swiss art historian and acclaimed novelist Paul Nizon characterized the work of his compatriot, the painter Theo Gerber (1928–1997). Gerber was a free spirit who has remained largely unknown in his native country until the present day. This is due to the artist’s own choice, having rejected the efforts of gallery owners to introduce his works to the general public. For Gerber, success did not mean fame and glory, but rather that his art showed a different possibility from that of his contemporaries. The way in which Gerber, who roamed between a variety of styles, traveled the world, and lived with the ethnic group of the Dogon in West Africa for two years during a creative crisis, upheld his artistic freedom makes it impossible to assign him to a specific direction in 20th-century art.</p>
   <p>This book, published to coincide with a retrospective exhibition at the Kunstmuseum Thun, Switzerland, is an overdue tribute to this, in the best sense of the word, incomprehensible artist and finally provides the general public with a chance to discover and recognize his oeuvre.</p>
 details: |
-  ISBN: 3039421268 / 978-3039421268
-  Content: 128 pages
-  Size: 225 × 310 mm
-  Design: Julie Peeters
-  Language: German or French
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Scheidegger & Spiess. All rights reserved.
+  ISBN: "3039421268 / 978-3039421268"
+  Content: "128 pages"
+  Size: "225 × 310 mm"
+  Design: "Julie Peeters"
+  Language: "German or French"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Scheidegger & Spiess. All rights reserved."
 gallery:
   - 
     url: >
@@ -54,7 +54,7 @@ Multilinetitle: Theo Gerber
 
 ----
 
-Uuid: 7QAL4Rt9eq8B8iPP
+Uuid: AwlcGLIA4eiLiwCt
 
 ----
 

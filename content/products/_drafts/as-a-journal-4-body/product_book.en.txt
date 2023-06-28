@@ -11,14 +11,14 @@ author:
   id: 416
 description: '<p>Limited in space, bodies are immense in their potentiality. Today, in the face of a crisis – ecological, military, economic and social – it is their vulnerability that defines them most. Guest edited by Neringa Černiauskaitė, a writer, curator and one half of the artistic duo Pakui Hardware, the issue scrutinizes vulnerability in order to show that it is often evoked by systemic flaws rather than personal failures. At the same time, vulnerability is not treated here as something to be anxious about, but as a tool for building community, for transforming rigid structures, for bringing the flesh into theory, and to open up oneself to the other.</p>'
 details: |
-  ISSN: 2783-5685
-  Content: 200 pages
-  Size: 210 × 265 mm
-  Design: Vytautas Volbekas
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Lithuanian Culture Institute. All rights reserved.
+  ISSN: "2783-5685"
+  Content: "200 pages"
+  Size: "210 × 265 mm"
+  Design: "Vytautas Volbekas"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Lithuanian Culture Institute. All rights reserved."
 gallery:
   - 
     url: >
@@ -47,7 +47,7 @@ Body
 
 ----
 
-Uuid: fvNzaezFy14JdMQt
+Uuid: V0g2bDlpE5JTCZ6j
 
 ----
 

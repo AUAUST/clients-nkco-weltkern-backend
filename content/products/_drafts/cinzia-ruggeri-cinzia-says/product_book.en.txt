@@ -14,13 +14,13 @@ description: |
   <p>Published with MACRO – Museum of Contemporary Art of Rome, this book is constructed as a broad, expanded chronology offering documents, photographs, accounts, and essays that bring to light a story left in the shadows for too long, and a legacy to look to now.</p>
   <p>Project supported by the Italian Council (9th edition, 2020), program to promote Italian contemporary art in the world by the Directorate-General for Contemporary Creativity of the Italian Ministry of Culture.</p>
 details: |
-  ISBN: 8867496181 / 978-8867496181
-  Content: 416 pages
-  Size: 220 × 320 mm
-  Language: English / Italian
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Mousse Publishing. All rights reserved.
+  ISBN: "8867496181 / 978-8867496181"
+  Content: "416 pages"
+  Size: "220 × 320 mm"
+  Language: "English / Italian"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -73,7 +73,7 @@ Cinzia Says...
 
 ----
 
-Uuid: CJaHErdeEqIu5gvS
+Uuid: aRwqxDZN1NKEFXc5
 
 ----
 

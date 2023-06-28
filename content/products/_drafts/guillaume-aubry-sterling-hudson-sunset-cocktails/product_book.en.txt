@@ -20,13 +20,13 @@ description: |
   The heavenly body melts and dilutes its bitterness into a sensorial experience of the world.<br />
   Astonishment of an esthetic sunset.</p>
 details: |
-  ISBN: 2365680509 / 978-2365680509
-  Content: 80 pages
-  Size: 200 × 120 mm
-  Language: English
-  Publication: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / JBE BOOKS. All rights reserved.
+  ISBN: "2365680509 / 978-2365680509"
+  Content: "80 pages"
+  Size: "200 × 120 mm"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / JBE BOOKS. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ Sunset Cocktails
 
 ----
 
-Uuid: Hwfp3F2jRkbkj7mY
+Uuid: 9oYl7PuR3Z0WDUkF
 
 ----
 

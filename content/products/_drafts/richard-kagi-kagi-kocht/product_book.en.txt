@@ -16,16 +16,16 @@ description: |
   <br />
   The most important ingredients? The most important kitchen utensils? Help with the right choice of wine? Rules for successful invitations and the art of being a good host? Kägi knows them all. In between, he tells in entertaining episodes about his experiences as a food scout about the never-ending search for the best salumi, about vanilla drama in Madagascar and sushi happiness in Tokyo.</p>
 details: |
-  ISBN: 3039020379 / 978-3039020379
+  ISBN: "3039020379 / 978-3039020379
   
-  Content: 336 pages
-  Size: 215 × 35 × 302 mm
-  Author: Richard Kägi
-  Font in use: TWK Lausanne
-  Language: German
-  Publishing date: 2020
-  Specs: Hardcover
-  Images: © WELTKERN® / AT Verlag. All rights reserved.
+  Content: "336 pages"
+  Size: "215 × 35 × 302 mm"
+  Author: "Richard Kägi"
+  Font in use: "TWK Lausanne"
+  Language: "German"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / AT Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,7 +78,7 @@ Kägi kocht
 
 ----
 
-Uuid: SlYoikhAwwGBwKPI
+Uuid: o2Agu1wmhoVmFesf
 
 ----
 

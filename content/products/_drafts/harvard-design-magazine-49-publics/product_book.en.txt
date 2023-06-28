@@ -11,13 +11,13 @@ author:
   id: 373
 description: '<p>There are deep concerns for the status of our shared commonwealth in the wake of the multiple political controversies and social crises of the past two decades. This issue of ‘Harvard Design’ addresses the status of “the public” in political and social discourse, in design thinking and practice, and in the built environment itself. Leading public intellectuals, scholars, and practitioners in architecture, urban planning, landscape architecture, social sciences, and humanities ponder the fate of the public in a world where xenophobic thinking and challenges to collective responsibility are becoming ever more dominant. The magazine is guested edited by Anita Berrizbeitia and Diane E. Davis.</p>'
 details: |
-  ISBN: 2854400465 / 978-2854400465
-  Content: 160 pages
-  Size: 230 × 300 mm
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Harvard University. All rights reserved.
+  ISBN: "2854400465 / 978-2854400465"
+  Content: "160 pages"
+  Size: "230 × 300 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Harvard University. All rights reserved."
 gallery:
   - 
     url: >
@@ -34,7 +34,7 @@ Harvard Design Magazine
 
 ----
 
-Uuid: uMizfRy3QAHOV2qX
+Uuid: Mk7DfaMxigC9tapf
 
 ----
 

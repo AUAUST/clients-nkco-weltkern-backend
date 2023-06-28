@@ -14,15 +14,15 @@ description: |
   <br />
   professor of architecture history at ETH Zurich. Keeping the body in its comfort zone is the secret watchword of our daily environment. As soon as a door is crossed, as soon as an interior is roamed, the environment must be controlled, air conditioned, sanitised. This invisible normalisation is not merely an infra-spatial issue. From comfort to conformism, even conformation, there is only one step. The issue explores how this process is already insidiously changing some of our behaviours.</p>
 details: |
-  ISBN: 2491039059 / 978-2491039059
-  Content: 64 pages
-  Size: 230 × 5 × 305 mm
-  Author: Simon Campedel
-  Design: Spassky Fischer
-  Language: French / English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: "2491039059 / 978-2491039059"
+  Content: "64 pages"
+  Size: "230 × 5 × 305 mm"
+  Author: "Simon Campedel"
+  Design: "Spassky Fischer"
+  Language: "French / English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,7 +59,7 @@ Hyperconfort
 
 ----
 
-Uuid: 6tdqbjZkQCX1UMck
+Uuid: ptE1FM7p5Q5yFFTL
 
 ----
 

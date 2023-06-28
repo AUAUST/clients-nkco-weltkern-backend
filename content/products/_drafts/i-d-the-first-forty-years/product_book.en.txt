@@ -14,13 +14,13 @@ description: |
   <p>Over the 40 years since its launch, i-D has grown from a hand-stapled zine to one of the world&#8217;s leading international style titles with two million Instagram followers. Founded by Terry Jones in 1980, i-D began as a chronicle of style and attitude as much as a fashion bible, and over the years it has kept to that ethos, in the process becoming a nurturing ground for gener-ations of fashion talents, from David Sims to Juergen Teller, Edward Enninful to Wolfgang Tillmans, Tyler Mitchell to Harley Weir.<br />
   This celebratory volume commemorates the 40th anniversary of i-D through the prism of different cultural eras, with each chapter focusing on a decade of the magazine&#8217;s history and featuring a mix of original rephotographed spreads from the magazine, reprinted text pieces, archival imagery, covers, and new essays exploring both the history of i-D and the wider cultural contexts of the era it was created in. It&#8217;s a magazine that has given Greta Thunberg, Madonna, Naomi Campbell, and Sonic the Hedgehog their first covers; that invented the emoticon; and that, across 40 years and 500 cover winks, has had one defining message: that fashion should be inclusive, fun, diverse, and-always-original.</p>
 details: |
-  ISBN: 0847871780 / 978-0847871780
-  Content: 336 pages
-  Size: 254 × 329 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN® /‎ Rizzoli. All rights reserved.
+  ISBN: "0847871780 / 978-0847871780"
+  Content: "336 pages"
+  Size: "254 × 329 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® /‎ Rizzoli. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ The First Forty Years
 
 ----
 
-Uuid: tI1274wLxPdngjKl
+Uuid: v5d2rjYWRYzp6Jl0
 
 ----
 

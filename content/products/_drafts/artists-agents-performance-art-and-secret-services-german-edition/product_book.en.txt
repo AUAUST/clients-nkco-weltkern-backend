@@ -15,13 +15,13 @@ description: |
   <p>Kata Krasznahorkai is a curator and research assistant on the ERC project “Performance Art in Eastern Europe 1950–1990: History and Theory” at the University of Zurich’s Slavisches (Slavonic) Seminar.</p>
   <p>Sylvia Sasse, author and curator, is professor of Slavonic Literature at the University of Zurich and heads the ERC project “Performance Art in Eastern Europe 1950–1990: History and Theory”.</p>
 details: |
-  ISBN: 3959053334 / 978-3959053334
-  Content: 686 pages
-  Size: 216 × 170 mm
-  Language: German
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: "3959053334 / 978-3959053334"
+  Content: "686 pages"
+  Size: "216 × 170 mm"
+  Language: "German"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,7 +55,7 @@ German Edition
 
 ----
 
-Uuid: MYzl9NS113A6aLp4
+Uuid: Az1KA7W5Ri1j8Csy
 
 ----
 

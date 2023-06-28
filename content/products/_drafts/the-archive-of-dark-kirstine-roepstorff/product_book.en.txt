@@ -14,15 +14,15 @@ description: |
   <br />
   The book is case-bound with a linen cloth and has four cover variations, each with a different combination of plate sunk images. To select a specific print please email us.</p>
 details: |
-  ISBN: 1916002470 / 978-1916002470
-  Content: 304 Pages
-  Size: 215 × 25 × 300 mm
-  Authors: Kirstine Roepstorff
-  Design: OK-RM
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © WELTKERN® / InOtherWords. All rights reserved.
+  ISBN: "1916002470 / 978-1916002470"
+  Content: "304 Pages"
+  Size: "215 × 25 × 300 mm"
+  Authors: "Kirstine Roepstorff"
+  Design: "OK-RM"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / InOtherWords. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,7 +63,7 @@ Kirstine Roepstorff
 
 ----
 
-Uuid: 7bVrGo6XV2pQG4kW
+Uuid: r431pzCbGGGZA8Es
 
 ----
 

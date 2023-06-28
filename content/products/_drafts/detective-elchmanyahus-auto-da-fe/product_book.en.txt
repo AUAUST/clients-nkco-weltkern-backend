@@ -14,16 +14,16 @@ description: |
   <p>Detective Elchmanyahu&#8217;s auto-da-fe follows the bound to fail investigation on the fire that burned a public art collection in southern Tel Aviv. The dodgy officer in charge uses all imaginable tricks and trades of whodunit novels to unfold a police investigation that casts a gloomy yet lucid look over the Israeli culture and its visual art scene. Framed in between fact and fiction by the tendentious writing of Jonathan Touitou, this book is a layered investigation of the art world and its deeds.</p>
   <p>Against the backdrop of the second Intifada and today&#8217;s recurrent undermining of Palestinian rights, this controversial book will provide its readers with a perspective of an infiltrated outsider on the Israeli society, possibly supply the welding torch for the cynical ones, a bonfire for the freaks and fireworks for the wholehearted.</p>
 details: |
-  ISBN: 9493148635 / 978-9493148635
-  Content: 230 pages
-  Size: 110 × 178 mm
-  Language: English, Hebrew
-  Publishing date: 2021
-  Author: Jonathan Touitou
-  Edited by : Orit Bulgaru and Jonathan Touitou
-  Design by: Quentin Gaudry, assisted by Aurelie Morra
-  Specs: Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  ISBN: "9493148635 / 978-9493148635"
+  Content: "230 pages"
+  Size: "110 × 178 mm"
+  Language: "English, Hebrew"
+  Publishing date: "2021"
+  Author: "Jonathan Touitou"
+  Edited by : "Orit Bulgaru and Jonathan Touitou"
+  Design by: "Quentin Gaudry, assisted by Aurelie Morra"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ auto-da-fe
 
 ----
 
-Uuid: UhHkKMuSwswU6XGN
+Uuid: VlBpnbpY6rUXejkm
 
 ----
 

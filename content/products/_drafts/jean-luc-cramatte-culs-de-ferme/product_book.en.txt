@@ -16,15 +16,15 @@ description: |
   <br />
   From the first hints of degradation to outright overgrown ruins, his pictures seize the status quo. Unvarnished and free of nostalgia, though never accusing or complaining, they offer an insightful look at the state of decline. Above and beyond his ethnological and sociological approach, Cramatte seeks above all to capture situations that remind him of real or literary events.</p>
 details: |
-  ISBN: 3906803180 / 978-3906803180
-  Content: 288 pages
-  Size: 235 × 25 × 305 mm
-  Author: Jean-Luc Cramatte
-  Design: Studio–Rubic
-  Language: English / French
-  Publishing date: 2017
-  Specs: Softcover
-  Images: © Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803180 / 978-3906803180"
+  Content: "288 pages"
+  Size: "235 × 25 × 305 mm"
+  Author: "Jean-Luc Cramatte"
+  Design: "Studio–Rubic"
+  Language: "English / French"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ Culs de ferme
 
 ----
 
-Uuid: G5s25tCqgHwWXeSK
+Uuid: NYeAK4hqLO2X4PPR
 
 ----
 

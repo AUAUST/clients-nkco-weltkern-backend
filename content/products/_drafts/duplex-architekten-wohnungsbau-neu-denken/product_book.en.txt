@@ -17,16 +17,16 @@ description: |
   <br />
   Nele Dechmann&#8217;s text and Ludovic Balland&#8217;s photo essay serve to illuminate Duplex Architects&#8217; work each in their own way. Further texts are contributed by the firm&#8217;s founding partners Anne Kaestle and Dan Schurch, as well as by other expert authors, who cast their own personal glance at the five projects featured in this book.</p>
 details: |
-  ISBN: 3038602309 / 978-3038602309
-  Content: 320 Pages
-  Size: 234 × 31 × 304 mm
-  Authors: Ludovic Balland, Nele Dechmann
-  Texts by: Nele Dechmann
-  Design: Ludovic Balland, Jana Lill, Annina Schepping, Valentin Kopka, Pascal Sennhauser, Dominik Lang
-  Language: German
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN®. All rights reserved.
+  ISBN: "3038602309 / 978-3038602309"
+  Content: "320 Pages"
+  Size: "234 × 31 × 304 mm"
+  Authors: "Ludovic Balland, Nele Dechmann"
+  Texts by: "Nele Dechmann"
+  Design: "Ludovic Balland, Jana Lill, Annina Schepping, Valentin Kopka, Pascal Sennhauser, Dominik Lang"
+  Language: "German"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -79,7 +79,7 @@ Wohnungsbau neu denken
 
 ----
 
-Uuid: yoovrC2UsPNBmT68
+Uuid: KoEuM5aLGtdxo0Hf
 
 ----
 

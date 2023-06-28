@@ -16,15 +16,15 @@ description: |
   <br />
   Barabancea uses the camera as a tool to interact with his subjects. But instead of staging picturesque portraits, he zeroes in on moments of ruthless rawness and keen poignancy.</p>
 details: |
-  ISBN: 3906803951 / 978-3906803951
-  Content: 288 pages
-  Size: 190 × 33 × 244 mm
-  Author: Mihai Barabancea
-  Design: Maximage
-  Language: English
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803951 / 978-3906803951"
+  Content: "288 pages"
+  Size: "190 × 33 × 244 mm"
+  Author: "Mihai Barabancea"
+  Design: "Maximage"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,7 +62,7 @@ Multilinetitle: Falling on Blades
 
 ----
 
-Uuid: Wd7URiTg0K4wf4NU
+Uuid: 1crPrsCWV2nLxjyb
 
 ----
 

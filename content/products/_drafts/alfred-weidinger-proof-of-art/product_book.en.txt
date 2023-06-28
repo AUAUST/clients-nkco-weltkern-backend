@@ -14,13 +14,13 @@ description: |
   <br />
   Released in conjunction with the exhibition, the publication is designed less as an accompanying catalogue than as a handbook that sheds light on NFTs in their (art-)historical contexts, from the media art of the 1950s/60s to contemporary positions. Experts in a range of disciplines contributed essays: Daniel Heiss and Margit Rosen, Fabian Müller-Nittel, Georg Bak, Anika Meier, Schoenherr Attorneys at Law, Charlotte Kent, and Claudia Hart. With a preface by Alfred Weidinger and an intro by Jesse Damiani.</p>
 details: |
-  ISBN: 3954764393 / 978-3954764396
-  Content: 256 pages
-  Size: 195 × 250 mm
-  Language: German / English
-  Publishing date: 2021
-  Specs: Hardcover with Dust Jacket
-  Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: "3954764393 / 978-3954764396"
+  Content: "256 pages"
+  Size: "195 × 250 mm"
+  Language: "German / English"
+  Publishing date: "2021"
+  Specs: "Hardcover with Dust Jacket"
+  Images: "© WELTKERN® / Distanz. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Proof Of Art
 
 ----
 
-Uuid: hyMQ99G9e83Usyfp
+Uuid: jAGEXU3gjtXeYaeC
 
 ----
 

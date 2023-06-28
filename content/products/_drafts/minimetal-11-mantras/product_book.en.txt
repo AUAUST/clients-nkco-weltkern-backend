@@ -19,15 +19,15 @@ description: |
   <br />
   <em>MINIMETAL 11 MANTRAS</em> isn&#8217;t just a journey back across 22 years of Minimetal&#8217;s multi-media œuvre, but a journey through the history of sound quality as well. This photobook is illustrated with QR codes, “quick response” codes you can scan with a smartphone for direct access to 13 hours of audio and video content on the web, which makes this book a sound and video carrier as well.</p>
 details: |
-  ISBN: 3906803090 / 978-3906803098
-  Content: 260 pages
-  Size: 215 × 17 × 275 mm
-  Authors: Laurent Goei, Nik Emch
-  Design: Minimetal
-  Language: French
-  Publishing date: 2016
-  Specs: Softcover
-  Images: © Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803090 / 978-3906803098"
+  Content: "260 pages"
+  Size: "215 × 17 × 275 mm"
+  Authors: "Laurent Goei, Nik Emch"
+  Design: "Minimetal"
+  Language: "French"
+  Publishing date: "2016"
+  Specs: "Softcover"
+  Images: "© Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,7 +64,7 @@ Minimetal
 
 ----
 
-Uuid: GFyNGXKXpBUk6lGF
+Uuid: lyxX5uBbDg3YZoaM
 
 ----
 

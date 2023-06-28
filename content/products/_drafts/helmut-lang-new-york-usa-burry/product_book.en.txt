@@ -11,15 +11,15 @@ author:
   id: 263
 description: ""
 details: |
-  Supported by: Edition Fästing Plockare, Biel / Bienne
-  Content: 28 Pages
-  Size: 130 × 190 mm
-  Language: English
-  Publishing date: 2018
-  Specs: Softcover
+  Supported by: "Edition Fästing Plockare, Biel / Bienne"
+  Content: "28 Pages"
+  Size: "130 × 190 mm"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover
   Black & White Offset Printed
-  Edition of 1000
-  Images: © WELTKERN® / innen zines. All rights reserved.
+  Edition of 1000"
+  Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
     url: >
@@ -44,7 +44,7 @@ Burry
 
 ----
 
-Uuid: 3yXCrJ2FJLcyw9Au
+Uuid: Vp3eLjJFolErOJaQ
 
 ----
 

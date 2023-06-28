@@ -16,14 +16,14 @@ description: |
   <br />
   Each issue features two sections: The first one is printed in tri-color on thick paper, and presents a series of original photos of ancient and contemporary objects, faithfully reproduced. The second one is printed in color on thin paper and contains authors&#8217; texts, a crossed interview, a factory documentary and archive images.</p>
 details: |
-  ISBN: 978-2490958016 / 2490958016
-  Content: 64 pages
-  Size: 210 × 7 × 260 mm
-  Texts by: Philippe Louguet, Miguel Mila, Stephane Derenencourt, Carlos de Jesus
-  Language: English
-  Publishing date: 2019
-  Specs: Softcover
-  Images: © Collections Typologie. All rights reserved.
+  ISBN: "978-2490958016 / 2490958016"
+  Content: "64 pages"
+  Size: "210 × 7 × 260 mm"
+  Texts by: "Philippe Louguet, Miguel Mila, Stephane Derenencourt, Carlos de Jesus"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Collections Typologie. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,7 +60,7 @@ The cork stopper
 
 ----
 
-Uuid: Czv1eVgHE648XiW8
+Uuid: gcomOnhXjJUfZv5l
 
 ----
 

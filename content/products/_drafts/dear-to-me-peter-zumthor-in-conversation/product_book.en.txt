@@ -16,13 +16,13 @@ description: |
   <br />
   Peter Zumthor works with his Atelier of around thirty people in the alpine setting of Haldenstein, Switzerland, producing architectural originals like Kunsthaus Bregenz, Therme Vals, Museum Kolumba Köln, the Steilneset Memorial in Vardø, and currently the new building for the Los Angeles Museum of Art (LACMA).</p>
 details: |
-  ISBN: 3039420100 / 978-3039420100
-  Content: 444 pages
-  Size: 210 × 125 mm
-  Language: English
-  Publishing date: 2021
-  Specs: 18 Stapled booklets in box, 9 color illustrations
-  Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+  ISBN: "3039420100 / 978-3039420100"
+  Content: "444 pages"
+  Size: "210 × 125 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "18 Stapled booklets in box, 9 color illustrations"
+  Images: "© WELTKERN® / Scheidegger & Spiess. All rights reserved."
 gallery:
   - 
     url: >
@@ -67,7 +67,7 @@ Peter Zumthor in Conversation
 
 ----
 
-Uuid: UvdAcVkxmh0AV9tS
+Uuid: ZZ0H67k5jgpoLFWz
 
 ----
 

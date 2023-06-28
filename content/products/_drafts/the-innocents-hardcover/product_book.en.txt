@@ -13,15 +13,15 @@ description: |
   <p>The fallibility of the criminal justice system and the duplicity of the image: Taryn Simon’s acclaimed and beautifully produced first book, available in an expanded edition with previously unpublished images, essays and archival material</p>
   <p>Taryn Simon’s earliest body of work, The Innocents (2002), documents the stories of individuals who served time in prison for violent crimes they did not commit. The series centers on the question of photography as credible witness and arbiter of justice, since a primary cause of wrongful conviction is mistaken identification. Suspected perpetrators are identified through photographs and lineups, a procedure that relies on the assumption of precise visual memory. But through exposure to composite sketches, mug shots, Polaroids and lineups, eyewitness memory can change. In these cases, photography offered the criminal-justice system a tool that transformed innocent citizens into criminals. Simon photographed these men and one woman at sites that had particular significance to their illegitimate conviction: the scene of misidentification, the scene of arrest, the scene of the crime, or the scene of the alibi.</p>
 details: |
-  : 1633450837 / 978-1633450837
+  : "1633450837 / 978-1633450837
   
-  Content: 368 pages
-  Size: 250 × 340 mm
-  Design: Face.
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN ® / MoMa. All rights reserved.
+  Content: "368 pages"
+  Size: "250 × 340 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / MoMa. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,7 +58,7 @@ Hardcover
 
 ----
 
-Uuid: e2Y8tiD4NqoaQ6Zr
+Uuid: Ojca5sVsAgG7diJ2
 
 ----
 

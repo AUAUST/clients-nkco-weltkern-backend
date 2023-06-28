@@ -11,14 +11,14 @@ author:
   id: 242
 description: '<p><em>KALEIDOSCOPE</em> is today’s most innovative magazine of contemporary art and visual culture, founded in 2009 in Milan at the core of a creative studio with a distinctly curatorial and interdisciplinary approach.</p>'
 details: |
-  ISBN: 2000000005874
-  Content: 272 pages
-  Size: 220 × 12 × 280 mm
-  Design: Bureau Borsche
-  Language: English
-  Publishing date: 2015
-  Specs: Softcover
-  Images: © WELTKERN® / KALEIDOSCOPE / Bureau Borsche. All rights reserved.
+  ISBN: "2000000005874"
+  Content: "272 pages"
+  Size: "220 × 12 × 280 mm"
+  Design: "Bureau Borsche"
+  Language: "English"
+  Publishing date: "2015"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE / Bureau Borsche. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,7 +59,7 @@ Spring/Summer 2015
 
 ----
 
-Uuid: V7R6091yPKm8fcGW
+Uuid: J4dRfzgZDtFl8jbF
 
 ----
 

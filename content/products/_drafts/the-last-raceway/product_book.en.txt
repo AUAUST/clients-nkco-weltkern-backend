@@ -13,13 +13,13 @@ description: |
   <p>his is the limited edition of The last Raceway, made with a special cover change, gold foiled onto a black Fedrigoni Pitch, including a beautiful archival print of the last image of the book, the empty seats, produced in a limited series of 100 prints.</p>
   <p>Cornwall’s last banger and stock car racing track lies in the village of St Day. One by one tracks are disappearing throughout the UK as the subculture succumbs to a slow decline. For 50 years the track at St Day has been kept alive, through love, devotion and community, but it now faces its toughest test. The Last Raceway tells the story of the track as it faces demolition, a tourist attraction planned in its place. Regardless of its physical fate, this book aims to provide a home for the track, its stories, and its people, in what could be its final season.</p>
 details: |
-  ISBN: 1916225381 / 978-1916225381
-  Content: 122 pages
-  Size: 200 × 230 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN ® / Guest Editions. All rights reserved.
+  ISBN: "1916225381 / 978-1916225381"
+  Content: "122 pages"
+  Size: "200 × 230 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Guest Editions. All rights reserved."
 gallery:
   - 
     url: >
@@ -77,7 +77,7 @@ Multilinetitle: The Last Raceway
 
 ----
 
-Uuid: mAa8Ft9xCaXCUnJa
+Uuid: hZvToxHQMuRDseIh
 
 ----
 

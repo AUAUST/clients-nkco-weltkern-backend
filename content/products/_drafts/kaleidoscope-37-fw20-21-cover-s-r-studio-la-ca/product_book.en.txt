@@ -39,13 +39,13 @@ description: |
   <br />
   Jean-Marie Appriou by Harry Burke; Takashi Homma by Olivia Whittick; Kamixlo by John Twells; Tishan Hsu by Lola Kramer; Josh Kline by Adriana Blidaru; Bone Soda by Carlotta Maneschi; Oswalde by Rhea Dillon; Linder Sterling by Francesca Gavin; Dachi Cole by Lucas Mascatello; Austin Lee by Gabriela Acha; The New Normal by Allan Gardner; Alex Becerra by Mitchell Anderson; Collina Strada by Carlotta Maneschi; OJAS by Katja Horvat; Ram Han by Thomas Mouna; Actress by Anna Tehabsim; Hannah Quinlan &#038; Rosie Hastings by Reba Maybury; ize by Katja Horvat; DeForrest Brown, Jr. by Deborah-Joyce Holman; GR10K by Madeleine Holth; Darja Bajagić by Pierre-Alexandre Mateos &#038; Charles Teyssou.</p>
 details: |
-  ISSN: 2038-4087
-  Content: 452 Pages
-  Size: 230 × 24 × 300 mm
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISSN: "2038-4087"
+  Content: "452 Pages"
+  Size: "230 × 24 × 300 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -142,7 +142,7 @@ Cover: S.R. Studio. LA. CA
 
 ----
 
-Uuid: 6GbRWap9SMRLXeLc
+Uuid: zzH45l0qBhmjBPkb
 
 ----
 

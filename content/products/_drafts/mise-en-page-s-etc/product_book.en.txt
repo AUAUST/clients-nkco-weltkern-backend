@@ -16,14 +16,14 @@ description: |
   <br />
   <em>Mise en page(s), etc.</em> explores all aspects of the composition of a book, a poster or a promotional document: from the elaboration of composition grids through the informed use of colors and typefaces to the fine typographic adjustments such as justification, alignment, and hyphenation. Commented diagrams explain the technical terms that must be understood in order to master the rules of composition.</p>
 details: |
-  ISBN: 2350171692 / 978-2350171692
-  Content: 272 pages
-  Size: 235 × 30 × 315 mm
-  Authors: Damien Gautier, Claire Gautier
-  Language: French
-  Publishing date: 2010
-  Specs: Hardcover
-  Images: © WELTKERN® / Pyramyd. All rights reserved.
+  ISBN: "2350171692 / 978-2350171692"
+  Content: "272 pages"
+  Size: "235 × 30 × 315 mm"
+  Authors: "Damien Gautier, Claire Gautier"
+  Language: "French"
+  Publishing date: "2010"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Pyramyd. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Multilinetitle: Mise en page(s), etc.
 
 ----
 
-Uuid: YYYD2wyEai63MclF
+Uuid: y5VwZ1G88qo0Ac6y
 
 ----
 

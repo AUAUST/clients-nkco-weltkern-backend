@@ -11,15 +11,15 @@ author:
   id: 105
 description: '<p><em>The Journey of Things</em> by Magdalene Odundo has been published alongside the exhibition of the same name presented at The Hepworth Wakefield in Spring 2019. The book features 44 of Odundo’s vessels alongside a large selection of museological and contemporary objects that reveal the wide range of global references that have informed her practice. The book object comprises a series of interleaved sections presenting an organic flow of content which pairs and juxtaposes the historic and the contemporary, featuring works by Barbara Hepworth, Henry Moore, Henri Gaudier-Brzeska, Lucie Rie, Jean Arp, as well as ancient vessels from Greece and Egypt, historic ceramics from Africa, Asia and Central America, and ritual objects from across the African continent.</p>'
 details: |
-  ISBN: 1916002418 / 978-1916002418
-  Content: 184 pages
-  Size: 180 × 15 × 240 mm
-  Author: Magdalene Odundo
-  Design: OK-RM
-  Language: English
-  Publishing date: 2019
-  Specs: Softcover
-  Images: © InOtherWords. All rights reserved.
+  ISBN: "1916002418 / 978-1916002418"
+  Content: "184 pages"
+  Size: "180 × 15 × 240 mm"
+  Author: "Magdalene Odundo"
+  Design: "OK-RM"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© InOtherWords. All rights reserved."
 gallery:
   - 
     url: >
@@ -52,7 +52,7 @@ The Journey of Things
 
 ----
 
-Uuid: jeDOMroAKiua0BaH
+Uuid: FN1WeGffbmkzTKiW
 
 ----
 

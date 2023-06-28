@@ -14,17 +14,17 @@ description: |
   <br />
   In terms of editing, design, colour separation, choice of materials, printing and bookbinding we think this book is a graphic „Gesamtkunstwerk made in Veneto, Italy”. It was created in close cooperation with the photographers, the designer, the editors and one of the many outstanding local graphic companies not far from Castelfranco (Grafiche Antiga).</p>
 details: |
-  ISBN: 3960700806 / 978-3960700807
-  Content: 96 pages
-  Size: 302 × 17 × 322 mm
-  Artist: Guido Guidi, Gerry Johansson
-  Edited by: Hartmann Books
-  Texts by: Stefania Rössl
-  Design: Damiano Fraccaro
-  Language: Italian / English
-  Publishing date: 2021
-  Specs: Three-part hardcover with two fold-out Swiss brochures, with blind and color embossing
-  Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: "3960700806 / 978-3960700807"
+  Content: "96 pages"
+  Size: "302 × 17 × 322 mm"
+  Artist: "Guido Guidi, Gerry Johansson"
+  Edited by: "Hartmann Books"
+  Texts by: "Stefania Rössl"
+  Design: "Damiano Fraccaro"
+  Language: "Italian / English"
+  Publishing date: "2021"
+  Specs: "Three-part hardcover with two fold-out Swiss brochures, with blind and color embossing"
+  Images: "© WELTKERN® / Hartmann Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Verso Nord
 
 ----
 
-Uuid: XntjrIC2XQortUFB
+Uuid: E5uq0dAIxUlE2D4R
 
 ----
 

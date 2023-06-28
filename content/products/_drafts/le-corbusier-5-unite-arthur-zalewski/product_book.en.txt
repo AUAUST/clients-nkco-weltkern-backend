@@ -11,16 +11,16 @@ author:
   id: 99
 description: '<p>Le Corbusier planned and built five Unités d’Habitation in Marseille, Rezé (Nantes), Berlin, Briey-en-Forêt, and Firminy in the period from 1945 to 1967. Owing to the acute shortage of housing after the war, he also developed a new type of building, a multifunctional block of flats that combined a large number of apartments on a small plot: the buildings included a roof landscape and other urban structures, such as a kindergarten, cinema, pharmacy, and grocery store. The prototype for the Unités was built in Marseille in 1952: its revolutionary idea of the vertical city offered entirely novel solutions to urban planning issues and social, aesthetic and structural questions, prompting intense international discussion. The five Unités, which are now in very different states of repair, have been photographed by Arthur Zalewski. Le Corbusier: 5 × Unité – Marseille, Nantes, Berlin, Briey, Firminy by Arthur Zalewski will be shown in five exhibitions, curated by Peter Ottmann, from April to November 2019 in C834 in the Corbusierhaus in Berlin.</p>'
 details: |
-  ISBN: 3959053013 / 978-3959053013
-  Content: 384 pages
-  Size: 220 × 28 × 320 mm
-  Edited by: Peter Ottmann
-  Texts by: Arthur Zalewski, Peter Ottmann, Anne König
-  Design: Helmut Völter
-  Language: English / French / German
-  Publishing date: 2019
-  Specs: Hardcover
-  Images: © Spector Books. All rights reserved.
+  ISBN: "3959053013 / 978-3959053013 "
+  Content: "384 pages"
+  Size: "220 × 28 × 320 mm"
+  Edited by: "Peter Ottmann"
+  Texts by: "Arthur Zalewski, Peter Ottmann, Anne König"
+  Design: "Helmut Völter"
+  Language: "English / French / German"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -57,7 +57,7 @@ Le Corbusier
 
 ----
 
-Uuid: jT29KfY6uVNU7qtf
+Uuid: 8f2WLPRoKrbYB06w
 
 ----
 

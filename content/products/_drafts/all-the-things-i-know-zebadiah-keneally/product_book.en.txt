@@ -13,13 +13,13 @@ description: |
   <p>In a world where people are people, animals are people, hamburgers and hot dogs are people, an irresistible spirit-slumber has seeped through the collective consciousness, nearly snuffing out the soul of the living, breathing world. Nearly inaudibly, heart song echoes through this fog of confusion; time has folded in on itself, allowing not only God but Jupiter, Neptune, Pluto, and Hera to enter the waking realism, where they vie for power and sway over the fate of the planet.</p>
   <p>This is the story that New York-based artist Zebadiah Keneally has set himself the task of reciting in his first ever (but none the less epic) graphic novel, All the Things I Know. This 380-page saga is contained within a softcover book with pink PVC dust jacket and comes after publishing two of its chapters in issues #27 and #28 of Apartamento magazine.</p>
 details: |
-  ISBN: 8409424733 / 978-8409424733
-  Content: 380 pages
-  Size: 190 × 240 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Apartamento. All rights reserved.
+  ISBN: "8409424733 / 978-8409424733"
+  Content: "380 pages"
+  Size: "190 × 240 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Apartamento. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,7 +60,7 @@ Zebadiah Keneally
 
 ----
 
-Uuid: ZQTkVN6w4ULite5N
+Uuid: 01asDovzBZ0yXanC
 
 ----
 

@@ -16,16 +16,16 @@ description: |
   <br />
   According to the artist, PRIMAL is a “tribute to desire” that seeks to articulate a holistic and openended conception of desire—stripped of classifications and hierarchies. This series thus becomes a photographic appropriation of advertising posters as an act of re-framing, over which looms a nagging question: What role should photography play now, amid the seemingly endless glut of images in the wake of everincreasing digitization?</p>
 details: |
-  ISBN: 3907236154 / 978-3907236154
-  Content: 156 pages
-  Size: 250 × 358 mm
-  Author: Anna Stüdeli
-  Texts by: Urs Stahel
-  Design: Marietta Eugster
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236154 / 978-3907236154"
+  Content: "156 pages"
+  Size: "250 × 358 mm"
+  Author: "Anna Stüdeli"
+  Texts by: "Urs Stahel"
+  Design: "Marietta Eugster"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -66,7 +66,7 @@ PRIMAL
 
 ----
 
-Uuid: EgZV6fPhsXxf9Lmf
+Uuid: bZmzi9aC5IBgxHqv
 
 ----
 

@@ -15,14 +15,14 @@ description: |
   <br />
   Accompanies the New Museum&#8217;s much-anticipated fifth Triennial exhibition, opening in October 2021 in New York City, spotlighting an exciting group of 40 artists and collectives, each selected for their ability to invoke ideas of global concern &#8211; including the questioning of accepted narratives and imagining new creative paths for the future.</p>
 details: |
-  ISBN: 1838664033 / 978-1838664039
-  Content: 368 pages
-  Size: 229 × 35 × 292 mm
-  Author: Jamillah James, Margot Norton
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN® / Phaidon Press Ltd. All rights reserved.
+  ISBN: "1838664033 / 978-1838664039"
+  Content: "368 pages"
+  Size: "229 × 35 × 292 mm"
+  Author: "Jamillah James, Margot Norton"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Phaidon Press Ltd. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Soft Water Hard Stone
 
 ----
 
-Uuid: SsjlxpFd5T0BQEIH
+Uuid: IPBU530FmclHCqma
 
 ----
 

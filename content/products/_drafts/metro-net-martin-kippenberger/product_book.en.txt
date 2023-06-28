@@ -14,16 +14,16 @@ description: |
   <br />
   Marcus Andrew Hurttig has been curator for modern and contemporary art at the Museum der bildenden Künste Leipzig since 2017. Stefan Weppelmann has been director of the Museum der bildenden Künste Leipzig since 2021.</p>
 details: |
-  ISBN: 395905484X / 978-3959054843
-  Content: 144 pages
-  Size: 175 × 225 mm
-  Author: Martin Kippenberger
-  Edited by: Spector Books
-  Design: Hannes Drißner, Fabian Bremer, Pascal Storz
-  Language: German
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "395905484X / 978-3959054843"
+  Content: "144 pages"
+  Size: "175 × 225 mm"
+  Author: "Martin Kippenberger"
+  Edited by: "Spector Books"
+  Design: "Hannes Drißner, Fabian Bremer, Pascal Storz"
+  Language: "German"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Martin Kippenberger
 
 ----
 
-Uuid: YHrYMfL774QPOqoR
+Uuid: avf9zOTtywodYc1h
 
 ----
 

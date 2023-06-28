@@ -13,14 +13,14 @@ description: |
   <p>With five essays, this monograph documents how American artist and filmmaker Peggy Ahwesh has expanded and challenged the paradigm of experimental film through a singular moving image practice developed over four decades.<br />
   Since the early 1980s, Peggy Ahwesh (b. 1954 in Canonsburg, Pennsylvania) has produced one of the most heterogeneous bodies of work in experimental film and video. An authentic bricoleuse, she employs narrative and documentary elements, improvised performance and scripted dialogue, synchronized sound, found footage, digital animation and raw Pixelvision video. His work is primarily an investigation of cultural identity and the role of the subject in various genres. Ahwesh develops forms of subversive amateurism and appropriates traditionally &#8220;feminine&#8221; themes such as the home and the family along with forms of popular culture to address political and social issues with great theoretical and formal rigor.</p>
 details: |
-  ISBN: 8867494835 / 978-8867494835
-  Content: 108 pages
-  Size: 255 × 250 mm
-  Design: Face.
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Mousse Publishing. All rights reserved.
+  ISBN: "8867494835 / 978-8867494835"
+  Content: "108 pages"
+  Size: "255 × 250 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Vision Machines
 
 ----
 
-Uuid: 3zbg28bvRaB8igTr
+Uuid: rlmzmn4xvtAQ9CZn
 
 ----
 

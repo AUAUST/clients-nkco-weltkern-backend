@@ -14,14 +14,14 @@ description: |
   <br />
   <em>Less is More</em> collates about 120 projects that use only a few colours to attract the eye. In three chapters, categorised by the number of colour inks applied, these creative solutions or visual experiments represent a refreshing departure from mainstream designs that play with selective colour formulations, materials, special printing and graphic details and make a unique appeal. They are tailored for clean and effective brand identities, packaging designs, publications and events, large and small. Whether it is for affordability, visual economy, a non-existing colour stock, or a tribute to modernist art, it is a proof that designs can speak more with less.</p>
 details: |
-  ISBN: 9881320490 / 978-9881320490
-  Content: 256 pages
-  Size: 190 × 22 × 255 mm
-  Edited by: Victionary
-  Language: English
-  Publishing date: 2017
-  Specs: Softcover
-  Images: © WELTKERN® / Victionary. All rights reserved.
+  ISBN: "9881320490 / 978-9881320490"
+  Content: "256 pages"
+  Size: "190 × 22 × 255 mm"
+  Edited by: "Victionary"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Victionary. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,7 +55,7 @@ Multilinetitle: Less is More (Gold)
 
 ----
 
-Uuid: NAl6gxw9JTiZtRJ3
+Uuid: rFSNyVKtWGmuemX8
 
 ----
 

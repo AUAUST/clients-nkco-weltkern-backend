@@ -16,14 +16,14 @@ description: |
   <br />
   This book offers a one way-ticket to the Roberta’s universe, packed with never-before-published recipes from the ever-evolving menu, alongside signature graphics, photographs, drawings, and stories from the restaurant responsible for single-handedly making pizza cool again. Hoy and Mirarchi explore the eight pillars of the Roberta’s menu: pantry, charcuterie, vegetables, grill, pizzas, pastas, drinks, and desserts. All-new recipes include signature pizzas like the Famous Original, the Bee Sting, and Team Zissou, as well as classics like Green Lettuces, Cacio e Pepe, and Clam Tagliatelle.</p>
 details: |
-  ISBN: 0847869806 / 978-0847869800
-  Content: 256 Pages
-  Size: 237 × 26 × 292 mm
-  Authors: Carlo Mirarchi, Brandon Hoy
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  ISBN: "0847869806 / 978-0847869800"
+  Content: "256 Pages"
+  Size: "237 × 26 × 292 mm"
+  Authors: "Carlo Mirarchi, Brandon Hoy"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Roberta's
 
 ----
 
-Uuid: yZJI43cgkMy4lfOg
+Uuid: Qw6ET9q3IKwWEO7S
 
 ----
 

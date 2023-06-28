@@ -17,16 +17,16 @@ description: |
   <br />
   The tale they tell is one of clubs as laboratories of otherness, in which people can experiment with new ways of being and assert their claim to the city. <em>Ten Cities</em> is a nocturnal, sound-driven journey through ten social and urban stories from 1960 through to the present.</p>
 details: |
-  ISBN: 3944669797 / 978-3944669793
-  Content: 400 pages
-  Size: 200 × 41 × 270 mm
-  Author: Johannes Hossfeld Etyang
-  Edited by: Johannes Hossfeld Etyang, Joyce Nyairo, Florian Sievers
-  Design: Adriaan Van Leuven
-  Language: English
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © Spector Books. All rights reserved.
+  ISBN: "3944669797 / 978-3944669793"
+  Content: "400 pages"
+  Size: "200 × 41 × 270 mm"
+  Author: "Johannes Hossfeld Etyang"
+  Edited by: "Johannes Hossfeld Etyang, Joyce Nyairo, Florian Sievers"
+  Design: "Adriaan Van Leuven"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -76,7 +76,7 @@ Multilinetitle: Ten Cities
 
 ----
 
-Uuid: S3YNKNsqd96cpyNR
+Uuid: ESSFg1mjUukGA4f1
 
 ----
 

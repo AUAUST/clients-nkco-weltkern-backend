@@ -11,13 +11,13 @@ author:
   id: 386
 description: '<p>The fourth and final volume in Giasco Bertoli&#8217;s dreamlike series immortalising abandoned tennis courts around the world. The photographs follow one another, like a long sequence filmed according to the places and seasons, showing less the inevitable passage of time than the feeling of oblivion.</p>'
 details: |
-  ISBN: 3907179345 / 978-3907179345
-  Content: 60 pages
-  Size: 195 × 255 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / Nieves. All rights reserved.
+  ISBN: "3907179345 / 978-3907179345"
+  Content: "60 pages"
+  Size: "195 × 255 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Nieves. All rights reserved."
 gallery:
   - 
     url: >
@@ -34,7 +34,7 @@ Tennis Courts IV
 
 ----
 
-Uuid: v64dv5AUXp57n16K
+Uuid: USrUasvBSG8eIIbe
 
 ----
 

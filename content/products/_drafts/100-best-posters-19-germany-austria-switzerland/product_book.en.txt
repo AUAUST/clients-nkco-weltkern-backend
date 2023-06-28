@@ -17,15 +17,15 @@ description: |
   <br />
   Florian Lamm and Jakob Kirch, who created this year&#8217;s book, have translated this conceptual task into their design by dividing the catalogue into two parts. While the 30 text contributions have been united in a booklet, a separate image section presents the corresponding posters.</p>
 details: |
-  ISBN: 3862068258 / 978-3862068258
-  Content: 332 pages
-  Size: 170 × 22 × 240 mm
-  Author: 100 Beste Plakate e. V.
-  Design: Florian Lamm, Jakob Kirch
-  Language: English / German
-  Publishing date: 2020
-  Specs: Hardcover
-  Images: © WELTKERN® / Verlag Kettler. All rights reserved.
+  ISBN: "3862068258 / 978-3862068258"
+  Content: "332 pages"
+  Size: "170 × 22 × 240 mm"
+  Author: "100 Beste Plakate e. V."
+  Design: "Florian Lamm, Jakob Kirch"
+  Language: "English / German"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Verlag Kettler. All rights reserved."
 gallery:
   - 
     url: >
@@ -66,7 +66,7 @@ Germany – Austria – Switzerland
 
 ----
 
-Uuid: y7EJijwT2GI5EeeA
+Uuid: G4DTAM8cmNwlrMBl
 
 ----
 

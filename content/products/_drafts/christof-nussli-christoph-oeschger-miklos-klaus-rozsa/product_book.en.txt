@@ -18,13 +18,13 @@ description: |
   <br />
   The resulting collage produces new images, and tells the story of an eventful period from two perspectives. Both narrative lines could not be more disparate. On one side are Rózsa’s pictures, which document the events from within the youth movement. On the other side the surveillance files illustrate the distant and often uncomprehending look of the police onto the events. The juxtaposition of Rózsa’s pictures and the state security texts creates a moment of conflict, which points to the ambiguity of both source materials. Observation and surveillance encounter one another. In chronological sequence Christof Nüssli and Christoph Oeschger juxtapose the state text production with the pictures of those under surveillance. Through this montage Nüssli/Oeschger as authors create a new and distinct reading of the original source material.</p>
 details: |
-  ISBN: 3944669427 / 978-3944669427
-  Content: 624 pages
-  Size: 300 × 215 mm
-  Language: English, German
-  Publication: 2014
-  Specs: Thread-sewn paperback
-  Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: "3944669427 / 978-3944669427"
+  Content: "624 pages"
+  Size: "300 × 215 mm"
+  Language: "English, German"
+  Publication: "2014"
+  Specs: "Thread-sewn paperback"
+  Images: "© WELTKERN® / Cpress. All rights reserved."
 gallery:
   - 
     url: >
@@ -73,7 +73,7 @@ Miklós Klaus Rózsa
 
 ----
 
-Uuid: GnjBZr8OWBO9HohG
+Uuid: sNgsEccrHeeD3BEL
 
 ----
 

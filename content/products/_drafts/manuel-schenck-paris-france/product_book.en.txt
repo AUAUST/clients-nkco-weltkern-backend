@@ -11,14 +11,14 @@ author:
   id: 263
 description: ""
 details: |
-  Content: 36 Pages
-  Size: 130 × 190 mm
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
+  Content: "36 Pages"
+  Size: "130 × 190 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover
   Color Offset Print
-  First edition
-  Images: © WELTKERN® / innen zines. All rights reserved.
+  First edition"
+  Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ Manuel Schenck
 
 ----
 
-Uuid: R3Ir7OdaYavR3ONk
+Uuid: QLdfCZwn88LP9ims
 
 ----
 

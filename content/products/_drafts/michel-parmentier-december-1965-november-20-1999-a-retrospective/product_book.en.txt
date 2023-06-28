@@ -12,15 +12,15 @@ author:
   id: 283
 description: '<p>The title of this long-overdue monograph references two key works by legendary French abstract painter Michel Parmentier (1938–2000): the one that the artist considered the origin of his oeuvre (“Décembre 1965”), and his last work, made on 20 November, 1999. In between those two works lies Parmentier’s career, his years of systematically and rigorously exploring the conceptual and aesthetic possibilities of painting by means of the ostensibly simple striped painting. This volume offers a selection of 31 major works by the artist and seven new essays on his work, contextualized by nearly 300 documents (most of them never previously published) from the Michel Parmentier archives, libraries, and public and private collections.</p>'
 details: |
-  ISBN: 2916636080 / 978-2916636085
-  Content: 244 Pages
-  Size: 269 × 272 mm
-  Author: Philip Armstrong, Robert Bonaccorsi, Agnès Foiret, Laura Lisbon, Guy Massaux, Jean-Marc Poinsot, Molly Warnocka
-  Edited by: Loevenbruck
-  Design: Ludovic Balland
-  Language: English
-  Publishing date: 2019
-  Images: © WELTKERN® / Les presses du réel. All rights reserved.
+  ISBN: "2916636080 / 978-2916636085"
+  Content: "244 Pages"
+  Size: "269 × 272 mm"
+  Author: "Philip Armstrong, Robert Bonaccorsi, Agnès Foiret, Laura Lisbon, Guy Massaux, Jean-Marc Poinsot, Molly Warnocka"
+  Edited by: "Loevenbruck"
+  Design: "Ludovic Balland"
+  Language: "English"
+  Publishing date: "2019"
+  Images: "© WELTKERN® / Les presses du réel. All rights reserved."
 gallery:
   - 
     url: >
@@ -54,7 +54,7 @@ A Retrospective
 
 ----
 
-Uuid: BtwgAdRyy59uKTlO
+Uuid: dUoIHhn8sSHhG7v9
 
 ----
 

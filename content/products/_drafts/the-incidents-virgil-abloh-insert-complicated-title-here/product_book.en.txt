@@ -17,14 +17,14 @@ description: |
   <br />
   Virgil Abloh’s brand Off-White c/o Virgil Abloh™ was started in 2012 as an artwork titled PYREX VISION. In 2013, the brand premiered a seasonal men’s and women’s fashion label and moved into the production of furniture. Abloh has also curated exhibitions of his work, and in 2019 will have a retrospective at the Museum of Contemporary Art in Chicago. In 2018, Abloh was named artistic director of Louis Vuitton’s menswear collection.</p>
 details: |
-  ISBN: 3956793813 / 978-3956793813
-  Content: 56 pages
-  Size: 155 × 210 mm
-  Design: Åbäke
-  Language: English
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © WELTKERN® / Sternberg Press. All rights reserved.
+  ISBN: "3956793813 / 978-3956793813"
+  Content: "56 pages"
+  Size: "155 × 210 mm"
+  Design: "Åbäke"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Sternberg Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Virgil Abloh: “Insert Complicated Title Here”
 
 ----
 
-Uuid: L3JVN39NDMGvR8fJ
+Uuid: svVxfkzGfXPrioae
 
 ----
 

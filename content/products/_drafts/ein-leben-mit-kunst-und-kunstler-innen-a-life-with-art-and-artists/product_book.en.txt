@@ -16,16 +16,16 @@ description: |
   A conversation with Swiss author and curator Dieter Schwarz reveals a number of events and anecdotes that also attest to the couple’s fascinating life with art which they have collected intuitively rather than with a particular strategy in mind throughout their lives and careers.<br />
   The numerous photographic documents of their unique and somewhat exuberant interiors that span almost five decades and several homes are exemplary both of the distinctive way in which Trix and Robert Haussmann welcome works of art into their everyday lives alongside their furniture—including their own— and their various artefacts as well as of their very personal and playful use of mirrors.</p>
 details: |
-  ISBN: 3907236383 / 978-3907236383
-  Content: 168 pages
-  Size: 180 × 140 mm
-  Language: English, German
-  Artist: Trix + Robert Haussmann
-  Author: Dieter Schwarz
-  Design: Teo Schifferli
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236383 / 978-3907236383"
+  Content: "168 pages"
+  Size: "180 × 140 mm"
+  Language: "English, German"
+  Artist: "Trix + Robert Haussmann"
+  Author: "Dieter Schwarz"
+  Design: "Teo Schifferli"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ innen / A Life with Art and Artists
 
 ----
 
-Uuid: LRwah7P7wKXji43z
+Uuid: W2E7oEN8QJ8zd5ar
 
 ----
 

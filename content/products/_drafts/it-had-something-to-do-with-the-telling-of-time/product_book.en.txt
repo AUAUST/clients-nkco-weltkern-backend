@@ -14,16 +14,16 @@ author:
   id: 319
 description: '<p>A screenplay in seven acts, the book is based on descriptions of physical spaces extracted from a selection of seven novels. Each act is a conversation between one of the fictional spaces and the narrator or protagonist of the original story. The fictional spaces claim existence, both as individuals and as a collective, inviting the reader on a journey, from the naturally created cave to the man-made dystopia.</p>'
 details: |
-  ISBN: 9491677403 / 978-9491677403
-  Content: 64 pages
-  Size: 160 × 220 mm
+  ISBN: "9491677403 / 978-9491677403"
+  Content: "64 pages"
+  Size: "160 × 220 mm
   
-  Language: English
-  Edited by: Annee Grøtte Viken
-  Graphic design: Sven Van Asten
-  Publishing date: 2015
-  Specs: Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: "English"
+  Edited by: "Annee Grøtte Viken"
+  Graphic design: "Sven Van Asten"
+  Publishing date: "2015"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Multilinetitle: It Had Something To Do With The Telling Of Time
 
 ----
 
-Uuid: rga5TAoVuApysXqu
+Uuid: DsmW99oyCfS7v5VU
 
 ----
 

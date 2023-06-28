@@ -16,15 +16,15 @@ description: |
   <br />
   “These photographs are the opposite of celebrity gloss, glamour and the vulgarity of the paparazzi—they are real and they are honest and they have never been shown before.” (Gail Buckland, Professor of the History of Photography, New York)</p>
 details: |
-  ISBN: 3905509847 / 978-3905509847
-  Content: 256 Pages
-  Size: 239 × 33 × 315 mm
-  Artist: Hannes Schmid
-  Design: Schmid Zoller
-  Language: English
-  Publishing date: 2009
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3905509847 / 978-3905509847"
+  Content: "256 Pages"
+  Size: "239 × 33 × 315 mm"
+  Artist: "Hannes Schmid"
+  Design: "Schmid Zoller"
+  Language: "English"
+  Publishing date: "2009"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Rockstars
 
 ----
 
-Uuid: 0VVroYTC7OkJkYcu
+Uuid: UEPKW1mjcHvZxtgd
 
 ----
 

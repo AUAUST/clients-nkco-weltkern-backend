@@ -18,15 +18,15 @@ description: |
   <br />
   Divided into thematic sections, each is introduced by an essay including quotes by the Missonis themselves, highlighting the artistic decisions that contributed to the success and recognizability of their fashion house. With previously unpublished material from both the family and the company archives, this volume is a look into the creative and artistic world of Missoni.</p>
 details: |
-  ISBN: 084786653X / 978-0847866533
-  Content: 348 Pages
-  Size: 310 × 47 × 327 mm
-  Author: Massimiliano Capella
-  Edited by: Luca Missoni
-  Language: English
-  Publishing date: 2019
-  Specs: Hardcover
-  Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  ISBN: "084786653X / 978-0847866533"
+  Content: "348 Pages"
+  Size: "310 × 47 × 327 mm"
+  Author: "Massimiliano Capella"
+  Edited by: "Luca Missoni"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ The Great Italian Fashion
 
 ----
 
-Uuid: 2UshgNlixPnYSTKY
+Uuid: RH4Qr3Bo8EdRu8tB
 
 ----
 

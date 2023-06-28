@@ -15,13 +15,13 @@ description: |
   <p>By photographing the same person repeatedly and intimately over their formative years, a sense of mirroring began to emerge, reawakening something of the artist’s own adolescent self, blurring the line between portrait and self-portrait.</p>
   <p>Neil Drabble grew up in a grey, 1970s Manchester, watching American TV shows, and fantasising about a perceived glamour of an adolescence lived in places where teenagers ate pizza, drank Dr Pepper, chatted on the phone to friends until late and drove cars rather than waiting at rainy bus stops. The process of picturing Roy and the collaboration between the older photographer and younger subject allowed Drabble in some ways to re-stage his own teenage years and vicariously engage with aspects of an alternate American youth he had coveted across the Atlantic.</p>
 details: |
-  ISBN: 1912339501 / 978-1912339501
-  Content: 132 pages
-  Size: 246 × 286 mm
-  Language: English
-  Publication: 2019
-  Specs: Hardcover
-  Images: © WELTKERN® / MACK. All rights reserved.
+  ISBN: "1912339501 / 978-1912339501"
+  Content: "132 pages"
+  Size: "246 × 286 mm"
+  Language: "English"
+  Publication: "2019"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / MACK. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ Book of Roy
 
 ----
 
-Uuid: rJQJwprNstLYIVcz
+Uuid: FKR6mbFSt0JcTtLD
 
 ----
 

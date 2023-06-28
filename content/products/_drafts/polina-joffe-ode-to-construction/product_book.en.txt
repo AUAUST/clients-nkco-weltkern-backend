@@ -13,16 +13,16 @@ description: |
   <p>Ode to Construction – Abstraction in the Digital Age explores the intersections of graphic design and art through the means of generative code, gesturing playfully and melancholically towards the foundational legacies of the Suprematist and Constructivist movements of the early 20th century.</p>
   <p>At once a book, website, and exhibition, Ode to Construction demonstrates the fluidity of design’s materializations within the conditions of the digital, moving effortlessly between screen, print, and space. By reanimating the formal strategies of modernist abstraction, graphic designer Polina Joffe probes the technical and social registers of design today.</p>
 details: |
-  ISBN: 9493148352 / 978-9493148352
-  Content: 664 pages
-  Size: 114 × 118 mm
+  ISBN: "9493148352 / 978-9493148352"
+  Content: "664 pages"
+  Size: "114 × 118 mm
   
-  Language: English
-  Edited by: Polina Joffe
-  Graphic design: Polina Joffe
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: "English"
+  Edited by: "Polina Joffe"
+  Graphic design: "Polina Joffe"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Ode to Construction
 
 ----
 
-Uuid: DBhoP34RIHivUa9g
+Uuid: Yxt85l96V9UBZixg
 
 ----
 

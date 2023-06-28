@@ -12,14 +12,14 @@ author:
   id: 99
 description: '<p>A Section of Now aims to re-establish a dialogue between architecture and society that would allow architecture to begin to contend with and address our changed and changing social norms. The publication serves as a meditation on new behaviours, rituals, and values and their spatial implications and seeks to catalyse urban and architectural interventions that accommodate, influence, and, in some cases, pre-empt our new lived realities. Authors address topics ranging from the safety of digital spaces to how normative life trajectories affect the elderly and the many selves each of us puts forward, while architects present frameworks for, among other things, spaces for blended families, thirty-year-old retirees, and contested monuments. Bringing together analytical essays about the contemporary moment and the direction in which society is moving, projective texts that outline new architectural types to address societal needs, alongside television series, photography, and architecture and design projects, A Section of Now outlines a new relationship between the spaces in which we live and the ways we live within them. </p>'
 details: |
-  ISBN: 3959055079 / 978-3959055079
-  Content: 360 pages
-  Size: 170 × 240 mm
-  Language: English
-  Edited by: Giovanna Borasi
-  Publication: 2022
-  Specs: softcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959055079 / 978-3959055079"
+  Content: "360 pages"
+  Size: "170 × 240 mm"
+  Language: "English"
+  Edited by: "Giovanna Borasi"
+  Publication: "2022"
+  Specs: "softcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -92,7 +92,7 @@ Social Norms and Rituals as Sites for Architectural Intervention
 
 ----
 
-Uuid: Ph63PJhYGaMmFP7l
+Uuid: fCwFS4IZtkZzidv4
 
 ----
 

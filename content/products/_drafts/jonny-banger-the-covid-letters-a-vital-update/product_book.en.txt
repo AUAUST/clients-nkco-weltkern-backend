@@ -16,13 +16,13 @@ description: |
   <p>‘These collected works eloquently and rudely articulate this historical moment. This is political art at its best; it’s what art is for in 2020. There is no politeness or restraint on these pages – this is work full of righteous anger, where body fluids mix with disrespect for those in authority.’</p>
   <p>&#8211; Jeremy Deller</p>
 details: |
-  ISBN: 1527274105 / 978-1527274105
-  Content: 360 pages
-  Size: 340 × 245 mm
-  Language: English
-  Publication: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / Jonny Banger. All rights reserved.
+  ISBN: "1527274105 / 978-1527274105"
+  Content: "360 pages"
+  Size: "340 × 245 mm"
+  Language: "English"
+  Publication: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Jonny Banger. All rights reserved."
 gallery:
   - 
     url: >
@@ -47,7 +47,7 @@ The COVID Letters — A Vital Update
 
 ----
 
-Uuid: xIrkQu5rtgaxke6A
+Uuid: 1jbGwdh0iAAJml87
 
 ----
 

@@ -15,14 +15,14 @@ description: |
   <p>What role can interiors play in adapting to the rapidly changing lifestyles of our cities&#8217; inhabitants? Resulting from a study project carried out at the Geneva University of Art and Design (HEAD – Genève), Renewing the city from the Within formulates alternatives to the urban development model centred on building expansion, by proposing scenarios for the renewal, from the inside out, of existing collective housing buildings in Geneva.<br />
   By analysing a sample of collective housing buildings from the three main periods of the city&#8217;s development, the publication develops scenarios aimed at adapting these typologies to a convivial and mixed lifestyle, based on principles of solidarity, hospitality and sharing. At a time when the nuclear family is no longer the only model and when the boundaries between living and working areas have become porous, the architects of Fagart &#038; Fontana wish to contribute to the reflection on the city&#8217;s capacity to renew itself, by making people aware that there is a project territory to invest to rethink contemporary housing.</p>
 details: |
-  ISBN: 2493283146 / 978-2493283146
-  Content: 216 pages
-  Size: 240 × 320 mm
-  Design: Spassky Fischer
-  Language: English / French
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Cosa Mentale. All rights reserved.
+  ISBN: "2493283146 / 978-2493283146"
+  Content: "216 pages"
+  Size: "240 × 320 mm"
+  Design: "Spassky Fischer"
+  Language: "English / French"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -75,7 +75,7 @@ Renouveler la ville depuis l'intérieur
 
 ----
 
-Uuid: rigGEo4djuTf9Rfn
+Uuid: w106ogSFuB75ZxnT
 
 ----
 

@@ -16,14 +16,14 @@ description: |
   <br />
   Of the film in the making, we know only the set, a gigantic aircraft built at great expense by the producer…</p>
 details: |
-  ISBN: 2970070221 / 978-2970070221
-  Content: 168 pages
-  Size: 210 × 18 × 250 mm
-  Edited by: IDPURE
-  Language: English
-  Publishing date: 2011
-  Specs: Hardcover
-  Images: © Idpure Editions. All rights reserved.
+  ISBN: "2970070221 / 978-2970070221"
+  Content: "168 pages"
+  Size: "210 × 18 × 250 mm"
+  Edited by: "IDPURE"
+  Language: "English"
+  Publishing date: "2011"
+  Specs: "Hardcover"
+  Images: "© Idpure Editions. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ Multilinetitle: Fellini 8 1/2
 
 ----
 
-Uuid: nJ9cIgyUNcSk6Nx1
+Uuid: doqtHxX9nKLEQLhD
 
 ----
 

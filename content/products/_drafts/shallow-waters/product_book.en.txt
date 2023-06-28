@@ -15,15 +15,15 @@ description: |
   <p>BIO<br />
   Bureau LADA (Landscape, Architecture, Design, Action) is a cross-disciplinary Amsterdam based studio with a focus on architecture. Currently active between Amsterdam, Venice and Cairo, the practice specialises in design strategy, social ecology, and the future of education. Established in 2010 by Croatian-Dutch architect and urbanist Lada Hršak, the studio collaborates with practitioners from the fields of ecology, science, art, heritage, and sociology. The studio’s research initiative Shallow Waters was selected for the Parallel Program of the Dutch pavilion at the 2021 Venice Architecture Biennial. The bureau’s team members engaged in the Shallow Waters project are Ludovica Beltrami, Juliette Gilson, Lada Hršak, Zoe Panayi, Simone Spiga, and Zhao Zhou.</p>
 details: |
-  ISBN: 9493148697 / 978-9493148697
-  Content: 142 pages
-  Size: 346 × 245 mm
-  Language: English, Italian
-  Publishing date: 2021
-  Design: Haller Brun
-  Author: Camilla Bertollini, Dr. Harm van der Geest, Lada Hršak, Dr. Laura Onofri, Alice Smits, Carolyn F. Strauss, team Dr. Tagliapietra/Sigovini/Guarneri, Saline Verhoeven
-  Specs: Softcover
-  Images: © WELTKERN® /‎ Onomatopee. All rights reserved.
+  ISBN: "9493148697 / 978-9493148697"
+  Content: "142 pages"
+  Size: "346 × 245 mm"
+  Language: "English, Italian"
+  Publishing date: "2021"
+  Design: "Haller Brun"
+  Author: "Camilla Bertollini, Dr. Harm van der Geest, Lada Hršak, Dr. Laura Onofri, Alice Smits, Carolyn F. Strauss, team Dr. Tagliapietra/Sigovini/Guarneri, Saline Verhoeven"
+  Specs: "Softcover"
+  Images: "© WELTKERN® /‎ Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Multilinetitle: Shallow Waters
 
 ----
 
-Uuid: XogFzdVjhGyhhCyY
+Uuid: sBDCGUrT43LNAWDo
 
 ----
 

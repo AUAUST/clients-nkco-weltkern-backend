@@ -22,15 +22,15 @@ description: |
   <br />
   Hans Ruedi Giger (1940–2014) was a Swiss surrealist painter, sculptor, and set designer known for his biomechanical creatures, extraterrestrial landscapes, and disturbing sexual machines. In a career that spanned more than five decades, he employed a staggering variety of media, including furniture, movie props, prints, paintings and sculptures, often creating exhibition displays and total environments with the immersive quality of a wunderkammer—including, most notably, the HR Giger Museum in Gruyères. In 1979, his concept design for Ridley Scott’s <em>Alien</em> won an Academy Award for Best Achievement in Visual Effects and catapulted his daunting vision of death and futurism to fame.</p>
 details: |
-  ISBN: 8897185130 / 978-8897185130
-  Content: 140 Pages
-  Size: 270 × 9 × 270 mm
-  Author: Chris Stein, H.R Giger
-  Design: Kasper-Florio, Samuel Bänziger
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISBN: "8897185130 / 978-8897185130"
+  Content: "140 Pages"
+  Size: "270 × 9 × 270 mm"
+  Author: "Chris Stein, H.R Giger"
+  Design: "Kasper-Florio, Samuel Bänziger "
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -99,7 +99,7 @@ KooKoo 1981
 
 ----
 
-Uuid: tbKY3EcS4rhl6O0b
+Uuid: kHKyfUrr08kZYMay
 
 ----
 

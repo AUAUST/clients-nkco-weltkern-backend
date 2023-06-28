@@ -14,16 +14,16 @@ description: |
   <br />
   Most of the pictures in <em>Gasoline and Magic</em>, often impressive and quasi intimate shots, were taken by amateur photographers, who now share with us their fascination with fast cars. Swiss filmmaker and collector Thomas Horat spent years tracking down, labeling and archiving these pictures, which he now presents for the first time to the world at large in <em>Gasoline and Magic</em> – and at the show &#8220;VROOOOAAAMMM&#8221; at the Museum im Bellpark in Kriens, Switzerland (August 22 – November 8, 2015). </p>
 details: |
-  ISBN: 3905929880 / 978-3905929881
-  Content: 288 pages
-  Size: 210 × 25 × 315 mm
-  Authors: Hilar Stadler, Martin Stollenwerk
-  Edited by: Hilar Stadler, Martin Stollenwerk
-  Design: Hi, Megi Zumstein, Claudio Barandun
-  Language: English
-  Publishing date: 2015
-  Specs: Hardcover
-  Images: © Edition Patrick Frey. All rights reserved.
+  ISBN: "3905929880 / 978-3905929881"
+  Content: "288 pages"
+  Size: "210 × 25 × 315 mm"
+  Authors: "Hilar Stadler, Martin Stollenwerk"
+  Edited by: "Hilar Stadler, Martin Stollenwerk"
+  Design: "Hi, Megi Zumstein, Claudio Barandun"
+  Language: "English"
+  Publishing date: "2015"
+  Specs: "Hardcover"
+  Images: "© Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Multilinetitle: Gasoline and Magic
 
 ----
 
-Uuid: iLWWJClQcT6CMXrC
+Uuid: Av0Te3MpNyDFGcnK
 
 ----
 

@@ -11,14 +11,14 @@ author:
   id: 324
 description: '<p>Buildings are made up of different layers which have different lifespans. Like human bodies, they are composed of skin, bones and organs, but unlike a living organism where the different parts have closely interwoven lifespans, a structure, a facade or a spatial plan become more durable if they can be changed independently of each other. Buildings are witnesses to other times, times before us and times yet to come. They are thresholds that let us peek at how previous generations lived and how coming generations might carry on. The timelessness that many strive for in architecture is not part of the nature of trans magazin. People and ideas come and go. It lives from the present, tries to reflect on the past, and looks towards a future.</p>'
 details: |
-  ISBN: 3856764555 / 978-3856764555
-  Content: 164 pages
-  Size: 210 × 280 mm
-  Design: Pierre Benoit
-  Language: English, German
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / gta Verlag. All rights reserved.
+  ISBN: "3856764555 / 978-3856764555"
+  Content: "164 pages"
+  Size: "210 × 280 mm"
+  Design: "Pierre Benoit"
+  Language: "English, German"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / gta Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,7 +59,7 @@ trans magazin
 
 ----
 
-Uuid: i3DP4vj9XzUC5TwT
+Uuid: devKDmzB84D6RAyu
 
 ----
 

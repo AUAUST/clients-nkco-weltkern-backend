@@ -12,15 +12,15 @@ author:
   id: 99
 description: '<p>Laterna Magika, which combines multi-genre theatre performances and films projected onto several screens on stage, emerged as as part of the programme promoting Czechoslovakian culture for Expo 58. Owing to its experimental nature, its combination of different art forms, the interconnection of art and new technologies, its significant role in the international promotion of Czechoslovakia, and its collaboration with numerous remarkable personalities, Laterna Magika was and still is a unique phenomenon within the context of Czech / Slovakian and international art. This monograph, which focuses on the period between 1958 and 1992, presents it as a phenomenon shaped by its many dichotomies: Laterna Magika is both fragmentary and complex, distractive and immersive, past and present, reproduced and live, traditional and progressive, ideological and critical of ideology, popular and elitist, discreet and voyeuristic.</p>'
 details: |
-  ISBN: 3959057097 / 978-3959057097
-  Content: 408 pages
-  Size: 230 × 300 mm
-  Edited by: Lucie Česálková, Kateřina Svatoňová
-  Design: Jan Matoušek
-  Language: English
-  Publishing date: 2023
-  Specs: Hardcover
-  Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: "3959057097 / 978-3959057097"
+  Content: "408 pages"
+  Size: "230 × 300 mm"
+  Edited by: "Lucie Česálková, Kateřina Svatoňová"
+  Design: "Jan Matoušek"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ The Dictator of Time
 
 ----
 
-Uuid: r037zENJrEjXZ7wd
+Uuid: nK50ndMtd5DZOp2C
 
 ----
 

@@ -11,15 +11,15 @@ author:
   id: 319
 description: '<p>Graphic Design in the Post-Digital Age examines the challenges and opportunities in the wake of the rapid rise of creative coding within a growing community of designers opting to make their own design tools. This comprehensive overview covers educational approaches in design programs and the historic and economic contexts of programming in graphic design, as well as the implications surrounding the integration of coding with design. The book includes over twenty interviews in which major figures in design reflect upon the ways in which coding has innovated and transformed their design practice and strategies, and the directions it will take in the future.</p>'
 details: |
-  ISBN: 9493148680 / 978-9493148680
-  Content: 608 pages
-  Size: 155 × 210 mm
-  Language: English
-  Edited by: Demian Conrad, Rob van Leijsen, David Héritier
-  Graphic design: Johnson/Kingston
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  ISBN: "9493148680 / 978-9493148680"
+  Content: "608 pages"
+  Size: "155 × 210 mm"
+  Language: "English"
+  Edited by: "Demian Conrad, Rob van Leijsen, David Héritier"
+  Graphic design: "Johnson/Kingston "
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,7 +56,7 @@ A survey of practices fuelled by creative coding
 
 ----
 
-Uuid: ffS5M8uYST9U0VU6
+Uuid: wDOXyba4YOvUBZx1
 
 ----
 

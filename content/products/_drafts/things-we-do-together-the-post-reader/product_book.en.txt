@@ -18,16 +18,16 @@ description: |
   <br />
   In their practice, the authors and protagonists of this post-reader use skills from across a number of fields, they support and create communities around the world—in Ursus, Poland; in the Amazon, in a village in Java, or in the suburbs of New Orleans. Collected in this volume, the reports from many years of experience of practitioners from Ukraine, Poland, Indonesia, Mexico, the USA, and Brazil can be treated as a road map, a compendium of approaches, recommendations, and as inspiration for action.</p>
 details: |
-  ISBN: 8867494414 / 978-8867494415
-  : 340 pages
-  Size: 152 × 225 mm
-  Authors: Marianna Dobkowska, Krzysztof Łukomski
-  Edited by: Mousse Publishing
-  Language: English
-  Design: Krzysztof Bielecki
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / Mousse Publishing. All rights reserved.
+  ISBN: "8867494414 / 978-8867494415"
+  : "340 pages"
+  Size: "152 × 225 mm"
+  Authors: "Marianna Dobkowska, Krzysztof Łukomski"
+  Edited by: "Mousse Publishing"
+  Language: "English"
+  Design: "Krzysztof Bielecki"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -44,7 +44,7 @@ The Post-Reader
 
 ----
 
-Uuid: plbkMnGgJ0FRZolY
+Uuid: SAGdc6Z7gWW9T3Mt
 
 ----
 

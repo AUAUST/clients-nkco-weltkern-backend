@@ -11,13 +11,13 @@ author:
   id: 241
 description: '<p><em>Support Magazine</em> is an annual book dedicated to contemporary drawing. About a hundred illustrators are invited to select the illustration they have done in the year they are most proud of, and explain why.</p>'
 details: |
-  Size: 240 × 20 × 320 mm
-  Design: Plus Trente Trois
-  Font in use: TWK Lausanne
-  Language: English
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / Support Editions. All rights reserved.
+  Size: "240 × 20 × 320 mm"
+  Design: "Plus Trente Trois"
+  Font in use: "TWK Lausanne"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Support Editions. All rights reserved."
 gallery:
   - 
     url: >
@@ -50,7 +50,7 @@ Issue n°1
 
 ----
 
-Uuid: Jf9t1Jx8pZLm9Urb
+Uuid: zNJiXdTC2PuwveX2
 
 ----
 

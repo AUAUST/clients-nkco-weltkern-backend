@@ -11,14 +11,14 @@ author:
   id: 92
 description: '<p>The author has now turned his attention to the USA with 160 of the dullest postcards from the land of opportunity. The book provides not only amusement, but a commentary on how America has changed, and a celebration of those places that have been forgotten by conventional history.</p>'
 details: |
-  ISBN: 0714843911 / 978-0714843919
-  Content: 176 pages
-  Size: 145 × 16 × 206 mm
-  Author: Martin Parr
-  Language: English
-  Publishing date: 2004
-  Specs: Softcover
-  Images: © WELTKERN®. All rights reserved.
+  ISBN: "0714843911 / 978-0714843919"
+  Content: "176 pages"
+  Size: "145 × 16 × 206 mm"
+  Author: "Martin Parr"
+  Language: "English"
+  Publishing date: "2004"
+  Specs: "Softcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -47,7 +47,7 @@ Boring Postcards USA
 
 ----
 
-Uuid: IeCUsY2q66zBfMqy
+Uuid: AM17VVLuD6G6xAUD
 
 ----
 

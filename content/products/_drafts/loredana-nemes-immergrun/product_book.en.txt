@@ -14,17 +14,17 @@ description: |
   <br />
   Old people, often called seniors, are not considered an ideal of beauty in our culture, and it is considered a taboo to show old age in art and media. The couples Loredana Nemes has spoken to and photographed are women and men whose love and intimacy she addresses in these photographs. “Immergrün” makes reference to her work “Blütezeit” (Blossom Time) from 2012, in which—also initiated and supported by the Ludwigsburg Museum—she portrayed young people on the threshold of adulthood. In both series, she experiments with the possibilities and limits of photography. In “Immergrün” she visualizes in analog double exposures the connection of two lovers as well as our inevitable fading away. Her poetic images and poems are a tribute to age and love as well as a celebration of human encounters in times of imposed distance. The result is a sensitive artist’s book whose choice of materials and narrative flow creates a multilayered whole. Loredana Nemes lives and works in Berlin.</p>
 details: |
-  ISBN: 3960700636 / 978-3960700630
-  Content: 112 pages
-  Size: 183 × 240 mm
-  Artist: Loredana Nemes
-  Edited by: Hartmann Books
-  Texts by: Alke Hollwedel
-  Design: Hannah Feldmeier
-  Language: German / English
-  Publishing date: 2021
-  Specs: Hardcover with tipped-in image
-  Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: "3960700636 / 978-3960700630"
+  Content: "112 pages"
+  Size: "183 × 240 mm"
+  Artist: "Loredana Nemes"
+  Edited by: "Hartmann Books"
+  Texts by: "Alke Hollwedel"
+  Design: "Hannah Feldmeier"
+  Language: "German / English"
+  Publishing date: "2021"
+  Specs: "Hardcover with tipped-in image"
+  Images: "© WELTKERN® / Hartmann Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Immergrün
 
 ----
 
-Uuid: biEb0OpqibHyBf8y
+Uuid: 7kh5yLgEdsGGljs5
 
 ----
 

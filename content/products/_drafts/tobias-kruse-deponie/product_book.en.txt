@@ -13,15 +13,15 @@ description: |
   <p>For his work Deponie, Tobias Kruse went to East Germany to find the vestiges and scars of a period that still casts its shadow over the present: the years following reunification. It was a time that presented a wealth of opportunities but one that, for many people, also spelled disappointment, anger, and bitterness. Thirty years after the fall of the wall, the photographer, who was born in Mecklenburg, drove 8,000 kilometres through eastern Germany. He travelled through empty regions and villages and attended crowded football stadiums and night-time demonstrations. He took pictures of scenes that could be historical or contemporary phenomena and visited places that have become part of the collective memory. His black-and-white photographs convey a sense of gloomy, oppressive unease. They are ciphers of mourning and icons of a painful historical process.</p>
   <p>Photographer Tobias Kruse was born in 1979 in Waren an der Müritz and grew up in Schwerin. He joined the Ostkreuz agency in 2011.</p>
 details: |
-  ISBN: 3959056724 / 978-3959056724
-  Content: 74 pages
-  Size: 245 × 315 mm
-  Edited by: Lucie Česálková, Kateřina Svatoňová
-  Design: Lamm & Kirch
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: "3959056724 / 978-3959056724"
+  Content: "74 pages"
+  Size: "245 × 315 mm"
+  Edited by: "Lucie Česálková, Kateřina Svatoňová"
+  Design: "Lamm & Kirch"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,7 +58,7 @@ Deponie
 
 ----
 
-Uuid: H0UnWH3V65ioX7by
+Uuid: oHRZbJyZiL4srGb7
 
 ----
 

@@ -12,13 +12,13 @@ author:
   id: 390
 description: '<p>Photography has always depended on the extraction and exploitation of so-called natural raw materials. Having started out using copper, coal, silver, and paper—the raw materials of analogue image production in the nineteenth and twentieth centuries—photography now relies, in the age of the smartphone, on rare earths and metals like coltan, cobalt, and europium.</p>'
 details: |
-  ISBN: 3959056328 / 978-3959056328
-  Content: 176 pages
-  Size: 248 × 189 mm
-  Language: German
-  Publishing date: 2022
-  Specs:
-  Images: © WELTKERN® / Orell Füssli. All rights reserved.
+  ISBN: "3959056328 / 978-3959056328"
+  Content: "176 pages"
+  Size: "248 × 189 mm"
+  Language: "German"
+  Publishing date: "2022"
+  Specs: ""
+  Images: "© WELTKERN® / Orell Füssli. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,7 +55,7 @@ The Ecological Footprint of Image
 
 ----
 
-Uuid: 7wNfYYhru3qwptFc
+Uuid: a93WRByoZ6XIdnih
 
 ----
 

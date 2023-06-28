@@ -11,13 +11,13 @@ author:
   id: 140
 description: '<p>YEEZY Season 3–4 Zine showcases the third and fourth collections of Kanye West’s YEEZY footwear, apparel and accessories. Dark, atmospheric photographs by Jackie Nickerson make up a purely visual work, devoid of any text. The oversized zine is printed on rough, uncoated Kamiko paper with intensely black inks. It is the third installment of YEEZY’s season zines, all released with limited print-runs.</p>'
 details: |
-  ISBN: 3958293304 / 978-3958293304
-  Content: 128 pages
-  Size: 273 × 10 × 419 mm
-  Printed in: Germany
-  Publishing date: 2017
-  Specs: Softcover
-  Images: © Steidl Verlag. All rights reserved.
+  ISBN: "3958293304 / 978-3958293304"
+  Content: "128 pages"
+  Size: "273 × 10 × 419 mm"
+  Printed in: "Germany"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© Steidl Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -51,7 +51,7 @@ Multilinetitle: YEEZY Season 3–4 Zine
 
 ----
 
-Uuid: XfKe5HBt7cegKX1m
+Uuid: zMZj1bEH17Dv3ePJ
 
 ----
 

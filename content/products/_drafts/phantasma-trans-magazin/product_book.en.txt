@@ -11,14 +11,14 @@ author:
   id: 324
 description: ""
 details: |
-  ISBN: 3856764333 / 978-3856764333
-  Content: 160 pages
-  Size: 210 × 280 mm
-  Design: Pierre Benoît
-  Language: German / English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / gta Verlag. All rights reserved.
+  ISBN: "3856764333 / 978-3856764333"
+  Content: "160 pages"
+  Size: "210 × 280 mm"
+  Design: "Pierre Benoît"
+  Language: "German / English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / gta Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,7 +59,7 @@ trans magazin
 
 ----
 
-Uuid: 8wI58sw7T0vLS6Er
+Uuid: iUEtdC3Kdj0B5m5q
 
 ----
 

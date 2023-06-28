@@ -14,15 +14,15 @@ description: |
   <br />
   Take a journey across continents and cultures to discover the endless ways artists and image-makers have employed floral motifs throughout history. With 316 color illustrations showcasing the diversity of blooms from all over the world, Flower spans a wide range of styles and media – from art, botanical illustrations, and sculptures to floral arrangements, film stills, and textiles – and follows a visually stunning sequence with works, regardless of period, thoughtfully paired to allow interesting and revealing juxtapositions between them. Flower is follows in the footsteps of Plant: Exploring the Botanical World, which Martha Stewart Living described as &#8220;breathtaking.&#8221;</p>
 details: |
-  ISBN: 1838660852 / 978-1838660857
-  Content: 352 pages
-  Size: 290 × 250 mm
-  Authors: Phaidon
-  Edited by: Phaidon Press
-  Language: English
-  Publishing date: 2020
-  Specs: Hardcover
-  Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: "1838660852 / 978-1838660857"
+  Content: "352 pages"
+  Size: "290 × 250 mm"
+  Authors: "Phaidon"
+  Edited by: "Phaidon Press"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Exploring the World in Bloom
 
 ----
 
-Uuid: RGEMFVPm0lCbWvIc
+Uuid: jV7AJJvVFXXEpIMM
 
 ----
 

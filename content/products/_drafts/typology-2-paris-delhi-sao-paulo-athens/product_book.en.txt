@@ -15,15 +15,15 @@ description: |
   <br />
   180 buildings were analysed over the past two years to find inspiration and models that can be adapted for the local context of any given city. Each example is documented with an image, site and floor plans, axonometric projection, key data, and a brief description. An introduction and four essays on the interaction between various protagonists and in particular the effect of governing local building regulation again show the potential for contemporary urban architecture. The result is again a rich sourcebook of great practical value for students, lecturers and practitioners of architecture.</p>
 details: |
-  ISBN: 3906027635 / 978-3906027630
-  Content: 212 pages
-  Size: 150 × 15 × 250 mm
-  Authors: Anupam Bansal, Emanuel Christ, Victoria Easton, Christoph Gantenbein, André Lortie, Thomas Maloutas, Rafael Moneo, Nadia Somekh
-  Design: Ludovic Balland
-  Language: English
-  Publishing date: 2015
-  Specs: Hardcover
-  Images: © Park Books. All rights reserved.
+  ISBN: "3906027635 / 978-3906027630 "
+  Content: "212 pages"
+  Size: "150 × 15 × 250 mm"
+  Authors: "Anupam Bansal, Emanuel Christ, Victoria Easton, Christoph Gantenbein, André Lortie, Thomas Maloutas, Rafael Moneo, Nadia Somekh"
+  Design: "Ludovic Balland"
+  Language: "English"
+  Publishing date: "2015"
+  Specs: "Hardcover"
+  Images: "© Park Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,7 +64,7 @@ Paris, Delhi, Sao Paulo, Athens.
 
 ----
 
-Uuid: JOdgSY8bRPNMNmrr
+Uuid: Udx137d8teFt0YSy
 
 ----
 

@@ -16,14 +16,14 @@ description: |
   <p>We follow Xu on her journey into the colourful world of Shèhuŏ. Traveling from village to village, the residents welcome her into their homes in preparation for the events. These moments allow for the mysterious and alienating atmosphere of the festival to appear. Wear your best costume, paint your eyes, be ready to shoot the tiger: it is the beginning of a new season.</p>
   <p>Including an essay by Maria-Caterina Bellinetti.</p>
 details: |
-  ISBN: 9492051783 / 978-9492051783
-  Content: 96 pages
-  Size: 229 × 331 mm
-  Language: English
-  designed by: Rob van Hoesel
-  Publication: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / The Eriskay Connection. All rights reserved.
+  ISBN: "9492051783 / 978-9492051783"
+  Content: "96 pages"
+  Size: "229 × 331 mm"
+  Language: "English"
+  designed by: "Rob van Hoesel"
+  Publication: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / The Eriskay Connection. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Xiaoxiao Xu
 
 ----
 
-Uuid: gryjDvvu94pAJLko
+Uuid: sgVY7fYN611ARSTE
 
 ----
 

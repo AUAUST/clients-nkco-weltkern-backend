@@ -19,14 +19,14 @@ description: |
   <p>Just as the original ’Totalisator Machine’ (the betting device) is basically a machine that thrives on the randomness of gambling players, every systematic ideology will always contain an anti-systematic dimension. Standards are created through their variations, rules are emphasized by their exceptions, and universal languages always come with their dialects and accents. Every system produces its own subversion, just as every subversion generates its own system.</p>
   <p>And this is our main sentiment when leafing through May 25 is now October 1. Despite the standardized sports halls, despite the numbered uniforms, despite the rules of the game (or, as we’d like to argue – because of the standardized sports halls, because of the numbered uniforms, and because of the rules of the game) these photos are filled with human emotions, dramatic expressions, dynamic movements, theatrical motions. The standard is nothing but a platform for its variation, and only in repetition the real unique gesture can be found. So yes – we dig repetition, and we dig Bardhi Haliti’s book.</p>
 details: |
-  ISBN: 3952471050 / 978-3952471050
-  Content: 662 pages
-  Size: 165 × 233 mm
-  Language: English
-  Graphic Design by: Bardhi Haliti
-  Publication: 2019
-  Specs: Softcover
-  Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: "3952471050 / 978-3952471050"
+  Content: "662 pages"
+  Size: "165 × 233 mm"
+  Language: "English"
+  Graphic Design by: "Bardhi Haliti"
+  Publication: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cpress. All rights reserved."
 gallery:
   - 
     url: >
@@ -67,7 +67,7 @@ May 25 is now October 1
 
 ----
 
-Uuid: hlHZyjbvWanuGUxh
+Uuid: qFc3656lWMjKRO3Z
 
 ----
 

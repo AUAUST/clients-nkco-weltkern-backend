@@ -14,16 +14,16 @@ description: |
   <br />
   Although tucked away in a Swiss alpine idyll, this grand Belle Époque hotel was not impervious to the tensions and upheavals that rocked European society between the wars and especially during World War II. So what did the receptionists say as they watched guests depart by the dozen in the wake of the 1932 bank crisis? Or when Easter greetings sent to Jewish guests came back marked “RETURN TO SENDER”, “NO LONGER AT THIS ADDRESS” or simply “UNDELIVERABLE”? How did they treat high-ranking Nazi guests during the war, or Jewish Holocaust survivors who came back to the hotel after the war? The Hotel Waldhaus burned down in 1989: it was arson, but the case has never been solved. Some 20,000 file cards on the hotel’s guests, however, were among the items salvaged from the remains. This rare resource provides an interesting look not only at the hotel’s erstwhile guests, but also at the staff who kept the files.</p>
 details: |
-  ISBN: 3907236192 / 978-3907236192
-  Content: 388 Pages
-  Size: 190 × 35 × 270 mm
-  Author: Martin Suter, Hans Heiss, Bettina Spoerri, Lois Hechenblaikner, Andrea Kühbacher
-  Edited by: Lois Hechenblaikner, Andrea Kühbacher, Rolf Zollinger
-  Design: TGG Hafen Senn Stieger
-  Language: German
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236192 / 978-3907236192"
+  Content: "388 Pages"
+  Size: "190 × 35 × 270 mm"
+  Author: "Martin Suter, Hans Heiss, Bettina Spoerri, Lois Hechenblaikner, Andrea Kühbacher"
+  Edited by: "Lois Hechenblaikner, Andrea Kühbacher, Rolf Zollinger"
+  Design: "TGG Hafen Senn Stieger"
+  Language: "German"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Multilinetitle: Keine Ostergrüsse mehr!
 
 ----
 
-Uuid: MIlsDM5FkbHAG4sP
+Uuid: 0O0cUQcGIlWFe3hR
 
 ----
 

@@ -14,17 +14,17 @@ author:
   id: 95
 description: '<p>An international history of video art and experimental film networks in the early 1970s: the book offers a new approach to the subject by focusing on an examination of the structures of distribution and production of the moving image, complemented by case studies of two historical exhibitions and Jonas Mekas&#8217; Anthology Film Archives.</p>'
 details: |
-  ISBN: 2970115700 / 978-2970115700
-  Content: 268 pages
-  Size: 230 × 13 × 308 mm
-  Author: Bovier Francois
-  Edited by: François Bovier
-  Texts by: Bovier Francois, Kristen Alfaro, Enrico Camporesi, Katarzyna Cytlak, Larisa Dryansky, Tristan Lavoyer, Adeena Mey, Kris Paulsen, Cosetta G. Saba, Andrew V. Uroskie
-  Design: EUROSTANDARD
-  Language: English
-  Publishing date: 2017
-  Specs: Softcover
-  Images: © ECAL. All rights reserved.
+  ISBN: "2970115700 / 978-2970115700"
+  Content: "268 pages"
+  Size: "230 × 13 × 308 mm"
+  Author: "Bovier Francois"
+  Edited by: "François Bovier"
+  Texts by: "Bovier Francois, Kristen Alfaro, Enrico Camporesi, Katarzyna Cytlak, Larisa Dryansky, Tristan Lavoyer, Adeena Mey, Kris Paulsen, Cosetta G. Saba, Andrew V. Uroskie"
+  Design: "EUROSTANDARD"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© ECAL. All rights reserved."
 gallery:
   - 
     url: >
@@ -54,7 +54,7 @@ Multilinetitle: Early Video Art And Experimental Films Networks
 
 ----
 
-Uuid: TSYef95udAEzf9ML
+Uuid: xA6CpSGNvFugeCwN
 
 ----
 

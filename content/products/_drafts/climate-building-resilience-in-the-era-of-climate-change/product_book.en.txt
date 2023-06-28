@@ -12,16 +12,16 @@ author:
   id: 246
 description: '<p>The book explores through essays and interviews the high end climate research at The Royal Academy – Architecture, Design, Conservation in Copenhagen. Unfolding research in architecture, design, fashion and urban planning the book offers a comprehensive view of the trailblazing effort to make the UN Sustainability Goals into real projects and products.</p>'
 details: |
-  ISBN: 8774074267 / 978-8774074267
-  Content: 274 pages
-  Size: 178 × 35 × 245 mm
-  Edited by: Kristoffer Lindhardt Weiss , Susanne Jøker Johnsen
-  Design: WAAITT
-  Font in use: TWK Lausanne
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Arkitektens Forlag. All rights reserved.
+  ISBN: "8774074267 / 978-8774074267"
+  Content: "274 pages"
+  Size: "178 × 35 × 245 mm"
+  Edited by: "Kristoffer Lindhardt Weiss , Susanne Jøker Johnsen"
+  Design: "WAAITT"
+  Font in use: "TWK Lausanne"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Arkitektens Forlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,7 +62,7 @@ Building Resilience in the Era of Climate Change
 
 ----
 
-Uuid: N48NTflpsgRjzySp
+Uuid: rfKZWdbr3VKHgqMg
 
 ----
 

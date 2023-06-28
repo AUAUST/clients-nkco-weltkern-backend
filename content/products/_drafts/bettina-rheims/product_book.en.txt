@@ -14,15 +14,15 @@ description: |
   <p>This retrospective of Rheims brings together more than 300 photographs taken in 35 years of profession full of provocation and audacity. The collection, personally selected and compiled by the artist, includes such well-known series as Chambre Close, Héroïnes and Rose, c&#8217;est Paris. Straddling the line between commercial and artistic work, the book impresses, page after page, as much for the strength of the images as for Rheims&#8217; fascinating variety of subject matter and aesthetics.</p>
   <p>Paying as much attention to anonymous characters as to celebrities such as Kate Moss, Madonna, Monica Bellucci, Claudia Schiffer and Naomi Campbell, it illustrates Rheims&#8217; interest in the fragility and strength of women and the magic of the encounter between model and artist, breaking the conventional molds of eroticism to construct a new aesthetic of femininity.</p>
 details: |
-  ISBN: 3836568876 / 978-3836568876
-  Content: 452 pages
-  Size: 225 × 42 × 284 mm
+  ISBN: "3836568876 / 978-3836568876"
+  Content: "452 pages"
+  Size: "225 × 42 × 284 mm
   
-  Edited by: Patrick Remy
-  Language: English / French / German
-  Publishing date: 2017
-  Specs: Hardcover
-  Images: © Taschen. All rights reserved.
+  Edited by: "Patrick Remy"
+  Language: "English / French / German"
+  Publishing date: "2017"
+  Specs: "Hardcover"
+  Images: "© Taschen. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,7 +56,7 @@ Multilinetitle: Bettina Rheims
 
 ----
 
-Uuid: lumwGPsutRBnzGnW
+Uuid: rCwk7gntfP7T4XPQ
 
 ----
 

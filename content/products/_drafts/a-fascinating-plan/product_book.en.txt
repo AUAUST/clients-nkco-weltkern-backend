@@ -16,16 +16,16 @@ description: |
   <br />
   Marius Goldhorn has published the novel Park (Suhrkamp) and the poetry collection Yin (Korbinian). Enis Maci has authored the volume of essays Eiscafé Europa (Suhrkamp) and a number of plays, most recently WÜST (Theater Bremen). Tanita Olbrich is a film-maker. Her most recent productions are Steve Temple (Blicke Festival 2020) and Kajsa Athena (Kassel Documentary Festival 2019). Mazlum Nergiz writes plays and essays, most recently Falten &#038; Inseln (Matthes &#038; Seitz). Pascal Richmann is the author of the essays Über Deutschland, über alles (Hanser) and Man vermisst diesen Planeten (Spector Books).</p>
 details: |
-  ISBN: 3959054734 / 978-3959054737
-  Content: 120 pages
-  Size: 137 × 12 × 195 mm
-  Authors: Marius Goldhorn, Enis Maci, Mazlum Nergiz, Tanita Olbrich, Pascal Richmann
-  Edited by: Jörn Dege, Mathias Zeiske
-  Design: Hannes Drißner
-  Language: English / German
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959054734 / 978-3959054737"
+  Content: "120 pages"
+  Size: "137 × 12 × 195 mm"
+  Authors: "Marius Goldhorn, Enis Maci, Mazlum Nergiz, Tanita Olbrich, Pascal Richmann"
+  Edited by: "Jörn Dege, Mathias Zeiske"
+  Design: "Hannes Drißner"
+  Language: "English / German"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Multilinetitle: A Fascinating Plan
 
 ----
 
-Uuid: 3ZjZpS2hVeq00OYw
+Uuid: 8jFPCsvtgIXSpLVn
 
 ----
 

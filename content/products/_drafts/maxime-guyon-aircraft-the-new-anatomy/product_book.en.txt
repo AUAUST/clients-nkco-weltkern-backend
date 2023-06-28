@@ -13,17 +13,17 @@ description: |
   <p>A meticulous depiction of plane parts, rendered in the style of commercial photography<br />
   Combining the imagery of the aviation industry with a fresh take on the conventions of the photography medium, Aircraft: The New Anatomy dissects the components of aerial machinery in an exacting account of aircraft components and their aesthetics.  French photographer Maxime Guyon’s series is composed of digital photographs of large-scale aerospace subjects, executed in a specific style that replicates the visual codes of advertising photography. Combining the principle of &#8220;form follows function&#8221; and our post-industrial era as well as its aesthetic, this project reopens a visual discussion that Le Corbusier first introduced in 1935 in his publication Aircraft: The New Vision, to which this book alludes.</p>
 details: |
-  ISBN: 3037786345 / 978-3037786345
-  Content: 120 pages
-  Size: 190 × 15 × 260 mm
-  Author: Maxime Guyon
-  Edited by: Maxime Guyon
-  Contributions from: Nicolas Nova
-  Design: Frederik Mahler-Andersen
-  Language: English
-  Publishing date: 2020
-  Specs: Hardcover
-  Images: © Lars Müller Publishers / Maxime Guyon. All rights reserved.
+  ISBN: "3037786345 / 978-3037786345"
+  Content: "120 pages"
+  Size: "190 × 15 × 260 mm"
+  Author: "Maxime Guyon"
+  Edited by: "Maxime Guyon"
+  Contributions from: "Nicolas Nova"
+  Design: "Frederik Mahler-Andersen"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© Lars Müller Publishers / Maxime Guyon. All rights reserved."
 gallery:
   - 
     url: >
@@ -117,7 +117,7 @@ The New Anatomy
 
 ----
 
-Uuid: 6b3Jb8xErzFmyidl
+Uuid: gD7452IZ6xdK6zvf
 
 ----
 

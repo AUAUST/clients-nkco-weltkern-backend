@@ -11,15 +11,15 @@ author:
   id: 99
 description: '<p>This publication brings together new and previously published essays, interviews, short stories, and reports from a variety of fields and geographies on a variety of topics that map the space of Eastern Europe and beyond, with a focus on the &#8220;beyond.&#8221; The starting point is exhaustion-spiritual exhaustion, cultural exhaustion, material and economic exhaustion-and the resulting strategic position of weakness or compliance. The texts take a look at: Racialization, decolonization of museums and museology, the intricacies of cultural exchange, and the impact of radical modernist traditions of thought and aesthetics. They are accompanied by artistic interventions by Dorota Brázdovičová, Markéta Soukupová, Sráč Sam and Tarek Lakhrissi. </p>'
 details: |
-  ISBN: 3959056809 / 978-3959056809
-  Content: 336 pages
-  Size: 115 × 230 mm
-  Design: Ondrej Bachor
+  ISBN: "3959056809 / 978-3959056809"
+  Content: "336 pages"
+  Size: "115 × 230 mm"
+  Design: "Ondrej Bachor
   
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Spector Books. All rights reserved.
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,7 +60,7 @@ Biennale Matter of Art 2022
 
 ----
 
-Uuid: uH4dlZ8qg96Saii1
+Uuid: oCa1d6lPXhkoGiaH
 
 ----
 

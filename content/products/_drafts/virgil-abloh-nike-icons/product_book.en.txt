@@ -16,15 +16,15 @@ description: |
   <br />
   The book documents Abloh’s cooperative way of working and reaffirms the power of print. For its design Nike and Abloh partnered with the acclaimed London-based design studio Zak Group. Together they conceived a two-part compendium, equal parts catalog and conceptual toolbox. The first part of the book presents a visual culture of sneakers while a lexicon in the second part defines the key people, places, objects, ideas, materials, and scenes from which the project grew. Texts by Nike’s Nicholas Schonberger, writer Troy Patterson, curator and historian Glenn Adamson, and Virgil Abloh himself frame the collaborative work within fashion and design history. A foreword by Hiroshi Fujiwara places the project within the historical continuum of Nike collaborators.</p>
 details: |
-  ISBN: 3037640104 / 978-3037640104
-  Content: 352 pages
-  Size: 241 × 37 × 292 mm
-  Author: Virgil Abloh
-  Design: Zak Group
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover, Swiss binding
-  Images: © Taschen. All rights reserved.
+  ISBN: "3037640104 / 978-3037640104"
+  Content: "352 pages"
+  Size: "241 × 37 × 292 mm"
+  Author: "Virgil Abloh"
+  Design: "Zak Group"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover, Swiss binding"
+  Images: "© Taschen. All rights reserved."
 gallery:
   - 
     url: >
@@ -81,7 +81,7 @@ Nike® ICONS
 
 ----
 
-Uuid: 9rUA77qlRKd2D5MY
+Uuid: xa7AsPa89ZAeIiHc
 
 ----
 

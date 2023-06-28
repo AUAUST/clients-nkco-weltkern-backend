@@ -13,17 +13,17 @@ description: |
   <p>Silent green presents the most comprehensive solo exhibition in Germany to date on the last creative period of the French filmmaker, photographer and visual artist Agnès Varda, who died in 2019. Varda is regarded as one of the most influential creative personalities of our time, who reinvented herself constantly in the course of her life&#8217;s work, which spanned more than six decades. However, the third creative period of the modern film&#8217;s pioneer is less known in Germany. It began in 2003 at the Venice Biennale and comprises installation works that reflect Varda&#8217;s joy in experimenting between documentary and the fiction formats, her poetic, abstract realism and her sensitive observations of socio-political issues in various visual media.  </p>
   <p>Agnès Varda (1928–2019) worked as a photographer in the 1950s, taking pictures for the Avignon Festival, for example, and producing photo reportages in China, Cuba, Portugal, and Germany. In 1954 she produced her first feature film, La Pointe Courte, which helped usher in the Nouvelle Vague. Since 2003, she has worked as a visual artist, mounting numerous exhibitions with installations, videos, and photographs.  </p>
 details: |
-  ISBN: 3959056113 / ‎978-3959056113
-  Content: 114 pages
-  Size: 245 × 320 mm
-  Artist: Agnès Varda
-  Design: Malin Gewinner
+  ISBN: "3959056113 / ‎978-3959056113"
+  Content: "114 pages"
+  Size: "245 × 320 mm"
+  Artist: "Agnès Varda"
+  Design: "Malin Gewinner
   
-  Text: Dominique Buhler, Julia Fabry, Philippe Piguet
-  Language: English, French
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN® / ‎Spector Books. All rights reserved.
+  Text: "Dominique Buhler, Julia Fabry, Philippe Piguet"
+  Language: "English, French"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / ‎Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,7 +65,7 @@ Multilinetitle: La Troisième Vie d’Agnès Varda
 
 ----
 
-Uuid: qUnzAMEmj5Ut2BNn
+Uuid: a47eQhGz4q3KZAeF
 
 ----
 

@@ -11,14 +11,14 @@ author:
   id: 268
 description: '<p>In ‘Lithium’ Erik van der Weijde once again turns the camera on his son, who is now a teenager. The photographs were taken between 2018 and 2019, capturing a pivotal time in their lives and relationship. The series is partly set in Brazil, his son’s home country, during their last year together there, and also partly in their first year after moving to Europe. It is clear that transitions and the gap between expectations and reality left their mark on this period.</p>'
 details: |
-  ISBN: 9492811804 / 978-9492811806
-  Content: 32 pages
-  Size: 210 × 300 mm
-  Author: Erik van der Weijde
-  Edited by: Roma Publications
-  Language: English
-  Publishing date: 2020
-  Images: © WELTKERN® /  Idea Books. All rights reserved.
+  ISBN: "9492811804 / 978-9492811806"
+  Content: "32 pages"
+  Size: "210 × 300 mm"
+  Author: "Erik van der Weijde"
+  Edited by: "Roma Publications"
+  Language: "English"
+  Publishing date: "2020"
+  Images: "© WELTKERN® /  Idea Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -35,7 +35,7 @@ Erik Van Der Weijde
 
 ----
 
-Uuid: MGOa1DnWZOe11eMH
+Uuid: 7wkhiXJWhd4lFx6t
 
 ----
 

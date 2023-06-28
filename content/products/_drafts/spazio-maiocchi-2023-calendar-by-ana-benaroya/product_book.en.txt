@@ -11,14 +11,14 @@ author:
   id: 242
 description: '<p>To celebrate Spazio Maiocchi&#8217;s 5th anniversary, this year&#8217;s limited-edition, large-format, monthly calendar features artist Ana Benaroya&#8217;s squad of supernatural female characters. Published by KALEIDOSCOPE in partnership with Slam Jam.</p>'
 details: |
-  ISBN: 3959057301 / 978-3959057301
-  Content: 28 pages
-  Size: 297 × 420 mm
-  Design: Julie Peeters
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / KALEIDOSCOPE. All rights reserved.
+  ISBN: "3959057301 / 978-3959057301"
+  Content: "28 pages"
+  Size: "297 × 420 mm"
+  Design: "Julie Peeters"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ by Ana Benaroya
 
 ----
 
-Uuid: nQLmEaArBBcsa1R0
+Uuid: NwdsxH8lxmn17lT9
 
 ----
 

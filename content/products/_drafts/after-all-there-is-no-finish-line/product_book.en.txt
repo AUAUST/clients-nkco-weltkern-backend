@@ -14,14 +14,14 @@ description: |
   <p>“No Finish Line” celebrates Nike’s 50 years of game-changing design and innovation in the service of athletes and sport — and sets a vision for the next 50 years.</p>
   <p>The book includes a foreword by Nike’s Chief Design Officer, John Hoke, speculative fiction by journalist Geoff Manaugh, and essays by author Sam Grawe that describe five major shifts design may undergo in the coming decades.</p>
 details: |
-  ISBN: 8987264805 / 979-8987264805
-  Content: 192 pages
-  Size: 110 × 178 mm
-  Design: Zak Group
-  Language: English
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Actual Source. All rights reserved.
+  ISBN: "8987264805 / 979-8987264805"
+  Content: "192 pages"
+  Size: "110 × 178 mm"
+  Design: "Zak Group"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Actual Source. All rights reserved."
 gallery:
   - 
     url: >
@@ -47,7 +47,7 @@ Multilinetitle: After all, there is No Finish Line
 
 ----
 
-Uuid: 7QuIdlwZEmYGUsMh
+Uuid: x72RQnwewGUhEQeH
 
 ----
 

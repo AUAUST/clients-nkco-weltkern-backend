@@ -13,16 +13,16 @@ description: |
   <p>What happens when twilight makes the familiar strange, when things elude visibility and lose their uniqueness? </p>
   <p>Anne Morgenstern explores the mysterious ideas of rural community, its oscillation between traditions, customs and modern life. Her explorations take the photographer to the Free State of Bavaria. In this laboratory of contradictions, she makes visible how notions of &#8220;home&#8221; and &#8220;culture&#8221; are asserted &#8211; but also how they are disintegrated and reformulated. She traces the fragile moments when the longing for authenticity and purity is thwarted by the ordinariness of everyday life. At the center of the observations are the people and their rituals, through which, in the midst of a diffuse present, the seemingly familiar is given validity.</p>
 details: |
-  ISBN / EAN: 3000581496 / 978-3000581496
-  Content: 160 pages
-  Size: 200 × 23 × 270 mm
-  Author: Anne Morgenstern
-  Texts by: Jonas Lüscher, Tess Lewis
-  Design: Raffinerie
-  Language: German
-  Publishing date: 2017
-  Specs: Hardcover
-  Images: © Fountain Books. All rights reserved.
+  ISBN / EAN: "3000581496 / 978-3000581496"
+  Content: "160 pages"
+  Size: "200 × 23 × 270 mm"
+  Author: "Anne Morgenstern"
+  Texts by: "Jonas Lüscher, Tess Lewis"
+  Design: "Raffinerie"
+  Language: "German"
+  Publishing date: "2017"
+  Specs: "Hardcover"
+  Images: "© Fountain Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,7 +55,7 @@ Reinheit
 
 ----
 
-Uuid: FqDtp6mmYb0y5sEA
+Uuid: cP9PQExBp50haXYQ
 
 ----
 

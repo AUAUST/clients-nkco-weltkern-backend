@@ -12,14 +12,14 @@ author:
   id: 102
 description: '<p>&#8216;Politics and the English Language&#8217; is widely considered Orwell&#8217;s most important essay on style. Style, for Orwell, was never simply a question of aesthetics; it was always inextricably linked to politics and to truth.&#8217;All issues are political issues, and politics itself is a mass of lies, evasions, folly, hatred and schizophrenia.When the general atmosphere is bad, language must suffer.&#8217;Language is a political issue, and slovenly use of language and cliches make it easier for those in power to deliberately use misleading language to hide unpleasant political facts. Bad English, he believed, was a vehicle for oppressive ideology, and it is no accident that &#8216;Politics and the English Language&#8217; was written after the close of World War II.</p>'
 details: |
-  ISBN: 0141393068 / 978-0141393063
-  Content: 32 pages
-  Size: 109 × 2 × 183 mm
-  Author: George Orwell
-  Language: English
-  Publishing date: 2013
-  Specs: Softcover
-  Images: © Penguin Random House UK. All rights reserved.
+  ISBN: "0141393068 / 978-0141393063"
+  Content: "32 pages"
+  Size: "109 × 2 × 183 mm"
+  Author: "George Orwell"
+  Language: "English"
+  Publishing date: "2013"
+  Specs: "Softcover"
+  Images: "© Penguin Random House UK. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Politics and the English Language
 
 ----
 
-Uuid: 9GFkHh2nze8dqMEv
+Uuid: 5B4r8sdjWPVxpudO
 
 ----
 

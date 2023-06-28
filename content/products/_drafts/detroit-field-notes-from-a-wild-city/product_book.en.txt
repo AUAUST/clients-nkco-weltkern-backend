@@ -14,16 +14,16 @@ description: |
   <br />
   Franziska Klose is an artist and photographer. She has been working with post- industrial landscapes since 2010.</p>
 details: |
-  ISBN: 3959054688 / 978-3959054683
-  Content: 176 pages
-  Size: 235 × 300 mm
-  Author: Franziska Klose
-  Edited by: Spector Books
-  Design: Ina Kwon
-  Language: English
-  Publishing date: 2021
-  Specs: Thread-sewn softcover with numerous black-white and colour illustrations
-  Images: © WELTKERN® /  Spector Books. All rights reserved.
+  ISBN: "3959054688 / 978-3959054683"
+  Content: "176 pages"
+  Size: "235 × 300 mm"
+  Author: "Franziska Klose"
+  Edited by: "Spector Books"
+  Design: "Ina Kwon"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Thread-sewn softcover with numerous black-white and colour illustrations"
+  Images: "© WELTKERN® /  Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Field Notes from a Wild City
 
 ----
 
-Uuid: M9oqVLPDQ7g8uLYk
+Uuid: SElIsL8qQYCLUhFS
 
 ----
 

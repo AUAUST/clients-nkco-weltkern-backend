@@ -18,16 +18,16 @@ description: |
   <br />
   Peter Sutherland (American, b. 1976) is an artist working across fine art and commissioned photography. His work has been exhibited in institutions and galleries worldwide, including the Contemporary Art Museum, St Louis; Galerie Rodolphe Janssen, Brussels; White Cube, London; Zabludowicz Collection, London.</p>
 details: |
-  ISBN: 8897185123 / 978-8897185123
-  Content: 148 Pages
-  Size: 200 × 18 × 300 mm
-  Author: Peter Sutherland
-  Texts by: Maia Ruth Lee, Leo Fitzpatrick
-  Design: Kasper Florio
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISBN: "8897185123 / 978-8897185123"
+  Content: "148 Pages"
+  Size: "200 × 18 × 300 mm"
+  Author: "Peter Sutherland"
+  Texts by: "Maia Ruth Lee, Leo Fitzpatrick"
+  Design: "Kasper Florio"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -76,7 +76,7 @@ Colorado
 
 ----
 
-Uuid: YreoKvpFXsmrgONe
+Uuid: G6GlgREW3N1DIqhW
 
 ----
 

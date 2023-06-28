@@ -21,16 +21,16 @@ description: |
   <br />
   The first edition of <em>Maximage Color Combinations</em> was conceived and printed during a workshop at ECAL held by Maximage and the printer Thomi Wolfensberger in 2017. The color combinations were generated directly in the offset press by interfering with the ink unit. This unorthodox color-mixing technique has helped to create more than 450 spot colors evolving over the different books. It was part of the “Workflow” research project.</p>
 details: |
-  ISBN: 2970115793 / 978-2970115793
-  Content: 240 pages
-  Size: 150 × 33 × 235 mm
-  Authors: Benjamin Plantier, Thomi Wolfensberger, Maximage
-  Edited by: Maximage & ECAL
-  Design: Maximage
-  Language: English
-  Publishing date: 2017
-  Specs: Softcover
-  Images: © WELTKERN® / ECAL. All rights reserved.
+  ISBN: "2970115793 / 978-2970115793"
+  Content: "240 pages"
+  Size: "150 × 33 × 235 mm"
+  Authors: "Benjamin Plantier, Thomi Wolfensberger, Maximage"
+  Edited by: "Maximage & ECAL"
+  Design: "Maximage"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ECAL. All rights reserved."
 gallery:
   - 
     url: >
@@ -71,7 +71,7 @@ Color Combinations: Limited Edition
 
 ----
 
-Uuid: LZuivwmSkJ9z8p8f
+Uuid: Vp80ug4JbixU2hpn
 
 ----
 

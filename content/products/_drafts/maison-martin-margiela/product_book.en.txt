@@ -14,15 +14,15 @@ description: |
   <br />
   This book provides an inside look at the design process from a craftsman who creates pieces prized for their originality, delicacy, and daring. In the spirit of Margiela’s garments, the book is a work of art in itself, designed exclusively by Margiela and complete with silver inks, ribbon markers, a variety of lush paper types, twelve booklets, and an embroidered white-linen cover. This book provides a window onto the intimate, handmade world of a unique designer.</p>
 details: |
-  ISBN: 0847831883 / 978-0847831883
-  Content: 368 pages
-  Size: 254 × 40 × 335 mm
-  Author: Maison Martin Margiela
-  Contributions from: Jean-Paul Gaultier, Susannah Frankel, Andree Putman, Vanessa Beecroft
-  Language: English
-  Publishing date: 2009
-  Specs: Hardcover
-  Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  ISBN: "0847831883 / 978-0847831883"
+  Content: "368 pages"
+  Size: "254 × 40 × 335 mm"
+  Author: "Maison Martin Margiela"
+  Contributions from: "Jean-Paul Gaultier, Susannah Frankel, Andree Putman, Vanessa Beecroft"
+  Language: "English"
+  Publishing date: "2009"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,7 +56,7 @@ Multilinetitle: Maison Martin Margiela
 
 ----
 
-Uuid: 6LJtnacs8h2FxmC4
+Uuid: WvskwzE6uOipytIp
 
 ----
 

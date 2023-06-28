@@ -16,13 +16,13 @@ description: |
   <p>Over the twenty-three years this book covers, Edström notes that, ‘There is a sense of change, but of slow change, a pace and energy quite different from my long-time residence in Tokyo. The village has a sense of isolation. When I first visited, my mother-in-law talked about the American soldiers giving them chocolate as they trooped past, but when I arrived, they hadn’t seen a Westerner in a long time, and they were all very curious. They were curious, but also very welcoming, quickly becoming used to me and learning not to react to me taking pictures.’</p>
   <p>For Edström, ‘It’s also not about one picture; the sequence of pictures is so important for me, [and deciding] which ones go together.’ In an essay which accompanies the book, writer and musician Jeff Rian described the layout of the photographs as ‘story-board like’, and indeed the images also inspired another project, The Works and Days (of Tayoko Shiojiri in the Shiotani Basin), in which his wife’s family play themselves in a narrative, near documentary about the life of vegetable farmer Tayoko, and her dying husband. An eight-hour long narrative film created with his long-time collaborator C.W. Winter, who has also contributed an essay to the book, it won a Golden Bear at the Berlin International Film Festival and will be shown on 12 September 2021 at the ICA London as part of the Open City Documentary Festival</p>
 details: |
-  ISBN: 9151984339 / 978-9151984339
-  Content: 756 pages
-  Size: 267 × 210 mm
-  Language: English
-  Publication: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / AKPE. All rights reserved.
+  ISBN: "9151984339 / 978-9151984339"
+  Content: "756 pages"
+  Size: "267 × 210 mm"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / AKPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Shiotani
 
 ----
 
-Uuid: RwkSiIkiRqLLOa2h
+Uuid: sdu8lu1oyGWDurOh
 
 ----
 

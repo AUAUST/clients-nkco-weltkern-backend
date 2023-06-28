@@ -16,14 +16,14 @@ description: |
   <br />
   This curated collection of just under 300 images taken between the 1940s and ’70s offers an intimate glimpse into the lives of these anonymous subjects. The locations, dates, and the subjects may be unknown―but these shots taken by skilled amateur photographers, and the fascinating stories they contain, are universally familiar.</p>
 details: |
-  ISBN: 3836575843 / 978-3836575843
-  Content: 280 pages
-  Size: 237 × 30 × 316 mm
-  Author: Lee Shulman
-  Language: English
-  Publishing date: 2019
-  Specs: Hardcover
-  Images: © WELTKERN® / Taschen. All rights reserved.
+  ISBN: "3836575843 / 978-3836575843"
+  Content: "280 pages"
+  Size: "237 × 30 × 316 mm"
+  Author: "Lee Shulman"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Taschen. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,7 +64,7 @@ The Anonymous Project
 
 ----
 
-Uuid: jAFCHOikGv5h3ZpD
+Uuid: W21sH4IkbLAFQbhX
 
 ----
 

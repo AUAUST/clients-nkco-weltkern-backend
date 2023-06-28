@@ -18,12 +18,12 @@ description: |
   <p>In consultation with Melgaard, Gateavisa has chosen to present the comic in a format that is a precise replica of the notebook with spiral Melgard used during our entire collaboration. The reader will thus experience it as if they are flipping through the artist&#8217;s drawing pad. If the reader so wishes, the drawings can also be individually taken out of the block and hung on the wall. The edition is in A4 format, counts 113 pages, and weighs 798 grams.</p>
   <p>* Gateavisa (literally «The street newspaper») anno 1970 is one of the world’s oldest continuously published counterculture and anarchist magazines.</p>
 details: |
-  Content: 160 pages
-  Size: 210 × 300 mm
-  Language: English
-  Publication: 2021
-  Specs: Softback
-  Images: © WELTKERN® / Gateavisa. All rights reserved.
+  Content: "160 pages"
+  Size: "210 × 300 mm"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Softback"
+  Images: "© WELTKERN® / Gateavisa. All rights reserved."
 gallery:
   - 
     url: >
@@ -48,7 +48,7 @@ Bjarne Melgaard – A whore without a client
 
 ----
 
-Uuid: yXJWbHNmwYEEnTnD
+Uuid: 0XnlwxcliMXod928
 
 ----
 

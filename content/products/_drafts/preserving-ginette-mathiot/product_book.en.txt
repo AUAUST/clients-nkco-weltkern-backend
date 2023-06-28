@@ -11,14 +11,14 @@ author:
   id: 92
 description: '<p>A vibrant package crammed with every recipe you’ll ever need to conserve, salt, pickle, and smoke your own fresh produce.  Written by Ginette Mathiot and revised and updated by Clotilde Dusoulier of Chocolate and Zucchini.  Preserving is an incredibly popular trend in food books and is growing. This book stands out as it includes techniques for smoking, pickling, and making charcuterie, allowing both home cooks and chefs to learn new preserving techniques.</p>'
 details: |
-  ISBN: 0714869520 / 978-0714869520
-  Content: 336 pages
-  Size: 168 × 32 × 229 mm
-  Author: Ginette Mathiot
-  Language: English
-  Publishing date: 2015
-  Specs: Hardcover
-  Images: © Phaidon Press. All rights reserved.
+  ISBN: "0714869520 / 978-0714869520"
+  Content: "336 pages"
+  Size: "168 × 32 × 229 mm"
+  Author: "Ginette Mathiot"
+  Language: "English"
+  Publishing date: "2015"
+  Specs: "Hardcover"
+  Images: "© Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ Ginette Mathiot
 
 ----
 
-Uuid: epGf9yOh9JpZDhPa
+Uuid: TvzOpA4soaJ19YPg
 
 ----
 

@@ -16,18 +16,18 @@ description: |
   <br />
   The artists presented here—Jonathas de Andrade (BR), Lothar Baumgarten (D), Yervant Gianikian and Angela Ricci Lucchi (IT), Friedemann von Stockhausen (D), Clemens von Wedemeyer (D), and Aimée Zito Lema (AR/NL)—chart thus far unexplored forms of knowledge and different systems of imagination, inspired by an ancient drama of ethical struggles, unresolved ambivalences, hubris, and damnation. The catalogue Prometheus Unbound includes original texts by Hartmut Böhme, Luigi Fassi, Jared Hickman, and Giovanni Leghissa that explore in depth the tradition of Prometheus from antiquity to present times.</p>
 details: |
-  ISBN: 8867493051 / 978-8867493050
+  ISBN: "8867493051 / 978-8867493050
   
-  Content: 192 pages
-  Size: 120 × 14 × 190 mm
-  Edited by: Luigi Fassi
-  Texts by: Hartmut Böhme, Luigi Fassi, Jared Hickman, Giovanni Leghissa
-  Design: Mousse Agency
-  Font in use: TWK Lausanne
-  Publishing date: 2017
-  Language: English / German
-  Specs: Softcover
-  Images: © WELTKERN® / Mousse Publishing. All rights reserved.
+  Content: "192 pages"
+  Size: "120 × 14 × 190 mm"
+  Edited by: "Luigi Fassi"
+  Texts by: "Hartmut Böhme, Luigi Fassi, Jared Hickman, Giovanni Leghissa"
+  Design: "Mousse Agency"
+  Font in use: "TWK Lausanne"
+  Publishing date: "2017"
+  Language: "English / German"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,7 +60,7 @@ Der Entfesselte Prometheus
 
 ----
 
-Uuid: O4oNYJURwqqWGdcP
+Uuid: coj4xmq8PkXufKWK
 
 ----
 

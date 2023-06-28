@@ -17,12 +17,12 @@ description: |
   <p>UNLIRICE #00 is a sort of rough sketch, one that we hope to continue to fill in together with everyone in any way that comes to mind. The magazine format itself is only one, provisional form of UNLIRICE.</p>
   <p>I hope that this project gives rise to new contexts and new connections, and unlocks some part of Asia’s untapped potential.</p>
 details: |
-  Content: 464 pages
-  Size: 290 × 220 mm
-  Language: English
-  Publication: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / UNLIRICE. All rights reserved.
+  Content: "464 pages"
+  Size: "290 × 220 mm"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / UNLIRICE. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Unlirice
 
 ----
 
-Uuid: nfK5p8OjanPhs7FV
+Uuid: IPRyETCElQCbC5e0
 
 ----
 

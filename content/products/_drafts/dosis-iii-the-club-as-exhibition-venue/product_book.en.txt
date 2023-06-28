@@ -11,13 +11,13 @@ author:
   id: 99
 description: '<p>The club as exhibition venue: in summer 2021, after more than a year of pandemic-induced downtime, the Institut fuer Zukunft (IfZ) in Leipzig reopened its doors to host two back-to-back exhibitions, DOSIS I and DOSIS II, conceived and curated by a crew from the IfZ. Works were produced by a total of fifty-eight artists, who effectively took over the club’s premises. The book contains views of the exhibited artworks, demonstrating the (im) possibility of combining the ideas of club culture and artistic production. It also contains material on the works on display and essays on the relationship between the club and contemporary art. The book is not a record of the exhibition; rather, it shows how the club can be transformed, with a period of crisis causing new ideas to be implemented. In this sense, it is a book that is both about and for the club. Founded in 2014, the Institut fuer Zukunft (IfZ) is an electronic music club in Leipzig.</p>'
 details: |
-  ISBN: 3959055598 / 978 3959055598
-  Content: 192 pages
-  Size: 185 × 280 mm
-  Language: German
-  Publishing date: August 2022
-  Specs: Softcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959055598 / 978 3959055598"
+  Content: "192 pages"
+  Size: "185 × 280 mm"
+  Language: "German"
+  Publishing date: "August 2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -66,7 +66,7 @@ The club as exhibition venue
 
 ----
 
-Uuid: eNbJFIru5cPNJRAl
+Uuid: cM34ANhA9ZPHwJQg
 
 ----
 

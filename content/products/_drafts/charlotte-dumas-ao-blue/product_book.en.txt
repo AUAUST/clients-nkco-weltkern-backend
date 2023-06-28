@@ -11,16 +11,16 @@ author:
   id: 294
 description: '<p>Since 2015 Charlotte Dumas has studied the Japanese island of Yonaguni and the critically-endangered breed of native horses that roam freely across it. A tragic part of the island’s past comes through in her characteristically intimate films and photos. In round glass objects, ballet shoes, or a horse’s girth cloth, a special blue colour recurs to link Japanese nature, the island’s horses, and three young girls, whose spirited independence brings a new energy to Yonaguni.</p>'
 details: |
-  ISBN: 9083165851 / 978-9083165851
-  Content: 80 pages
-  Size: 240 × 290 mm
-  Author: Maria Barnas
-  Edited by: Fw:Books
-  Design: Hans Gremmen
-  Language: English
-  Spec: Softcover with double cahier
-  Publishing date: 2022
-  Images: © WELTKERN® / Fw:Books. All rights reserved.
+  ISBN: "9083165851 / 978-9083165851"
+  Content: "80 pages"
+  Size: "240 × 290 mm"
+  Author: "Maria Barnas"
+  Edited by: "Fw:Books"
+  Design: "Hans Gremmen"
+  Language: "English"
+  Spec: "Softcover with double cahier"
+  Publishing date: "2022"
+  Images: "© WELTKERN® / Fw:Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Ao (Blue)
 
 ----
 
-Uuid: IuUgltHZbWpXQNBX
+Uuid: MPKSNkAwrN3HQ4AG
 
 ----
 

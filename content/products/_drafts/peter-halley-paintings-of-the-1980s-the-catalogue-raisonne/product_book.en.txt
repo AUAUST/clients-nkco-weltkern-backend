@@ -12,15 +12,15 @@ author:
   id: 94
 description: '<p>The catalogue raisonné of the American neo-geo painter Peter Halley is a very accessible work that also reflects on the conceptual principles and historical contexts of the works. The 186 paintings from the years 1980-1989, often produced in powerful acrylic colours, are arranged chronologically, mostly in isolation or two per page. The almost square format of the book, the strictly structured layout with lots of white space and the new version of Helvetica digitised from the original drawings recall Swiss Design and some books on concrete art. It evokes a historical framework that Peter Halley struggled with, adding new structural elements such as cells or brick walls to the abstract and concrete processes. The resulting tension between abstraction and figuration is reflected in the titles of the works and is emphasised in the catalogue by the unusual size of the font used for these titles. Other information appears below the title, in very small type, but in an excellent typographic treatment. The lithographic work using hexachrome photographs from the 1980s is just as remarkable as the printing.</p>'
 details: |
-  ISBN: 3037644818 / 978-3037644812
-  Content: 192 Pages
-  Size: 280 × 272 mm
-  Author: Cara Jordan, Paul Pieroni
-  Edited by: JRP Editions
-  Design: Nicolas Eigenheer, Nicolas Leuba
-  Language: English
-  Publishing date: 2019
-  Images: © WELTKERN® / Les presses du réel. All rights reserved.
+  ISBN: "3037644818 / 978-3037644812"
+  Content: "192 Pages"
+  Size: "280 × 272 mm"
+  Author: "Cara Jordan, Paul Pieroni"
+  Edited by: "JRP Editions"
+  Design: "Nicolas Eigenheer, Nicolas Leuba"
+  Language: "English"
+  Publishing date: "2019"
+  Images: "© WELTKERN® / Les presses du réel. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Paintings of the 1980s – The Catalogue Raisonné
 
 ----
 
-Uuid: Qju7jv3RnP7nRzfC
+Uuid: jnhA3TuJwDG1UuoQ
 
 ----
 

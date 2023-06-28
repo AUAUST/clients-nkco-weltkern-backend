@@ -15,16 +15,16 @@ description: |
   <br />
   TVK is an international office of architecture and urban design, created by Pierre Alain Trévelo and Antoine Viger-Kohler in Paris in 2003. The agency pursues a theoretical and architectural approach that seeks to capture the complexity and paradoxical nature of the contemporary situation on Earth.</p>
 details: |
-  ISBN: 395905372X / 978-3959053723
-  Content: 208 pages
-  Size: 120 × 195 mm
-  Authors: Pierre Alain Trévelo, Antoine Viger-Kohler, Alexandre Bullier, David Enon, David Malaud, Mathieu Mercuriali, Océane Ragoucy
-  Edited by: Spector Books
-  Design: Julien Hourcade
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "395905372X / 978-3959053723"
+  Content: "208 pages"
+  Size: "120 × 195 mm"
+  Authors: "Pierre Alain Trévelo, Antoine Viger-Kohler, Alexandre Bullier, David Enon, David Malaud, Mathieu Mercuriali, Océane Ragoucy"
+  Edited by: "Spector Books"
+  Design: "Julien Hourcade"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -38,7 +38,7 @@ Multilinetitle: The Earth is an Architecture
 
 ----
 
-Uuid: xeomtVKVLb0kfv8K
+Uuid: ALEAJTnl12tNx9bf
 
 ----
 

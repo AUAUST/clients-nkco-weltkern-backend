@@ -11,15 +11,15 @@ author:
   id: 311
 description: '<p>This self-published book, which is made very flexible by the newsprint and comes in a panoramic format, has a strong identity and offers an astute reflection on the Covid-19 pandemic. It brings together nearly 200 black-and-white fragments of images published since the 1960s in the &#8220;Travel&#8221; supplements of The New York Times and Le Monde. The images, one per right-hand page, have been enlarged, giving them a rough outline. A short, relatively cryptic text on the cover and some conceptual notes at the end of the book refer to the history of tourism and colonization. A thin inset booklet reproduces letters to the designers and the designer in which friends tell of the effects of the pandemic on their lives. While the book thus seems to comment on the significant travel restrictions that marked the year 2020, its very loosely composed iconographic material and the sometimes unexpected reframings compose a more equivocal discourse. Rather, what emerges are the expectations of readers who seek to absorb themselves in the images and imaginations of paradisiacal islands precisely because of the impossibility of travel.</p>'
 details: |
-  ISBN: 3033083097 / 978-3033083097
-  Content: 420 pages
-  Size: 140 × 235 mm
-  Authors: Noha Mokhtar, Gregor Huber, Xavier Nueno
-  Design: Huber / Sterzinger, Noha Mokhtar
-  Language: English
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / Editions HS / schweizerkulturpreise.ch. All rights reserved.
+  ISBN: "3033083097 / 978-3033083097"
+  Content: "420 pages"
+  Size: "140 × 235 mm"
+  Authors: "Noha Mokhtar, Gregor Huber, Xavier Nueno"
+  Design: "Huber / Sterzinger, Noha Mokhtar"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Editions HS / schweizerkulturpreise.ch. All rights reserved."
 gallery:
   - 
     url: >
@@ -33,7 +33,7 @@ Multilinetitle: Chaque Mercredi Caracas
 
 ----
 
-Uuid: 295HpRYM5xTGcjKJ
+Uuid: jJPWHunRzeD86dTq
 
 ----
 

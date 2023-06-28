@@ -12,14 +12,14 @@ author:
   id: 284
 description: '<p>A Spell Too Far is a collection of works by Lina Sun Park &#038;  David Brandon Geeting, made during 2020 and 2021. The title describes the world beyond a magic spell gone awry. Things are a little peculiar, like that of an odd dream. Familiar characters, but not quite.</p>'
 details: |
-  ISBN: 3037644818 / 978-9887519621
-  Content: 64 Pages
-  Size: 210 × 272 mm
-  Edited by: Same Paper
-  Design: David Brandon Geeting
-  Language: English
-  Publishing date: 2021
-  Images: © WELTKERN® / Same Paper. All rights reserved.
+  ISBN: "3037644818 / 978-9887519621"
+  Content: "64 Pages"
+  Size: "210 × 272 mm"
+  Edited by: "Same Paper"
+  Design: "David Brandon Geeting"
+  Language: "English"
+  Publishing date: "2021"
+  Images: "© WELTKERN® / Same Paper. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ A Spell Too Far
 
 ----
 
-Uuid: p5FWTiTDyj8OLkES
+Uuid: b3hEmm224PDsGyE3
 
 ----
 

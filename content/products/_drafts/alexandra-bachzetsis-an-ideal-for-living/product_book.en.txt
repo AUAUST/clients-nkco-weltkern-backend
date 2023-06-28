@@ -15,15 +15,15 @@ description: |
   Her exhibition comprises an installation of three simultaneous video projections in which a pair of teenagers, a boy and a girl with an uncanny resemblance, act out real-life situations and sing songs. The installation includes low platforms like mini-stages inviting exhibition-goers to strike poses or sing out loud, along with various gym equipment on which to warm up and shape up one&#8217;s body. It turns out that some of these objects, designed to protect against a danger or optimize certain physical exercises, are also liable to be used dangerously, even violently. This inherent ambiguity suggests the potentially subversive ambiguities of body language.<br />
   This artist&#8217;s book, published by Centre culturel suisse and designed by Julia Born, follows the exhibition. Stills of poses struck by the cast of Escape Act are juxtaposed with shots of ambiguous objects and arranged according to instructions to perform certain movements. Two contributions by Paul B. Preciado sow further confusion: a prose piece propounding a philosophical approach to movement and a poem conceived of as an encyclopedia of contemporary sexual subjectivity, derived from a human brain and artificial intelligence.</p>
 details: |
-  ISBN: 2909230252 / 978-2909230252
-  Content: 64 pages
-  Size: 200 × 290 mm
-  Specs: Softcover, Dust jacket
-  Edited by: Alexandra Bachzetsis and Olivier Kaeser.
-  Texts by: Paul B. Preciado
-  Language: English
-  Publishing date: October 2018
-  Images: © WELTKERN® / Centre Culturel Suisse All rights reserved.
+  ISBN: "2909230252 / 978-2909230252"
+  Content: "64 pages"
+  Size: "200 × 290 mm"
+  Specs: "Softcover, Dust jacket"
+  Edited by: "Alexandra Bachzetsis and Olivier Kaeser."
+  Texts by: "Paul B. Preciado"
+  Language: "English"
+  Publishing date: "October 2018"
+  Images: "© WELTKERN® / Centre Culturel Suisse All rights reserved."
 gallery:
   - 
     url: >
@@ -44,7 +44,7 @@ An Ideal for Living
 
 ----
 
-Uuid: RZXHN7cjAbQDtxZ4
+Uuid: V60b6PLNazuDVVlC
 
 ----
 

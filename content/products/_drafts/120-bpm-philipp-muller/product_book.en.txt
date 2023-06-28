@@ -14,15 +14,15 @@ description: |
   <p>Swiss photographer Philipp Mueller covered the dawn of the Swiss techno scene in the early 1990s in his raw shots of Zürich’s first street parades, underground raves, and parties—whether backstage in clubs or in the intimacy of private venues—for various magazines.</p>
   <p>His photographs are interleaved here with facsimiled clippings from rave magazines and fanzines as well as first-hand accounts from some of the ravers who made the nascent scene.</p>
 details: |
-  ISBN: 3907236260 / 978-3907236260
-  Content: 204 Pages, 260 color
-  Size: 320 × 230 mm
-  Artist: Philipp Mueller
-  Design: Marietta Eugster
-  Language: English
-  Publishing date: 01 2022
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236260 / 978-3907236260"
+  Content: "204 Pages, 260 color"
+  Size: "320 × 230 mm"
+  Artist: "Philipp Mueller"
+  Design: "Marietta Eugster"
+  Language: "English"
+  Publishing date: "01 2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -43,7 +43,7 @@ Philipp Müller
 
 ----
 
-Uuid: 2oOEDVdax4LLasLg
+Uuid: fCGFYasgyf4GbRQa
 
 ----
 

@@ -12,15 +12,15 @@ author:
   id: 98
 description: '<p>Thanks to his work on the iconic creature for the film <em>Alien</em> (Ridley Scott, 1979)—a detailed account of which is given in his <em>Alien Diaries</em> (2013, first edition, Edition Patrick Frey)—H. R. Giger was firmly established in Hollywood’s supernatural horror and science fiction genres. Giger went on to design all the ghosts for <em>Poltergeist II: The Other Side</em> (Brian Gibson, 1986). Unlike his work on Alien on the set at Shepperton Studios in England, Giger collaborated on the movie remotely from Zürich, basing his creatures on Michael Grais and Mark Victor’s screenplay and airmailing the airbrushed designs to Los Angeles. Due to his absence as well as misunderstandings with the director and the studio and a meager production budget, the dark inscrutability and amorphous plasticity of Giger’s initial shape-shifting sketches ended up falling flat on celluloid, coming to resemble cheap-looking monsters in a campy B-movie. Giger’s in some cases psychedelic sketches were designed as sequences showing the metamorphosis of a worm-like ghost into a grotesque dwarf that ultimately morphs into a soul-devouring Gorgon-like monster called “The Great Beast”. <em>Poltergeist II—Skizzen 1983–1985</em> is a facsimile edition of Giger’s original sketchbook, containing 135 of his remarkable drawings as well as drafts of letters expressing doubts and suggestions to director Brian Gibson.</p>'
 details: |
-  ISBN: 3907236208 / 978-3907236208
-  Content: 276 Pages
-  Size: 165 × 30 × 210 mm
-  Author: H. R. Giger
-  Design: Claudio Barandun
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236208 / 978-3907236208"
+  Content: "276 Pages"
+  Size: "165 × 30 × 210 mm"
+  Author: "H. R. Giger"
+  Design: "Claudio Barandun"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -77,7 +77,7 @@ H. R. Giger
 
 ----
 
-Uuid: 9AkK7yEZYDheMu0z
+Uuid: v3fkulpfbS0237gt
 
 ----
 

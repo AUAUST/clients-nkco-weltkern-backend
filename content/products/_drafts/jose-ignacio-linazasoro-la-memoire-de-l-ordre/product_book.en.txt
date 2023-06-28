@@ -14,17 +14,17 @@ description: |
   <p>First French translation of the essay of the Spanish architect José Ignacio Linazasoro.<br />
   To question the meaning of architecture is to seek to establish a principle of global and timeless legitimacy, not only referring to the past or the present. The modern architecture, in spite of the fact that it appears under a fragmentary condition, aspires to a lost totality.</p>
 details: |
-  ISBN: 2491039110 / 978-2491039110
-  Content: 128 Pages
-  Size: 110 × 12 × 210 mm
-  Author: José Ignacio Linazasoro
-  Edited by: Claudia Mion
-  Texts by: Bernard Quirot
-  Design: Spassky Fischer
-  Language: French
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: "2491039110 / 978-2491039110"
+  Content: "128 Pages"
+  Size: "110 × 12 × 210 mm"
+  Author: "José Ignacio Linazasoro"
+  Edited by: "Claudia Mion"
+  Texts by: "Bernard Quirot"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ La mémoire de l'ordre
 
 ----
 
-Uuid: BFx0VH6pd6yqf79y
+Uuid: 2cKxp5Mm7DdyIemd
 
 ----
 

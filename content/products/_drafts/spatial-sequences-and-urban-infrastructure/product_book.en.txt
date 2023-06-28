@@ -14,14 +14,14 @@ author:
   id: 89
 description: '<p><em>Spatial Sequences and Urban Infrastructure</em> gives an insight into Graber Pulver&#8217;s working methods, focusing on their search for the contextual roots and for the specific space and form. The leading idea is that, besides of its natural properties, the infrastructural reservations and links of a territory are crucial for the physical development of our urban landscape. At the same time the form, which has to meet a multitude of demands, is determined by the fact that the quality of a space can be judged and developed only by moving within that space.</p>'
 details: |
-  ISBN / EAN: 978-3858812605 / 3858812605
-  Content: 180 pages
-  Size: 175 × 250 mm
-  Design: Hubertus Design
-  Publishing date: x
-  Language: English / German
-  Specs: Hardcover
-  Images: © Scheidegger & Spiess, All rights reserved
+  ISBN / EAN: "978-3858812605 / 3858812605"
+  Content: "180 pages"
+  Size: "175 × 250 mm"
+  Design: "Hubertus Design"
+  Publishing date: "x"
+  Language: "English / German"
+  Specs: "Hardcover"
+  Images: "© Scheidegger & Spiess, All rights reserved"
 gallery:
   - 
     url: >
@@ -51,7 +51,7 @@ Multilinetitle: Spatial Sequences and Urban Infrastructure
 
 ----
 
-Uuid: PFfBmZRCbwVl6bqT
+Uuid: 7MbikfHN0cRLL1Th
 
 ----
 

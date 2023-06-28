@@ -11,13 +11,13 @@ author:
   id: 95
 description: '<p>The 11th issue of the biannual magazine of the ECAL includes contributions by a. o. NORM, Feng Li, Marco De Mutiis, Zachary Lieberman, Maïwenn, Lionel Baier and Abel Ferrara.</p>'
 details: |
-  ISBN: 2970145134 / 978-2970145134
-  Content: 148 pages
-  Size: 220 × 290 mm
-  Language: English / French
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / ECAL. All rights reserved.
+  ISBN: "2970145134 / 978-2970145134"
+  Content: "148 pages"
+  Size: "220 × 290 mm"
+  Language: "English / French"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ECAL. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,7 +55,7 @@ Multilinetitle: Offline #11
 
 ----
 
-Uuid: m8txbZrdy9NwCG8u
+Uuid: Ft19jdVGPIVoPAsT
 
 ----
 

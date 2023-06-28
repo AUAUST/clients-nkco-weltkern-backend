@@ -16,13 +16,13 @@ description: |
   From an early stage, Gomringer wanted to blur the boundaries of poetry and the language of advertising. Throughout his entire career he remained an advocate of interdisciplinarity, collaborating actively with artists and graphic designers such as Max Bill, Karl Gerstner, Anton Stankowski and above all the Zurich-based design studio E + U Hiestand.</p>
   <p>This publication was created following extensive research in archives in Switzerland and Germany. The book combines original images and selected works from Gomringer’s long-standing collaborations as art director and copy-writer for various companies. It also contains the theoretical essay “vom vers zur konstellation” (from verse to constellation), Gomringer’s original manifesto published in 1954.</p>
 details: |
-  ISBN: 3038630692 / 978-3038630692
-  Content: 220 pages
-  Size: 160 × 240 mm
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Triest Verlag. All rights reserved.
+  ISBN: "3038630692 / 978-3038630692"
+  Content: "220 pages"
+  Size: "160 × 240 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Triest Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ On Concrete Poetry, Typography, and the Work of Eugen Gomringer
 
 ----
 
-Uuid: bNWO3EXafIGcficT
+Uuid: iEUmiOOSo5PJFIHt
 
 ----
 

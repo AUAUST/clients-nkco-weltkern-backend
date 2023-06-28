@@ -17,15 +17,15 @@ description: |
   <br />
   On this journey through the park, space and time grow indistinguishable. Winter follows spring, detail follows sequence, dream leads to deconstruction. A replica of Mount Vesuvius fashioned from enormous blocks of stone and the sculpture of a Venus de Medici simultaneously symbolize and deconstruct the antipodes of masculine and feminine, earthly and divine, darkness and light. Mythical motifs such as the swan and the fig leaf brush up against mundane tourists. The latter sit in gondolas on the lake, hurry towards historical architectures – fold-out maps and walking sticks in hand – or follow winding paths from viewpoint to viewpoint. Along the way, the plants, buildings, canals, even the wildlife reveal themselves to be part of a dreamlike scenery in which the visitors move about like figures in a tableau vivant. They are observers and at the same time protagonists of a never-ending play.</p>
 details: |
-  ISBN: 3945900826 / 978-3945900826
+  ISBN: "3945900826 / 978-3945900826
   
-  Content: 148 Pages
-  Size: 245 × 22 × 310 mm
-  Artist: Vesuv, Venus
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Taube. All rights reserved.
+  Content: "148 Pages"
+  Size: "245 × 22 × 310 mm"
+  Artist: "Vesuv, Venus"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Taube. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ Vesuv, Venus
 
 ----
 
-Uuid: 9JEKo2En5d937a1p
+Uuid: yHDlP35ct1KDEVlY
 
 ----
 

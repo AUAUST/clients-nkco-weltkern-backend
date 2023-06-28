@@ -16,16 +16,16 @@ description: |
   <br />
   This all-access volume demonstrates that the personality of the shoe has everything to do with Stan the Man. Chapters are enhanced by recollections from Stan Smith along with anecdotes from style influencers, designers, sports legends, and fervent sneaker fans. Showcasing street-style photography of Stan Smith sworn globally, to pop-culture references of the sneaker in rap lyrics to Bollywood movies—this book is an absolute collector’s item for readers interested in sneaker culture, sports, street style, design, and pop culture.</p>
 details: |
-  ISBN: 0847862740 / 978-0847862740
-  Content: 336 pages
-  Size: 229 × 46 × 330 mm
-  Author: Stan Smith
-  Introduction: Pharrell Williams
-  Contributions from: Richard Evans
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © Rizzoli Publications. All rights reserved.
+  ISBN: "0847862740 / 978-0847862740"
+  Content: "336 pages"
+  Size: "229 × 46 × 330 mm"
+  Author: "Stan Smith"
+  Introduction: "Pharrell Williams"
+  Contributions from: "Richard Evans"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -54,7 +54,7 @@ Some People Think I Am A Shoe
 
 ----
 
-Uuid: MWM0StgvoRKFquF3
+Uuid: V3NCjWMSgpD4WsGV
 
 ----
 

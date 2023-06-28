@@ -19,16 +19,16 @@ description: |
   <br />
   With contributions by Axel Schubert and Kim Förster, the first section of the publication provides a general overview of the challenges of building for a post-carbon society. In the second part, Rotor and Circular highlight the potential of reusing buildings and components. The third and last part includes contributions by BC, Harquitectes and Anupama Kundoo, whose projects show possible “constructive futures,” thus casting a positive look into the future.</p>
 details: |
-  ISBN: 3038630722 / 978-3038630722
-  Content: 120 pages
-  Size: 180 × 240 mm
-  Author: FHNW – Annette Helle, Barbara Lenherr
-  Edited by: Triest Verlag
-  Design: Bosco Ferreira, Nguyen Gobber
-  Language: German / English
-  Spec: Softcover
-  Publishing date: 2022
-  Images: © WELTKERN® / Idea Books. All rights reserved.
+  ISBN: "3038630722 / 978-3038630722"
+  Content: "120 pages"
+  Size: "180 × 240 mm"
+  Author: "FHNW – Annette Helle, Barbara Lenherr"
+  Edited by: "Triest Verlag"
+  Design: "Bosco Ferreira, Nguyen Gobber"
+  Language: "German / English"
+  Spec: "Softcover"
+  Publishing date: "2022"
+  Images: "© WELTKERN® / Idea Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ Multilinetitle: How Will We Plan And Build In The Future?
 
 ----
 
-Uuid: gAsfPML9pfFuH7Ae
+Uuid: B25rRHyO8AD2imQI
 
 ----
 

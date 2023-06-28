@@ -15,14 +15,14 @@ description: |
   <br />
   The significance of the work of Louis I Kahn, one of the greatest influences on post-WWII world architecture, has skyrocketed in the twenty-first century. Robert McCarter’s bestselling and critically-acclaimed monograph explains how Kahn redefined Modern architecture and why his work remains a fundamental source for architects and designers today. Now thoughtfully updated, this comprehensive and extensively illustrated overview features both built and unbuilt projects, including Yale University Art Gallery, Kimbell Art Museum, and the Salk Institute, along with his work in India and Bangladesh, as well as a project realized forty years after Kahn’s death – New York City’s Four Freedoms Park. </p>
 details: |
-  ISBN: 1838663045 / 978-1838663049
-  Content: 528 pages
-  Size: 305 × 238 mm
-  Author: Robert McCarter
-  Edited by: Phaidon Press
-  Language: English
-  Publishing date: 2022
-  Images: © WELTKERN® /  Phaidon Press. All rights reserved.
+  ISBN: "1838663045 / 978-1838663049"
+  Content: "528 pages"
+  Size: "305 × 238 mm"
+  Author: "Robert McCarter"
+  Edited by: "Phaidon Press"
+  Language: "English"
+  Publishing date: "2022"
+  Images: "© WELTKERN® /  Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Revised and Expanded Edition
 
 ----
 
-Uuid: L5W7dt71EeDX7mMQ
+Uuid: vuXuydDbQjPU00l6
 
 ----
 

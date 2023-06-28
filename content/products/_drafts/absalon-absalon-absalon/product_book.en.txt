@@ -15,14 +15,14 @@ description: |
   <br />
   The Absalon Absalon catalogue is not only a documentation of the exhibition, including numerous installation views, but also an extension of this project, through the publication of a set of previously unpublished documents by Absalon: texts by the artist, archival photographs, and a transcript of a lecture. The catalogue is accompanied by an essay by curators Guillaume Désanges and François Piron, as well as an interview with art historian Elisabeth Lebovici, who renews the approach to this work from a contemporary perspective.</p>
 details: |
-  ISBN: 2918252757 / 978-2918252757
-  Content: 80 Pages
-  Size: 210 × 300 mm
-  Artist: Absalon
-  Design: Spassky Fischer
-  Language: French / English
-  Publishing date: 2021
-  Images: © WELTKERN® / Les presses du réel. All rights reserved.
+  ISBN: "2918252757 / 978-2918252757"
+  Content: "80 Pages"
+  Size: "210 × 300 mm"
+  Artist: "Absalon"
+  Design: "Spassky Fischer"
+  Language: "French / English"
+  Publishing date: "2021"
+  Images: "© WELTKERN® / Les presses du réel. All rights reserved."
 gallery:
   - 
     url: >
@@ -39,7 +39,7 @@ Absalon Absalon
 
 ----
 
-Uuid: e6EKuasMQuuOTiur
+Uuid: 9ZHWmrxseEC2m5EM
 
 ----
 

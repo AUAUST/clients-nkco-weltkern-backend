@@ -14,14 +14,14 @@ description: |
   <br />
   In this incredible debut, Sheena Patel announces herself as a vital new voice in literature, capable of rendering a range of emotions and visceral experiences on the page. Sex, violence, politics, tenderness, humour—Patel handles them all with both originality and dexterity of voice.</p>
 details: |
-  ISBN: 1914236150 / 978-1914236150
-  Content: 136 pages
-  Size: 130 × 170 mm
-  Author: Sheena Patel
-  Edited by: Rough Trade Books
-  Language: English
-  Publishing date: 2022
-  Images: © WELTKERN® / Rough Trade Books. All rights reserved.
+  ISBN: "1914236150 / 978-1914236150 "
+  Content: "136 pages"
+  Size: "130 × 170 mm"
+  Author: "Sheena Patel"
+  Edited by: "Rough Trade Books"
+  Language: "English"
+  Publishing date: "2022"
+  Images: "© WELTKERN® / Rough Trade Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -38,7 +38,7 @@ I'm A Fan
 
 ----
 
-Uuid: TWGJIxiNNhB2mZdi
+Uuid: x4kft5E7wGX1K0Xz
 
 ----
 

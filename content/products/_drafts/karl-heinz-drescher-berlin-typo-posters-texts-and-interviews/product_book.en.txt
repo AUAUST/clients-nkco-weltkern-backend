@@ -17,14 +17,14 @@ description: |
   The heavenly body melts and dilutes its bitterness into a sensorial experience of the world.<br />
   Astonishment of an esthetic sunset.</p>
 details: |
-  ISBN: 3948440008 / 978-3948440008
-  Content: 272 pages
-  Size: 265 × 195 mm
-  Design: Markus Lange
-  Language: English
-  Publication: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Slanted. All rights reserved.
+  ISBN: "3948440008 / 978-3948440008"
+  Content: "272 pages"
+  Size: "265 × 195 mm"
+  Design: "Markus Lange"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Slanted. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Berlin Typo Posters, Texts, and Interviews
 
 ----
 
-Uuid: NXb8kaI2hjG4w8Xn
+Uuid: R229PBrdlYmD50Wf
 
 ----
 

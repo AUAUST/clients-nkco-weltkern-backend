@@ -14,16 +14,16 @@ description: |
   <br />
   <em>A Few of My Favorites</em> is the first book of collected works by New York artist, Armando Alleyne. His painted and collaged renditions of jazz musicians, Afro-Latin singers, boxers, but also family members and acquaintances have a rhythm all-their-own. Parallel to his incessant practice of painting portraits of Black icons, Alleyne allows elements of his lived experience to take form in his work. Series such as <em>Shelter Blues</em> animate his first-hand experiences of homelessness. Another series, Maria’s Song calls on a pantheon of religious symbolism to pay homage to the sister he lost to AIDS. Included are erotic paintings which the artist based on magazine ads and models he staged. Never shying away from the seminal, the sensual or the political, Alleyne’s lifetime of paintings tell a story of how we are subject to our city and how in it we can search for the tools to heal. The artworks are presented alongside a series of snapshots and personal anecdotes that memorialize artworks sold and people who are no longer with us.</p>
 details: |
-  ISBN: 3907236253 / 978-3907236253
-  Content: 244 Pages
-  Size: 241 × 25 × 292 mm
-  Artist: Armando Alleyne
-  Author: Tiona Nekkia McClodden
-  Design: Other Means
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236253 / 978-3907236253"
+  Content: "244 Pages"
+  Size: "241 × 25 × 292 mm"
+  Artist: "Armando Alleyne"
+  Author: "Tiona Nekkia McClodden"
+  Design: "Other Means"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -44,7 +44,7 @@ A Few of My Favorites
 
 ----
 
-Uuid: 9gMLa75ncDq9Iqbd
+Uuid: AvuxzlXx3cfiFFlY
 
 ----
 

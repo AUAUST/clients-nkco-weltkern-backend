@@ -11,16 +11,16 @@ author:
   id: 249
 description: '<p>The photographic work of the artist&#8217;s grandmother, Tiane Doan na Champassak, an Alsatian woman who married a Vietnamese man in Baden Baden in 1913 before leaving with him for Indochina.</p>'
 details: |
-  ISBN: 8899385903 / 978-8899385903
-  Content: 128 pages
-  Size: 170 × 240 mm
-  Edited by: Humboldt Books
-  Author: Tiane Doan na Champassak
-  Text by: Doan Vinh Thuan
-  Design: Federico Barbon
-  Language: French / English
-  Publishing date: 2021
-  Images: © WELTKERN® / Les Presses du réel. All rights reserved.
+  ISBN: "8899385903 / 978-8899385903"
+  Content: "128 pages"
+  Size: "170 × 240 mm"
+  Edited by: "Humboldt Books"
+  Author: "Tiane Doan na Champassak"
+  Text by: "Doan Vinh Thuan"
+  Design: "Federico Barbon"
+  Language: "French / English"
+  Publishing date: "2021"
+  Images: "© WELTKERN® / Les Presses du réel. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Indo-Chine
 
 ----
 
-Uuid: mSSPifY5E67EhvYv
+Uuid: QyjhKPmPMKirqxyC
 
 ----
 

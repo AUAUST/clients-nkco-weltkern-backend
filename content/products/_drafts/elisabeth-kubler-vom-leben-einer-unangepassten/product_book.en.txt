@@ -17,14 +17,14 @@ description: |
   — Susanna Koeberle</p>
   <p>With texts by: Zsuzsanna Gahse, Elisabeth Grossmann, Elisabeth Joris, Susanna Koeberle, Elisabeth Kübler, Christine Lötscher, Christiane Meyer-Thoss, Anka Schmid, Antje Stahl, Laure Wyss, Barbara Villiger Heilig, Max Wechsler</p>
 details: |
-  ISBN: 978-3-907236-29-1
-  Content: 412 pages
-  Size: 265 × 172 mm
-  Text by: Zsuzsanna Gahse, Elisabeth Grossmann, Elisabeth Joris, Susanna Koeberle, Elisabeth Kübler, Christine Lötscher, Christiane Meyer-Thoss, Anka Schmid, Antje Stahl, Laure Wyss, Barbara Villiger Heilig, Max Wechsler
-  Language: German
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "978-3-907236-29-1"
+  Content: "412 pages"
+  Size: "265 × 172 mm"
+  Text by: "Zsuzsanna Gahse, Elisabeth Grossmann, Elisabeth Joris, Susanna Koeberle, Elisabeth Kübler, Christine Lötscher, Christiane Meyer-Thoss, Anka Schmid, Antje Stahl, Laure Wyss, Barbara Villiger Heilig, Max Wechsler"
+  Language: "German"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ Vom Leben einer Unangepassten
 
 ----
 
-Uuid: D0ml6pVkERkE7l53
+Uuid: AIcgWfgxiFeePVd6
 
 ----
 

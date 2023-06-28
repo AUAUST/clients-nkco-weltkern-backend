@@ -11,14 +11,14 @@ author:
   id: 410
 description: '<p>Sorika is pleased to announce the publication of Gareth McConnell’s new book, To the Beat of the Drum. The book comprises photographs of youthful members of Northern Ireland’s militaristic, Protestant marching bands, who McConnell carefully situates under the trippy magic of his super-chromatic, hedonistic lighting. These photographs and their mood-altering colours are compelling visual studies of youth and social identity – McConnell gives strong emphasis to how identity is subject to the variable relationships of the individual and the group. The book is accompanied by an essay by Sean O’Hagan (first published in The Observer’s New Review, 2021).</p>'
 details: |
-  ISBN: 1739596408 / 978-1739596408
-  Content: 104 pages
-  Size: 220 × 280 mm
-  Design: Fraser Muggeridge studio
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Sorika. All rights reserved.
+  ISBN: "1739596408 / 978-1739596408"
+  Content: "104 pages"
+  Size: "220 × 280 mm"
+  Design: "Fraser Muggeridge studio"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Sorika. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,7 +59,7 @@ The Drum
 
 ----
 
-Uuid: bvBixSe6MZFUPSCK
+Uuid: stq39Fr2Dtdkfxg9
 
 ----
 

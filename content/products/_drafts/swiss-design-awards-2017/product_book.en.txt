@@ -11,13 +11,13 @@ author:
   id: 125
 description: '<p>Published on the occasion of the Swiss Design Awards exhibition presented in Hall 3 of Messe Basel from June 13 through 18, 2017.</p>'
 details: |
-  Content: 58 pages
-  Size: 230 × 4 × 320 mm
-  Edited by: Federal Office of Culture
-  Language: English / German / French / Italian
-  Publishing date: 2017
-  Specs: Softcover
-  Images: © WELTKERN®. All rights reserved.
+  Content: "58 pages"
+  Size: "230 × 4 × 320 mm"
+  Edited by: "Federal Office of Culture"
+  Language: "English / German / French / Italian"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -47,7 +47,7 @@ Multilinetitle: Swiss Design Awards 2017
 
 ----
 
-Uuid: vntEC3qjYmCpptkO
+Uuid: 5BQrGeX5ncd40OtZ
 
 ----
 

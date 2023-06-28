@@ -15,12 +15,12 @@ description: |
   <p>For the 2021 edition, Quentin de Briey still selected a mix of personal and editorial photographs shot in Paris. The book contains black &#038; white and color photographs, skateboarders as well as pictures of friends and editorials for magazines.<br />
   First published in June 2018 in a limited edition of 500 copies, each issue is a large format full pages loose leaf book.</p>
 details: |
-  Content: 88 Pages / 1000 limited copies
-  Size: 40 × 285 mm
-  Language: English
-  Publication: 2021
-  Specs: Unbound in plastic cover
-  Images: © WELTKERN® / Quentin de Briey & Yvon Lambert. All rights reserved.
+  Content: "88 Pages / 1000 limited copies"
+  Size: "40 × 285 mm"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Unbound in plastic cover"
+  Images: "© WELTKERN® / Quentin de Briey & Yvon Lambert. All rights reserved."
 gallery:
   - 
     url: >
@@ -45,7 +45,7 @@ Thank you for your business IV
 
 ----
 
-Uuid: 6Y3PrfGOInUPihVG
+Uuid: BcO6A6ExiChdqnXD
 
 ----
 

@@ -11,14 +11,14 @@ author:
   id: 91
 description: '<p>Previously available in a Collector&#8217;s Edition, Hockney&#8217;s artist book will appear as an unlimited XL edition. In 120 iPhone and iPad drawings, the artist captures his perception of the world through the window of his Yorkshire home. Each image represents a fleeting moment &#8211; collectively they paint the passage of time through Hockney&#8217;s eyes.</p>'
 details: |
-  ISBN: 3836593922 / 978-3836593922
-  Content: 248 pages
-  Size: 386 × 298 mm
-  Design: Face.
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN ® / Taschen. All rights reserved.
+  ISBN: "3836593922 / 978-3836593922"
+  Content: "248 pages"
+  Size: "386 × 298 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Taschen. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,7 +63,7 @@ My Window
 
 ----
 
-Uuid: RO93JU1gvxDPGZA8
+Uuid: dWTMFYjJeZ0uXhPT
 
 ----
 

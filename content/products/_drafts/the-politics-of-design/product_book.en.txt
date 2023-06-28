@@ -17,14 +17,14 @@ description: |
   <br />
   Politics of Design shows the importance of visual literacy when communicating beyond borders and cultures. It explores the cultural meaning behind the symbols, maps, photography, typography, and colours that are used every day. It is a practical guide for design and communication professionals and students to create more effective and responsible visual communication.</p>
 details: |
-  ISBN: 9789063694227 / 978-9063694227
-  Content: 192 pages
-  Size: 115 × 18 × 176 mm
-  Author: Ruben Pater
-  Language: English
-  Publishing date: 2016
-  Specs: Softcover
-  Images: © BIS Publishers. All rights reserved.
+  ISBN: "9789063694227 / 978-9063694227"
+  Content: "192 pages"
+  Size: "115 × 18 × 176 mm"
+  Author: "Ruben Pater"
+  Language: "English"
+  Publishing date: "2016"
+  Specs: "Softcover"
+  Images: "© BIS Publishers. All rights reserved."
 gallery:
   - 
     url: >
@@ -54,7 +54,7 @@ Multilinetitle: The Politics of Design
 
 ----
 
-Uuid: UOccDnXTAvGfP4E4
+Uuid: MBWehgJjlfRqfLRX
 
 ----
 

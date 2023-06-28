@@ -11,12 +11,12 @@ author:
   id: 98
 description: '<p>In 1889, Georg August Zenker, a gardener and botanist from Leipzig, took charge of the Jaunde (present-day Yaoundé) research station in the German colony of Kamerun. After six years’ tenure, Zenker was summarily relieved of his duties. He was said to be leading a polygamous life at the station with several African women, some of whom had borne him children. Zenker left the country, only to return soon afterwards as a private citizen. He settled with his family (a woman from Dahomé and five children) in Bipindi, deep in the Kamerun jungle, where he built Bipindihof, a German colonial-style house and vast cocoa, rubber and banana plantations. The mainstay of his livelihood, however, consisted in collecting copious botanical and zoological specimens as well as ethnographic objects for German museums. Zenker’s thought and actions were, to be sure, heavily influenced by the colonial mindset. But on a number of occasions he clearly opposed the colonialist and militaristic practices of his superiors and other German countrymen. He died in 1922 and was buried on the grounds of his Bipindihof. Zenker’s descendants live widely dispersed in Cameroon and Europe today, but most of them still regard the now crumbling Bipindihof as the cradle of the family. Yana Wernicke and Jonas Feige traveled to the present-day Republic of Cameroon several times for this photographic essay in order to retrace Zenker’s life there and portray his descendants.</p>'
 details: |
-  ISBN: 3907236185 / 978-3907236185
-  Content: 268 pages
-  Size: 266 × 185 mm
-  Language: German / English
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236185 / 978-3907236185"
+  Content: "268 pages"
+  Size: "266 × 185 mm"
+  Language: "German / English"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -41,7 +41,7 @@ Zenker
 
 ----
 
-Uuid: vhR6fYXUAWex3Eiq
+Uuid: DsIw6r5BMt3PsSyS
 
 ----
 

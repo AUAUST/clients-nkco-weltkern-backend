@@ -14,15 +14,15 @@ description: |
   <br />
   In Vienna, too, the question of ownership has an essential influence on the city in its being and becoming. The artists collected contributions from actors and theorists who provide a view of the financialisation of housing from various directions. Michael Meier &#038; Christoph Franz (*1980/*1982) live and work as an artist duo in Zurich.</p>
 details: |
-  ISBN: 3959054492 / 978-3959054492
-  Content: 112 Pages
-  Size: 245 × 10 × 345 mm
-  Edited by: Michael Meier, Christoph Franz
-  Design: Atlas Studio
-  Language: German
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959054492 / 978-3959054492"
+  Content: "112 Pages"
+  Size: "245 × 10 × 345 mm"
+  Edited by: "Michael Meier, Christoph Franz"
+  Design: "Atlas Studio"
+  Language: "German"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -80,7 +80,7 @@ Multilinetitle: Zwischen Anlagen Anderer
 
 ----
 
-Uuid: NXpDKCLAi4ubekfi
+Uuid: jIhHGEFbheOSC1q7
 
 ----
 

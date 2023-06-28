@@ -16,13 +16,13 @@ description: |
   <p>&#8220;When I think about the density of language, I imagine the material presence of the language in space. But I also hope there is acknowledgment that no sentence is a simple sentence. Every sentence holds meaning, exceeds meaning, moves in different directions simultaneously.&#8221;<br />
   Kameelah Janan Rasheed</p>
 details: |
-  ISBN: 8867494989 / 978-8867494989
-  Content: 160 pages
-  Size: 240 × 290 mm
-  Language: English / German
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Mousse Publishing. All rights reserved.
+  ISBN: "8867494989 / 978-8867494989"
+  Content: "160 pages"
+  Size: "240 × 290 mm"
+  Language: "English / German"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -67,7 +67,7 @@ I am not done yet
 
 ----
 
-Uuid: A4QYyaBhXTAqKrj5
+Uuid: i6PazxEongdg6Y1i
 
 ----
 

@@ -16,14 +16,14 @@ description: |
   <p>Faced with these two sacred monsters of modern art, Anaïs Boudot responds to an invitation from The Eyes, by taking her own collection of anonymous faces on glass, to rework them with gelatin. Among these portraits of anonymous people from the 20s, 30s and 40s, women’s faces stand out. Where Picasso and Brassaï’s scratching of the gelatin is similar to a “surgical act much more intrusive to bring out the plasticity of the work”, Anaïs Boudot chooses gilding to restore these images of unknowns, to sublimate the image of these women, these muses so little considered by these masters and forgotten by the history of art. Anaïs Boudot’s work is part of this instinctive and experimental approach, that of making the invisible visible.</p>
   <p>“Spending time with these women’s faces, while rubbing shoulders with two historical (male) artists with a singular relationship to women, I felt the need to react. In the end, they are the “forgotten” ones, because they have been sidelined for years in the history of art, relegated to the rank of muses, models and companions. Their absence is glaring and it is undoubtedly this absence that these images attempt to highlight”. Anaïs Boudot</p>
 details: |
-  ISBN: 1092727456 / 979-1092727456
-  Content: 80 pages
-  Size: 215 × 290 mm
-  Authors: Anais Boudot, Pablo Picasso, Brassaï
-  Language: English / French
-  Publication: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / The Eyes Publishing. All rights reserved.
+  ISBN: "1092727456 / 979-1092727456"
+  Content: "80 pages"
+  Size: "215 × 290 mm"
+  Authors: "Anais Boudot, Pablo Picasso, Brassaï"
+  Language: "English / French"
+  Publication: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / The Eyes Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -45,7 +45,7 @@ Multilinetitle: Les oubliées
 
 ----
 
-Uuid: BCNnEHldPAtlU699
+Uuid: sdtjPHh3etnLx6af
 
 ----
 

@@ -17,17 +17,17 @@ description: |
   This richly illustrated volume, edited by Fabian Schöneich and designed by Maximage, captures the artist&#8217;s complete body of work through his process of making in factories across Europe to their installation in museums and galleries. With contributions from a diverse cast of authors—a philosopher, a science-fiction writer, and an art historian among others—Hefti&#8217;s material transformations come to life in saturated words and images that tell stories of error, risk and wonder (from the scale of the particle to the universe at large).<br />
   Every copy of this book is unique. The distribution of pigments is the result of their manipulation during screen printing, and no two covers are alike. Printed by the artist in collaboration with Atelier für Siebdruck, Lorenz Boegli, Müntschemier, CH.</p>
 details: |
-  ISBN: 8894535303 / 978-8894535303
-  Content: 352 pages
-  Size: 190 × 30 × 270 mm
-  Author: Raphael Hefti
-  Edited by: Fabian Schöneich.
-  Texts by: Nora N. Khan, Dieter Roelstraete, Carmen Van Pamel, Raphael Hefti, Elena Filipovic
-  Design: Maximage
-  Language: English / German
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® / Lenz Press. All rights reserved.
+  ISBN: "8894535303 / 978-8894535303"
+  Content: "352 pages"
+  Size: "190 × 30 × 270 mm"
+  Author: "Raphael Hefti"
+  Edited by: "Fabian Schöneich."
+  Texts by: "Nora N. Khan, Dieter Roelstraete, Carmen Van Pamel, Raphael Hefti, Elena Filipovic"
+  Design: "Maximage"
+  Language: "English / German"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Lenz Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -72,7 +72,7 @@ Salutary Failures
 
 ----
 
-Uuid: 5C0sezxUKgrUoiKM
+Uuid: LsJH56YkMvr1t1GB
 
 ----
 

@@ -15,17 +15,17 @@ description: |
   <br />
   <em>This is not a commercial</em> addresses questions of economic models and strategies for artists to survive in today’s neoliberal market structure. As painters, we procured work for ourselves through this participatory sculpture. We don’t paint BMWs in Veli &#038; Amos style: the brand is part and parcel of our sculpture, our postcards, our paintings and now our book. The point of the book is not only to document our billboard project, but also to keep it as up-to date as possible—with ads.</p>
 details: |
-  ISBN: 3907236076 / 978-3907236079
-  Content: 254 pages
-  Size: 260 × 170 mm
-  Artists: Veli & Amos
-  Author: Esther Eppstein
-  Edited by: Edition Patrick Frey
-  Design: Teo Schifferli
-  Language: German / English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236076 / 978-3907236079"
+  Content: "254 pages"
+  Size: "260 × 170 mm"
+  Artists: "Veli & Amos"
+  Author: "Esther Eppstein"
+  Edited by: "Edition Patrick Frey"
+  Design: "Teo Schifferli"
+  Language: "German / English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ Billboard/Billding
 
 ----
 
-Uuid: eUcdxWOXr8Rbx5Ij
+Uuid: eJipyfq6Zn4MFO6S
 
 ----
 

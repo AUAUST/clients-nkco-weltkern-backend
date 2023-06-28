@@ -14,14 +14,14 @@ description: |
   <br />
   This building monograph, laid out in five elegant volumes, documents in incredible detail the ambitious project, which is a significant trailblazer in the area of hospital design and urban development. This second volume is devoted to KSSG’s new Haus 10, situated at the northern end of the site. Connected to the hospital’s main building by an ingenious passage, it serves to treat walk-in patients. Its flexible structure allows for adaptions to suit the future needs of KSSG. The interior design is based on materials and features also intended to be used in new buildings still to come.</p>
 details: |
-  ISBN: 3038602035 / 978-3038602033
-  : 64 pages
-  Size: 305 × 230 mm
-  Authors: Marko Sauer, Christoph Wieser
-  Edited by: Park Books
-  Language: English / German
-  Publishing date: 2021
-  Images: © WELTKERN® / Park Books. All rights reserved.
+  ISBN: "3038602035 / 978-3038602033"
+  : "64 pages"
+  Size: "305 × 230 mm"
+  Authors: "Marko Sauer, Christoph Wieser"
+  Edited by: "Park Books"
+  Language: "English / German"
+  Publishing date: "2021"
+  Images: "© WELTKERN® / Park Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -38,7 +38,7 @@ Vol. II: Haus 10
 
 ----
 
-Uuid: KWUaZP1ukuqbtbac
+Uuid: DWBkk8YYsnqPuLm2
 
 ----
 

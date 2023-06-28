@@ -15,15 +15,15 @@ description: |
   <p>Design thinking has created divisions in the discipline: either designers are too theory driven or simply practitioners. Those feeling lost can easily turn to a language meant to inspire creative production in easy to pitch ways, where rhetoric uses design to keep power at bay, to celebrate hegemonic beliefs which are used to indoctrinate designers in bad education, incapable of imagining different futures. If you take away the post-its, the A3 papers and the markers, can designers think?</p>
   <p>Led by Antonio Gramsci’s advice that knowing thyself requires compiling an inventory, design critic, educator and researcher Danah Abdulla pays tribute to the late architect, activist and critic Michael Sorkin, whose original list &#8220;Two Hundred and Fifty Things an Architect Should Know&#8221; inspired this updated version targeted at designers. The iterative list is not meant to be a definitive how to guide, but to spark conversations, to prompt critical thinking and to help designers reconfigure their discipline.</p>
 details: |
-  ISBN: 9493148802 / 978-9493148802
+  ISBN: "9493148802 / 978-9493148802
   
-  Content: 64 Pages
-  Size: 110 × 175 mm
-  Author: Danah Abdulla
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Content: "64 Pages"
+  Size: "110 × 175 mm"
+  Author: "Danah Abdulla"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ a working inventory of things a designer should know
 
 ----
 
-Uuid: hkWPVRFI4TH2CZoO
+Uuid: xTxCaTZgq4cP9KnH
 
 ----
 

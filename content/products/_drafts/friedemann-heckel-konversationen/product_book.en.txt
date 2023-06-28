@@ -11,14 +11,14 @@ author:
   id: 272
 description: '<p>Conversations is the name of the new artists’ book by Friedemann Heckel. It features 75 drawings that have been created since the beginning of 2020. The conversations take place both between the bodies, looks and gestures of the figures Heckel invents, and from book page to book page. It is co-edited by Galerie Thomas Fischer, Berlin.</p>'
 details: |
-  ISBN: 3945900536 / 978-3945900536
-  Content: 168 Pages
-  Size: 205 × 10 × 270 mm
-  Artist: Friedemann Heckel
-  Language: English
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Edition Taube. All rights reserved.
+  ISBN: "3945900536 / 978-3945900536"
+  Content: "168 Pages"
+  Size: "205 × 10 × 270 mm"
+  Artist: "Friedemann Heckel"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Taube. All rights reserved."
 gallery:
   - 
     url: >
@@ -35,7 +35,7 @@ Konversationen
 
 ----
 
-Uuid: CeREADEAIOow1zJB
+Uuid: oyFBjn3khuQjxsnl
 
 ----
 

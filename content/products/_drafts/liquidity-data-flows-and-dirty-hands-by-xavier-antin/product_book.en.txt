@@ -14,14 +14,14 @@ description: |
   <p>This publication documents the workshop &#8216;device for liquid image&#8217;, led at l&#8217;Antenne du Plateau, Frac lle-de-France (Paris), in April 2016. Participating artists include: Bartoloméo, Emmie, Ismaël, Gabriel, Lino, Matthieu, Nell and Virgile.</p>
   <p>Xavier Antin is a Paris-based graphic designer and artist who experiments with large and small scale models of production in print. Using standardised tools, Xavier re-appropriates their use to develop new methods for creating distinct visual stories. liquidity, data flows and dirty hands uses various ink colours and a standard scanner.</p>
 details: |
-  ISBN: 1910239285 / 978-1910239285
-  Content: 40 pages
-  Size: 290 × 205 mm
+  ISBN: "1910239285 / 978-1910239285 "
+  Content: "40 pages"
+  Size: "290 × 205 mm
   
-  Language: English
-  Publishing date: 2020
-  Specs: Paperback
-  Images: © WELTKERN® / Hato Press. All rights reserved.
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Hato Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -46,7 +46,7 @@ Dirty Hands by Xavier Antin
 
 ----
 
-Uuid: L4gj0fS6qn9hdANg
+Uuid: MG1APeouGyQxDtuo
 
 ----
 

@@ -14,16 +14,16 @@ description: |
   — Vari Caramés</p>
   <p>Catalog of the exhibition Something, Nothing, Always. Vari Caramés 1980-2021 at Sala Canal de Isabel II, curated by Blanca Berlín and Nerea Ubieto.</p>
 details: |
-  ISBN: 8412426014 / 978-8412426014
-  Content: 174 pages
-  Size: 230 × 300 mm
-  Language: English, Spanish
-  Texts: Blanca Berlín, Nerea Ubieto, Alejandro Castellote, Pepe Font de Mora
-  Author: Vari Caramés
-  Design: desescribir
-  Publishing date: 2022
-  Specs: Cloth Hardcover, Stamping
-  Images: © WELTKERN® / Fabulatorio. All rights reserved.
+  ISBN: "8412426014 / 978-8412426014"
+  Content: "174 pages"
+  Size: "230 × 300 mm"
+  Language: "English, Spanish"
+  Texts: "Blanca Berlín, Nerea Ubieto, Alejandro Castellote, Pepe Font de Mora"
+  Author: "Vari Caramés"
+  Design: "desescribir"
+  Publishing date: "2022"
+  Specs: "Cloth Hardcover, Stamping"
+  Images: "© WELTKERN® / Fabulatorio. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Vari Caramés
 
 ----
 
-Uuid: B1eVaZC2Y3xA3LP3
+Uuid: eoOXE7XzMfdQF0PB
 
 ----
 

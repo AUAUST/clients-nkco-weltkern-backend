@@ -13,14 +13,14 @@ description: |
   <p>In this writing, Bernard Quirot carries a reflection on his theoretical foundations and evokes, through his architectural journey, a critical vision of the increasing complexity of the world.</p>
   <p>Bernard Quirot is an architect. He is an architect with his whole body. Bernard Quirot reminds us that architecture commits us entirely. This commitment obliges us, towards our own culture and tradition, to take a position on the role of the architect in our society and on the conditions of his practice.</p>
 details: |
-  ISBN: 2493283092 / 978-2493283092
-  Content: 96 pages
-  Size: 175 × 120 mm
-  Design: Spassky Fischer
-  Language: French
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Cosa Mentale. All rights reserved.
+  ISBN: "2493283092 / 978-2493283092"
+  Content: "96 pages"
+  Size: "175 × 120 mm"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -57,7 +57,7 @@ Simplifions
 
 ----
 
-Uuid: 0F4ecCyQJ5a39kiU
+Uuid: eJTVEl9Pb2NExfyw
 
 ----
 

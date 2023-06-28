@@ -11,15 +11,15 @@ author:
   id: 207
 description: '<p>This comprehensive monograph surveys four decades of work by Swiss Argentine artist Vivian Suter (born 1949), from early drawings and her painterly wall reliefs of the 1980s to her recent outdoor installations.</p>'
 details: |
-  ISBN: 3775751933 / 978-3775751933
-  Content: 352 pages
+  ISBN: "3775751933 / 978-3775751933"
+  Content: "352 pages
   
-  Size: 302 × 223 × 23 mm
-  Language: English
-  Publication: 2022
-  Specs: Hardcover
+  Size: "302 × 223 × 23 mm"
+  Language: "English"
+  Publication: "2022"
+  Specs: "Hardcover
   
-  Images: © WELTKERN® / Hatje Cantz Verlag. All rights reserved.
+  Images: "© WELTKERN® / Hatje Cantz Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Vivian Suter
 
 ----
 
-Uuid: k5kNv93bQFTLZycK
+Uuid: J9uidrJBVawEY6VW
 
 ----
 

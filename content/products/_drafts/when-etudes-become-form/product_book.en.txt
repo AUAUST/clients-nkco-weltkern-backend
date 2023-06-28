@@ -14,15 +14,15 @@ description: |
   <br />
   This book presents the wide array of fashion, art, and style that Études has facilitated since its founding. Filled with over 200 photographs and illustrations documenting work and collaborations with highly applauded artists and brands including Kara Walker, Ari Marcopoulus, RETROSUPERFUTURE, Devonte Hynes, Matthew Chambers, Mark Gonzales as well as a selection of interviews and essays commissioned specially for this book, Études is an engaging volume that highlights an ethic of collaboration that is one of the most fashion-forward of any contemporary fashion and street wear labels.</p>
 details: |
-  ISBN: 0847862979 / 978-0847862979
-  Content: 256 pages
-  Size: 244 × 32 × 336 mm
-  Author: Etudes
-  Contributions from: Ari Marcopoulos, Gus Van Sant, Mark Gonzales, Pedro Winter
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  ISBN: "0847862979 / 978-0847862979"
+  Content: "256 pages"
+  Size: "244 × 32 × 336 mm"
+  Author: "Etudes"
+  Contributions from: "Ari Marcopoulos, Gus Van Sant, Mark Gonzales, Pedro Winter"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,7 +64,7 @@ Multilinetitle: When Études Become Form
 
 ----
 
-Uuid: Wdx0Sszk5KPnvfpk
+Uuid: sevjK73t7IUfZGk8
 
 ----
 

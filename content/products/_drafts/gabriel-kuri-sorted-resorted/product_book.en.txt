@@ -14,17 +14,17 @@ description: |
   <br />
   The publication features an introduction by senior curator Zoë Gray and an essay by art historian Cathleen Chaffee (Chief Curator, Albright-Knox Art Gallery, Buffalo), and four texts exploring our material world by Brian Dillon (author, Professor of Creative Writing at Queen Mary, University of London).</p>
 details: |
-  ISBN: 3960986858 / 978-3960986850
-  Content: 164 pages
-  Size: 250 × 15 × 287 mm
-  Author: Gabriel Kuri
-  Edited by: Zoë Gray
-  Texts by: Cathleen Chaffee, Brian Dillon, Dirk Snauwaert
-  Design: OK-RM
-  Language: English / Dutch / French
-  Publishing date: 2019
-  Specs: Hardcover
-  Images: © Buchhandlung Walther König. All rights reserved.
+  ISBN: "3960986858 / 978-3960986850"
+  Content: "164 pages"
+  Size: "250 × 15 × 287 mm"
+  Author: "Gabriel Kuri"
+  Edited by: "Zoë Gray"
+  Texts by: "Cathleen Chaffee, Brian Dillon, Dirk Snauwaert"
+  Design: "OK-RM"
+  Language: "English / Dutch / French"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Buchhandlung Walther König. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ Sorted, Resorted
 
 ----
 
-Uuid: YekOgS20UPiU6BLB
+Uuid: PcDXqz3DxoLWdPLf
 
 ----
 

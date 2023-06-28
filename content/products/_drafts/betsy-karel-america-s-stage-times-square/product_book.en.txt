@@ -13,13 +13,13 @@ description: |
   <p>»In America’s Stage: Times Square«, street photographer Betsy Karel uses five New York City blocks as a metaphor for urban America today. Her premise is that many of the major trends of our society are present in Times Square: globalism, consumerism, ubiquitous sexualization, hucksterism, surveillance, narcissism. All are compressed and amplified here.</p>
   <p>In Karel’s photos fantasy parades as reality, corporate interests invade almost all public spaces, and Times Square becomes a vivid, almost hyper-realistic, form of theatre.</p>
 details: |
-  ISBN: 3958292727 / 978-3958292727
-  Content: 128 pages
-  Size: 240 × 320 mm
-  Language: English
-  Publication: 2018
-  Specs: Hardcover with dust jacket
-  Images: © WELTKERN® / Steidl. All rights reserved.
+  ISBN: "3958292727 / 978-3958292727"
+  Content: "128 pages"
+  Size: "240 × 320 mm"
+  Language: "English"
+  Publication: "2018"
+  Specs: "Hardcover with dust jacket"
+  Images: "© WELTKERN® / Steidl. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ America's Stage: Times Square
 
 ----
 
-Uuid: Ot3qRGtWBt85xTUh
+Uuid: EZBavV2yugXhbslV
 
 ----
 

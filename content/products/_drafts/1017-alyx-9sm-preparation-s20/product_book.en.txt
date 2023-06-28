@@ -11,15 +11,15 @@ author:
   id: 105
 description: '<p><em>Preparation S20</em> is the third in series exploring narratives around the various ‘acts of preparing’ leading up the Alyx show in Paris, this time featuring 1010 Benja SL in his home turf in Kansas City as he prepares the score for the show in Paris. Photographed by Esther Theaker and art-directed by OK-RM it is the result of a close collaboration both in the shoot and edit. The book features 164 images: 144 in double-black and 20 colour plates with a graphite silk-screened cover and embossed textured dust-jacket.</p>'
 details: |
-  ISBN: 1916002432 / 978-1916002432
-  Content: 164 pages
-  Size: 178 × 12 × 110 mm
-  Author: 1017-ALYX-9SM
-  Design: OK-RM
-  Language: English
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / InOtherWords. All rights reserved.
+  ISBN: "1916002432 / 978-1916002432"
+  Content: "164 pages"
+  Size: "178 × 12 × 110 mm"
+  Author: "1017-ALYX-9SM"
+  Design: "OK-RM"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / InOtherWords. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,7 +56,7 @@ Preparation S20
 
 ----
 
-Uuid: R7pqIgbg4NEGaW8p
+Uuid: 2lJ2aZEIDUyWLWVF
 
 ----
 

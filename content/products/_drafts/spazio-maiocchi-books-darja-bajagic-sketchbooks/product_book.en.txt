@@ -15,13 +15,13 @@ description: |
   <br />
   Darja Bajagić: Sketchbooks features a collection of collages exhibited alongside a series of paintings at the intersection of Minimalism and digital appropriation. Bajagić’s work addresses subjects as extreme as sex and violence, challenging the viewer’s perspective and complicating binary notions of morality.</p>
 details: |
-  Content: 80 Pages
-  Size: 220 × 7 × 280 mm
-  Author: Darja Bajagić
-  Language: English
-  Publishing date: 2017
-  Specs: Softcover
-  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  Content: "80 Pages"
+  Size: "220 × 7 × 280 mm"
+  Author: "Darja Bajagić"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -54,7 +54,7 @@ Darja Bajagić Sketchbooks
 
 ----
 
-Uuid: Nyhj7vonEsmFNzR2
+Uuid: 9JLZDBxnlrudLqqN
 
 ----
 

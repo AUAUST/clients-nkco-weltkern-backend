@@ -11,14 +11,14 @@ author:
   id: 88
 description: '<p>A pictorial epos on the spectacular Alpine landscape on Bernina Pass—intensely used for tourism, energy production, and as transit route—and its infrastructure buildings.</p>'
 details: |
-  ISBN: 3038602378 / 978-3038602378
-  Content: 132 pages
-  Size: 275 × 310 mm
-  Design: Bonbon – Valeria Bonin, Diego Bontognali
-  Language: German, Italian, English
-  Publishing date: 2021
-  Specs: Hardback
-  Images: © WELTKERN ® / Park Books. All rights reserved.
+  ISBN: "3038602378 / 978-3038602378"
+  Content: "132 pages"
+  Size: "275 × 310 mm"
+  Design: "Bonbon – Valeria Bonin, Diego Bontognali"
+  Language: "German, Italian, English"
+  Publishing date: "2021"
+  Specs: "Hardback"
+  Images: "© WELTKERN ® / Park Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ Multilinetitle: Bernina transversal
 
 ----
 
-Uuid: Qu984phDgRCFHFTd
+Uuid: S6QJvQeJcAcN9bjB
 
 ----
 

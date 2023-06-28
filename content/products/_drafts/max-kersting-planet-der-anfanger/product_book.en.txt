@@ -16,16 +16,16 @@ description: |
   <br />
   A gang from Lippstadt, Germany – captured in shaky pictures that look like colorful shadows gone wild. The interplay with Kersting&#8217;s texts condenses a feeling that can at best be described from the outside as brutally barren boredom, but which at its core represents the nucleus of all later life. This is how you stumble into real life: as an entangled, self-involved, smooching pseudoskater, perhaps only half as cool as a figure from Larry Clark, but with the firm intention of somehow getting it right. Oh. If only one could be so wonderfully clueless again.</p>
 details: |
-  ISBN: 3945900413 / 978-3945900413
-  Content: 224 Pages
-  Size: 130 × 190 mm
-  Artist: Max Kersting
-  Edited by: Hiroshi Iguchi
-  Design: HelloMe
-  Language: English
-  Publishing date: 2019
-  Specs: Softcover
-  Images: © WELTKERN® / Edition Taube. All rights reserved.
+  ISBN: "3945900413 / 978-3945900413"
+  Content: "224 Pages"
+  Size: "130 × 190 mm"
+  Artist: "Max Kersting"
+  Edited by: "Hiroshi Iguchi"
+  Design: "HelloMe"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Taube. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ Planet der Anfänger
 
 ----
 
-Uuid: awhdssmyK50PPba3
+Uuid: nny5Ne4545MR3JED
 
 ----
 

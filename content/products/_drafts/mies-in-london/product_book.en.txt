@@ -11,15 +11,15 @@ author:
   id: 226
 description: '<p>A book about modernist architect Mies van der Rohe’s only design for the UK, a bronze tower and grand plaza in the heart of London. After decades of struggle, Mies’ plans for Mansion House Square were scuppered. In Thatcher’s Britain, popular opinion turned against modernism, Prince Charles criticised the work, and the government feared new public spaces. Stopped dead by an Inquiry, and mired in controversy, Mies’ masterpiece was all but erased.</p>'
 details: |
-  ISBN: 0993547486 / 978-0993547485
-  Content: 160 pages
-  Size: 225 × 15 × 300 mm
-  Authors: Jack Self, Yulia Rudenko
-  Design: OK-RM
-  Language: English
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © WELTKERN® / REAL. All rights reserved.
+  ISBN: "0993547486 / 978-0993547485"
+  Content: "160 pages"
+  Size: "225 × 15 × 300 mm"
+  Authors: "Jack Self, Yulia Rudenko"
+  Design: "OK-RM"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / REAL. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Multilinetitle: Mies In London
 
 ----
 
-Uuid: BlIpG5FpFig1snzz
+Uuid: Rpkunm0tcNi9FuWt
 
 ----
 

@@ -11,12 +11,12 @@ author:
   id: 379
 description: '<p>TOPSAFE.TV&#8217;s new Independent Film Culture magazine, CASEBOOK &#8211; S01E01 features portraits of some of their favourite young film makers through stills, interviews and a hefty appendix.</p>'
 details: |
-  Content: 196 pages
-  Size: 185 × 270 mm
-  Language: English
-  Publishing date: 2016
-  Specs: Softcover
-  Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+  Content: "196 pages"
+  Size: "185 × 270 mm"
+  Language: "English"
+  Publishing date: "2016"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ‎Topsafe. All rights reserved."
 gallery:
   - 
     url: >
@@ -49,7 +49,7 @@ Independent Film Culture
 
 ----
 
-Uuid: fTQB7I3xAltTJZkh
+Uuid: k4uKwhO16rATJsP0
 
 ----
 

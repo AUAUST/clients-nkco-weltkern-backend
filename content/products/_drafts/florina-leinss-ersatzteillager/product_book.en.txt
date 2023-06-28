@@ -18,14 +18,14 @@ description: |
   <p>When you order, please tell us which Version you want:<br />
   V1: green cover | V2: yellow cover | V3: blue-grey cover | V4: brown cover</p>
 details: |
-  ISBN: 3945900130 / 978-3945900130
-  Content: 192 Pages
-  Size: 145 × 30 × 195 mm
-  Author: Lars Dyrendom
-  Language: English
-  Publishing date: 2018
-  Specs: Hardcover
-  Images: © WELTKERN® / Edition Taube. All rights reserved.
+  ISBN: "3945900130 / 978-3945900130"
+  Content: "192 Pages"
+  Size: "145 × 30 × 195 mm"
+  Author: "Lars Dyrendom"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Taube. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ Ersatzteillager
 
 ----
 
-Uuid: FPWNNOqkqhTfj9gi
+Uuid: tYPCAqvP84ZAW0hy
 
 ----
 

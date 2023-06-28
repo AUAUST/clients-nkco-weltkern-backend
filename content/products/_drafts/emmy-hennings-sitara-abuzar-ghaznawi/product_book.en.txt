@@ -11,14 +11,14 @@ author:
   id: 231
 description: '<p>A vast collection of writings, ephemera and works by Emmy Hennings, co-founder of the Cabaret Voltaire in 1916 with Hugo Ball and for a long time on the margins of art history, put into perspective in a scenography and with an installation by the Afghan-born artist Sitara Abuzar Ghaznawi.</p>'
 details: |
-  ISBN: 1280579362 / 979-1280579362
-  Content: 128 pages
-  Size: 175 × 240 mm
-  Design: Dan Solbach
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN® / Lenz Press. All rights reserved.
+  ISBN: "1280579362 / 979-1280579362"
+  Content: "128 pages"
+  Size: "175 × 240 mm"
+  Design: "Dan Solbach"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Lenz Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -51,7 +51,7 @@ Sitara Abuzar Ghaznawi
 
 ----
 
-Uuid: kxi3q1GTxQdpnyPD
+Uuid: AztQ7YOKo2srEJq0
 
 ----
 

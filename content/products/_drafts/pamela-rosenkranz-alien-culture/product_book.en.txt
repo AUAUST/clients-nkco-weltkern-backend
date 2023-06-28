@@ -11,14 +11,14 @@ author:
   id: 111
 description: '<p>Tracing the way the colour blue has shaped human perception throughout history and into our digital age, Pamela Rosenkranz&#8217;s work activates historical references to art, culture and religion. Alien Blue Light, an intervention in the Fraumünster cloister in Zurich as part of the celebrations of the five hundredth anniversary of the Reformation, reflects on the historical changes in religion. In this immersive installation, which evokes both the supernatural and the artificial, the historical architecture of the cloister is confronted with a posthuman future. Similarly, in the previous exhibition Alien Culture at the GAMeC, a former monastery in Bergamo transformed into a museum, digital reproductions of Gentile Bellini&#8217;s Renaissance painting Miracolo della reliquia della Croce al ponte di San Lorenzo (1500) link ancient religious practices with contemporary visual culture.</p>'
 details: |
-  ISBN: 8867493791 / 978-8867493791
-  Content: 96 pages
-  Size: 170 × 7 × 220 mm
-  Author: Pamela Rosenkranz
-  Language: English / German
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © Mousse Publishing. All rights reserved.
+  ISBN: "8867493791 / 978-8867493791"
+  Content: "96 pages"
+  Size: "170 × 7 × 220 mm"
+  Author: "Pamela Rosenkranz"
+  Language: "English / German"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -51,7 +51,7 @@ Alien Culture
 
 ----
 
-Uuid: AOTdDoH9TTsyiqLK
+Uuid: j80VUgTwkpBakdup
 
 ----
 

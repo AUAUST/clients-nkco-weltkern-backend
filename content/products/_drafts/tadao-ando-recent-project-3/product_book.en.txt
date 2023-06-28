@@ -24,13 +24,13 @@ description: |
   2014-19, 2015-16, 2017-18 Okayama, Okayama<br />
   Rock Field Shizuoka Factory 1989-2020 Iwata, Shizuoka</p>
 details: |
-  ISBN: 4871406938 / 978-4871406932
-  Content: 160 pages
-  Size: 260 × 300 mm
-  Edited by: Ada Edita
-  Language: Japanese / English
-  Publishing date: 2021
-  Images: © WELTKERN® / Ada Edita. All rights reserved.
+  ISBN: "4871406938 / 978-4871406932"
+  Content: "160 pages"
+  Size: "260 × 300 mm"
+  Edited by: "Ada Edita"
+  Language: "Japanese / English"
+  Publishing date: "2021"
+  Images: "© WELTKERN® / Ada Edita. All rights reserved."
 gallery:
   - 
     url: >
@@ -47,7 +47,7 @@ Recent Project 3
 
 ----
 
-Uuid: 2a98PagdDtTsiWHr
+Uuid: HVBOyd6X6IJE5f1o
 
 ----
 

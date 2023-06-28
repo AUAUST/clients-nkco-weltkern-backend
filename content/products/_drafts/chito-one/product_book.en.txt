@@ -11,14 +11,14 @@ author:
   id: 299
 description: '<p>This book marks the first installment in an ongoing catalogue series documenting and archiving the work of american-born artist chito. This first book, which rigorously records the evolution across many garments collected and painted by the young artist from the beginning of his career up to mid-2018, offers an authoritative glimpse into the beginnings of his now well-known practice. Lush archival photographs sourced from chito’s own records and those of early colleagues and admirers are complemented by essay accounts of this formative era. Readers already interested in chito’s work, as well as those only newly familiar, will find this to be a document rich with detail that sets the stage for subsequent chapters of chito’s ongoing story.</p>'
 details: |
-  ISBN: 1792362958 / 978-1792362958
-  Content: 264 pages
-  Size: 165 × 35 × 230 mm
-  Author: CHITO
-  Language: English
-  Publishing date: 2021
-  Specs: Hardcover with embossed details
-  Images: © WELTKERN® / chito.international. All rights reserved.
+  ISBN: "1792362958 / 978-1792362958"
+  Content: "264 pages"
+  Size: "165 × 35 × 230 mm"
+  Author: "CHITO"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover with embossed details"
+  Images: "© WELTKERN® / chito.international. All rights reserved."
 gallery:
   - 
     url: >
@@ -75,7 +75,7 @@ One
 
 ----
 
-Uuid: L7XkQ5WiAQhdIfqU
+Uuid: UKwJkqHlwTbjr5UV
 
 ----
 

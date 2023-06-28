@@ -18,16 +18,16 @@ description: |
   For Oh Yeah / Yello 40, the two artists dug deep into their souvenir boxes to come up with an intriguing haul of Polaroids, posters, letters, fanzine reviews, sketches, pictures of their trip to Cuba—and even the handwritten sheet music to Bostich. Oh Yeah / Yello 40 is more than a scrapbook from the days when we were all young. The book harks back to the gleefully playful zeitgeist of the post-punk era in a city which, as only fools may have forgotten, was the cradle of Dada. <br />
   — Hanspeter “Düsi” Kuenzler</p>
 details: |
-  ISBN: 3907236351 / 978-3907236352
-  Content: 450 pages
-  Size: 297 × 210 mm
-  Author: Hanspeter Kuenzler
-  Edited by: Edition Patrick Frey
-  Design: Aaron Fabian
-  Language: German / English
-  Publishing date: 2021
-  Specs: Hardcover
-  Images: © WELTKERN® /  Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236351 / 978-3907236352"
+  Content: "450 pages"
+  Size: "297 × 210 mm"
+  Author: "Hanspeter Kuenzler"
+  Edited by: "Edition Patrick Frey"
+  Design: "Aaron Fabian"
+  Language: "German / English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® /  Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -44,7 +44,7 @@ Boris Blank & Dieter Meier
 
 ----
 
-Uuid: GbnlPsmbp1yDzdxg
+Uuid: obRbKct6OGrhZbNL
 
 ----
 

@@ -19,13 +19,13 @@ description: |
   240 pages, full color on uncoated woodfree paper.</p>
   <p>Featuring: Elise Zecevic by Rayn Jermain / Isabella Carr by Wiissa / Alizée Gamberini by Maëva Gamberini / Tanya Kizko by Donari Braxton / Fabrizio, Fernanda, Mariana &#038; Marijose by Mariana García / Rik Bracho / Raúl Mena by Alberto Pinto / Raúl Salazar / Alejandra Guilmant by Karla Lisker / Nina Urgell by Pau Carrete / Ajsa Selimovic by Marcus Paarmann / Daniela Aldana by Jean Ambrojo / Olivia Taylor by Danny Scott Lane / Ohwhatawoman by Aleksey Burcev / Lena Simonne by Vincent Girardot / Pia Riverola</p>
 details: |
-  Content: 240 pages
-  Size: 245 × 330 mm
-  Design: Face.
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN ® / Phamilia. All rights reserved.
+  Content: "240 pages"
+  Size: "245 × 330 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Phamilia. All rights reserved."
 gallery:
   - 
     url: >
@@ -86,7 +86,7 @@ Lena by Vincent
 
 ----
 
-Uuid: ukrxXk15HQI3CAHM
+Uuid: nPtKKCZglD1ZGOg7
 
 ----
 

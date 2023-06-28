@@ -15,14 +15,14 @@ description: |
   More precisely, Album Architectures, Abidjan is the testimony of an encounter between two individuals who live and share an aesthetic and emotional attachment to the lagoon city. Issa Diabaté, architect, contemporary actor of the architectural future of this city that never stops reinventing itself. François-Xavier Gbré, a photographer who has made architecture his preferred medium for apprehending the muted history of places by envisaging architectures as the sedimentary traces of the social and political changes of a country, the Ivory Coast.</p>
   <p>This book, and the Album Architectures collection more broadly, aims to initiate a reflection on the definition of the notion of contemporary heritage through the valorisation of rich and singular architectural landscapes, not always identified, often invisibilised, of cities in perpetual urban change.</p>
 details: |
-  ISBN: 2493283115 / 978-2493283115
-  Content: 128 pages
-  Size: 240 × 320 mm
-  Design: Spassky Fischer
-  Language: French
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN ® / Cosa Mentale. All rights reserved.
+  ISBN: "2493283115 / 978-2493283115"
+  Content: "128 pages"
+  Size: "240 × 320 mm"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -71,7 +71,7 @@ Abidjan
 
 ----
 
-Uuid: Hx2uexKDlD5heGRH
+Uuid: FNw9hjYji8rK48Eu
 
 ----
 

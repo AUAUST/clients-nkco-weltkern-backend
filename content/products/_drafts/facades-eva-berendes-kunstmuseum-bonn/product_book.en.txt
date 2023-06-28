@@ -13,14 +13,14 @@ description: |
   <p>The monographic publication focuses on Eva Berendes’s most recent body of work, “Façades”, alongside a selection of older works. As the current recipient of the Bonn Art Award, her “Façades” can be seen in an exhibition of the same name at the Kunstmuseum Bonn, where they are on display in both interior and exterior spaces. The works have been expressly created for this presentation, which responds to the architecture of the institution and the specific site of a “museum,” while also engaging in artistic reflection on an abstract mode of painting that extends into space. The artist alludes to modes of reception that are familiar from contexts related to consumption and action. The works refer to architectural elements in the transition from outside to inside and lead visitors’ bodies and gazes through doors, gates, windows, and barriers. </p>
   <p>Eva Berendes studied in Munich, Berlin and London. The artist has exhibited widely in group and solo exhibitions at institutions and galleries. Recently she has been awarded the Bonner Kunstpreis.</p>
 details: |
-  ISBN: 3959057233 / 978-3959057233
-  Content: 90 pages
-  Size: 230 × 320 mm
-  Design: Florian Lamm, Lamm & Kirch
-  Language: English
-  Publishing date: 2023
-  Specs: Hardcover
-  Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: "3959057233 / 978-3959057233"
+  Content: "90 pages"
+  Size: "230 × 320 mm"
+  Design: "Florian Lamm, Lamm & Kirch"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ Eva Berendes/Kunstmuseum Bonn
 
 ----
 
-Uuid: 3A54jDEysWN8febh
+Uuid: YHBwJy3NDLhln7R5
 
 ----
 

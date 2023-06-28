@@ -15,12 +15,12 @@ description: |
   <p>Together with our vibrant international community, CO creates a beautiful printed publication in place of our usual in-person programming, and delivers it to the doorsteps of visitors who aren’t able to travel to Munich this year.</p>
   <p>Expect tons of beautiful images, staged exhibition environments, rendered digital jewels, fictional stories and more!</p>
 details: |
-  Content: 256 pages
-  Size: 420 × 300 mm
-  Language: English
-  Publication: 2021
-  Specs: 8 glossy posters + 3 Newspapers in plastic sleeve
-  Images: © WELTKERN® / Current Obsession. All rights reserved.
+  Content: "256 pages"
+  Size: "420 × 300 mm"
+  Language: "English"
+  Publication: "2021"
+  Specs: "8 glossy posters + 3 Newspapers in plastic sleeve"
+  Images: "© WELTKERN® / Current Obsession. All rights reserved."
 gallery:
   - 
     url: >
@@ -49,7 +49,7 @@ Issue 8
 
 ----
 
-Uuid: X5MbApDVeBJFbO2I
+Uuid: uUTkUWVgR6R18H4R
 
 ----
 

@@ -11,15 +11,15 @@ author:
   id: 111
 description: '<p>Imelda Romualdez Marcos is a Filipino politician who was first lady of the Philippines for twenty-one years, during which time she and her husband are widely believed to have illegally amassed a multibillion dollar fortune, the bulk of which still remains unrecovered. Her personal wealth was estimated at $24 billion in 1979, and today it is thought to be at least $30 billion. She married Ferdinand Marcos in 1954 and became first lady in 1965, when he was elected president of the Philippines. During her tenure as first lady, Marcos owned three thousand pairs of shoes. She imported giraffes—just because she could. Her habit of initiating ostentatious architectural projects using public funds came to be described in common parlance as “Imeldific.” In 1966, Ferdinand Marcos issued Executive Order no. 60, establishing the Cultural Center of the Philippines and appointing its board of directors. The board would elect Imelda Marcos as chair, giving her legal mandate to negotiate and manage funds for the center. The CCP is considered the central symbol of Imelda Marcosʼs “edifice complex.” Its enormous modernist concrete structures were designed by Filipino architect Leandro Locsin. Imelda Marcos declared the center the “sanctuary of the Filipino soul.” In these pages, Giovanna Silva inspects the heritage of the country, illustrating the robust relationship between architecture and history.</p>'
 details: |
-  ISBN: 8867494187 / 978-8867494187
-  Content: 92 pages
-  Size: 105 × 10 × 155 mm
-  Author: Giovanna Silva
-  Introduction: Christodoulos Panayotou
-  Language: English
-  Publishing date: 2020
-  Specs: Hardcover
-  Images: © Mousse Publishing. All rights reserved.
+  ISBN: "8867494187 / 978-8867494187"
+  Content: "92 pages"
+  Size: "105 × 10 × 155 mm"
+  Author: "Giovanna Silva"
+  Introduction: "Christodoulos Panayotou"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -69,7 +69,7 @@ Multilinetitle: Imeldific
 
 ----
 
-Uuid: sMendZ2IrEN0DkJE
+Uuid: 7eN7q9hjk9YUaGFd
 
 ----
 

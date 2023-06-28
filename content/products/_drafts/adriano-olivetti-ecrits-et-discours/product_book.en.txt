@@ -11,14 +11,14 @@ author:
   id: 87
 description: '<p>The first collection of writings and speeches in French by Adriano Olivetti (1901-1960), an Italian entrepreneur and publisher who transformed his writing and calculating machine factory into a laboratory for experimenting with a new model of social, political, and cultural life: a model of &#8220;concrete utopia&#8221; based on the idea of community and centered on the individual, whose instruments of realization are architecture, urbanism, and design.</p>'
 details: |
-  ISBN: 2378964306 / 978-2378964306
-  Content: 240 pages
-  Size: 105 × 150 mm
-  Design: Spassky Fischer
-  Language: French
-  Publishing date: 2023
-  Specs: Softcover
-  Images: © WELTKERN ® / Cosa Mentale. All rights reserved.
+  ISBN: "2378964306 / 978-2378964306"
+  Content: "240 pages"
+  Size: "105 × 150 mm"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,7 +59,7 @@ Adriano Olivetti
 
 ----
 
-Uuid: 6kWUyypTR5YUJqKK
+Uuid: xd9ePlIuopZVCDH3
 
 ----
 

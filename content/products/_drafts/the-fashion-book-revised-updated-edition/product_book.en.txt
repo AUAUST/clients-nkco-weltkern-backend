@@ -14,13 +14,13 @@ description: |
   <br />
   Revised and updated, this new edition of Phaidon&#8217;s iconic global bestseller The Fashion Book takes a fresh look at the fashion world and the people who created and inspired it. Spanning two centuries, the entire industry is represented: from designers to photographers, editors, creative directors and influencers. Marking significant changes on the fashion landscape, this edition features the new people who have fundamentally shaped the way we see fashion in recent years, including Virgil Abloh, Gosha Rubchinskiy, and Alessandro Michele, influential photographer Petra Collins, designer and contemporary icon Rihanna, and Leandra Medine, alongside fashion pioneers of the previous edition such as Coco Chanel, Issey Miyake, Kate Moss, Erdem, and Richard Avedon. The bestselling &#8211; and now updated &#8211; classic volume remains a comprehensive and definitive view of the fashion industry today.</p>
 details: |
-  ISBN: 1838661105 / 978-1838661106
-  Content: 584 Pages
-  Size: 264 × 54 × 300 cm
-  Language: English
-  Publishing date: 2020
-  Specs: Hardcover
-  Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: "1838661105 / 978-1838661106"
+  Content: "584 Pages"
+  Size: "264 × 54 × 300 cm"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Revised & updated edition
 
 ----
 
-Uuid: gk4wyOaiL4Q1QSK8
+Uuid: C6lPEHV7HoFH5T6H
 
 ----
 

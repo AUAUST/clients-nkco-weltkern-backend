@@ -37,12 +37,12 @@ description: |
   <br />
   And finally, “SEASON,” the magazine&#8217;s opening section, accounts for the best of this Spring/Summer with profiles on Jan Vorisek, Cookie Mueller, Friends With Benefits, Berenice Olmedo, Willy Chavarria, Emily Barker, Whaam!, Crystal Murray, Poche Studio, 1909 Paris, Andrew Roberts, LA Timpa, Dylan Solomon Kraus, Cobrasnake, Guerriero Do Divino Amor, You&#8217;ve Never Been Completely Honest, Vitelli, Tohji, 120 BPM, Sun Woo, and James Bantone.</p>
 details: |
-  Content: 400 Pages
-  Size: 230 × 24 × 300 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  Content: "400 Pages"
+  Size: "230 × 24 × 300 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -131,7 +131,7 @@ BFRND: Balenciaga Special
 
 ----
 
-Uuid: lTc7qWQqPjyiurGi
+Uuid: Ep8dXBYN4Nzd0CJm
 
 ----
 

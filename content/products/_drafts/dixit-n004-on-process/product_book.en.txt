@@ -18,14 +18,14 @@ description: |
   After studying architecture at the ETH in Zurich, Jan Kinsbergen obtained his degree under the direction of Hans Kollhoff. In 1993 he moved to New York, where he worked in the architectural practice of Steven Holl until 1999. He then set up his own architectural practice, also in New York. During this period, Jan Kinsbergen taught architecture at Columbia University GSAPP in New York. Between 2002 and 2008 he worked at ETH Zurich. Since 2002, he has been managing Jan Kinsbergen Architekt Ltd. in Zurich.<br />
   David Klemmer is an Austrian architect based in Zurich and founder of Studio David Klemmer. For more than a decade he has been working as an image producer and CGI artist, building virtual scenarios in collaboration with renowned architectural offices including Valerio Olgiati, Miller Maranta, Karamuk Kuo, Jean-Pierre Dürig, Bruther and Jan Kinsbergen. David Klemmer studied architecture at the University of Applied Sciences Joanneum and the Technical University of Graz. In 2017, he opened his own architecture studio. In 2022 he founded Studio Diode, an independent satellite dedicated to digital images.</p>
 details: |
-  ISBN: 2493283108 / 978-2493283108
-  Content: 64 pages
-  Size: 230 × 300 mm
-  Design: Spassky Fischer
-  Language: English / French
-  Publishing date: 2022
-  Specs: Softcover
-  Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: "2493283108 / 978-2493283108"
+  Content: "64 pages"
+  Size: "230 × 300 mm"
+  Design: "Spassky Fischer"
+  Language: "English / French"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -42,7 +42,7 @@ On process
 
 ----
 
-Uuid: 2wHXaiPxDdsbarrw
+Uuid: zjCIFI6dYEZyUnPf
 
 ----
 

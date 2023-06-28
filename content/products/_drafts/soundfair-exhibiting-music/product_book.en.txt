@@ -11,18 +11,18 @@ author:
   id: 99
 description: '<p>How can one put music on exhibit in an art context? This was the question preoccupying curator Clara Meister, artist and composer Ari Benjamin Meyers, and producer Thomas Mayer when they started Soundfair in Berlin in 2008 — an international exhibition project devoted to the concept of music. Over the next five years, they invited artists and musicians from around the world to develop new works at the interface of art, music, and performance that would abandon traditional notions of concert and exhibition. The publication <em>Soundfair: Exhibiting Music</em> is a documentation of the artistic works that came out of this period. In it the Soundfair founders discuss individual projects and present series of works with the invited artists, who include Janet Cardiff, Olaf Nicolai, and Douglas Gordon.</p>'
 details: |
-  ISBN: 3959050909 / 978-3959050906
-  Content: 160 Pages
-  Size: 100 × 10 × 140 mm
-  Author: Thomas Mayer
-  Edited by: Thomas Mayer, Clara Meister
-  Contributions from: Janet Cardiff, Annika Eriksson, Bo Christian Larsson, Arto Lindsay, Olaf Nicolai, Douglas Gordon, Anri Sala
-  Design: Studio Quentin Walesch
+  ISBN: "3959050909 / 978-3959050906"
+  Content: "160 Pages"
+  Size: "100 × 10 × 140 mm"
+  Author: "Thomas Mayer"
+  Edited by: "Thomas Mayer, Clara Meister"
+  Contributions from: "Janet Cardiff, Annika Eriksson, Bo Christian Larsson, Arto Lindsay, Olaf Nicolai, Douglas Gordon, Anri Sala"
+  Design: "Studio Quentin Walesch
   
-  Language: English / German
-  Publishing date: 2017
-  Specs: Hardcover
-  Images: © WELTKERN® / Spector Books. All rights reserved.
+  Language: "English / German"
+  Publishing date: "2017"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -75,7 +75,7 @@ Exhibiting Music
 
 ----
 
-Uuid: zqMlGKuCyrvbT1ui
+Uuid: KWL9FvNQhLbzXYgb
 
 ----
 

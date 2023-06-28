@@ -11,14 +11,14 @@ author:
   id: 319
 description: '<p>The printed matter in this box can be an exhibition, if you decide to follow its prepositions. Taking the theme of solidarity as its narrative, SYMPTOMS OF THE FUTURE offers the visitor close connections with various works, either stimulating perception, thought and/or even physical relating beyond as it offers guidelines for staging an exhibition or scores for performing a work of art. A range of topics – including care, situated knowledge, and togetherness and crisis &#8211; are intertwined throughout the contributions.</p>'
 details: |
-  ISBN: 9493148550 / 978-9493148550
-  Content: Box
-  Size:
-  Language: English
-  Edited by: Irena Borić, Mirjana Dragosavljević, Dušica Dražić
-  Publication: 2021
-  Specs: Box with various items of printed matter
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  ISBN: "9493148550 / 978-9493148550"
+  Content: "Box"
+  Size: ""
+  Language: "English"
+  Edited by: "Irena Borić, Mirjana Dragosavljević, Dušica Dražić"
+  Publication: "2021"
+  Specs: "Box with various items of printed matter"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -32,7 +32,7 @@ Multilinetitle: SYMPTOMS OF THE FUTURE
 
 ----
 
-Uuid: Y1XjR1RpWQg1hYRS
+Uuid: F5BeJZRKhvDYGOuf
 
 ----
 

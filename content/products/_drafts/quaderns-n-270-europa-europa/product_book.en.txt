@@ -16,17 +16,17 @@ description: |
   <br />
   The issue features projects and contributions by Architecten De Vylder Vick Taillieu, Arquitectura-G, Atelier Kempe Thill, Bruther, Flexo arquitectura, Harquitectes, Moritz Kung, Maio, Office Kersten Geers David Van Serveren, Bas Princen, Thomas Raynaud, Nuria Salvado &#038; Josep Angles, Guillermo Santomà, Philip Ursprung and 51N4E.</p>
 details: |
-  ISBN: 8434313736 / 978-8434313736
-  Content: 148 pages
-  Size: 190 × 13 × 260 mm
-  Authors: Moisés Puente, Moritz Küng
-  Edited by: Ediciones Polagrafa
-  Contributions from: Philip Ursprung
-  Design: Bendita Gloria
-  Language: English
-  Publishing date: 2018
-  Specs: Softcover
-  Images: © COAC. All rights reserved.
+  ISBN: "8434313736 / 978-8434313736"
+  Content: "148 pages"
+  Size: "190 × 13 × 260 mm"
+  Authors: "Moisés Puente, Moritz Küng"
+  Edited by: "Ediciones Polagrafa"
+  Contributions from: "Philip Ursprung"
+  Design: "Bendita Gloria"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© COAC. All rights reserved."
 gallery:
   - 
     url: >
@@ -91,7 +91,7 @@ Europa Europa
 
 ----
 
-Uuid: UzkNkMq2d9m1DByU
+Uuid: OmtynqJjDoAWQuO4
 
 ----
 

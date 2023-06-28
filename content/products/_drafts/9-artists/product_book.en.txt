@@ -11,14 +11,14 @@ author:
   id: 312
 description: '<p>9 Artists is an international, multigenerational group exhibition that considers the mutable and mutating role of the artist in contemporary culture. Bringing together the expansive practices of some of the most provocative and engaged artists working today&#8211;Yael Bartana, Liam Gillick, Natascha Sadr Haghighian, Renzo Martens, Bjarne Melgaard, Nástio Mosquito, Hito Steyerl and Danh Vo&#8211;the show examines ways that they negotiate the complicities and contradictions of living in an ever more complex and networked world. Rarely considered together, they each use their own backgrounds or identities as material, frequently in antagonistic or subversive ways. For this catalogue, each artist has contributed a 16-page artist&#8217;s book exploring some aspect of their practice, often in collaboration with other artists, writers, or designers including Karl Holmqvist, Phùng Vo, Galit Eilat, Vic Pereiró, An Art Service, Federica Bueti and T.J. Demos. Some contributions are purely visual; others entirely textual, ranging from new essays to ghostwritten letters, cease and desist orders, and cinematic diaries. An accompanying compendium of works provides a visual journey through past projects and ephemera, setting up an associative conversation between the artists&#8217; works. Additionally, exhibition curator Bartholomew Ryan&#8217;s essay weaves together their various approaches, placing them in the context of broader contemporary art practice and the complex world we inhabit. As each artist has developed strong networks of collaborators, the volume is anticipated as a means to promote and create dialogue between the participants and their respective communities.</p>'
 details: |
-  ISBN: 1935963066 / 978-1935963066
-  Content: 208 pages
-  Size: 203 × 254 mm
-  Language: English
-  Edited by: Bartholomew Ryan
-  Publishing date: 2013
-  Specs: Paperback
-  Images: © WELTKERN® / Walker Art Center. All rights reserved.
+  ISBN: "1935963066 / 978-1935963066"
+  Content: "208 pages"
+  Size: "203 × 254 mm"
+  Language: "English"
+  Edited by: "Bartholomew Ryan"
+  Publishing date: "2013"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Walker Art Center. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Multilinetitle: 9 Artists
 
 ----
 
-Uuid: ASe5DNbcJTBljkTh
+Uuid: Pp9OLwMfPPwlT6rg
 
 ----
 

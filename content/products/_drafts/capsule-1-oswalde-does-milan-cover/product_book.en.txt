@@ -14,12 +14,12 @@ description: |
   <br />
   Featuring: Nanda Vigo, Alessandro Mendini, Green River Project, Mario Bellini, Nakagin Dreams, Plastic Drip, Karim Rashid, Atelier Van Lieshout, Devon Turnbull, and Eugene Whang.</p>
 details: |
-  Content: 200 pages
-  Size: 310 × 335 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Spiral bound
-  Images: © WELTKERN® / ‎KALEIDOSCOPE. All rights reserved.
+  Content: "200 pages"
+  Size: "310 × 335 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Spiral bound"
+  Images: "© WELTKERN® / ‎KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Oswalde Does Milan Cover
 
 ----
 
-Uuid: y8cOK8Mr4EF521Md
+Uuid: qV6B6jWcPnZJ0NcR
 
 ----
 

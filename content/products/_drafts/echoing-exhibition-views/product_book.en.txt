@@ -13,16 +13,16 @@ description: |
   <p>When the exhibition enters the digital realm, as it is increasingly happening now when the display of art and culture can be enjoyed individually behind screens, then how does the exhibition view diffuse optically, technically, and culturally? And how does this transformation echo the new understanding of subjectivity?</p>
   <p>Echoing Exhibition Views. Subjectivity in Post-Digital Times explores the different medialities and intersubjective shifts that follow the moment of seeing a physical exhibition today. It takes the digitized exhibition view as starting point for artistic and theoretic reflections on post-digital culture, hyperreality and its relation to subjectivity. Focusing on the transformative potential of the exhibition as circulating view, this publication asks how it transfers again into a subjective mode of perspective through the artistic lens. So what is at stake when an exhibition circulates as a digital view? And how does its digital presence in turn affect and transform the subjective experience of seeing a physical exhibition?</p>
 details: |
-  ISBN: 9493148239 / 978-9493148239
-  Content: 80 pages
-  Size: 170 × 240 mm
+  ISBN: "9493148239 / 978-9493148239"
+  Content: "80 pages"
+  Size: "170 × 240 mm
   
-  Language: English
-  Edited by: A.R. practice
-  Graphic design: A.R. practice (Ann Richter)
-  Publishing date: 2020
-  Specs: Softcover
-  Images: © WELTKERN® / Onomatopee. All rights reserved.
+  Language: "English "
+  Edited by: "A.R. practice"
+  Graphic design: "A.R. practice (Ann Richter)"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Multilinetitle: Echoing Exhibition Views
 
 ----
 
-Uuid: Rjrllwzeh7xXb9Rd
+Uuid: nIjaWHR9p9mDtjy5
 
 ----
 

@@ -13,18 +13,18 @@ author:
   id: 87
 description: '<p>First edition of the book conceived as an anthology where the writings of the author Maria Bottero introduce and close a series of critical essays that are extracted from out of print or out of circulation books. A selection of projects described through unpublished or archival photographs and drawings from the Umberto Riva collection at the Canadian Centre for Architecture in Montreal enrich the publication.</p>'
 details: |
-  ISBN: 2491039011 / 978-2491039011
+  ISBN: "2491039011 / 978-2491039011
   
-  Content: 352 pages
-  Size: 220 × 41 × 330 mm
-  Author: Maria Bottero
-  Edited by: Claudia Mion
-  Texts by: Maria Bottero, Francesco Cellini, Pierluigi Nicolin, Giovanni Raboni, Marco Rapposelli, Marco Romanelli, Mirko Zardini
-  Design: Spassky Fischer
-  Language: French / English / Italian
-  Publishing date: 2021
-  Specs: Softcover
-  Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  Content: "352 pages"
+  Size: "220 × 41 × 330 mm"
+  Author: "Maria Bottero"
+  Edited by: "Claudia Mion"
+  Texts by: "Maria Bottero, Francesco Cellini, Pierluigi Nicolin, Giovanni Raboni, Marco Rapposelli, Marco Romanelli, Mirko Zardini"
+  Design: "Spassky Fischer"
+  Language: "French / English / Italian"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,7 +61,7 @@ Incursions au-del� du moderne: l’architecture de Umberto Riva
 
 ----
 
-Uuid: kPNcHLixILs81xCB
+Uuid: o6eOD9BzLkPKCTIM
 
 ----
 

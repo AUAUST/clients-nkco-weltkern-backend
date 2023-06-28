@@ -17,13 +17,13 @@ description: |
   <p>Having reached the finished line, Workout seems to operate like a conceptual slot machine. Each pull of the lever generates individual symbols that have nothing to do with each other, and yet together make meaning.<br />
   Lindsay LeBoyer</p>
 details: |
-  ISBN: 3952471067 / 978-3952471067
-  Content: 24 pages
-  Size: 350 × 500 mm
-  Language: English
-  Graphic Design by: Studio Nüssli+Nuessli
-  Posters by: Liv Fontaine, Leslie Thornton, Jamie Crewe, Claire Fontaine, Romy Ruegger, Tayo Onorato & Nico Krebs, Claudia Barth, Erick Beltran, Tom Huber, Nuessli/Oeschger, Fiona Banner.
-  Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: "3952471067 / 978-3952471067"
+  Content: "24 pages"
+  Size: "350 × 500 mm"
+  Language: "English"
+  Graphic Design by: "Studio Nüssli+Nuessli"
+  Posters by: "Liv Fontaine, Leslie Thornton, Jamie Crewe, Claire Fontaine, Romy Ruegger, Tayo Onorato & Nico Krebs, Claudia Barth, Erick Beltran, Tom Huber, Nuessli/Oeschger, Fiona Banner."
+  Images: "© WELTKERN® / Cpress. All rights reserved."
 gallery:
   - 
     url: >
@@ -57,7 +57,7 @@ Multilinetitle: Workout
 
 ----
 
-Uuid: LUWpL7IhEdtNu1lU
+Uuid: 7jn33zSsDxESwGok
 
 ----
 

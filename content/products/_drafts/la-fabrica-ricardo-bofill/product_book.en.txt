@@ -13,13 +13,13 @@ description: |
   <p>La Fábrica is one of Ricardo Bofill’s most iconoclastic creations. A former cement factory on the outskirts of Barcelona, serendipitously discovered while driving, the building became the centre of the late Catalan architect’s life, serving both as his home and as the headquarters of his practice since 1973. Here, Ricardo created a world of his own, exposing the concrete forms from beneath years of dust and smoke, encouraging nature back onto the structure, and fine-tuning the balance between its monumental scale and a delicate, human sensibility, in one of the earliest examples of the reuse of an industrial building—and it’s still changing.</p>
   <p>This new edition expands on the book we originally published in 2018, featuring exclusive archival imagery courtesy of RBTA and an expansive selection of photographs taken by Nacho Alegre on his visits to La Fábrica over the last decade. He returned in November 2022 to document the building in its current state, closing the book with 32 pages of otherwise unseen images—a portrait of Ricardo’s most cherished work at a moment of profound transformation. With an introduction by Pablo Bofill, the book also features an interview with Ricardo himself by Barcelona-based architects Arquitectura-G and Guillermo López, an extended version of the conversation originally published in issue #11 of Apartamento magazine.</p>
 details: |
-  ISBN: 8409459483 / 978-8409459483
-  Content: 156 pages
-  Size: 240 × 285 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN ® / Apartamento. All rights reserved.
+  ISBN: "8409459483 / 978-8409459483"
+  Content: "156 pages"
+  Size: "240 × 285 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Apartamento. All rights reserved."
 gallery:
   - 
     url: >
@@ -76,7 +76,7 @@ Ricardo Bofill
 
 ----
 
-Uuid: 3ekenrdTKcDEZGiC
+Uuid: utNzeZ8IhJ9vDVJq
 
 ----
 

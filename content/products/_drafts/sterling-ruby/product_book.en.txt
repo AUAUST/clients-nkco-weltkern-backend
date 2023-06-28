@@ -11,15 +11,15 @@ author:
   id: 112
 description: '<p>This book presents twenty years of Sterling Ruby&#8217;s iconic, multidisciplinary works. From his sublime abstract paintings to his soft sculpture &#8220;vampires&#8221; comprising American flags, Sterling Ruby is &#8220;one of the most interesting artists to emerge in this century, &#8221; according to The New York Times. Accompanying Ruby&#8217;s first US museum survey, this book takes a thematic approach to the artist&#8217;s work, focusing on his critical invocation of imagery related to American identity. Beginning with his earliest collages, this book demonstrates his distinctive approach to psychological, cultural, and topical concerns. It includes his recent mobiles and polyurethanes, demonstrating his continuous engagement with themes such as prison reform, labor conditions, and vernacular cultures. Readers can compare smaller works on canvas and in clay to monumental sculptures made from submarine parts or giant skyscrapers rendered in toxically bright colors.</p>'
 details: |
-  ISBN: 3791358796 / 978-3791358796
-  Content: 192 pages
-  Size: 230 × 15 × 285 mm
-  Authors: Alex Gartenfeld, Eva Respini
-  Contributions from: Jeffrey De Blois, Isabelle Graw
-  Language: English
-  Publishing date: 2019
-  Specs: Hardcover
-  Images: © Prestel. All rights reserved.
+  ISBN: "3791358796 / 978-3791358796"
+  Content: "192 pages"
+  Size: "230 × 15 × 285 mm"
+  Authors: "Alex Gartenfeld, Eva Respini"
+  Contributions from: "Jeffrey De Blois, Isabelle Graw"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Prestel. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Multilinetitle: Sterling Ruby
 
 ----
 
-Uuid: jSq594o2m8o3hInX
+Uuid: 4GMDYA1u7AcGJPYA
 
 ----
 

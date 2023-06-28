@@ -11,16 +11,16 @@ author:
   id: 178
 description: '<p>How is life in a city without future prospects but with the stigma of the neo-fascist terror of 1991? <em>Land ohne Mitte</em> portrays people, space and landscape in and around the Saxon city of Hoyerswerda and shows the normal everyday life in the German province: without demographic, urban development or political centre.</p>'
 details: |
-  ISBN: 3770012095024 / 978-3000487514
-  Content: 220 pages
-  Size: 200 × 27 × 270 mm
-  Author: Anne Morgenstern
-  Texts by: Margrit Sengebusch, Christian Ritter
-  Design: Raffinerie
-  Language: German
-  Publishing date: 2015
-  Specs: Softcover
-  Images: © Fountain Books. All rights reserved.
+  ISBN: "3770012095024 / 978-3000487514"
+  Content: "220 pages"
+  Size: "200 × 27 × 270 mm"
+  Author: "Anne Morgenstern"
+  Texts by: "Margrit Sengebusch, Christian Ritter"
+  Design: "Raffinerie"
+  Language: "German"
+  Publishing date: "2015"
+  Specs: "Softcover"
+  Images: "© Fountain Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -53,7 +53,7 @@ Land ohne Mitte
 
 ----
 
-Uuid: hJD0cDt9f6KPSLKe
+Uuid: WMsvK4I2eNBicqIJ
 
 ----
 

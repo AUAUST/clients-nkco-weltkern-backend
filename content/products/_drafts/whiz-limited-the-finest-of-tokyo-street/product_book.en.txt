@@ -17,13 +17,13 @@ description: |
   <br />
   This book also features an impressive archive of the brand’s iconic sneaker designs, boasting collabora-tions with heavy hitters like mita sneakers, Adidas, New Balance, Asics, Puma, Reebok, Mizuno, Converse, and Ugg, making it a must-have for sneak-erheads and lovers of streetwear style alike.</p>
 details: |
-  ISBN: 0847871347 / 978-0847871346
-  Content: 256 pages
-  Size: 233 × 290 mm
-  Language: English
-  Publishing date: 2022
-  Specs: Hardcover
-  Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  ISBN: "0847871347 / 978-0847871346"
+  Content: "256 pages"
+  Size: "233 × 290 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +40,7 @@ The Finest of Tokyo Street
 
 ----
 
-Uuid: DVvBj0rPgo66jhwv
+Uuid: 06imvgUXstC1sgyF
 
 ----
 

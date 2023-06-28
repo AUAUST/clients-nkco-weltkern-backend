@@ -11,15 +11,15 @@ author:
   id: 247
 description: '<p>Graphic 18 focuses on small workshops at different specific locations which involves only a small number of participants. The idea is to give us a broader perspective and deduce in what direction today’s graphic design is heading. This issue covers 16 different workshops amongst them the Gerrit Rietveld Academy (JOFF &#038; Julia Born), the Kunstfabrik (Radim Peško, Marco Walser), Bauhaus University (Nicolas Bourquin, Thibaud Tissot), the Drawing Room (Fraser Muggeridge), Werkplaats Typografie in Yahşibey, Turkey (James Goggin, Maureen Mooren), Sint-Lucas Visual Arts (Charlotte Cheetham from Manystuff), ECAL (Guy Meldem, David Keshavjee, Julien Tavelli) and others.</p>'
 details: |
-  ISBN: 8996662208 / 978-8996662204
-  Content: 208 pages
-  Size: 230 × 300 mm
-  Edited by: Propaganda
-  Design: Na Kim
-  Language: Korean / English
-  Publishing date: 2011
-  Specs: Softcover
-  Images: © WELTKERN® / Idea Books. All rights reserved.
+  ISBN: "8996662208 / 978-8996662204"
+  Content: "208 pages"
+  Size: "230 × 300 mm"
+  Edited by: "Propaganda"
+  Design: "Na Kim"
+  Language: "Korean / English"
+  Publishing date: "2011"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Idea Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Workshop Issue
 
 ----
 
-Uuid: eNhx6ZeKmoCdbadk
+Uuid: pSDL60I72ZttiWps
 
 ----
 

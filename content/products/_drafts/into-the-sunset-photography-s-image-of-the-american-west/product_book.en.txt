@@ -12,14 +12,14 @@ author:
   id: 243
 description: '<p>Into the Sunset examines how photography has pictured, established and transformed the idea of the American West, from 1850 to the present. The development of photography coincided with the exploration and settlement of the West, and this simultaneous growth resulted in a complex relationship that has shaped the perception of that region&#8217;s physical and social landscape to this day. Published to accompany a major exhibition at The Museum of Modern Art, New York, Into the Sunset charts changing myths and cultural attitudes about the West through photographs dating from the nineteenth to the twenty-first centuries. An expansive and dynamic survey, it brings together photographers as diverse as Carleton E. Watkins and Stephen Shore, Darius Kinsey and Dorothea Lange, Robert Frank and Cindy Sherman, an unknown daguerreotypist and Richard Prince. More than 120 works are organized thematically to highlight the artists&#8217; differing views of the West&#8217;s land and people.</p>'
 details: |
-  ISBN: 0870707493 / 978-0870707493
-  Content: 168 pages
-  Size: 240 × 270 mm
-  Design:
-  Language: English
-  Publishing date: 2009
-  Specs: Softcover
-  Images: © WELTKERN ® / MoMa. All rights reserved.
+  ISBN: "0870707493 / 978-0870707493"
+  Content: "168 pages"
+  Size: "240 × 270 mm"
+  Design: ""
+  Language: "English"
+  Publishing date: "2009"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / MoMa. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,7 +64,7 @@ Photography's Image of the American West
 
 ----
 
-Uuid: snj4p6Z6jMX7yKl9
+Uuid: 90EwUrrEMoQtvSKn
 
 ----
 
