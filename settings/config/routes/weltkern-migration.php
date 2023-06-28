@@ -2,6 +2,7 @@
 
 use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
+use Kirby\Cms\Page;
 
 use AUAUST\products\WK1;
 
@@ -11,20 +12,36 @@ return [
     'pattern' => 'sync-weltkern',
     'language' => '*',
     'action' => function () {
-      $products = WK1::products();
-      $productsPage = page('products');
+      $kirby = kirby();
+      $site  = $kirby->site();
+
+
+      /**
+       * @var Page $productsPage
+       */
+      $productsPage = $site->pageProducts()->toPage();
+
+      $remoteProducts = WK1::products();
+
+      $existingProducts    = $productsPage->childrenAndDrafts();
+      $existingProductsIds = $existingProducts->values(
+        function ($product) {
+          return $product->oldWeltkern()->toObject()->id()->toString();
+        }
+      );
 
       $newProducts = [];
       $updatedProducts = [];
 
-      foreach ($products as $index => $product) {
-
-        // if ($index > 5) {
-        //   break;
-        // }
+      foreach ($remoteProducts as $product) {
 
         // Only extract books, not typefaces nor stationery
         if ($product['categories'][0]['slug'] !== 'books') {
+          continue;
+        }
+
+        // Skip if product already exists
+        if (in_array($product['id'], $existingProductsIds)) {
           continue;
         }
 
@@ -43,13 +60,13 @@ return [
           'title' => $title,
 
           'oldWeltkern' => [
-            'title' => $product['name'],
+            'title'  => $product['name'],
+            'slug'   => $product['slug'],
+            'id'     => $product['id'],
 
-            'slug' => $product['slug'],
+            'price'  => $product['price'],
 
-            'id' => $product['id'],
-
-            'isbn' => (function () use ($product) {
+            'isbn'   => (function ($product) {
               foreach ($product['header'][0]['header']['block_option'] as $option) {
                 if ($option['option'] === 'ISBN') {
                   return $option['value'];
@@ -57,21 +74,17 @@ return [
               }
               return 'NO ISBN';
             })(),
-
-            'price' => $product['price'],
-
             'weight' => $product['weight'],
 
-            'author' => (function () use ($product) {
+            'author' => (function ($product) {
               $author = $product['header'][0]['header']['author_information']['author'];
               return [
                 'name' => $author['name'],
-                'id' => $author['term_id'],
+                'id'   => $author['term_id'],
               ];
             })(),
 
             'description' => $product['short_description'],
-
             'details' => (function () use ($product) {
               $details = '';
 
