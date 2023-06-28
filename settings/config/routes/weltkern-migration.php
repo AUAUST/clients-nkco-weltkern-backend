@@ -179,6 +179,8 @@ return [
             'wk1-slug' => $oldWeltkern->slug()->toString(),
             'isbn' => WK1::extractIsbn($oldWeltkern->isbn()),
             'dimensions' => WK1::extractDimensions($details['Size']),
+            'price' => $oldWeltkern->price()->toFloat(),
+            'weight' => $oldWeltkern->weight()->toString(),
           ];
         } catch (Exception $e) {
           $erroredProducts[] =
@@ -190,7 +192,17 @@ return [
         }
       }
 
-      return dump($updatedProducts, false);
+      return dump(
+        (function ($updatedProducts) {
+          usort(
+            $updatedProducts,
+            fn ($a, $b) => $a['weight'] <=> $b['weight']
+          );
+          return $updatedProducts;
+        }
+        )($updatedProducts),
+        false
+      );
     }
 
   ],
