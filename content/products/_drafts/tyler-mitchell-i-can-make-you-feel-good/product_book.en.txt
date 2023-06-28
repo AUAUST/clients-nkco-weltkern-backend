@@ -9,7 +9,15 @@ I Can Make You Feel Good
 
 ----
 
+Multilinetitleseparator: 
+
+----
+
 Publisher: 
+
+----
+
+Tags: 
 
 ----
 
@@ -32,9 +40,8 @@ Supplier:
 Oldweltkern:
 
 title: 'Tyler Mitchell <br>I Can Make You Feel Good'
-slug: >
-  tyler-mitchell-i-can-make-you-feel-good-2
-id: 13977
+slug: tyler-mitchell-i-can-make-you-feel-good
+id: 10661
 isbn: 3791386085 / 978-3791386089
 price: 52.5
 weight: 1.5
@@ -61,8 +68,28 @@ details: |
 gallery:
   - 
     url: >
-      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_TylerMitchell2.jpg
-    id: 13978
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_COVER_TylerMitchell-1.jpg
+    id: 10728
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_1-3.jpg
+    id: 10718
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_2-2.jpg
+    id: 10720
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_3-3.jpg
+    id: 10722
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_4-3.jpg
+    id: 10724
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/09/BOOK_SPREAD_5-3.jpg
+    id: 10726
 tags: [ ]
 
 ----

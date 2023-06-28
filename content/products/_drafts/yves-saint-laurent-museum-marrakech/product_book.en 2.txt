@@ -2,19 +2,11 @@ Title: Yves Saint Laurent Museum Marrakech
 
 ----
 
-Multilinetitle: 
-
-----
-
-Multilinetitleseparator: 
+Multilinetitle: Yves Saint Laurent Museum Marrakech
 
 ----
 
 Publisher: 
-
-----
-
-Tags: 
 
 ----
 
@@ -64,3 +56,7 @@ gallery:
       https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_YvesSaintLaurent.jpg
     id: 13745
 tags: [ ]
+
+----
+
+Uuid: yztO4DthywFHOl7D

@@ -2,19 +2,14 @@ Title: Mouse in Residence|Anna Haifisch
 
 ----
 
-Multilinetitle: 
+Multilinetitle:
 
-----
-
-Multilinetitleseparator: 
+Mouse in Residence
+Anna Haifisch
 
 ----
 
 Publisher: 
-
-----
-
-Tags: 
 
 ----
 
@@ -64,3 +59,7 @@ gallery:
       https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_AnnaHaifisch.jpg
     id: 13760
 tags: [ ]
+
+----
+
+Uuid: 3eS4Te9AzrYlOKPW

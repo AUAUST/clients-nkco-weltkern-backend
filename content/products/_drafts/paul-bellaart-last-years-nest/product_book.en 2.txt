@@ -2,19 +2,14 @@ Title: Paul Bellaart|Last Year‘s Nest
 
 ----
 
-Multilinetitle: 
+Multilinetitle:
 
-----
-
-Multilinetitleseparator: 
+Paul Bellaart
+Last Year‘s Nest
 
 ----
 
 Publisher: 
-
-----
-
-Tags: 
 
 ----
 
@@ -74,3 +69,7 @@ gallery:
       https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_COVER_PAUL-BELLAART3.jpg
     id: 21764
 tags: [ ]
+
+----
+
+Uuid: GcoQIWPJNR32I9WX

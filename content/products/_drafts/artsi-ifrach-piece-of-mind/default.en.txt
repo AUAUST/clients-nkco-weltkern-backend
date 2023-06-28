@@ -1,0 +1,35 @@
+Title: Artsi Ifrach|Piece of Mind
+
+----
+
+Text: 
+
+----
+
+Oldweltkern:
+
+title: 'Artsi Ifrach <br>Piece of Mind'
+slug: artsi-ifrach-piece-of-mind
+id: 29935
+isbn: 0995761124 / 978-0995761124
+price: 28.9
+weight: "2.1"
+author:
+  name: KAHL Editions
+  id: 438
+description: |
+  <p>Israeli-Moroccan fashion designer Artsi Ifrach is often referred to as a slow-fashion ionary. He has earned worldwide attention for his label Art/C, which showcases his handcrafted, one-of-a-kind pieces made of vintage fabrics, family heirlooms, and materials sourced from flea markets around the globe. For Ifrach, clothing is less about commercial opportunism and more about creating an outlet for memory and emotion. Each photograph in Piece of Mind is shot and styled by Ifrach and represents one creation per day. Expressive of the fine line between the ridious and the sublime, many are also self-portraits. With a conversation between Ifrach and Rinat Aboulafia.</p>
+details: |
+  - ISBN: 0995761124 / 978-0995761124
+  - Content: 112 pages
+  - Size: 215 × 235 mm
+  - Language: English
+  - Publishing date: 2017
+  - Specs: Hardcover
+  - Images: © WELTKERN ® / KAHL Editions. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/BOOK_COVER_-11.jpg
+    id: 29938
+tags: [ ]

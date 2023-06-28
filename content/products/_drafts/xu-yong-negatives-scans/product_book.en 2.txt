@@ -2,19 +2,14 @@ Title: Xu Yong|Negatives: Scans
 
 ----
 
-Multilinetitle: 
+Multilinetitle:
 
-----
-
-Multilinetitleseparator: 
+Xu Yong
+Negatives: Scans
 
 ----
 
 Publisher: 
-
-----
-
-Tags: 
 
 ----
 
@@ -72,3 +67,7 @@ gallery:
       https://api.weltkern.com/wp-content/uploads/2022/07/BOOK_SPREAD_3-2.jpg
     id: 21626
 tags: [ ]
+
+----
+
+Uuid: zv9eQufpFLxHom9W

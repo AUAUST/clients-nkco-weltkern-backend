@@ -1,0 +1,59 @@
+Title: A Guide to Barcelona|by Seasons
+
+----
+
+Text: 
+
+----
+
+Oldweltkern:
+
+title: 'A Guide to Barcelona <br>by Seasons'
+slug: a-guide-to-barcelona-by-seasons
+id: 30006
+isbn: 1739186814 / 978-1739186814
+price: 28.9
+weight: "2.1"
+author:
+  name: Antenne Books
+  id: 417
+description: |
+  <p>The weight of Barcelona’s history can be felt as you wander the worn streets—an old-world mystique that draws you down deserted, medieval passages and into hushed, shaded plazas. At the turn of a corner, you are transported back in time for an all too brief moment. Each neighbourhood that you pass through tells a different chapter of history–from the sweeping gothic splendour of Barri Gòtic, to the provocative modernista mansions of Eixample. Our Travel Guides present a distinctive graphic identity seeking to rekindle a golden age of travel, where the pursuit of adventure and desire for luxury go hand in hand. Each guide uncovers a curation of cultural and culinary highlights that portray the true character of each city, with a particular fondness for places that have preserved an essence of old world charm, or else exude a certain timeless elegance.</p>
+details: |
+  - ISBN: 1739186814 / 978-1739186814
+  - Content: 208 pages
+  - Size: 190 ×140 mm
+  - Language: English
+  - Publishing date: 2023
+  - Specs: Softcover
+  - Images: © WELTKERN ® / Antenne Books. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Barcelona_COVER_.jpg
+    id: 30013
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Barcelona_SPREAD_06.jpg
+    id: 30007
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Barcelona_SPREAD_05.jpg
+    id: 30008
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Barcelona_SPREAD_04.jpg
+    id: 30009
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Barcelona_SPREAD_03.jpg
+    id: 30010
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Barcelona_SPREAD_02.jpg
+    id: 30011
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Barcelona_SPREAD_01.jpg
+    id: 30012
+tags: [ ]

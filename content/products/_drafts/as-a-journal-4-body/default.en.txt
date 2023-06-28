@@ -1,0 +1,48 @@
+Title: As A Journal #4|Body
+
+----
+
+Text: 
+
+----
+
+Oldweltkern:
+
+title: 'As A Journal #4 <br>Body'
+slug: as-a-journal-4-body
+id: 29745
+isbn: NO ISBN
+price: 12.2
+weight: "2.1"
+author:
+  name: Lithuanian Culture Institute
+  id: 416
+description: |
+  <p>Limited in space, bodies are immense in their potentiality. Today, in the face of a crisis – ecological, military, economic and social – it is their vulnerability that defines them most. Guest edited by Neringa Černiauskaitė, a writer, curator and one half of the artistic duo Pakui Hardware, the issue scrutinizes vulnerability in order to show that it is often evoked by systemic flaws rather than personal failures. At the same time, vulnerability is not treated here as something to be anxious about, but as a tool for building community, for transforming rigid structures, for bringing the flesh into theory, and to open up oneself to the other.</p>
+details: |
+  - ISSN: 2783-5685
+  - Content: 200 pages
+  - Size: 210 × 265 mm
+  - Design: Vytautas Volbekas
+  - Language: English
+  - Publishing date: 2023
+  - Specs: Softcover
+  - Images: © WELTKERN ® / Lithuanian Culture Institute. All rights reserved.
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/As-A-Journal_COVER_.jpg
+    id: 29743
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/As-A-Journal_SPREAD_01.jpg
+    id: 29742
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/As-A-Journal_SPREAD_02.jpg
+    id: 29741
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/OFFICE_SPREAD_05.jpg
+    id: 30389
+tags: [ ]
