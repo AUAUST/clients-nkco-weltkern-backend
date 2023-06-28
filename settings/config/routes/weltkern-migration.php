@@ -175,10 +175,10 @@ return [
           );
 
         try {
-          $content = [
+          $updatedProducts[] = [
             'wk1-slug' => $oldWeltkern->slug()->toString(),
-            'isbn' => WK1::fixIsbn($oldWeltkern->isbn()),
-            'dimensions' => WK1::fixDimensions($details['Size']),
+            'isbn' => WK1::extractIsbn($oldWeltkern->isbn()),
+            'dimensions' => WK1::extractDimensions($details['Size']),
           ];
         } catch (Exception $e) {
           $erroredProducts[] =
@@ -190,7 +190,8 @@ return [
         }
       }
 
-      return 'hihi';
+      return dump($updatedProducts, false);
     }
+
   ],
 ];

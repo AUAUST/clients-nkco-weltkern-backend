@@ -297,7 +297,7 @@ class WK1
    * @param string $isbn The ISBN to parse.
    * @return string|false The parsed ISBN, or false if no valid ISBN was found.
    */
-  public static function fixIsbn(string $isbn)
+  public static function extractIsbn(string $isbn)
   {
     $isbn = trim($isbn);
 
@@ -358,7 +358,7 @@ class WK1
    * @param string $yaml The YAML to parse.
    * @return array|null The dimensions, or null if none were found.
    */
-  public static function fixDimensions(mixed $dimensionsString)
+  public static function extractDimensions(mixed $dimensionsString)
   {
 
     // If the dimensions are not stored as a string, we ignore them
