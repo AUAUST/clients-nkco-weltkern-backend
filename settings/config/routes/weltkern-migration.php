@@ -95,7 +95,7 @@ return [
               $details = '';
 
               foreach ($product['header'][0]['header']['block_option'] as $option) {
-                $details .= $option['option'] . ': ' . $option['value'] . PHP_EOL;
+                $details .= $option['option'] . ': ' . '"' . Str::replace($option['value'], '"', '\"') . '"' . PHP_EOL;
               }
 
               return $details;
