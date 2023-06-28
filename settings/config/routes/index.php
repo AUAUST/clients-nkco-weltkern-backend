@@ -31,7 +31,7 @@ return [
   require_once __DIR__ . '/products.php',
   require_once __DIR__ . '/publishers.php',
   require_once __DIR__ . '/option.php',
-  require_once __DIR__ . '/sync-weltkern.php',
+  ...(require_once __DIR__ . '/weltkern-migration.php'),
   [
     'pattern' => '(:all)',
     'language' => '*',
