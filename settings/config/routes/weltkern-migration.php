@@ -91,7 +91,7 @@ return [
               ];
             })($product),
 
-            'description' => $product['short_description'],
+            'description' => Str::convert($product['short_description'], 'utf-8'),
             'details' => (function ($product) {
               $details = '';
 
