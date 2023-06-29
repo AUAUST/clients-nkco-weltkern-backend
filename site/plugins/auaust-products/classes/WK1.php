@@ -387,4 +387,30 @@ class WK1
       return null;
     }
   }
+
+  /**
+   * Takes an HTML string, and returns a string with all HTML tags removed while trying to keep the text structure as much as possible.
+   *
+   * @param string $html The HTML to parse.
+   * @return string The parsed HTML.
+   */
+  public static function stripHtml(string $html)
+  {
+    // Replace * with \* to not be interpreted as Markdown
+    $html = str_replace('*', '\*', $html);
+    // Remplace <em> and </em> with *
+    $html = preg_replace('/<\/?em>/', '*', $html);
+    // Remplace <strong> and </strong> with **
+    $html = preg_replace('/<\/?strong>/', '**', $html);
+
+    // Remove all other HTML tags
+    $html = Str::unhtml($html);
+    // Deduplicate spaces, and remove spaces next to a pipe
+    $html = preg_replace('/\s+/', ' ', $html);
+    $html = preg_replace('/\n\s*\n*/', "\n", $html);
+
+    $html = preg_replace('/\n/', '(newline)', $html);
+
+    return Str::esc($html);
+  }
 }

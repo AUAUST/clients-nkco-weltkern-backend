@@ -4,6 +4,7 @@ use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
 use Kirby\Cms\Page;
 use Kirby\Data\Yaml;
+use Kirby\Toolkit\Html;
 
 use AUAUST\products\WK1;
 
@@ -151,7 +152,6 @@ return [
     'language' => '*',
     'action' => function ($lang = null) {
 
-
       $kirby = kirby();
       $site  = $kirby->site();
 
@@ -166,8 +166,8 @@ return [
       $erroredProducts = [];
 
       foreach ($products as $product) {
-        $oldWeltkern = $product->oldWeltkern()->toObject();
 
+        $oldWeltkern = $product->oldWeltkern()->toObject();
 
         $details =
           Yaml::decode(
@@ -181,6 +181,7 @@ return [
             'dimensions' => WK1::extractDimensions($details['Size']),
             'price' => $oldWeltkern->price()->toFloat(),
             'weight' => $oldWeltkern->weight()->toString(),
+            'description' => WK1::stripHtml($oldWeltkern->description()),
           ];
         } catch (Exception $e) {
           $erroredProducts[] =
