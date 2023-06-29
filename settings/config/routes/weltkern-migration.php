@@ -14,6 +14,13 @@ return [
     'pattern' => 'sync-weltkern',
     'language' => '*',
     'action' => function () {
+
+      // Local shortcut function to fix encoding issues because Wordpress is a mess
+      function fix(string $string)
+      {
+        return Str::convert($string, 'utf-8');
+      }
+
       $kirby = kirby();
       $site  = $kirby->site();
 
@@ -46,7 +53,7 @@ return [
         }
 
         // Get name
-        $title = $product['name'];
+        $title = fix($product['name']);
         // Replace inline <br> with line breaks
         $title = preg_replace('/<br\s*\/?>/', '|', $title);
         // Remove all other HTML tags
@@ -55,7 +62,7 @@ return [
         $title = preg_replace('/\s+/', ' ', $title);
         $title = preg_replace('/\s*\|\s*/', '|', $title);
 
-        $slug = Str::slug($title);
+        $slug = fix(Str::slug($title));
         $baseSlug = $slug;
         $nth  = 1;
 
@@ -67,8 +74,8 @@ return [
           'title' => $title,
 
           'oldWeltkern' => [
-            'title'  => $product['name'],
-            'slug'   => $product['slug'],
+            'title'  => fix($product['name']),
+            'slug'   => fix($product['slug']),
             'id'     => $product['id'],
 
             'price'  => $product['price'],
@@ -91,12 +98,12 @@ return [
               ];
             })($product),
 
-            'description' => Str::convert($product['short_description'], 'utf-8'),
+            'description' => fix($product['short_description']),
             'details' => (function ($product) {
               $details = '';
 
               foreach ($product['header'][0]['header']['block_option'] as $option) {
-                $details .= $option['option'] . ': ' . '"' . Str::replace($option['value'], '"', '\"') . '"' . PHP_EOL;
+                $details .= $option['option'] . ': ' . '"' . Str::replace(fix($option['value']), '"', '\"') . '"' . PHP_EOL;
               }
 
               return $details;
