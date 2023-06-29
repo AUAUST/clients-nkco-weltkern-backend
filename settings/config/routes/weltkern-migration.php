@@ -175,6 +175,8 @@ return [
       $updatedProducts = [];
       $erroredProducts = [];
 
+      $publishers = [];
+
       foreach ($products as $product) {
 
         $oldWeltkern = $product->oldWeltkern()->toObject();
@@ -192,6 +194,7 @@ return [
             'price' => $oldWeltkern->price()->toFloat(),
             'weight' => $oldWeltkern->weight()->toString(),
             'description' => WK1::stripHtml($oldWeltkern->description()),
+            // 'author' => @$oldWeltkern->author()->toArray()['id'],
           ];
         } catch (Exception $e) {
           $erroredProducts[] =
@@ -203,17 +206,18 @@ return [
         }
       }
 
-      return dump(
-        (function ($updatedProducts) {
-          usort(
-            $updatedProducts,
-            fn ($a, $b) => $a['weight'] <=> $b['weight']
-          );
-          return $updatedProducts;
-        }
-        )($updatedProducts),
-        false
-      );
+      // return dump(
+      //   (function ($updatedProducts) {
+      //     usort(
+      //       $updatedProducts,
+      //       fn ($a, $b) => $a['weight'] <=> $b['weight']
+      //     );
+      //     return $updatedProducts;
+      //   }
+      //   )($updatedProducts),
+      //   false
+      // );
+      return dump($updatedProducts, false);
     }
 
   ],
