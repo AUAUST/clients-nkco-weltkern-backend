@@ -18,7 +18,10 @@ return [
       // Local shortcut function to fix encoding issues because Wordpress is a mess
       function fix(string $string)
       {
-        return Str::convert($string, 'utf-8');
+        // $string = Str::convert($string, 'UTF-8', null);
+        // $encoding = Str::encoding($string);
+        // return "({$encoding}) {$string}";
+        return mb_convert_encoding($string, 'UTF-8');
       }
 
       $kirby = kirby();
@@ -83,7 +86,7 @@ return [
             'isbn'   => (function ($product) {
               foreach ($product['header'][0]['header']['block_option'] as $option) {
                 if ($option['option'] === 'ISBN') {
-                  return $option['value'];
+                  return fix($option['value']);
                 }
               }
               return 'NO ISBN';
@@ -93,7 +96,7 @@ return [
             'author' => (function ($product) {
               $author = $product['header'][0]['header']['author_information']['author'];
               return [
-                'name' => $author['name'],
+                'name' => fix($author['name']),
                 'id'   => $author['term_id'],
               ];
             })($product),

@@ -411,6 +411,8 @@ class WK1
 
     $html = preg_replace('/\n/', '(newline)', $html);
 
-    return Str::esc($html);
+    // $html = Str::convert($html, 'UTF-8');
+
+    return '(' . Str::encoding($html) . ') ' . Str::esc($html);
   }
 }
