@@ -4,7 +4,6 @@ use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
 use Kirby\Cms\Page;
 use Kirby\Data\Yaml;
-use Kirby\Toolkit\Html;
 
 use AUAUST\products\WK1;
 
@@ -14,14 +13,15 @@ return [
     'pattern' => 'sync-weltkern',
     'language' => '*',
     'action' => function () {
-
       // Local shortcut function to fix encoding issues because Wordpress is a mess
       function fix(string $string)
       {
-        // $string = Str::convert($string, 'UTF-8', null);
-        // $encoding = Str::encoding($string);
-        // return "({$encoding}) {$string}";
-        return mb_convert_encoding($string, 'UTF-8');
+        $string = preg_replace('/\s+/', ' ', $string);
+        $string = mb_convert_encoding($string, 'UTF-8', 'UTF-8');
+        $string = Normalizer::normalize($string, Normalizer::FORM_KC);
+        return $string;
+        // return Str::unhtml(Html::encode($string));
+        // return $string;
       }
 
       $kirby = kirby();
@@ -41,106 +41,121 @@ return [
         }
       );
 
+
       $newProducts = [];
 
-      foreach ($remoteProducts as $product) {
+      try {
+        foreach ($remoteProducts as $product) {
 
-        // Only extract books, not typefaces nor stationery
-        if ($product['categories'][0]['slug'] !== 'books') {
-          continue;
-        }
+          // if ($product['slug'] === '30-ans-a-paris') {
+          //   return ;
+          //   // return mb_detect_encoding($product['name']);
+          // }
 
-        // Skip if product already exists
-        if (in_array($product['id'], $existingProductsIds)) {
-          continue;
-        }
+          // Only extract books, not typefaces nor stationery
+          if ($product['categories'][0]['slug'] !== 'books') {
+            continue;
+          }
 
-        // Get name
-        $title = fix($product['name']);
-        // Replace inline <br> with line breaks
-        $title = preg_replace('/<br\s*\/?>/', '|', $title);
-        // Remove all other HTML tags
-        $title = Str::unhtml($title);
-        // Deduplicate spaces, and remove spaces next to a pipe
-        $title = preg_replace('/\s+/', ' ', $title);
-        $title = preg_replace('/\s*\|\s*/', '|', $title);
+          // Skip if product already exists
+          if (in_array($product['id'], $existingProductsIds)) {
+            continue;
+          }
 
-        $slug = fix(Str::slug($title));
-        $baseSlug = $slug;
-        $nth  = 1;
+          // Get name
+          $title = fix($product['name']);
+          // Replace inline <br> with line breaks
+          $title = preg_replace('/<br\s*\/?>/', '|', $title);
+          // Remove all other HTML tags
+          $title = Str::unhtml($title);
+          // Deduplicate spaces, and remove spaces next to a pipe
+          $title = preg_replace('/\s+/', ' ', $title);
+          $title = preg_replace('/\s*\|\s*/', '|', $title);
 
-        while ($existingProducts->find($slug)) {
-          $slug = $baseSlug . '-' . ++$nth;
-        }
+          $slug = fix(Str::slug($title));
+          $baseSlug = $slug;
+          $nth  = 1;
 
-        $content = [
-          'title' => $title,
+          while ($existingProducts->find($slug)) {
+            $slug = $baseSlug . '-' . ++$nth;
+          }
 
-          'oldWeltkern' => [
-            'title'  => fix($product['name']),
-            'slug'   => fix($product['slug']),
-            'id'     => $product['id'],
+          $content = [
+            'title' => $title,
 
-            'price'  => $product['price'],
+            'oldWeltkern' => [
+              'title'  => fix($product['name']),
+              'slug'   => fix($product['slug']),
+              'id'     => $product['id'],
 
-            'isbn'   => (function ($product) {
-              foreach ($product['header'][0]['header']['block_option'] as $option) {
-                if ($option['option'] === 'ISBN') {
-                  return fix($option['value']);
+              'price'  => $product['price'],
+
+              'isbn'   => (function ($product) {
+                foreach ($product['header'][0]['header']['block_option'] as $option) {
+                  if ($option['option'] === 'ISBN') {
+                    return fix($option['value']);
+                  }
                 }
-              }
-              return 'NO ISBN';
-            })($product),
-            'weight' => $product['weight'],
+                return 'NO ISBN';
+              })($product),
+              'weight' => $product['weight'],
 
-            'author' => (function ($product) {
-              $author = $product['header'][0]['header']['author_information']['author'];
-              return [
-                'name' => fix($author['name']),
-                'id'   => $author['term_id'],
-              ];
-            })($product),
-
-            'description' => fix($product['short_description']),
-            'details' => (function ($product) {
-              $details = '';
-
-              foreach ($product['header'][0]['header']['block_option'] as $option) {
-                $details .= $option['option'] . ': ' . '"' . Str::replace(fix($option['value']), '"', '\"') . '"' . PHP_EOL;
-              }
-
-              return $details;
-            })($product),
-
-            'gallery' => (array_map(
-              function ($image) {
+              'author' => (function ($product) {
+                $author = $product['header'][0]['header']['author_information']['author'];
                 return [
-                  'url' => $image['url'],
-                  'id' => $image['id'],
+                  'name' => fix($author['name']),
+                  'id'   => $author['term_id'],
                 ];
-              },
-              $product['gallery_image']
-            )),
+              })($product),
 
-            'tags' => (array_map(
-              function ($tag) {
-                return [
-                  'name' => $tag['name'],
-                  'id' => $tag['id'],
-                ];
-              },
-              $product['tags']
-            )
-            )
-          ]
-        ];
+              'description' => fix($product['short_description']),
+              'details' => (function ($product) {
+                $details = '';
 
-        $newProducts[] = $productsPage->createChild([
-          'slug' => $slug,
-          'template' => 'product_book',
-          'content' => $content
-        ]);
+                foreach ($product['header'][0]['header']['block_option'] as $option) {
+                  $details .= $option['option'] . ': ' . '"' . Str::replace(fix($option['value']), '"', '\"') . '"' . PHP_EOL;
+                }
+
+                return $details;
+              })($product),
+
+              'gallery' => (array_map(
+                function ($image) {
+                  return [
+                    'url' => $image['url'],
+                    'id' => $image['id'],
+                  ];
+                },
+                $product['gallery_image']
+              )),
+
+              'tags' => (array_map(
+                function ($tag) {
+                  return [
+                    'name' => $tag['name'],
+                    'id' => $tag['id'],
+                  ];
+                },
+                $product['tags']
+              )
+              )
+            ]
+          ];
+
+          $newProducts[] = $productsPage->createChild([
+            'slug' => $slug,
+            'template' => 'product_book',
+            'content' => $content
+          ]);
+        }
+      } catch (Exception $e) {
+        return Response::json([
+          'status' => 'error',
+          'message' => $e->getMessage(),
+        ], 500);
       }
+
+
 
       if (empty($newProducts)) {
         return Response::json([
@@ -152,7 +167,13 @@ return [
       return Response::json([
         'status' => 'success',
         'message' => 'New products found',
-        'data' => $newProducts,
+        'data' => array_map(function ($product) {
+          return [
+            'title' => $product->title()->toString(),
+            'slug' => $product->slug(),
+            'id' => $product->simpleUuid(),
+          ];
+        }, $newProducts),
       ], 200);
     }
   ],
@@ -189,6 +210,7 @@ return [
         try {
           $updatedProducts[] = [
             'wk1-slug' => $oldWeltkern->slug()->toString(),
+            'title' => $oldWeltkern->title()->toString(),
             'isbn' => WK1::extractIsbn($oldWeltkern->isbn()),
             'dimensions' => WK1::extractDimensions($details['Size']),
             'price' => $oldWeltkern->price()->toFloat(),

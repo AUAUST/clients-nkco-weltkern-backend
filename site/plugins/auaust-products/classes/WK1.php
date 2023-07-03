@@ -407,12 +407,14 @@ class WK1
     $html = Str::unhtml($html);
     // Deduplicate spaces, and remove spaces next to a pipe
     $html = preg_replace('/\s+/', ' ', $html);
+    $html = mb_convert_encoding($html, 'UTF-8', 'UTF-8');
+
     $html = preg_replace('/\n\s*\n*/', "\n", $html);
 
     $html = preg_replace('/\n/', '(newline)', $html);
 
     // $html = Str::convert($html, 'UTF-8');
 
-    return '(' . Str::encoding($html) . ') ' . Str::esc($html);
+    return Str::esc($html);
   }
 }
