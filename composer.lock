@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/algolia/algoliasearch-client-php.git",
-                "reference": "48fb056b6d5159bdea1e30add5d3dfdb4f8d3a38"
+                "reference": "d1cd56faf99929a46d0a4d62e5ae4f6891162c5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/algolia/algoliasearch-client-php/zipball/48fb056b6d5159bdea1e30add5d3dfdb4f8d3a38",
-                "reference": "48fb056b6d5159bdea1e30add5d3dfdb4f8d3a38",
+                "url": "https://api.github.com/repos/algolia/algoliasearch-client-php/zipball/d1cd56faf99929a46d0a4d62e5ae4f6891162c5d",
+                "reference": "d1cd56faf99929a46d0a4d62e5ae4f6891162c5d",
                 "shasum": ""
             },
             "require": {
@@ -79,7 +79,7 @@
                 "issues": "https://github.com/algolia/algoliasearch-client-php/issues",
                 "source": "https://github.com/algolia/algoliasearch-client-php/tree/master"
             },
-            "time": "2022-10-21T08:41:18+00:00"
+            "time": "2023-06-26T07:40:10+00:00"
         },
         {
             "name": "bnomei/kirby3-janitor",
@@ -446,16 +446,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "4.0.0-alpha.3",
+            "version": "4.0.0-alpha.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "509b81bec98570014f74c8c612ff393948858349"
+                "reference": "1206ff54be3c46ffff5d36ecc893fb84113f54ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/509b81bec98570014f74c8c612ff393948858349",
-                "reference": "509b81bec98570014f74c8c612ff393948858349",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/1206ff54be3c46ffff5d36ecc893fb84113f54ac",
+                "reference": "1206ff54be3c46ffff5d36ecc893fb84113f54ac",
                 "shasum": ""
             },
             "require": {
@@ -543,7 +543,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2023-06-13T08:13:12+00:00"
+            "time": "2023-07-03T08:54:27+00:00"
         },
         {
             "name": "getkirby/composer-installer",
@@ -598,12 +598,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "fb7566caccf22d74d1ab270de3551f72a58399f5"
+                "reference": "cd634c213de11e0f229651173428f5c27d398628"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/fb7566caccf22d74d1ab270de3551f72a58399f5",
-                "reference": "fb7566caccf22d74d1ab270de3551f72a58399f5",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/cd634c213de11e0f229651173428f5c27d398628",
+                "reference": "cd634c213de11e0f229651173428f5c27d398628",
                 "shasum": ""
             },
             "require": {
@@ -701,7 +701,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.7.0"
+                "source": "https://github.com/guzzle/guzzle/tree/7.7"
             },
             "funding": [
                 {
@@ -717,7 +717,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-05-21T14:04:53+00:00"
+            "time": "2023-06-30T12:06:03+00:00"
         },
         {
             "name": "guzzlehttp/promises",
