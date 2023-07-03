@@ -51,6 +51,9 @@ tabs:
                 query: site.find("home").find("cardlets").children
                 layout: cards
                 size: tiny
+                empty:
+                  fr: "Aucune cardlet actuellement sélectionnée"
+                  en: "No cardlet currently selected"
       cardlets:
         width: 1/2
         sections:
@@ -64,29 +67,6 @@ tabs:
             parent: site.find("home").find("cardlets")
             layout: table
             limit: 5
-          # label:
-          #   fr: "Cardlets"
-          #   en: "Cardlets"
-          # max: 3
-          # fields:
-          #   title:
-          #     type: textarea
-          #     label:
-          #       fr: Titre
-          #     width: 1/2
-          #     buttons: false
-          #   link:
-          #     type: link
-          #     label:
-          #       fr: Lien
-          #     width: 1/2
-          #   image:
-          #     type: files
-          #     label:
-          #       fr: Image
-          #     width: 1/2
-          #     multiple: false
-
     seo:
       fields:
         metaDescription:
