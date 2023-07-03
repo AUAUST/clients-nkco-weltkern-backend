@@ -494,5 +494,31 @@ class WK1
     return null;
   }
 
+  /**
+   * Takes the details array and tries to find the publishing date in it.
+   */
+  public static function extractPublishingDate(array $details)
+  {
+    $publishingDate = false;
+
+    if (array_key_exists('publishing date', $details)) {
+      $publishingDate = $details['publishing date'];
+    }
+
+    if (array_key_exists('publication', $details)) {
+      $publishingDate = $details['publication'];
+    }
+
+    if ($publishingDate === false) {
+      return null;
+    }
+
+    // Sanitize the date which can either be a year string or mm yyyy string.
+    $publishingDate = preg_replace('/\s+/', ' ', $publishingDate);
+    $publishingDate = trim($publishingDate);
+
+    // Make it a date object
+    // DateTime::createFromFormat('Y', $publishingDate);
+    $publishingDate = Date::parse($publishingDate);
   }
 }
