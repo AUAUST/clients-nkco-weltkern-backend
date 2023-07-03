@@ -440,4 +440,31 @@ class WK1
     }
     return [];
   }
+
+  /**
+   * Takes the details array and tries to find the number of pages in it.
+   */
+  public static function extractPages(array $details)
+  {
+    // Most pages have a "content: ### pages" entry
+    if (array_key_exists('content', $details)) {
+      $content = $details['content'];
+      if (preg_match('/(\d+)\s*page/i', $content, $matches)) {
+        return intval($matches[1]);
+      }
+      // If there is only digits, we assume it's the number of pages
+      if (preg_match('/^\s*\d+\s*$/', $content)) {
+        return intval($content);
+      }
+    }
+
+    // Some pages have a "### pages" lost in other entries
+    foreach ($details as $detail) {
+      if (preg_match('/(\d+)\s*page/i', $detail, $matches)) {
+        return intval($matches[1]);
+      }
+    }
+
+    return 'N/A';
+  }
 }

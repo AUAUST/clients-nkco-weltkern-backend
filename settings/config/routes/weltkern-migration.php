@@ -219,6 +219,7 @@ return [
             'weight' => $oldWeltkern->weight()->toString(),
             'description' => WK1::stripHtml($oldWeltkern->description()),
             'language' => WK1::extractLanguage($details),
+            'pages' => WK1::extractPages($details),
             // 'author' => @$oldWeltkern->author()->toArray()['id'],
           ];
         } catch (Exception $e) {
