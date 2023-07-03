@@ -198,6 +198,7 @@ return [
 
       $publishers = [];
 
+
       foreach ($products as $product) {
 
         $oldWeltkern = $product->oldWeltkern()->toObject();
@@ -206,16 +207,18 @@ return [
           Yaml::decode(
             $oldWeltkern->details()->toString()
           );
+        $details = array_change_key_case($details, CASE_LOWER);
 
         try {
           $updatedProducts[] = [
             'wk1-slug' => $oldWeltkern->slug()->toString(),
             'title' => $oldWeltkern->title()->toString(),
             'isbn' => WK1::extractIsbn($oldWeltkern->isbn()),
-            'dimensions' => WK1::extractDimensions($details['Size']),
+            'dimensions' => WK1::extractDimensions($details['size']),
             'price' => $oldWeltkern->price()->toFloat(),
             'weight' => $oldWeltkern->weight()->toString(),
             'description' => WK1::stripHtml($oldWeltkern->description()),
+            'language' => WK1::extractLanguage($details),
             // 'author' => @$oldWeltkern->author()->toArray()['id'],
           ];
         } catch (Exception $e) {
@@ -239,7 +242,11 @@ return [
       //   )($updatedProducts),
       //   false
       // );
-      return dump($updatedProducts, false);
+
+      return dump([
+        'success' => $updatedProducts,
+        'error' => $erroredProducts,
+      ], false);
     }
 
   ],

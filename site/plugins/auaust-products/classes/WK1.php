@@ -417,4 +417,27 @@ class WK1
 
     return Str::esc($html);
   }
+
+  /**
+   * Takes the details array and tries to find a language in it.
+   */
+  public static function extractLanguage(array $details)
+  {
+    if (array_key_exists('language', $details)) {
+
+      $language = $details['language'];
+
+      if ($languages = Str::split($language, '/')) {
+        return array_map(
+          function ($language) {
+            return trim($language);
+          },
+          $languages
+        );
+      }
+
+      return [$language];
+    }
+    return [];
+  }
 }
