@@ -21,23 +21,43 @@ tabs:
         label:
           fr: "Héros"
           en: "Heroes"
-        fields:
+        columns:
+          # TODO: Add preview column (product cover / image)
+          title:
+            width: 6/8
           type:
-            type: toggles
-            label:
-              fr: "Type de héros"
-            required: true
-            width: 1/4
-            options:
-              product:
-                fr: "Product"
-              image:
-                fr: "Image"
+            width: 1/8
+          visibleSince:
+            width: 1/8
+
+        fields:
           visibleSince:
             type: date
             label:
               fr: "Visible depuis"
             width: 1/4
+            display: dd/mm/yyyy
+            time:
+              step: 10
+              display: h:mm
+            default: today
+          title:
+            type: textarea
+            label:
+              fr: Titre
+            width: 3/4
+            buttons: false
+          type:
+            type: toggles
+            label:
+              fr: "Type de héros"
+            required: true
+            width: 1/2
+            options:
+              product:
+                fr: "Product"
+              image:
+                fr: "Image"
           product:
             type: pages
             status: draft

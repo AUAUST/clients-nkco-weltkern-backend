@@ -5,8 +5,9 @@ Title: Home
 Heroes:
 
 - 
+  visiblesince: 2023-07-08 00:00:00
+  title: ""
   type: image
-  visiblesince: 2023-07-08
   product: [ ]
   image: ""
   backgroundtype: image
@@ -14,8 +15,9 @@ Heroes:
   backgroundimage: [ ]
   background: ""
 - 
+  visiblesince: 2023-07-04 00:00:00
+  title: ""
   type: image
-  visiblesince: 2023-07-04
   product: [ ]
   image:
     file: [ ]
@@ -25,6 +27,20 @@ Heroes:
   backgroundimage: [ ]
   background:
     type: color
+- 
+  visiblesince: 2023-07-03 12:00:00
+  title: |
+    Coucou
+    C'est
+    Boubou
+  type: image
+  product: [ ]
+  image:
+    file: [ ]
+    link: ""
+  backgroundtype: color
+  backgroundcolor: ""
+  backgroundimage: [ ]
 
 ----
 
