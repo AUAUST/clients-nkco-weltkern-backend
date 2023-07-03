@@ -220,6 +220,8 @@ return [
             'description' => WK1::stripHtml($oldWeltkern->description()),
             'language' => WK1::extractLanguage($details),
             'pages' => WK1::extractPages($details),
+            'coverType' => WK1::extractCoverType($details),
+            'publishingDate' => WK1::extractPublishingDate($details),
             // 'author' => @$oldWeltkern->author()->toArray()['id'],
           ];
         } catch (Exception $e) {

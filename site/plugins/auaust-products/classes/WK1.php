@@ -2,10 +2,13 @@
 
 namespace AUAUST\products;
 
+use Kirby\Cms\Field;
 use Kirby\Http\Remote;
 use Kirby\Http\Request\Query;
 use Kirby\Http\Url;
+use Kirby\Toolkit\Date;
 use Kirby\Toolkit\Str;
+
 
 // Weltkern 1.0
 class WK1
@@ -465,6 +468,31 @@ class WK1
       }
     }
 
-    return 'N/A';
+    return null;
+  }
+
+  /**
+   * Takes the details array and tries to find the cover type in it.
+   */
+  public static function extractCoverType(array $details)
+  {
+    // Check if the `specs` key contains a cover type
+    if (array_key_exists('specs', $details)) {
+      $specs = $details['specs'];
+
+      if (preg_match('/hardcover/i', $specs)) {
+        return 'Hardcover';
+      }
+      if (preg_match('/softcover/i', $specs)) {
+        return 'Softcover';
+      }
+      if (preg_match('/paperback/i', $specs)) {
+        return 'Softcover';
+      }
+    }
+
+    return null;
+  }
+
   }
 }
