@@ -1,0 +1,25 @@
+Title: Weltkern 2.0
+
+----
+
+Overridetitle: 
+
+----
+
+Image: - file://j1pVbxqr9Hfpywtb
+
+----
+
+Backgroundtype: image
+
+----
+
+Backgroundimage: 
+
+----
+
+Visiblesince: 
+
+----
+
+Uuid: H9113Kch1lEL2TBJ

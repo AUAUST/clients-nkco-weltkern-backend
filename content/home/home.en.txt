@@ -44,6 +44,23 @@ Heroes:
 
 ----
 
+Cardlets:
+
+- 
+  title: ""
+  link: ""
+  image: [ ]
+- 
+  title: ""
+  link: ""
+  image: [ ]
+- 
+  title: ""
+  link: ""
+  image: [ ]
+
+----
+
 Metadescription: 
 
 ----
