@@ -15,113 +15,77 @@ options:
 
 tabs:
   content:
-    sections:
+    columns:
       heroes:
-        type: pages
-        label:
-          fr: "Héros"
-          en: "Heroes"
-        templates:
-          - hero_product
-          - hero_image
-        parent: site.find("home").find("heroes")
-        layout: table
-        columns:
-          visibleSince:
+        width: 1/1
+        sections:
+          heroes:
+            type: pages
             label:
-              fr: "Visible depuis"
-              en: "Visible since"
-            width: 1/8
-        # image: page.cover.toFile
-        # fields:
-        #   heroes:
-        #     type: structure
-        #     label:
-        #       fr: "Héros"
-        #       en: "Heroes"
-        #     columns:
-        #       # TODO: Add preview column (product cover / image)
-        #       title:
-        #         width: 6/8
-        #       type:
-        #         width: 1/8
-        #       visibleSince:
-        #         width: 1/8
-        #     fields:
-        #       visibleSince:
-        #         type: date
-        #         label:
-        #           fr: "Visible depuis"
-        #         width: 1/4
-        #         display: dd/mm/yyyy
-        #         time:
-        #           step: 10
-        #           display: h:mm
-        #         default: today
-        #       title:
-        #         type: textarea
-        #         label:
-        #           fr: Titre
-        #         width: 3/4
-        #         buttons: false
-        #       type:
-        #         type: toggles
-        #         label:
-        #           fr: "Type de héros"
-        #         required: true
-        #         width: 1/2
-        #         options:
-        #           product:
-        #             fr: "Product"
-        #           image:
-        #             fr: "Image"
-        #       product:
-        #         type: pages
-        #         status: draft
-        #         label:
-        #           fr: Produit
-        #         width: 1/2
-        #         when:
-        #           type: product
-        #       image:
-        #         type: object
-        #         width: 1/2
-        #         when:
-        #           type: image
-        #         fields:
-        #           file:
-        #             type: files
-        #             multiple: false
-        #             label:
-        #               fr: Image
-        #           link:
-        #             type: link
-        #             label:
-        #               fr: Lien
-        cardlets:
-          type: structure
-          label:
-            fr: "Cardlets"
-            en: "Cardlets"
-          max: 3
-          fields:
-            title:
-              type: textarea
-              label:
-                fr: Titre
-              width: 1/2
-              buttons: false
-            link:
-              type: link
-              label:
-                fr: Lien
-              width: 1/2
-            image:
-              type: files
-              label:
-                fr: Image
-              width: 1/2
-              multiple: false
+              fr: "Héros"
+              en: "Heroes"
+            templates:
+              - hero_product
+              - hero_image
+            parent: site.find("home").find("heroes")
+            layout: table
+            columns:
+              visibleSince:
+                label:
+                  fr: "Visible depuis"
+                  en: "Visible since"
+                width: 1/8
+      cardletsPicker:
+        width: 1/2
+        sections:
+          cardletsPicker:
+            type: fields
+            fields:
+              cardlets:
+                type: pages
+                label:
+                  fr: "Cardlets actuelles"
+                  en: "Current cardlets"
+                templates:
+                  - home_cardlet
+                query: site.find("home").find("cardlets").children
+                layout: cards
+                size: tiny
+      cardlets:
+        width: 1/2
+        sections:
+          cardlets:
+            type: pages
+            label:
+              fr: "Cardlets"
+              en: "Cardlets"
+            templates:
+              - home_cardlet
+            parent: site.find("home").find("cardlets")
+            layout: table
+            limit: 5
+          # label:
+          #   fr: "Cardlets"
+          #   en: "Cardlets"
+          # max: 3
+          # fields:
+          #   title:
+          #     type: textarea
+          #     label:
+          #       fr: Titre
+          #     width: 1/2
+          #     buttons: false
+          #   link:
+          #     type: link
+          #     label:
+          #       fr: Lien
+          #     width: 1/2
+          #   image:
+          #     type: files
+          #     label:
+          #       fr: Image
+          #     width: 1/2
+          #     multiple: false
 
     seo:
       fields:

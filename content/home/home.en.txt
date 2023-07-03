@@ -2,6 +2,13 @@ Title: Home
 
 ----
 
+Cardlets:
+
+- page://K5YJ0GTVovgtK2Qr
+- page://isSHi39S5RAtr696
+
+----
+
 Heroes:
 
 - 
@@ -41,23 +48,6 @@ Heroes:
   backgroundtype: color
   backgroundcolor: ""
   backgroundimage: [ ]
-
-----
-
-Cardlets:
-
-- 
-  title: ""
-  link: ""
-  image: [ ]
-- 
-  title: ""
-  link: ""
-  image: [ ]
-- 
-  title: ""
-  link: ""
-  image: [ ]
 
 ----
 
