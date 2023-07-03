@@ -17,9 +17,7 @@ details: |
   Size: "130 × 190 mm"
   Language: "English"
   Publishing date: "2019"
-  Specs: "Softcover
-  Black & White Offset Printed
-  Second Extended Edition"
+  Specs: "Softcover Black & White Offset Printed Second Extended Edition"
   Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
@@ -45,7 +43,7 @@ Every Mother’s Nightmare
 
 ----
 
-Uuid: enhRcaY4onPaMoU9
+Uuid: KgNBp5CmErp7C418
 
 ----
 

@@ -9,9 +9,7 @@ weight: 6.3
 author:
   name: Steidl Publishers
   id: 140
-description: |
-  <p>In 1999, pioneering fashion editor and stylist Babeth Djian founded Numéro, the now famous Paris magazine with an unmistakable aesthetic that boldly combines fashion, contemporary art, music and design. Guido Mocafico has photographed provocative still-lifes for Numéro since its first issue, and this comprehensive six-volume publication contains all this work to date.</p>
-  <p>Every month Babeth gives Mocafico carte blanche for the closing pages of Numéro, a rare privilege in today’s advertising-driven fashion magazines. In response he creates radical still-lifes (of objects including perfume bottles, shoes, watches and jewelry) that incorporate the genres of architecture, landscape and nude photography, and make comparable work in other magazines look like uninspired product shots. The experimental forum offered to Mocafico by Numéro facilitates his maverick, sometimes critical view of contemporary vanity, and has given birth to some of his larger influential series including “Medusa”, “Movement”, “Serpens” and “Stilleven.”</p>
+description: '<p>In 1999, pioneering fashion editor and stylist Babeth Djian founded Numéro, the now famous Paris magazine with an unmistakable aesthetic that boldly combines fashion, contemporary art, music and design. Guido Mocafico has photographed provocative still-lifes for Numéro since its first issue, and this comprehensive six-volume publication contains all this work to date.</p> <p>Every month Babeth gives Mocafico carte blanche for the closing pages of Numéro, a rare privilege in today’s advertising-driven fashion magazines. In response he creates radical still-lifes (of objects including perfume bottles, shoes, watches and jewelry) that incorporate the genres of architecture, landscape and nude photography, and make comparable work in other magazines look like uninspired product shots. The experimental forum offered to Mocafico by Numéro facilitates his maverick, sometimes critical view of contemporary vanity, and has given birth to some of his larger influential series including “Medusa”, “Movement”, “Serpens” and “Stilleven.”</p>'
 details: |
   ISBN: "3869309071 / 978-3869309071"
   Content: "1324 pages"
@@ -45,7 +43,7 @@ Numéro
 
 ----
 
-Uuid: Y6p3c9nGAMnyjr4P
+Uuid: 1WcGfDfALpa4C5if
 
 ----
 

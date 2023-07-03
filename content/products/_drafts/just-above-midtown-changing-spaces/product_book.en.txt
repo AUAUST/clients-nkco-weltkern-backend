@@ -9,9 +9,7 @@ weight: 1
 author:
   name: MoMA
   id: 243
-description: |
-  <p>Edited by Thomas (T.) Jean Lax and Lilia Rocio Taboada in collaboration with Linda Goode Bryant. With contributions by Eric Booker, Brandon Eng, Thelma Golden, Linda Goode Bryant, Marielle Ingram, Kellie Jones Yelena Keller, and Legacy Russell</p>
-  <p>Just Above Midtown (or JAM) was a New York art gallery and self-described laboratory for experimentation established in 1974 by Linda Goode Bryant with the intention of presenting African American artists “on the same platform with other established artists.” A hub for conceptual art, abstraction, performance, and video, JAM was a Black space open to artists of different races, generations, and educational backgrounds. The gallery, which was open until 1986, cultivated debate and prioritized process, collaboration, and the needs of artists over the demands of the art market.</p>
+description: '<p>Edited by Thomas (T.) Jean Lax and Lilia Rocio Taboada in collaboration with Linda Goode Bryant. With contributions by Eric Booker, Brandon Eng, Thelma Golden, Linda Goode Bryant, Marielle Ingram, Kellie Jones Yelena Keller, and Legacy Russell</p> <p>Just Above Midtown (or JAM) was a New York art gallery and self-described laboratory for experimentation established in 1974 by Linda Goode Bryant with the intention of presenting African American artists “on the same platform with other established artists.” A hub for conceptual art, abstraction, performance, and video, JAM was a Black space open to artists of different races, generations, and educational backgrounds. The gallery, which was open until 1986, cultivated debate and prioritized process, collaboration, and the needs of artists over the demands of the art market.</p>'
 details: |
   ISBN: "1633451377 / 978-1633451377"
   Content: "184 pages"
@@ -49,7 +47,7 @@ Changing Spaces
 
 ----
 
-Uuid: 3WKfo03Bdot1oYFM
+Uuid: 5b7GJicQ0jSWDwth
 
 ----
 

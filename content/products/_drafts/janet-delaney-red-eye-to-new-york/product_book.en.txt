@@ -9,10 +9,7 @@ weight: 0.6
 author:
   name: MACK
   id: 337
-description: |
-  <p>A dear friend of mine scheduled couriers for DHL. From time to time he would ring and ask if I wanted to catch the next red-eye flight to New York. I always said yes. I was never certain what cargo I was accompanying. I only knew that there would be a ticket waiting for me at the counter and that 5 and a half hours later I would arrive at JFK.’ – Janet Delaney</p>
-  <p>Throughout the 1980s, Janet Delaney’s job in a San Francisco photography lab was punctuated by the last-minute flights she would take to New York as a courier. Within these unexpected pockets of time she spent in New York, Delaney would wander the streets with her Rolleiflex camera, attending to the rhythms and characters of this much-mythologised city. Despite being tired and often lost, the act of photographing made Delaney feel present and alert, in tune with the crowds that pushed past her and mesmerised by the depth of history woven into the city’s structures.</p>
-  <p>The color photographs that make up this series are brimming with life and reveal the formation of Delaney’s generous approach to photographing streets and the people who inhabit them, capturing the precious mixture of private lives lived in public and transient moments of connection between photographer and subject.</p>
+description: '<p>A dear friend of mine scheduled couriers for DHL. From time to time he would ring and ask if I wanted to catch the next red-eye flight to New York. I always said yes. I was never certain what cargo I was accompanying. I only knew that there would be a ticket waiting for me at the counter and that 5 and a half hours later I would arrive at JFK.’ – Janet Delaney</p> <p>Throughout the 1980s, Janet Delaney’s job in a San Francisco photography lab was punctuated by the last-minute flights she would take to New York as a courier. Within these unexpected pockets of time she spent in New York, Delaney would wander the streets with her Rolleiflex camera, attending to the rhythms and characters of this much-mythologised city. Despite being tired and often lost, the act of photographing made Delaney feel present and alert, in tune with the crowds that pushed past her and mesmerised by the depth of history woven into the city’s structures.</p> <p>The color photographs that make up this series are brimming with life and reveal the formation of Delaney’s generous approach to photographing streets and the people who inhabit them, capturing the precious mixture of private lives lived in public and transient moments of connection between photographer and subject.</p>'
 details: |
   ISBN: "1913620387 / 978-1913620387"
   Content: "104 pages"
@@ -41,7 +38,7 @@ Red Eye to New York
 
 ----
 
-Uuid: G0uU1aYQrHwNFi3c
+Uuid: A8N8KPAXngAfCRlF
 
 ----
 

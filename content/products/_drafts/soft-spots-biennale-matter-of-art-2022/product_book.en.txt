@@ -14,8 +14,7 @@ details: |
   ISBN: "3959056809 / 978-3959056809"
   Content: "336 pages"
   Size: "115 × 230 mm"
-  Design: "Ondrej Bachor
-  
+  Design: "Ondrej Bachor "
   Language: "English"
   Publishing date: "2022"
   Specs: "Softcover"
@@ -60,7 +59,7 @@ Biennale Matter of Art 2022
 
 ----
 
-Uuid: oCa1d6lPXhkoGiaH
+Uuid: GIcEO0K3oswcTrED
 
 ----
 

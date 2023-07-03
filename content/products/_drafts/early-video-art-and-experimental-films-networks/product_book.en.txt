@@ -19,7 +19,7 @@ details: |
   Size: "230 × 13 × 308 mm"
   Author: "Bovier Francois"
   Edited by: "François Bovier"
-  Texts by: "Bovier Francois, Kristen Alfaro, Enrico Camporesi, Katarzyna Cytlak, Larisa Dryansky, Tristan Lavoyer, Adeena Mey, Kris Paulsen, Cosetta G. Saba, Andrew V. Uroskie"
+  Texts by: "Bovier Francois, Kristen Alfaro, Enrico Camporesi, Katarzyna? Cytlak, Larisa Dryansky, Tristan Lavoyer, Adeena Mey, Kris Paulsen,? Cosetta G. Saba, Andrew V. Uroskie"
   Design: "EUROSTANDARD"
   Language: "English"
   Publishing date: "2017"
@@ -54,7 +54,7 @@ Multilinetitle: Early Video Art And Experimental Films Networks
 
 ----
 
-Uuid: xA6CpSGNvFugeCwN
+Uuid: 4Y08n50ZgK7nJQ7l
 
 ----
 

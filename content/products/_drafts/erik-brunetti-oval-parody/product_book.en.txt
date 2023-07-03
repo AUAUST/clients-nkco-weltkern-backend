@@ -9,11 +9,7 @@ weight: 2.1
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>Published by KALEIDOSCOPE, edited by Alessio Ascari, and designed by Swiss-based art direction firm Kasper-Florio, “Erik Brunetti: Oval Parody” is a new artist book published on the occasion of the exhibition of the same title at Spazio Maiocchi, Milan.</p>
-  <p>Inspired by FUCT’s now defunct parody of the Ford logo—the iconic graphics that cemented Brunetti’s authority as the original subverter of what is now called streetwear, and played a key early role in establishing reappropriation as a fundamental gesture within its lexicon—“Oval Parody” centers on a new series of twelve acrylic paintings furthering Brunetti’s thought-provoking feedback loop of reference, interpretation, and creation. </p>
-  <p>Featuring an essay by Adam Wray, the book is punctuated by Brunetti’s annotations, first-hand anecdotes, and rarely-seen images stemming directly from FUCT’s archives. </p>
-  <p>Erik Brunetti (American, b. 1967) is an American artist, designer, and founder of the cult Los Angeles brand FUCT.</p>
+description: '<p>Published by KALEIDOSCOPE, edited by Alessio Ascari, and designed by Swiss-based art direction firm Kasper-Florio, “Erik Brunetti: Oval Parody” is a new artist book published on the occasion of the exhibition of the same title at Spazio Maiocchi, Milan.</p> <p>Inspired by FUCT’s now defunct parody of the Ford logo—the iconic graphics that cemented Brunetti’s authority as the original subverter of what is now called streetwear, and played a key early role in establishing reappropriation as a fundamental gesture within its lexicon—“Oval Parody” centers on a new series of twelve acrylic paintings furthering Brunetti’s thought-provoking feedback loop of reference, interpretation, and creation. </p> <p>Featuring an essay by Adam Wray, the book is punctuated by Brunetti’s annotations, first-hand anecdotes, and rarely-seen images stemming directly from FUCT’s archives. </p> <p>Erik Brunetti (American, b. 1967) is an American artist, designer, and founder of the cult Los Angeles brand FUCT.</p>'
 details: |
   ISBN: "8897185222 / 978-8897185222"
   Content: "60 pages"
@@ -60,7 +56,7 @@ Oval Parody
 
 ----
 
-Uuid: EqAWJI1qdU3RI2DC
+Uuid: lTqPvoeobpsbKe71
 
 ----
 

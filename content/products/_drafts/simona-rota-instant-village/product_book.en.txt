@@ -13,8 +13,7 @@ description: '<p>“To what extent can territory planning be considered meaningf
 details: |
   ISBN: "8494011580 / 978-8494011580"
   Content: "102 pages"
-  Size: "170 × 220 mm
-  
+  Size: "170 × 220 mm "
   Language: "English"
   Publishing date: "2020"
   Specs: "Hardcover"
@@ -35,7 +34,7 @@ Instant Village
 
 ----
 
-Uuid: 9olHirEro9vpxBb4
+Uuid: XoEfMVqxehy0gds4
 
 ----
 

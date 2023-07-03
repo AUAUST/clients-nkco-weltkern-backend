@@ -3,8 +3,7 @@ Oldweltkern:
 title: 'Surface Tension <br>Tabitha Soren'
 slug: surface-tension-tabitha-soren
 id: 15334
-isbn: |
-  2492175084 / 978-2492175084
+isbn: '2492175084 / 978-2492175084 '
 price: 32.5
 weight: 1
 author:
@@ -12,8 +11,7 @@ author:
   id: 104
 description: '<p>Tabitha Soren’s project &#8216;Surface Tension&#8217; is made by shooting the grime and debris that accumulates on her iPad. The background images are appropriated from her various devices through social media, images texted to her, and from her browsing web history. Soren creates the images about digital culture with an analogue large format camera. The vigorous and expressive gestures on the surface of the image reject the conflict between reality and fiction and between our embodied lives and our online, mediated lives.</p>'
 details: |
-  ISBN: "2492175084 / 978-2492175084
-  
+  ISBN: "2492175084 / 978-2492175084 "
   Content: "64 pages"
   Size: "220 × 340 mm"
   Author: "Tabitha Soren"
@@ -37,7 +35,7 @@ Tabitha Soren
 
 ----
 
-Uuid: zTjXAxH2rr9wgNzh
+Uuid: 5Eq4pxWtDElkS8dm
 
 ----
 

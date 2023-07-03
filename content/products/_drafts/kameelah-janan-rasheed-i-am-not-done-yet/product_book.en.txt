@@ -9,12 +9,7 @@ weight: 2.1
 author:
   name: Mousse Publishing
   id: 111
-description: |
-  <p>A learner, Kameelah Janan Rasheed grapples with the poetics-pleasures-politics of Black knowledge production, information technologies and belief formation. Her work looks at knowledge and how it is created, embodied, stored, cataloged, hidden, learned, and also unlearned, with particular focus on facets of incompleteness, information (il)legibility and the use of seemingly error-ridden image and text data.<br />
-  Rasheed works primarily with paper and vinyl that she attaches to walls and public spaces, creating what she describes as &#8220;ecosystems of iterative and provisional projects.&#8221; Based on a 1974 poem of the same name by American writer Lucille Clifton, her exhibition &#8220;i am not done yet&#8221; deals with questions of incomplete knowledge and continuous learning through &#8220;Black storytelling&#8221; and &#8220;Islamic mysticism.&#8221; At the same time, the titular sentence &#8220;i am not done yet&#8221; can also be understood as an assertive, declarative statement in its own right.<br />
-  This artist book is published on the occasion of Kameelah Janan Rasheed&#8217;s first ever institutional exhibition in Germany at Kunstverein Hannover in 2022.</p>
-  <p>&#8220;When I think about the density of language, I imagine the material presence of the language in space. But I also hope there is acknowledgment that no sentence is a simple sentence. Every sentence holds meaning, exceeds meaning, moves in different directions simultaneously.&#8221;<br />
-  Kameelah Janan Rasheed</p>
+description: '<p>A learner, Kameelah Janan Rasheed grapples with the poetics-pleasures-politics of Black knowledge production, information technologies and belief formation. Her work looks at knowledge and how it is created, embodied, stored, cataloged, hidden, learned, and also unlearned, with particular focus on facets of incompleteness, information (il)legibility and the use of seemingly error-ridden image and text data.<br /> Rasheed works primarily with paper and vinyl that she attaches to walls and public spaces, creating what she describes as &#8220;ecosystems of iterative and provisional projects.&#8221; Based on a 1974 poem of the same name by American writer Lucille Clifton, her exhibition &#8220;i am not done yet&#8221; deals with questions of incomplete knowledge and continuous learning through &#8220;Black storytelling&#8221; and &#8220;Islamic mysticism.&#8221; At the same time, the titular sentence &#8220;i am not done yet&#8221; can also be understood as an assertive, declarative statement in its own right.<br /> This artist book is published on the occasion of Kameelah Janan Rasheed&#8217;s first ever institutional exhibition in Germany at Kunstverein Hannover in 2022.</p> <p>&#8220;When I think about the density of language, I imagine the material presence of the language in space. But I also hope there is acknowledgment that no sentence is a simple sentence. Every sentence holds meaning, exceeds meaning, moves in different directions simultaneously.&#8221;<br /> Kameelah Janan Rasheed</p>'
 details: |
   ISBN: "8867494989 / 978-8867494989"
   Content: "160 pages"
@@ -67,7 +62,7 @@ I am not done yet
 
 ----
 
-Uuid: i6PazxEongdg6Y1i
+Uuid: WG7uTDKNP2IqCeI6
 
 ----
 

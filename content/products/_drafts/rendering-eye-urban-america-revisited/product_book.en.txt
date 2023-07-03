@@ -9,13 +9,13 @@ weight: 2
 author:
   name: Edition Patrick Frey
   id: 98
-description: '<p><em>The Rendering Eye</em> shows 3-D screenshots of the urban United States as they appear in Apple Maps: deserted streets, buildings and industrial plants that look almost post-apocalyptic. Cars and boats turn into ephemeral shadows, trees are cocooned into sculptures, containers melt, machinery is deformed, and streets are warped. Although the algorithms trace the contours of the world with astonishingly mimetic precision, the spooky universe of Apple Maps is utterly baffled by “reality.” The software, originally developed for seeker missiles, was declassified a few years ago. The images it now produces conjure such references as the dystopian metropolises of <em>Blade Runner</em>, the Expressionist sea of buildings in <em>The Cabinet of Dr. Caligari</em>, the futuristic buildings in <em>SimCity</em>, or Camille Pissarro’s light-saturated boulevards. The cityscapes captured by Regula Bochsler for this publication are abstract, machine generated, and cold. And yet they are, at times, bathed in exuberant, almost poetically tender colors. Thanks to their “mistakes,” their blurred outlines, their distortions and reflections, they look handmade, which ultimately lends them an obscure painterly beauty. Regula Bochsler and Philipp Sarasin explore the implications of these algorithmically generated cityscapes, with a particular emphasis on the impact made by this technologically advanced rendering of our “new world” on photography and the media sciences.  Three essays accompany the virtual flyover expedition: Regula Bochsler describes the beginnings of classic air photography; theorist Bernd Stiegler elaborates on the historical, photographic context; and MIT Technology Review’s editor Tom Simonite addresses the military origins of Apple&#8217;s technology.</p>'
+description: '<p><em>The Rendering Eye</em>? shows 3-D screenshots of the urban United States as they appear in Apple Maps: deserted streets, buildings and industrial plants that look almost post-apocalyptic. Cars and boats turn into ephemeral shadows, trees are cocooned into sculptures, containers melt, machinery is deformed, and streets are warped. Although the algorithms trace the contours of the world with astonishingly mimetic precision, the spooky universe of Apple Maps is utterly baffled by “reality.” The software, originally developed for seeker missiles, was declassified a few years ago. The images it now produces conjure such references as the dystopian metropolises of? <em>Blade Runner</em>, the Expressionist sea of buildings in? <em>The Cabinet of Dr. Caligari</em>, the futuristic buildings in? <em>SimCity</em>, or Camille Pissarro’s light-saturated boulevards. The cityscapes captured by? Regula Bochsler? for this publication are abstract, machine generated, and cold. And yet they are, at times, bathed in exuberant, almost poetically tender colors. Thanks to their “mistakes,” their blurred outlines, their distortions and reflections, they look handmade, which ultimately lends them an obscure painterly beauty.? Regula Bochsler? and? Philipp Sarasin? explore the implications of these algorithmically generated cityscapes, with a particular emphasis on the impact made by? this technologically advanced rendering of our “new world” on photography and the media sciences.?  Three essays accompany the virtual flyover expedition:? Regula Bochsler? describes the beginnings of classic air photography; theorist Bernd Stiegler elaborates on the historical, photographic context; and? MIT Technology Review’s editor Tom Simonite addresses the military origins of Apple&#8217;s technology.</p>'
 details: |
   ISBN: "3905929546 / 978-3905929546"
   Content: "288 pages"
   Size: "216 × 30 × 330 mm"
   Edited by: "Regula Bochsler, Philipp Sarasin"
-  Texts by: "Regula Bochsler, Bernd Stiegler, Tom Simonite"
+  Texts by: "Regula Bochsler,? Bernd Stiegler,? Tom Simonite"
   Design: "Marietta Eugster"
   Language: "English"
   Publishing date: "2014"
@@ -57,7 +57,7 @@ Urban America Revisited
 
 ----
 
-Uuid: ziQ8gbkJvRkqED2d
+Uuid: 02pqy2N3tFExqcjA
 
 ----
 

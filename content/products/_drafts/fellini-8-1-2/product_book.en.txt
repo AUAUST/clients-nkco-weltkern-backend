@@ -9,16 +9,11 @@ weight: 1
 author:
   name: Idpure Editions
   id: 109
-description: |
-  <p>The main subject of <em>Fellini 8 1/2</em> is the film that Guido Anselmi, a director played by Marcello Mastroianni, is trying to make.<br />
-  <br />
-  The director, tired and depressed, is in the grip of doubts and confusion. Around him, the actors ask for their dialogues, the journalists ask questions, the production is worried. A scatterbrained mistress, a bitter wife, a critical writer, an evanescent muse, questioning friends and doubtful priests complete the picture.<br />
-  <br />
-  Of the film in the making, we know only the set, a gigantic aircraft built at great expense by the producer…</p>
+description: '<p>The main subject of <em>Fellini 8 1/2</em> is the film that Guido Anselmi, a director played by Marcello Mastroianni, is trying to make.<br /> <br /> The director, tired and depressed, is in the grip of doubts and confusion. Around him, the actors ask for their dialogues, the journalists ask questions, the production is worried. A scatterbrained mistress, a bitter wife, a critical writer, an evanescent muse, questioning friends and doubtful priests complete the picture.<br /> <br /> Of the film in the making, we know only the set, a gigantic aircraft built at great expense by the producer...</p>'
 details: |
   ISBN: "2970070221 / 978-2970070221"
   Content: "168 pages"
-  Size: "210 × 18 × 250 mm"
+  Size: "210 × 18 ×? 250 mm"
   Edited by: "IDPURE"
   Language: "English"
   Publishing date: "2011"
@@ -61,7 +56,7 @@ Multilinetitle: Fellini 8 1/2
 
 ----
 
-Uuid: doqtHxX9nKLEQLhD
+Uuid: rUZQHsnz5NrsqbFV
 
 ----
 

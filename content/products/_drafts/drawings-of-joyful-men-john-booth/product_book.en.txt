@@ -9,14 +9,11 @@ weight: 1
 author:
   name: Hato Press
   id: 330
-description: |
-  <p>Drawings of Joyful Men is the first artist’s book by John Booth. Presented as a series of his distinctive drawings and portraits explored through the medium of Risograph printing.</p>
-  <p>Working from HATO studio, each portrait is accompanied by a direct response John created, which pays homage to the various marks and patterns that characterise his work. </p>
+description: '<p>Drawings of Joyful Men is the first artist’s book by John Booth. Presented as a series of his distinctive drawings and portraits explored through the medium of Risograph printing.</p> <p>Working from HATO studio, each portrait is accompanied by a direct response John created, which pays homage to the various marks and patterns that characterise his work. </p>'
 details: |
   ISBN: "1910239414 / 978-1910239414"
   Content: "42 pages"
-  Size: "192 × 281 mm
-  
+  Size: "192 × 281 mm "
   Language: "English"
   Specs: "Paperback with dust jacket"
   Images: "© WELTKERN® / Hato Press. All rights reserved."
@@ -40,7 +37,7 @@ John Booth
 
 ----
 
-Uuid: BGxtncgUPt5nIwlc
+Uuid: QK7irm55mk2C6ZbZ
 
 ----
 

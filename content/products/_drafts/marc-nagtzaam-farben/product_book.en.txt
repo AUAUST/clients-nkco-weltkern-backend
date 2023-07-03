@@ -3,8 +3,7 @@ Oldweltkern:
 title: 'Marc Nagtzaam <br>Farben'
 slug: marc-nagtzaam-farben
 id: 17816
-isbn: |
-  9464460056 / 978-9464460056
+isbn: '9464460056 / 978-9464460056 '
 price: 53.9
 weight: 2.1
 author:
@@ -12,11 +11,9 @@ author:
   id: 268
 description: '<p>Marc Nagtzaam’s artistic practice is based on a single theme: the idea of pattern and repetition. He draws lines, grids, circles, and words or sentences in an endless search, as if collecting pieces of information. The repetition and graphic structure is particularly reminiscent of minimal or conceptual aesthetics. His source material is reduced through basic, elementary means, wherein dots, lines, and flat surfaces construct a sort of structure. Although a large number of his drawings consist of colourless surfaces, darkly filled with graphite, ‘Farben’ is true to its name and presents a series of works in colour.</p>'
 details: |
-  ISBN: "9464460056 / 978-9464460056
-  
+  ISBN: "9464460056 / 978-9464460056 "
   Content: "96 pages"
-  Size: "210 × 290 mm
-  
+  Size: "210 × 290 mm "
   Language: "English"
   Specs: "Paperback"
   Images: "© WELTKERN® / Roma Publications. All rights reserved."
@@ -36,7 +33,7 @@ Farben
 
 ----
 
-Uuid: JG8nQt23Iy29TgTi
+Uuid: nLkE0a6WjezfhZzW
 
 ----
 

@@ -13,7 +13,7 @@ description: '<p><em>KALEIDOSCOPE</em> is today’s most innovative magazine of 
 details: |
   ISBN: "2000000005874"
   Content: "272 pages"
-  Size: "220 × 12 × 280 mm"
+  Size: "220 × 12 ×? 280 mm"
   Design: "Bureau Borsche"
   Language: "English"
   Publishing date: "2017"
@@ -55,7 +55,7 @@ Spring 2017
 
 ----
 
-Uuid: vhTRau4wYFRuDJup
+Uuid: WmW8rAlxFUkJISNV
 
 ----
 

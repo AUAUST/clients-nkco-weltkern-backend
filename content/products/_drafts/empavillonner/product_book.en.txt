@@ -16,8 +16,7 @@ details: |
   Size: "110 × 180 mm"
   Language: "French"
   Edited by: "David Bihanic, Bernard Gabillon, Olivier Koettlitz, Jocelyn Le Creurer, Aurélien Maillard."
-  Texts by: "Jean-Christophe Arcos, David Bihanic, Pierre Bourdareau, Claire Brunet, Jérémie Elalouf, Bernard Gabillon, Catherine Geel, Pierre-Damien Huyghe, Richard Klein, Olivier Koettlitz, Jocelyn Le Creurer, Salvator-John Liotta, Pierre Litzler, Philippe Louguet, Fabienne Louyot, Aurélien Maillard, Philippe Rahm, Philippe Rizzotti, Didier Vivien.
-  
+  Texts by: "Jean-Christophe Arcos, David Bihanic, Pierre Bourdareau, Claire Brunet, Jérémie Elalouf, Bernard Gabillon, Catherine Geel, Pierre-Damien Huyghe, Richard Klein, Olivier Koettlitz, Jocelyn Le Creurer, Salvator-John Liotta, Pierre Litzler, Philippe Louguet, Fabienne Louyot, Aurélien Maillard, Philippe Rahm, Philippe Rizzotti, Didier Vivien. "
   Graphic design: "David Bihanic"
   Publishing date: "2021"
   Specs: "Softcover"
@@ -47,7 +46,7 @@ Multilinetitle: Empavillonner
 
 ----
 
-Uuid: J1YGQHDe24Ps0c6l
+Uuid: jfABk4PV94rFEXJe
 
 ----
 

@@ -10,10 +10,7 @@ weight: 2
 author:
   name: Abrams Books
   id: 158
-description: |
-  <p><em>Apartamento</em> is widely recognized as today’s most influential interiors magazine. International, well-designed, and simply written since 2008, it is an indispensable resource for individuals who are passionate about the way they live. <em>Apartamento</em> breaks the traditional magazine boundaries that separate home design from homeowner, and offers readers a glimpse inside the lived-in, often cluttered homes of celebrities and industry legends such as REM frontman Michael Stipe and indie screen queen Chloë Sevigny.<br />
-  <br />
-  <em>The World of Apartamento</em> is a celebration of the magazine’s 10th anniversary and features the best and most inspirational interiors from the publication’s pages. Like the magazine itself, the book is a carefully developed editorial mix—high-quality writing and beautiful photography—that communicates genuine stories and intimate moments. With more than 300 photographs and an eclectic mix of subjects like François Halard, Yorgos Lanthimos, Ezra Koenig, Paz de la Huerta, and more, the book is an inspiring look at individual design choices.</p>
+description: '<p><em>Apartamento</em> is widely recognized as today’s most influential interiors magazine. International, well-designed, and simply written since 2008, it is an indispensable resource for individuals who are passionate about the way they live. <em>Apartamento</em> breaks the traditional magazine boundaries that separate home design from homeowner, and offers readers a glimpse inside the lived-in, often cluttered homes of celebrities and industry legends such as REM frontman Michael Stipe and indie screen queen Chloë Sevigny.<br /> <br /> <em>The World of Apartamento</em> is a celebration of the magazine’s 10th anniversary and features the best and most inspirational interiors from the publication’s pages. Like the magazine itself, the book is a carefully developed editorial mix—high-quality writing and beautiful photography—that communicates genuine stories and intimate moments. With more than 300 photographs and an eclectic mix of subjects like François Halard, Yorgos Lanthimos, Ezra Koenig, Paz de la Huerta, and more, the book is an inspiring look at individual design choices.</p>'
 details: |
   ISBN: "1419728921 / 978-1419728921"
   Content: "304 pages"
@@ -56,7 +53,7 @@ Multilinetitle: The World of Apartamento
 
 ----
 
-Uuid: ufaXqLikKXA1NA8u
+Uuid: 4pPO1PbR2wBrDsVp
 
 ----
 

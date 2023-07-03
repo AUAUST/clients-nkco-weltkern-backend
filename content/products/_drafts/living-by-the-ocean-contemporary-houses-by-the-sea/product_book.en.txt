@@ -10,9 +10,7 @@ weight: 2
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>An exhilarating collection of today’s most remarkable homes built in awe-inspiring coastal locations around the world</p>
-  <p>White-sand beaches, jaw-droppingly sheer cliff faces, and secret coves are just some of the stunning sites of the architect-designed contemporary houses featured in this celebration of incredible residences that exist in harmony with the extraordinary power of the ocean. With such unique residences as light-houses, homes built into rocky clifftops, and even rooms that are totally underwater, this inspirational collection includes spectacular homes across the globe including prime examples in countries across 6 continents, from Australia, Canada, Chile, Fiji, Japan, Mexico, New Zealand, Sweden, Tanzania, Thailand, to the UK and USA. In glorious color with dazzling images throughout, this book brings together the finest examples of residential coastal architecture from 47 of the world’s most  revered architects, such as Elemental,  Ryue Nishizawa, Pezo von Ellrichshausen, and Fearon Hay as well as a host of lesser-known creative studios. Each home featured is showcased by glorious exterior and interior photography, and each shares a profound connection to the raw and thrilling beauty of the sea and the shore line around it.</p>
+description: '<p>An exhilarating collection of today’s most remarkable homes built in awe-inspiring coastal locations around the world</p> <p>White-sand beaches, jaw-droppingly sheer cliff faces, and secret coves are just some of the stunning sites of the architect-designed contemporary houses featured in this celebration of incredible residences that exist in harmony with the extraordinary power of the ocean. With such unique residences as light-houses, homes built into rocky clifftops, and even rooms that are totally underwater, this inspirational collection includes spectacular homes across the globe including prime examples in countries across 6 continents, from Australia, Canada, Chile, Fiji, Japan, Mexico, New Zealand, Sweden, Tanzania, Thailand, to the UK and USA. In glorious color with dazzling images throughout, this book brings together the finest examples of residential coastal architecture from 47 of the world’s most revered architects, such as Elemental, Ryue Nishizawa, Pezo von Ellrichshausen, and Fearon Hay as well as a host of lesser-known creative studios. Each home featured is showcased by glorious exterior and interior photography, and each shares a profound connection to the raw and thrilling beauty of the sea and the shore line around it.</p>'
 details: |
   ISBN: "1838663274 / 978-1838663278"
   Content: "256 pages"
@@ -37,7 +35,7 @@ Contemporary Houses by the Sea
 
 ----
 
-Uuid: e1on2pKFl8U5hxBg
+Uuid: a0vuksqbomGJOzgS
 
 ----
 

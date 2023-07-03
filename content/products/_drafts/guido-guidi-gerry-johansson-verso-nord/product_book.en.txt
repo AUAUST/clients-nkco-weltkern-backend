@@ -9,10 +9,7 @@ weight: 1.3
 author:
   name: Hartmann Books
   id: 309
-description: |
-  <p>In 2019, Guido Guidi and Gerry Johansson – two of the great masters of analog photography in the 20/21st century– took part in the „Verso Nord“ photography campaign, which was organized as part of the P=S+N project in Castelfranco, Veneto and the surrounding area. While Guidi focussed his attention on the historic centre of this small town, concentrating on architectural material in order to capture in detail, the layers of history and time, Johansson moved around the area of urban spread, assessing through photography the cultural imagination of northeastern Italy, where architecture and nature, residential buildings and space become special witnesses of a casual landscape, one with uncertain, mysterious features. Guido Guidi, by shifting his point of view – obtained through the use of a large format (8×10”) camera – identifies a tool for verifying reality, raising new questions about photography and its inherent codes. Gerry Johansson e×tracts the substance of the places he encounters through traditional black-and-white photography. He aims at recomposing the fragments of a public imagination composed of micro-landscapes, poised ambiguously between estrangement and objectivity.<br />
-  <br />
-  In terms of editing, design, colour separation, choice of materials, printing and bookbinding we think this book is a graphic „Gesamtkunstwerk made in Veneto, Italy”. It was created in close cooperation with the photographers, the designer, the editors and one of the many outstanding local graphic companies not far from Castelfranco (Grafiche Antiga).</p>
+description: '<p>In 2019, Guido Guidi and Gerry Johansson – two of the great masters of analog photography in the 20/21st century– took part in the „Verso Nord“ photography campaign, which was organized as part of the P=S+N project in Castelfranco, Veneto and the surrounding area. While Guidi focussed his attention on the historic centre of this small town, concentrating on architectural material in order to capture in detail, the layers of history and time, Johansson moved around the area of urban spread, assessing through photography the cultural imagination of northeastern Italy, where architecture and nature, residential buildings and space become special witnesses of a casual landscape, one with uncertain, mysterious features. Guido Guidi, by shifting his point of view – obtained through the use of a large format (8×10”) camera – identifies a tool for verifying reality, raising new questions about photography and its inherent codes. Gerry Johansson e×tracts the substance of the places he encounters through traditional black-and-white photography. He aims at recomposing the fragments of a public imagination composed of micro-landscapes, poised ambiguously between estrangement and objectivity.<br /> <br /> In terms of editing, design, colour separation, choice of materials, printing and bookbinding we think this book is a graphic „Gesamtkunstwerk made in Veneto, Italy”. It was created in close cooperation with the photographers, the designer, the editors and one of the many outstanding local graphic companies not far from Castelfranco (Grafiche Antiga).</p>'
 details: |
   ISBN: "3960700806 / 978-3960700807"
   Content: "96 pages"
@@ -41,7 +38,7 @@ Verso Nord
 
 ----
 
-Uuid: E5uq0dAIxUlE2D4R
+Uuid: KIvc63aia1YVaXTF
 
 ----
 

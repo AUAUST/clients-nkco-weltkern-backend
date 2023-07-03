@@ -9,9 +9,7 @@ weight: 0.5
 author:
   name: Edition Taube
   id: 272
-description: |
-  <p>This artist’ book is a polyphonic canon dedicated to a topic that is inescapable for us as humans: mortality. The texts are both academic and poetic, written by authors from various disciplines (art history, philosophy, fine art, and the performing arts) in the style of their choice. The contributions oscillate between an acceptance and rejection of impending death (whether near or far). In this context, the perspective varies depending on whether the subject is one’s own death or the death of another person. The reflections range from thoughts related to personal experience to essays and texts that broaden the genre of the (un-)representability of dying within literature and visual art. The invited authors take up Anna Gohmert’s initial prompt to engage with the range of topics around dying, and each has, in their own way, expanded on it in their contribution.</p>
-  <p>With contributions by Serena Ferrario, Anna-Elisabeth Frick, Anna Gohmert, Daniel Hopp, Sophie Hutter, Charlotte Klink, Valentin Leuschel, Anna-Kirstine Linke, Katharina Pethke, Milosz Paul Rosinski, Anne Greta Weber</p>
+description: '<p>This artist’ book is a polyphonic canon dedicated to a topic that is inescapable for us as humans: mortality. The texts are both academic and poetic, written by authors from various disciplines (art history, philosophy, fine art, and the performing arts) in the style of their choice. The contributions oscillate between an acceptance and rejection of impending death (whether near or far). In this context, the perspective varies depending on whether the subject is one’s own death or the death of another person. The reflections range from thoughts related to personal experience to essays and texts that broaden the genre of the (un-)representability of dying within literature and visual art. The invited authors take up Anna Gohmert’s initial prompt to engage with the range of topics around dying, and each has, in their own way, expanded on it in their contribution.</p> <p>With contributions by Serena Ferrario, Anna-Elisabeth Frick, Anna Gohmert, Daniel Hopp, Sophie Hutter, Charlotte Klink, Valentin Leuschel, Anna-Kirstine Linke, Katharina Pethke, Milosz Paul Rosinski, Anne Greta Weber</p>'
 details: |
   ISBN: "3945900819 / 978-3945900819"
   Content: "336 Pages"
@@ -38,7 +36,7 @@ Learning to Die
 
 ----
 
-Uuid: s8vtJMynyEsUtuKT
+Uuid: ws4Mf12nJMWcBLFq
 
 ----
 

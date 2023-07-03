@@ -10,12 +10,7 @@ weight: 0.8
 author:
   name: Verlag Kettler
   id: 225
-description: |
-  <p>Every year the association 100 Beste Plakate e. V. presents awards to honour the most innovative and trendsetting poster designs from Germany, Austria, and Switzerland. The yearbook has fast become the go-to source for graphic artists, designers, and advertisers. Even today, the traditional printed poster is still regarded as the ultimate challenge in the graphic arts.<br />
-  <br />
-  The 2019 yearbook focuses on how designs can be described verbally. What is the relationship between language and image? How can visual codes and phenomena or trends be captured in words? Thirty designers, curators, artists, architects, and theorists were invited to join the project and to describe the selected posters. The purpose of this exercise was not to come up with a standard jury statement, but to point out ways of interacting personally with the poster: either by offering an objective description or by delivering a subjective critique in the form of an essay.<br />
-  <br />
-  Florian Lamm and Jakob Kirch, who created this year&#8217;s book, have translated this conceptual task into their design by dividing the catalogue into two parts. While the 30 text contributions have been united in a booklet, a separate image section presents the corresponding posters.</p>
+description: '<p>Every year the association 100 Beste Plakate e. V. presents awards to honour the most innovative and trendsetting poster designs from Germany, Austria, and Switzerland. The yearbook has fast become the go-to source for graphic artists, designers, and advertisers. Even today, the traditional printed poster is still regarded as the ultimate challenge in the graphic arts.<br /> <br /> The 2019 yearbook focuses on how designs can be described verbally. What is the relationship between language and image? How can visual codes and phenomena or trends be captured in words? Thirty designers, curators, artists, architects, and theorists were invited to join the project and to describe the selected posters. The purpose of this exercise was not to come up with a standard jury statement, but to point out ways of interacting personally with the poster: either by offering an objective description or by delivering a subjective critique in the form of an essay.<br /> <br /> Florian Lamm and Jakob Kirch, who created this year&#8217;s book, have translated this conceptual task into their design by dividing the catalogue into two parts. While the 30 text contributions have been united in a booklet, a separate image section presents the corresponding posters.</p>'
 details: |
   ISBN: "3862068258 / 978-3862068258"
   Content: "332 pages"
@@ -66,7 +61,7 @@ Germany – Austria – Switzerland
 
 ----
 
-Uuid: G4DTAM8cmNwlrMBl
+Uuid: ifWdVinjx1QRARQQ
 
 ----
 

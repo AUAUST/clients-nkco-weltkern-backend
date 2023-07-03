@@ -9,14 +9,11 @@ weight: 0.2
 author:
   name: Onomatopee
   id: 319
-description: |
-  <p>Graphics have a way of living that is often awkward and unplanned. We see it when they are ripped from walls, littered on streets and faded in shop windows. We wouldn’t say they are that way by design, however this everyday difference between graphics and their designs is underimagined in critical discourses. Graphic Events intensifies this difference in a montage of original essays and interviews that coax graphics into unfamiliar dialogues.</p>
-  <p>Edited by James Dyer and Nick Deakin. Foreword by Alex Coles.With contributions from James Williams, Patrick Thomas, Fraser Muggeridge, DR.ME, Textbook Studio and Teal Triggs. Postscript by Johanna Drucker.</p>
+description: '<p>Graphics have a way of living that is often awkward and unplanned. We see it when they are ripped from walls, littered on streets and faded in shop windows. We wouldn’t say they are that way by design, however this everyday difference between graphics and their designs is underimagined in critical discourses. Graphic Events intensifies this difference in a montage of original essays and interviews that coax graphics into unfamiliar dialogues.</p> <p>Edited by James Dyer and Nick Deakin. Foreword by Alex Coles.With contributions from James Williams, Patrick Thomas, Fraser Muggeridge, DR.ME, Textbook Studio and Teal Triggs. Postscript by Johanna Drucker.</p>'
 details: |
   ISBN: "9493148666 / 978-9493148666"
   Content: "220 pages"
-  Size: "111 × 181 mm
-  
+  Size: "111 × 181 mm "
   Language: "English "
   Edited by: "Nick Deakin, James Dyer"
   Graphic design: "Nick Deakin, James Dyer"
@@ -39,7 +36,7 @@ A Realist Account of Graphic Design
 
 ----
 
-Uuid: RJTsRu4oFKLm9I2M
+Uuid: aOiVb6AhPk9su26p
 
 ----
 

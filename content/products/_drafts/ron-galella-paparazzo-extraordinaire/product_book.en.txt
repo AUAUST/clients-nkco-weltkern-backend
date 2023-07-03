@@ -9,10 +9,7 @@ weight: 0.7
 author:
   name: Hatje Cantz Verlag
   id: 207
-description: |
-  <p>Ron Galella (*1931) moved to Los Angeles in his early twenties, where he trained as a photojournalist. In his free time he took pictures of the stars arriving at film premieres, selling them to the National Enquirer and Fotoplay.</p>
-  <p>His photos are snapshots rather than portraits – spontaneous, not staged, and extraordinarily authentic. Whether Jacqueline Kennedy, Marlon Brando, Greta Garbo, Andy Warhol, Sean Penn, Robert Redford, Muhammad Ali, Madonna, Mick Jagger, or Audrey Hepburn – Galella managed to get them all in front of his lens. In addition to physical assaults, his photographic approach also caused him to be sued—he had to promise Jacqueline Kennedy not to take another picture of her again as long as he lived. Andy Warhol, on the other hand, adored him, and Elizabeth Taylor used his images in her biography.</p>
-  <p>In addition to his spontaneous paparazzi photographs, Galella also took staged pictures, commissioned by magazines such as Time, Rolling Stone, Vogue or Vanity Fair. The publication presents more than one hundred of his astounding photos.</p>
+description: '<p>Ron Galella (*1931) moved to Los Angeles in his early twenties, where he trained as a photojournalist. In his free time he took pictures of the stars arriving at film premieres, selling them to the National Enquirer and Fotoplay.</p> <p>His photos are snapshots rather than portraits – spontaneous, not staged, and extraordinarily authentic. Whether Jacqueline Kennedy, Marlon Brando, Greta Garbo, Andy Warhol, Sean Penn, Robert Redford, Muhammad Ali, Madonna, Mick Jagger, or Audrey Hepburn – Galella managed to get them all in front of his lens. In addition to physical assaults, his photographic approach also caused him to be sued—he had to promise Jacqueline Kennedy not to take another picture of her again as long as he lived. Andy Warhol, on the other hand, adored him, and Elizabeth Taylor used his images in her biography.</p> <p>In addition to his spontaneous paparazzi photographs, Galella also took staged pictures, commissioned by magazines such as Time, Rolling Stone, Vogue or Vanity Fair. The publication presents more than one hundred of his astounding photos.</p>'
 details: |
   ISBN: "3775733243 / 978-3775733243"
   Content: "200 pages"
@@ -38,7 +35,7 @@ Paparazzo Extraordinaire
 
 ----
 
-Uuid: PvPNZ0X885L2y7pI
+Uuid: jZuYt0T4N5IRkaNn
 
 ----
 

@@ -10,10 +10,7 @@ weight: 0.5
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>What role does mathematical formalization play in our understanding of knowledge and science, and how does it influence our conceptions of the unknown, of the unconscious as well as of the non-conscious? What is the relationship between the monopolization of calculable rationality and the increasing computerization of our Lebenswelt? And, last but not least, when reality is translated into symbols, what resistance does this process encounter? In five chapters on the infinite fold of the world, the operationalization of writing, the metamathematical and metaphorical framings of mathematics, the topologies of the unconscious, and the aporias of technical life, the book unfolds a minor history of formalization expressed from the point of view of its limits. The focus is on symbolic and mathematical knowledge and its material, technological, and media-based foundations.</p>
-  <p>Dr Michael Friedman is a historian of mathematics and works at the Cluster of Excellence ”Matters of Activity,“ Humboldt University of Berlin. His most recent publication is A History of Folding in Mathematics (Basel 2018).</p>
-  <p>Dr Angelika Seppi is a research associate at Humboldt University of Berlin and the Bauhaus Universität Weimar. She carries out research at the interface of philosophy, media studies, art and visual history.</p>
+description: '<p>What role does mathematical formalization play in our understanding of knowledge and science, and how does it influence our conceptions of the unknown, of the unconscious as well as of the non-conscious? What is the relationship between the monopolization of calculable rationality and the increasing computerization of our Lebenswelt? And, last but not least, when reality is translated into symbols, what resistance does this process encounter? In five chapters on the infinite fold of the world, the operationalization of writing, the metamathematical and metaphorical framings of mathematics, the topologies of the unconscious, and the aporias of technical life, the book unfolds a minor history of formalization expressed from the point of view of its limits. The focus is on symbolic and mathematical knowledge and its material, technological, and media-based foundations.</p> <p>Dr Michael Friedman is a historian of mathematics and works at the Cluster of Excellence ”Matters of Activity,“ Humboldt University of Berlin. His most recent publication is A History of Folding in Mathematics (Basel 2018).</p> <p>Dr Angelika Seppi is a research associate at Humboldt University of Berlin and the Bauhaus Universität Weimar. She carries out research at the interface of philosophy, media studies, art and visual history.</p>'
 details: |
   ISBN: "3959052757 / 978-3959052757"
   Content: "248 pages"
@@ -64,7 +61,7 @@ Von Leibniz bis Lacan
 
 ----
 
-Uuid: GK9WnuJ0n8p0BFlP
+Uuid: UUMhyvmXODLKAMBI
 
 ----
 

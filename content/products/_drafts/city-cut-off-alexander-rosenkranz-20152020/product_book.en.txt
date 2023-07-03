@@ -14,7 +14,7 @@ description: '<p>Berlin, Dakar, Detroit, Dubai, London, Moscow, New Delhi, New Y
 details: |
   ISBN: "3038601906 / 978-3038601906"
   Content: "190 pages"
-  Size: "297 × 20 × 420 mm"
+  Size: "297 × 20 ×? 420 mm"
   Author: "Alexander Rosenkranz"
   Texts by: "Ludovic Balland, Andy Rankin"
   Design: "Ludovic Balland"
@@ -58,7 +58,7 @@ Alexander Rosenkranz 2015–2020
 
 ----
 
-Uuid: qhQ3JQmsJVhwAQWx
+Uuid: ZhSvL6UlubdcRwnf
 
 ----
 

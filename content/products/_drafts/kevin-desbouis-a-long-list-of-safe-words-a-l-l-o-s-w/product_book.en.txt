@@ -10,11 +10,7 @@ weight: 0.15
 author:
   name: Tombolo Presses
   id: 282
-description: |
-  <p>A collection of texts, poems and stories that takes its name from the &#8220;safe words&#8221; used in BDSM sexualities.<br />
-  <br />
-  A Long List Of Safe Words (A.L.L.O.S.W) is the first book by artist and author Kevin Desbouis. It is a collection of texts, poems and stories, some of which have been scattered in the margins of various exhibitions or in a more intimate way in recent years. Its title is borrowed from an internet page dedicated to BDSM sexualities. In these practices, a safe word is a word that can be used during a sexual intercourse by one of the protagonists in order to signify his or her wish to put an end to it or to modify the course of it, thus allowing him or her to extract himself or herself from the submissive device in which he or she finds himself or herself.<br />
-  This book was published as part of the residency &#8220;Excellence of Crafts&#8221; conducted in 2019 by Kevin Desbouis at the Ecole Supérieure d&#8217;Arts Appliqués de Bourgogne (ESAAB Nevers).</p>
+description: '<p>A collection of texts, poems and stories that takes its name from the &#8220;safe words&#8221; used in BDSM sexualities.<br /> <br /> A Long List Of Safe Words (A.L.L.O.S.W) is the first book by artist and author Kevin Desbouis. It is a collection of texts, poems and stories, some of which have been scattered in the margins of various exhibitions or in a more intimate way in recent years. Its title is borrowed from an internet page dedicated to BDSM sexualities. In these practices, a safe word is a word that can be used during a sexual intercourse by one of the protagonists in order to signify his or her wish to put an end to it or to modify the course of it, thus allowing him or her to extract himself or herself from the submissive device in which he or she finds himself or herself.<br /> This book was published as part of the residency &#8220;Excellence of Crafts&#8221; conducted in 2019 by Kevin Desbouis at the Ecole Supérieure d&#8217;Arts Appliqués de Bourgogne (ESAAB Nevers).</p>'
 details: |
   ISBN: "1096155156 / 979-1096155156"
   Content: "120 pages"
@@ -41,7 +37,7 @@ A Long List Of Safe Words – (A.L.L.O.S.W)
 
 ----
 
-Uuid: iA0WHW1AJ937U3Ee
+Uuid: BBptFvEpIOcZkvES
 
 ----
 

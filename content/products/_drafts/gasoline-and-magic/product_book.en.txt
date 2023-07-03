@@ -9,10 +9,7 @@ weight: 1.9
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Everything about them is cool. The baby blue Porsche 917, the Chevy Camaro, the blue-, red- and yellow-striped overalls, the boys in low-buttoned shirts, sporting moustaches and a full head of hair, with the sunshine in their faces. Women wearing thick eyeliner and bell-bottoms, girls in crocheted bikinis at the finishing line, garlands of flowers for the winner. Motor sports in the 1960s, ’70s and ’80s gave rise to a whole world of imagery that arouses a certain wistfulness nowadays. Not only a nostalgia for beautiful old racing cars, but a more comprehensive yearning for the days when even major auto races were still held on ordinary roads, when ambitious auto mechanics would tinker away at a racing car in the local garage and international Grand Prix stars were still approachable. Gilles Villeneuve pushes a strand of hair behind his ear, Pedro Rodriguez rests up on a little stone wall, Jo Siffert stands around in white jeans and cowboy boots, Ayrton Senna is absorbed in thought. The cars race through Monaco and Le Mans and over the hills of Palermo.<br />
-  <br />
-  Most of the pictures in <em>Gasoline and Magic</em>, often impressive and quasi intimate shots, were taken by amateur photographers, who now share with us their fascination with fast cars. Swiss filmmaker and collector Thomas Horat spent years tracking down, labeling and archiving these pictures, which he now presents for the first time to the world at large in <em>Gasoline and Magic</em> – and at the show &#8220;VROOOOAAAMMM&#8221; at the Museum im Bellpark in Kriens, Switzerland (August 22 – November 8, 2015). </p>
+description: '<p>Everything about them is cool. The baby blue Porsche 917, the Chevy Camaro, the blue-, red- and yellow-striped overalls, the boys in low-buttoned shirts, sporting moustaches and a full head of hair, with the sunshine in their faces. Women wearing thick eyeliner and bell-bottoms, girls in crocheted bikinis at the finishing line, garlands of flowers for the winner. Motor sports in the 1960s, ’70s and ’80s gave rise to a whole world of imagery that arouses a certain wistfulness nowadays. Not only a nostalgia for beautiful old racing cars, but a more comprehensive yearning for the days when even major auto races were still held on ordinary roads, when ambitious auto mechanics would tinker away at a racing car in the local garage and international Grand Prix stars were still approachable. Gilles Villeneuve pushes a strand of hair behind his ear, Pedro Rodriguez rests up on a little stone wall, Jo Siffert stands around in white jeans and cowboy boots, Ayrton Senna is absorbed in thought. The cars race through Monaco and Le Mans and over the hills of Palermo.<br /> <br /> Most of the pictures in <em>Gasoline and Magic</em>, often impressive and quasi intimate shots, were taken by amateur photographers, who now share with us their fascination with fast cars. Swiss filmmaker and collector Thomas Horat spent years tracking down, labeling and archiving these pictures, which he now presents for the first time to the world at large in <em>Gasoline and Magic</em> – and at the show &#8220;VROOOOAAAMMM&#8221; at the Museum im Bellpark in Kriens, Switzerland (August 22 – November 8, 2015). </p>'
 details: |
   ISBN: "3905929880 / 978-3905929881"
   Content: "288 pages"
@@ -53,7 +50,7 @@ Multilinetitle: Gasoline and Magic
 
 ----
 
-Uuid: Av0Te3MpNyDFGcnK
+Uuid: zMXj8CnttkHt0IPJ
 
 ----
 

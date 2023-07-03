@@ -9,12 +9,7 @@ weight: 1.5
 author:
   name: 'Scheidegger &amp; Spiess'
   id: 89
-description: |
-  <p>In summer 2017, celebrated Swiss architect Peter Zumthor curated the exhibition Dear to Me at the Kunsthaus Bregenz, marking the twentieth anniversary of one of his most famous designs. Part of the program were conversations with philosophers, curators, historians, composers, writers, photographers, collectors, and craftsmen that Zumthor had invited to contribute to the exhibition. His dialogues with them o­ffer insights into the thoughts and practice of fascinating personalities. Together with his counterparts, he explores artistic preferences and practices, reasonings, as well as practical knowledge from artisanal experience. Always charming and aff­ectionate, he follows up persistently, and with gentle determination takes his guests on mutual intellectual strolls.<br />
-  <br />
-  In Dear to Me, Zumthor’s equally serious and serene conversations with Anita with Anita Albus, Aleida Assmann, Marcel Beyer, Hélène Binet, Hannes Böhringer, Renate Breuss, Claudia Comte, Bice Curiger, Esther Kinsky, Ralf Konersmann, Walter Lietha, Olga Neuwirth, Rebecca Saunders, Karl Schlögel, Martin Seel, Rudolf Walli, and Wim Wenders are collected in seventeen booklets held together in an exquisitely manufactured box. An eighteenth complementary booklet documents the Dear to Me exhibition in Bregenz through concise texts and images.<br />
-  <br />
-  Peter Zumthor works with his Atelier of around thirty people in the alpine setting of Haldenstein, Switzerland, producing architectural originals like Kunsthaus Bregenz, Therme Vals, Museum Kolumba Köln, the Steilneset Memorial in Vardø, and currently the new building for the Los Angeles Museum of Art (LACMA).</p>
+description: '<p>In summer 2017, celebrated Swiss architect Peter Zumthor curated the exhibition Dear to Me at the Kunsthaus Bregenz, marking the twentieth anniversary of one of his most famous designs. Part of the program were conversations with philosophers, curators, historians, composers, writers, photographers, collectors, and craftsmen that Zumthor had invited to contribute to the exhibition. His dialogues with them o­ffer insights into the thoughts and practice of fascinating personalities. Together with his counterparts, he explores artistic preferences and practices, reasonings, as well as practical knowledge from artisanal experience. Always charming and aff­ectionate, he follows up persistently, and with gentle determination takes his guests on mutual intellectual strolls.<br /> <br /> In Dear to Me, Zumthor’s equally serious and serene conversations with Anita with Anita Albus, Aleida Assmann, Marcel Beyer, Hélène Binet, Hannes Böhringer, Renate Breuss, Claudia Comte, Bice Curiger, Esther Kinsky, Ralf Konersmann, Walter Lietha, Olga Neuwirth, Rebecca Saunders, Karl Schlögel, Martin Seel, Rudolf Walli, and Wim Wenders are collected in seventeen booklets held together in an exquisitely manufactured box. An eighteenth complementary booklet documents the Dear to Me exhibition in Bregenz through concise texts and images.<br /> <br /> Peter Zumthor works with his Atelier of around thirty people in the alpine setting of Haldenstein, Switzerland, producing architectural originals like Kunsthaus Bregenz, Therme Vals, Museum Kolumba Köln, the Steilneset Memorial in Vardø, and currently the new building for the Los Angeles Museum of Art (LACMA).</p>'
 details: |
   ISBN: "3039420100 / 978-3039420100"
   Content: "444 pages"
@@ -67,7 +62,7 @@ Peter Zumthor in Conversation
 
 ----
 
-Uuid: ZZ0H67k5jgpoLFWz
+Uuid: qCfEm4IuExT0Kmcq
 
 ----
 

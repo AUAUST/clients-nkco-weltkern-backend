@@ -13,8 +13,7 @@ description: '<p>In the 17th century the citizens of Oberammergau, Bavaria, made
 details: |
   ISBN: "9492051813 / 978-9492051813"
   Content: "148 pages"
-  Size: "160 × 220 mm
-  
+  Size: "160 × 220 mm "
   Language: "English"
   Specs: "Hardcover"
   Images: "© WELTKERN® / The Eriskay Connection. All rights reserved."
@@ -34,7 +33,7 @@ Passion Play
 
 ----
 
-Uuid: NvOIhLIV6x2exvNe
+Uuid: NDVcMT4YaKhFkIj6
 
 ----
 

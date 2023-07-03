@@ -10,13 +10,7 @@ weight: 0.7
 author:
   name: Cosa Mentale
   id: 87
-description: |
-  <p>Au cours de l&#8217;histoire humaine, la bibliothèque, l&#8217;archive et le musée ont incarné la connaissance, l&#8217;information et la culture collective, à un point tel qu&#8217;il est possible de confronter des systèmes d&#8217;organisation de l&#8217;information avec des typologies spatiales et architecturales.<br />
-  <br />
-  La publication, conçue à l&#8217;occasion de l&#8217;exposition chez Archizoom (EPFL), plonge dans la relation entre la culture architecturale et numérique au-delà de la pure rhétorique du digital turn et du numérique considéré comme style architectural.<br />
-  L&#8217;hypothèse est que les notions de « base de données », de « réseau » et d&#8217;« interface » – courantes dans le domaine des technologies de l&#8217;information – pourraient être mises en relation avec des problématiques architecturales d&#8217;ordre formel, compositionnel, ou symbolique, dont les arrangements spatiaux, les plans ou les façades en sont l&#8217;expression.<br />
-  <br />
-  En ce sens, la publication présente une sélection d&#8217;études de cas soulignant les liens possibles entre les projets culturels numériques et non numériques et leurs homologues architecturaux.</p>
+description: '<p>Au cours de l&#8217;histoire humaine, la bibliothèque, l&#8217;archive et le musée ont incarné la connaissance, l&#8217;information et la culture collective, ? un point tel qu&#8217;il est possible de confronter des systèmes d&#8217;organisation de l&#8217;information avec des typologies spatiales et architecturales.<br /> <br /> La publication, conçue ? l&#8217;occasion de l&#8217;exposition chez Archizoom (EPFL), plonge dans la relation entre la culture architecturale et numérique au-del? de la pure rhétorique du digital turn et du numérique considéré comme style architectural.<br /> L&#8217;hypothèse est que les notions de « base de données », de « réseau » et d&#8217;« interface » – courantes dans le domaine des technologies de l&#8217;information – pourraient être mises en relation avec des problématiques architecturales d&#8217;ordre formel, compositionnel, ou symbolique, dont les arrangements spatiaux, les plans ou les façades en sont l&#8217;expression.<br /> <br /> En ce sens, la publication présente une sélection d&#8217;études de cas soulignant les liens possibles entre les projets culturels numériques et non numériques et leurs homologues architecturaux.</p>'
 details: |
   ISBN: "2493283009 / 978-2493283009"
   Content: "176 Pages"
@@ -42,7 +36,7 @@ Database Network Interface
 
 ----
 
-Uuid: 5zO4k8DlrfOfZ7Wt
+Uuid: GhbFck853OTZ1AuS
 
 ----
 

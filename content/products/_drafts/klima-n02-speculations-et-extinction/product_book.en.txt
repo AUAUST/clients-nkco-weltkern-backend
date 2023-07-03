@@ -9,13 +9,7 @@ weight: 0.9
 author:
   name: Klima
   id: 119
-description: |
-  <p>Klima gives voice to conscious, creative and singular individuals in order to reflect an era and its questionings, while revealing the multidisciplinarity of the artistic, activist and academic communities.<br />
-  <br />
-  Klima is an annual print magazine. Each issue proposes a collective reflection based on an article written by an academic, for a curious and informed public. We wish to bring together in the same space different disciplines, insisting on their transversal aspects. Thus, meetings and artistic proposals are articulated in a rhizomic way around the main article. Each production freely interprets the problems inherent to this research work, all in the form of a beautiful literary object.<br />
-  <br />
-  Aware of the political urgency of our time, Klima intends to inscribe itself in the current cultural climate by questioning its stakes and its new forms of utopias, by taking research and art as spaces of deliberation of the contemporary itself. Klima aspires to be a new breath.</p>
-  <p>Klima publishes topics and articles that touch on contemporary art, art history, art criticism, sociology, anthropology, visual studies, gender studies, postcolonial studies, etc.</p>
+description: '<p>Klima gives voice to conscious, creative and singular individuals in order to reflect an era and its questionings, while revealing the multidisciplinarity of the artistic, activist and academic communities.<br /> <br /> Klima is an annual print magazine. Each issue proposes a collective reflection based on an article written by an academic, for a curious and informed public. We wish to bring together in the same space different disciplines, insisting on their transversal aspects. Thus, meetings and artistic proposals are articulated in a rhizomic way around the main article. Each production freely interprets the problems inherent to this research work, all in the form of a beautiful literary object.<br /> <br /> Aware of the political urgency of our time, Klima intends to inscribe itself in the current cultural climate by questioning its stakes and its new forms of utopias, by taking research and art as spaces of deliberation of the contemporary itself. Klima aspires to be a new breath.</p> <p>Klima publishes topics and articles that touch on contemporary art, art history, art criticism, sociology, anthropology, visual studies, gender studies, postcolonial studies, etc.</p>'
 details: |
   ISBN: "0012095017 / 377-0012095017"
   Content: "238 pages"
@@ -71,7 +65,7 @@ Spéculations et extinction
 
 ----
 
-Uuid: BSPCvvAmS99MI462
+Uuid: rW0iww9V24JfOTwQ
 
 ----
 

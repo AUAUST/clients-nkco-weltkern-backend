@@ -9,14 +9,7 @@ weight: 1
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>Originally published in 1981 by Ugly Publishing Zurich—Giger’s own fictional publishing house—this rare artist book is now republished by KALEIDOSCOPE on the occasion of the “HRGNYC” exhibition at Lomex Gallery, New York.<br />
-  <br />
-  Collecting memories from the artist’s various trips to New York City, the book features large-format images of the iconic series of 28 paintings he created as a homage to the city he was utterly fascinated with since his childhood. His vision of the city—a habitat of monolithic mazes of heavy machinery interlaced with oversized metallic cockroaches and deep-burrowing subway cars—is juxtaposed with illustrations, personal reflections, press clippings, and the diary of his Hollywood trip in 1979 for Alien’s Oscar win. With a preface by Timothy Leary.<br />
-  <br />
-  As Giger writes to describe the genesis of the “N.Y. City Series,” “New York itself has been a constant presence throughout the project. Memories keep floating up of this magical city whether I’m actually painting or not. And I keep trying to get a handle on this abyss, the soulless machine they call ‘New York City,’ and to articulate my own reactions and perceptions in the composition.”<br />
-  <br />
-  Hans Ruedi Giger (1940–2014) was a Swiss surrealist painter, sculptor, and set designer known for his biomechanical creatures, extraterrestrial landscapes, and disturbing sexual machines. In a career that spanned more than five decades, he employed a staggering variety of media, including furniture, movie props, prints, paintings and sculptures, often creating exhibition displays and total environments with the immersive quality of a wunderkammer—including, most notably, the HR Giger Museum in Gruyères. In 1979, his concept design for Ridley Scott’s Alien (1979) won an Academy Award for Best Achievement in Visual Effects and catapulted to fame his daunting vision of death and futurism.</p>
+description: '<p>Originally published in 1981 by Ugly Publishing Zurich—Giger’s own fictional publishing house—this rare artist book is now republished by KALEIDOSCOPE on the occasion of the “HRGNYC” exhibition at Lomex Gallery, New York.<br /> <br /> Collecting memories from the artist’s various trips to New York City, the book features large-format images of the iconic series of 28 paintings he created as a homage to the city he was utterly fascinated with since his childhood. His vision of the city—a habitat of monolithic mazes of heavy machinery interlaced with oversized metallic cockroaches and deep-burrowing subway cars—is juxtaposed with illustrations, personal reflections, press clippings, and the diary of his Hollywood trip in 1979 for Alien’s Oscar win. With a preface by Timothy Leary.<br /> <br /> As Giger writes to describe the genesis of the “N.Y. City Series,” “New York itself has been a constant presence throughout the project. Memories keep floating up of this magical city whether I’m actually painting or not. And I keep trying to get a handle on this abyss, the soulless machine they call ‘New York City,’ and to articulate my own reactions and perceptions in the composition.”<br /> <br /> Hans Ruedi Giger (1940–2014) was a Swiss surrealist painter, sculptor, and set designer known for his biomechanical creatures, extraterrestrial landscapes, and disturbing sexual machines. In a career that spanned more than five decades, he employed a staggering variety of media, including furniture, movie props, prints, paintings and sculptures, often creating exhibition displays and total environments with the immersive quality of a wunderkammer—including, most notably, the HR Giger Museum in Gruyères. In 1979, his concept design for Ridley Scott’s Alien (1979) won an Academy Award for Best Achievement in Visual Effects and catapulted to fame his daunting vision of death and futurism.</p>'
 details: |
   ISBN: "8897185161 / 978-8897185161"
   Content: "48 pages"
@@ -77,7 +70,7 @@ N.Y. City
 
 ----
 
-Uuid: 56il0SQ0dXp4a3Cp
+Uuid: fk8Kre5xCQLUBlKF
 
 ----
 

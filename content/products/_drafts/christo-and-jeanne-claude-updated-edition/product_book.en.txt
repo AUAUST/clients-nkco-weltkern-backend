@@ -14,8 +14,7 @@ description: '<p>Between biography, critical analysis and catalog, this updated 
 details: |
   ISBN: "3836566990 / 978-3836566995"
   Content: "616 pages"
-  Size: "365 × 75 × 415 mm
-  
+  Size: "365 × 75 × 415 mm "
   Authors: "Paul Goldberger, Wolfgang Volz, Christo and Jeanne-Claude"
   Language: "English / French / German"
   Publishing date: "2019"
@@ -57,7 +56,7 @@ Updated Edition
 
 ----
 
-Uuid: fgM2pOFxvyrt9j0X
+Uuid: AvdyyvxJI5neHIh5
 
 ----
 

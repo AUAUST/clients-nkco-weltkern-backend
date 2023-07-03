@@ -9,9 +9,7 @@ weight: 0.4
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>»In America’s Stage: Times Square«, street photographer Betsy Karel uses five New York City blocks as a metaphor for urban America today. Her premise is that many of the major trends of our society are present in Times Square: globalism, consumerism, ubiquitous sexualization, hucksterism, surveillance, narcissism. All are compressed and amplified here.</p>
-  <p>In Karel’s photos fantasy parades as reality, corporate interests invade almost all public spaces, and Times Square becomes a vivid, almost hyper-realistic, form of theatre.</p>
+description: '<p>»In America’s Stage: Times Square«, street photographer Betsy Karel uses five New York City blocks as a metaphor for urban America today. Her premise is that many of the major trends of our society are present in Times Square: globalism, consumerism, ubiquitous sexualization, hucksterism, surveillance, narcissism. All are compressed and amplified here.</p> <p>In Karel’s photos fantasy parades as reality, corporate interests invade almost all public spaces, and Times Square becomes a vivid, almost hyper-realistic, form of theatre.</p>'
 details: |
   ISBN: "3905929478 / 978-3905929478"
   Content: "112 pages"
@@ -37,7 +35,7 @@ PRIVATE/USED
 
 ----
 
-Uuid: SHak38R0F22LUAbu
+Uuid: sbHT2Pg1OOGuzyRv
 
 ----
 

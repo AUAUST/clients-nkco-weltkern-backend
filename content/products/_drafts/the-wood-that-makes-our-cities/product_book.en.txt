@@ -9,10 +9,7 @@ weight: 1.2
 author:
   name: Park Books
   id: 88
-description: |
-  <p>Wood is an ideal building material for sustainable architecture. It grows back and absorbs large quantities of CO2. But where does it actually come from in each case, and how will we make forestry and wood processing fit for the future? In what ways are conventional notions of professions and qualifications in architecture, engineering, and construction tested by using wood as building material?</p>
-  <p>French journalist Michèle Leloup together with architect François Leclercq—a pioneer of timber construction in France—have for a long time explored the ecological, economic, industrial, and technical challenges of using timber for major structures and urban architecture. This book summarizes their findings using examples from the French forestry and construction industry. It also takes a look at Austria and the innovative work by Hermann Kaufmann, an internationally revered leader in the further development of traditional timber architecture. In addition, the book features five projects by Leclercq Associés.</p>
-  <p>Richly and attractively illustrated with new images by French architecture photographer Cyrille Weiner, The Wood That Makes Our Cities offers a concise survey of topical questions and findings in contemporary timber construction.</p>
+description: '<p>Wood is an ideal building material for sustainable architecture. It grows back and absorbs large quantities of CO2. But where does it actually come from in each case, and how will we make forestry and wood processing fit for the future? In what ways are conventional notions of professions and qualifications in architecture, engineering, and construction tested by using wood as building material?</p> <p>French journalist Michèle Leloup together with architect François Leclercq—a pioneer of timber construction in France—have for a long time explored the ecological, economic, industrial, and technical challenges of using timber for major structures and urban architecture. This book summarizes their findings using examples from the French forestry and construction industry. It also takes a look at Austria and the innovative work by Hermann Kaufmann, an internationally revered leader in the further development of traditional timber architecture. In addition, the book features five projects by Leclercq Associés.</p> <p>Richly and attractively illustrated with new images by French architecture photographer Cyrille Weiner, The Wood That Makes Our Cities offers a concise survey of topical questions and findings in contemporary timber construction.</p>'
 details: |
   ISBN: "3038602583 / 978-3038602583"
   Content: "192 pages"
@@ -35,7 +32,7 @@ Multilinetitle: The Wood That Makes Our Cities
 
 ----
 
-Uuid: PEWd8jAnICh9R79f
+Uuid: 0oX5jDtxTHW3MORX
 
 ----
 

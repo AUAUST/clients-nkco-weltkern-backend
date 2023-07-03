@@ -13,7 +13,7 @@ description: '<p>American dancer and choreographer Richard Siegal created an art
 details: |
   ISBN: "3940064363 / 978-3940064363"
   Content: "138 pages"
-  Size: "215 × 10 × 272 mm"
+  Size: "215 × 10 ×? 272 mm"
   Edited by: "Christine Peters, Richard Siegal, Dieta Sixt, The Bakery"
   Design: "OK-RM"
   Language: "English"
@@ -60,7 +60,7 @@ Idea in Action
 
 ----
 
-Uuid: a5eFZtUxk65owLo7
+Uuid: KHCD2JSs1DKeaLDL
 
 ----
 

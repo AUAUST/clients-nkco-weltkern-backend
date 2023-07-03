@@ -9,14 +9,7 @@ weight: 0.7
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>Micha Zweifel is an artist who works with what he finds in his surroundings: materials, concepts, and motifs—the flotsam of cultural remnants whose use, identity, or meaning have become unstable, but still shape where and how we live. Ringgummimatte is a montage of such “finds,” showing Zweifel’s work alongside photos and conversations from recent years. It features texts by artist and writer Sabrina Chou, journalist Michel Rebosura, writer and art historian Vivian Sky Rehberg, poet Lisa Robertson, curator Eveline Suter, as well as an email exchange between Christoph Zweifel and the artist. Writer and editor Matthew Stadler has captioned each image in the book with a quote from Zweifel’s library, forming a composition of what is adjacent to Zweifel’s work, like footsteps in a neighbors apartment. Ringgummimatte is a portrait of the metabolic relation between an art practice, its social context, and the conditions of its making.<br />
-  <br />
-  With texts by Sabrina Chou, Michel Rebosura, Vivian Sky Rehberg, Lisa Robertson, Eveline Suter, Matthew Stadler, and Christoph Zweifel.<br />
-  <br />
-  Ringgummimatte is designed by Studio Krispin Heé (Krispin Heé, Tim Wetter) and published on the occasion of Micha Zweifel&#8217;s ongoing exhibition Zur Sackgasse 4. Stock (5.12.2020 – 27.6.2021) at Kunstmuseum Luzern and the Manor Kunstpreis Zentralschweiz Luzern 2020.<br />
-  <br />
-  Micha Zweifel, born in 1987 in Lucerne (Switzerland), lives and works in Rotterdam.</p>
+description: '<p>Micha Zweifel is an artist who works with what he finds in his surroundings: materials, concepts, and motifs—the flotsam of cultural remnants whose use, identity, or meaning have become unstable, but still shape where and how we live. Ringgummimatte is a montage of such “finds,” showing Zweifel’s work alongside photos and conversations from recent years. It features texts by artist and writer Sabrina Chou, journalist Michel Rebosura, writer and art historian Vivian Sky Rehberg, poet Lisa Robertson, curator Eveline Suter, as well as an email exchange between Christoph Zweifel and the artist. Writer and editor Matthew Stadler has captioned each image in the book with a quote from Zweifel’s library, forming a composition of what is adjacent to Zweifel’s work, like footsteps in a neighbors apartment. Ringgummimatte is a portrait of the metabolic relation between an art practice, its social context, and the conditions of its making.<br /> <br /> With texts by Sabrina Chou, Michel Rebosura, Vivian Sky Rehberg, Lisa Robertson, Eveline Suter, Matthew Stadler, and Christoph Zweifel.<br /> <br /> Ringgummimatte is designed by Studio Krispin Heé (Krispin Heé, Tim Wetter) and published on the occasion of Micha Zweifel&#8217;s ongoing exhibition Zur Sackgasse 4. Stock (5.12.2020 – 27.6.2021) at Kunstmuseum Luzern and the Manor Kunstpreis Zentralschweiz Luzern 2020.<br /> <br /> Micha Zweifel, born in 1987 in Lucerne (Switzerland), lives and works in Rotterdam.</p>'
 details: |
   ISBN: "3959054262 / 978-3959054263"
   Content: "84 pages"
@@ -44,7 +37,7 @@ Micha Zweifel
 
 ----
 
-Uuid: TCeKY1Qeov9vnjjW
+Uuid: 5XBhxpPwkDUZT5e8
 
 ----
 

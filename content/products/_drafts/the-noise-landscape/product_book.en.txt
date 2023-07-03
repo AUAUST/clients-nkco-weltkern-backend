@@ -10,9 +10,7 @@ weight: 1.1
 author:
   name: nai010 Publishers
   id: 114
-description: |
-  <p>The expansive areas around large airports, affected by noise, infrastructure, and transient forms of architecture, have until now not been researched as a phenomenon. But these noise landscapes are emerging worldwide, often surpassing the neighbouring city in size, and sometimes rivalling it in economic importance. <br />
-  On the basis of eight European case studies (Amsterdam, Zurich, London-Heathrow, Frankfurt, Munich, Madrid and the two Paris airports) this book provides the first account of how these landscapes emerged as the result of technical determinations, what is taking place in them, and how they can be interpreted.  The book is the outcome of several years of research by the chair of Kees Christiaanse at the ETH Zurich.</p>
+description: '<p>The expansive areas around large airports, affected by noise, infrastructure, and transient forms of architecture, have until now not been researched as a phenomenon. But these noise landscapes are emerging worldwide, often surpassing the neighbouring city in size, and sometimes rivalling it in economic importance. <br /> On the basis of eight European case studies (Amsterdam, Zurich, London-Heathrow, Frankfurt, Munich, Madrid and the two Paris airports) this book provides the first account of how these landscapes emerged as the result of technical determinations, what is taking place in them, and how they can be interpreted.  The book is the outcome of several years of research by the chair of Kees Christiaanse at the ETH Zurich.</p>'
 details: |
   ISBN: "9462083554 / 978-9462083554"
   Content: "272 pages"
@@ -48,7 +46,7 @@ Multilinetitle: The Noise Landscape
 
 ----
 
-Uuid: Ne9ztElAUBWqXnC0
+Uuid: gKWfjRhv2xOAlNUw
 
 ----
 

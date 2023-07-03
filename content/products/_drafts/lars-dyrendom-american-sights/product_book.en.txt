@@ -9,10 +9,7 @@ weight: 1.1
 author:
   name: Edition Taube
   id: 272
-description: |
-  <p>The 3D View-Master was first launched in the United States of America in 1939. The device was an updated version of the stereoscope and enabled people to view images of places in colour and 3D. The reels of the View-Master and their photographic images served as souvenirs of visited as well as unvisited sights. Between 1939 and 1980 more than 1.5 billion View-Master reels were produced, with the majority of them being released in the first decades of that period. These reels mainly depicted American landscapes and sites.<br />
-  <br />
-  The artists’ book «American Sights» is a photographic journey back in time and to sights of the 20th century, zooming in on touristic artifacts from the beginning of mass image production. Four hundred 3D View-Master reels were browsed to select a series that carries a romantic distance between the image and the viewer.</p>
+description: '<p>The 3D View-Master was first launched in the United States of America in 1939. The device was an updated version of the stereoscope and enabled people to view images of places in colour and 3D. The reels of the View-Master and their photographic images served as souvenirs of visited as well as unvisited sights. Between 1939 and 1980 more than 1.5 billion View-Master reels were produced, with the majority of them being released in the first decades of that period. These reels mainly depicted American landscapes and sites.<br /> <br /> The artists’ book «American Sights» is a photographic journey back in time and to sights of the 20th century, zooming in on touristic artifacts from the beginning of mass image production. Four hundred 3D View-Master reels were browsed to select a series that carries a romantic distance between the image and the viewer.</p>'
 details: |
   ISBN: "3945900420 / 978-3945900420"
   Content: "224 Pages"
@@ -38,7 +35,7 @@ American Sights
 
 ----
 
-Uuid: TyDyB9eh99ixZFva
+Uuid: 35JKzGaOl9y42EcT
 
 ----
 

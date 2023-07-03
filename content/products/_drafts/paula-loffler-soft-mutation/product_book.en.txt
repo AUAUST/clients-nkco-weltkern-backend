@@ -9,10 +9,7 @@ weight: 0.3
 author:
   name: Distanz
   id: 366
-description: |
-  <p>The art of Paula Löffler (b. Frankfurt/Main, 1989; lives and works in Berlin) scrutinizes the narratives of films, science-fiction literature, and architecture, looking for interfaces that allow her to insert her own stories. She harnesses characters she develops for the purpose, performing and materializing them in costumes, videos, ceramics, and drawings. Guided by her interest in interspecies transformative processes and their potentials, she charts fragmentary and nonlinear plots that weave speculations on alternative bodies.<br />
-  <br />
-  The publication soft mutation features works from the past three years, with a focus on the exhibition of the same title mounted by Städtische Galerie Eichenmüllerhaus in conjunction with Löffler’s receipt of the Young Artists’ Fellowship of the Old Hanseatic City of Lemgo. With a text by Miriam Bettin. Each copy also includes an artist’s edition in the form of a foldout poster.</p>
+description: '<p>The art of Paula Löffler (b. Frankfurt/Main, 1989; lives and works in Berlin) scrutinizes the narratives of films, science-fiction literature, and architecture, looking for interfaces that allow her to insert her own stories. She harnesses characters she develops for the purpose, performing and materializing them in costumes, videos, ceramics, and drawings. Guided by her interest in interspecies transformative processes and their potentials, she charts fragmentary and nonlinear plots that weave speculations on alternative bodies.<br /> <br /> The publication soft mutation features works from the past three years, with a focus on the exhibition of the same title mounted by Städtische Galerie Eichenmüllerhaus in conjunction with Löffler’s receipt of the Young Artists’ Fellowship of the Old Hanseatic City of Lemgo. With a text by Miriam Bettin. Each copy also includes an artist’s edition in the form of a foldout poster.</p>'
 details: |
   ISBN: "395476413X / 978-3954764136"
   Content: "64 pages"
@@ -49,7 +46,7 @@ Soft Mutation
 
 ----
 
-Uuid: z6DDvqljQnFH97UF
+Uuid: d4grXwkL2lAIxrtM
 
 ----
 

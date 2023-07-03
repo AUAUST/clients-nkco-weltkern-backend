@@ -9,12 +9,7 @@ weight: 1.9
 author:
   name: Pyramyd
   id: 123
-description: |
-  <p>After the success of <em>Typographie, guide pratique</em>, Damien Gautier has signed with Claire Gautier a book that is both a beautiful book and a manual.<br />
-  <br />
-  This book gives the reader a structured panoramic vision and provides practical tools by describing precisely the parameters at work in page layout. It presents the fundamentals of the profession while confronting them with the diversity and complexity of a vast selection of contemporary graphic designers&#8217; work.<br />
-  <br />
-  <em>Mise en page(s), etc.</em> explores all aspects of the composition of a book, a poster or a promotional document: from the elaboration of composition grids through the informed use of colors and typefaces to the fine typographic adjustments such as justification, alignment, and hyphenation. Commented diagrams explain the technical terms that must be understood in order to master the rules of composition.</p>
+description: '<p>After the success of <em>Typographie, guide pratique</em>, Damien Gautier has signed with Claire Gautier a book that is both a beautiful book and a manual.<br /> <br /> This book gives the reader a structured panoramic vision and provides practical tools by describing precisely the parameters at work in page layout. It presents the fundamentals of the profession while confronting them with the diversity and complexity of a vast selection of contemporary graphic designers&#8217; work.<br /> <br /> <em>Mise en page(s), etc.</em> explores all aspects of the composition of a book, a poster or a promotional document: from the elaboration of composition grids through the informed use of colors and typefaces to the fine typographic adjustments such as justification, alignment, and hyphenation. Commented diagrams explain the technical terms that must be understood in order to master the rules of composition.</p>'
 details: |
   ISBN: "2350171692 / 978-2350171692"
   Content: "272 pages"
@@ -37,7 +32,7 @@ Multilinetitle: Mise en page(s), etc.
 
 ----
 
-Uuid: y5VwZ1G88qo0Ac6y
+Uuid: vnz6ENS8JVryasQc
 
 ----
 

@@ -9,10 +9,7 @@ weight: 1.1
 author:
   name: JRP|Editions
   id: 94
-description: |
-  <p>The multitude of media and techniques used by Sterling Ruby (*1972) in his work—ranging from sculpture to collage, installation to painting, ceramics to video and printing—reflects the issues he tackles: the conflict between individual impulses and mechanisms of social control, the coercive function of architectonic space, art as the domain of irrationality, the sphere of dysfunctional behavior, Minimalism and Art Brut, graffiti art, urban violence, desire, and pleasure.<br />
-  <br />
-  His works combine memory of the past with attention to contemporary urban and popular phenomena. It is an art of expression and accumulation, of the overproduction of information and of the delirium of the senses, of neurosis and paranoia, and in which the gigantism of the shapes and their proliferation appear like a corrupt manifestation of desire, consumption, anxiety, and the need for control that characterizes contemporary occidental culture.</p>
+description: '<p>The multitude of media and techniques used by Sterling Ruby (*1972) in his work—ranging from sculpture to collage, installation to painting, ceramics to video and printing—reflects the issues he tackles: the conflict between individual impulses and mechanisms of social control, the coercive function of architectonic space, art as the domain of irrationality, the sphere of dysfunctional behavior, Minimalism and Art Brut, graffiti art, urban violence, desire, and pleasure.<br /> <br /> His works combine memory of the past with attention to contemporary urban and popular phenomena. It is an art of expression and accumulation, of the overproduction of information and of the delirium of the senses, of neurosis and paranoia, and in which the gigantism of the shapes and their proliferation appear like a corrupt manifestation of desire, consumption, anxiety, and the need for control that characterizes contemporary occidental culture.</p>'
 details: |
   ISBN: "3037640104 / 978-3037640104"
   Content: "168 pages"
@@ -57,7 +54,7 @@ Multilinetitle: Sterling Ruby
 
 ----
 
-Uuid: c5Bb0SKl7Vdekdug
+Uuid: BeirkpDPquEhGRSa
 
 ----
 

@@ -13,8 +13,7 @@ description: '<p>Exploring the radical potential of fiction as a tool for social
 details: |
   ISBN: "9493148154 / 978-9493148154"
   Content: "128 pages"
-  Size: "110 × 180 mm
-  
+  Size: "110 × 180 mm "
   Language: "English "
   Edited by: "Mariana Pestana"
   Graphic design: "Joana Pestana & Max Ryan"
@@ -34,7 +33,7 @@ Multilinetitle: Fiction Practice
 
 ----
 
-Uuid: YRoJmTz84KI8j3Nz
+Uuid: mKnrv41VNXsJUTSl
 
 ----
 

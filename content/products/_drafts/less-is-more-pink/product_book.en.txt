@@ -9,10 +9,7 @@ weight: 1
 author:
   name: Victionary
   id: 120
-description: |
-  <p>Today’s printing technology allows colour to bloom in profusion on virtually any kinds of communication materials. Amidst the sea of colourful chaos, a stream of cutting edge visual identities proves that reducing their palette is one effective way to get a message across. From fashion labels, music festivals to weddings, these brands and individuals around the world speak aloud as they transmit values in a simple palette. It’s overwhelming to see how intricate ideas unfold in layers by other means — through textures, structure, layers and form.<br />
-  <br /> <br />
-  <em>Less is More</em> collates about 120 projects that use only a few colours to attract the eye. In three chapters, categorised by the number of colour inks applied, these creative solutions or visual experiments represent a refreshing departure from mainstream designs that play with selective colour formulations, materials, special printing and graphic details and make a unique appeal. They are tailored for clean and effective brand identities, packaging designs, publications and events, large and small. Whether it is for affordability, visual economy, a non-existing colour stock, or a tribute to modernist art, it is a proof that designs can speak more with less.</p>
+description: '<p>Today’s printing technology allows colour to bloom in profusion on virtually any kinds of? communication materials. Amidst the sea of colourful chaos, a stream of cutting edge visual identities proves that reducing? their palette? is one effective way to get a message across. From fashion labels, music festivals to weddings, these brands and individuals around the world speak aloud as they transmit values in a simple palette. It’s overwhelming to see how intricate ideas unfold in layers by other means? —? through textures, structure, layers and form.<br /> <br />? <br /> <em>Less is More</em>? collates about 120 projects that use only a few colours to attract the eye. In three chapters, categorised by the number of colour inks applied, these creative solutions or visual experiments represent a refreshing departure from mainstream designs that? play with selective colour formulations, materials, special printing and graphic details and? make a unique appeal.? They are tailored for clean and effective brand identities, packaging designs, publications and events, large and small. Whether it is for affordability, visual economy, a non-existing colour stock, or a tribute to modernist art, it is a proof that designs can speak more with less.</p>'
 details: |
   ISBN: "9881320490 / 978-9881320490"
   Content: "256 pages"
@@ -55,7 +52,7 @@ Multilinetitle: Less is More (Pink)
 
 ----
 
-Uuid: bX7Nryb2nmG15wBA
+Uuid: eFULlU4Tv4apTlmz
 
 ----
 

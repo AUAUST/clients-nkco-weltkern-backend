@@ -16,7 +16,7 @@ details: |
   Size: "170 × 190 mm"
   Authors: "Livio Baumgartner, Simone Lappert"
   Edited by: "Vexer Verlag"
-  Design: "Büro 146. Maike Hamacher, Valentin Hindermann, Madeleine Stahel"
+  Design: "Büro 146. Maike Hamacher, Valentin Hindermann, Madeleine Stahel"
   Language: "German / English"
   Publishing date: "2021"
   Specs: "Hardcover"
@@ -37,7 +37,7 @@ All The Things You Are
 
 ----
 
-Uuid: 3mTiEJsgn0Ca3rE2
+Uuid: oLHNNC8vNQuS4Uby
 
 ----
 

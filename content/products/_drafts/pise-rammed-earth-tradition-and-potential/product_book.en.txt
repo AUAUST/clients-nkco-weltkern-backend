@@ -9,19 +9,13 @@ weight: 1.5
 author:
   name: Triest Verlag
   id: 97
-description: |
-  <p>This book for the first time illustrates the history and significance of rammed earth construction in Central Europe, particularly in Switzerland, using historical examples to investigate the potential of that building technique for contemporary construction. As such, it represents a pioneering comprehensive documentation that will contribute to safeguarding existing architectural monuments, while also providing the foundation for further research.<br />
-  <br />
-  Based on that evidence, the editors investigate the material’s potential for modern day edifices, especially from the perspective of regional architecture claiming to establish identity and save resources.<br />
-  <br />
-  Due to the material’s advantages – rammed earth is strong, durable and non-combustible as well as providing quality indoor air conditions – it was already used in the 16th and 17th centuries. Today, disadvantages such as on site weather-dependency can be circumvented by using prefabricated elements. Possible load bearing problems solely due to pressure can be bypassed by pre-stressing the structure. By carrying out measures such as these, the building material – being ecologically sustainable and completely recyclable – will become an attractive alternative for contemporary construction methods.</p>
+description: '<p>This book for the first time illustrates the history and significance of rammed earth construction in Central Europe, particularly in Switzerland, using historical examples to investigate the potential of that building technique for contemporary construction. As such, it represents a pioneering comprehensive documentation that will contribute to safeguarding existing architectural monuments, while also providing the foundation for further research.<br /> <br /> Based on that evidence, the editors investigate the material’s potential for modern day edifices, especially from the perspective of regional architecture claiming to establish identity and save resources.<br /> <br /> Due to the material’s advantages – rammed earth is strong, durable and non-combustible as well as providing quality indoor air conditions – it was already used in the 16th and 17th centuries. Today, disadvantages such as on site weather-dependency can be circumvented by using prefabricated elements. Possible load bearing problems solely due to pressure can be bypassed by pre-stressing the structure. By carrying out measures such as these, the building material – being ecologically sustainable and completely recyclable – will become an attractive alternative for contemporary construction methods.</p>'
 details: |
   ISBN: "3038630289 / 978-3038630289"
   Content: "304 pages"
   Size: "224 × 27 × 300 mm"
   Edited by: "Roger Boltshauser, Nadja Maillard, Cyril Veillon"
-  Texts by: "Romain Anger, Laetitia Fontaine,
-  Roger Boltshauser, Rodrigo Fernandez, Laurent de Wurstemberger, Guillaume Habert, Gian Salis, Marlène Witry, Guillaud Hubert, Ernest Menolfi, Isabelle Brunier, Jesús Vassalo, Corentin Fivet, Martin Rauch, Martin Tschanz, Felix Hilgert, Ryszard Gorajek, Marco Waldhauser, Tobias Fiedler, Jörg Habenberger, Jürg Conzett, Janina Flückiger, Dominque Gauzin-Müller, Paolo Tombesi"
+  Texts by: "Romain Anger, Laetitia Fontaine, Roger Boltshauser, Rodrigo Fernandez, Laurent de Wurstemberger, Guillaume Habert, Gian Salis, Marlène Witry, Guillaud Hubert, Ernest Menolfi, Isabelle Brunier, Jesús Vassalo, Corentin Fivet, Martin Rauch, Martin Tschanz, Felix Hilgert, Ryszard Gorajek, Marco Waldhauser, Tobias Fiedler, Jörg Habenberger, Jürg Conzett, Janina Flückiger, Dominque Gauzin-Müller, Paolo Tombesi"
   Design: "Büro 146"
   Language: "English"
   Publishing date: "2019"
@@ -55,7 +49,7 @@ Tradition And Potential
 
 ----
 
-Uuid: 2mRPHiH38ICWEwxr
+Uuid: SlXCJbpdlDBy8kyD
 
 ----
 

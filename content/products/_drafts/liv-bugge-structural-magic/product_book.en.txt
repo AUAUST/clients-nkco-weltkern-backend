@@ -9,9 +9,7 @@ weight: 0.2
 author:
   name: Torpedo Press
   id: 322
-description: |
-  <p>Two imprints; the one of a fossil trilobite belonging to the Natural History Museum in Oslo, the other is a bronze cast taken of a tabletop in a cell in Oslo Prison. The imprint from the prison is most likely made by a human; the fossil one is most likely not, instead found, held, harvested, and placed in the museum collection by a human.<br />
-  Visual artist Liv Bugge is entering into conversation with these two objects &#8211; or subjects &#8211; which have been left to us by the touch of someone or something, as well as asking how to begin this conversation. The artworks, conversations, and thoughts presented in this book springs from the doctoral research project The Other Wild, touching art as confrontation, completed with a public defence in the spring of 2019.</p>
+description: '<p>Two imprints; the one of a fossil trilobite belonging to the Natural History Museum in Oslo, the other is a bronze cast taken of a tabletop in a cell in Oslo Prison. The imprint from the prison is most likely made by a human; the fossil one is most likely not, instead found, held, harvested, and placed in the museum collection by a human.<br /> Visual artist Liv Bugge is entering into conversation with these two objects &#8211; or subjects &#8211; which have been left to us by the touch of someone or something, as well as asking how to begin this conversation. The artworks, conversations, and thoughts presented in this book springs from the doctoral research project The Other Wild, touching art as confrontation, completed with a public defence in the spring of 2019.</p>'
 details: |
   ISBN: "8293104285 / 978-8293104285"
   Content: "254 pages"
@@ -46,7 +44,7 @@ Structural Magic
 
 ----
 
-Uuid: qvC6ViBd8948SdIO
+Uuid: Xhdmn7libh4v9N9d
 
 ----
 

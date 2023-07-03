@@ -9,14 +9,11 @@ weight: 0.3
 author:
   name: Hato Press
   id: 330
-description: |
-  <p>Blocks Blocks Blocks conceptualises the relationship between form, matter and space in a playful new project by New York based duo Chiaozza. Using carnauba wax crayons and textured rubbings, this book imagines a new relationship between the artists, their artwork and the spaces across each page. As one creates, the other responds. Some structures echo, others dismantle. And so the process continues, evolving, changing, balancing across the book. </p>
-  <p>Adam Frezza &#038; Terri Chiao are an American artist duo whose work explores play and craft across a range of media, including painted sculpture, installation, collage and photography. Also known as CHIAOZZA (pronounced like &#8220;wowza&#8221; or &#8220;yowza&#8221;), Adam and Terri have exhibited their collaborative work in solo exhibitions in New York and Philadelphia, in numerous group shows around the US, and in a variety of art and design venues internationally.</p>
+description: '<p>Blocks Blocks Blocks conceptualises the relationship between form, matter and space in a playful new project by New York based duo Chiaozza. Using carnauba wax crayons and textured rubbings, this book imagines a new relationship between the artists, their artwork and the spaces across each page. As one creates, the other responds. Some structures echo, others dismantle. And so the process continues, evolving, changing, balancing across the book. </p> <p>Adam Frezza &#038; Terri Chiao are an American artist duo whose work explores play and craft across a range of media, including painted sculpture, installation, collage and photography. Also known as CHIAOZZA (pronounced like &#8220;wowza&#8221; or &#8220;yowza&#8221;), Adam and Terri have exhibited their collaborative work in solo exhibitions in New York and Philadelphia, in numerous group shows around the US, and in a variety of art and design venues internationally.</p>'
 details: |
   ISBN: "1910239308 / 978-1910239308"
   Content: "32 pages"
-  Size: "403 × 208 mm
-  
+  Size: "403 × 208 mm "
   Language: "English"
   Publishing date: "2016"
   Specs: "Paperback"
@@ -45,7 +42,7 @@ Chiaozza
 
 ----
 
-Uuid: EOLlThhTImN0AOlm
+Uuid: VtEjgvpuobgRSj5D
 
 ----
 

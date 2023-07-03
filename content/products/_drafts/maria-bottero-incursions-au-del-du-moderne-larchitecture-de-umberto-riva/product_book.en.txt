@@ -1,11 +1,10 @@
 Oldweltkern:
 
-title: 'Maria Bottero <br>Incursions au-delà du moderne: l’architecture de Umberto Riva'
+title: 'Maria Bottero <br>Incursions au-del? du moderne: l’architecture de Umberto Riva'
 slug: >
   maria-bottero-incursions-au-dela-du-moderne-larchitecture-de-umberto-riva
 id: 9776
-isbn: |
-  2491039011 / 978-2491039011
+isbn: '2491039011 / 978-2491039011 '
 price: 72.9
 weight: 2.1
 author:
@@ -13,8 +12,7 @@ author:
   id: 87
 description: '<p>First edition of the book conceived as an anthology where the writings of the author Maria Bottero introduce and close a series of critical essays that are extracted from out of print or out of circulation books. A selection of projects described through unpublished or archival photographs and drawings from the Umberto Riva collection at the Canadian Centre for Architecture in Montreal enrich the publication.</p>'
 details: |
-  ISBN: "2491039011 / 978-2491039011
-  
+  ISBN: "2491039011 / 978-2491039011 "
   Content: "352 pages"
   Size: "220 × 41 × 330 mm"
   Author: "Maria Bottero"
@@ -57,11 +55,11 @@ tags: [ ]
 Multilinetitle:
 
 Maria Bottero
-Incursions au-del� du moderne: l’architecture de Umberto Riva
+Incursions au-del? du moderne: l’architecture de Umberto Riva
 
 ----
 
-Uuid: o6eOD9BzLkPKCTIM
+Uuid: jjhd2xSXFyrZPbdb
 
 ----
 

@@ -9,12 +9,7 @@ weight: 1.1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>To &#8220;accidentally fall on a blade thirteen times&#8221; is a sardonic–and rather poetic–way of saying to get stabbed.<br />
-  <br />
-  “It doesn’t always kill you, but it always hurts. And still you’ve got to “roll with the punches” and keep going. I find this ability to roll with the punches, to “take the pain” and adapt to circumstances, in my subjects: gypsies, beggars, crooks, vagabonds, underdogs, conmen, buskers and various shady characters in Romania and Moldova. My object is not to exploit problem-ridden post-communist Romania for voyeuristic purposes. I’m not an indifferent observer, but one who tries hard to give these people the freedom they need to portray themselves on camera—and to bring about necessary changes for themselves in the social stereotypes still assigned to them.” (Mihai Barabancea)<br />
-  <br />
-  Barabancea uses the camera as a tool to interact with his subjects. But instead of staging picturesque portraits, he zeroes in on moments of ruthless rawness and keen poignancy.</p>
+description: '<p>To &#8220;accidentally fall on a blade thirteen times&#8221; is a sardonic–and rather poetic–way of saying to get stabbed.<br /> <br /> “It doesn’t always kill you, but it always hurts. And still you’ve got to “roll with the punches” and keep going. I find this ability to roll with the punches, to “take the pain” and adapt to circumstances, in my subjects: gypsies, beggars, crooks, vagabonds, underdogs, conmen, buskers and various shady characters in Romania and Moldova. My object is not to exploit problem-ridden post-communist Romania for voyeuristic purposes. I’m not an indifferent observer, but one who tries hard to give these people the freedom they need to portray themselves on camera—and to bring about necessary changes for themselves in the social stereotypes still assigned to them.” (Mihai Barabancea)<br /> <br /> Barabancea uses the camera as a tool to interact with his subjects. But instead of staging picturesque portraits, he zeroes in on moments of ruthless rawness and keen poignancy.</p>'
 details: |
   ISBN: "3906803951 / 978-3906803951"
   Content: "288 pages"
@@ -62,7 +57,7 @@ Multilinetitle: Falling on Blades
 
 ----
 
-Uuid: 1crPrsCWV2nLxjyb
+Uuid: vKoCIzyhv8spoTXT
 
 ----
 

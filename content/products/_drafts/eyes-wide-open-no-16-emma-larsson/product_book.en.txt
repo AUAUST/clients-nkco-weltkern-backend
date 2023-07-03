@@ -9,9 +9,7 @@ weight: 0.2
 author:
   name: Hato Press
   id: 330
-description: |
-  <p>Zine no.16 in the Hato Press Zine series ‘Eyes Wide Open’ by Emma Larsson.</p>
-  <p>Eyes Wide Open features works part of an archive of untitled pieces exploring colorful dreamscapes merged with inarticulable melancholy.</p>
+description: '<p>Zine no.16 in the Hato Press Zine series ‘Eyes Wide Open’ by Emma Larsson.</p> <p>Eyes Wide Open features works part of an archive of untitled pieces exploring colorful dreamscapes merged with inarticulable melancholy.</p>'
 details: |
   Content: "16 pages"
   Size: "140 × 200 mm"
@@ -34,7 +32,7 @@ Emma Larsson
 
 ----
 
-Uuid: fDzNO5nalmLhqGMg
+Uuid: 2iQuruQ8RMHYAP15
 
 ----
 

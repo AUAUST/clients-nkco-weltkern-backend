@@ -14,8 +14,7 @@ description: '<p>Dieter Kienast (1945–1998) is a key figure in European landsc
 details: |
   ISBN: "3856763879 / 978-3856763879"
   Content: "257 pages"
-  Size: "230 × 310 mm
-  
+  Size: "230 × 310 mm "
   Language: "English"
   Preface by: "Erik A. de Jong"
   Graphic design: "Büro 146"
@@ -40,7 +39,7 @@ The Landscapes of Dieter Kienast
 
 ----
 
-Uuid: nAY7k82P9tK7qOHz
+Uuid: xFJLhRxGSGeWcs1b
 
 ----
 

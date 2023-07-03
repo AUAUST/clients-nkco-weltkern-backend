@@ -14,7 +14,7 @@ description: '<p>&#8216;Learning From Las Vegas&#8217; is arguably one of the mo
 details: |
   ISBN: "3858817648 / 978-3858817648"
   Content: "196 pages"
-  Size: "200 × 20 × 280 mm"
+  Size: "200 × 20 ×? 280 mm"
   Author: "Hilar Stadler"
   Edited by: "Hilar Stadler, Martino Stierli, Peter Fischli"
   Language: "French"
@@ -50,7 +50,7 @@ Multilinetitle: Las Vegas Studio
 
 ----
 
-Uuid: mxlClWdBS73iNWOW
+Uuid: hReTFAzux2rRnkjc
 
 ----
 

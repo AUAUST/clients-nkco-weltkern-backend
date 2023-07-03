@@ -14,8 +14,7 @@ details: |
   ISBN: "3959053525 / 978-3-959-05352-5"
   Content: "192 pages"
   Size: "165 × 14 × 324 mm"
-  Edited by: "Albertinum, Staatliche Kunstsammlungen Dresden, Isabelle Busch, Kathleen Reinhardt, Hilke Wagner
-  
+  Edited by: "Albertinum, Staatliche Kunstsammlungen Dresden, Isabelle Busch, Kathleen Reinhardt, Hilke Wagner "
   Design: "Lamm & Kirch"
   Language: "English"
   Publishing date: "2020"
@@ -58,7 +57,7 @@ Multilinetitle: Demonstration Rooms
 
 ----
 
-Uuid: GhhUiO4Y4n7gsI4F
+Uuid: vNWej1FwtcFXY4Ht
 
 ----
 

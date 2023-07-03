@@ -9,10 +9,7 @@ weight: 0.6
 author:
   name: Rizzoli Publications
   id: 115
-description: |
-  <p>This debut monograph from Danish fashion brand GANNI documents Scandi 2.0 style, a growing global community of confident, unapologetic women and the unending pursuit of building a responsible fashion company.</p>
-  <p>Based out of Copenhagen, husband-and-wife duo Ditte and Nicolaj Reffstrup have built GANNI into a global fashion brand of the future in little over a decade. GANNI is at the forefront of responsible and transparent fashion with a cool and stylish approach that is constantly evolving. At the heart of the label lies a Scandinavian sensibility and an open to everyone attitude that celebrates creativity and individuality. This book captures just that—the global #GANNIGirl movement and diverse network of creatives that surrounds the brand, alongside its ongoing efforts to become the most responsible version of itself.</p>
-  <p>World-class photographers, stylists, designers and artists gather here to tell the GANNI story, with archive designs, collections, and iconic collaborations woven throughout. GANNI: Gimme More is a timely publication, printed on sustainable FSC certified paper, that offers readers a window into the world of GANNI, a universe that is playful, mindful—and never dull.</p>
+description: '<p>This debut monograph from Danish fashion brand GANNI documents Scandi 2.0 style, a growing global community of confident, unapologetic women and the unending pursuit of building a responsible fashion company.</p> <p>Based out of Copenhagen, husband-and-wife duo Ditte and Nicolaj Reffstrup have built GANNI into a global fashion brand of the future in little over a decade. GANNI is at the forefront of responsible and transparent fashion with a cool and stylish approach that is constantly evolving. At the heart of the label lies a Scandinavian sensibility and an open to everyone attitude that celebrates creativity and individuality. This book captures just that—the global #GANNIGirl movement and diverse network of creatives that surrounds the brand, alongside its ongoing efforts to become the most responsible version of itself.</p> <p>World-class photographers, stylists, designers and artists gather here to tell the GANNI story, with archive designs, collections, and iconic collaborations woven throughout. GANNI: Gimme More is a timely publication, printed on sustainable FSC certified paper, that offers readers a window into the world of GANNI, a universe that is playful, mindful—and never dull.</p>'
 details: |
   ISBN: "0847870745 / 978-0847870745"
   Content: "240 pages"
@@ -38,7 +35,7 @@ Gimme More
 
 ----
 
-Uuid: QngpEZPUD6g1Fiuw
+Uuid: mhz3AB6CPk7nnh1X
 
 ----
 

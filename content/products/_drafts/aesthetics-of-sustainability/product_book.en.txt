@@ -10,16 +10,11 @@ weight: 1
 author:
   name: Triest Verlag
   id: 97
-description: |
-  <p>This volume summarizes the results of &#8220;The Aesthetics of Sustainability&#8221;, a research project led by ECAL/Ecole cantonale d`art de Lausanne. It brought together master’s students of product design, established materials specialists, manufacturers and researchers with the aim of exploring and defining the aesthetic potential of a new generation of sustainable materials.<br />
-  <br />
-  The result of this research-through-design project is a series of fourteen case studies involving the development of materials made from textile waste, recycled paper, rubber granulate or vegetable fibers such as algae, rice husks, hemp, flax and wood. The resulting new materials can be shaped, pressed, woven or welded. A selection of these materials will be presented through experiments and prototypes of products.<br />
-  <br />
-  The aim is to offer future designers a range of practical tools and applied knowledge about the methods of analyzing and processing seminal materials, utilizing their advantageous qualities and developing functional, yet aesthetically intriguing objects.The materials further aim to provide proof that sustainable materials are a great market opportunity for manufacturers and consumers alike.</p>
+description: '<p>This volume summarizes the results of &#8220;The Aesthetics of Sustainability&#8221;, a research project led by ECAL/Ecole cantonale d`art de Lausanne. It brought together master’s students of product design, established materials specialists, manufacturers and researchers with the aim of exploring and defining the aesthetic potential of a new generation of sustainable materials.<br /> <br /> The result of this research-through-design project is a series of fourteen case studies involving the development of materials made from textile waste, recycled paper, rubber granulate or vegetable fibers such as algae, rice husks, hemp, flax and wood. The resulting new materials can be shaped, pressed, woven or welded. A selection of these materials will be presented through experiments and prototypes of products.<br /> <br /> The aim is to offer future designers a range of practical tools and applied knowledge about the methods of analyzing and processing seminal materials, utilizing their advantageous qualities and developing functional, yet aesthetically intriguing objects.The materials further aim to provide proof that sustainable materials are a great market opportunity for manufacturers and consumers alike.</p>'
 details: |
   ISBN: "3038630623 / 978-3038630623"
   Content: "272 pages"
-  Size: "190 × 20 × 260 mm"
+  Size: "190 × 20 ×? 260 mm"
   Edited by: "Thilo Alex Brunner"
   Design: "Federico Barbon"
   Publishing date: "2021"
@@ -63,7 +58,7 @@ Multilinetitle: Aesthetics of Sustainability
 
 ----
 
-Uuid: tIJCBpaSrkb68lWD
+Uuid: pDaGrK9Sep9sCizp
 
 ----
 

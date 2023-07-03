@@ -3,17 +3,15 @@ Oldweltkern:
 title: 'Dixit n°02 <br>A Matter of Data'
 slug: dixit-n02-a-matter-of-data
 id: 30350
-isbn: '2491039097 /  978-2491039097'
+isbn: 2491039097 / 978-2491039097
 price: 15.9
 weight: 2.1
 author:
   name: Cosa Mentale
   id: 87
-description: |
-  <p>rds of the architect Yony Santos from the swiss architecture practice TYPICALOFFICE and of Marina Otero Verzier, director of research at Het Nieuwe Instituut (HNI), confront each other around the theme of “A Matter of Data”.</p>
-  <p>Architecture is still a matter of space, but the understanding of this element is currently evolving by the emergence of new forms of electronic and computer-mediated realities. A Matter of Data explores this phenomenon observing the environments and installations that question our experience of space and analyzing the duality and relationships between physical and numerical interfaces of all kinds.</p>
+description: '<p>rds of the architect Yony Santos from the swiss architecture practice TYPICALOFFICE and of Marina Otero Verzier, director of research at Het Nieuwe Instituut (HNI), confront each other around the theme of “A Matter of Data”.</p> <p>Architecture is still a matter of space, but the understanding of this element is currently evolving by the emergence of new forms of electronic and computer-mediated realities. A Matter of Data explores this phenomenon observing the environments and installations that question our experience of space and analyzing the duality and relationships between physical and numerical interfaces of all kinds.</p>'
 details: |
-  ISBN: "2491039097 /  978-2491039097"
+  ISBN: "2491039097 / 978-2491039097"
   Content: "64 pages"
   Size: "230 × 300 mm"
   Design: "Spassky Fischer"
@@ -57,7 +55,7 @@ A Matter of Data
 
 ----
 
-Uuid: FYOJ7BFJAzXXlegL
+Uuid: VKiWBd9JzblAYC4H
 
 ----
 

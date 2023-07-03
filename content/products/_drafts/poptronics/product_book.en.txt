@@ -9,11 +9,7 @@ weight: 1.5
 author:
   name: Tombolo Presses
   id: 282
-description: |
-  <p>Since 2007, the Poptronics website has established itself in the French information landscape as the medium of electronic cultures: internet art, video games, music and sound art, hacktivism, post-digital art&#8230; This publication looks back on 10 years of creation through a collective archive revisited by artists of the French digital scene.<br />
-  <br />
-  How to put a flow of information on paper? Poptronics, the media of hacktive cultures, celebrates ten years of online information with a 272 pages book.<br />
-  In contrast to the evolution of the press, forced to digital mutation, Poptronics chooses the paper medium to reinvent the archive. Since 2007, the online media founded by the critical journalist Annick Rivoire and a team of authors, critics and artists resists the mantras of the present time (social networks, accelerationism, big data, selfization), defends autonomous online practices, observes and criticizes the evolutions of culture and information society, decompartmentalizes and hybridizes practices (open source, circuit bending, sound art, indie video games, hacktivism, internet art, noise&#8230;).</p>
+description: '<p>Since 2007, the Poptronics website has established itself in the French information landscape as the medium of electronic cultures: internet art, video games, music and sound art, hacktivism, post-digital art&#8230; This publication looks back on 10 years of creation through a collective archive revisited by artists of the French digital scene.<br /> <br /> How to put a flow of information on paper? Poptronics, the media of hacktive cultures, celebrates ten years of online information with a 272 pages book.<br /> In contrast to the evolution of the press, forced to digital mutation, Poptronics chooses the paper medium to reinvent the archive. Since 2007, the online media founded by the critical journalist Annick Rivoire and a team of authors, critics and artists resists the mantras of the present time (social networks, accelerationism, big data, selfization), defends autonomous online practices, observes and criticizes the evolutions of culture and information society, decompartmentalizes and hybridizes practices (open source, circuit bending, sound art, indie video games, hacktivism, internet art, noise&#8230;).</p>'
 details: |
   ISBN: "1096155101 / 979-1096155101"
   Content: "272 pages"
@@ -38,7 +34,7 @@ Multilinetitle: Poptronics
 
 ----
 
-Uuid: fYDYyBzEKibPWHYp
+Uuid: TE11BYHpPpEOB6qR
 
 ----
 

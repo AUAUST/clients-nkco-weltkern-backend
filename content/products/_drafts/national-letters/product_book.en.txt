@@ -18,8 +18,7 @@ details: |
   Publishing date: "2019"
   Edited by : "Marek Nedelka"
   Designed by: "Marek Nedelka"
-  Contributions by: "Rusudan Amirejibi–Mullen, Ivo T. Budil, Birol Caymaz, Tomáš Garrigue Masaryk, Marek Nedelka, William Safran, Emmanuel Szurek
-  
+  Contributions by: "Rusudan Amirejibi–Mullen, Ivo T. Budil, Birol Caymaz, Tomáš Garrigue Masaryk, Marek Nedelka, William Safran, Emmanuel Szurek "
   Postcard letterings by: "Jan Horčík, Seb McLauchlan, Anežka Minaříková, Jan Novák"
   Specs: "Embossed softcover, 300 copies"
   Images: "© WELTKERN® / Letter books. All rights reserved."
@@ -88,7 +87,7 @@ Multilinetitle: National Letters
 
 ----
 
-Uuid: 8a65IEoeTrNRJpye
+Uuid: Rf1SggTRGWhHBNTx
 
 ----
 

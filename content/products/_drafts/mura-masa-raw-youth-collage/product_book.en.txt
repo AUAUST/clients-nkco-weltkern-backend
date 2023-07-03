@@ -9,10 +9,7 @@ weight: 1.1
 author:
   name: Topsafe
   id: 379
-description: |
-  <p>The R.Y.C book is a companion piece to Mura Masa&#8217;s second album of the same name.</p>
-  <p>Words from Mura Masa, Georgia, Ellie Rowsell, slowthai and Ned Green with accompanying photography &#038; artwork from Finn Constantine, Roxy Lee, Dexter Lander, Melchior Tersen, Jet Swan, Leon Sadler, Yannick val Gesto, Stefania Batoeva &#038; Charlotte Maeva Perret.</p>
-  <p>&#8216;Comprising contributions from a host of amazing creatives the publication aims to evoke feelings youth, nostalgia and what it’s like to be young.&#8217; -Ruby Boddington, It&#8217;s Nice That</p>
+description: '<p>The R.Y.C book is a companion piece to Mura Masa&#8217;s second album of the same name.</p> <p>Words from Mura Masa, Georgia, Ellie Rowsell, slowthai and Ned Green with accompanying photography &#038; artwork from Finn Constantine, Roxy Lee, Dexter Lander, Melchior Tersen, Jet Swan, Leon Sadler, Yannick val Gesto, Stefania Batoeva &#038; Charlotte Maeva Perret.</p> <p>&#8216;Comprising contributions from a host of amazing creatives the publication aims to evoke feelings youth, nostalgia and what it’s like to be young.&#8217; -Ruby Boddington, It&#8217;s Nice That</p>'
 details: |
   ISBN: "1916168633 / 978-1916168633"
   Content: "220 pages"
@@ -53,7 +50,7 @@ Raw Youth Collage
 
 ----
 
-Uuid: GG3o3CKT2SkVv4wI
+Uuid: hPoLwAFwmxnbK55C
 
 ----
 

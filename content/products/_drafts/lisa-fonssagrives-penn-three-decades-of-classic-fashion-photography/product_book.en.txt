@@ -10,10 +10,7 @@ weight: 1.4
 author:
   name: Vendome Press
   id: 340
-description: |
-  <p>One of the most beautiful books on the history of fashion ever produced is now back in print. Swedish by birth, Parisian by inclination, and American following her 1950 marriage to Irving Penn, Lisa Fonssagrives was, for three decades, the most sought-after model of fashion photography.</p>
-  <p>She posed for Man Ray, Erwin Blumenfeld, Louise Dahl- Wolfe, Norman Parkinson, Richard Avedon, for her first husband Fernand Fonssagrives, her fellow European immigrant Horst P. Horst, and, of course, her second husband Irving Penn.</p>
-  <p>Compiled and arranged by fashion photographer David Seidner in 1997, the book draws upon a collection of photographs which once belonged to Lisa Fonssagrives. It is an opulently produced homage to the first supermodel in the history of fashion and a nostalgic look back on the Golden Age of fashion photography in the 1930s, 1940s, and 1950s.</p>
+description: '<p>One of the most beautiful books on the history of fashion ever produced is now back in print. Swedish by birth, Parisian by inclination, and American following her 1950 marriage to Irving Penn, Lisa Fonssagrives was, for three decades, the most sought-after model of fashion photography.</p> <p>She posed for Man Ray, Erwin Blumenfeld, Louise Dahl- Wolfe, Norman Parkinson, Richard Avedon, for her first husband Fernand Fonssagrives, her fellow European immigrant Horst P. Horst, and, of course, her second husband Irving Penn.</p> <p>Compiled and arranged by fashion photographer David Seidner in 1997, the book draws upon a collection of photographs which once belonged to Lisa Fonssagrives. It is an opulently produced homage to the first supermodel in the history of fashion and a nostalgic look back on the Golden Age of fashion photography in the 1930s, 1940s, and 1950s.</p>'
 details: |
   ISBN: "3829607964 / 978-3829607964"
   Content: "152 pages"
@@ -39,7 +36,7 @@ Three Decades of Classic Fashion Photography
 
 ----
 
-Uuid: 52w041qQFpxCaq7R
+Uuid: EqtlaVXSxd9BrOHe
 
 ----
 

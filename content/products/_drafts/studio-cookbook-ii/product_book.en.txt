@@ -13,8 +13,7 @@ description: '<p>Studio Cookbook started off as a series of informal gatherings 
 details: |
   ISBN: "1910239018 / 978-1910239018"
   Content: "64 pages"
-  Size: "132 × 236 mm
-  
+  Size: "132 × 236 mm "
   Language: "English"
   Publishing date: "2020"
   Specs: "Softcover, Spiral bound"
@@ -32,7 +31,7 @@ Multilinetitle: Studio Cookbook II
 
 ----
 
-Uuid: G09pKe0ZB4tsSzaj
+Uuid: HubuaZxePuzZWbXf
 
 ----
 

@@ -10,10 +10,7 @@ weight: 0.6
 author:
   name: Yvon Lambert
   id: 353
-description: |
-  <p>Quentin de Briey « Thank you for your business » is a yearly journal in which the photographer showcases a selection of photographs shot during the year.</p>
-  <p>For the 2021 edition, Quentin de Briey still selected a mix of personal and editorial photographs shot in Paris. The book contains black &#038; white and color photographs, skateboarders as well as pictures of friends and editorials for magazines.<br />
-  First published in June 2018 in a limited edition of 500 copies, each issue is a large format full pages loose leaf book.</p>
+description: '<p>Quentin de Briey « Thank you for your business » is a yearly journal in which the photographer showcases a selection of photographs shot during the year.</p> <p>For the 2021 edition, Quentin de Briey still selected a mix of personal and editorial photographs shot in Paris. The book contains black &#038; white and color photographs, skateboarders as well as pictures of friends and editorials for magazines.<br /> First published in June 2018 in a limited edition of 500 copies, each issue is a large format full pages loose leaf book.</p>'
 details: |
   Content: "88 Pages / 1000 limited copies"
   Size: "40 × 285 mm"
@@ -45,7 +42,7 @@ Thank you for your business IV
 
 ----
 
-Uuid: BcO6A6ExiChdqnXD
+Uuid: NguMi7rcNPwwyVAH
 
 ----
 

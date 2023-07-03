@@ -9,9 +9,7 @@ weight: 1.6
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>Ikonar is a nickname given to Josef Koudelka by a group of Roma he encountered. It refers to him as a “maker of icons”, because they used his famous photographs of Roma communities as quasi-religious icons in their place of prayer. However, Koudelka is not merely a globally respected “maker of photographs”, he is also a prolific “collector of images”. IKONAR. Archival Constellations, which covers the period from 1960 to 2012, makes a range of materials available, some of them unpublished. They were selected from the 30,000-plus 35 mm contact sheets in Koudelka’s archive. Published in conjunction with the exhibition at Photo Elysée in Lausanne, it presents portfolios of core series of his work shot in 35 mm format, interleaved with seven thematic constellations that are a logical extension of his archive. It thus allows parallel visual explorations of his work and the evolving processes of creation. </p>
-  <p>Josef Koudelka, b. 1938 in Boskovice, Czech Republic, lives in Paris. In 1971 he became a member of the Magnum photo agency. Koudelka has won numerous accolades, including France’s Grand Prix National de la Photographie (1987), the Henri Cartier-Bresson Award (1991), and the International Center of Photography’s Infinity Award (2004). Stuart Alexander is an independent photo historian and is editorial director at Delpire &#038; Co, Paris. Tatyana Franck was director of Photo Elysée between 2015 and January 2022. Lars Willumeit works as a curator for Photo Elysée in Lausanne, Switzerland.</p>
+description: '<p>Ikonar is a nickname given to Josef Koudelka by a group of Roma he encountered. It refers to him as a “maker of icons”, because they used his famous photographs of Roma communities as quasi-religious icons in their place of prayer. However, Koudelka is not merely a globally respected “maker of photographs”, he is also a prolific “collector of images”. IKONAR. Archival Constellations, which covers the period from 1960 to 2012, makes a range of materials available, some of them unpublished. They were selected from the 30,000-plus 35 mm contact sheets in Koudelka’s archive. Published in conjunction with the exhibition at Photo Elysée in Lausanne, it presents portfolios of core series of his work shot in 35 mm format, interleaved with seven thematic constellations that are a logical extension of his archive. It thus allows parallel visual explorations of his work and the evolving processes of creation. </p> <p>Josef Koudelka, b. 1938 in Boskovice, Czech Republic, lives in Paris. In 1971 he became a member of the Magnum photo agency. Koudelka has won numerous accolades, including France’s Grand Prix National de la Photographie (1987), the Henri Cartier-Bresson Award (1991), and the International Center of Photography’s Infinity Award (2004). Stuart Alexander is an independent photo historian and is editorial director at Delpire &#038; Co, Paris. Tatyana Franck was director of Photo Elysée between 2015 and January 2022. Lars Willumeit works as a curator for Photo Elysée in Lausanne, Switzerland.</p>'
 details: |
   ISBN: "3959056304 / 978-3959056304"
   Content: "264 pages"
@@ -19,8 +17,7 @@ details: |
   Design: "Fabian Bremer, Pascal Storz"
   Language: "English"
   Publishing date: "2022"
-  Specs: "Thread-sewn hardcover
-  
+  Specs: "Thread-sewn hardcover "
   Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
@@ -74,7 +71,7 @@ Archival Constellations
 
 ----
 
-Uuid: 9QH3sgFOa8NtAK9W
+Uuid: wpQUfeLVRslkZESj
 
 ----
 

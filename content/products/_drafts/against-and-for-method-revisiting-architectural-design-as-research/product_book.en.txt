@@ -14,8 +14,7 @@ description: '<p>Can design processes constitute genuine forms of research? Of c
 details: |
   ISBN: "3856764135 / 978-3856764135"
   Content: "284 pages"
-  Size: "110 × 177 mm
-  
+  Size: "110 × 177 mm "
   Language: "English"
   Edited by: "Jan Silberberger"
   Graphic design: "Brighten the Corners"
@@ -38,7 +37,7 @@ Revisiting Architectural Design as Research
 
 ----
 
-Uuid: mcC0OiPCTPvsZOw5
+Uuid: fuCNh3jWU7HRY4Kh
 
 ----
 

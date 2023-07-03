@@ -15,8 +15,7 @@ details: |
   Size: "130 × 190 mm"
   Language: "English"
   Publishing date: "2018"
-  Specs: "Softcover
-  Color Offset Print"
+  Specs: "Softcover Color Offset Print"
   Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
@@ -42,7 +41,7 @@ DREAMGIRLS
 
 ----
 
-Uuid: RopEJo9cyDqQsjip
+Uuid: TCacPtSdsDlSLQsE
 
 ----
 

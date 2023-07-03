@@ -16,8 +16,7 @@ details: |
   Size: "225 × 20 × 275 mm"
   Author: "Walter Scheiffele"
   Edited by: "Stiftung Bauhaus Dessau"
-  Texts by: "Walter Scheiffele
-  
+  Texts by: "Walter Scheiffele "
   Introduction: "Philipp Oswalt"
   Design: "Ludovic Balland"
   Language: "German"
@@ -77,7 +76,7 @@ Multilinetitle: Das leichte Haus
 
 ----
 
-Uuid: qNbWfDxJEBKBOnbF
+Uuid: rDWmMfTJWsI9oaGS
 
 ----
 

@@ -9,10 +9,7 @@ weight: 0.6
 author:
   name: Inventory Press LLC
   id: 250
-description: |
-  <p><em>A New Program for Graphic Design</em> is the first communication-design textbook expressly of and for the 21st century. Three courses&#8211;Typography, Gestalt and Interface&#8211;provide the foundation of this book.<br />
-  <br />
-  Through a series of in-depth historical case studies (from Benjamin Franklin to the Macintosh computer) and assignments that progressively build in complexity, A New Program for Graphic Design serves as a practical guide both for designers and for undergraduate students coming from a range of other disciplines. Synthesizing the pragmatic with the experimental, and drawing on the work of Max Bill, Beatrice Warde, Muriel Cooper and Stewart Brand (among many others), it builds upon mid- to late-20th-century pedagogical models to convey contemporary design principles in an understandable form for students of all levels&#8211;treating graphic design as a liberal art that informs the dissemination of knowledge across all disciplines. For those seeking to understand and shape our increasingly networked world of information, this guide to visual literacy is an indispensable tool.</p>
+description: '<p><em>A New Program for Graphic Design</em> is the first communication-design textbook expressly of and for the 21st century. Three courses&#8211;Typography, Gestalt and Interface&#8211;provide the foundation of this book.<br /> <br /> Through a series of in-depth historical case studies (from Benjamin Franklin to the Macintosh computer) and assignments that progressively build in complexity, A New Program for Graphic Design serves as a practical guide both for designers and for undergraduate students coming from a range of other disciplines. Synthesizing the pragmatic with the experimental, and drawing on the work of Max Bill, Beatrice Warde, Muriel Cooper and Stewart Brand (among many others), it builds upon mid- to late-20th-century pedagogical models to convey contemporary design principles in an understandable form for students of all levels&#8211;treating graphic design as a liberal art that informs the dissemination of knowledge across all disciplines. For those seeking to understand and shape our increasingly networked world of information, this guide to visual literacy is an indispensable tool.</p>'
 details: |
   ISBN: "1941753213 / 978-1941753217"
   Content: "256 Pages"
@@ -59,7 +56,7 @@ Multilinetitle: A New Program for Graphic Design
 
 ----
 
-Uuid: qVLssnokXzI47ITa
+Uuid: pOCj64zmnIwgmsUq
 
 ----
 

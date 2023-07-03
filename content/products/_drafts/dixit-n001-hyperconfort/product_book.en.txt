@@ -9,14 +9,11 @@ weight: 0.4
 author:
   name: Cosa Mentale
   id: 87
-description: |
-  <p>The first issue of the magazine published by Cosa Mentale revolves around the theme of “hypercomfort”, as critically dissected and interpreted by Paris-based studio Bruther and Laurent Stalder,<br />
-  <br />
-  professor of architecture history at ETH Zurich. Keeping the body in its comfort zone is the secret watchword of our daily environment. As soon as a door is crossed, as soon as an interior is roamed, the environment must be controlled, air conditioned, sanitised. This invisible normalisation is not merely an infra-spatial issue. From comfort to conformism, even conformation, there is only one step. The issue explores how this process is already insidiously changing some of our behaviours.</p>
+description: '<p>The first issue of the magazine published by Cosa Mentale revolves around the theme of “hypercomfort”, as critically dissected and interpreted by Paris-based studio Bruther and Laurent Stalder,<br /> <br /> professor of architecture history at ETH Zurich. Keeping the body in its comfort zone is the secret watchword of our daily environment. As soon as a door is crossed, as soon as an interior is roamed, the environment must be controlled, air conditioned, sanitised. This invisible normalisation is not merely an infra-spatial issue. From comfort to conformism, even conformation, there is only one step. The issue explores how this process is already insidiously changing some of our behaviours.</p>'
 details: |
   ISBN: "2491039059 / 978-2491039059"
   Content: "64 pages"
-  Size: "230 × 5 × 305 mm"
+  Size: "230 × 5 ×? 305 mm"
   Author: "Simon Campedel"
   Design: "Spassky Fischer"
   Language: "French / English"
@@ -59,7 +56,7 @@ Hyperconfort
 
 ----
 
-Uuid: ptE1FM7p5Q5yFFTL
+Uuid: HC8W6LP1UXnLOXDT
 
 ----
 

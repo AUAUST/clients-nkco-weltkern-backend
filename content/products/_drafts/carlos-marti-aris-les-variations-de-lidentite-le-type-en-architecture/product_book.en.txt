@@ -14,7 +14,7 @@ description: '<p>First French translation of the founding essay of the Spanish a
 details: |
   ISBN: "2491039035 / 978-2491039035"
   Content: "272 pages"
-  Size: "170 × 15 × 240 mm"
+  Size: "170 × 15 ×? 240 mm"
   Edited by: "Claudia Mion"
   Texts by: "Raphael Moneo, Giorgio Grassi, Fabio Licitra."
   Design: "Spassky Fischer"
@@ -63,7 +63,7 @@ Le type en architecture.
 
 ----
 
-Uuid: eIV00voumrLYFfEZ
+Uuid: DlA1LRLXA5DF1giI
 
 ----
 

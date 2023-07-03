@@ -9,17 +9,11 @@ weight: 1.4
 author:
   name: Lenz Press
   id: 231
-description: |
-  <p>First comprehensive monograph on Swiss artist Raphael Hefti (book printed by the artist himself with a specific technique making each copy a unique object).<br />
-  <br />
-  With a career spanning over a decade, Hefti is celebrated for upending and disrupting seemingly ordinary industrial and post-industrial processes. Hefti&#8217;s intimate encounters with materials take form in colossal sculptures, performances that (at times) flirt with the brink of disaster, and sprawling public interventions. Often operating under the light of Murphy&#8217;s Law, he unveils everyday things so well hidden in plain sight (and turns the principles of minimalism on their head).<br />
-  <br />
-  This richly illustrated volume, edited by Fabian Schöneich and designed by Maximage, captures the artist&#8217;s complete body of work through his process of making in factories across Europe to their installation in museums and galleries. With contributions from a diverse cast of authors—a philosopher, a science-fiction writer, and an art historian among others—Hefti&#8217;s material transformations come to life in saturated words and images that tell stories of error, risk and wonder (from the scale of the particle to the universe at large).<br />
-  Every copy of this book is unique. The distribution of pigments is the result of their manipulation during screen printing, and no two covers are alike. Printed by the artist in collaboration with Atelier für Siebdruck, Lorenz Boegli, Müntschemier, CH.</p>
+description: '<p>First comprehensive monograph on Swiss artist Raphael Hefti (book printed by the artist himself with a specific technique making each copy a unique object).<br /> <br /> With a career spanning over a decade, Hefti is celebrated for upending and disrupting seemingly ordinary industrial and post-industrial processes. Hefti&#8217;s intimate encounters with materials take form in colossal sculptures, performances that (at times) flirt with the brink of disaster, and sprawling public interventions. Often operating under the light of Murphy&#8217;s Law, he unveils everyday things so well hidden in plain sight (and turns the principles of minimalism on their head).<br /> <br /> This richly illustrated volume, edited by Fabian Schöneich and designed by Maximage, captures the artist&#8217;s complete body of work through his process of making in factories across Europe to their installation in museums and galleries. With contributions from a diverse cast of authors—a philosopher, a science-fiction writer, and an art historian among others—Hefti&#8217;s material transformations come to life in saturated words and images that tell stories of error, risk and wonder (from the scale of the particle to the universe at large).<br /> Every copy of this book is unique. The distribution of pigments is the result of their manipulation during screen printing, and no two covers are alike. Printed by the artist in collaboration with Atelier für Siebdruck, Lorenz Boegli, Müntschemier, CH.</p>'
 details: |
   ISBN: "8894535303 / 978-8894535303"
   Content: "352 pages"
-  Size: "190 × 30 × 270 mm"
+  Size: "190 × 30 ×? 270 mm"
   Author: "Raphael Hefti"
   Edited by: "Fabian Schöneich."
   Texts by: "Nora N. Khan, Dieter Roelstraete, Carmen Van Pamel, Raphael Hefti, Elena Filipovic"
@@ -72,7 +66,7 @@ Salutary Failures
 
 ----
 
-Uuid: LsJH56YkMvr1t1GB
+Uuid: JWONsiFAZU9nRenA
 
 ----
 

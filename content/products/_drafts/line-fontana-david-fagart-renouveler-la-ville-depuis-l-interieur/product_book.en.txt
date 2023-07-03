@@ -10,10 +10,7 @@ weight: 2.1
 author:
   name: Cosa Mentale
   id: 87
-description: |
-  <p>A reflection by the architects of Fagart &#038; Fontana on the renewal of the city from within and more specifically on the processes of transformation and adaptation of existing collective housing to new needs and lifestyles.</p>
-  <p>What role can interiors play in adapting to the rapidly changing lifestyles of our cities&#8217; inhabitants? Resulting from a study project carried out at the Geneva University of Art and Design (HEAD – Genève), Renewing the city from the Within formulates alternatives to the urban development model centred on building expansion, by proposing scenarios for the renewal, from the inside out, of existing collective housing buildings in Geneva.<br />
-  By analysing a sample of collective housing buildings from the three main periods of the city&#8217;s development, the publication develops scenarios aimed at adapting these typologies to a convivial and mixed lifestyle, based on principles of solidarity, hospitality and sharing. At a time when the nuclear family is no longer the only model and when the boundaries between living and working areas have become porous, the architects of Fagart &#038; Fontana wish to contribute to the reflection on the city&#8217;s capacity to renew itself, by making people aware that there is a project territory to invest to rethink contemporary housing.</p>
+description: '<p>A reflection by the architects of Fagart &#038; Fontana on the renewal of the city from within and more specifically on the processes of transformation and adaptation of existing collective housing to new needs and lifestyles.</p> <p>What role can interiors play in adapting to the rapidly changing lifestyles of our cities&#8217; inhabitants? Resulting from a study project carried out at the Geneva University of Art and Design (HEAD – Genève), Renewing the city from the Within formulates alternatives to the urban development model centred on building expansion, by proposing scenarios for the renewal, from the inside out, of existing collective housing buildings in Geneva.<br /> By analysing a sample of collective housing buildings from the three main periods of the city&#8217;s development, the publication develops scenarios aimed at adapting these typologies to a convivial and mixed lifestyle, based on principles of solidarity, hospitality and sharing. At a time when the nuclear family is no longer the only model and when the boundaries between living and working areas have become porous, the architects of Fagart &#038; Fontana wish to contribute to the reflection on the city&#8217;s capacity to renew itself, by making people aware that there is a project territory to invest to rethink contemporary housing.</p>'
 details: |
   ISBN: "2493283146 / 978-2493283146"
   Content: "216 pages"
@@ -75,7 +72,7 @@ Renouveler la ville depuis l'intérieur
 
 ----
 
-Uuid: w106ogSFuB75ZxnT
+Uuid: lt2Bq0RubaW6Uk5q
 
 ----
 

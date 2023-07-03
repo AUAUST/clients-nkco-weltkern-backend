@@ -9,10 +9,7 @@ weight: 0.45
 author:
   name: HGB Leipzig
   id: 147
-description: |
-  <p>The workshop &#8220;New Tools To:&#8221;, which took place between 30th October and 20th December 2017, set itself the goal of analysing, exploring and redefining new recording tools and methods, as well as their transmission and transfer into different formats (digital or print).<br />
-  <br />
-  Participating students: Valentina D&#8217;Urbano, Monika Micevičiūtė, Elias Erkan, Elia Preuss, Katharina Tewes, Jenny Schreiter, Thomas Spieler, Lukas Winkler, Noël Wiedemer.</p>
+description: '<p>The workshop &#8220;New Tools To:&#8221;, which took place between 30th October and 20th December 2017, set itself the goal of analysing, exploring and redefining new recording tools and methods, as well as their transmission and transfer into different formats (digital or print).<br /> <br /> Participating students: Valentina D&#8217;Urbano, Monika Micevičiūtė, Elias Erkan, Elia Preuss, Katharina Tewes, Jenny Schreiter, Thomas Spieler, Lukas Winkler, Noël Wiedemer.</p>'
 details: |
   ISBN: "3956792762 / 978-3956792762"
   Content: "100 pages"
@@ -47,7 +44,7 @@ Multilinetitle: New Tools To:
 
 ----
 
-Uuid: x6eQcVq0kqf2V6aA
+Uuid: Pmwvpf51UPmMYFZt
 
 ----
 

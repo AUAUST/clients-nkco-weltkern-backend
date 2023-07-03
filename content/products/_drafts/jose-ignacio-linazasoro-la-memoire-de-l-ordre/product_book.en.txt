@@ -10,9 +10,7 @@ weight: 0.03
 author:
   name: Cosa Mentale
   id: 87
-description: |
-  <p>First French translation of the essay of the Spanish architect José Ignacio Linazasoro.<br />
-  To question the meaning of architecture is to seek to establish a principle of global and timeless legitimacy, not only referring to the past or the present. The modern architecture, in spite of the fact that it appears under a fragmentary condition, aspires to a lost totality.</p>
+description: '<p>First French translation of the essay of the Spanish architect José Ignacio Linazasoro.<br /> To question the meaning of architecture is to seek to establish a principle of global and timeless legitimacy, not only referring to the past or the present. The modern architecture, in spite of the fact that it appears under a fragmentary condition, aspires to a lost totality.</p>'
 details: |
   ISBN: "2491039110 / 978-2491039110"
   Content: "128 Pages"
@@ -41,7 +39,7 @@ La mémoire de l'ordre
 
 ----
 
-Uuid: 2cKxp5Mm7DdyIemd
+Uuid: PrGVR4wcJqQDDKhL
 
 ----
 

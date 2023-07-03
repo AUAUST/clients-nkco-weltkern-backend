@@ -9,13 +9,7 @@ weight: 2.1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>The youth uprising, now simply called “The Sixties,” was fed by one of the greatest booms in publishing history. The Underground Press Syndicate (UPS) began as a loose confederation of five papers in 1966, and within a few years swelled to over 500 across the world, reaching millions of readers. They “spread like weed,” said the UPS director, weed-dealer, and eventual founder of High Times, Tom Forcade. The metaphor was apt: the UPS spurred the legalization movement, and weed became its totem. </p>
-  <p>Weed was so pervasive it became a helpful means for government agencies to crack down on the UPS. Weed came to emblematize activist groups, and added a touch of flair to the mastheads of UPS titles. Weed permeated UPS pages, with gaps in text crammed with weed-inspired “spot illustratios”.</p>
-  <p>Heads Together collects these drawings, shining a light on lesser-known names in the stoner-art canon, and many who weren’t names at all, as no signature was attached. It also compiles guides for growing weed from the period that were treated like contraband by the CIA. Activist-oriented, psychedelic rolling papers are showcased too.</p>
-  <p>As pot now fast-tracks toward legalization in the U.S. and beyond, its once incendiary status is brought into odd relief. Pot’s profiteers of the corporate market today do not reflect those who fought for legalization, or the Black and Latino populations strategically criminalized for pot well before hippies were targeted, and long after.</p>
-  <p>The art in this book speaks to a time when pot was smoked with optimism, as something potentially good for society and people, capable of activating profound transformation in the face of corrupt and powerful forces.</p>
-  <p>With Oral Histories by: Ishmael Reed, John Sinclair, Marjorie Heins, Mariann Wizard-Vasquez, Abe Peck</p>
+description: '<p>The youth uprising, now simply called “The Sixties,” was fed by one of the greatest booms in publishing history. The Underground Press Syndicate (UPS) began as a loose confederation of five papers in 1966, and within a few years swelled to over 500 across the world, reaching millions of readers. They “spread like weed,” said the UPS director, weed-dealer, and eventual founder of High Times, Tom Forcade. The metaphor was apt: the UPS spurred the legalization movement, and weed became its totem. </p> <p>Weed was so pervasive it became a helpful means for government agencies to crack down on the UPS. Weed came to emblematize activist groups, and added a touch of flair to the mastheads of UPS titles. Weed permeated UPS pages, with gaps in text crammed with weed-inspired “spot illustratios”.</p> <p>Heads Together collects these drawings, shining a light on lesser-known names in the stoner-art canon, and many who weren’t names at all, as no signature was attached. It also compiles guides for growing weed from the period that were treated like contraband by the CIA. Activist-oriented, psychedelic rolling papers are showcased too.</p> <p>As pot now fast-tracks toward legalization in the U.S. and beyond, its once incendiary status is brought into odd relief. Pot’s profiteers of the corporate market today do not reflect those who fought for legalization, or the Black and Latino populations strategically criminalized for pot well before hippies were targeted, and long after.</p> <p>The art in this book speaks to a time when pot was smoked with optimism, as something potentially good for society and people, capable of activating profound transformation in the face of corrupt and powerful forces.</p> <p>With Oral Histories by: Ishmael Reed, John Sinclair, Marjorie Heins, Mariann Wizard-Vasquez, Abe Peck</p>'
 details: |
   ISBN: "3907236543 / 978-3907236543"
   Content: "566 pages"
@@ -77,7 +71,7 @@ Weed and the Underground Press Syndicate
 
 ----
 
-Uuid: 340JoCXW3xCi80yY
+Uuid: QiM3YwROmzVusoN7
 
 ----
 

@@ -9,12 +9,7 @@ weight: 2.4
 author:
   name: Rizzoli Publications
   id: 115
-description: |
-  <p>An internationally celebrated and highly coveted icon in the world of sneaker design, the Stan Smith tennis sneaker has achieved cult status since its debut in the early 1970s. This is the first book to celebrate the global cultural impact of the ubiquitous sneaker named after former world No. 1 tennis player Stan Smith.<br />
-  <br />
-  Over the last five decades, the Stan Smith has remained the perennial icon of minimalist cool sneaker design and Smith has collaborated with groundbreaking artists, designers, and fashion brands including Colette, Yohji Yamamoto, Raf Simons, and Pharrell.<br />
-  <br />
-  This all-access volume demonstrates that the personality of the shoe has everything to do with Stan the Man. Chapters are enhanced by recollections from Stan Smith along with anecdotes from style influencers, designers, sports legends, and fervent sneaker fans. Showcasing street-style photography of Stan Smith sworn globally, to pop-culture references of the sneaker in rap lyrics to Bollywood movies—this book is an absolute collector’s item for readers interested in sneaker culture, sports, street style, design, and pop culture.</p>
+description: '<p>An internationally celebrated and highly coveted icon in the world of sneaker design, the Stan Smith tennis sneaker has achieved cult status since its debut in the early 1970s. This is the first book to celebrate the global cultural impact of the ubiquitous sneaker named after former world No. 1 tennis player Stan Smith.<br /> <br /> Over the last five decades, the Stan Smith has remained the perennial icon of minimalist cool sneaker design and Smith has collaborated with groundbreaking artists, designers, and fashion brands including Colette, Yohji Yamamoto, Raf Simons, and Pharrell.<br /> <br /> This all-access volume demonstrates that the personality of the shoe has everything to do with Stan the Man. Chapters are enhanced by recollections from Stan Smith along with anecdotes from style influencers, designers, sports legends, and fervent sneaker fans. Showcasing street-style photography of Stan Smith sworn globally, to pop-culture references of the sneaker in rap lyrics to Bollywood movies—this book is an absolute collector’s item for readers interested in sneaker culture, sports, street style, design, and pop culture.</p>'
 details: |
   ISBN: "0847862740 / 978-0847862740"
   Content: "336 pages"
@@ -54,7 +49,7 @@ Some People Think I Am A Shoe
 
 ----
 
-Uuid: V3NCjWMSgpD4WsGV
+Uuid: MgtDKlCGzF37i1Tj
 
 ----
 

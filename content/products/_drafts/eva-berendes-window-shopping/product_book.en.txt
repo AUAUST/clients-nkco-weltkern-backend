@@ -15,8 +15,7 @@ details: |
   Content: "80 pages"
   Size: "235 × 325 mm"
   Artist: "Eva Berendes"
-  Design: "Lamm & Kirch
-  
+  Design: "Lamm & Kirch "
   Language: "English, German"
   Publishing date: "2022"
   Specs: "Hardcover"
@@ -61,7 +60,7 @@ Window Shopping
 
 ----
 
-Uuid: gouOjQroXw6vBRiG
+Uuid: 3oUZkEN08JDPPxWz
 
 ----
 

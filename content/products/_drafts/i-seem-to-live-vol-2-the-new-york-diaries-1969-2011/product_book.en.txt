@@ -10,10 +10,7 @@ weight: 1.2
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>Seem to Live: The New York Diaries, 1950–2011 is Jonas Mekas’s key literary work. The first volume (1950–1969) of this magnum opus appeared posthumously in 2019. It ranks alongside his cinematic oeuvre, which he elaborated together with his brother Adolfas after their arrival in New York in 1949. In the 1950s, Mekas began to shoot his first films, in the process developing an essayistic format that he would use as a diary to record his day-to-day observations. His writing, films, and unflagging commitment to art made him a pioneer of American avant-garde cinema and the barometer of the New York art scene. I Seem to Live: The New York Diaries, 1969–2011, vol. 2, the second and concluding volume of his diaries, contains an extensive index of names as well as a filmography and biography.<br />
-  <br />
-  Jonas Mekas (1922–2019) was born in Lithuania and arrived in New York in 1949 via post-war DP camps in Germany. Co-founder of the Anthology Film Archives, Mekas was a filmmaker, writer, and poet, as well as a tireless advocate for experimental art and a New York City legend.</p>
+description: '<p>Seem to Live: The New York Diaries, 1950–2011 is Jonas Mekas’s key literary work. The first volume (1950–1969) of this magnum opus appeared posthumously in 2019. It ranks alongside his cinematic oeuvre, which he elaborated together with his brother Adolfas after their arrival in New York in 1949. In the 1950s, Mekas began to shoot his first films, in the process developing an essayistic format that he would use as a diary to record his day-to-day observations. His writing, films, and unflagging commitment to art made him a pioneer of American avant-garde cinema and the barometer of the New York art scene. I Seem to Live: The New York Diaries, 1969–2011, vol. 2, the second and concluding volume of his diaries, contains an extensive index of names as well as a filmography and biography.<br /> <br /> Jonas Mekas (1922–2019) was born in Lithuania and arrived in New York in 1949 via post-war DP camps in Germany. Co-founder of the Anthology Film Archives, Mekas was a filmmaker, writer, and poet, as well as a tireless advocate for experimental art and a New York City legend.</p>'
 details: |
   ISBN: "3959052901 / 978-3959052900"
   Content: "800 pages"
@@ -23,7 +20,7 @@ details: |
   Design: "Fabian Bremer, Pascal Storz"
   Language: "English"
   Publishing date: "2022"
-  Images: "© WELTKERN® /  Spector Books. All rights reserved."
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -40,7 +37,7 @@ The New York Diaries (1969-2011)
 
 ----
 
-Uuid: U8iO4jJJcQDm88fG
+Uuid: dWfXWmpe3GwDCShT
 
 ----
 

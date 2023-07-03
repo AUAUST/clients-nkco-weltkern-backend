@@ -9,10 +9,7 @@ weight: 1.5
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>120 bpm is the average number of beats per minute on a club track. So 120 bpm, the book, raps out some high-density forward-thrusting photo sequences from the years of techno’s meteoric rise in Switzerland to become one of the last great youth movements here, leaving its massive imprint on the nightlife, clubs and ongoing innovation in electronic dance music to this day.</p>
-  <p>Swiss photographer Philipp Mueller covered the dawn of the Swiss techno scene in the early 1990s in his raw shots of Zürich’s first street parades, underground raves, and parties—whether backstage in clubs or in the intimacy of private venues—for various magazines.</p>
-  <p>His photographs are interleaved here with facsimiled clippings from rave magazines and fanzines as well as first-hand accounts from some of the ravers who made the nascent scene.</p>
+description: '<p>120 bpm is the average number of beats per minute on a club track. So 120 bpm, the book, raps out some high-density forward-thrusting photo sequences from the years of techno’s meteoric rise in Switzerland to become one of the last great youth movements here, leaving its massive imprint on the nightlife, clubs and ongoing innovation in electronic dance music to this day.</p> <p>Swiss photographer Philipp Mueller covered the dawn of the Swiss techno scene in the early 1990s in his raw shots of Zürich’s first street parades, underground raves, and parties—whether backstage in clubs or in the intimacy of private venues—for various magazines.</p> <p>His photographs are interleaved here with facsimiled clippings from rave magazines and fanzines as well as first-hand accounts from some of the ravers who made the nascent scene.</p>'
 details: |
   ISBN: "3907236260 / 978-3907236260"
   Content: "204 Pages, 260 color"
@@ -43,7 +40,7 @@ Philipp Müller
 
 ----
 
-Uuid: fCGFYasgyf4GbRQa
+Uuid: KUimLjqc7RMu3wHd
 
 ----
 

@@ -12,7 +12,7 @@ author:
 description: '<p>Published on the occasion of the Swiss Design Awards exhibition presented in Hall 3 of Messe Basel from June 13 through 18, 2017.</p>'
 details: |
   Content: "58 pages"
-  Size: "230 × 4 × 320 mm"
+  Size: "230 × 4 ×? 320 mm"
   Edited by: "Federal Office of Culture"
   Language: "English / German / French / Italian"
   Publishing date: "2017"
@@ -47,7 +47,7 @@ Multilinetitle: Swiss Design Awards 2017
 
 ----
 
-Uuid: 5BQrGeX5ncd40OtZ
+Uuid: vIERZE8kzmVN4Nbh
 
 ----
 

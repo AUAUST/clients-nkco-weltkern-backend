@@ -9,12 +9,7 @@ weight: 2.1
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>“The ultimate A-to-Z guide to world-class landscapes and the talents behind them.” – Southern Living<br />
-  <br />
-  Revealing the rich artistic history of this ever-changing art form, the A-to-Z format of this fully updated bestseller creates fascinating juxtapositions between the 500 iconic garden-makers of all time found within its pages<br />
-  <br />
-  A beautifully illustrated A-to-Z who’s who of the world’s finest garden-makers, planters, horticulturists, and their signature works from throughout history, spanning all styles and continents, this international bestseller has been fully revised and updated for a modern, global readership. From the first religious gardens to Dan Pearson’s heavenly Tokachi garden in Japan today, each entry illustrates a key work by the designer, describes the garden, and evokes the unique spirit and ethos of their work.  Images span four millennia, from ancient Persian gardens to the naturalistic designs of today, with landscapes from Chanticleer to Central Park, Sissinghurst to Versailles, showcasing the biggest names and rising stars of contemporary garden design alongside iconic figures of the past, including Capability Brown, Andrea Cochran, Antoni Gaudí, Dan Hinkley, Gertrude Jekyll, Christopher Lloyd, Cornelia Oberlander, Charles Platt, Carlo Scarpa, Piet Oudolf and more. It’s the essential reference for today’s gardeners, offering infinite inspiration to create their own signature spaces, whatever their landscape. An exquisite gift and invaluable and authoritative reference for gardeners and garden lovers alike, offering lasting appeal to garden designers, students of garden design, amateur gardeners and garden historians.</p>
+description: '<p>“The ultimate A-to-Z guide to world-class landscapes and the talents behind them.” – Southern Living<br /> <br /> Revealing the rich artistic history of this ever-changing art form, the A-to-Z format of this fully updated bestseller creates fascinating juxtapositions between the 500 iconic garden-makers of all time found within its pages<br /> <br /> A beautifully illustrated A-to-Z who’s who of the world’s finest garden-makers, planters, horticulturists, and their signature works from throughout history, spanning all styles and continents, this international bestseller has been fully revised and updated for a modern, global readership. From the first religious gardens to Dan Pearson’s heavenly Tokachi garden in Japan today, each entry illustrates a key work by the designer, describes the garden, and evokes the unique spirit and ethos of their work. Images span four millennia, from ancient Persian gardens to the naturalistic designs of today, with landscapes from Chanticleer to Central Park, Sissinghurst to Versailles, showcasing the biggest names and rising stars of contemporary garden design alongside iconic figures of the past, including Capability Brown, Andrea Cochran, Antoni Gaudí, Dan Hinkley, Gertrude Jekyll, Christopher Lloyd, Cornelia Oberlander, Charles Platt, Carlo Scarpa, Piet Oudolf and more. It’s the essential reference for today’s gardeners, offering infinite inspiration to create their own signature spaces, whatever their landscape. An exquisite gift and invaluable and authoritative reference for gardeners and garden lovers alike, offering lasting appeal to garden designers, students of garden design, amateur gardeners and garden historians.</p>'
 details: |
   ISBN: "1838663209 / 978-1838663209"
   Content: "500 pages"
@@ -39,7 +34,7 @@ Revised & Updated Edition
 
 ----
 
-Uuid: okLWGM2KMeUdxSK1
+Uuid: 5FkZSC32f2Xidr6D
 
 ----
 

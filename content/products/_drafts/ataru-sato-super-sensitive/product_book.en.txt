@@ -9,9 +9,7 @@ weight: 0.7
 author:
   name: Topsafe
   id: 379
-description: |
-  <p>Published on the occasion of Ataru Sato’s solo exhibition, “111 / triple one,” at Tokyo’s KOSAKU KANECHIKA gallery, Super Sensitive collects the Chiba-born artist’s work from 2008-21. A graduate of the Kyoto University of the Arts, Sato deconstructs his emotions — fear, lust, romance etc. — through drawing. Each dense work pulls from memory to remake, or rework, a feeling and within his complete oeuvre we find an artist equipped with a rare inner percipience.<br />
-  Super Sensitive, which will be the artist’s first publication since 2009, contains that conversation, an introduction by Keiichi Tanami and 115 works. Each is relatively small in scale — Sato sleeps, lives and works in the same space — and all of the drawings, paintings and three-dimensional boxes endeavor to make sense of self, humanity and world in some measure.</p>
+description: '<p>Published on the occasion of Ataru Sato’s solo exhibition, “111 / triple one,” at Tokyo’s KOSAKU KANECHIKA gallery, Super Sensitive collects the Chiba-born artist’s work from 2008-21. A graduate of the Kyoto University of the Arts, Sato deconstructs his emotions — fear, lust, romance etc. — through drawing. Each dense work pulls from memory to remake, or rework, a feeling and within his complete oeuvre we find an artist equipped with a rare inner percipience.<br /> Super Sensitive, which will be the artist’s first publication since 2009, contains that conversation, an introduction by Keiichi Tanami and 115 works. Each is relatively small in scale — Sato sleeps, lives and works in the same space — and all of the drawings, paintings and three-dimensional boxes endeavor to make sense of self, humanity and world in some measure.</p>'
 details: |
   Content: "176 pages"
   Size: "150 × 210 mm"
@@ -59,7 +57,7 @@ Super Sensitive
 
 ----
 
-Uuid: t3sa88u1AygIgAwW
+Uuid: Covg0UTaTCFqMuGL
 
 ----
 

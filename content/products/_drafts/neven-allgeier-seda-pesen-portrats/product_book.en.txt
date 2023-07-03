@@ -9,10 +9,7 @@ weight: 0.9
 author:
   name: Distanz
   id: 366
-description: |
-  <p>Porträts presents the fruits of a collaboration between Neven Allgeier (b. Wiesbaden, 1986; lives and works in Frankfurt and Berlin), KubaParis, and Seda Pesen. In 2017, the online magazine KubaParis worked with the photographer to develop a series of portraits of the students in Andreas Gursky’s class at the Düsseldorf Academy of Fine Arts. Follow-up engagements laid the foundation for this ongoing project, which surveys a rising generation of young artists. Neven Allgeier’s work regularly appears in media including SPIKE Art Quarterly, i-D Magazine, and ZEIT Magazin, and has been showcased at Museum Angewandte Kunst, Frankfurt, Bonner Kunstverein, and elsewhere. KubaParis, a magazine for young art, was launched in 2013 and is led and curated by Saskia Höfler-Hohengarten and Nora Cristea.<br />
-  <br />
-  Porträts is the first contemporary foray into publishing an extensive selection of these photographs and reflecting what they show. In a nod to the generation portraits by recognized masters of the medium like Thomas Ruff and Stefan Moses, the pictures are meant to capture not only the individual subjects, but also contemporary aesthetic codes—through the photography as such as well as the fashion styles and settings. The book—a who’s who of young art and review of contemporary aesthetics—features over 125 emerging artists. It is rounded out by essays by Anne-Marie Bonnet, Heinz Drügh, Barbara Kapusta, and Barbara Zeman.</p>
+description: '<p>Porträts presents the fruits of a collaboration between Neven Allgeier (b. Wiesbaden, 1986; lives and works in Frankfurt and Berlin), KubaParis, and Seda Pesen. In 2017, the online magazine KubaParis worked with the photographer to develop a series of portraits of the students in Andreas Gursky’s class at the Düsseldorf Academy of Fine Arts. Follow-up engagements laid the foundation for this ongoing project, which surveys a rising generation of young artists. Neven Allgeier’s work regularly appears in media including SPIKE Art Quarterly, i-D Magazine, and ZEIT Magazin, and has been showcased at Museum Angewandte Kunst, Frankfurt, Bonner Kunstverein, and elsewhere. KubaParis, a magazine for young art, was launched in 2013 and is led and curated by Saskia Höfler-Hohengarten and Nora Cristea.<br /> <br /> Porträts is the first contemporary foray into publishing an extensive selection of these photographs and reflecting what they show. In a nod to the generation portraits by recognized masters of the medium like Thomas Ruff and Stefan Moses, the pictures are meant to capture not only the individual subjects, but also contemporary aesthetic codes—through the photography as such as well as the fashion styles and settings. The book—a who’s who of young art and review of contemporary aesthetics—features over 125 emerging artists. It is rounded out by essays by Anne-Marie Bonnet, Heinz Drügh, Barbara Kapusta, and Barbara Zeman.</p>'
 details: |
   ISBN: "3954763966 / 978-3954763962"
   Content: "184 pages"
@@ -53,7 +50,7 @@ Porträts
 
 ----
 
-Uuid: kItjiTSbmQevp4Js
+Uuid: JTcjSmFs80FYcMOf
 
 ----
 

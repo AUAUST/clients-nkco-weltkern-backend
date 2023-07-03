@@ -17,8 +17,7 @@ details: |
   Author: "Thomas Mayer"
   Edited by: "Thomas Mayer, Clara Meister"
   Contributions from: "Janet Cardiff, Annika Eriksson, Bo Christian Larsson, Arto Lindsay, Olaf Nicolai, Douglas Gordon, Anri Sala"
-  Design: "Studio Quentin Walesch
-  
+  Design: "Studio Quentin Walesch "
   Language: "English / German"
   Publishing date: "2017"
   Specs: "Hardcover"
@@ -75,7 +74,7 @@ Exhibiting Music
 
 ----
 
-Uuid: KWL9FvNQhLbzXYgb
+Uuid: p8cjwIxAk5Sp0HBS
 
 ----
 

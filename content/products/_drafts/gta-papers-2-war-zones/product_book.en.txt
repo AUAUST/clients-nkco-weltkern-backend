@@ -13,8 +13,7 @@ description: '<p>After the Second World War and at the onset of the Cold War, wa
 details: |
   ISBN: "3856763909 / 978-3856763909"
   Content: "134 pages"
-  Size: "210 × 297 mm
-  
+  Size: "210 × 297 mm "
   Language: "English"
   Edited by: "Samia Henni"
   Graphic design: "büro uebele"
@@ -38,7 +37,7 @@ War Zones
 
 ----
 
-Uuid: Tgn08zlvn8quuPGn
+Uuid: 9ZWMDJpnlwjnIWYQ
 
 ----
 

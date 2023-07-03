@@ -16,8 +16,7 @@ description: '<p>What is artistic research? What is a research document? How do 
 details: |
   ISBN: "9493148437 / 978-9493148437"
   Content: "136 pages"
-  Size: "130 × 200 mm
-  
+  Size: "130 × 200 mm "
   Language: "English "
   Edited by: "Dirk Vis and Florian Cramer"
   Graphic design: "Robert Reinartz"
@@ -37,7 +36,7 @@ Multilinetitle: Research For People Who Think They Would Rather Create
 
 ----
 
-Uuid: SOBdZT6EiKXxjAfn
+Uuid: lBsfvWzoyemSXYnO
 
 ----
 

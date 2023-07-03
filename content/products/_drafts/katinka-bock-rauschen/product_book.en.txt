@@ -9,10 +9,7 @@ weight: 0.5
 author:
   name: Distanz
   id: 366
-description: |
-  <p>Clay, bronze, copper, glass, wood, stone, natural and found materials: these are the basic elements out of which Katinka Bock (b. Frankfurt am Main, 1976; lives and works in Berlin and Paris) creates sculptures and installations that probe time and space and bear witness to her sustained engagement with history, topography, and geography. Bock’s practice often connects interior and exterior settings, undoing the division between exhibition site and scene of production. Her works by turns exude an air of evanescence or stand before the beholder as enduring monuments.<br />
-  <br />
-  The catalogue documents three exhibitions that the artist realized at Pivô, São Paulo, the Kestner Gesellschaft, Hannover, and Anticipations, Paris, from 2019 to 2020, and weaves the different stations together for a new encompassing experience. The three exhibition projects interlink mutually independent historic events on the semantic level. Bronze as a material plays a key role in this connection; to Katinka Bock’s mind, it possesses protective and isolating qualities, but also the capacity to transport energy, making the sprawling installations compelling visualizations of cohesion, the transfer of knowledge, and emotional sympathy. With writings by Lea Altner, Thomas Boutoux, Fernanda Brenner, Adam Budak, Rebecca Lamarche-Vadel, François Quintin, Clara Schulmann, Christina Végh, and the artist.</p>
+description: '<p>Clay, bronze, copper, glass, wood, stone, natural and found materials: these are the basic elements out of which Katinka Bock (b. Frankfurt am Main, 1976; lives and works in Berlin and Paris) creates sculptures and installations that probe time and space and bear witness to her sustained engagement with history, topography, and geography. Bock’s practice often connects interior and exterior settings, undoing the division between exhibition site and scene of production. Her works by turns exude an air of evanescence or stand before the beholder as enduring monuments.<br /> <br /> The catalogue documents three exhibitions that the artist realized at Pivô, São Paulo, the Kestner Gesellschaft, Hannover, and Anticipations, Paris, from 2019 to 2020, and weaves the different stations together for a new encompassing experience. The three exhibition projects interlink mutually independent historic events on the semantic level. Bronze as a material plays a key role in this connection; to Katinka Bock’s mind, it possesses protective and isolating qualities, but also the capacity to transport energy, making the sprawling installations compelling visualizations of cohesion, the transfer of knowledge, and emotional sympathy. With writings by Lea Altner, Thomas Boutoux, Fernanda Brenner, Adam Budak, Rebecca Lamarche-Vadel, François Quintin, Clara Schulmann, Christina Végh, and the artist.</p>'
 details: |
   ISBN: "3954764385 / 978-3954764389"
   Content: "112 pages"
@@ -50,7 +47,7 @@ Rauschen
 
 ----
 
-Uuid: 5uv3JwW9wWR2QhF7
+Uuid: 0nZrOIDyQ7wasiSq
 
 ----
 

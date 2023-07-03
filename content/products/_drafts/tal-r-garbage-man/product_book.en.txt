@@ -9,10 +9,7 @@ weight: 0
 author:
   name: Innen Zines
   id: 263
-description: |
-  <p><em>Garbage Man</em> – could refer to Tal R himself as manic collector of what other people would perhaps refer to as refuse. Collecting and arranging of images is an integral component of his artistic practice and arises in its own manifestation from an inner necessity. The Yiddish word “Kolbojnik” (Waste, Remains) also runs through the work of the artist within the titling of many of his works. His collection, which can be found within the individual collages, consists of an eclectic mix of “primitive tribal art”, art history masterpieces, pornos, comics, private photos, childhood pictures, sketches and picture book illustrations, and was collected by Tal R over a period of 25 years.</p>
-  <p>The works evoke in their pseudo-encyclopaedic phenomenon associations, Aby Warburg&#8217;s Mnemosyne Atlas, or, to refer to another artist, the Atlas by Gerhard Richter. Similar to him, the arranged pieces within the collages from <em>Garbage Man</em> served and serve the artist also as templates for paintings and sculptures.</p>
-  <p>Tal R has boundless creative energy: he transforms everything in his environment into art. His work looks wild and vital, with a knowingly playful, almost absurdist tone. Tal R freely combines techniques and materials: he paints, draws and makes collages, sculptures and furniture. Tal R is a keen observer, who takes inspiration from reality as well as his imagination.</p>
+description: '<p><em>Garbage Man</em> – could refer to Tal R himself as manic collector of what other people would perhaps refer to as refuse. Collecting and arranging of images is an integral component of his artistic practice and arises in its own manifestation from an inner necessity. The Yiddish word “Kolbojnik” (Waste, Remains) also runs through the work of the artist within the titling of many of his works. His collection, which can be found within the individual collages, consists of an eclectic mix of “primitive tribal art”, art history masterpieces, pornos, comics, private photos, childhood pictures, sketches and picture book illustrations, and was collected by Tal R over a period of 25 years.</p> <p>The works evoke in their pseudo-encyclopaedic phenomenon associations, Aby Warburg&#8217;s Mnemosyne Atlas, or, to refer to another artist, the Atlas by Gerhard Richter. Similar to him, the arranged pieces within the collages from <em>Garbage Man</em> served and serve the artist also as templates for paintings and sculptures.</p> <p>Tal R has boundless creative energy: he transforms everything in his environment into art. His work looks wild and vital, with a knowingly playful, almost absurdist tone. Tal R freely combines techniques and materials: he paints, draws and makes collages, sculptures and furniture. Tal R is a keen observer, who takes inspiration from reality as well as his imagination.</p>'
 details: |
   ISBN: "3907179284 / 978-3907179284"
   Content: "400 Pages"
@@ -38,7 +35,7 @@ Garbage Man
 
 ----
 
-Uuid: V6q6rbzsdTNpoomS
+Uuid: wgGQuCI53sNBV5lg
 
 ----
 

@@ -15,8 +15,7 @@ details: |
   Size: "220 × 290 mm"
   Language: "English"
   Publishing date: "2016"
-  Specs: "Softbound, silver spin tape.
-  2× silver slip-in poems"
+  Specs: "Softbound, silver spin tape. 2× silver slip-in poems"
   Images: "© WELTKERN® / ‎Topsafe. All rights reserved."
 gallery:
   - 
@@ -50,7 +49,7 @@ A New Place 2 Drown
 
 ----
 
-Uuid: VvLlXWOpNoNdrq7Y
+Uuid: 7QolJl0WFDuSqaBF
 
 ----
 

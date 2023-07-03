@@ -9,12 +9,7 @@ weight: 1.8
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>Over the past 25 years, Supreme has transformed itself from a downtown New York skate shop into an iconic global brand. Supreme-the book-looks back on more than two decades of the creations, stories, and convention-defying attitude that are uniquely Supreme.<br />
-  <br />
-  Featuring more than 800 stunning images, from photographers such as Larry Clark, Ari Marcopoulos, and David Sims, readers will have unparallled access to behind-the-scenes content, including the company&#8217;s highly limited products-everything from t-shirts to bicycles-and collaborations-Nan Goldin, Comme de Garçons, and Nike, to name a few. The book also features a curated section of lookbooks and an index of T-shirts released since Supreme&#8217;s Spring/Summer 2010 collections. And, with written contributions by pop-culture critic Carlo McCormick and film director Harmony Korine, readers will get exclusive insight into Supreme&#8217;s core ethos from two lifelong devotees.<br />
-  <br />
-  Known as much for its irreverent and iconoclastic spirit as it is for its commitment to design and quality, Supreme&#8217;s products have become as recognizable and coveted as those from the world&#8217;s top luxury brands-this book is no exception.</p>
+description: '<p>Over the past 25 years, Supreme has transformed itself from a downtown New York skate shop into an iconic global brand.? Supreme-the book-looks back on more than two decades of the creations, stories, and convention-defying attitude that are uniquely Supreme.<br /> <br /> Featuring more than 800 stunning images, from photographers such as Larry Clark, Ari Marcopoulos, and David Sims, readers will have unparallled access to behind-the-scenes content, including the company&#8217;s highly limited products-everything from t-shirts to bicycles-and collaborations-Nan Goldin, Comme de Garçons, and Nike, to name a few. The book also features a curated section of lookbooks and an index of T-shirts released since Supreme&#8217;s Spring/Summer 2010 collections. And, with written contributions by pop-culture critic Carlo McCormick and film director Harmony Korine, readers will get exclusive insight into Supreme&#8217;s core ethos from two lifelong devotees.<br /> <br /> Known as much for its irreverent and iconoclastic spirit as it is for its commitment to design and quality, Supreme&#8217;s products have become as recognizable and coveted as those from the world&#8217;s top luxury brands-this book is no exception.</p>'
 details: |
   ISBN: "1838660314 / 978-1838660314"
   Content: "352 pages"
@@ -53,7 +48,7 @@ Multilinetitle: Supreme
 
 ----
 
-Uuid: XRMP1Jn2wvXE1luW
+Uuid: Os92Meo18OLk2im5
 
 ----
 

@@ -9,9 +9,7 @@ weight: 2.1
 author:
   name: Park Books
   id: 88
-description: |
-  <p>Basel-based architects Daniel Buchner and Andreas Bründler established their studio in 1997 and soon gained wide recognition for their designs. Today, Buchner Bründler Architects ranks among the leading Swiss firms of the younger generation. This book, their second major monograph, features around fifteen completed projects from 2010 to 2020 in rich detail. The selection comprises new buildings as well as significant reconstructions, with a focus on housing designs of various size and type in Switzerland and Germany. This is supplemented by a heavily illustrated survey of another fifty buildings and unrealized projects. In total, this lavish volume features some 1,500 photographs, sketches, plans, and visualizations, most of them previously unpublished.</p>
-  <p>Yet Buchner Bründler – Buildings II does not merely bring together images of individual buildings. Instead, it places them in a larger context with concise texts that explore as well historic, social, and economical aspects of the specific location. Moreover, the renowned Swiss book designer Ludovic Balland and his collaborator Annina Schepping have experimented with a range of photographic methods and techniques. Their artistic interpretations of Buchner Bründler’s buildings complete a stunningly beautiful volume.</p>
+description: '<p>Basel-based architects Daniel Buchner and Andreas Bründler established their studio in 1997 and soon gained wide recognition for their designs. Today, Buchner Bründler Architects ranks among the leading Swiss firms of the younger generation. This book, their second major monograph, features around fifteen completed projects from 2010 to 2020 in rich detail. The selection comprises new buildings as well as significant reconstructions, with a focus on housing designs of various size and type in Switzerland and Germany. This is supplemented by a heavily illustrated survey of another fifty buildings and unrealized projects. In total, this lavish volume features some 1,500 photographs, sketches, plans, and visualizations, most of them previously unpublished.</p> <p>Yet Buchner Bründler – Buildings II does not merely bring together images of individual buildings. Instead, it places them in a larger context with concise texts that explore as well historic, social, and economical aspects of the specific location. Moreover, the renowned Swiss book designer Ludovic Balland and his collaborator Annina Schepping have experimented with a range of photographic methods and techniques. Their artistic interpretations of Buchner Bründler’s buildings complete a stunningly beautiful volume.</p>'
 details: |
   ISBN: "3038602515 / 978-3038602514"
   Content: "528 pages"
@@ -69,7 +67,7 @@ Bauten II
 
 ----
 
-Uuid: IKKXvyzzhhim39yM
+Uuid: pjI6jcJRg7a8ZGHQ
 
 ----
 

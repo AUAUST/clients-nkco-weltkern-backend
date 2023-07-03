@@ -9,10 +9,7 @@ weight: 2
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>A hybrid between a magazine and a book, paying homage to a lineage of Italian radical design publications while indulging in a lavish physicality, Capsule will be released annually during Milan Design Week. Delving into the world of design in its broader definition through a genre-bending line up of designers, architects, and creators, the first issue comes with a set of three covers.<br />
-  <br />
-  Featuring: Nanda Vigo, Alessandro Mendini, Green River Project, Mario Bellini, Nakagin Dreams, Plastic Drip, Karim Rashid, Atelier Van Lieshout, Devon Turnbull, and Eugene Whang.</p>
+description: '<p>A hybrid between a magazine and a book, paying homage to a lineage of Italian radical design publications while indulging in a lavish physicality, Capsule will be released annually during Milan Design Week. Delving into the world of design in its broader definition through a genre-bending line up of designers, architects, and creators, the first issue comes with a set of three covers.<br /> <br /> Featuring: Nanda Vigo, Alessandro Mendini, Green River Project, Mario Bellini, Nakagin Dreams, Plastic Drip, Karim Rashid, Atelier Van Lieshout, Devon Turnbull, and Eugene Whang.</p>'
 details: |
   Content: "200 pages"
   Size: "310 × 335 mm"
@@ -36,7 +33,7 @@ Plastic Drip Cover
 
 ----
 
-Uuid: 20OqrW5FGFkeMsMq
+Uuid: E1We2rqlS2R3c88m
 
 ----
 

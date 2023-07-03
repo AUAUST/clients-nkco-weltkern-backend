@@ -10,12 +10,7 @@ weight: 0.95
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p><em>Alfred Jonathan Steffen – Art Décor</em> brings back to life the forgotten art of window-dressing, through an artistic and intimate portrtait of window-dresser Bob Steffen.<br />
-  <br />
-  Bob Steffen stood out as the flamboyant star among the window dressers of stuffy postwar Bern. His exuberant backdrops for furs, fabrics and lingerie were the talk of the town, as was the globetrotting nonconformist gay bon vivant himself. Of humble origins, Steffen slept his way up, as an upscale hustler / nude model, into the jet set of the gay beau monde, blossoming out into a successful decorator who was to remain a central figure of Bern&#8217;s bohemian scene up until a ripe old age. Flamboyant and brazenly promiscuous, he lived by his own rules and didn&#8217;t care a fig about the norms of bourgeois society or, as a window dresser, about the standards of “good taste”.<br />
-  <br />
-  <em>Art Décor</em> delves into the rich legacy of pictures Bob Steffen left behind, exploring the kaleidoscopic facets of his life. It brings back to life the forgotten art of window-dressing as well as artists&#8217; masquerade balls, a forgotten world of the 1950s and &#8217;60s, and follows Bob on his world travels. The portraits of the born poser become a springboard for musings on the nature of posing. His affair with an Afro-American ballet dancer leads us to the remarkable history of Afro-American dance companies in Europe before and after World War II. His life is retraced in interviews and collaged snippets of conversations. Art Décor is a potpourri as lavish as Bob Steffen&#8217;s store windows.</p>
+description: '<p><em>Alfred Jonathan Steffen – Art Décor</em> brings back to life the forgotten art of window-dressing, through an artistic and intimate portrtait of window-dresser Bob Steffen.<br /> <br /> Bob Steffen stood out as the flamboyant star among the window dressers of stuffy postwar Bern. His exuberant backdrops for furs, fabrics and lingerie were the talk of the town, as was the globetrotting nonconformist gay bon vivant himself. Of humble origins, Steffen slept his way up, as an upscale hustler / nude model, into the jet set of the gay beau monde, blossoming out into a successful decorator who was to remain a central figure of Bern&#8217;s bohemian scene up until a ripe old age. Flamboyant and brazenly promiscuous, he lived by his own rules and didn&#8217;t care a fig about the norms of bourgeois society or, as a window dresser, about the standards of “good taste”.<br /> <br /> <em>Art Décor</em> delves into the rich legacy of pictures Bob Steffen left behind, exploring the kaleidoscopic facets of his life. It brings back to life the forgotten art of window-dressing as well as artists&#8217; masquerade balls, a forgotten world of the 1950s and &#8217;60s, and follows Bob on his world travels. The portraits of the born poser become a springboard for musings on the nature of posing. His affair with an Afro-American ballet dancer leads us to the remarkable history of Afro-American dance companies in Europe before and after World War II. His life is retraced in interviews and collaged snippets of conversations. Art Décor is a potpourri as lavish as Bob Steffen&#8217;s store windows.</p>'
 details: |
   ISBN: "3906803500 / 978-3906803500 "
   Content: "250 pages"
@@ -66,7 +61,7 @@ Art Décor
 
 ----
 
-Uuid: lcsbCxe0qcCU99gT
+Uuid: qlW7qDR2WFAtpIow
 
 ----
 

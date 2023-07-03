@@ -11,7 +11,7 @@ author:
   id: 241
 description: '<p><em>Support Magazine</em> is an annual book dedicated to contemporary drawing. About a hundred illustrators are invited to select the illustration they have done in the year they are most proud of, and explain why.</p>'
 details: |
-  Size: "240 × 20 × 320 mm"
+  Size: "240 × 20 ×? 320 mm"
   Design: "Plus Trente Trois"
   Font in use: "TWK Lausanne"
   Language: "English"
@@ -50,7 +50,7 @@ Issue n°1
 
 ----
 
-Uuid: zNJiXdTC2PuwveX2
+Uuid: uNVzU6chY8E022Ei
 
 ----
 

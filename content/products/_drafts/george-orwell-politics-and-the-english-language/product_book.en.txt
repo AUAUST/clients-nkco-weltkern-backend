@@ -14,7 +14,7 @@ description: '<p>&#8216;Politics and the English Language&#8217; is widely consi
 details: |
   ISBN: "0141393068 / 978-0141393063"
   Content: "32 pages"
-  Size: "109 × 2 × 183 mm"
+  Size: "109 × 2 ×? 183 mm"
   Author: "George Orwell"
   Language: "English"
   Publishing date: "2013"
@@ -36,7 +36,7 @@ Politics and the English Language
 
 ----
 
-Uuid: 5B4r8sdjWPVxpudO
+Uuid: 1sBqIF2aT6Qaw94V
 
 ----
 

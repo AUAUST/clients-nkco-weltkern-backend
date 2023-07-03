@@ -10,11 +10,7 @@ weight: 0.3
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Trix and Robert Haussmann are well known both in Switzerland and internationally for their vast contribution to design and interiors. Living and working together since the ‘60s, symbiotically creating and also sharing wonderful interiors filled with works of art and beautiful objects, one can think of them—and the spaces they inhabit—as an ever-evolving ‘double self-portrait’.<br />
-  The Haussmanns have had close ties to the avant-garde of their time, have followed the various trends and artistic currents and have actively participated in the local scenes of Zurich or Bern. Through documenting their numerous exchanges and conversations with artists, dealers and creative kindred spirits, this book is a testimony of their lifelong interest in the visual arts, their active, enthusiastic and witty involvement with the Swiss art scene as well as their rather playful commitment to it.<br />
-  A conversation with Swiss author and curator Dieter Schwarz reveals a number of events and anecdotes that also attest to the couple’s fascinating life with art which they have collected intuitively rather than with a particular strategy in mind throughout their lives and careers.<br />
-  The numerous photographic documents of their unique and somewhat exuberant interiors that span almost five decades and several homes are exemplary both of the distinctive way in which Trix and Robert Haussmann welcome works of art into their everyday lives alongside their furniture—including their own— and their various artefacts as well as of their very personal and playful use of mirrors.</p>
+description: '<p>Trix and Robert Haussmann are well known both in Switzerland and internationally for their vast contribution to design and interiors. Living and working together since the ‘60s, symbiotically creating and also sharing wonderful interiors filled with works of art and beautiful objects, one can think of them—and the spaces they inhabit—as an ever-evolving ‘double self-portrait’.<br /> The Haussmanns have had close ties to the avant-garde of their time, have followed the various trends and artistic currents and have actively participated in the local scenes of Zurich or Bern. Through documenting their numerous exchanges and conversations with artists, dealers and creative kindred spirits, this book is a testimony of their lifelong interest in the visual arts, their active, enthusiastic and witty involvement with the Swiss art scene as well as their rather playful commitment to it.<br /> A conversation with Swiss author and curator Dieter Schwarz reveals a number of events and anecdotes that also attest to the couple’s fascinating life with art which they have collected intuitively rather than with a particular strategy in mind throughout their lives and careers.<br /> The numerous photographic documents of their unique and somewhat exuberant interiors that span almost five decades and several homes are exemplary both of the distinctive way in which Trix and Robert Haussmann welcome works of art into their everyday lives alongside their furniture—including their own— and their various artefacts as well as of their very personal and playful use of mirrors.</p>'
 details: |
   ISBN: "3907236383 / 978-3907236383"
   Content: "168 pages"
@@ -42,7 +38,7 @@ innen / A Life with Art and Artists
 
 ----
 
-Uuid: W2E7oEN8QJ8zd5ar
+Uuid: ytOahRFpBjksg6tO
 
 ----
 

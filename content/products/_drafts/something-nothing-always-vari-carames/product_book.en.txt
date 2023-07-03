@@ -9,10 +9,7 @@ weight: 1.1
 author:
   name: Fabulatorio
   id: 329
-description: |
-  <p>“I don’t see myself quite as a photographer, nor as a painter, nor as an artist, nor as anything else. I’m in between something that entertains me”.<br />
-  — Vari Caramés</p>
-  <p>Catalog of the exhibition Something, Nothing, Always. Vari Caramés 1980-2021 at Sala Canal de Isabel II, curated by Blanca Berlín and Nerea Ubieto.</p>
+description: '<p>“I don’t see myself quite as a photographer, nor as a painter, nor as an artist, nor as anything else. I’m in between something that entertains me”.<br /> — Vari Caramés</p> <p>Catalog of the exhibition Something, Nothing, Always. Vari Caramés 1980-2021 at Sala Canal de Isabel II, curated by Blanca Berlín and Nerea Ubieto.</p>'
 details: |
   ISBN: "8412426014 / 978-8412426014"
   Content: "174 pages"
@@ -40,7 +37,7 @@ Vari Caramés
 
 ----
 
-Uuid: eoOXE7XzMfdQF0PB
+Uuid: AZwoqKQuPFv0ci7Q
 
 ----
 

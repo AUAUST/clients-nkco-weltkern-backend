@@ -10,18 +10,14 @@ weight: 3.1
 author:
   name: JRP|Editions
   id: 94
-description: |
-  <p>The artist&#8217;s own archive of phantasmagoria: a unique collection of objects and ephemera relating to magic, the paranormal, occultism, pseudoscience, technology as well as their cultural and media portrayals.<br />
-  Started in the Nineties, Oursler&#8217;s vast personal archive functions as an open visual resource, historical inquiry, and—most intriguingly—a family history. One of the collection&#8217;s many digressions is the friendship between the artist&#8217;s grandfather Charles Fulton Oursler—a famous early 20th Century author and publisher—and magician and escapologist Harry Houdini, their joint campaign against fraudulent mediums, and a historic interaction with Arthur Conan Doyle, who, beyond his Sherlock Holmes series, was an important advocate for spiritualism and the paranormal.<br />
-  <br />
-  This publication features up to 1,200 objects from Oursler&#8217;s collection, including photographs, prints, historic manuscripts, rare books, letters, and objects. Additional topics include stage magic, thought photography, demonology, cryptozoology, optics, mesmerism, automatic writing, hypnotism, fairies, cults, the occult, color theory, and UFOs. Linking these wide-ranging materials is Oursler&#8217;s underlying interest in belief systems and human nature—the suspension of disbelief, or perhaps just our propensity to believe. The material in Oursler&#8217;s collection broadens recent explorations of technology and mystical cultural production, investigating the relationships between science, pseudo-science, religion, and the occult with visual and archival documents that demonstrate the power of images to carry and challenge our most cherished beliefs.</p>
+description: '<p>The artist&#8217;s own archive of phantasmagoria: a unique collection of objects and ephemera relating to magic, the? paranormal, occultism, pseudoscience, technology as well as their cultural and media portrayals.<br /> Started in the Nineties, Oursler&#8217;s vast personal archive functions as an open visual resource, historical inquiry, and—most intriguingly—a family history. One of the collection&#8217;s many digressions is the friendship between the artist&#8217;s grandfather Charles Fulton Oursler—a famous early 20th Century author and publisher—and magician and escapologist Harry Houdini, their joint campaign against fraudulent mediums, and a historic interaction with Arthur Conan Doyle, who, beyond his Sherlock Holmes series, was an important advocate for spiritualism and the paranormal.<br /> <br /> This publication features up to? 1,200 objects from Oursler&#8217;s collection, including photographs, prints, historic manuscripts, rare books, letters, and objects. Additional topics include stage magic, thought photography, demonology, cryptozoology, optics, mesmerism, automatic writing, hypnotism, fairies, cults, the occult, color theory, and UFOs. Linking these wide-ranging materials is Oursler&#8217;s underlying interest in belief systems and human nature—the suspension of disbelief, or perhaps just our propensity to believe. The material in Oursler&#8217;s collection broadens recent explorations of technology and mystical cultural production, investigating the relationships between science, pseudo-science, religion, and the occult with visual and archival documents that demonstrate the power of images to carry and challenge our most cherished beliefs.</p>'
 details: |
   ISBN: "3037644751 / 978-3037644751"
   Content: "520 pages"
   Size: "116 × 50 × 280 mm"
   Author: "Tony Oursler"
   Edited by: "Tom Eccles, Maja Hoffmann, Beatrix Ruf."
-  Texts by: "Jordan Bear, Karen Beckman, Noam Elcott, Maja Hoffmann, Branden W. Joseph, Peter Lamont, Fred Nadis, Stephanie O'Rourke, Jim Steinmeyer, Christopher Turner"
+  Texts by: "Jordan Bear, Karen Beckman, Noam Elcott,? Maja Hoffmann,? Branden W. Joseph, Peter Lamont, Fred Nadis, Stephanie O'Rourke,? Jim Steinmeyer, Christopher Turner"
   Design: "Zak Group"
   Language: "English"
   Publishing date: "2015"
@@ -91,7 +87,7 @@ The Archives of Tony Oursler (First Edition)
 
 ----
 
-Uuid: 85xAJNByfTgOa8CO
+Uuid: sxxC91WRZ6zhwoqR
 
 ----
 

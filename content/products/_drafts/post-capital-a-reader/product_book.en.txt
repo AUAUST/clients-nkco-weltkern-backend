@@ -9,11 +9,7 @@ weight: 0.9
 author:
   name: Mousse Publishing
   id: 111
-description: |
-  <p>The exhibition Post-Capital: Art and Economy in the Digital Age brings together sculptures, paintings, photographs, videos and performances that examine the nature of production, consumption and wealth. Conceived at a time marked by the uncertainties of the profound upheavals we are witnessing, it takes as its starting point the paradox inherent in the capitalist system, which is both dependent on technological progress and threatened by its developments.<br />
-  The exhibition takes its title from Peter Drucker&#8217;s 1993 book, Post-Capitalist Society, in which he predicted that the impact of information technology on the labor market would be such that it would eventually lead to the collapse of capitalism by 2020. Published when the Internet was still in its infancy (as a reminder, the first connection in Luxembourg was made in 1992), he claimed that in the future knowledge would replace capital, labor or land ownership as the main source of wealth.<br />
-  Since then, the very forms of work, money, goods and consumption have been radically transformed by ever-changing technologies. The giants of information technology and online commerce are some of the most publicly traded companies in the world. Both abundant and infinitely reproducible, information has become a precious commodity that defies traditional economic principles, which would have it that the value of a commodity is determined by its scarcity. Post-Capital presents works by twenty-one artists who explore in different ways the aesthetics, paradoxes, aberrations, and ethical problems associated with post-industrial, even post-capital, economies.<br />
-  The richly illustrated catalog, which includes an essay by the curator and short texts on the works on view, also includes recent texts by leading scholars of economics, art, and culture, including excerpts from books by James Bridle, Heike Geissler, Richard Seymour, Hito Steyerl, McKenzie Wark, and Shoshana Zuboff.</p>
+description: '<p>The exhibition Post-Capital: Art and Economy in the Digital Age brings together sculptures, paintings, photographs, videos and performances that examine the nature of production, consumption and wealth. Conceived at a time marked by the uncertainties of the profound upheavals we are witnessing, it takes as its starting point the paradox inherent in the capitalist system, which is both dependent on technological progress and threatened by its developments.<br /> The exhibition takes its title from Peter Drucker&#8217;s 1993 book, Post-Capitalist Society, in which he predicted that the impact of information technology on the labor market would be such that it would eventually lead to the collapse of capitalism by 2020. Published when the Internet was still in its infancy (as a reminder, the first connection in Luxembourg was made in 1992), he claimed that in the future knowledge would replace capital, labor or land ownership as the main source of wealth.<br /> Since then, the very forms of work, money, goods and consumption have been radically transformed by ever-changing technologies. The giants of information technology and online commerce are some of the most publicly traded companies in the world. Both abundant and infinitely reproducible, information has become a precious commodity that defies traditional economic principles, which would have it that the value of a commodity is determined by its scarcity. Post-Capital presents works by twenty-one artists who explore in different ways the aesthetics, paradoxes, aberrations, and ethical problems associated with post-industrial, even post-capital, economies.<br /> The richly illustrated catalog, which includes an essay by the curator and short texts on the works on view, also includes recent texts by leading scholars of economics, art, and culture, including excerpts from books by James Bridle, Heike Geissler, Richard Seymour, Hito Steyerl, McKenzie Wark, and Shoshana Zuboff.</p>'
 details: |
   : "8867494774 / 978-8867494774"
   Content: "188 pages"
@@ -55,7 +51,7 @@ A Reader
 
 ----
 
-Uuid: xdEhu4juPchlO0O3
+Uuid: A0tEpx276I5zTjXj
 
 ----
 

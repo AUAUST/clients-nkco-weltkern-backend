@@ -9,9 +9,7 @@ weight: 1.2
 author:
   name: 'Scheidegger &amp; Spiess'
   id: 89
-description: |
-  <p>Four years after his first book, Ludovic Balland offers a new selection of color photographs representing urban landscapes and black &#038; white portraits of American citizens reading the press. This set is accompanied by interviews with citizens on their use of the media and facsimiles of newspapers and collages on the political state of the United States.<br />
-  <em>American Readers at Home – New Cut</em> reveals that four years after its first release, the political issues raised are still relevant, and shows how people remember and perceive information in the daily news media while discovering their personal memories and reading habits. French journalist Julien Gester, a regular contributor to the daily newspaper Libération, and Swiss curator Hilar Stadler have contributed new forewords to this new publication. The book is published on the occasion of the exhibition of the same name, which is on view at the Museum Bellpark Kriens until December 20th 2020.</p>
+description: '<p>Four years after his first book, Ludovic Balland offers a new selection of color photographs representing urban landscapes and black &#038; white portraits of American citizens reading the press. This set is accompanied by interviews with citizens on their use of the media and facsimiles of newspapers and collages on the political state of the United States.<br /> <em>American Readers at Home – New Cut</em> reveals that four years after its first release, the political issues raised are still relevant, and shows how people remember and perceive information in the daily news media while discovering their personal memories and reading habits. French journalist Julien Gester, a regular contributor to the daily newspaper Libération, and Swiss curator Hilar Stadler have contributed new forewords to this new publication. The book is published on the occasion of the exhibition of the same name, which is on view at the Museum Bellpark Kriens until December 20th 2020.</p>'
 details: |
   ISBN: "3858818801 / 978-3858818805"
   Content: "276 pages"
@@ -52,7 +50,7 @@ New Cut
 
 ----
 
-Uuid: WEQVVz9OJxWb5Lbz
+Uuid: SgDjgS7p5WNjjdwm
 
 ----
 

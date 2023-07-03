@@ -19,7 +19,7 @@ details: |
   Language: "English"
   Publishing date: "2020"
   Specs: "Hardcover with linen cover"
-  Images: "© WELTKERN® /  Paul Seawright. All rights reserved."
+  Images: "© WELTKERN® / Paul Seawright. All rights reserved."
 gallery:
   - 
     url: >
@@ -36,7 +36,7 @@ Paul Seawright
 
 ----
 
-Uuid: dBrH0D0u2yMuDUeq
+Uuid: 6O5lqt8ya4DNbFwC
 
 ----
 

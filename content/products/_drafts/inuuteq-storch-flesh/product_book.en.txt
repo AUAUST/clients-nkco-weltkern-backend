@@ -13,8 +13,7 @@ description: '<p>For a period of time the Greenlandic photographer Inuuteq Storc
 details: |
   ISBN: "8797052020 / 978-8797052020"
   Content: "128 pages"
-  Size: "215 × 280 mm
-  
+  Size: "215 × 280 mm "
   Language: "English, Greenlandic, Danish"
   Publishing date: "2019"
   Specs: "OTA bound paperback with silver print fold out cover"
@@ -35,7 +34,7 @@ Flesh
 
 ----
 
-Uuid: pfchY6DkQdByrAdT
+Uuid: 4pcvHp6026ktSlTY
 
 ----
 

@@ -16,9 +16,7 @@ details: |
   Size: "130 × 190 mm"
   Language: "English"
   Publishing date: "2018"
-  Specs: "Softcover
-  Black & White Offset Printed
-  Edition of 1000"
+  Specs: "Softcover Black & White Offset Printed Edition of 1000"
   Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
@@ -44,7 +42,7 @@ Burry
 
 ----
 
-Uuid: Vp3eLjJFolErOJaQ
+Uuid: fr4mbgcKG9598rrp
 
 ----
 

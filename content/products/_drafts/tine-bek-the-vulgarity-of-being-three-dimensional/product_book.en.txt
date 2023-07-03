@@ -14,8 +14,7 @@ description: '<p>The book is a mix of still life, other found forms and created 
 details: |
   ISBN: "8797052099 / 978-8797052099"
   Content: "184 pages"
-  Size: "220 × 290 mm
-  
+  Size: "220 × 290 mm "
   Language: "English"
   Publishing date: "2022"
   Specs: "Paperback"
@@ -36,7 +35,7 @@ The Vulgarity of Being Three-Dimensional
 
 ----
 
-Uuid: cVJQCzbmhigJx6Dl
+Uuid: amV6zEc7rR0F2cep
 
 ----
 

@@ -18,8 +18,7 @@ details: |
   Publication: "2021"
   With contributions, texts and works by: "Gae Aulenti, Tom Avermaete und Janina Gosseye, J. G. Ballard, Lisa Boos, Claire Fontaine, Herzog & de Meuron, Rei Kawakubo, Friedrich Kiesler, Rem Koolhaas, Lynn Hershman Leeson, Adolf Loos, Reba Maybury, Smiljan Radić, Lilly Reich, Martha Rosler, Elaine Sturtevant, TELFAR, James Wines / SITE, Émile Zola, and others"
   Design: "Teo Schifferli, Fabian Fretz"
-  Specs: "Open thread-stitching
-  
+  Specs: "Open thread-stitching "
   Images: "© WELTKERN® / gta Verlag. All rights reserved."
 gallery:
   - 
@@ -38,7 +37,7 @@ Multilinetitle: Retail Apocalypse
 
 ----
 
-Uuid: biBffT5ZUBxl6twO
+Uuid: tUMatKOUCZGmluOj
 
 ----
 

@@ -9,9 +9,7 @@ weight: 0.8
 author:
   name: Onomatopee
   id: 319
-description: |
-  <p>Off-the-grid from commercial galleries – selling visuals – and canonical institutions – there to support the often static national or regional identities– artists instigate grass-roots cultural safe havens in order to deliver the progressive and the experimental. They are fundamentally vulnerable to public-policy cycles, in the voluntary effort that holds the initiative together, in their provision of opportunities, and more. Despite the precarity of such organizing by these civil initiatives, and regardless of their promoting of a public cultural vitality beyond the demand of the public life, they are in poor public support and lack opportunities to gain public visibility.</p>
-  <p>This publication zooms in on a particular mode of organizing: on the ‘Artist-run Democracy’. It does so by examining the workings of 126, an Artist-run gallery* in Galway, Ireland, as a benchmark. 126 is particular in the way the board is conceived, how the program is decided upon, how directors change every two year, &#8216;serving as volunteers&#8217;**, and more. This model is borrowed from Scottish initiatives, started a decades earlier. Unique to 126 is its remote positioning to the global art market. Close but not closed, they have sustained their project for more than 15 years. This book explores the grounds for this mode of organizing within the self-organized culture of the art sector, and may serve as inspiration and discussion for those committed to organising in the visual arts and beyond.</p>
+description: '<p>Off-the-grid from commercial galleries – selling visuals – and canonical institutions – there to support the often static national or regional identities– artists instigate grass-roots cultural safe havens in order to deliver the progressive and the experimental. They are fundamentally vulnerable to public-policy cycles, in the voluntary effort that holds the initiative together, in their provision of opportunities, and more. Despite the precarity of such organizing by these civil initiatives, and regardless of their promoting of a public cultural vitality beyond the demand of the public life, they are in poor public support and lack opportunities to gain public visibility.</p> <p>This publication zooms in on a particular mode of organizing: on the ‘Artist-run Democracy’. It does so by examining the workings of 126, an Artist-run gallery* in Galway, Ireland, as a benchmark. 126 is particular in the way the board is conceived, how the program is decided upon, how directors change every two year, &#8216;serving as volunteers&#8217;**, and more. This model is borrowed from Scottish initiatives, started a decades earlier. Unique to 126 is its remote positioning to the global art market. Close but not closed, they have sustained their project for more than 15 years. This book explores the grounds for this mode of organizing within the self-organized culture of the art sector, and may serve as inspiration and discussion for those committed to organising in the visual arts and beyond.</p>'
 details: |
   ISBN: "9493148734 / 978-9493148734"
   Content: "224 pages"
@@ -38,7 +36,7 @@ Sustaining a Model
 
 ----
 
-Uuid: OccIXyP42hxSWJat
+Uuid: MMVKqGlVprXOciyN
 
 ----
 

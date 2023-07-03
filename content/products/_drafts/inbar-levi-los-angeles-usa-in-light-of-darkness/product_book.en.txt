@@ -17,8 +17,7 @@ details: |
   Size: "130 × 190 mm"
   Language: "English"
   Publishing date: "2021"
-  Specs: "Softcover
-  Black & White Photocopy"
+  Specs: "Softcover Black & White Photocopy"
   Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
@@ -44,7 +43,7 @@ In Light of Darkness
 
 ----
 
-Uuid: o34KlZaKWpdvRYaH
+Uuid: gAB39jxpQaeqJb1w
 
 ----
 

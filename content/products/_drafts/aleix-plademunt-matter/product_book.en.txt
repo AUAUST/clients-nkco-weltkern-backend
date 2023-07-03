@@ -15,8 +15,7 @@ details: |
   Content: "640 pages"
   Size: "225 × 310 mm"
   Authors: "Aleix Plademunt"
-  Design: "Fabian Bremer, Hannes Drißner, Pascal Storz
-  
+  Design: "Fabian Bremer, Hannes Drißner, Pascal Storz "
   Language: "English"
   Publishing date: "2022"
   Specs: "Softcover"
@@ -57,7 +56,7 @@ Matter
 
 ----
 
-Uuid: jEoniTEgC45b6C5g
+Uuid: tjmIfqXqTIryJSEn
 
 ----
 

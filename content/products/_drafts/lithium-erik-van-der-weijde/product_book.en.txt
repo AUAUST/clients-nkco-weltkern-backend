@@ -18,7 +18,7 @@ details: |
   Edited by: "Roma Publications"
   Language: "English"
   Publishing date: "2020"
-  Images: "© WELTKERN® /  Idea Books. All rights reserved."
+  Images: "© WELTKERN® / Idea Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -35,7 +35,7 @@ Erik Van Der Weijde
 
 ----
 
-Uuid: 7wkhiXJWhd4lFx6t
+Uuid: DftsGHnsRFc5hcnn
 
 ----
 

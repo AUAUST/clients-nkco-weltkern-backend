@@ -10,14 +10,11 @@ weight: 0.3
 author:
   name: Onomatopee
   id: 319
-description: |
-  <p>How does the complex structure of the image today connect to perception, what does this visual culture offer and what is left to the perceiver?</p>
-  <p>As we find ourselves in a culture of digital media, wherein Design, Cinema and New Media intersect, this book zooms in on the image’s dynamic factors seen as a field of work in which the creation of contents and forms is inscribed in a post-digital era.</p>
+description: '<p>How does the complex structure of the image today connect to perception, what does this visual culture offer and what is left to the perceiver?</p> <p>As we find ourselves in a culture of digital media, wherein Design, Cinema and New Media intersect, this book zooms in on the image’s dynamic factors seen as a field of work in which the creation of contents and forms is inscribed in a post-digital era.</p>'
 details: |
   ISBN: "9493148604 / 978-9493148604"
   Content: "144 pages"
-  Size: "130 × 210 mm
-  
+  Size: "130 × 210 mm "
   Language: "English "
   Edited by: "Maria João Baltazar, Tomé Saldanha Quadros"
   Graphic design: "Inês Nepomuceno, Susana Martins"
@@ -40,7 +37,7 @@ Mediation, Process and Critical Tension
 
 ----
 
-Uuid: 8amk9fd25TcGEEWx
+Uuid: UGeXeqT5sDAGiR8g
 
 ----
 

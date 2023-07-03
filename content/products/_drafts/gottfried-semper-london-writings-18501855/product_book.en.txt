@@ -10,7 +10,7 @@ weight: 1.5
 author:
   name: gta Verlag
   id: 324
-description: '<p>Gottfried Semper (1803–1879) left behind a voluminous legacy of architectural-theory writings. The manner, in his works, in which he analysed architecture from a cultural-historical perspective as the key discipline in human artistry continues to exert a deep fascination up until today. The London Writings make available previously unpublished or little-known texts originating during Semper’s exile in London (1850–1855) in a critical and commented edition, including in their original wordings. Swayed by his impressions of the first Great Exhibition of 1851 and as a lecturer at the Department of Practical Art, it was in London that Semper laid the foundations for his theoretical magnum opus Der Stil (Style, 1860/63). He counterpoised the phenomena of the globalised flow of merchandise and a globalisation of knowledge that he observed with his thoughts on the global development of architectural culture in all its manifold material, social and political conditions. The edition is the outcome of a joint SNSF research project between the Institute for History and Theory of Art and Architecture (ISA) at the Università della Svizzera italiana and the Institute for the History and Theory of Architecture (gta) at ETH Zurich.</p>'
+description: '<p>Gottfried Semper (1803–1879) left behind a voluminous legacy of architectural-theory writings. The manner, in his works, in which he analysed architecture from a cultural-historical perspective as the key discipline in human artistry continues to exert a deep fascination up until today. The London Writings make available previously unpublished or little-known texts originating during Semper’s exile in London (1850–1855) in a critical and commented edition, including in their original wordings. Swayed by his impressions of the first Great Exhibition of 1851 and as a lecturer at the Department of Practical Art, it was in London that Semper laid the foundations for his theoretical magnum opus Der Stil (Style, 1860/63). He counterpoised the phenomena of the globalised flow of merchandise and a globalisation of knowledge that he observed with his thoughts on the global development of architectural culture in all its manifold material, social and political conditions. The edition is the outcome of a joint SNSF research project between the Institute for History and Theory of Art and Architecture (ISA) at the Universit? della Svizzera italiana and the Institute for the History and Theory of Architecture (gta) at ETH Zurich.</p>'
 details: |
   ISBN: "3856764036 / 978-3856764036"
   Content: "640 pages"
@@ -38,7 +38,7 @@ London Writings 1850–1855
 
 ----
 
-Uuid: 4zBRs3iYA2WESaWV
+Uuid: vAenhnHjjrrbrY1i
 
 ----
 

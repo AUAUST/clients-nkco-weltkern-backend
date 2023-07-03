@@ -13,7 +13,7 @@ description: '<p>Brad Downey uses the streets as his studio and place of creativ
 details: |
   ISBN: "9188369178 / 978-9188369178"
   Content: "432 pages"
-  Size: "240 × 36 × 320 mm"
+  Size: "240 × 36 ×? 320 mm"
   Author: "Brad Downey"
   Edited by: "Lukas Feireiss"
   Co-published: "Possible Books"
@@ -67,7 +67,7 @@ Slapstick Formalism
 
 ----
 
-Uuid: ohjeXH5pvSGe7eGV
+Uuid: jG6r8qWvbSNbRJrl
 
 ----
 

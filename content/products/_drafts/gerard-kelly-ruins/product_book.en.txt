@@ -9,9 +9,7 @@ weight: 2.1
 author:
   name: Mousse Publishing
   id: 111
-description: |
-  <p>A presentation of video installations, sculptures, site-specific interventions, performance and works on paper by the duo of Californian artists and choreographers.</p>
-  <p>Gerard &#038; Kelly—artists originating in the field of choreography—have developed their work around a series of performances and films in which they examine architectural projects that thwart traditional bourgeois and patriarchal usage, making visible the unknown stories and situations of the icons that surround us. This book documents the duo&#8217;s first museum survey exhibition at Carré d&#8217;art—Musée d&#8217;art contemporain de Nîmes, evocatively titled Ruins: a presentation of video installations, sculptures, site-specific interventions, performance and works on paper.</p>
+description: '<p>A presentation of video installations, sculptures, site-specific interventions, performance and works on paper by the duo of Californian artists and choreographers.</p> <p>Gerard &#038; Kelly—artists originating in the field of choreography—have developed their work around a series of performances and films in which they examine architectural projects that thwart traditional bourgeois and patriarchal usage, making visible the unknown stories and situations of the icons that surround us. This book documents the duo&#8217;s first museum survey exhibition at Carré d&#8217;art—Musée d&#8217;art contemporain de Nîmes, evocatively titled Ruins: a presentation of video installations, sculptures, site-specific interventions, performance and works on paper.</p>'
 details: |
   ISBN: "8867495405 / 978-8867495405"
   Content: "96 pages"
@@ -48,7 +46,7 @@ Ruins
 
 ----
 
-Uuid: 5CarIkS7MPFZWE78
+Uuid: t731rH8cswmPfi6s
 
 ----
 

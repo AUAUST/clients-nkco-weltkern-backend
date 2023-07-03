@@ -10,10 +10,7 @@ weight: 0.6
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>Published by KALEIDOSCOPE and Spazio Maiocchi on the occasion of solo exhibitions hosted at Spazio Maiocchi between 2017 and 2018.<br />
-  <br />
-  Darja Bajagić: Sketchbooks features a collection of collages exhibited alongside a series of paintings at the intersection of Minimalism and digital appropriation. Bajagić’s work addresses subjects as extreme as sex and violence, challenging the viewer’s perspective and complicating binary notions of morality.</p>
+description: '<p>Published by KALEIDOSCOPE and Spazio Maiocchi on the occasion of solo exhibitions hosted at Spazio Maiocchi between 2017 and 2018.<br /> <br /> Darja Bajagić: Sketchbooks features a collection of collages exhibited alongside a series of paintings at the intersection of Minimalism and digital appropriation. Bajagić’s work addresses subjects as extreme as sex and violence, challenging the viewer’s perspective and complicating binary notions of morality.</p>'
 details: |
   Content: "80 Pages"
   Size: "220 × 7 × 280 mm"
@@ -54,7 +51,7 @@ Darja Bajagić Sketchbooks
 
 ----
 
-Uuid: 9JLZDBxnlrudLqqN
+Uuid: owXUywcYexFNQar5
 
 ----
 

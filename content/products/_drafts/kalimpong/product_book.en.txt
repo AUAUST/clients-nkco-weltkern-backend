@@ -9,14 +9,7 @@ weight: 0.8
 author:
   name: Sternberg Press
   id: 133
-description: |
-  <p>It’s 1912. We find ourselves in Kalimpong, India, in the foothills of the Himalayas. We are in the company of the eccentric Belgian-French explorer Alexandra David-Néel. She is planning a secretive, forbidden journey into Tibet …  Fast forward to the 1960s. Kalimpong has become a hotbed of espionage, denounced by the Chinese as a “nest of spies” after being used by everyone from the Russians to the CIA, the nascent Indian secret service, some remaining British colonial stalwarts, Tibetan Khamba guerillas, and the Chinese themselves, of course. There are mountains, caves, and secret passages. Indeed, it has all the hallmarks of a remarkable adventure&#8230;<br />
-  <br />
-  <em>Kalimpong</em> is an artist project in book form by the London-based artist Shezad Dawood. Set in Kalimpong at various moments from 1912 to the present day, Dawood’s project is part fact, part fiction. There are explorers and spies, poets and travelers, lovers and strangers, princesses and humanoids, all strangely connected across the globe through this curious Indian town.<br />
-  <br />
-  To develop the story, Dawood invited a number of international writers and cultural commentators to contribute texts, opting for an “exquisite corpse” method, whereby writers recommended or responded to other writers, resulting in some surprising twists.<br />
-  <br />
-  The publication accompanies an immersive virtual-reality work of the same name by the artist, which premiered at Timothy Taylor gallery, London, in the fall of 2016.</p>
+description: '<p>It’s 1912. We find ourselves in Kalimpong, India, in the foothills of the Himalayas. We are in the company of the eccentric Belgian-French explorer Alexandra David-Néel. She is planning a secretive, forbidden journey into Tibet ... Fast forward to the 1960s. Kalimpong has become a hotbed of espionage, denounced by the Chinese as a “nest of spies” after being used by everyone from the Russians to the CIA, the nascent Indian secret service, some remaining British colonial stalwarts, Tibetan Khamba guerillas, and the Chinese themselves, of course. There are mountains, caves, and secret passages. Indeed, it has all the hallmarks of a remarkable adventure&#8230;<br /> <br /> <em>Kalimpong</em> is an artist project in book form by the London-based artist Shezad Dawood. Set in Kalimpong at various moments from 1912 to the present day, Dawood’s project is part fact, part fiction. There are explorers and spies, poets and travelers, lovers and strangers, princesses and humanoids, all strangely connected across the globe through this curious Indian town.<br /> <br /> To develop the story, Dawood invited a number of international writers and cultural commentators to contribute texts, opting for an “exquisite corpse” method, whereby writers recommended or responded to other writers, resulting in some surprising twists.<br /> <br /> The publication accompanies an immersive virtual-reality work of the same name by the artist, which premiered at Timothy Taylor gallery, London, in the fall of 2016.</p>'
 details: |
   ISBN: "3956792762 / 978-3956792762"
   Content: "94 pages"
@@ -69,7 +62,7 @@ Multilinetitle: Kalimpong
 
 ----
 
-Uuid: wgLqflM3J6Rg2h1K
+Uuid: 04NU4tuQScGEYGBs
 
 ----
 

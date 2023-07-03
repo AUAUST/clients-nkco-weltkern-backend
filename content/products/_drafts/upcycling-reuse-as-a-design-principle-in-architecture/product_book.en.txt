@@ -10,12 +10,7 @@ weight: 0.5
 author:
   name: Triest Verlag
   id: 97
-description: |
-  <p>Exploitation and destruction of the environment call for an inevitable paradigm shift as regards our resource consumption: “innovative” building will have to break away from the dogma of new build. We need to reconsider the existing building stock as a wealth of resources and ideas, just as we should understand recycling and upcycling building stock as architectonic potential.</p>
-  <p>New approaches in architecture reveal a trend towards concepts of the frequently used but theoretically and historically rarely defined term upcycling. In that context, one often forgets that the history of building has also always been a history of, firstly, recycled and upcycled building materials and components, and secondly, of building knowledge and building styles.</p>
-  <p>Comprehending buildings as a part of a social change process poses a challenge to our current habits and modern concept of unambiguity, seclusion and authorship of architecture.<br />
-  This publication explores the potential of historical concepts of upcycling – the qualitative recycling of buildings and building components – and confronts them with new developments in architectural and building practice.<br />
-  Importantly, the authors look into the question of whether and how new solutions could be found for future architecture. “Recycling and upcycling” should not be a matter of idealism, but rather present an argument for economy and the quality of structure and design.</p>
+description: '<p>Exploitation and destruction of the environment call for an inevitable paradigm shift as regards our resource consumption: “innovative” building will have to break away from the dogma of new build. We need to reconsider the existing building stock as a wealth of resources and ideas, just as we should understand recycling and upcycling building stock as architectonic potential.</p> <p>New approaches in architecture reveal a trend towards concepts of the frequently used but theoretically and historically rarely defined term upcycling. In that context, one often forgets that the history of building has also always been a history of, firstly, recycled and upcycled building materials and components, and secondly, of building knowledge and building styles.</p> <p>Comprehending buildings as a part of a social change process poses a challenge to our current habits and modern concept of unambiguity, seclusion and authorship of architecture.<br /> This publication explores the potential of historical concepts of upcycling – the qualitative recycling of buildings and building components – and confronts them with new developments in architectural and building practice.<br /> Importantly, the authors look into the question of whether and how new solutions could be found for future architecture. “Recycling and upcycling” should not be a matter of idealism, but rather present an argument for economy and the quality of structure and design.</p>'
 details: |
   ISBN: "3038630463 / 978-3038630463"
   Content: "204 pages"
@@ -40,7 +35,7 @@ Reuse as a Design Principle in Architecture
 
 ----
 
-Uuid: EPm9u4vPUgGCqrZy
+Uuid: 05kuCXv7IT4ZkjfG
 
 ----
 

@@ -9,9 +9,7 @@ weight: 2.1
 author:
   name: Schaden Verlag
   id: 341
-description: |
-  <p>The life in the streets of Beijing and Shanghai appears like a dense collage of signs, people and structures, a kind of semiotic overkill that is hard to decode at first, but exactly this was the very special challenge for me to describe the ambivalence and the great vividness of the urban life. I had the feeling, that the circumstances of life are changing every day, so it seems to be a very interesting place to be at this time.</p>
-  <p>Zurborn&#8217;s work from China resembles his previous efforts. That is to say, he&#8217;s captured what appear to be digital montages, composed from the worlds of advertising, construction, pedestrians and tourists. The images, extremely well composed and often making use of shop-window reflections, are, in fact, straight photographs, shot for the most part on film. (Excerpt from the article Western Eyes by Bill Kouwenhoven in British Journal of Photography, 23.7.2008)</p>
+description: '<p>The life in the streets of Beijing and Shanghai appears like a dense collage of signs, people and structures, a kind of semiotic overkill that is hard to decode at first, but exactly this was the very special challenge for me to describe the ambivalence and the great vividness of the urban life. I had the feeling, that the circumstances of life are changing every day, so it seems to be a very interesting place to be at this time.</p> <p>Zurborn&#8217;s work from China resembles his previous efforts. That is to say, he&#8217;s captured what appear to be digital montages, composed from the worlds of advertising, construction, pedestrians and tourists. The images, extremely well composed and often making use of shop-window reflections, are, in fact, straight photographs, shot for the most part on film. (Excerpt from the article Western Eyes by Bill Kouwenhoven in British Journal of Photography, 23.7.2008)</p>'
 details: |
   ISBN: "3932187124 / 978-3932187124"
   Content: "16 pages"
@@ -36,7 +34,7 @@ China! Which China?
 
 ----
 
-Uuid: ckV6aMdxxaeieKHC
+Uuid: c3rL3sEtjv0KyO9q
 
 ----
 

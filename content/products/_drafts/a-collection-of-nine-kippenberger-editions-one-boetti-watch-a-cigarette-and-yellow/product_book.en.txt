@@ -21,7 +21,7 @@ details: |
   Author: "Jonathan Monk"
   Language: "English"
   Publishing date: "2015"
-  Images: "© WELTKERN® /  InOtherWords. All rights reserved."
+  Images: "© WELTKERN® / InOtherWords. All rights reserved."
 gallery:
   - 
     url: >
@@ -35,7 +35,7 @@ Multilinetitle: A collection of nine Kippenberger editions, one Boetti watch, a 
 
 ----
 
-Uuid: suu5OzlUXbxy3FgB
+Uuid: AQ5UZJNXyVmUc6yW
 
 ----
 

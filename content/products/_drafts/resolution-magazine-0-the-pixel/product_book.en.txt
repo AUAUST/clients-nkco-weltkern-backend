@@ -13,8 +13,7 @@ description: '<p>This issue of RESOLUTION looks at the most elementary building 
 details: |
   ISBN: "9493148192 / 978-9493148192"
   Content: "96 pages"
-  Size: "170 × 267 mm
-  
+  Size: "170 × 267 mm "
   Language: "English "
   Edited by: "Maria João Baltazar, Tomé Saldanha Quadros"
   Graphic design: "D-E-A-L"
@@ -37,7 +36,7 @@ The Pixel
 
 ----
 
-Uuid: CGom5c2YvtiTwWgF
+Uuid: XbqqKWHdfcTJYewv
 
 ----
 

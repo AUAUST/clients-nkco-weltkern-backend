@@ -10,9 +10,7 @@ weight: 2.1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Matthias Groebel&#8217;s activities in the late ’80s sound more like the plot of a cyberpunk novel than like a sober account of a serious artist’s professional practice: he spent those years rummaging around in electronic waste dumps in Münster, Germany, in search of windshield wiper and photocopier motors, bicycle chains and other parts to use in constructing a three-axle painting machine capable of painting according to his specifications. Meanwhile, he was also fiddling with parabolic antennas in order to catch signals from far, far away. Over the next decade, Groebel spent countless nights changing the channels, rummaging around this time around for TV stills to paint with the aid of his computer-controlled machine.<br />
-  The upshot is a series of paintings that anticipated technocultural developments and plumbed the collective psychological depths of satellite television and mass media. This book is the first comprehensive exposition of Groebel&#8217;s remarkable machine paintings from 1989 to 2001, along with two essays about Groebel’s unusual work.</p>
+description: '<p>Matthias Groebel&#8217;s activities in the late ’80s sound more like the plot of a cyberpunk novel than like a sober account of a serious artist’s professional practice: he spent those years rummaging around in electronic waste dumps in Münster, Germany, in search of windshield wiper and photocopier motors, bicycle chains and other parts to use in constructing a three-axle painting machine capable of painting according to his specifications. Meanwhile, he was also fiddling with parabolic antennas in order to catch signals from far, far away. Over the next decade, Groebel spent countless nights changing the channels, rummaging around this time around for TV stills to paint with the aid of his computer-controlled machine.<br /> The upshot is a series of paintings that anticipated technocultural developments and plumbed the collective psychological depths of satellite television and mass media. This book is the first comprehensive exposition of Groebel&#8217;s remarkable machine paintings from 1989 to 2001, along with two essays about Groebel’s unusual work.</p>'
 details: |
   ISBN: "3907236408 / 978-3907236406"
   Content: "240 pages"
@@ -54,7 +52,7 @@ Broadcast Material 1989–2006
 
 ----
 
-Uuid: 9nGuZAPG2MpsymOn
+Uuid: ykvspikGA9OA7WXK
 
 ----
 

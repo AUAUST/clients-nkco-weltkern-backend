@@ -10,10 +10,7 @@ weight: 0.65
 author:
   name: Tombolo Presses
   id: 282
-description: |
-  <p>Edited since 2010 by art historian Remi Parcollet with artists Aurélien Mole and Christophe Lemaitre, Postdocument is a sixteen-issue journal that deals exclusively with exhibition photography in the form of a captioned iconographic selection, renewed for each issue in relation to one of the entries that make up the captions (title of the piece, exhibition venue, courtesy, medium, etc.).<br />
-  Halfway through the entire project, the Postdocument reader redesigns all the first seven issues under the direction of the graphic design studio Spassky Fischer.<br />
-  The eighth issue, published exclusively within this book, is devoted to the entry &#8220;Dimensions&#8221; (of the work). This eighth sequence gathers exhibition views realized in cultural institutions occupying post-industrial spaces. This architectural typology, through its influence on artistic forms and their scales (notably within biennials for example, often contexts of production), participates in the writing of today&#8217;s art history. It is thus the history of architecture which instructs the history of art, with for anachronistic relation this echo of the contemporary art to the past industrial productivist architecture.</p>
+description: '<p>Edited since 2010 by art historian Remi Parcollet with artists Aurélien Mole and Christophe Lemaitre, Postdocument is a sixteen-issue journal that deals exclusively with exhibition photography in the form of a captioned iconographic selection, renewed for each issue in relation to one of the entries that make up the captions (title of the piece, exhibition venue, courtesy, medium, etc.).<br /> Halfway through the entire project, the Postdocument reader redesigns all the first seven issues under the direction of the graphic design studio Spassky Fischer.<br /> The eighth issue, published exclusively within this book, is devoted to the entry &#8220;Dimensions&#8221; (of the work). This eighth sequence gathers exhibition views realized in cultural institutions occupying post-industrial spaces. This architectural typology, through its influence on artistic forms and their scales (notably within biennials for example, often contexts of production), participates in the writing of today&#8217;s art history. It is thus the history of architecture which instructs the history of art, with for anachronistic relation this echo of the contemporary art to the past industrial productivist architecture.</p>'
 details: |
   ISBN: "2840668416 / 978-2840668411"
   Content: "392 pages"
@@ -40,7 +37,7 @@ Christophe Lemaitre Aurélien Mole Remi Parcollet
 
 ----
 
-Uuid: I7ksiCFCxY3dkjM6
+Uuid: K6uBjRvXCuIwHQTm
 
 ----
 

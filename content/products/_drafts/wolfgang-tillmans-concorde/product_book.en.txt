@@ -13,7 +13,7 @@ description: '<p>According to photographer Wolfgang Tillmans (born 1968), &#8220
 details: |
   ISBN: "3960981671 / 978-3960981671"
   Content: "128 pages"
-  Size: "160 × 10 × 239 mm"
+  Size: "160 × 10 ×? 239 mm"
   Author: "Wolfgang Tillmans"
   Language: "English"
   Publishing date: "2017"
@@ -59,7 +59,7 @@ Concorde
 
 ----
 
-Uuid: 9p3D90c7YeXMFbTj
+Uuid: 9uyIwstll9bivO87
 
 ----
 

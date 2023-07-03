@@ -15,7 +15,7 @@ details: |
   Content: "216 pages"
   Size: "250 × 16 × 310 mm"
   Author: "Claudia Mion"
-  Contributions from: "Marc Alcock, Julia Andréone, Aurélien Aumond, Michel Blazy, Ambre Cardinal, Julien Carreyn, Théo Casciani, Christophe Caudroy, Gaetan Chevrier, Hélène Coussedière, Simon de Dreuille, Vincent Delbrouck, Antoine Espinasseau, Erwan Fichou, Amy Humphreys, Vincent Lamouroux, Edward Lane, Vincent Lappartient, Diane Lisarelli, Olivier Magnier, Benoît Maire, Christophe Maout, Victor Maréchal, Giaime Meloni, Livio Mosca, Alice Pallot, Elena Seegers, Arnaud Teicher, Sofu Teshigahara, Julien Vallon, Robert Voit, Cyrille Weiner, Botanical Agency"
+  Contributions from: "Marc Alcock, Julia Andréone, Aurélien Aumond,? Michel Blazy, Ambre Cardinal,? Julien Carreyn, Théo Casciani, Christophe Caudroy, Gaetan Chevrier, Hélène Coussedière, Simon de Dreuille, Vincent Delbrouck, Antoine Espinasseau, Erwan Fichou, Amy Humphreys,? Vincent Lamouroux, Edward Lane, Vincent Lappartient, Diane Lisarelli, Olivier Magnier,? Benoît Maire, Christophe Maout, Victor Maréchal, Giaime Meloni, Livio Mosca, Alice Pallot, Elena Seegers, Arnaud Teicher, Sofu Teshigahara, Julien Vallon, Robert Voit, Cyrille Weiner, Botanical Agency"
   Design: "Spassky Fischer"
   Language: "English / French"
   Publishing date: "2019"
@@ -49,7 +49,7 @@ Vegetal Trauma
 
 ----
 
-Uuid: sKblYke0NRaskovG
+Uuid: SrQLJsuBmWCDTw13
 
 ----
 

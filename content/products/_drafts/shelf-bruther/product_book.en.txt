@@ -17,8 +17,7 @@ details: |
   Design: "Julie Peeters"
   Language: "English"
   Publishing date: "April 2023"
-  Specs: "Threadsewn softcover
-  Edition Number: 1"
+  Specs: "Threadsewn softcover Edition Number: 1"
   Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
@@ -65,7 +64,7 @@ Multilinetitle: Shelf Bruther
 
 ----
 
-Uuid: E44EW61QOreoVuiT
+Uuid: JS2SzvSIab9ZbD2l
 
 ----
 

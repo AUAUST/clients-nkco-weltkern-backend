@@ -10,10 +10,7 @@ weight: 0.3
 author:
   name: Onomatopee
   id: 319
-description: |
-  <p>This magazine explores two extreme cases of urbanized shallow water territories – Markermeer/IJsselmeer in the heart of the Netherlands and the Venetian Lagoon. One is probably the most technologically controlled water on Earth, while the other negotiates a balance of natural water cycles, extreme weather, and a robust tourist economy. Providing points of reflection for similar territories where prospective sea level rise in the near future poses urgent questions about human and more-than human cohabitation, engineering, economy, and both ecological and social metabolisms. </p>
-  <p>BIO<br />
-  Bureau LADA (Landscape, Architecture, Design, Action) is a cross-disciplinary Amsterdam based studio with a focus on architecture. Currently active between Amsterdam, Venice and Cairo, the practice specialises in design strategy, social ecology, and the future of education. Established in 2010 by Croatian-Dutch architect and urbanist Lada Hršak, the studio collaborates with practitioners from the fields of ecology, science, art, heritage, and sociology. The studio’s research initiative Shallow Waters was selected for the Parallel Program of the Dutch pavilion at the 2021 Venice Architecture Biennial. The bureau’s team members engaged in the Shallow Waters project are Ludovica Beltrami, Juliette Gilson, Lada Hršak, Zoe Panayi, Simone Spiga, and Zhao Zhou.</p>
+description: '<p>This magazine explores two extreme cases of urbanized shallow water territories – Markermeer/IJsselmeer in the heart of the Netherlands and the Venetian Lagoon. One is probably the most technologically controlled water on Earth, while the other negotiates a balance of natural water cycles, extreme weather, and a robust tourist economy. Providing points of reflection for similar territories where prospective sea level rise in the near future poses urgent questions about human and more-than human cohabitation, engineering, economy, and both ecological and social metabolisms. </p> <p>BIO<br /> Bureau LADA (Landscape, Architecture, Design, Action) is a cross-disciplinary Amsterdam based studio with a focus on architecture. Currently active between Amsterdam, Venice and Cairo, the practice specialises in design strategy, social ecology, and the future of education. Established in 2010 by Croatian-Dutch architect and urbanist Lada Hršak, the studio collaborates with practitioners from the fields of ecology, science, art, heritage, and sociology. The studio’s research initiative Shallow Waters was selected for the Parallel Program of the Dutch pavilion at the 2021 Venice Architecture Biennial. The bureau’s team members engaged in the Shallow Waters project are Ludovica Beltrami, Juliette Gilson, Lada Hršak, Zoe Panayi, Simone Spiga, and Zhao Zhou.</p>'
 details: |
   ISBN: "9493148697 / 978-9493148697"
   Content: "142 pages"
@@ -37,7 +34,7 @@ Multilinetitle: Shallow Waters
 
 ----
 
-Uuid: sBDCGUrT43LNAWDo
+Uuid: zmtTSpUoQMDl4BDH
 
 ----
 

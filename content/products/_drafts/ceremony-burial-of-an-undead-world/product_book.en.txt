@@ -17,8 +17,7 @@ details: |
   Design: "NODE Berlin Oslo"
   Language: "English"
   Publishing date: "2022"
-  Specs: "Softcover
-  
+  Specs: "Softcover "
   Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
@@ -60,7 +59,7 @@ Ceremony
 
 ----
 
-Uuid: TAS7mALgyx05I0RA
+Uuid: joktLZGhrxlvnB55
 
 ----
 

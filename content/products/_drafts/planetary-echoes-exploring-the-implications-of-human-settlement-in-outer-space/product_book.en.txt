@@ -10,12 +10,7 @@ weight: 0.35
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>We now have the technology to reach nearby planets. Even though many long-term technical issues still need to be resolved to create the conditions for a permanent, self-sustaining human life on another planet, imagining humans as a multiplanetary species is no longer merely the stuff of science fiction. Against this backdrop, <em>Planetary Echoes</em> considers the place of this dream of human life on other planets in the arts, literature and sciences at the beginning of the 21st century.<br />
-  <br />
-  In this volume, a broad, interdisciplinary list of contributors (scientists, astronauts, designers, philanthropists, inventors, artists and curators) weighs in on the imaginable possibilities of space settlement. The list of contributors ranges from Buzz Aldrin to Richard Branson to Norman Foster, with many more perspectives on offer―a list eclectic enough to match the eccentricity of the human dream of colonizing outer space.<br />
-  <br />
-  <em>Planetary Echoes</em> aims to inspire readers to participate in the collective dream of space exploration through offering a deeper insight into what is already possible today. The deep-seated desire to explore―the vision of calling more than one planet our home―is paired here with the most urgent existential question of the 21st century: saving the Earth&#8217;s future.</p>
+description: '<p>We now have the technology to reach nearby planets. Even though many long-term technical issues still need to be resolved to create the conditions for a permanent, self-sustaining human life on another planet, imagining humans as a multiplanetary species is no longer merely the stuff of science fiction. Against this backdrop, <em>Planetary Echoes</em> considers the place of this dream of human life on other planets in the arts, literature and sciences at the beginning of the 21st century.<br /> <br /> In this volume, a broad, interdisciplinary list of contributors (scientists, astronauts, designers, philanthropists, inventors, artists and curators) weighs in on the imaginable possibilities of space settlement. The list of contributors ranges from Buzz Aldrin to Richard Branson to Norman Foster, with many more perspectives on offer―a list eclectic enough to match the eccentricity of the human dream of colonizing outer space.<br /> <br /> <em>Planetary Echoes</em> aims to inspire readers to participate in the collective dream of space exploration through offering a deeper insight into what is already possible today. The deep-seated desire to explore―the vision of calling more than one planet our home―is paired here with the most urgent existential question of the 21st century: saving the Earth&#8217;s future.</p>'
 details: |
   ISBN: "3959051910 / 978-3959051910"
   Content: "230 pages"
@@ -78,7 +73,7 @@ Exploring the implications of Human Settlement in Outer Space
 
 ----
 
-Uuid: 1eHP9KogHWYvYZWx
+Uuid: 1vjR0EjXGGF5e1pu
 
 ----
 

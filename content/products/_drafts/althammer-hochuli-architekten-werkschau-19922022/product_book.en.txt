@@ -10,11 +10,7 @@ weight: 0.9
 author:
   name: Park Books
   id: 88
-description: |
-  <p>Margrit Althammer and René Hochuli have been running their office in Zurich since 1992. Their work covers a wide range of tasks, from the realisation of large urban development projects, such as the conversion of the former Hürlimann brewery site in Zurich, to the construction of various housing estates and the experimental development of a new type of building, the walk-in sound playhouse for EXPO 02.<br />
-  This detailed monograph on Althammer Hochuli Architects is divided into thematic sections and thus places building tasks across projects in a larger context. The renowned authors Michael Hanak, Martin Tschanz and Christoph Wieser deal with the individual topics in depth and describe the projects in specific essays. Projects and buildings that have been conceived and executed over many years are thus placed in relation to one another and reflect their significance in contemporary architectural creation.<br />
-  <br />
-  Margrit Althammer and René Hochuli, both born in 1962, studied architecture at the ETH Zurich and, after their years of learning and travelling in Switzerland and abroad, opened their architectural practice in Zurich in 1992. In addition to their work in the office, they taught at the ZHAW in Winterthur. In 1998 they became members of the Association of Swiss Architects BSA and have since been active as expert judges in various competition commissions.</p>
+description: '<p>Margrit Althammer and René Hochuli have been running their office in Zurich since 1992. Their work covers a wide range of tasks, from the realisation of large urban development projects, such as the conversion of the former Hürlimann brewery site in Zurich, to the construction of various housing estates and the experimental development of a new type of building, the walk-in sound playhouse for EXPO 02.<br /> This detailed monograph on Althammer Hochuli Architects is divided into thematic sections and thus places building tasks across projects in a larger context. The renowned authors Michael Hanak, Martin Tschanz and Christoph Wieser deal with the individual topics in depth and describe the projects in specific essays. Projects and buildings that have been conceived and executed over many years are thus placed in relation to one another and reflect their significance in contemporary architectural creation.<br /> <br /> Margrit Althammer and René Hochuli, both born in 1962, studied architecture at the ETH Zurich and, after their years of learning and travelling in Switzerland and abroad, opened their architectural practice in Zurich in 1992. In addition to their work in the office, they taught at the ZHAW in Winterthur. In 1998 they became members of the Association of Swiss Architects BSA and have since been active as expert judges in various competition commissions.</p>'
 details: |
   ISBN: "3038602866 / 978-3038602866"
   Content: "180 pages"
@@ -39,7 +35,7 @@ Werkschau 1992–2022
 
 ----
 
-Uuid: 99jeLTZHoi0l1Aah
+Uuid: lsZaZBe2QJbmBC84
 
 ----
 

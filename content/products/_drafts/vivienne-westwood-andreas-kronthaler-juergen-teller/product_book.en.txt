@@ -12,7 +12,7 @@ weight: 0.7
 author:
   name: InOtherWords
   id: 105
-description: '<p>The book <em>Vivienne Westwood, Andreas Kronthaler, Juergen Teller</em> celebrates and documents one of fashion’s most iconic collaborations, spanning a period of more than twenty years. Featuring pivotal campaigns, portraits, political satire, editorials and art projects created between 1993 and 2017, the book has been produced in close collaboration with Juergen Teller, with many of the images published for the first time. The book avoids chronology, instead focusing on the power of the double page spread, highlighting the contrasts in this rich and eclectic body of work. The result is 256 pages of confrontational image combinations, arranged into a spontaneous flow.</p>'
+description: '<p>The book? <em>Vivienne Westwood, Andreas Kronthaler, Juergen Teller</em>? celebrates and documents one of fashion’s most iconic collaborations, spanning a period of more than twenty years. Featuring pivotal campaigns, portraits, political satire, editorials and art projects created between 1993 and 2017, the book has been produced in close collaboration with Juergen Teller, with many of the images published for the first time. The book avoids chronology, instead focusing on the power of the double page spread, highlighting the contrasts in this rich and eclectic body of work. The result is 256 pages of confrontational image combinations, arranged into a spontaneous flow.</p>'
 details: |
   ISBN: "0993223853 / 978-0993223853"
   Content: "256 pages"
@@ -51,7 +51,7 @@ Multilinetitle: Vivienne Westwood, Andreas Kronthaler, Juergen Teller
 
 ----
 
-Uuid: 8TAklomjtT29HY89
+Uuid: mElapWCUsKOxOrIx
 
 ----
 

@@ -9,12 +9,7 @@ weight: 1.3
 author:
   name: Hartmann Books
   id: 309
-description: |
-  <p>“I swear.” In almost every country, public servants are sworn in using this expression. It remains an ongoing task to uphold this sworn allegiance to uphold the Constitution and to check to what extent citizens can rely on the legal framework established that way. The free press and the arts serve as the fourth estate that helps to accomplish this task.<br />
-  <br />
-  But what exactly is “the state”? A possible answer would be to say that it’s the citizens. Another one would be to point to public servants. If one takes “the state” as a form of organization it turns into a theoretical construct. In democracies, the separation of powers forms one of their central tenets. Legislative, executive, and judicial branches are strictly separated. They have to act independently from each other. That way, they ensure a balanced power structure, in which the three branches hold each other in check. How can one make a picture of this abstract democratic concept? Is there a way to visualize the separation of powers? Jörg Gläscher’s long-term project “The Oath” demonstrates in an impressive fashion that photography is capable of doing just that.<br />
-  <br />
-  His photographs of and about mayors, judges, police officers, and citizens provides a reality check of the state of this world’s democracies that are finding themselves under increasing pressure. It is this set of issues that is being made the topic in “The Oath”, Jörg Gläscher’s comprehensive visual investigation from eleven countries on four continents. The work demonstrates that good photography is able to depict complex political issues in impressive images.</p>
+description: '<p>“I swear.” In almost every country, public servants are sworn in using this expression. It remains an ongoing task to uphold this sworn allegiance to uphold the Constitution and to check to what extent citizens can rely on the legal framework established that way. The free press and the arts serve as the fourth estate that helps to accomplish this task.<br /> <br /> But what exactly is “the state”? A possible answer would be to say that it’s the citizens. Another one would be to point to public servants. If one takes “the state” as a form of organization it turns into a theoretical construct. In democracies, the separation of powers forms one of their central tenets. Legislative, executive, and judicial branches are strictly separated. They have to act independently from each other. That way, they ensure a balanced power structure, in which the three branches hold each other in check. How can one make a picture of this abstract democratic concept? Is there a way to visualize the separation of powers? Jörg Gläscher’s long-term project “The Oath” demonstrates in an impressive fashion that photography is capable of doing just that.<br /> <br /> His photographs of and about mayors, judges, police officers, and citizens provides a reality check of the state of this world’s democracies that are finding themselves under increasing pressure. It is this set of issues that is being made the topic in “The Oath”, Jörg Gläscher’s comprehensive visual investigation from eleven countries on four continents. The work demonstrates that good photography is able to depict complex political issues in impressive images.</p>'
 details: |
   ISBN: "3960700768 / 978-3960700760"
   Content: "208 pages"
@@ -43,7 +38,7 @@ The Oath
 
 ----
 
-Uuid: fS7ddxrsT7D3O4Uk
+Uuid: LBrn4v3Rt57rKG2G
 
 ----
 

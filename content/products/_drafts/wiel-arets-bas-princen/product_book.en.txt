@@ -9,10 +9,7 @@ weight: 0.2
 author:
   name: Hatje Cantz Verlag
   id: 207
-description: |
-  <p>This book encapsulates a journey throughout the life of twelve buildings, from construction to inhabitation, by architect Wiel Arets, as experienced by artist Bas Princen.</p>
-  <p>The acclaimed architect Wiel Arets (*1955 in Heerlen) is also known as a designer, author, and educator, and is the Dean of the College of Architecture at the Illinois Institute of Technology in Chicago. Wiel Arets Architects (WAA), which was founded in 1983, has branches in Amsterdam, Maastricht, and Zürich. The architecture within the book’s pages emanates from an unexpected lens, to those familiar with Arets’ work; columns seem to be composed of trees; fritted surfaces resemble abstract paintings; technical spaces replicate sculptural silhouettes.</p>
-  <p>The concentrated photographs by Bas Princen not only capture the atmosphere of the twelve buildings, but also convey the impact and powerful symbolism of architecture in its most primeval sense–as protective shelter.</p>
+description: '<p>This book encapsulates a journey throughout the life of twelve buildings, from construction to inhabitation, by architect Wiel Arets, as experienced by artist Bas Princen.</p> <p>The acclaimed architect Wiel Arets (*1955 in Heerlen) is also known as a designer, author, and educator, and is the Dean of the College of Architecture at the Illinois Institute of Technology in Chicago. Wiel Arets Architects (WAA), which was founded in 1983, has branches in Amsterdam, Maastricht, and Zürich. The architecture within the book’s pages emanates from an unexpected lens, to those familiar with Arets’ work; columns seem to be composed of trees; fritted surfaces resemble abstract paintings; technical spaces replicate sculptural silhouettes.</p> <p>The concentrated photographs by Bas Princen not only capture the atmosphere of the twelve buildings, but also convey the impact and powerful symbolism of architecture in its most primeval sense–as protective shelter.</p>'
 details: |
   ISBN: "3775735056 / 978-3775735056"
   Content: "164 pages"
@@ -20,8 +17,7 @@ details: |
   Language: "English"
   Edited by: "John Bezold"
   Publication: "2015"
-  Specs: "Hardcover
-  
+  Specs: "Hardcover "
   Images: "© WELTKERN® / Hatje Cantz All rights reserved."
 gallery:
   - 
@@ -47,7 +43,7 @@ Bas Princen
 
 ----
 
-Uuid: kxkMxA5qgVFCFMci
+Uuid: 2ND0UHjWvy7CXu9m
 
 ----
 

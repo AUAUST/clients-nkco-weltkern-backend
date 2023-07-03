@@ -1,6 +1,6 @@
 Oldweltkern:
 
-title: 'Making Sense  <br>10 Years of Research in Art and Design at ECAL'
+title: 'Making Sense  <br>10 Years of Research in Art and Design at ECAL'
 slug: >
   making-sense-10-years-of-research-in-art-and-design-at-ecal
 id: 17549
@@ -10,7 +10,7 @@ weight: 0.2
 author:
   name: ECAL
   id: 95
-description: '<p>This book was published on the occasion of the symposium organized on October 10, 2017, to celebrate 10 years since the moving of ECA  to its current premises in Renens and marking the 10th anniversary of the foundation of EPFL+ECAL Lab. Making Sense reports on ten years of Research in Art and Design at ECAL. It features a synopsis of research projects and a selection of projects’ descriptions, accompanied by conversations on design and artistic research between ECAL professors and leading scholars in these fields.</p>'
+description: '<p>This book was published on the occasion of the symposium organized on October 10, 2017, to celebrate 10 years since the moving of ECA to its current premises in Renens and marking the 10th anniversary of the foundation of EPFL+ECAL Lab. Making Sense reports on ten years of Research in Art and Design at ECAL. It features a synopsis of research projects and a selection of projects’ descriptions, accompanied by conversations on design and artistic research between ECAL professors and leading scholars in these fields.</p>'
 details: |
   ISBN: "2970115779 / 978-2970115779"
   Content: "234 pages"
@@ -41,12 +41,12 @@ tags: [ ]
 
 Multilinetitle:
 
-Making Sense 
+Making Sense
 10 Years of Research in Art and Design at ECAL
 
 ----
 
-Uuid: 9sD2yd9CT3UmJl5Z
+Uuid: hJmE1t9wJk4UKrqh
 
 ----
 

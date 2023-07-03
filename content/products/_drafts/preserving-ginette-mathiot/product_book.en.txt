@@ -13,7 +13,7 @@ description: '<p>A vibrant package crammed with every recipe you’ll ever need 
 details: |
   ISBN: "0714869520 / 978-0714869520"
   Content: "336 pages"
-  Size: "168 × 32 × 229 mm"
+  Size: "168 × 32 ×? 229 mm"
   Author: "Ginette Mathiot"
   Language: "English"
   Publishing date: "2015"
@@ -43,7 +43,7 @@ Ginette Mathiot
 
 ----
 
-Uuid: TvzOpA4soaJ19YPg
+Uuid: 7zSRAj307YMsJ6xv
 
 ----
 

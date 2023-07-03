@@ -10,9 +10,7 @@ weight: 2
 author:
   name: Park Books
   id: 88
-description: |
-  <p>The design of buildings is always based on knowledge of typologies. In three basic texts under the thematic headings &#8220;Tectonics&#8221;, &#8220;Typus&#8221; and &#8220;Topos&#8221;, Andreas Lechner has compiled his own profound typological knowledge. In each of the three chapters, he deals with four of the total of twelve typologies: Theatre, Museum, Library, State, Office, Leisure, Religion, Retail, Factory, Education, Control and Hospital. The 144 examples selected in total from a wide range of classic designs and buildings illustrate the foundations of collective architectural knowledge, with which new lines of connection can always be drawn in the transformative processes of design work.<br />
-  First published in 2018, the book is now available in a comprehensively revised new edition. It offers a theory of building that emphasises composition as the aesthetic definition of architectural form, a design aspect that &#8211; before questions of function, purpose and atmosphere &#8211; can outlast times and cycles of use. It gathers outstanding references for the cultural dimension of building and is thus far more than a mere planning aid. All examples are illustrated with views, sections and floor plans that have been redrawn for optimal comparability. A newly inserted selection of diploma theses by students of the Graz University of Technology additionally illustrates Andreas Lechner&#8217;s teaching and design approach.</p>
+description: '<p>The design of buildings is always based on knowledge of typologies. In three basic texts under the thematic headings &#8220;Tectonics&#8221;, &#8220;Typus&#8221; and &#8220;Topos&#8221;, Andreas Lechner has compiled his own profound typological knowledge. In each of the three chapters, he deals with four of the total of twelve typologies: Theatre, Museum, Library, State, Office, Leisure, Religion, Retail, Factory, Education, Control and Hospital. The 144 examples selected in total from a wide range of classic designs and buildings illustrate the foundations of collective architectural knowledge, with which new lines of connection can always be drawn in the transformative processes of design work.<br /> First published in 2018, the book is now available in a comprehensively revised new edition. It offers a theory of building that emphasises composition as the aesthetic definition of architectural form, a design aspect that &#8211; before questions of function, purpose and atmosphere &#8211; can outlast times and cycles of use. It gathers outstanding references for the cultural dimension of building and is thus far more than a mere planning aid. All examples are illustrated with views, sections and floor plans that have been redrawn for optimal comparability. A newly inserted selection of diploma theses by students of the Graz University of Technology additionally illustrates Andreas Lechner&#8217;s teaching and design approach.</p>'
 details: |
   ISBN: "3038600687 / 978-3038600688"
   Content: "492 pages"
@@ -38,7 +36,7 @@ Entwurf einer architektonischen Gebäudelehre
 
 ----
 
-Uuid: 7Qc9oXz6PpRxDv67
+Uuid: NaRLZyhNujwWmsLQ
 
 ----
 

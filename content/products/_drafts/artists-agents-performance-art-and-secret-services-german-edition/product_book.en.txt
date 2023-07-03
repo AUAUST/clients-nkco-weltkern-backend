@@ -10,10 +10,7 @@ weight: 2.1
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>Subversion does not belong to anyone. It can come from artists who outwit the state or from intelligence agencies who infiltrate the art scene on behalf of the state. But what happens when the two sides meet? After the old state security archives in many Eastern European countries were opened, it became possible for this interaction to be studied in detail. Drawing on scientific essays and artistic contributions, the book shows how the secret police monitored happenings, performance art, and action art and looks at the debates they had about the new art form; it also demonstrates not only how the police documented artistic actions in detail using forensic techniques but also how they manipulated them and sought to thwart them with counter-actions. In addition to this, the book also reveals how artists dealt with the possibility that they were being observed by the secret police and how they now work with the material stored in the archives maintained by the intelligence services.</p>
-  <p>Kata Krasznahorkai is a curator and research assistant on the ERC project “Performance Art in Eastern Europe 1950–1990: History and Theory” at the University of Zurich’s Slavisches (Slavonic) Seminar.</p>
-  <p>Sylvia Sasse, author and curator, is professor of Slavonic Literature at the University of Zurich and heads the ERC project “Performance Art in Eastern Europe 1950–1990: History and Theory”.</p>
+description: '<p>Subversion does not belong to anyone. It can come from artists who outwit the state or from intelligence agencies who infiltrate the art scene on behalf of the state. But what happens when the two sides meet? After the old state security archives in many Eastern European countries were opened, it became possible for this interaction to be studied in detail. Drawing on scientific essays and artistic contributions, the book shows how the secret police monitored happenings, performance art, and action art and looks at the debates they had about the new art form; it also demonstrates not only how the police documented artistic actions in detail using forensic techniques but also how they manipulated them and sought to thwart them with counter-actions. In addition to this, the book also reveals how artists dealt with the possibility that they were being observed by the secret police and how they now work with the material stored in the archives maintained by the intelligence services.</p> <p>Kata Krasznahorkai is a curator and research assistant on the ERC project “Performance Art in Eastern Europe 1950–1990: History and Theory” at the University of Zurich’s Slavisches (Slavonic) Seminar.</p> <p>Sylvia Sasse, author and curator, is professor of Slavonic Literature at the University of Zurich and heads the ERC project “Performance Art in Eastern Europe 1950–1990: History and Theory”.</p>'
 details: |
   ISBN: "3959053334 / 978-3959053334"
   Content: "686 pages"
@@ -55,7 +52,7 @@ German Edition
 
 ----
 
-Uuid: Az1KA7W5Ri1j8Csy
+Uuid: 6UIPqhOnkqGAYO4L
 
 ----
 

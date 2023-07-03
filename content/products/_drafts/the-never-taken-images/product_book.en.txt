@@ -9,9 +9,7 @@ weight: 2.1
 author:
   name: 'Scheidegger &amp; Spiess'
   id: 89
-description: |
-  <p>The Never Taken Images documents a unique long-term project that Swiss photographers Françoise and Daniel Cartier have been pursuing since 1998. They have put together a vast collection of unfixed photographic papers, glass negatives, and films, mostly dating from 1880 to 1990. Samples of these are mounted and displayed, and, over the course of several exhibitions, exposed to light, causing them to evolve towards color saturation. Instead of looking at still images, the Cartiers’ installations, titled Wait and See, allow viewers to perceive a kind of reality for themselves.</p>
-  <p>This book features the entire test catalog that the Cartiers have put together to date, showing some 900 different papers and photosensitive supports. These facsimiles offer an almost real impression of their formats, colors, and materiality. Essays by photo historian and curator Kathrin Schönegg and scholar of art history and critic Thilo Koenig supplement the images and place the Wait and See project in the art historical and technological context of abstract media art. The Never Taken Images also celebrates the industrially manufactured photosensitive support, representing the centrality of the long pre-digital period in the history of photography.</p>
+description: '<p>The Never Taken Images documents a unique long-term project that Swiss photographers Françoise and Daniel Cartier have been pursuing since 1998. They have put together a vast collection of unfixed photographic papers, glass negatives, and films, mostly dating from 1880 to 1990. Samples of these are mounted and displayed, and, over the course of several exhibitions, exposed to light, causing them to evolve towards color saturation. Instead of looking at still images, the Cartiers’ installations, titled Wait and See, allow viewers to perceive a kind of reality for themselves.</p> <p>This book features the entire test catalog that the Cartiers have put together to date, showing some 900 different papers and photosensitive supports. These facsimiles offer an almost real impression of their formats, colors, and materiality. Essays by photo historian and curator Kathrin Schönegg and scholar of art history and critic Thilo Koenig supplement the images and place the Wait and See project in the art historical and technological context of abstract media art. The Never Taken Images also celebrates the industrially manufactured photosensitive support, representing the centrality of the long pre-digital period in the history of photography.</p>'
 details: |
   ISBN: "3039420919 / 978-3039420919"
   Content: "244 pages"
@@ -58,7 +56,7 @@ Multilinetitle: The Never Taken Images
 
 ----
 
-Uuid: zZGZgwov3BvTpqSk
+Uuid: cqvrCZtX9tMB9bPW
 
 ----
 

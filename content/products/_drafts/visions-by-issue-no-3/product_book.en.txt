@@ -9,9 +9,7 @@ weight: 0.2
 author:
   name: Onomatopee
   id: 319
-description: |
-  <p>VISIONS BY Issue No. 3 is conceptually organized around a spiral, representing the distance that the featured content presents in relation to the human body. From “deep” to “under” we find Dr. Naomi’s surgical work and understandings. Going from “under” to “between” Sara Bastai explores the relationship between objects and bodies and all the way around. Arriving at “on” we find Carlos Sáez and his Techno no aware hardware. Passing from “on” towards the unknown “?”, Luca Dobry presents a future sameness. From the “?” to the ununderstandable we have Riccardo Badano’s naturing borders and Toni Navarro’s proposals and challenges for a planetary politics, what a future to be alive in.</p>
-  <p>VISIONS BY Issue No. 3 features an evolution from its previous format and structure, just as Issue No. 4 and upcoming and future issues will. They are meant to mutate, seeking the best way to explore their self-contained content. Again, there is no specific theme per issue, no specific profile, no specific reader. Our contributors are selected in order to help us understand the cultural implications of materials and their infinite meanings. VISIONS BY people, about Material Cultures.</p>
+description: '<p>VISIONS BY Issue No. 3 is conceptually organized around a spiral, representing the distance that the featured content presents in relation to the human body. From “deep” to “under” we find Dr. Naomi’s surgical work and understandings. Going from “under” to “between” Sara Bastai explores the relationship between objects and bodies and all the way around. Arriving at “on” we find Carlos Sáez and his Techno no aware hardware. Passing from “on” towards the unknown “?”, Luca Dobry presents a future sameness. From the “?” to the ununderstandable we have Riccardo Badano’s naturing borders and Toni Navarro’s proposals and challenges for a planetary politics, what a future to be alive in.</p> <p>VISIONS BY Issue No. 3 features an evolution from its previous format and structure, just as Issue No. 4 and upcoming and future issues will. They are meant to mutate, seeking the best way to explore their self-contained content. Again, there is no specific theme per issue, no specific profile, no specific reader. Our contributors are selected in order to help us understand the cultural implications of materials and their infinite meanings. VISIONS BY people, about Material Cultures.</p>'
 details: |
   ISBN: "9493148765 / 978-9493148765"
   Content: "80 pages"
@@ -58,7 +56,7 @@ Issue No. 3
 
 ----
 
-Uuid: 0WpIQqKJno58ypsk
+Uuid: HQFRDcT9KPbZmMfa
 
 ----
 

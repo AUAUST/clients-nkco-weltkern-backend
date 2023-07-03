@@ -10,10 +10,7 @@ weight: 0.25
 author:
   name: Prestel
   id: 112
-description: |
-  <p>Launched in time for a major exhibition of Virgil Abloh’s work, this flip book shows images from the original video created to launch the sophomore Spring/Summer 2013 collection of Abloh’s first brand, Pyrex Vision, entitled, “Youth Always Wins.” Flip through the book at rapid speed to simulate the video!<br />
-  <br />
-  Since he launched Pyrex Vision, Abloh has been translating his tools and techniques from his training as an architect and engineer into the fashion world and beyond. He eventually closed Pyrex Vision to open Off-White™, collaborating with brands like Nike, musicians, architects, and others. In addition to creating Off-White™, Abloh has worked with Kanye West, collaborated with Takashi Murakami, performed at Lollapalooza, started a furniture collection with IKEA, and more. In 2018, Abloh was named Men’s Artistic Director at Louis Vuitton.</p>
+description: '<p>Launched in time for a major exhibition of Virgil Abloh’s work, this flip book shows images from the original video created to launch the sophomore Spring/Summer 2013 collection of Abloh’s first brand, Pyrex Vision, entitled, “Youth Always Wins.” Flip through the book at rapid speed to simulate the video!<br /> <br /> Since he launched Pyrex Vision, Abloh has been translating his tools and techniques from his training as an architect and engineer into the fashion world and beyond. He eventually closed Pyrex Vision to open Off-WhiteTM, collaborating with brands like Nike, musicians, architects, and others. In addition to creating Off-WhiteTM, Abloh has worked with Kanye West, collaborated with Takashi Murakami, performed at Lollapalooza, started a furniture collection with IKEA, and more. In 2018, Abloh was named Men’s Artistic Director at Louis Vuitton.</p>'
 details: |
   ISBN: "3791358994 / 978-3791358994"
   Content: "124 pages"
@@ -59,7 +56,7 @@ Virgil Abloh Pyrex Vision Flip Book
 
 ----
 
-Uuid: IhfUKf9o4Nt7owKi
+Uuid: K1mkpDMNNcwfkqnS
 
 ----
 

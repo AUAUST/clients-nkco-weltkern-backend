@@ -9,7 +9,7 @@ weight: 0.6
 author:
   name: Van Zoetendaal Publishers
   id: 300
-description: '<p>The first product to bear the Minox name was a subminiature camera, conceived as early as 1922 (Riga) but only invented and produced later by the Baltic German Walter Zapp in 1936. From 1937 to 1943, the Minox camera was manufactured by the Latvian VEF (Valstselektrotehniskā fabrika). However, following World War II, the camera was redesigned and started production in Germany. Walter Zapp originally intended the Minox to be a camera anyone could use, especially those new to photography. Nevertheless, the prohibitively high cost of production soon led Minox to become more widely associated as an amateur photographer’s luxury gadget. Shortly thereafter, and none too surprisingly, it entered the ranks of espionage as a spy camera. The ultralight aluminum device’s 80x27x16 mm format could easily be concealed in clothing, hollow books, bags, and suitcases. During the Cold War, intelligence operatives used them to take snapshots of classified documents and maps. And the number of movies in which this little spy camera stars are endless. For example, in <em>On Her Majesty’s Secret Service</em> (1969), James Bond uses the Minox to covertly capture the locations of deadly biological warfare agents. At 8×11 mm, the Minox also has the smallest-sized negatives in analog photography. The delicate silvery surface is 88 mm2 on a polyester base. To load his Minox camera, photographer Mark van den Brink (Netherlands, 1965) cut(s) the plastic film to size by hand. He purchased the camera thinking that he could – like a voyeur – inconspicuously photograph the world around him, even from the comfort of an easy chair.</p>'
+description: '<p>The first product to bear the Minox name was a subminiature camera, conceived as early as 1922 (Riga) but only invented and produced later by the Baltic German Walter Zapp in 1936. From 1937 to 1943, the Minox camera was manufactured by the Latvian VEF (Valstselektrotehniskā fabrika). However, following World War II, the camera was redesigned and started production in Germany. Walter Zapp originally intended the Minox to be a camera anyone could use, especially those new to photography. Nevertheless, the prohibitively high cost of production soon led Minox to become more widely associated as an amateur photographer’s luxury gadget. Shortly thereafter, and none too surprisingly, it entered the ranks of espionage as a spy camera. The ultralight aluminum device’s 80x27x16 mm format could easily be concealed in clothing, hollow books, bags, and suitcases. During the Cold War, intelligence operatives used them to take snapshots of classified documents and maps. And the number of movies in which this little spy camera stars are endless. For example, in <em>On Her Majesty’s Secret Service</em> (1969), James Bond uses the Minox to covertly capture the locations of deadly biological warfare agents. At 8×11 mm, the Minox also has the smallest-sized negatives in analog photography. The delicate silvery surface is 88 mm2 on a polyester base. To load his Minox camera, photographer Mark van den Brink (Netherlands, 1965) cut(s) the plastic film to size by hand. He purchased the camera thinking that he could – like a voyeur – inconspicuously photograph the world around him, even from the comfort of an easy chair.</p>'
 details: |
   ISBN: "9072532497 / 978-9072532497"
   Content: "384 pages"
@@ -35,7 +35,7 @@ The Minox Files
 
 ----
 
-Uuid: tPn1pGDUN6IrxFRO
+Uuid: 0l9Y7Wn8EEdN5lo6
 
 ----
 

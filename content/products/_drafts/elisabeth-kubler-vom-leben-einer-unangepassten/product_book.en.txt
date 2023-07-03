@@ -10,12 +10,7 @@ weight: 1.1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Born into a bourgeois family in Buchs, Switzerland, in 1931, Elisabeth Kübler was just shy of twenty when she acted on the urge to break away from her conservative milieu: after graduating from a course of teacher training, she went on to study acting at Zürich’s Bühnenstudio, which proved to be one turning point in her life. And after her stint on the stage, Elisabeth and her husband Jörn Kübler toured Switzerland with the Circus Knie for ten years. It all started because she wanted to become a sea lion tamer, she reminisces.</p>
-  <p>The next turning point came in 1969 when, through the good offices of Gustav Zumsteg, the Swiss silk merchant, art collector and proprietor of the restaurant Kronenhalle in Zürich, the couple took charge of the renowned Galerie Maeght in Zürich. Jörn Kübler died in 1975, after which Elisabeth ran the gallery by herself. Her exhibitions would subsequently leave their stamp on Zürich’s cultural life. She retired in 1994, but art remains a vital element of her life. So does cultivating the art of everyday living, including everything from tying bouquets and cooking to fashion and interior design.</p>
-  <p>This book includes essays by various authors from within the Swiss cultural scene, several interviews with Elisabeth Kübler, and a rich trove of photographs and documents drawn from the fascinating life of a maverick, an unconventional woman who jealously guarded her freedom to go her own way.<br />
-  — Susanna Koeberle</p>
-  <p>With texts by: Zsuzsanna Gahse, Elisabeth Grossmann, Elisabeth Joris, Susanna Koeberle, Elisabeth Kübler, Christine Lötscher, Christiane Meyer-Thoss, Anka Schmid, Antje Stahl, Laure Wyss, Barbara Villiger Heilig, Max Wechsler</p>
+description: '<p>Born into a bourgeois family in Buchs, Switzerland, in 1931, Elisabeth Kübler was just shy of twenty when she acted on the urge to break away from her conservative milieu: after graduating from a course of teacher training, she went on to study acting at Zürich’s Bühnenstudio, which proved to be one turning point in her life. And after her stint on the stage, Elisabeth and her husband Jörn Kübler toured Switzerland with the Circus Knie for ten years. It all started because she wanted to become a sea lion tamer, she reminisces.</p> <p>The next turning point came in 1969 when, through the good offices of Gustav Zumsteg, the Swiss silk merchant, art collector and proprietor of the restaurant Kronenhalle in Zürich, the couple took charge of the renowned Galerie Maeght in Zürich. Jörn Kübler died in 1975, after which Elisabeth ran the gallery by herself. Her exhibitions would subsequently leave their stamp on Zürich’s cultural life. She retired in 1994, but art remains a vital element of her life. So does cultivating the art of everyday living, including everything from tying bouquets and cooking to fashion and interior design.</p> <p>This book includes essays by various authors from within the Swiss cultural scene, several interviews with Elisabeth Kübler, and a rich trove of photographs and documents drawn from the fascinating life of a maverick, an unconventional woman who jealously guarded her freedom to go her own way.<br /> — Susanna Koeberle</p> <p>With texts by: Zsuzsanna Gahse, Elisabeth Grossmann, Elisabeth Joris, Susanna Koeberle, Elisabeth Kübler, Christine Lötscher, Christiane Meyer-Thoss, Anka Schmid, Antje Stahl, Laure Wyss, Barbara Villiger Heilig, Max Wechsler</p>'
 details: |
   ISBN: "978-3-907236-29-1"
   Content: "412 pages"
@@ -61,7 +56,7 @@ Vom Leben einer Unangepassten
 
 ----
 
-Uuid: AIcgWfgxiFeePVd6
+Uuid: NyRr4n9CcJyRh3sa
 
 ----
 

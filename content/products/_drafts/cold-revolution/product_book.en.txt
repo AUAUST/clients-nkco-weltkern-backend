@@ -15,7 +15,7 @@ details: |
   Content: "320 pages"
   Size: "160 × 20 × 213 mm"
   Edited by: "Jérôme Bazin et Joanna Kordjak"
-  Texts by: "Justyna Balisz-Schmelz, Jérôme Bazin, Irina Cărăbaș, Ralf Forster, Maja & Reuben Fowkes, Katerina Gadzheva, Wojciech Grzybała, Emma Hanzlíková, Sándor Hornyik, Sándor Horváth, Astrid Ihle, Constantin Iordachi, Dorota Jarecka, Vít Jakubíček, Marie Klimešová, Joanna Kordjak, Doreen Mende, Alina Mircea, Zsolt Petrányi, Agata Pietrasik Kristina Popova Nadège Ragaru Gábor Rieder, Hana Rousová, Piotr Rypson, Piotr Słodkowski, Oliver Sukrow, Aleksandra Sumorok, Ondřej Táborský, Monika Talarczyk, Irina Tulbure, Aneta Vasileva, Magdalena Ziółkowska"
+  Texts by: "Justyna Balisz-Schmelz, Jérôme Bazin, Irina Cărăbaș, Ralf Forster, Maja & Reuben Fowkes, Katerina Gadzheva, Wojciech Grzybała, Emma Hanzlíková, Sándor Hornyik, Sándor Horváth, Astrid Ihle, Constantin Iordachi, Dorota Jarecka, Vít Jakubíček, Marie Klimešová, Joanna Kordjak, Doreen Mende, Alina Mircea, Zsolt Petrányi, Agata Pietrasik Kristina Popova Nadège Ragaru Gábor Rieder, Hana Rousová, Piotr Rypson, Piotr Słodkowski, Oliver Sukrow, Aleksandra Sumorok, Ondřej Táborský, Monika Talarczyk, Irina Tulbure, Aneta Vasileva, Magdalena Ziółkowska"
   Language: "English"
   Publishing date: "2021"
   Specs: "Softcover"
@@ -33,7 +33,7 @@ Multilinetitle: Cold Revolution
 
 ----
 
-Uuid: b6I10qCFie8CsHIa
+Uuid: ly2enAgRluc8L0fS
 
 ----
 

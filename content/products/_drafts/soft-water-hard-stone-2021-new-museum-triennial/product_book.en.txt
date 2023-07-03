@@ -10,10 +10,7 @@ weight: 0.4
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>The much-anticipated fifth New Museum&#8217;s Triennial exhibition, opening in October 2021, volume, curated by Jamillah James and Margot Norton, is a signature survey of emerging artists from around the world. In this moment of profound change, where structures once thought to be stable have been revealed to be precarious, the New Museum&#8217;s highly anticipated 2021 Triennial, curated by Jamillah James and Margot Norton, showcases 40 artists and collectives re-imagining traditional models, materials, and techniques beyond established institutional paradigms. Their works explore states of transformation, calling attention to the malleability of structures and the fluid and adaptable potential of both technological and organic media. This book includes essays by prominent curators and interviews with each of the artists and collectives featured in the exhibition.<br />
-  <br />
-  Accompanies the New Museum&#8217;s much-anticipated fifth Triennial exhibition, opening in October 2021 in New York City, spotlighting an exciting group of 40 artists and collectives, each selected for their ability to invoke ideas of global concern &#8211; including the questioning of accepted narratives and imagining new creative paths for the future.</p>
+description: '<p>The much-anticipated fifth New Museum&#8217;s Triennial exhibition, opening in October 2021, volume, curated by Jamillah James and Margot Norton, is a signature survey of emerging artists from around the world. In this moment of profound change, where structures once thought to be stable have been revealed to be precarious, the New Museum&#8217;s highly anticipated 2021 Triennial, curated by Jamillah James and Margot Norton, showcases 40 artists and collectives re-imagining traditional models, materials, and techniques beyond established institutional paradigms. Their works explore states of transformation, calling attention to the malleability of structures and the fluid and adaptable potential of both technological and organic media. This book includes essays by prominent curators and interviews with each of the artists and collectives featured in the exhibition.<br /> <br /> Accompanies the New Museum&#8217;s much-anticipated fifth Triennial exhibition, opening in October 2021 in New York City, spotlighting an exciting group of 40 artists and collectives, each selected for their ability to invoke ideas of global concern &#8211; including the questioning of accepted narratives and imagining new creative paths for the future.</p>'
 details: |
   ISBN: "1838664033 / 978-1838664039"
   Content: "368 pages"
@@ -39,7 +36,7 @@ Soft Water Hard Stone
 
 ----
 
-Uuid: IPBU530FmclHCqma
+Uuid: TBRxCm48Bh7xmSCb
 
 ----
 

@@ -9,10 +9,7 @@ weight: 0.7
 author:
   name: Distanz
   id: 366
-description: |
-  <p>Michael Müller (b. Ingelheim am Rhein, 1970; lives and works in Berlin) makes paintings, drawings, installations, and sculptures as well as performances grounded in linguistic, numerical-mathematical, and stellar systems that combine a certain factual basis with an imagination unconstrained by empiricism. An ongoing critical engagement with forms, methods, and standards forms the core of Müller’s works, which are also influenced by his travels and stays in India, where his grandmother was born.</p>
-  <p>Müller’s painting is programmatic. His series in large formats revolve around the process in which a picture comes into being. The series Schwierige Bilder (Difficult Paintings) to which this publication is dedicated consists of sprawling diptychs composed of canvases of different lengths that integrate photographic reproductions and painterly gestures in a kind of symbiosis. Müller begins by developing the nonrepresentational painting on one wing of the diptych. Then he takes photographs, reworks them on the computer, and prints the result on the second wing, doubling some passages of the picture and superimposing other details in turn. Overpainting parts of both elements of the picture and adding new painterly gestures yields a palimpsest in which different times interweave on the canvas.</p>
-  <p>The catalogue, published in conjunction with the exhibition in Sammlung Wemhöner’s unfinished renovated spaces, presents the first in-depth survey of the artist’s complex painted oeuvre. With an introduction by the curator Philipp Bollmann and writings by Larissa Kikol, Oliver Koerner von Gustorf, and Travis Jeppesen.</p>
+description: '<p>Michael Müller (b. Ingelheim am Rhein, 1970; lives and works in Berlin) makes paintings, drawings, installations, and sculptures as well as performances grounded in linguistic, numerical-mathematical, and stellar systems that combine a certain factual basis with an imagination unconstrained by empiricism. An ongoing critical engagement with forms, methods, and standards forms the core of Müller’s works, which are also influenced by his travels and stays in India, where his grandmother was born.</p> <p>Müller’s painting is programmatic. His series in large formats revolve around the process in which a picture comes into being. The series Schwierige Bilder (Difficult Paintings) to which this publication is dedicated consists of sprawling diptychs composed of canvases of different lengths that integrate photographic reproductions and painterly gestures in a kind of symbiosis. Müller begins by developing the nonrepresentational painting on one wing of the diptych. Then he takes photographs, reworks them on the computer, and prints the result on the second wing, doubling some passages of the picture and superimposing other details in turn. Overpainting parts of both elements of the picture and adding new painterly gestures yields a palimpsest in which different times interweave on the canvas.</p> <p>The catalogue, published in conjunction with the exhibition in Sammlung Wemhöner’s unfinished renovated spaces, presents the first in-depth survey of the artist’s complex painted oeuvre. With an introduction by the curator Philipp Bollmann and writings by Larissa Kikol, Oliver Koerner von Gustorf, and Travis Jeppesen.</p>'
 details: |
   ISBN: "3954764099 / 978-3954764099"
   Content: "84 Pages"
@@ -50,7 +47,7 @@ Schwierige Bilder
 
 ----
 
-Uuid: d859hhlS0Qr2PEsx
+Uuid: CLpMjq2IGaJDrW5W
 
 ----
 

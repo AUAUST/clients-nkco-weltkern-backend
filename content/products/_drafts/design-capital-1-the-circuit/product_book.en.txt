@@ -9,14 +9,11 @@ weight: 0.2
 author:
   name: Onomatopee
   id: 319
-description: |
-  <p>It starts with a question, perhaps a passing interest. Design takes over a city, with clutters of exhibitions in galleries and disused spaces working loosely in response. New biennials and festivals and weeks emerge every year. Old events happen again simply because they happened before. What is it that these events and their predictable patterns actually achieve, though?</p>
-  <p>For almost 200 years, continuing a line of thought first started by events like the Great Exhibition, ‘design events’ have become more and more popular across Europe, tangling around local, national, and international politics and economics. But can design be important or meaningful at this kind of scale? And how do these events act on people and places — as well as on the discipline itself? With the pause that the pandemic offers, is this the moment to examine who and what they exclude, taking the time to imagine what they could be instead?</p>
+description: '<p>It starts with a question, perhaps a passing interest. Design takes over a city, with clutters of exhibitions in galleries and disused spaces working loosely in response. New biennials and festivals and weeks emerge every year. Old events happen again simply because they happened before. What is it that these events and their predictable patterns actually achieve, though?</p> <p>For almost 200 years, continuing a line of thought first started by events like the Great Exhibition, ‘design events’ have become more and more popular across Europe, tangling around local, national, and international politics and economics. But can design be important or meaningful at this kind of scale? And how do these events act on people and places — as well as on the discipline itself? With the pause that the pandemic offers, is this the moment to examine who and what they exclude, taking the time to imagine what they could be instead?</p>'
 details: |
   ISBN: "9493148628 / 978-9493148628"
   Content: "64 pages"
-  Size: "190 × 115 mm
-  
+  Size: "190 × 115 mm "
   Language: "English "
   Edited by: "Francisco Laranjo"
   Graphic design: "Hannah Ellis"
@@ -39,7 +36,7 @@ The Circuit
 
 ----
 
-Uuid: HNagWsNoMVDODDXO
+Uuid: YnHtWhU0CHmeklmy
 
 ----
 

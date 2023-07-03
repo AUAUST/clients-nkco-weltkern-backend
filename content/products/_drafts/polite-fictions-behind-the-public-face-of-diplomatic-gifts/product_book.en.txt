@@ -20,7 +20,7 @@ details: |
   Language: "English"
   Publishing date: "2020"
   Specs: "Embossed and screen printed linen softcover "
-  Images: "© WELTKERN® /  Suzanne Schols. All rights reserved."
+  Images: "© WELTKERN® / Suzanne Schols. All rights reserved."
 gallery:
   - 
     url: >
@@ -37,7 +37,7 @@ Behind The Public Face Of Diplomatic Gifts
 
 ----
 
-Uuid: bMUY2XR5olKNLERB
+Uuid: nXMxvDF3bsbofaVD
 
 ----
 

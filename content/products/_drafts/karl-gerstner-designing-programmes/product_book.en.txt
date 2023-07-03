@@ -13,7 +13,7 @@ description: '<p>Karl Gerstner&#8217;s work is a milestone in the history of des
 details: |
   ISBN: "3037785780 / 978-3037785782"
   Content: "120 pages"
-  Size: "195 × 6 × 250 mm"
+  Size: "195 × 6 ×? 250 mm"
   Author: "Karl Gerstner"
   Design: "Karl Gerstner"
   Language: "English"
@@ -48,7 +48,7 @@ Designing Programmes
 
 ----
 
-Uuid: ZTyRGe5GsCiINPo7
+Uuid: fTK7qTg2t0FQTHKL
 
 ----
 

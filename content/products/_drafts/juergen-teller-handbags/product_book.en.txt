@@ -9,9 +9,7 @@ weight: 4.3
 author:
   name: Steidl Publishers
   id: 140
-description: |
-  <p>The master fashion photographer makes a gorgeous typology of the ultimate accessory.</p>
-  <p>“Friends of my girlfriend were asking me what kind of a photographer I am, what I photograph,” F says, apropos of his latest book. “I replied: ‘Actually, come to think of it, mostly handbags.’ I always like their astonished and disappointed faces! I realized through the 30 years of my career, I photographed a hell of a lot of handbags within my fashion work.”  This enormous 600-page book of photographs of handbags depicts the accessory as you might imagine it through the lens of Teller, colorful and well lit, but nonetheless as you have never seen handbags before. Numerous models, actors and infamous individuals are featured here, including Michael Clark, Cindy Sherman, Kate Moss, Vivienne Westwood, Sofia Coppola, Tilda Swinton, John Malkovich and Victoria Beckham. Teller himself sees the book as akin to his 1999 volume Go-Sees, in its direct serial character.  Demonstrating how Teller has reshaped the field of fashion photography since he first emerged in the 1990s, Handbags will delight the aficionado of contemporary fashion and of photography alike.  Juergen Teller was born in Erlangen, Germany, in 1964. His work has been published in influential magazines such as Vogue, System, i-D, POP and Arena Homme+, and has been the subject of solo exhibitions, including those at the Institute of Contemporary Arts in London, the Fondation Cartier pour l’art contemporain in Paris and Martin-Gropius-Bau in Berlin. Teller won the prestigious Citibank Photography Prize in 2003, and from 2014 to 2019 held a professorship at the Akademie der Bildenden Künste Nürnberg. His books with Steidl include Louis XV (2005), Marc Jacobs Advertising, 1998–2009 (2009), Siegerflieger (2015) and The Master IV (2019).</p>
+description: '<p>The master fashion photographer makes a gorgeous typology of the ultimate accessory.</p> <p>“Friends of my girlfriend were asking me what kind of a photographer I am, what I photograph,” F says, apropos of his latest book. “I replied: ‘Actually, come to think of it, mostly handbags.’ I always like their astonished and disappointed faces! I realized through the 30 years of my career, I photographed a hell of a lot of handbags within my fashion work.”  This enormous 600-page book of photographs of handbags depicts the accessory as you might imagine it through the lens of Teller, colorful and well lit, but nonetheless as you have never seen handbags before. Numerous models, actors and infamous individuals are featured here, including Michael Clark, Cindy Sherman, Kate Moss, Vivienne Westwood, Sofia Coppola, Tilda Swinton, John Malkovich and Victoria Beckham. Teller himself sees the book as akin to his 1999 volume? Go-Sees, in its direct serial character.  Demonstrating how Teller has reshaped the field of fashion photography since he first emerged in the 1990s,? Handbags? will delight the aficionado of contemporary fashion and of photography alike.  Juergen Teller? was born in Erlangen, Germany, in 1964. His work has been published in influential magazines such as? Vogue,? System,? i-D,? POP? and? Arena Homme+, and has been the subject of solo exhibitions, including those at the Institute of Contemporary Arts in London, the Fondation Cartier pour l’art contemporain in Paris and Martin-Gropius-Bau in Berlin. Teller won the prestigious Citibank Photography Prize in 2003, and from 2014 to 2019 held a professorship at the Akademie der Bildenden Künste Nürnberg. His books with Steidl include? Louis XV? (2005),? Marc Jacobs Advertising, 1998–2009? (2009),? Siegerflieger? (2015) and? The Master IV? (2019).</p>'
 details: |
   ISBN: "3958296343 / 978-3958296343"
   Content: "608 pages"
@@ -49,7 +47,7 @@ Handbags
 
 ----
 
-Uuid: 0GQYiMB3LbgvmxF7
+Uuid: zaE6PCy0UdP9Xa4t
 
 ----
 

@@ -9,13 +9,7 @@ weight: 1.5
 author:
   name: Prestel
   id: 112
-description: |
-  <p><em>I Can Make You Feel Good</em>, is a 206-page celebration of photographer and filmmaker Tyler Mitchell&#8217;s distinctive vision of a Black utopia. The book unifies and expands upon Mitchell&#8217;s body of photography and film from his first US solo exhibition at the International Center of Photography (ICP) in New York.<br />
-  Each page of I Can Make You Feel Good is full bleed and bathed in Mitchell&#8217;s signature candy-colored palette. With no white space visible, the book&#8217;s design mirrors the photographer&#8217;s all-encompassing vision which is characterized by a use of glowing natural light and rich color to portray the young Black men and women he photographs with intimacy and optimism.<br />
-  <br />
-  The monograph features written contributions from Hans Ulrich Obrist (Artistic Director, Serpentine Galleries), Deborah Willis (Chair of the Department of Photography &#038; Imaging at the Tisch School of the Arts at New York University), Mirjam Kooiman (Curator, Foam) and Isolde Brielmaier (Curator-at-Large, ICP), whose critical voices examine the cultural prevalence of Mitchell&#8217;s reimagining of the Black experience.<br />
-  <br />
-  Based in Brooklyn, Mitchell works across many genres to explore and document a new aesthetic of Blackness. He is regularly published in avant- garde magazines, commissioned by prominent fashion houses, and exhibited in renowned art institutions, Mitchell has lectured at many such institutions including Harvard University, Paris Photo and the International Center of Photography (ICP), on the politics of image making.</p>
+description: '<p><em>I Can Make You Feel Good</em>, is a 206-page celebration of photographer and filmmaker Tyler Mitchell&#8217;s distinctive vision of a Black utopia. The book unifies and expands upon Mitchell&#8217;s body of photography and film from his first US solo exhibition at the International Center of Photography (ICP) in New York.<br /> Each page of I Can Make You Feel Good is full bleed and bathed in Mitchell&#8217;s signature candy-colored palette. With no white space visible, the book&#8217;s design mirrors the photographer&#8217;s all-encompassing vision which is characterized by a use of glowing natural light and rich color to portray the young Black men and women he photographs with intimacy and optimism.<br /> <br /> The monograph features written contributions from Hans Ulrich Obrist (Artistic Director, Serpentine Galleries), Deborah Willis (Chair of the Department of Photography &#038; Imaging at the Tisch School of the Arts at New York University), Mirjam Kooiman (Curator, Foam) and Isolde Brielmaier (Curator-at-Large, ICP), whose critical voices examine the cultural prevalence of Mitchell&#8217;s reimagining of the Black experience.<br /> <br /> Based in Brooklyn, Mitchell works across many genres to explore and document a new aesthetic of Blackness. He is regularly published in avant- garde magazines, commissioned by prominent fashion houses, and exhibited in renowned art institutions, Mitchell has lectured at many such institutions including Harvard University, Paris Photo and the International Center of Photography (ICP), on the politics of image making.</p>'
 details: |
   ISBN: "3791386085 / 978-3791386089"
   Content: "208 Pages"
@@ -62,7 +56,7 @@ I Can Make You Feel Good
 
 ----
 
-Uuid: B73NbSCeDDg6z27L
+Uuid: vrTZWHEgDnxFkozx
 
 ----
 

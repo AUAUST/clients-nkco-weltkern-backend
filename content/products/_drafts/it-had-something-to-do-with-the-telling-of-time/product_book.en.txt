@@ -16,8 +16,7 @@ description: '<p>A screenplay in seven acts, the book is based on descriptions o
 details: |
   ISBN: "9491677403 / 978-9491677403"
   Content: "64 pages"
-  Size: "160 × 220 mm
-  
+  Size: "160 × 220 mm "
   Language: "English"
   Edited by: "Annee Grøtte Viken"
   Graphic design: "Sven Van Asten"
@@ -37,7 +36,7 @@ Multilinetitle: It Had Something To Do With The Telling Of Time
 
 ----
 
-Uuid: DsmW99oyCfS7v5VU
+Uuid: It42pgeuJ3gxvhty
 
 ----
 

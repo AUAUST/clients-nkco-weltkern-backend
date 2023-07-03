@@ -10,10 +10,7 @@ weight: 1.5
 author:
   name: Park Books
   id: 88
-description: |
-  <p><em>Typology Vol. 2</em> follows up on the preceding and successful <em>Typology</em>, published in 2012. Emanuel Christ and Christoph Gantenbein together with their teaching staff and students at ETH Zurich expanded their research on building typology to four more metropolises, again in Europe, Latin America, and Asia: Paris, Delhi, São Paulo, and Athens.<br />
-  <br />
-  180 buildings were analysed over the past two years to find inspiration and models that can be adapted for the local context of any given city. Each example is documented with an image, site and floor plans, axonometric projection, key data, and a brief description. An introduction and four essays on the interaction between various protagonists and in particular the effect of governing local building regulation again show the potential for contemporary urban architecture. The result is again a rich sourcebook of great practical value for students, lecturers and practitioners of architecture.</p>
+description: '<p><em>Typology Vol. 2</em> follows up on the preceding and successful <em>Typology</em>, published in 2012. Emanuel Christ and Christoph Gantenbein together with their teaching staff and students at ETH Zurich expanded their research on building typology to four more metropolises, again in Europe, Latin America, and Asia: Paris, Delhi, São Paulo, and Athens.<br /> <br /> 180 buildings were analysed over the past two years to find inspiration and models that can be adapted for the local context of any given city. Each example is documented with an image, site and floor plans, axonometric projection, key data, and a brief description. An introduction and four essays on the interaction between various protagonists and in particular the effect of governing local building regulation again show the potential for contemporary urban architecture. The result is again a rich sourcebook of great practical value for students, lecturers and practitioners of architecture.</p>'
 details: |
   ISBN: "3906027635 / 978-3906027630 "
   Content: "212 pages"
@@ -64,7 +61,7 @@ Paris, Delhi, Sao Paulo, Athens.
 
 ----
 
-Uuid: Udx137d8teFt0YSy
+Uuid: lFfN71R7NVUaqrfr
 
 ----
 

@@ -9,11 +9,7 @@ weight: 2.1
 author:
   name: Cosa Mentale
   id: 87
-description: |
-  <p>An iconographic work on the modern architecture of Abidjan which aims to offer a photographic survey of thirty buildings representative of the chosen moment of architecture that followed independence.<br />
-  This is not an architecture book but a photography book on an architecture that expresses itself through diversity. It is a book that intends to offer a photographic view of buildings in Abidjan that bear the imprint of a certain «tropical modernism».<br />
-  More precisely, Album Architectures, Abidjan is the testimony of an encounter between two individuals who live and share an aesthetic and emotional attachment to the lagoon city. Issa Diabaté, architect, contemporary actor of the architectural future of this city that never stops reinventing itself. François-Xavier Gbré, a photographer who has made architecture his preferred medium for apprehending the muted history of places by envisaging architectures as the sedimentary traces of the social and political changes of a country, the Ivory Coast.</p>
-  <p>This book, and the Album Architectures collection more broadly, aims to initiate a reflection on the definition of the notion of contemporary heritage through the valorisation of rich and singular architectural landscapes, not always identified, often invisibilised, of cities in perpetual urban change.</p>
+description: '<p>An iconographic work on the modern architecture of Abidjan which aims to offer a photographic survey of thirty buildings representative of the chosen moment of architecture that followed independence.<br /> This is not an architecture book but a photography book on an architecture that expresses itself through diversity. It is a book that intends to offer a photographic view of buildings in Abidjan that bear the imprint of a certain «tropical modernism».<br /> More precisely, Album Architectures, Abidjan is the testimony of an encounter between two individuals who live and share an aesthetic and emotional attachment to the lagoon city. Issa Diabaté, architect, contemporary actor of the architectural future of this city that never stops reinventing itself. François-Xavier Gbré, a photographer who has made architecture his preferred medium for apprehending the muted history of places by envisaging architectures as the sedimentary traces of the social and political changes of a country, the Ivory Coast.</p> <p>This book, and the Album Architectures collection more broadly, aims to initiate a reflection on the definition of the notion of contemporary heritage through the valorisation of rich and singular architectural landscapes, not always identified, often invisibilised, of cities in perpetual urban change.</p>'
 details: |
   ISBN: "2493283115 / 978-2493283115"
   Content: "128 pages"
@@ -71,7 +67,7 @@ Abidjan
 
 ----
 
-Uuid: FNw9hjYji8rK48Eu
+Uuid: FlOKBYKudLvlhTp9
 
 ----
 

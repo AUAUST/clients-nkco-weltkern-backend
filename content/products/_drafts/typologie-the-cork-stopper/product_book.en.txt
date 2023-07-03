@@ -9,12 +9,7 @@ weight: 0.4
 author:
   name: Collections Typologie
   id: 106
-description: |
-  <p><em>Typologie</em> is a collection of design books about ordinary objects. This issue dedicated to the cork stopper features: a large photographic section; a trip to the cork oak forests and factories in Portugal; industrial archives and corky stories; a sensitive encounter between a manufacturer, a famous consultant, and a Catalan designer.<br />
-  <br />
-  <em>Typologie</em> is a series of design publications that takes the reader on a journey to the heart of everyday objects. Each volume is devoted to one ordinary object. It inventories its numerous shapes, explores his manufacturing process, details its history and highlight its enduring relevance through the voices of passionate specialists. Each issue is published in English and French versions.<br />
-  <br />
-  Each issue features two sections: The first one is printed in tri-color on thick paper, and presents a series of original photos of ancient and contemporary objects, faithfully reproduced. The second one is printed in color on thin paper and contains authors&#8217; texts, a crossed interview, a factory documentary and archive images.</p>
+description: '<p><em>Typologie</em> is a collection of design books about ordinary objects. This issue dedicated to the cork stopper features: a large photographic section; a trip to the cork oak forests and factories in Portugal; industrial archives and corky stories; a sensitive encounter between a manufacturer, a famous consultant, and a Catalan designer.<br /> <br /> <em>Typologie</em> is a series of design publications that takes the reader on a journey to the heart of everyday objects. Each volume is devoted to one ordinary object. It inventories its numerous shapes, explores his manufacturing process, details its history and highlight its enduring relevance through the voices of passionate specialists. Each issue is published in English and French versions.<br /> <br /> Each issue features two sections: The first one is printed in tri-color on thick paper, and presents a series of original photos of ancient and contemporary objects, faithfully reproduced. The second one is printed in color on thin paper and contains authors&#8217; texts, a crossed interview, a factory documentary and archive images.</p>'
 details: |
   ISBN: "978-2490958016 / 2490958016"
   Content: "64 pages"
@@ -60,7 +55,7 @@ The cork stopper
 
 ----
 
-Uuid: gcomOnhXjJUfZv5l
+Uuid: XylE0cEwVkwhslBI
 
 ----
 

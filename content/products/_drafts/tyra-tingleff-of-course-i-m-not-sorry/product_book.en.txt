@@ -13,8 +13,7 @@ description: '<p>Of Course I&#8217;m Not Sorry is a colorful and lively journey 
 details: |
   ISBN: "8867494903 / 978-8867494903"
   Content: "160 pages"
-  Size: "190 × 265 mm
-  
+  Size: "190 × 265 mm "
   Language: "English"
   Publishing date: "2022"
   Specs: "Softcover"
@@ -35,7 +34,7 @@ Of Course I'm Not Sorry
 
 ----
 
-Uuid: ZRwwrpjjK8aMRNip
+Uuid: 6SVegIXBP7NAU4p0
 
 ----
 

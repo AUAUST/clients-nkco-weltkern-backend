@@ -9,10 +9,7 @@ weight: 2.1
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>KALEIDOSCOPE&#8217;s new issue 41 (Fall/Winter 2022) launches with a set of six covers, and a revamped look.</p>
-  <p>In conversation with Hans Ulrich Obrist, artist Charles Atlas reminisces about starting out in the NYC underground drag scene of the 1970s, and collaborating with the likes of Merce Cunningham, Michael Clark, and Leigh Bowery. Reinterpreted through the lens of photographer Charlie Engman, his lexicon is one of raw energy and omnivorous imagination, spanning from docu-fantasy to mathematics, from TV to TikTok.</p>
-  <p>Shot in Tokyo by Motoyuki Daifu on the occasion of his Don&#8217;t Follow Me Because I&#8217;m Lost Too!! tour, London-based VEGYN is something of a prodigy, having produced music for the likes of Frank Ocean, founded his own record label, and doubled as a graphic designer. Here, he sits down for a chat with Cyrus Goberville to explain how he remains level-headed in the oversaturated electronic music arena.</p>
+description: '<p>KALEIDOSCOPE&#8217;s new issue 41 (Fall/Winter 2022) launches with a set of six covers, and a revamped look.</p> <p>In conversation with Hans Ulrich Obrist, artist Charles Atlas reminisces about starting out in the NYC underground drag scene of the 1970s, and collaborating with the likes of Merce Cunningham, Michael Clark, and Leigh Bowery. Reinterpreted through the lens of photographer Charlie Engman, his lexicon is one of raw energy and omnivorous imagination, spanning from docu-fantasy to mathematics, from TV to TikTok.</p> <p>Shot in Tokyo by Motoyuki Daifu on the occasion of his Don&#8217;t Follow Me Because I&#8217;m Lost Too!! tour, London-based VEGYN is something of a prodigy, having produced music for the likes of Frank Ocean, founded his own record label, and doubled as a graphic designer. Here, he sits down for a chat with Cyrus Goberville to explain how he remains level-headed in the oversaturated electronic music arena.</p>'
 details: |
   Content: "348 pages"
   Size: "230 × 300 mm"
@@ -85,7 +82,7 @@ Vegyn
 
 ----
 
-Uuid: WO5jhOG9vBz344hP
+Uuid: GIoXSXxJahfRXNIW
 
 ----
 

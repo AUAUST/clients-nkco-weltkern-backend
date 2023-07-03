@@ -10,14 +10,7 @@ weight: 1
 author:
   name: 'Scheidegger &amp; Spiess'
   id: 89
-description: |
-  <p><em>Swissair Souvenirs</em> presents a large selection of images from the archive of the legendary Swiss airline Swissair. Richly illustrated and contains 80 years of aviation documents in a wide range of aspects. This is Volume 2 of the new series <em>Pictorial Worlds</em>. The photographs are from the ETH-Bibliothek&#8217;s Image Archive.<br />
-  <br />
-  For decades, Swissair, Switzerland&#8217;s former national airline, was an icon of international air travel. Yet its history came to a sad ending, with the grounding of the entire fleet on 2 October 2001 due to cash flow problems, bankruptcy and the subsequent liquidation of the company. What remains of Swissair besides of memories and testimonials of its extraordinary character are the company&#8217;s vast photographic archives, now held at the ETH-Bibliothek in Zürich.<br />
-  <br />
-  One part of this photographic legacy, the Swissair Photo Archive, consists of images produced to document the airline&#8217;s day-to-day operations and used for marketing purposes, staff training and also as souvenirs for employees. Some of these carefully composed images, e.g. of farewells and welcomes, loading of ready-to-serve food in a snow-storm and refuelling in the heat of a summer day evoke legendary film-stills.<br />
-  <br />
-  The new book Swissair Souvenirs presents around 270 of these photographs. Of excellent quality in every respect, the pictures also show the vast range of subjects covered by the collection. They are arranged by formal and thematic aspects, pairs and sequences or spreads revealing relations between subject fields as well as formal contrasts. An introductory essay and concise captions complement the images.</p>
+description: '<p><em>Swissair Souvenirs</em>? presents a large selection of images from the archive of the legendary Swiss airline Swissair. Richly illustrated and contains 80 years of aviation documents in a wide range of aspects. This is Volume 2 of the new series? <em>Pictorial Worlds</em>. The photographs are from the ETH-Bibliothek&#8217;s Image Archive.<br /> <br /> For decades, Swissair, Switzerland&#8217;s former national airline, was an icon of international air travel. Yet its history came to a sad ending, with the grounding of the entire fleet on 2 October 2001 due to cash flow problems, bankruptcy and the subsequent liquidation of the company. What remains of Swissair besides of memories and testimonials of its extraordinary character are the company&#8217;s vast photographic archives, now held at the ETH-Bibliothek in Zürich.<br /> <br /> One part of this photographic legacy, the Swissair Photo Archive, consists of images produced to document the airline&#8217;s day-to-day operations and used for marketing purposes, staff training and also as souvenirs for employees. Some of these carefully composed images, e.g. of farewells and welcomes, loading of ready-to-serve food in a snow-storm and refuelling in the heat of a summer day evoke legendary film-stills.<br /> <br /> The new book? Swissair Souvenirs? presents around 270 of these photographs. Of excellent quality in every respect, the pictures also show the vast range of subjects covered by the collection. They are arranged by formal and thematic aspects, pairs and sequences or spreads revealing relations between subject fields as well as formal contrasts. An introductory essay and concise captions complement the images.</p>'
 details: |
   ISBN: "3858813591 / 978-3858813596 "
   Content: "191 pages"
@@ -59,7 +52,7 @@ The Swissair Photo Archives
 
 ----
 
-Uuid: ovW16OdCfXsB6yAS
+Uuid: tDzeOwsrWSXGeWW1
 
 ----
 

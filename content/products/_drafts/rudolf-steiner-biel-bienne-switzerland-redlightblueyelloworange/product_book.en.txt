@@ -17,9 +17,7 @@ details: |
   Size: "130 × 190 mm"
   Language: "English"
   Publishing date: "2021"
-  Specs: "Softcover
-  Color Offset Print
-  First edition"
+  Specs: "Softcover Color Offset Print First edition"
   Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
@@ -45,7 +43,7 @@ Redlightblueyelloworange
 
 ----
 
-Uuid: WacCYCuOzyxEAmdE
+Uuid: pj1SFAyuBRiMdeMZ
 
 ----
 

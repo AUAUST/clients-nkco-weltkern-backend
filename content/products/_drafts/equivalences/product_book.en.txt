@@ -9,10 +9,7 @@ weight: 0.9
 author:
   name: RVB BOOKS
   id: 104
-description: |
-  <p>In a digital age of ever-faster technological innovation, Douglas Mandry explores the photographic medium. Using analog methods, he retouches each image by hand, using either vintage photographic processes or by physically cutting and pasting the images he works with.<br />
-  For &#8220;Unseen Sights&#8221;, published in the book Equivalences, the Swiss photographer was inspired by early 20th century postcards from the Middle East. Using acrylic paint and an airbrush, he colorized black-and-white prints of landscapes in Cappadocia, Turkey, then re-photographed the compositions.<br />
-  Rather than merely reproducing images, the book offered the artist an opportunity to re-interpret the pictures. Playing with layers of color in print, the artist created a new representation – using, this time, a mechanical process. The original images merge with the transformed pictures, sketching out a sequence with a non-linear narrative. The title of the book pays tribute to Stieglitz&#8217;s famous &#8220;Equivalents&#8221; works, which depict vertical fragments of sky and clouds and are widely considered the first abstract photo series.</p>
+description: '<p>In a digital age of ever-faster technological innovation, Douglas Mandry explores the photographic medium. Using analog methods, he retouches each image by hand, using either vintage photographic processes or by physically cutting and pasting the images he works with.<br /> For &#8220;Unseen Sights&#8221;, published in the book? Equivalences, the Swiss photographer was inspired by early 20th century postcards from the Middle East. Using acrylic paint and an airbrush, he colorized black-and-white prints of landscapes in Cappadocia, Turkey, then re-photographed the compositions.<br /> Rather than merely reproducing images, the book offered the artist an opportunity to re-interpret the pictures. Playing with layers of color in print, the artist created a new representation – using, this time, a mechanical process. The original images merge with the transformed pictures, sketching out a sequence with a non-linear narrative. The title of the book pays tribute to Stieglitz&#8217;s famous &#8220;Equivalents&#8221; works, which depict vertical fragments of sky and clouds and are widely considered the first abstract photo series.</p>'
 details: |
   ISBN: "1090306790 / 979-1090306790"
   Content: "208 pages"
@@ -56,7 +53,7 @@ Multilinetitle: Equivalences
 
 ----
 
-Uuid: GzuYdAx2GFedqzD4
+Uuid: vXk5GaiMamcILnZU
 
 ----
 

@@ -17,9 +17,7 @@ details: |
   Size: "130 × 190 mm"
   Language: "English"
   Publishing date: "2020"
-  Specs: "Softcover
-  Color Offset Print
-  First Edition"
+  Specs: "Softcover Color Offset Print First Edition"
   Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
@@ -45,7 +43,7 @@ March 7 – June 30
 
 ----
 
-Uuid: Rsw7IYEeaSmiWluo
+Uuid: 5rxHaydF86zGAnBb
 
 ----
 

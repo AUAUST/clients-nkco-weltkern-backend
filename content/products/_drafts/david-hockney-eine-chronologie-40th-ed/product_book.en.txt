@@ -3,19 +3,15 @@ Oldweltkern:
 title: 'David Hockney <br>Eine Chronologie. 40th Ed.'
 slug: david-hockney-e-eine-chronologie-40th-ed
 id: 25853
-isbn: |
-  3836586504 / 978-3836586504
+isbn: '3836586504 / 978-3836586504 '
 price: 23.5
 weight: 1.5
 author:
   name: Taschen
   id: 91
-description: |
-  <p>Celebrating TASCHEN&#8217;s 40th anniversary, this special edition is an unprecedented chronological journey through the life and work of David Hockney. From London in the Swinging Sixties to Californian swimming pools and the sprawling landscapes of his native Yorkshire, you will experience the juxtaposition of works of art and&#8230;</p>
-  <p>Pop artist, painter of modern life, landscape painter, color virtuoso, explorer of image and perception &#8211; for six decades David Hockney has been known as an artist who always finds new ways to explore the world and its possibilities of representation. He consistently creates unforgettable images: free works with drawn lines and integrated text from the Swinging London period of the 1960s; the famous Swimming Pool series chronicling the Californian way of life in the 1970&#8217;s; meticulously observed portraits and brightly colored oversized landscapes after his late return to his native Yorkshire. In addition to drawings in which he transfers what he sees directly onto paper, there are multi-perspective Polaroid collages that open up the room into a multitude of detailed views, or iPad drawings,</p>
+description: '<p>Celebrating TASCHEN&#8217;s 40th anniversary, this special edition is an unprecedented chronological journey through the life and work of David Hockney. From London in the Swinging Sixties to Californian swimming pools and the sprawling landscapes of his native Yorkshire, you will experience the juxtaposition of works of art and&#8230;</p> <p>Pop artist, painter of modern life, landscape painter, color virtuoso, explorer of image and perception &#8211; for six decades David Hockney has been known as an artist who always finds new ways to explore the world and its possibilities of representation. He consistently creates unforgettable images: free works with drawn lines and integrated text from the Swinging London period of the 1960s; the famous Swimming Pool series chronicling the Californian way of life in the 1970&#8217;s; meticulously observed portraits and brightly colored oversized landscapes after his late return to his native Yorkshire. In addition to drawings in which he transfers what he sees directly onto paper, there are multi-perspective Polaroid collages that open up the room into a multitude of detailed views, or iPad drawings,</p>'
 details: |
-  ISBN: "3836586504 / 978-3836586504
-  
+  ISBN: "3836586504 / 978-3836586504 "
   Content: "512 pages"
   Size: "160 × 220 mm"
   Design: "Face."
@@ -75,7 +71,7 @@ Eine Chronologie. 40th Ed.
 
 ----
 
-Uuid: CZtL2K7w0cKGE31L
+Uuid: KmYbkW3X1DSgs0KM
 
 ----
 

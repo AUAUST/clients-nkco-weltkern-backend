@@ -13,11 +13,10 @@ description: '<p>This book brings together ideas and projects that seek to defin
 details: |
   ISBN: "9493148598 / 978-9493148598"
   Content: "408 pages"
-  Size: "165 × 240 mm
-  
+  Size: "165 × 240 mm "
   Language: "English "
   Edited by: "Mariana Pestana, Sumitra"
-  Graphic design: "Macedo Cannatà"
+  Graphic design: "Macedo Cannat? "
   Publishing date: "2021"
   Specs: "Dust-jacket, Softcover"
   Images: "© WELTKERN® / Onomatopee. All rights reserved."
@@ -37,7 +36,7 @@ Designs for more than one
 
 ----
 
-Uuid: zOcjRkYDvo8HLeDt
+Uuid: jdVfCrHWVSa92Efn
 
 ----
 
