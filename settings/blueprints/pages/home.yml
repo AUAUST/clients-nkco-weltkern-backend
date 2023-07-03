@@ -16,7 +16,78 @@ options:
 tabs:
   content:
     fields:
-      text: true
+      heroes:
+        type: structure
+        label:
+          fr: "Héros"
+          en: "Heroes"
+        fields:
+          type:
+            type: toggles
+            label:
+              fr: "Type de héros"
+            required: true
+            width: 1/4
+            options:
+              product:
+                fr: "Product"
+              image:
+                fr: "Image"
+          visibleSince:
+            type: date
+            label:
+              fr: "Visible depuis"
+            width: 1/4
+          product:
+            type: pages
+            status: draft
+            label:
+              fr: Produit
+            width: 1/2
+            when:
+              type: product
+          image:
+            type: object
+            width: 1/2
+            when:
+              type: image
+            fields:
+              file:
+                type: files
+                multiple: false
+                label:
+                  fr: Image
+              link:
+                type: link
+                label:
+                  fr: Lien
+          backgroundType:
+            type: toggles
+            label:
+              fr: "Type d'arrière-plan"
+            width: 1/2
+            required: true
+            options:
+              image:
+                fr: "Image"
+              color:
+                fr: "Couleur"
+          backgroundColor:
+            type: color
+            label:
+              fr: "Couleur d'arrière-plan"
+            width: 1/2
+            when:
+              backgroundType: color
+          backgroundImage:
+            type: files
+            label:
+              fr: "Image d'arrière-plan"
+            width: 1/2
+            multiple: false
+            when:
+              backgroundType: image
+
   seo:
     fields:
       metaDescription:

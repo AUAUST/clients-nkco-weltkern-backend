@@ -2,4 +2,38 @@ Title: Home
 
 ----
 
+Heroes:
+
+- 
+  type: image
+  visiblesince: 2023-07-08
+  product: [ ]
+  image: ""
+  backgroundtype: image
+  backgroundcolor: null
+  backgroundimage: [ ]
+  background: ""
+- 
+  type: image
+  visiblesince: 2023-07-04
+  product: [ ]
+  image:
+    file: [ ]
+    link: ""
+  backgroundtype: color
+  backgroundcolor: '#b7b7e2'
+  backgroundimage: [ ]
+  background:
+    type: color
+
+----
+
+Metadescription: 
+
+----
+
+Herotype: product
+
+----
+
 Uuid: r7B7QwhbFuuV3o6G
