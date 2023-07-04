@@ -171,6 +171,44 @@ tabs:
                   fr: "Liste des designers"
                   en: "Designers list"
                 width: 1/2
+  footer:
+    title:
+      fr: "FOOTER"
+      en: "FOOTER"
+    columns:
+      - width: 1/1
+        sections:
+          __sectionFooter:
+            type: fields
+            fields:
+              footerLinks:
+                type: structure
+                label:
+                  fr: "Liens du footer"
+                  en: "Footer links"
+                fields:
+                  title:
+                    type: text
+                    label:
+                      fr: "Titre du bloc"
+                      en: "Block title"
+                  links:
+                    type: structure
+                    label:
+                      fr: "Liens"
+                      en: "Links"
+                    fields:
+                      title:
+                        type: text
+                        label:
+                          fr: "Titre du lien"
+                          en: "Link title"
+                      link:
+                        type: link
+                        label:
+                          fr: "Lien"
+                          en: "Link"
+
   settings:
     title:
       fr: "PARAMÈTRES"
@@ -211,6 +249,20 @@ tabs:
               slogan:
                 type: text
                 label: "Slogan"
+              copyright:
+                type: text
+                width: 2/3
+                label:
+                  fr: "Mention de copyright"
+                  en: "Copyright"
+              copyrightFirstYear:
+                type: date
+                width: 1/3
+                label:
+                  fr: "Année de création"
+                  en: "First year"
+                display: yyyy
+
   system:
     title:
       fr: "SYSTÈME"

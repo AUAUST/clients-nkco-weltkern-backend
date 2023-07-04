@@ -48,7 +48,7 @@ tabs:
                   en: "Current cardlets"
                 templates:
                   - home_cardlet
-                query: site.find("home").find("cardlets").children
+                query: site.find("home").find("cardlets").drafts
                 layout: cards
                 size: tiny
                 empty:
@@ -82,3 +82,6 @@ tabs:
         metaCanonical: true
         metaRedirect: true
         metaTags: true
+# foo: |
+#   lorem ipsum (footnote: 1 text:coucou c boubou) sdjlaksj lkajsd
+#   (footnote: 2 text: cool)
