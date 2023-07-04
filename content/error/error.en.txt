@@ -2,6 +2,10 @@ Title: Error
 
 ----
 
+Errormessage: The page you’re looking for can’t be found.
+
+----
+
 Text: 
 
 ----
