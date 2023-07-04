@@ -22,7 +22,7 @@ Pagehome: - page://r7B7QwhbFuuV3o6G
 
 ----
 
-Pagekerns: - page://R6slQ8V1IM2Rkt5Q
+Pagekerningplus: - page://R6slQ8V1IM2Rkt5Q
 
 ----
 
@@ -42,7 +42,7 @@ Pagedesigners: - page://qTfWZB6rA0eSKVJc
 
 ----
 
-Footerlinks: 
+Footerlinks:
 
 ----
 
@@ -58,8 +58,8 @@ Slogan: WELTKERN®, CURATOR AND PRODUCER OF DESIGN
 
 ----
 
-Copyright: 
+Copyright:
 
 ----
 
-Copyrightfirstyear: 
+Copyrightfirstyear:

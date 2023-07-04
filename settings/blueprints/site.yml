@@ -98,7 +98,7 @@ tabs:
                   fr: "Page d'accueil"
                   en: "Home page"
                 width: 1/2
-              pageKerns:
+              pageKerningPlus:
                 type: pages
                 required: true
                 multiple: false
@@ -106,8 +106,8 @@ tabs:
                 layout: cardlets
                 disabled: true
                 label:
-                  fr: "Kerns"
-                  en: "Kerns"
+                  fr: "Kerning+"
+                  en: "Kerning+"
                 width: 1/2
               pageAbout:
                 type: pages
