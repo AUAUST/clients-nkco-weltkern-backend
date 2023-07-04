@@ -1,0 +1,71 @@
+Title: Home
+
+----
+
+Cardlets:
+
+- page://K5YJ0GTVovgtK2Qr
+- page://REk4GYaZA3wgDM56
+- page://3L5vu60Svu4CCKlA
+
+----
+
+Heroes:
+
+- 
+  visiblesince: 2023-07-08 00:00:00
+  title: ""
+  type: image
+  product: [ ]
+  image: ""
+  backgroundtype: image
+  backgroundcolor: null
+  backgroundimage: [ ]
+  background: ""
+- 
+  visiblesince: 2023-07-04 00:00:00
+  title: ""
+  type: image
+  product: [ ]
+  image:
+    file: [ ]
+    link: ""
+  backgroundtype: color
+  backgroundcolor: '#b7b7e2'
+  backgroundimage: [ ]
+  background:
+    type: color
+- 
+  visiblesince: 2023-07-03 12:00:00
+  title: |
+    Coucou
+    C'est
+    Boubou
+  type: image
+  product: [ ]
+  image:
+    file: [ ]
+    link: ""
+  backgroundtype: color
+  backgroundcolor: ""
+  backgroundimage: [ ]
+
+----
+
+Metadescription: 
+
+----
+
+Herotype: product
+
+----
+
+Hero: - page://ZvMDUhQP4qGg7IDN
+
+----
+
+Heromode: automatic
+
+----
+
+Automatichero: selected

@@ -16,9 +16,49 @@ options:
 tabs:
   content:
     columns:
-      heroes:
-        width: 1/1
+      hero:
+        width: 1/2
         sections:
+          hero:
+            type: fields
+            fields:
+              hero:
+                type: pages
+                label:
+                  fr: "Héros actuel"
+                  en: "Current hero"
+                query: site.find("home").find("heroes").drafts
+                layout: cards
+                size: huge
+                empty:
+                  fr: "Aucun héros actuellement sélectionné"
+                  en: "No hero currently selected"
+                max: 1
+                required: true
+                when:
+                  heroMode: selected
+      heroes:
+        width: 1/2
+        sections:
+          heroSettings:
+            type: fields
+            fields:
+              heroMode:
+                type: toggles
+                label:
+                  fr: "Héros automatique"
+                  en: "Automatic hero"
+                options:
+                  selected:
+                    fr: "Héros spécifique"
+                    en: "Specific hero"
+                  automatic:
+                    fr: "Héros automatique"
+                    en: "Automatic hero"
+                help:
+                  fr: |
+                    En mode spécifique, le héros sélectionné ci-contre est affiché sans condition.
+                    En mode automatique, le héros est déterminé en fonction du calendrier des héros.
           heroes:
             type: pages
             label:
@@ -34,7 +74,7 @@ tabs:
                 label:
                   fr: "Visible depuis"
                   en: "Visible since"
-                width: 1/8
+                width: 1/4
       cardletsPicker:
         width: 1/2
         sections:
@@ -46,14 +86,13 @@ tabs:
                 label:
                   fr: "Cardlets actuelles"
                   en: "Current cardlets"
-                templates:
-                  - home_cardlet
                 query: site.find("home").find("cardlets").drafts
                 layout: cards
                 size: tiny
                 empty:
                   fr: "Aucune cardlet actuellement sélectionnée"
                   en: "No cardlet currently selected"
+                max: 3
       cardlets:
         width: 1/2
         sections:
