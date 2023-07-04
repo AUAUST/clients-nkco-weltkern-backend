@@ -27,6 +27,7 @@ tabs:
                 label:
                   fr: "Héros actuel"
                   en: "Current hero"
+                # TODO: drafts -> published
                 query: site.find("home").find("heroes").drafts
                 layout: cards
                 size: huge
@@ -86,6 +87,7 @@ tabs:
                 label:
                   fr: "Cardlets actuelles"
                   en: "Current cardlets"
+                # TODO: drafts -> published
                 query: site.find("home").find("cardlets").drafts
                 layout: cards
                 size: tiny
