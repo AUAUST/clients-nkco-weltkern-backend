@@ -38,6 +38,11 @@ tabs:
                 required: true
                 when:
                   heroMode: selected
+              heroPreview:
+                type: "homepage-hero"
+                label:
+                  fr: "Héros actuel"
+                  en: "Current hero"
       heroes:
         width: 1/2
         sections:
