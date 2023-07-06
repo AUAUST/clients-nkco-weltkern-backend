@@ -38,17 +38,17 @@ Kirby::plugin("auaust/homepage", [
       return page('home')->content()->hero()->toPage();
     },
     'automaticHero' => function () {
-      $heros = page('home/heroes')->children();
+      $heroes = page('home/heroes')->children();
       $time = time();
 
-      // Filter out all heros that are not visible yet.
-      $heros = $heros->filter(function ($hero) use ($time) {
+      // Filter out all heroes that are not visible yet.
+      $heroes = $heroes->filter(function ($hero) use ($time) {
         $visibleSince = $hero->visibleSince()->toTimestamp();
         return $visibleSince <= $time;
       });
 
       // Find the most recent hero.
-      $hero = $heros->sortBy('visibleSince', 'desc')->first();
+      $hero = $heroes->sortBy('visibleSince', 'desc')->first();
 
       return $hero;
     },
