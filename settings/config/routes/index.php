@@ -18,8 +18,10 @@ return [
     'language' => '*',
     'action' => function () {
       return dump(
-
-        site()->automaticHero(),
+        [
+          'selected'  => site()->hero('selected'),
+          'automatic' => site()->hero('automatic'),
+        ],
         false
       );
       return Response::json([

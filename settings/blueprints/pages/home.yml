@@ -28,7 +28,7 @@ tabs:
                   fr: "Héros actuel"
                   en: "Current hero"
                 # TODO: drafts -> published
-                query: site.find("home").find("heroes").drafts
+                query: site.find("home").find("heroes").children
                 layout: cards
                 size: huge
                 empty:
@@ -36,6 +36,7 @@ tabs:
                   en: "No hero currently selected"
                 max: 1
                 required: true
+                translate: false
                 when:
                   heroMode: selected
               heroPreview:

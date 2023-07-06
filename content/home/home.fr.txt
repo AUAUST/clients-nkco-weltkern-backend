@@ -2,11 +2,14 @@ Title: Home
 
 ----
 
+Heromode: selected
+
+----
+
 Cardlets:
 
-- page://K5YJ0GTVovgtK2Qr
 - page://REk4GYaZA3wgDM56
-- page://3L5vu60Svu4CCKlA
+- page://DKuVxXGlrjwe6SiZ
 
 ----
 
@@ -57,15 +60,3 @@ Metadescription:
 ----
 
 Herotype: product
-
-----
-
-Hero: - page://ZvMDUhQP4qGg7IDN
-
-----
-
-Heromode: automatic
-
-----
-
-Automatichero: selected

@@ -11,7 +11,7 @@ Kirby::plugin("auaust/homepage", [
       'extends' => 'pages',
       'props' => [
         'value' => function () {
-          return $this->toPages([site()->hero()]);
+          return $this->toPages([site()->automaticHero()]);
         },
         'disabled' => true,
         'translate' => false,
@@ -27,25 +27,30 @@ Kirby::plugin("auaust/homepage", [
       $homepage = page('home');
       $mode ??= $homepage->heroMode()->toString();
 
-      return page('home')->hero()->toPages();
+      if ($mode === 'selected') {
+        return site()->selectedHero();
+      }
+
+      // By default, return the automatic hero.
+      return site()->automaticHero();
     },
     'selectedHero' => function () {
-      return page('home')->content()->hero()->toPage() ?? site()->automaticHero();
+      return page('home')->content()->hero()->toPage();
     },
     'automaticHero' => function () {
       $heros = page('home/heroes')->children();
-
       $time = time();
+
       // Filter out all heros that are not visible yet.
       $heros = $heros->filter(function ($hero) use ($time) {
         $visibleSince = $hero->visibleSince()->toTimestamp();
-
         return $visibleSince <= $time;
       });
-      // Sort by visibleSince.
-      $heros = $heros->sortBy('visibleSince', 'asc');
 
-      return $heros->first()->visibleSince()->toTimestamp() ?? null;
+      // Find the most recent hero.
+      $hero = $heros->sortBy('visibleSince', 'desc')->first();
+
+      return $hero;
     },
   ]
 ]);
