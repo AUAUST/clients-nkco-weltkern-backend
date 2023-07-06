@@ -17,7 +17,7 @@ Cardlets:
 
 ----
 
-Main: [{"content":[],"id":"e1eaef6f-2658-47cf-be16-c3115b3c131a","isHidden":false,"type":"line"}]
+Main: [{"content":[],"id":"e1eaef6f-2658-47cf-be16-c3115b3c131a","isHidden":false,"type":"line"},{"content":{"link":""},"id":"57c86f1f-2d30-4809-a933-d69ea6c98b89","isHidden":false,"type":"button"}]
 
 ----
 
