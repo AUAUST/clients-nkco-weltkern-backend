@@ -17,13 +17,6 @@ return [
     'pattern' => ['', 'home'],
     'language' => '*',
     'action' => function () {
-      return dump(
-        [
-          'selected'  => site()->hero('selected'),
-          'automatic' => site()->hero('automatic'),
-        ],
-        false
-      );
       return Response::json([
         'status' => 'ok',
         'data' => [
