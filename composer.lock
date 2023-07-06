@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "56befe5ac738f711bd703da2771ba680",
+    "content-hash": "97cb65541d45f598a82682150c50ea13",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -1698,6 +1698,45 @@
             "time": "2020-12-15T21:32:01+00:00"
         },
         {
+            "name": "sylvainjule/previews",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sylvainjule/kirby-previews.git",
+                "reference": "dce965298f969b71508ab5c1b0b36ffeee5a9c12"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sylvainjule/kirby-previews/zipball/dce965298f969b71508ab5c1b0b36ffeee5a9c12",
+                "reference": "dce965298f969b71508ab5c1b0b36ffeee5a9c12",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "default-branch": true,
+            "type": "kirby-plugin",
+            "extra": {
+                "installer-name": "previews"
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sylvain Julé",
+                    "email": "contact@sylvain-jule.fr"
+                }
+            ],
+            "description": "Add some missing structure previews",
+            "support": {
+                "issues": "https://github.com/sylvainjule/kirby-previews/issues",
+                "source": "https://github.com/sylvainjule/kirby-previews/tree/1.0.6"
+            },
+            "time": "2022-02-23T15:50:28+00:00"
+        },
+        {
             "name": "symfony/deprecation-contracts",
             "version": "dev-main",
             "source": {
@@ -2304,7 +2343,8 @@
     "stability-flags": {
         "getkirby/cli": 20,
         "bnomei/kirby3-janitor": 20,
-        "algolia/algoliasearch-client-php": 20
+        "algolia/algoliasearch-client-php": 20,
+        "sylvainjule/previews": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
