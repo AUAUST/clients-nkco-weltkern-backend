@@ -81,6 +81,7 @@ tabs:
               - hero_image
             parent: site.find("home").find("heroes")
             layout: table
+            limit: 7
             columns:
               visibleSince:
                 label:
@@ -119,6 +120,14 @@ tabs:
             parent: site.find("home").find("cardlets")
             layout: table
             limit: 5
+      main:
+        type: fields
+        fields:
+          main:
+            type: blocks
+            label:
+              fr: "Contenu principal"
+              en: "Main content"
     seo:
       fields:
         metaDescription:
