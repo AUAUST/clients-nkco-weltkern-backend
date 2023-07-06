@@ -17,6 +17,11 @@ return [
     'pattern' => ['', 'home'],
     'language' => '*',
     'action' => function () {
+      return dump(
+
+        site()->automaticHero(),
+        false
+      );
       return Response::json([
         'status' => 'ok',
         'data' => [

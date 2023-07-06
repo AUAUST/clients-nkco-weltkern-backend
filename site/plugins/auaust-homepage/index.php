@@ -11,11 +11,7 @@ Kirby::plugin("auaust/homepage", [
       'extends' => 'pages',
       'props' => [
         'value' => function () {
-          return $this->toPages(
-            [
-              page('home')->toArray()
-            ]
-          );
+          return $this->toPages([site()->hero()]);
         },
         'disabled' => true,
         'translate' => false,
@@ -26,5 +22,19 @@ Kirby::plugin("auaust/homepage", [
       },
     ]
   ],
+  'siteMethods' => [
+    'hero' => function (string $mode = null) {
+      $homepage = page('home');
+      $mode ??= $homepage->heroMode()->toString();
 
+      return page('home')->hero()->toPages();
+    },
+    'selectedHero' => function () {
+      return page('home')->content()->hero()->toPage();
+    },
+    'automaticHero' => function () {
+      $heros = page('home/heroes')->children();
+      return $heros;
+    },
+  ]
 ]);
