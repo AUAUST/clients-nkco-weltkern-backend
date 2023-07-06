@@ -67,3 +67,4 @@ columns:
           step: 10
           display: h:mm
         default: today
+        translate: false

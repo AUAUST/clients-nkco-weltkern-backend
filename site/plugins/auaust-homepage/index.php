@@ -30,11 +30,22 @@ Kirby::plugin("auaust/homepage", [
       return page('home')->hero()->toPages();
     },
     'selectedHero' => function () {
-      return page('home')->content()->hero()->toPage();
+      return page('home')->content()->hero()->toPage() ?? site()->automaticHero();
     },
     'automaticHero' => function () {
       $heros = page('home/heroes')->children();
-      return $heros;
+
+      $time = time();
+      // Filter out all heros that are not visible yet.
+      $heros = $heros->filter(function ($hero) use ($time) {
+        $visibleSince = $hero->visibleSince()->toTimestamp();
+
+        return $visibleSince <= $time;
+      });
+      // Sort by visibleSince.
+      $heros = $heros->sortBy('visibleSince', 'asc');
+
+      return $heros->first()->visibleSince()->toTimestamp() ?? null;
     },
   ]
 ]);
