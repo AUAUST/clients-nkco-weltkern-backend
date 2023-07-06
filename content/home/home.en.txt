@@ -6,7 +6,7 @@ Hero: - page://ZvMDUhQP4qGg7IDN
 
 ----
 
-Heromode: automatic
+Heromode: selected
 
 ----
 

@@ -1,0 +1,29 @@
+Title: pas encore visible
+
+----
+
+Overridetitle: Cest cool
+
+----
+
+Product: - page://gNGytzxjV1RemYdi
+
+----
+
+Backgroundtype: color
+
+----
+
+Backgroundcolor: #994343
+
+----
+
+Backgroundimage: 
+
+----
+
+Visiblesince: 2023-07-07 12:00:00
+
+----
+
+Uuid: 2ZLk34knNAYFVeYR
