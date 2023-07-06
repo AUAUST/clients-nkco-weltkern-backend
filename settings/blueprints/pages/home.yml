@@ -39,10 +39,15 @@ tabs:
                 when:
                   heroMode: selected
               heroPreview:
-                type: "homepage-hero"
+                type: homepage-hero
                 label:
                   fr: "Héros actuel"
                   en: "Current hero"
+                layout: cards
+                size: huge
+                when:
+                  heroMode: automatic
+
       heroes:
         width: 1/2
         sections:

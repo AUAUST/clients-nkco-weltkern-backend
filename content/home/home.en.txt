@@ -2,6 +2,14 @@ Title: Home
 
 ----
 
+Hero: - page://ZvMDUhQP4qGg7IDN
+
+----
+
+Heromode: automatic
+
+----
+
 Cardlets:
 
 - page://REk4GYaZA3wgDM56
