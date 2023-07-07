@@ -1,6 +1,10 @@
 <template>
   <div class="aa-spacer-columns-container">
-    <k-toggles-field :options="sizes" :value="size" @update="update">
+    <k-toggles-field
+      :options="sizes"
+      :value="size"
+      @input="update({ size: $event })"
+    >
     </k-toggles-field>
     <div>
       <hr :class="`spacer spacer-${size}`" />

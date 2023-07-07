@@ -69,7 +69,9 @@
   };
   var _sfc_render = function render() {
     var _vm = this, _c = _vm._self._c;
-    return _c("div", { staticClass: "aa-spacer-columns-container" }, [_c("k-toggles-field", { attrs: { "options": _vm.sizes, "value": _vm.size }, on: { "update": _vm.update } }), _c("div", [_c("hr", { class: `spacer spacer-${_vm.size}` })])], 1);
+    return _c("div", { staticClass: "aa-spacer-columns-container" }, [_c("k-toggles-field", { attrs: { "options": _vm.sizes, "value": _vm.size }, on: { "input": function($event) {
+      return _vm.update({ size: $event });
+    } } }), _c("div", [_c("hr", { class: `spacer spacer-${_vm.size}` })])], 1);
   };
   var _sfc_staticRenderFns = [];
   _sfc_render._withStripped = true;
