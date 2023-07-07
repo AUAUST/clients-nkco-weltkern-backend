@@ -24,7 +24,7 @@
     "getkirby/cli": "dev-main",
     "bnomei/kirby3-janitor": "dev-master",
     "algolia/algoliasearch-client-php": "dev-master",
-    "sylvainjule/previews": "dev-master"
+    "junohamburg/kirby-block-preview-fields": "dev-main"
   },
   "config": {
     "allow-plugins": {

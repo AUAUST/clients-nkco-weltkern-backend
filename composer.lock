@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "97cb65541d45f598a82682150c50ea13",
+    "content-hash": "17af733d39d1c1efa4ad063824b6365f",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -920,6 +920,42 @@
             "time": "2023-04-17T16:11:26+00:00"
         },
         {
+            "name": "junohamburg/kirby-block-preview-fields",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/junohamburg/kirby-block-preview-fields.git",
+                "reference": "2f51ad64097e2254a5aa6ff8617b42f8d2cd96fc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/junohamburg/kirby-block-preview-fields/zipball/2f51ad64097e2254a5aa6ff8617b42f8d2cd96fc",
+                "reference": "2f51ad64097e2254a5aa6ff8617b42f8d2cd96fc",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "default-branch": true,
+            "type": "kirby-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "JUNO",
+                    "email": "github@juno-hamburg.com"
+                }
+            ],
+            "description": "Kirby Block Preview Fields",
+            "support": {
+                "issues": "https://github.com/junohamburg/kirby-block-preview-fields/issues",
+                "source": "https://github.com/junohamburg/kirby-block-preview-fields/tree/1.0.5"
+            },
+            "time": "2023-05-11T09:37:21+00:00"
+        },
+        {
             "name": "kornrunner/blurhash",
             "version": "v1.2.2",
             "source": {
@@ -1698,45 +1734,6 @@
             "time": "2020-12-15T21:32:01+00:00"
         },
         {
-            "name": "sylvainjule/previews",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/sylvainjule/kirby-previews.git",
-                "reference": "dce965298f969b71508ab5c1b0b36ffeee5a9c12"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/sylvainjule/kirby-previews/zipball/dce965298f969b71508ab5c1b0b36ffeee5a9c12",
-                "reference": "dce965298f969b71508ab5c1b0b36ffeee5a9c12",
-                "shasum": ""
-            },
-            "require": {
-                "getkirby/composer-installer": "^1.1"
-            },
-            "default-branch": true,
-            "type": "kirby-plugin",
-            "extra": {
-                "installer-name": "previews"
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Sylvain Julé",
-                    "email": "contact@sylvain-jule.fr"
-                }
-            ],
-            "description": "Add some missing structure previews",
-            "support": {
-                "issues": "https://github.com/sylvainjule/kirby-previews/issues",
-                "source": "https://github.com/sylvainjule/kirby-previews/tree/1.0.6"
-            },
-            "time": "2022-02-23T15:50:28+00:00"
-        },
-        {
             "name": "symfony/deprecation-contracts",
             "version": "dev-main",
             "source": {
@@ -2344,7 +2341,7 @@
         "getkirby/cli": 20,
         "bnomei/kirby3-janitor": 20,
         "algolia/algoliasearch-client-php": 20,
-        "sylvainjule/previews": 20
+        "junohamburg/kirby-block-preview-fields": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

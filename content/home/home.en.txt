@@ -17,7 +17,7 @@ Cardlets:
 
 ----
 
-Main: [{"content":[],"id":"e1eaef6f-2658-47cf-be16-c3115b3c131a","isHidden":false,"type":"line"},{"content":[],"id":"57c86f1f-2d30-4809-a933-d69ea6c98b89","isHidden":false,"type":"button"},{"content":{"size":"l"},"id":"574880ba-cb47-4fd8-8c1b-7f09b99202c1","isHidden":false,"type":"spacer"},{"content":{"size":"m"},"id":"76516c2a-1d8c-48ed-897e-3cb738e465a1","isHidden":false,"type":"spacer"}]
+Main: [{"content":[],"id":"e1eaef6f-2658-47cf-be16-c3115b3c131a","isHidden":false,"type":"line"},{"content":[],"id":"57c86f1f-2d30-4809-a933-d69ea6c98b89","isHidden":false,"type":"button"},{"content":{"size":"l"},"id":"574880ba-cb47-4fd8-8c1b-7f09b99202c1","isHidden":false,"type":"spacer"},{"content":{"size":"l"},"id":"76516c2a-1d8c-48ed-897e-3cb738e465a1","isHidden":false,"type":"spacer"}]
 
 ----
 
