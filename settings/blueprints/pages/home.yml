@@ -150,6 +150,7 @@ tabs:
                 fieldsets:
                   - button
                   - spacer
+                  - articles
 
     seo:
       fields:

@@ -57,7 +57,7 @@
       options
     };
   }
-  const _sfc_main = {
+  const _sfc_main$1 = {
     computed: {
       sizes() {
         return this.$props.fieldset.tabs.settings.fields.size.options;
@@ -67,11 +67,36 @@
       }
     }
   };
-  var _sfc_render = function render() {
+  var _sfc_render$1 = function render() {
     var _vm = this, _c = _vm._self._c;
     return _c("div", { staticClass: "aa-spacer-columns-container" }, [_c("k-toggles-field", { attrs: { "options": _vm.sizes, "value": _vm.size }, on: { "input": function($event) {
       return _vm.update({ size: $event });
     } } }), _c("div", [_c("hr", { class: `spacer spacer-${_vm.size}` })])], 1);
+  };
+  var _sfc_staticRenderFns$1 = [];
+  _sfc_render$1._withStripped = true;
+  var __component__$1 = /* @__PURE__ */ normalizeComponent(
+    _sfc_main$1,
+    _sfc_render$1,
+    _sfc_staticRenderFns$1,
+    false,
+    null,
+    null,
+    null,
+    null
+  );
+  __component__$1.options.__file = "/Users/aurianaubert/Desktop/NK+CO | WELTKERN/003 WK®2.0/DÉVELOPPEMENT/BACKEND/site/plugins/auaust-homepage/src/components/Spacer.vue";
+  const Spacer = __component__$1.exports;
+  const _sfc_main = {
+    computed: {
+      source() {
+        return this.content;
+      }
+    }
+  };
+  var _sfc_render = function render() {
+    var _vm = this, _c = _vm._self._c;
+    return _c("k-block-figure", { attrs: { "is-empty": !_vm.source.url, "empty-icon": "layers", "empty-text": "No article selected yet …" }, on: { "open": _vm.open, "update": _vm.update } }, [_c("div", [_vm._v(" " + _vm._s(_vm.content) + " ")])]);
   };
   var _sfc_staticRenderFns = [];
   _sfc_render._withStripped = true;
@@ -85,8 +110,8 @@
     null,
     null
   );
-  __component__.options.__file = "/Users/aurianaubert/Desktop/NK+CO | WELTKERN/003 WK®2.0/DÉVELOPPEMENT/BACKEND/site/plugins/auaust-homepage/src/components/Spacer.vue";
-  const Spacer = __component__.exports;
+  __component__.options.__file = "/Users/aurianaubert/Desktop/NK+CO | WELTKERN/003 WK®2.0/DÉVELOPPEMENT/BACKEND/site/plugins/auaust-homepage/src/components/Articles.vue";
+  const Articles = __component__.exports;
   panel.plugin("auaust/homepage", {
     fields: {
       "homepage-hero": {
@@ -94,7 +119,8 @@
       }
     },
     blocks: {
-      spacer: Spacer
+      spacer: Spacer,
+      articles: Articles
     }
   });
 })();
