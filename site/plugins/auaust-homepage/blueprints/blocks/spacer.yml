@@ -1,6 +1,6 @@
 name: Spacer
 icon: divider
-preview: fields
+preview: true
 wysiwyg: true
 tabs:
   settings:

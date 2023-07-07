@@ -8,15 +8,7 @@ panel.plugin("auaust/homepage", {
     spacer: {
       template: `
         <div class="spacer-block">
-          <div
-            v-for="option in this.field('size').options"
-          >
-            {{ option }}
-          </div>
-          <br />
-          <br />
-          <br />
-          {{ this.field('size') }}
+          {{ console.log(this.field('size') === this) }}
         </div>
       `,
     },
