@@ -17,7 +17,7 @@ Cardlets:
 
 ----
 
-Main: [{"content":[],"id":"e1eaef6f-2658-47cf-be16-c3115b3c131a","isHidden":false,"type":"line"},{"content":[],"id":"57c86f1f-2d30-4809-a933-d69ea6c98b89","isHidden":false,"type":"button"},{"content":{"size":""},"id":"574880ba-cb47-4fd8-8c1b-7f09b99202c1","isHidden":false,"type":"spacer"},{"content":{"size":"s"},"id":"76516c2a-1d8c-48ed-897e-3cb738e465a1","isHidden":false,"type":"spacer"}]
+Main: [{"content":[],"id":"e1eaef6f-2658-47cf-be16-c3115b3c131a","isHidden":false,"type":"line"},{"content":[],"id":"57c86f1f-2d30-4809-a933-d69ea6c98b89","isHidden":false,"type":"button"},{"content":{"size":"xl"},"id":"b885ef7e-7c39-4122-af51-8c4ed42ba4ab","isHidden":false,"type":"spacer"},{"content":{"size":"m"},"id":"574880ba-cb47-4fd8-8c1b-7f09b99202c1","isHidden":false,"type":"spacer"},{"content":{"size":"s"},"id":"0105f981-8003-4959-8223-2b7016e24a0c","isHidden":false,"type":"spacer"},{"content":{"size":"s"},"id":"76516c2a-1d8c-48ed-897e-3cb738e465a1","isHidden":false,"type":"spacer"},{"content":{"size":"xs"},"id":"6b2d0c04-445f-4210-bcdf-0b726de1773b","isHidden":false,"type":"spacer"},{"content":{"size":"m"},"id":"edae9e8c-cb95-45f5-b52b-28d710a50eb2","isHidden":false,"type":"spacer"}]
 
 ----
 

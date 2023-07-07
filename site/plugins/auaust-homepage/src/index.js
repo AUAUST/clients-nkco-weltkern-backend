@@ -1,3 +1,5 @@
+import Spacer from "./components/Spacer.vue";
+
 panel.plugin("auaust/homepage", {
   fields: {
     "homepage-hero": {
@@ -5,12 +7,6 @@ panel.plugin("auaust/homepage", {
     },
   },
   blocks: {
-    spacer: {
-      template: `
-        <div class="spacer-block">
-          {{ console.log(this.field('size') === this) }}
-        </div>
-      `,
-    },
+    spacer: Spacer,
   },
 });

@@ -1,6 +1,6 @@
 name: Spacer
 icon: divider
-preview: fields
+preview: true
 wysiwyg: true
 tabs:
   settings:
@@ -11,8 +11,8 @@ tabs:
         label:
           fr: "Taille du séparateur"
           en: "Spacer size"
-        width: 2/3
         default: m
+        required: true
         options:
           xs:
             fr: "Très petit"
