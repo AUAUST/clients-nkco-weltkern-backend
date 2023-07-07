@@ -2,7 +2,7 @@
   <k-block-figure
     :is-empty="!source.url"
     empty-icon="layers"
-    empty-text="No article selected yet …"
+    :empty-text="empty"
     @open="open"
     @update="update"
   >
@@ -17,6 +17,9 @@ export default {
   computed: {
     source() {
       return this.content;
+    },
+    empty() {
+      console.log(this);
     },
   },
 };

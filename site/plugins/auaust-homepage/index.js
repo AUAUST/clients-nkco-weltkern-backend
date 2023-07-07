@@ -91,12 +91,15 @@
     computed: {
       source() {
         return this.content;
+      },
+      empty() {
+        console.log(this);
       }
     }
   };
   var _sfc_render = function render() {
     var _vm = this, _c = _vm._self._c;
-    return _c("k-block-figure", { attrs: { "is-empty": !_vm.source.url, "empty-icon": "layers", "empty-text": "No article selected yet …" }, on: { "open": _vm.open, "update": _vm.update } }, [_c("div", [_vm._v(" " + _vm._s(_vm.content) + " ")])]);
+    return _c("k-block-figure", { attrs: { "is-empty": !_vm.source.url, "empty-icon": "layers", "empty-text": _vm.empty }, on: { "open": _vm.open, "update": _vm.update } }, [_c("div", [_vm._v(" " + _vm._s(_vm.content) + " ")])]);
   };
   var _sfc_staticRenderFns = [];
   _sfc_render._withStripped = true;

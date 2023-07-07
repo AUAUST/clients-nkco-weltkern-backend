@@ -1,31 +1,274 @@
 name: Articles
+
 icon: layers
+
 preview: true
 wysiwyg: true
+
+empty:
+  fr: "Aucun héros actuellement sélectionné"
+  en: "No hero currently selected"
+
 tabs:
   settings:
     label: Settings
+    empty:
+      fr: "Sélectionnez un type d'article"
+      en: "Select an article type"
     fields:
-      size:
-        type: toggles
+      articles:
+        type: structure
         label:
-          fr: "Taille du séparateur"
-          en: "Spacer size"
-        default: m
-        required: true
-        options:
-          xs:
-            fr: "Très petit"
-            en: "Extra small"
-          s:
-            fr: "Petit"
-            en: "Small"
-          m:
-            fr: "Moyen"
-            en: "Medium"
-          l:
-            fr: "Grand"
-            en: "Large"
-          xl:
-            fr: "Très grand"
-            en: "Extra large"
+          fr: "Articles"
+          en: "Articles"
+        columns:
+          articleType: true
+        fields:
+          articleType:
+            type: toggles
+            label:
+              fr: "Type d'article"
+              en: "Article type"
+            default: existing
+            required: true
+            options:
+              existing:
+                fr: "Existant"
+                en: "Existing"
+              custom:
+                fr: "Customisé"
+                en: "Custom"
+          existingArticle:
+            type: pages
+            label:
+              fr: "Article"
+              en: "Article"
+            required: true
+            when:
+              articleType: existing
+            # TODO: select articles page
+          customArticle:
+            type: object
+            label:
+              fr: "Article"
+              en: "Article"
+            required: true
+            when:
+              articleType: custom
+            fields:
+              photo:
+                type: files
+              name:
+                type: text
+              email:
+                type: email
+              phone:
+                type: tel
+#  {
+#   "content": {
+#     "articles": []
+#   },
+#   "fieldset": {
+#     "disabled": false,
+#     "editable": true,
+#     "icon": "layers",
+#     "label": null,
+#     "name": "Articles",
+#     "preview": true,
+#     "tabs": {
+#       "settings": {
+#         "label": "Settings",
+#         "fields": {
+#           "articles": {
+#             "columns": {
+#               "articletype": {
+#                 "type": "toggles",
+#                 "label": "Type d'article",
+#                 "mobile": true
+#               }
+#             },
+#             "default": [],
+#             "disabled": false,
+#             "duplicate": true,
+#             "fields": {
+#               "articletype": {
+#                 "autofocus": false,
+#                 "default": "existing",
+#                 "disabled": false,
+#                 "grow": true,
+#                 "hidden": false,
+#                 "label": "Type d'article",
+#                 "labels": true,
+#                 "name": "articletype",
+#                 "options": [
+#                   {
+#                     "disabled": false,
+#                     "icon": null,
+#                     "info": null,
+#                     "text": "Existant",
+#                     "value": "existing"
+#                   },
+#                   {
+#                     "disabled": false,
+#                     "icon": null,
+#                     "info": null,
+#                     "text": "Customisé",
+#                     "value": "custom"
+#                   }
+#                 ],
+#                 "required": true,
+#                 "reset": true,
+#                 "saveable": true,
+#                 "signature": "4ac4abde2cb5d3f140d179816c3a6601",
+#                 "translate": true,
+#                 "type": "toggles",
+#                 "value": "",
+#                 "width": "1/1"
+#               },
+#               "existingarticle": {
+#                 "default": [],
+#                 "disabled": false,
+#                 "hidden": false,
+#                 "label": "Article",
+#                 "layout": "list",
+#                 "link": true,
+#                 "min": 1,
+#                 "multiple": true,
+#                 "name": "existingarticle",
+#                 "required": true,
+#                 "saveable": true,
+#                 "search": true,
+#                 "signature": "ae7fef9a195ec7812e34cc57eb46854b",
+#                 "size": "auto",
+#                 "store": "uuid",
+#                 "subpages": true,
+#                 "translate": true,
+#                 "type": "pages",
+#                 "value": [],
+#                 "when": {
+#                   "articleType": "existing"
+#                 },
+#                 "width": "1/1"
+#               },
+#               "customarticle": {
+#                 "default": "",
+#                 "disabled": false,
+#                 "fields": {
+#                   "photo": {
+#                     "default": [],
+#                     "disabled": false,
+#                     "hidden": false,
+#                     "label": "Photo",
+#                     "layout": "list",
+#                     "link": true,
+#                     "multiple": true,
+#                     "name": "photo",
+#                     "parent": "pages/home",
+#                     "query": "page.files",
+#                     "required": false,
+#                     "saveable": true,
+#                     "search": true,
+#                     "signature": "4831d4817a2bc1e2416d2a5bd166b440",
+#                     "size": "auto",
+#                     "store": "uuid",
+#                     "translate": true,
+#                     "type": "files",
+#                     "uploads": {
+#                       "accept": "*"
+#                     },
+#                     "value": [],
+#                     "width": "1/1"
+#                   },
+#                   "name": {
+#                     "autofocus": false,
+#                     "counter": true,
+#                     "disabled": false,
+#                     "hidden": false,
+#                     "label": "Name",
+#                     "name": "name",
+#                     "required": false,
+#                     "saveable": true,
+#                     "signature": "1967932b807d64ddb9ea797f65f92b69",
+#                     "spellcheck": false,
+#                     "translate": true,
+#                     "type": "text",
+#                     "value": "",
+#                     "width": "1/1"
+#                   },
+#                   "email": {
+#                     "autocomplete": "email",
+#                     "autofocus": false,
+#                     "disabled": false,
+#                     "hidden": false,
+#                     "icon": "email",
+#                     "label": "Email",
+#                     "name": "email",
+#                     "placeholder": "mail@example.com",
+#                     "required": false,
+#                     "saveable": true,
+#                     "signature": "6476b53040964e10deee7e4bdf4c685c",
+#                     "spellcheck": false,
+#                     "translate": true,
+#                     "type": "email",
+#                     "value": "",
+#                     "width": "1/1"
+#                   },
+#                   "phone": {
+#                     "autocomplete": "tel",
+#                     "autofocus": false,
+#                     "disabled": false,
+#                     "hidden": false,
+#                     "icon": "phone",
+#                     "label": "Phone",
+#                     "name": "phone",
+#                     "required": false,
+#                     "saveable": true,
+#                     "signature": "61ab24084d553b404d7298203550de37",
+#                     "translate": true,
+#                     "type": "tel",
+#                     "value": "",
+#                     "width": "1/1"
+#                   }
+#                 },
+#                 "hidden": false,
+#                 "label": "Article",
+#                 "name": "customarticle",
+#                 "required": true,
+#                 "saveable": true,
+#                 "signature": "2ec1058094239e812e9e57ca1eb0bbf7",
+#                 "translate": true,
+#                 "type": "object",
+#                 "value": "",
+#                 "when": {
+#                   "articleType": "custom"
+#                 },
+#                 "width": "1/1"
+#               }
+#             },
+#             "hidden": false,
+#             "label": "Articles",
+#             "name": "articles",
+#             "required": false,
+#             "saveable": true,
+#             "signature": "68317d03f20d8175048ece3da2f0198d",
+#             "strict": true,
+#             "translate": true,
+#             "type": "structure",
+#             "value": [],
+#             "width": "1/1",
+#             "endpoints": {
+#               "field": "/pages/home/fields/main/fieldsets/articles/fields/articles",
+#               "section": "/pages/home/sections/content-col-main-fields",
+#               "model": "/pages/home"
+#             }
+#           }
+#         },
+#         "name": "settings"
+#       }
+#     },
+#     "translate": true,
+#     "type": "articles",
+#     "unset": false,
+#     "wysiwyg": true
+#   }
+# }

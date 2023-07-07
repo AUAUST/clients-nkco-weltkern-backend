@@ -1,7 +1,6 @@
 title:
   fr: "Page d'accueil"
   en: "Home page"
-
 icon: home
 
 options:
@@ -31,9 +30,6 @@ tabs:
                 query: site.find("home").find("heroes").children
                 layout: cards
                 size: huge
-                empty:
-                  fr: "Aucun héros actuellement sélectionné"
-                  en: "No hero currently selected"
                 max: 1
                 required: true
                 translate: false
@@ -48,7 +44,6 @@ tabs:
                 size: huge
                 when:
                   heroMode: automatic
-
       heroes:
         width: 1/2
         sections:
@@ -148,25 +143,23 @@ tabs:
                 label: Code
                 type: group
                 fieldsets:
-                  - button
-                  - spacer
-                  - articles
-
-    seo:
-      fields:
-        metaDescription:
-          label:
-            fr: "Description"
-            en: "Description"
-          type: textarea
-          size: small
-          buttons: false
-          width: 1/2
-        metaRobots: true
-        metaImage: true
-        metaCanonical: true
-        metaRedirect: true
-        metaTags: true
+                  spacer: true
+                  articles: true
+# seo:
+# fields:
+# metaDescription:
+#   label:
+#     fr: "Description"
+#     en: "Description"
+#   type: textarea
+#   size: small
+#   buttons: false
+#   width: 1/2
+# metaRobots: true
+# metaImage: true
+# metaCanonical: true
+# metaRedirect: true
+# metaTags: true
 # foo: |
 #   lorem ipsum (footnote: 1 text:coucou c boubou) sdjlaksj lkajsd
 #   (footnote: 2 text: cool)
