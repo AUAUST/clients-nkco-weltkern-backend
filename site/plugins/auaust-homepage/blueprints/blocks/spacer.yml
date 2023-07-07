@@ -1,0 +1,31 @@
+name: Spacer
+icon: divider
+preview: fields
+wysiwyg: true
+tabs:
+  settings:
+    label: Settings
+    fields:
+      size:
+        type: toggles
+        label:
+          fr: "Taille du séparateur"
+          en: "Spacer size"
+        width: 2/3
+        default: m
+        options:
+          xs:
+            fr: "Très petit"
+            en: "Extra small"
+          s:
+            fr: "Petit"
+            en: "Small"
+          m:
+            fr: "Moyen"
+            en: "Medium"
+          l:
+            fr: "Grand"
+            en: "Large"
+          xl:
+            fr: "Très grand"
+            en: "Extra large"

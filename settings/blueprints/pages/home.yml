@@ -148,12 +148,8 @@ tabs:
                 label: Code
                 type: group
                 fieldsets:
-                  button:
-                    name: Button
-                    icon: bolt
-                    fields:
-                      link:
-                        type: url
+                  - button
+                  - spacer
 
     seo:
       fields:
