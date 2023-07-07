@@ -41,10 +41,10 @@ export default {
       margin-block: 3rem;
     }
     &.spacer-l {
-      margin-block: 5rem;
+      margin-block: 4rem;
     }
     &.spacer-xl {
-      margin-block: 7rem;
+      margin-block: 5.5rem;
     }
   }
   .k-field-header {
