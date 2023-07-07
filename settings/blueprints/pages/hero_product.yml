@@ -65,6 +65,6 @@ columns:
         display: dd/mm/yyyy
         time:
           step: 10
-          display: h:mm
+          display: HH:mm
         default: today
         translate: false
