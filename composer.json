@@ -34,7 +34,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AUAUST\\Users\\": "site/plugins/auaust-users/classes/"
+      "AUAUST\\": "site/plugins/auaust-users/classes/"
     }
   },
   "extra": {
