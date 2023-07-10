@@ -1,6 +1,6 @@
 <?php
 
-use Kirby\Cms\App as Kirby;
+use AUAUST\Users\AASKirby as Kirby;
 
 require dirname(__DIR__)  . "/vendor/autoload.php";
 
