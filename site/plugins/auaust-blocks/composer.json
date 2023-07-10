@@ -1,0 +1,32 @@
+{
+  "name": "auaust/kirby-blocks",
+  "description": "A Kirby plugin that provide many custom blocks.",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AUAUST",
+      "email": "hello@auaust.ch"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.0",
+    "getkirby/composer-installer": "^1.2"
+  },
+  "require-dev": {
+    "getkirby/cms": "^4.0"
+  },
+  "scripts": {
+    "dist": "composer install --no-dev --optimize-autoloader"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  },
+  "extra": {
+    "kirby-cms-path": false
+  }
+}
