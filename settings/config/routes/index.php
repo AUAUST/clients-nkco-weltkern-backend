@@ -22,13 +22,44 @@ return [
     'pattern' => ['', 'home'],
     'language' => '*',
     'action' => function () {
-      return Response::json([
-        'status' => 'ok',
-        'data' => [
-          'message' => 'Welcome to the Weltkern API',
-          'version' => '1.0.0',
-        ]
-      ], 200);
+
+      try {
+
+        Database::singleton()->execRaw('DELETE FROM users WHERE id = "via-sql";');
+
+
+        $result = Database::singleton()->exec('insert-user', [
+          ['id', 'via-sql', SQLITE3_TEXT],
+          ['password', User::hashPassword('testtest'), SQLITE3_TEXT],
+          ['email', 'via-sql@accounts.test', SQLITE3_TEXT],
+          ['name', 'Test User via SQL', SQLITE3_TEXT],
+          ['language', 'en', SQLITE3_TEXT],
+          ['role', Dbuser::USER_ROLE, SQLITE3_TEXT],
+          ['example', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', SQLITE3_TEXT],
+        ]);
+
+        return dump($result, false);
+      } catch (\Throwable $th) {
+        return dump([
+          'message' => $th->getMessage(),
+          'code' => $th->getCode(),
+          'line' => $th->getLine(),
+          'file' => $th->getFile(),
+          'trace' => $th->getTrace(),
+
+        ], false);
+      }
+
+
+
+
+      // return Response::json([
+      //   'status' => 'ok',
+      //   'data' => [
+      //     'message' => 'Welcome to the Weltkern API',
+      //     'version' => '1.0.0',
+      //   ]
+      // ], 200);
     }
   ],
   require_once __DIR__ . '/search.php',
