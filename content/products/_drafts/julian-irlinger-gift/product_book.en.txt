@@ -1,34 +1,3 @@
-Title: Julian Irlinger|Gift
-
-----
-
-Multilinetitle:
-
-Julian Irlinger
-Gift
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Julian Irlinger <br>Gift'
@@ -40,20 +9,17 @@ weight: 2.1
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>Gift examines historiography on the basis of documents from the German Reich and from post-war East and West Germany relating to property transfers and the expropriation and retrocession of a plot of land in Schönebeck an der Elbe. The property in question had belonged to the artist’s family: it was confiscated in 1983 and transferred back to his grandmother in 1991. The materials were donated by the artist to the Wende Museum of the Cold War in Los Angeles. They are the first documents in this collection to explicitly highlight the different ways in which property was viewed in East and West Germany. This extends the scope for conducting research outside Germany into the ideological and economic aspects of reunification. The publication is funded by the Hessische Kulturstiftung.<br />
-  <br />
-  Artist Julian Irlinger lives and works in Berlin. His works have been exhibited at a range of venues including Galerie Wedding—Raum für zeitgenössische Kunst in Berlin, the Wilhelm-Hack-Museum in Ludwigshafen, the MMK in Frankfurt am Main, and Artists Space, New York.</p>
+description: '<p>Gift examines historiography on the basis of documents from the German Reich and from post-war East and West Germany relating to property transfers and the expropriation and retrocession of a plot of land in Schönebeck an der Elbe. The property in question had belonged to the artist’s family: it was confiscated in 1983 and transferred back to his grandmother in 1991. The materials were donated by the artist to the Wende Museum of the Cold War in Los Angeles. They are the first documents in this collection to explicitly highlight the different ways in which property was viewed in East and West Germany. This extends the scope for conducting research outside Germany into the ideological and economic aspects of reunification. The publication is funded by the Hessische Kulturstiftung.<br /> <br /> Artist Julian Irlinger lives and works in Berlin. His works have been exhibited at a range of venues including Galerie Wedding—Raum für zeitgenössische Kunst in Berlin, the Wilhelm-Hack-Museum in Ludwigshafen, the MMK in Frankfurt am Main, and Artists Space, New York.</p>'
 details: |
-  - ISBN: 3959054882 / 978-3959054881
-  - Content: 112 pages
-  - Size: 215 × 300 mm
-  - Author: Julian Irlinger, Jan Tappe, Kerstin Stakemeier
-  - Edited by: Spector Books
-  - Design: Marie Lautsch, Patrick A. Müller
-  - Language: English / German
-  - Publishing date: 2022
-  - Images: © WELTKERN® /  Spector Books. All rights reserved.
+  ISBN: "3959054882 / 978-3959054881"
+  Content: "112 pages"
+  Size: "215 × 300 mm"
+  Author: "Julian Irlinger, Jan Tappe, Kerstin Stakemeier"
+  Edited by: "Spector Books"
+  Design: "Marie Lautsch, Patrick A. Müller"
+  Language: "English / German"
+  Publishing date: "2022"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: OUt5yHaDE3h9ToRf
+Multilinetitle:
+
+Julian Irlinger
+Gift
+
+----
+
+Uuid: AMzJa4Aykag4BRby
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

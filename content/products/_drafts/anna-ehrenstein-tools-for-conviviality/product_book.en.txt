@@ -1,34 +1,3 @@
-Title: Anna Ehrenstein|Tools for Conviviality
-
-----
-
-Multilinetitle:
-
-Anna Ehrenstein
-Tools for Conviviality
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Anna Ehrenstein <br>Tools for Conviviality'
@@ -40,18 +9,16 @@ weight: 0.7
 author:
   name: Distanz
   id: 366
-description: |
-  <p>Anna Ehrenstein (b. 1993; lives and works in Berlin and Tirana) studies the exchanges between humans and objects in the digital era. Individual realities and reflections around migrant visual cultures, diasporic narratives, networked images, and the class hierarchy of pixels constitute the foci of her creative practice. In her current project Tools for Conviviality, Ehrenstein, in collaboration with Awa Seck, Don Kafele, Lydia Likibi, Saliou Ba, and Nyamwathi Gichau, uses photographs, installations, textile sculptures, and a 360° video to reflect on contemporary media and confront the cultural repercussions of migration and the rise of digital technology. Based on the 1973 book of the same title by the philosopher Ivan Illich, the project questions the utopian vision of modern technology as a neutral tool. The artist recruited a team of colleagues who availed themselves of Senegal’s comparatively loose visa regulations to migrate to the country’s capital, Dakar, which beckons with welcoming working conditions for artists and a thriving creative scene. Throughout their process-based shared practice, they used documentary formats as a scaffold for collective speculation and communal creation.</p>
-  <p>The monograph Tools for Conviviality includes writings by Carlos Kong and Mahret Ifome Kupka on the current exhibition project as well as an overview of the artist’s work from 2015 to the present.</p>
+description: '<p>Anna Ehrenstein (b. 1993; lives and works in Berlin and Tirana) studies the exchanges between humans and objects in the digital era. Individual realities and reflections around migrant visual cultures, diasporic narratives, networked images, and the class hierarchy of pixels constitute the foci of her creative practice. In her current project Tools for Conviviality, Ehrenstein, in collaboration with Awa Seck, Don Kafele, Lydia Likibi, Saliou Ba, and Nyamwathi Gichau, uses photographs, installations, textile sculptures, and a 360° video to reflect on contemporary media and confront the cultural repercussions of migration and the rise of digital technology. Based on the 1973 book of the same title by the philosopher Ivan Illich, the project questions the utopian vision of modern technology as a neutral tool. The artist recruited a team of colleagues who availed themselves of Senegal’s comparatively loose visa regulations to migrate to the country’s capital, Dakar, which beckons with welcoming working conditions for artists and a thriving creative scene. Throughout their process-based shared practice, they used documentary formats as a scaffold for collective speculation and communal creation.</p> <p>The monograph Tools for Conviviality includes writings by Carlos Kong and Mahret Ifome Kupka on the current exhibition project as well as an overview of the artist’s work from 2015 to the present.</p>'
 details: |
-  - ISBN: 3954764723 / 978-3954764723
-  - Content: 145 Pages
-  - Size: 195 × 250 mm
-  - Language: English / German
-  - Publishing date: 2022
-  - Edited by: Alfred Weidinger, OÖ Landes-Kultur
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: "3954764723 / 978-3954764723"
+  Content: "145 Pages"
+  Size: "195 × 250 mm"
+  Language: "English / German"
+  Publishing date: "2022"
+  Edited by: "Alfred Weidinger, OÖ Landes-Kultur"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Distanz. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: 3aVscjf8iPdW02hF
+Multilinetitle:
+
+Anna Ehrenstein
+Tools for Conviviality
+
+----
+
+Uuid: 4zF5Zec8HbDS70mA
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

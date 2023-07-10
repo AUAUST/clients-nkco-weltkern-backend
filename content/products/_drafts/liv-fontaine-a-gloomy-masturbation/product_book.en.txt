@@ -1,34 +1,3 @@
-Title: Liv Fontaine|A Gloomy Masturbation
-
-----
-
-Multilinetitle:
-
-Liv Fontaine
-A Gloomy Masturbation
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Liv Fontaine <br>A Gloomy Masturbation'
@@ -42,14 +11,14 @@ author:
   id: 327
 description: '<p>Featuring a selection of drawings from Fontaine’s ongoing project &#8216;A Gloomy Masturbation&#8217; this book takes the reader on a trip through the artist&#8217;s mind. The work functions as part diary, part fantasy, and part information, chronicling her own chronic sickness, fixating on her many failed romantic relationships, and exploring therapeutic theories of the mind and the precarious political situations of our time. Expect tragic comedy, slippery statements, radical honesty, and total teenage angst.</p>'
 details: |
-  - ISBN: 3952471074 / 978-3952471074
-  - Content: 48 pages
-  - Size: 218 × 302 mm
-  - Language: English
-  - Graphic Design by: Studio Nüssli+Nuessli
-  - Publication: 2021
-  - Specs: Paperback
-  - Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: "3952471074 / 978-3952471074"
+  Content: "48 pages"
+  Size: "218 × 302 mm"
+  Language: "English"
+  Graphic Design by: "Studio Nüssli+Nuessli"
+  Publication: "2021"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Cpress. All rights reserved."
 gallery:
   - 
     url: >
@@ -75,4 +44,35 @@ tags: [ ]
 
 ----
 
-Uuid: kyg7sLL2CSELIU0i
+Multilinetitle:
+
+Liv Fontaine
+A Gloomy Masturbation
+
+----
+
+Uuid: PcXzV1XQgSiLLlO6
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

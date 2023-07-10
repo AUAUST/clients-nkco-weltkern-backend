@@ -1,31 +1,3 @@
-Title: American Readers at Home
-
-----
-
-Multilinetitle: American Readers at Home
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: American Readers at Home
@@ -37,22 +9,18 @@ weight: 1.8
 author:
   name: 'Scheidegger &amp; Spiess'
   id: 89
-description: |
-  <p>This new book is the result of the media project Day After Reading, conceived by Swiss graphic designer and editor Ludovic Balland. His focus was on how people remember and perceive information in the daily media while uncovering personal memories and reading habits. On his 13,000-mile road trip across the country during the final weeks of the 2016 US election campaign and its immediate aftermath, calling at twenty cities and attending major events such as the presidential inauguration or the Women&#8217;s March in Washington DC the day after, Balland has conducted dozens of interviews and took hundreds of photographs. He has captured the expectations of, and the immediate effects on, people surrounding this major political event, resulting in an exceptional portrait of the American media consumer.<br />
-  <br />
-  With printed media struggling to survive in the age of real-time digital news channels and social media, newspapers are forced to find new ways of storytelling. <em>American Readers at Home</em> also features new, personalised ways of recording and receiving news, highlighting their relation to personal experience and the context of readers&#8217; individual lives.</p>
+description: '<p>This new book is the result of the media project Day After Reading, conceived by Swiss graphic designer and editor Ludovic Balland. His focus was on how people remember and perceive information in the daily media while uncovering personal memories and reading habits. On his 13,000-mile road trip across the country during the final weeks of the 2016 US election campaign and its immediate aftermath, calling at twenty cities and attending major events such as the presidential inauguration or the Women&#8217;s March in Washington DC the day after, Balland has conducted dozens of interviews and took hundreds of photographs. He has captured the expectations of, and the immediate effects on, people surrounding this major political event, resulting in an exceptional portrait of the American media consumer.<br /> <br /> With printed media struggling to survive in the age of real-time digital news channels and social media, newspapers are forced to find new ways of storytelling. <em>American Readers at Home</em> also features new, personalised ways of recording and receiving news, highlighting their relation to personal experience and the context of readers&#8217; individual lives.</p>'
 details: |
-  - ISBN: 3858818096 / 978-3858818096
-  - Content: 548 pages
-  - Size: 240 × 28 × 330 mm
-  
-  - Author: Ludovic Balland
-  - Introduction: Brice Matthieussent
-  - Design: Ludovic Balland
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Paperback
-  - Images: © Scheidegger & Spiess. All rights reserved.
+  ISBN: "3858818096 / 978-3858818096"
+  Content: "548 pages"
+  Size: "240 × 28 × 330 mm "
+  Author: "Ludovic Balland"
+  Introduction: "Brice Matthieussent"
+  Design: "Ludovic Balland"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Paperback"
+  Images: "© Scheidegger & Spiess. All rights reserved."
 gallery:
   - 
     url: >
@@ -94,4 +62,32 @@ tags:
 
 ----
 
-Uuid: S98lU78LHpg0CBcF
+Multilinetitle: American Readers at Home
+
+----
+
+Uuid: jAo5mi2LvfTInMS3
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

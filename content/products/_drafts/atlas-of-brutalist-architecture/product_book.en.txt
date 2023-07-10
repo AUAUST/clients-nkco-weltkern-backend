@@ -1,31 +1,3 @@
-Title: Atlas of Brutalist Architecture
-
-----
-
-Multilinetitle: Atlas of Brutalist Architecture
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Atlas of Brutalist Architecture
@@ -39,14 +11,14 @@ author:
   id: 92
 description: '<p>Brutalism is one of architecture&#8217;s most controversial and yet enduringly popular movements. This landmark survey documents more than 850 Brutalist buildings &#8211; existing and demolished, classic and contemporary &#8211; in the most wide-ranging investigation ever undertaken into one of architecture atlases, the book is organised geographically into nine continental regions &#8211; North America, Central America, South America, Europe West, Europe East, Middle East, Africa, Asia, And Australasia &#8211; and includes much-loved classic Brutalist buildings as Brutalism was, and continues ti be, a truly international architectural phenomenon.</p>'
 details: |
-  - ISBN: 1838661905 / 978-1838661908
-  - Content: 568 Pages
-  - Size: 213 × 45 × 298 mm
-  - Author: Phaidon Editors
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: "1838661905 / 978-1838661908"
+  Content: "568 Pages"
+  Size: "213 × 45 × 298 mm"
+  Author: "Phaidon Editors"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: tTacP0JYjh5pQ5Tj
+Multilinetitle: Atlas of Brutalist Architecture
+
+----
+
+Uuid: 3oUQkwU68RkpRUhb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

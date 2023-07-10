@@ -1,31 +1,3 @@
-Title: Olivier Mosset
-
-----
-
-Multilinetitle: Olivier Mosset
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Olivier Mosset
@@ -37,22 +9,17 @@ weight: 1.2
 author:
   name: JRP|Editions
   id: 94
-description: |
-  <p>Olivier Mosset is one of the central figures in postwar abstract painting, and a pivotal reference for generations of Swiss, European, and American painters. The acute historical awareness of Mosset&#8217;s practice is characterized by his continual questioning of the medium of painting itself and the means by which it resists the repeated assaults of &#8220;spectacle&#8221; and reification.<br />
-  <br />
-  Published on the occasion of the artist&#8217;s retrospective at MAMCO Geneva, this publication offers an extensive overview of his six-decade transatlantic painting practice: from his first experiments in Paris in the 1960s within the BMPT collective and his famous &#8220;Circle Paintings&#8221; to his shaped canvases from the 1980s and his recent monumental works, exploring &#8220;appropriation,&#8221; &#8220;radical painting,&#8221; and his interest in experimental cinema along the way. Designed by Gavillet &#038; Cie, the book proposes a journey through the rooms of the exhibition and the successive steps of Mosset&#8217;s art, thanks to generous documentation and the life-size reproduction of the paintings&#8217; details. The book&#8217;s cover is silkscreened and reproduces a life-size detail of one of Mosset&#8217;s most iconic paintings.<br />
-  <br />
-  Introduced and edited by MAMCO director Lionel Bovier, the book features three essays focusing on specific aspects of Mosset&#8217;s practice: MAMCO&#8217;s curator Paul Bernard on the artist&#8217;s filmmaking activities and how cinema constituted a visual model for Mosset; art historian Arnauld Pierre on his &#8220;Striped Paintings&#8221;; art critic Vincent Pécoil on his idiosyncratic vision of painting; and two essays by fellow painter Marcia Hafif—they met in 1978 in New York—which decipher why Mosset&#8217;s painting acted as a form of resistance to the figurative and decorative wave that swept the art scene in the late 1970s.</p>
+description: '<p>Olivier Mosset is one of the central figures in postwar abstract painting, and a pivotal reference for generations of Swiss, European, and American painters. The acute historical awareness of Mosset&#8217;s practice is characterized by his continual questioning of the medium of painting itself and the means by which it resists the repeated assaults of &#8220;spectacle&#8221; and reification.<br /> <br /> Published on the occasion of the artist&#8217;s retrospective at MAMCO Geneva, this publication offers an extensive overview of his six-decade transatlantic painting practice: from his first experiments in Paris in the 1960s within the BMPT collective and his famous &#8220;Circle Paintings&#8221; to his shaped canvases from the 1980s and his recent monumental works, exploring &#8220;appropriation,&#8221; &#8220;radical painting,&#8221; and his interest in experimental cinema along the way. Designed by Gavillet &#038; Cie, the book proposes a journey through the rooms of the exhibition and the successive steps of Mosset&#8217;s art, thanks to generous documentation and the life-size reproduction of the paintings&#8217; details. The book&#8217;s cover is silkscreened and reproduces a life-size detail of one of Mosset&#8217;s most iconic paintings.<br /> <br /> Introduced and edited by MAMCO director Lionel Bovier, the book features three essays focusing on specific aspects of Mosset&#8217;s practice: MAMCO&#8217;s curator Paul Bernard on the artist&#8217;s filmmaking activities and how cinema constituted a visual model for Mosset; art historian Arnauld Pierre on his &#8220;Striped Paintings&#8221;; art critic Vincent Pécoil on his idiosyncratic vision of painting; and two essays by fellow painter Marcia Hafif—they met in 1978 in New York—which decipher why Mosset&#8217;s painting acted as a form of resistance to the figurative and decorative wave that swept the art scene in the late 1970s.</p>'
 details: |
-  - ISBN: 303764561X / 978-3037645611
-  - Content: 176 Pages
-  - Size: 225 × 305 mm
-  - Author: Arnauld Pierre, Lionel Bovier, Marcia Hafif, Paul Bernard, Vincent Pécoil
-  - Design: Gavillet & Cie
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover, cloth binding
-  - Images: © WELTKERN® / JRP editions. All rights reserved.
+  ISBN: "303764561X / 978-3037645611"
+  Content: "176 Pages"
+  Size: "225 × 305 mm"
+  Author: "Arnauld Pierre, Lionel Bovier, Marcia Hafif, Paul Bernard, Vincent Pécoil"
+  Design: "Gavillet & Cie"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover, cloth binding"
+  Images: "© WELTKERN® / JRP editions. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,4 +29,32 @@ tags: [ ]
 
 ----
 
-Uuid: zRT8LRtCDH7ynjn8
+Multilinetitle: Olivier Mosset
+
+----
+
+Uuid: zgq8XEZ5e4MoANTm
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

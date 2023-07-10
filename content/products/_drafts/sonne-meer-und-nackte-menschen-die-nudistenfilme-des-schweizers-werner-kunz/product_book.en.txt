@@ -1,34 +1,3 @@
-Title: Sonne, Meer und nackte Menschen|Die Nudistenfilme des Schweizers Werner Kunz
-
-----
-
-Multilinetitle:
-
-Sonne, Meer und nackte Menschen
-Die Nudistenfilme des Schweizers Werner Kunz
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Sonne, Meer und nackte Menschen <br>Die Nudistenfilme des Schweizers Werner Kunz'
@@ -41,21 +10,16 @@ weight: 2.1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Starting in the mid-1950s, anyone keen on watching ordinary people in the buff on the silver screen could check out the naturist films of Werner Kunz (1926–2018). This Swiss autodidact’s groundbreaking films featured (especially women) nudists in their customary stomping grounds, engaging in summer sports and games on land and in the water. These productions were the ultimate in (legal) cinematic nudity in those prude days.<br />
-  Banned by censors in some countries as the epitome of indecency, Kunz&#8217;s films were shown elsewhere as instructive documentaries about an alternative lifestyle. Naturally, the visual appeal of all those bare bodies remained undiminished by the documentary frame, so over time Kunz&#8217;s work pushed the boundaries of what was allowed by the censors.<br />
-  For a whole decade, these films, which Kunz wrote, produced, directed and marketed himself, had a virtual monopoly on cinematic nudity. Special screenings of his works were held pell-mell in large and small multi-purpose venues in Swiss cities and even small towns. By the early 1960s, however, they were also being regularly shown in cinemas – and eventually made quite a splash abroad. After all, what other Swiss film can boast a three-and-a-half-month run at a New York movie theater?</p>
-  <p>In this first in-depth exploration of the forgotten Swiss film pioneer Werner Kunz, Zurich film scholar Matthias Uhlmann recaps the production, marketing and reception of Kunz’s extant oeuvre. This thoroughly researched monograph features summaries of the contents and a great many stills from his two dozen nudist films (including four feature-length motion pictures), as well as a rich variety of visual material from the director&#8217;s private archive. In interviews conducted by the author, the pioneer of sexual liberation in international film, the &#8220;godfather of all that stuff&#8221;, tells his own story.</p>
-  <p>With a conversation between Edouard (Edi) Stöckli and Patrick Frey in English and German.</p>
+description: '<p>Starting in the mid-1950s, anyone keen on watching ordinary people in the buff on the silver screen could check out the naturist films of Werner Kunz (1926–2018). This Swiss autodidact’s groundbreaking films featured (especially women) nudists in their customary stomping grounds, engaging in summer sports and games on land and in the water. These productions were the ultimate in (legal) cinematic nudity in those prude days.<br /> Banned by censors in some countries as the epitome of indecency, Kunz&#8217;s films were shown elsewhere as instructive documentaries about an alternative lifestyle. Naturally, the visual appeal of all those bare bodies remained undiminished by the documentary frame, so over time Kunz&#8217;s work pushed the boundaries of what was allowed by the censors.<br /> For a whole decade, these films, which Kunz wrote, produced, directed and marketed himself, had a virtual monopoly on cinematic nudity. Special screenings of his works were held pell-mell in large and small multi-purpose venues in Swiss cities and even small towns. By the early 1960s, however, they were also being regularly shown in cinemas – and eventually made quite a splash abroad. After all, what other Swiss film can boast a three-and-a-half-month run at a New York movie theater?</p> <p>In this first in-depth exploration of the forgotten Swiss film pioneer Werner Kunz, Zurich film scholar Matthias Uhlmann recaps the production, marketing and reception of Kunz’s extant oeuvre. This thoroughly researched monograph features summaries of the contents and a great many stills from his two dozen nudist films (including four feature-length motion pictures), as well as a rich variety of visual material from the director&#8217;s private archive. In interviews conducted by the author, the pioneer of sexual liberation in international film, the &#8220;godfather of all that stuff&#8221;, tells his own story.</p> <p>With a conversation between Edouard (Edi) Stöckli and Patrick Frey in English and German.</p>'
 details: |
-  - ISBN: 3907236444 / 978-3907236444
-  - Content: 303 pages
-  - Size: 330 × 240 mm
-  - Design: Manu Beffa
-  - Language: German
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236444 / 978-3907236444"
+  Content: "303 pages"
+  Size: "330 × 240 mm"
+  Design: "Manu Beffa"
+  Language: "German"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -97,4 +61,35 @@ tags: [ ]
 
 ----
 
-Uuid: XLxLs46i0c6XZIwp
+Multilinetitle:
+
+Sonne, Meer und nackte Menschen
+Die Nudistenfilme des Schweizers Werner Kunz
+
+----
+
+Uuid: Z35MNvBY6COPsKqt
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

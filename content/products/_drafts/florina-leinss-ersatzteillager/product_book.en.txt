@@ -1,34 +1,3 @@
-Title: Florina Leinß|Ersatzteillager
-
-----
-
-Multilinetitle:
-
-Florina Leinß
-Ersatzteillager
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Florina Leinß <br>Ersatzteillager'
@@ -40,23 +9,16 @@ weight: 0.6
 author:
   name: Edition Taube
   id: 272
-description: |
-  <p>ERSATZTEILLAGER (spare and ware depot) is Florina’s first book with Edition Taube. It is an atlas of shapes and contains the visual vocabulary on which most of her paintings and installations are based on.<br />
-  <br />
-  ERSATZTEILLAGER is an abstract contemplation about shapes and aesthetics. Florina draws inspiration from mechanical spare parts of every day objects: Disconnected from the context and function they once where designed for, she uses them as a starting point for visual exploration.<br />
-  <br />
-  Working in 16 series, each initial form runs through an evolution and gets replaced by the proximate, which can be considered as a reform, a spare or a new version of the preceding one. The book itself is also published in four versions, each with a different cover and page order and a print run of 4 × 100.</p>
-  <p>When you order, please tell us which Version you want:<br />
-  V1: green cover | V2: yellow cover | V3: blue-grey cover | V4: brown cover</p>
+description: '<p>ERSATZTEILLAGER (spare and ware depot) is Florina’s first book with Edition Taube. It is an atlas of shapes and contains the visual vocabulary on which most of her paintings and installations are based on.<br /> <br /> ERSATZTEILLAGER is an abstract contemplation about shapes and aesthetics. Florina draws inspiration from mechanical spare parts of every day objects: Disconnected from the context and function they once where designed for, she uses them as a starting point for visual exploration.<br /> <br /> Working in 16 series, each initial form runs through an evolution and gets replaced by the proximate, which can be considered as a reform, a spare or a new version of the preceding one. The book itself is also published in four versions, each with a different cover and page order and a print run of 4 × 100.</p> <p>When you order, please tell us which Version you want:<br /> V1: green cover | V2: yellow cover | V3: blue-grey cover | V4: brown cover</p>'
 details: |
-  - ISBN: 3945900130 / 978-3945900130
-  - Content: 192 Pages
-  - Size: 145 × 30 × 195 mm
-  - Author: Lars Dyrendom
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Taube. All rights reserved.
+  ISBN: "3945900130 / 978-3945900130"
+  Content: "192 Pages"
+  Size: "145 × 30 × 195 mm"
+  Author: "Lars Dyrendom"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Taube. All rights reserved."
 gallery:
   - 
     url: >
@@ -66,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: 2yXD13NsGTeRAHGC
+Multilinetitle:
+
+Florina Leinß
+Ersatzteillager
+
+----
+
+Uuid: jrEK8ZVqBYuzPv6f
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Klima n°5|Liquid Futures
-
-----
-
-Multilinetitle:
-
-Klima n°5
-Liquid Futures
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Klima n°5 <br>Liquid Futures'
@@ -42,14 +11,14 @@ author:
   id: 119
 description: '<p>This issue approaches the aquatic universe, exploring this space of permanent composting, the various living and non-living, ghostly, invented or tangible entities lying in the seas and oceans, as well as the myths and fantasies stemming from them. From the abyssal depths to cetacean communication, from the myth of Drexciya to hydrofeminism, the sea infiltrates this issue and spreads through the images, stories, and research of our various contributors.</p>'
 details: |
-  - EAN: 377-0012095048 / 3770012095048
-  - Content: 192 Pages
-  - Size: 205 × 18 × 290 mm
-  - Design: Clément Gicquel
-  - Language: French / English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / Klima. All rights reserved.
+  EAN: "377-0012095048 / 3770012095048"
+  Content: "192 Pages"
+  Size: "205 × 18 × 290 mm"
+  Design: "Clément Gicquel"
+  Language: "French / English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Klima. All rights reserved."
 gallery:
   - 
     url: >
@@ -75,4 +44,35 @@ tags: [ ]
 
 ----
 
-Uuid: JG6fSyz2Mz3qcco8
+Multilinetitle:
+
+Klima n°5
+Liquid Futures
+
+----
+
+Uuid: YritO1EJgU7PyxuZ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

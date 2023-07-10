@@ -1,34 +1,3 @@
-Title: Tensta Museum|Reports from New Sweden
-
-----
-
-Multilinetitle:
-
-Tensta Museum
-Reports from New Sweden
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tensta Museum <br>Reports from New Sweden'
@@ -40,22 +9,17 @@ weight: 0.8
 author:
   name: Sternberg Press
   id: 133
-description: |
-  <p>Documenting a project that turned a suburb of Stockholm into a museum that produced concrete images of a Sweden where divides are intensifying.<br />
-  <br />
-  This book documents and discusses Tensta konsthall&#8217;s experimental multiyear project “Tensta Museum: Reports from New Sweden” that ran from 2013–18 in the Stockholm suburb of Tensta and beyond. Tensta is dominated by a late modernist housing estate, built on old farmland with traces from both the Iron Age and the Viking era, where today nearly 20,000 people live, a majority with a trans-local backgrounds. More than fifty artists, architects, performers, sociologists, cultural geographers, philosophers, and others contributed artworks, research projects, seminars, guided walks, workshops and much more, reporting on the past and present of Tensta, creating a “museum.”<br />
-  <br />
-  The project produced concrete images of what can be described as the New Sweden—a place with people of vastly different backgrounds, where economic and social divides are intensifying. Tensta Museum also engaged with the concept of cultural heritage and the complicated matter of how it is used in Sweden and elsewhere.</p>
+description: '<p>Documenting a project that turned a suburb of Stockholm into a museum that produced concrete images of a Sweden where divides are intensifying.<br /> <br /> This book documents and discusses Tensta konsthall&#8217;s experimental multiyear project “Tensta Museum: Reports from New Sweden” that ran from 2013–18 in the Stockholm suburb of Tensta and beyond. Tensta is dominated by a late modernist housing estate, built on old farmland with traces from both the Iron Age and the Viking era, where today nearly 20,000 people live, a majority with a trans-local backgrounds. More than fifty artists, architects, performers, sociologists, cultural geographers, philosophers, and others contributed artworks, research projects, seminars, guided walks, workshops and much more, reporting on the past and present of Tensta, creating a “museum.”<br /> <br /> The project produced concrete images of what can be described as the New Sweden—a place with people of vastly different backgrounds, where economic and social divides are intensifying. Tensta Museum also engaged with the concept of cultural heritage and the complicated matter of how it is used in Sweden and elsewhere.</p>'
 details: |
-  - ISBN: 3956794508 / 978-3956794506
-  - Content: 224 Pages
-  - Size: 250 × 15 × 300 mm
-  - Edited by: Maria Lind
-  - Design: Metahaven
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Sternberg Press. All rights reserved.
+  ISBN: "3956794508 / 978-3956794506"
+  Content: "224 Pages"
+  Size: "250 × 15 × 300 mm"
+  Edited by: "Maria Lind"
+  Design: "Metahaven"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Sternberg Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: ml4ABvu8ZBSEfCDA
+Multilinetitle:
+
+Tensta Museum
+Reports from New Sweden
+
+----
+
+Uuid: aFkiRRBqcXP4RgkK
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

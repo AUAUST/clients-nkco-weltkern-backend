@@ -1,4 +1,31 @@
-Title: Beasts Of Burden|Paul Seawright
+Oldweltkern:
+
+title: 'Beasts Of Burden <br>Paul Seawright'
+slug: beasts-of-burden-paul-seawright
+id: 13782
+isbn: 3946770789 / 978-3946770787
+price: 18.5
+weight: 0.8
+author:
+  name: Strzelecki Books
+  id: 271
+description: '<p>Photographer Paul Seawright gained attention for his early work in his home city of Belfast, where he documented sites of sectarian murders during the Troubles. With ‘Beasts of Burden’, he adds a new facet to his existing body of work: portraiture. The series focuses on “Cows for Peace”, a project taking place mainly in rural areas of Rwanda. Like many similar efforts, its aim is to tackle the enormous emotional burden of the country’s terrible genocide and enact the reconciliation necessary for the survival of communities. To promote renewed understanding through action, two neighbours – one a perpetrator, the other a survivor – are given a cow to rear, care for, and use together.</p>'
+details: |
+  ISBN: "3946770789 / 978-3946770787"
+  Content: "72 pages"
+  Size: "210 × 268 mm"
+  Author: "Paul Seawright"
+  Edited by: "Strzelecki Books"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover with linen cover"
+  Images: "© WELTKERN® / Paul Seawright. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_paulseawright-1.jpg
+    id: 13798
+tags: [ ]
 
 ----
 
@@ -6,6 +33,10 @@ Multilinetitle:
 
 Beasts Of Burden
 Paul Seawright
+
+----
+
+Uuid: 6O5lqt8ya4DNbFwC
 
 ----
 
@@ -25,47 +56,8 @@ Auto-kerns: true
 
 ----
 
-Image: 
-
-----
-
 Cover: 
 
 ----
 
 Supplier: 
-
-----
-
-Oldweltkern:
-
-title: 'Beasts Of Burden <br>Paul Seawright'
-slug: beasts-of-burden-paul-seawright
-id: 13782
-isbn: 3946770789 / 978-3946770787
-price: 18.5
-weight: 0.8
-author:
-  name: Strzelecki Books
-  id: 271
-description: '<p>Photographer Paul Seawright gained attention for his early work in his home city of Belfast, where he documented sites of sectarian murders during the Troubles. With ‘Beasts of Burden’, he adds a new facet to his existing body of work: portraiture. The series focuses on “Cows for Peace”, a project taking place mainly in rural areas of Rwanda. Like many similar efforts, its aim is to tackle the enormous emotional burden of the country’s terrible genocide and enact the reconciliation necessary for the survival of communities. To promote renewed understanding through action, two neighbours – one a perpetrator, the other a survivor – are given a cow to rear, care for, and use together.</p>'
-details: |
-  - ISBN: 3946770789 / 978-3946770787
-  - Content: 72 pages
-  - Size: 210 × 268 mm
-  - Author: Paul Seawright
-  - Edited by: Strzelecki Books
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Hardcover with linen cover
-  - Images: © WELTKERN® /  Paul Seawright. All rights reserved.
-gallery:
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_paulseawright-1.jpg
-    id: 13798
-tags: [ ]
-
-----
-
-Uuid: HhD6DOID5Hbp8Ayr

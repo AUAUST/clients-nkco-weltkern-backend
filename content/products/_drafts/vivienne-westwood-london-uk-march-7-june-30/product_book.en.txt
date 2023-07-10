@@ -1,34 +1,3 @@
-Title: Vivienne Westwood (London, UK)|March 7 – June 30
-
-----
-
-Multilinetitle:
-
-Vivienne Westwood (London, UK)
-March 7 – June 30
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Vivienne Westwood (London, UK) <br>March 7 – June 30'
@@ -43,15 +12,13 @@ author:
   id: 263
 description: ""
 details: |
-  - Photographs by: Andreas Kronthaler
-  - Content: 32 Pages
-  - Size: 130 × 190 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  Color Offset Print
-  First Edition
-  - Images: © WELTKERN® / innen zines. All rights reserved.
+  Photographs by: "Andreas Kronthaler"
+  Content: "32 Pages"
+  Size: "130 × 190 mm"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover Color Offset Print First Edition"
+  Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
     url: >
@@ -69,4 +36,35 @@ tags: [ ]
 
 ----
 
-Uuid: dcivLOmQHzxWqcho
+Multilinetitle:
+
+Vivienne Westwood (London, UK)
+March 7 – June 30
+
+----
+
+Uuid: 5rxHaydF86zGAnBb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

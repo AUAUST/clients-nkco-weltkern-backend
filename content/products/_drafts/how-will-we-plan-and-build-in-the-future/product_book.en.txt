@@ -1,31 +1,3 @@
-Title: How Will We Plan And Build In The Future?
-
-----
-
-Multilinetitle: How Will We Plan And Build In The Future?
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: >
@@ -39,24 +11,18 @@ weight: 0.4
 author:
   name: Triest Verlag
   id: 97
-description: |
-  <p>In view of our limited resources, we must also rethink out approaches in the construction industry. This requires a constructive design cultule that paves new ways of dealing with building materials.<br />
-  <br />
-  Beyond Concrete. Strategies for a post-fossil Baukultur combines contributions from the symposium “Constructive Futures – Beyond Concrete”, which marked the start of the academic year 2021/2022 at the School of Architecture of<br />
-  University of Applied Sciences and Arts Northwestern Switzerland FHNW. This academic year is special, as all bachelor’s and master’s degree programs must withstand the unreflective fallback on supposedly proven construction methods in order to explore constructive and future-oriented solutions beyond our professional comfort zones. The symposium provided an opportunity to reflect on where the construction and planning industry currently stands and why a fundamental change seems inevitable to us.<br />
-  <br />
-  With contributions by Axel Schubert and Kim Förster, the first section of the publication provides a general overview of the challenges of building for a post-carbon society. In the second part, Rotor and Circular highlight the potential of reusing buildings and components. The third and last part includes contributions by BC, Harquitectes and Anupama Kundoo, whose projects show possible “constructive futures,” thus casting a positive look into the future.</p>
+description: '<p>In view of our limited resources, we must also rethink out approaches in the construction industry. This requires a constructive design cultule that paves new ways of dealing with building materials.<br /> <br /> Beyond Concrete. Strategies for a post-fossil Baukultur combines contributions from the symposium “Constructive Futures – Beyond Concrete”, which marked the start of the academic year 2021/2022 at the School of Architecture of<br /> University of Applied Sciences and Arts Northwestern Switzerland FHNW. This academic year is special, as all bachelor’s and master’s degree programs must withstand the unreflective fallback on supposedly proven construction methods in order to explore constructive and future-oriented solutions beyond our professional comfort zones. The symposium provided an opportunity to reflect on where the construction and planning industry currently stands and why a fundamental change seems inevitable to us.<br /> <br /> With contributions by Axel Schubert and Kim Förster, the first section of the publication provides a general overview of the challenges of building for a post-carbon society. In the second part, Rotor and Circular highlight the potential of reusing buildings and components. The third and last part includes contributions by BC, Harquitectes and Anupama Kundoo, whose projects show possible “constructive futures,” thus casting a positive look into the future.</p>'
 details: |
-  - ISBN: 3038630722 / 978-3038630722
-  - Content: 120 pages
-  - Size: 180 × 240 mm
-  - Author: FHNW – Annette Helle, Barbara Lenherr
-  - Edited by: Triest Verlag
-  - Design: Bosco Ferreira, Nguyen Gobber
-  - Language: German / English
-  - Spec: Softcover
-  - Publishing date: 2022
-  - Images: © WELTKERN® / Idea Books. All rights reserved.
+  ISBN: "3038630722 / 978-3038630722"
+  Content: "120 pages"
+  Size: "180 × 240 mm"
+  Author: "FHNW – Annette Helle, Barbara Lenherr"
+  Edited by: "Triest Verlag"
+  Design: "Bosco Ferreira, Nguyen Gobber"
+  Language: "German / English"
+  Spec: "Softcover"
+  Publishing date: "2022"
+  Images: "© WELTKERN® / Idea Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -66,4 +32,32 @@ tags: [ ]
 
 ----
 
-Uuid: xTdq5Iphb9IU80FS
+Multilinetitle: How Will We Plan And Build In The Future?
+
+----
+
+Uuid: 8gjGAiSHgCS3gWY9
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

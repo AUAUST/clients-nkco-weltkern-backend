@@ -1,34 +1,3 @@
-Title: Zvi Efrat|The Object of Zionism
-
-----
-
-Multilinetitle:
-
-Zvi Efrat
-The Object of Zionism
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Zvi Efrat <br>The Object of Zionism'
@@ -43,15 +12,15 @@ author:
   id: 99
 description: '<p>The Object of Zionism: The Architecture of Israel is a critical study of Zionist spatial planning and the architectural fabrication of the State of Israel from the early decades of the twentieth century to the 1960s and 1970s. It scrutinizes Israel as a singular modernist project—unprecedented in its relative scope and rates of growth, its political and ethical circumstances, and its hyper-production of spatial and structural experiments. This project entailed the molding of a new terrain, the construction of dozens of new towns and hundreds of new rural settlements, and the appropriation of post-war architectural trends, especially Brutalism and Structuralism, as signifiers of national vigour and cultural ingenuity. Contrary to common belief, the State of Israel was not born of emergency routine or speculative ventures, but rather with the objective of designing an instantaneous model state.</p>'
 details: |
-  - ISBN: 3959051330 / 978-3959051330
-  - Content: 1000 pages
-  - Size: 175 × 53 × 245 mm
-  - Author: Zvi Efrat
-  - Design: Studio Matthias Görlich
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © Spector Books. All rights reserved.
+  ISBN: "3959051330 / 978-3959051330"
+  Content: "1000 pages"
+  Size: "175 × 53 × 245 mm"
+  Author: "Zvi Efrat"
+  Design: "Studio Matthias Görlich"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -81,4 +50,35 @@ tags: [ ]
 
 ----
 
-Uuid: qWfD4TJ5nomzze5I
+Multilinetitle:
+
+Zvi Efrat
+The Object of Zionism
+
+----
+
+Uuid: M0QPuSfXTegpbBNr
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

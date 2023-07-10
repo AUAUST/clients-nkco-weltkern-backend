@@ -1,42 +1,6 @@
-Title: 30 ans à Paris
-
-----
-
-Multilinetitle: 30 ans à Paris
-
-----
-
-Multilinetitleseparator: space
-
-----
-
-Publisher: 
-
-----
-
-Tags: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
-title: 30 ans à Paris
+title: 30 ans ? Paris
 slug: 30-ans-a-paris
 id: 3232
 isbn: 2882503954 / 978-2882503954
@@ -45,25 +9,18 @@ weight: 1.9
 author:
   name: Centre Culturel Suisse
   id: 79
-description: |
-  <p><em>30 ans à paris</em> is an archive book. It was created to celebrate the 30th anniversary of the Centre Culturel Suisse and edited by Jean-Paul Fellay, Olivier Kaeser and Ludovic Balland.<br />
-  <br />
-  The anniversary is celebrated through two editorial axes: the past and the present. The past, which is the history and the timeline of the CCS, is discussed and remembered by the two directors of the Centre, Jean-Paul Fellay and Olivier Kaeser, and accompanied by two former directors, Jean Jeannet and Werner Düggelin. This discussion is illustrated with a bright selection of pictures.<br />
-  <br />
-  The intense discussion is followed by a timeline, which makes up the main body of the book. This timeline goes through all the events that have taken place at the CCS during the last 30 years. Organizing them into four groups “scene”, “language”, “projection” and “exhibition” allowed a space for every type of event that was produced. Inside the timeline’s double spread, we edited another double spread of images, structured in the same way. This rhythm between the images and the timeline pages, while going through the history by reading or taking in the images alone, transforms the reader into an explorer.<br />
-  <br />
-  The present, the second editorial axe of the book, is the portrait of 30 artists, selected by the directors of the CCS especially for the book. All 30 artists were all present at the CCS in the past 30 years. Several authors, journalists, curators and diverse personalities made up the selection, and a portrait was written for each of them. Mathilde Aigus and Ludovic Balland made a photographic work, especially commissioned for the book. The concept of this photographic body is travel, and they did this by visiting each of the 30 artists in their homes or ateliers. This journey of almost 30’000 km in total, richly documented, creates a contemporary view of the creative Swiss scene of younger and older protagonists across Europe and America.</p>
+description: '<p>30 ans ? Paris is an archive book. It was created to celebrate the 30th anniversary of the Centre Culturel Suisse and edited by Jean-Paul Fellay, Olivier Kaeser and Ludovic Balland.<br /> <br /> The anniversary is celebrated through two editorial axes: the past and the present. The past, which is the history and the timeline of the CCS, is discussed and remembered by the two directors of the Centre, Jean-Paul Fellay and Olivier Kaeser, and accompanied by two former directors, Jean Jeannet and Werner Düggelin. This discussion is illustrated with a bright selection of pictures.<br /> <br /> The intense discussion is followed by a timeline, which makes up the main body of the book. This timeline goes through all the events that have taken place at the CCS during the last 30 years. Organizing them into four groups “scene”, “language”, “projection” and “exhibition” allowed a space for every type of event that was produced. Inside the timeline’s double spread, we edited another double spread of images, structured in the same way. This rhythm between the images and the timeline pages, while going through the history by reading or taking in the images alone, transforms the reader into an explorer.<br /> <br /> The present, the second editorial axe of the book, is the portrait of 30 artists, selected by the directors of the CCS especially for the book. All 30 artists were all present at the CCS in the past 30 years. Several authors, journalists, curators and diverse personalities made up the selection, and a portrait was written for each of them. Mathilde Aigus and Ludovic Balland made a photographic work, especially commissioned for the book. The concept of this photographic body is travel, and they did this by visiting each of the 30 artists in their homes or ateliers. This journey of almost 30’000 km in total, richly documented, creates a contemporary view of the creative Swiss scene of younger and older protagonists across Europe and America.</p>'
 details: |
-  - ISBN: 2882503954 / 978-2882503954
-  - Content: 412 pages
-  - Size: 230 × 35 × 305 mm
-  - Author: Centre culturel suisse
-  - Edited by: Jean-Paul Felley, Olivier Kaeser
-  - Design: Ludovic Balland
-  - Language: French
-  - Publishing date: 2015
-  - Specs: Hardcover
-  - Images: © Centre culturel suisse, Les Editions Noir sur Blanc. All rights reserved.
+  ISBN: "2882503954 / 978-2882503954"
+  Content: "412 pages"
+  Size: "230 × 35 × 305 mm"
+  Author: "Centre culturel suisse"
+  Edited by: "Jean-Paul Felley, Olivier Kaeser"
+  Design: "Ludovic Balland"
+  Language: "French"
+  Publishing date: "2015"
+  Specs: "Hardcover"
+  Images: "© Centre culturel suisse, Les Editions Noir sur Blanc. All rights reserved."
 gallery:
   - 
     url: >
@@ -85,4 +42,32 @@ tags: [ ]
 
 ----
 
-Uuid: F0tRyQzzqpaJJZmW
+Multilinetitle: 30 ans ? Paris
+
+----
+
+Uuid: rOUkcHFvZSUGj05D
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

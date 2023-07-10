@@ -1,34 +1,3 @@
-Title: Shiro Kuramata|Deyan Sudjic
-
-----
-
-Multilinetitle:
-
-Shiro Kuramata
-Deyan Sudjic
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Shiro Kuramata <br>Deyan Sudjic'
@@ -40,21 +9,15 @@ weight: 3.1
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>This first ever monograph on highly influential Japanese designer Shiro Kuramata (1934-91) is a two-volume title presenting all of his compelling and idiosyncratic work for a diverse audience of designers and design enthusiasts who love Kuramata but will be surprised to discover the breadth and depth of his remarkable body of work.<br />
-  <br />
-  The first volume includes text by Deyan Sudji, which covers Kuramata&#8217;s whole life and the radical changes in Japan through which he lived, and explains in detail the ideas, relationships and technical innovations that made his work possible. It also presents a selection of Kuramata&#8217;s writings that have been translated into English for the first time, giving the reader a sense of his poetic, humorous and thoughtful intellect.<br />
-  <br />
-  The second volume is a catalogue of works, presenting the over 600 pieces of furniture, products and interiors that Kuramata designed in his lifetime, most of which have never been published (and many of which, including nearly all the interiors, have been demolished). Each project is illustrated with an image from the Kuramata archives and accompanied by an extended caption plus key information.</p>
+description: '<p>This first ever monograph on highly influential Japanese designer Shiro Kuramata (1934-91) is a two-volume title presenting all of his compelling and idiosyncratic work for a diverse audience of designers and design enthusiasts who love Kuramata but will be surprised to discover the breadth and depth of his remarkable body of work.<br /> <br /> The first volume includes text by Deyan Sudji, which covers Kuramata&#8217;s whole life and the radical changes in Japan through which he lived, and explains in detail the ideas, relationships and technical innovations that made his work possible. It also presents a selection of Kuramata&#8217;s writings that have been translated into English for the first time, giving the reader a sense of his poetic, humorous and thoughtful intellect.<br /> <br /> The second volume is a catalogue of works, presenting the over 600 pieces of furniture, products and interiors that Kuramata designed in his lifetime, most of which have never been published (and many of which, including nearly all the interiors, have been demolished). Each project is illustrated with an image from the Kuramata archives and accompanied by an extended caption plus key information.</p>'
 details: |
-  - ISBN: 0714845005 / 978-0714845005
-  - Content: 416 pages
-  - Size: 312 × 40 × 242 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  The two volumes are presented together in a specially designed acrylic slipcase.
-  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: "0714845005 / 978-0714845005"
+  Content: "416 pages"
+  Size: "312 × 40 × 242 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover The two volumes are presented together in a specially designed acrylic slipcase."
+  Images: "© WELTKERN® / Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,4 +27,35 @@ tags: [ ]
 
 ----
 
-Uuid: MfWckcuPfynmZr5S
+Multilinetitle:
+
+Shiro Kuramata
+Deyan Sudjic
+
+----
+
+Uuid: ap6SErEMb5KycDBc
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

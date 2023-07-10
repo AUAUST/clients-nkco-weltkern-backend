@@ -1,31 +1,3 @@
-Title: Studio Cookbook II
-
-----
-
-Multilinetitle: Studio Cookbook II
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Studio Cookbook II
@@ -39,14 +11,13 @@ author:
   id: 330
 description: '<p>Studio Cookbook started off as a series of informal gatherings aiming to promote sociable lunches within different workspaces.</p>'
 details: |
-  - ISBN: 1910239018 / 978-1910239018
-  - Content: 64 pages
-  - Size: 132 × 236 mm
-  
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover, Spiral bound
-  - Images: © WELTKERN® / Hato Press. All rights reserved.
+  ISBN: "1910239018 / 978-1910239018"
+  Content: "64 pages"
+  Size: "132 × 236 mm "
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover, Spiral bound"
+  Images: "© WELTKERN® / Hato Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,4 +27,32 @@ tags: [ ]
 
 ----
 
-Uuid: BqIkQqDERNRlHH5Q
+Multilinetitle: Studio Cookbook II
+
+----
+
+Uuid: HubuaZxePuzZWbXf
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

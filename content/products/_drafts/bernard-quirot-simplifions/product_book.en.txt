@@ -1,34 +1,3 @@
-Title: Bernard Quirot|Simplifions
-
-----
-
-Multilinetitle:
-
-Bernard Quirot
-Simplifions
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Bernard Quirot <br>Simplifions'
@@ -42,15 +11,15 @@ author:
   id: 87
 description: '<p>Bernard Quirot is an architect. He is an architect with his whole body. Bernard Quirot reminds us that architecture commits us entirely This commitment obliges us, towards our own culture and tradition, to take a position on the role of the architect in our society and on the conditions of his practice. In this writing, the author carries a reflection on his theoretical foundations and evokes, through his architectural journey, a critical vision of the increasing complexity of the world.</p>'
 details: |
-  - ISBN: 2955701072 / 978-2-955-70107-2
-  - Content: 96 pages
-  - Size: 120 × 10 × 175 mm
-  - Author: Bernard Quirot
-  - Design: Spassky Fischer
-  - Publishing date: 2019
-  - Language: French
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: "2955701072 / 978-2-955-70107-2"
+  Content: "96 pages"
+  Size: "120 × 10 × 175 mm"
+  Author: "Bernard Quirot"
+  Design: "Spassky Fischer"
+  Publishing date: "2019"
+  Language: "French"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -76,4 +45,35 @@ tags: [ ]
 
 ----
 
-Uuid: xoxskWoQ5ulRxa9n
+Multilinetitle:
+
+Bernard Quirot
+Simplifions
+
+----
+
+Uuid: 5ypVa8BfmhDw1Ybd
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

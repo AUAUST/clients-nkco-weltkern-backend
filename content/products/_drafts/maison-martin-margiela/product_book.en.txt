@@ -1,31 +1,3 @@
-Title: Maison Martin Margiela
-
-----
-
-Multilinetitle: Maison Martin Margiela
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Maison Martin Margiela
@@ -37,20 +9,17 @@ weight: 3.1
 author:
   name: Rizzoli Publications
   id: 115
-description: |
-  <p>Graduating from Antwerp’s Royal Academy of Fine Arts in the 1980s, Martin Margiela (and his contemporaries in the Antwerp Six) transformed global fashion with his aggressive restatement of traditional fashion design and a polemical approach to luxury trends. Working first with the house of Gaultier, Margiela absorbed the radical design of Japanese deconstruction, making it wholly his own with the founding of his own label in 1988. Margiela propounds a singular, enigmatic look, moving beyond the recognizable tropes of deconstruction—a monochromatic palette, outsized garments, non-traditional fabrics, exposed seams, or roughly appliquéd details—to develop a fully considered worldview, one with elegance, mystery, and menace in equal measure.<br />
-  <br />
-  This book provides an inside look at the design process from a craftsman who creates pieces prized for their originality, delicacy, and daring. In the spirit of Margiela’s garments, the book is a work of art in itself, designed exclusively by Margiela and complete with silver inks, ribbon markers, a variety of lush paper types, twelve booklets, and an embroidered white-linen cover. This book provides a window onto the intimate, handmade world of a unique designer.</p>
+description: '<p>Graduating from Antwerp’s Royal Academy of Fine Arts in the 1980s, Martin Margiela (and his contemporaries in the Antwerp Six) transformed global fashion with his aggressive restatement of traditional fashion design and a polemical approach to luxury trends. Working first with the house of Gaultier, Margiela absorbed the radical design of Japanese deconstruction, making it wholly his own with the founding of his own label in 1988. Margiela propounds a singular, enigmatic look, moving beyond the recognizable tropes of deconstruction—a monochromatic palette, outsized garments, non-traditional fabrics, exposed seams, or roughly appliquéd details—to develop a fully considered worldview, one with elegance, mystery, and menace in equal measure.<br /> <br /> This book provides an inside look at the design process from a craftsman who creates pieces prized for their originality, delicacy, and daring. In the spirit of Margiela’s garments, the book is a work of art in itself, designed exclusively by Margiela and complete with silver inks, ribbon markers, a variety of lush paper types, twelve booklets, and an embroidered white-linen cover. This book provides a window onto the intimate, handmade world of a unique designer.</p>'
 details: |
-  - ISBN: 0847831883 / 978-0847831883
-  - Content: 368 pages
-  - Size: 254 × 40 × 335 mm
-  - Author: Maison Martin Margiela
-  - Contributions from: Jean-Paul Gaultier, Susannah Frankel, Andree Putman, Vanessa Beecroft
-  - Language: English
-  - Publishing date: 2009
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Rizzoli Publications. All rights reserved.
+  ISBN: "0847831883 / 978-0847831883"
+  Content: "368 pages"
+  Size: "254 × 40 ×? 335 mm"
+  Author: "Maison Martin Margiela"
+  Contributions from: "Jean-Paul Gaultier, Susannah Frankel, Andree Putman, Vanessa Beecroft"
+  Language: "English"
+  Publishing date: "2009"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -80,4 +49,32 @@ tags: [ ]
 
 ----
 
-Uuid: G2vvRXXDdfBafnZI
+Multilinetitle: Maison Martin Margiela
+
+----
+
+Uuid: 35bXqVPoFgXGiuTy
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

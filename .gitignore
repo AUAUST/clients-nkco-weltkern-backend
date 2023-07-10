@@ -2,6 +2,7 @@ Icon
 .DS_Store
 
 .lock
+.zip
 
 /vendor/*
 /public/media/*

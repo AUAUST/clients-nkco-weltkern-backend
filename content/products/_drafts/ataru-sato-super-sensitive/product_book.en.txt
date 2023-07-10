@@ -1,34 +1,3 @@
-Title: Ataru Sato|Super Sensitive
-
-----
-
-Multilinetitle:
-
-Ataru Sato
-Super Sensitive
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Ataru Sato <br>Super Sensitive'
@@ -40,16 +9,14 @@ weight: 0.7
 author:
   name: Topsafe
   id: 379
-description: |
-  <p>Published on the occasion of Ataru Sato’s solo exhibition, “111 / triple one,” at Tokyo’s KOSAKU KANECHIKA gallery, Super Sensitive collects the Chiba-born artist’s work from 2008-21. A graduate of the Kyoto University of the Arts, Sato deconstructs his emotions — fear, lust, romance etc. — through drawing. Each dense work pulls from memory to remake, or rework, a feeling and within his complete oeuvre we find an artist equipped with a rare inner percipience.<br />
-  Super Sensitive, which will be the artist’s first publication since 2009, contains that conversation, an introduction by Keiichi Tanami and 115 works. Each is relatively small in scale — Sato sleeps, lives and works in the same space — and all of the drawings, paintings and three-dimensional boxes endeavor to make sense of self, humanity and world in some measure.</p>
+description: '<p>Published on the occasion of Ataru Sato’s solo exhibition, “111 / triple one,” at Tokyo’s KOSAKU KANECHIKA gallery, Super Sensitive collects the Chiba-born artist’s work from 2008-21. A graduate of the Kyoto University of the Arts, Sato deconstructs his emotions — fear, lust, romance etc. — through drawing. Each dense work pulls from memory to remake, or rework, a feeling and within his complete oeuvre we find an artist equipped with a rare inner percipience.<br /> Super Sensitive, which will be the artist’s first publication since 2009, contains that conversation, an introduction by Keiichi Tanami and 115 works. Each is relatively small in scale — Sato sleeps, lives and works in the same space — and all of the drawings, paintings and three-dimensional boxes endeavor to make sense of self, humanity and world in some measure.</p>'
 details: |
-  - Content: 176 pages
-  - Size: 150 × 210 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+  Content: "176 pages"
+  Size: "150 × 210 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / ‎Topsafe. All rights reserved."
 gallery:
   - 
     url: >
@@ -83,4 +50,35 @@ tags: [ ]
 
 ----
 
-Uuid: oXvIk8Aa8eXLVrXr
+Multilinetitle:
+
+Ataru Sato
+Super Sensitive
+
+----
+
+Uuid: Covg0UTaTCFqMuGL
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

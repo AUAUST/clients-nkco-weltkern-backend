@@ -1,34 +1,3 @@
-Title: Regula Ehrliholzer|Means to an End
-
-----
-
-Multilinetitle:
-
-Regula Ehrliholzer
-Means to an End
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Regula Ehrliholzer <br>Means to an End'
@@ -42,16 +11,16 @@ author:
   id: 313
 description: '<p>Since the global pandemic began in 2020, Regula Ehrliholzer, together with René Wäger, has documented hundreds of places. These diverse and very specific locations all have one thing in common: attempting to communicate the latest rules of conduct to the public. The result is an abundance of arrows, lines, points, boxes, footprints, installations, counting systems, disinfection stations, and more, mostly executed by individuals without any professional background or experience in how to visually communicate this matter. The massive collection of images reflects the virtually endless variety of efforts and solutions which are now a familiar part of our everyday surroundings.</p>'
 details: |
-  - ISBN: 3952489482 / 978-3952489482
-  - Content: 272 pages
-  - Size: 215 × 300 mm
-  - Authors: André Vladimir Heiz, Regula Ehrliholzer, René Wäger
-  - Edited by: Everyedition
-  - Design: Vieceli & Cremers
-  - Language: English / German
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Idea Books. All rights reserved.
+  ISBN: "3952489482 / 978-3952489482"
+  Content: "272 pages"
+  Size: "215 × 300 mm"
+  Authors: "André Vladimir Heiz, Regula Ehrliholzer, René Wäger"
+  Edited by: "Everyedition"
+  Design: "Vieceli & Cremers"
+  Language: "English / German"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Idea Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: AbSNmS7qsNKNOwm8
+Multilinetitle:
+
+Regula Ehrliholzer
+Means to an End
+
+----
+
+Uuid: zhw1SYJvgV9Ju5pu
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Picasso & Maya|Father and Daughter
-
-----
-
-Multilinetitle:
-
-Picasso & Maya
-Father and Daughter
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Picasso & Maya <br>Father and Daughter'
@@ -42,13 +11,13 @@ author:
   id: 307
 description: '<p>Gagosian and Diana Widmaier-Picasso are presenting a small exhibition to celebrate the publication of Picasso and Maya: Father and Daughter. This comprehensive reference publication explores the figure of Maya Ruiz-Picasso, Pablo Picasso’s beloved eldest daughter, throughout Picasso’s work and chronicles the loving relationship between the artist and his daughter. On view will be a painting by Picasso, photographs of work by Picasso taken by Roe Ethridge, and a selection of the original archival materials featured in the book.</p>'
 details: |
-  - ISBN: 0847868261 / 978-0847868261
-  - Content: 372 pages
-  - Size: 240 × 35 × 310 mm
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Gagosian. All rights reserved.
+  ISBN: "0847868261 / 978-0847868261"
+  Content: "372 pages"
+  Size: "240 × 35 × 310 mm"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Gagosian. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,4 +27,35 @@ tags: [ ]
 
 ----
 
-Uuid: v8gq8ufWUdAHIx4U
+Multilinetitle:
+
+Picasso & Maya
+Father and Daughter
+
+----
+
+Uuid: XBeYunsYPQ4IkTOv
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

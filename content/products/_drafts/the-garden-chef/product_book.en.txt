@@ -1,31 +1,3 @@
-Title: The Garden Chef
-
-----
-
-Multilinetitle: The Garden Chef
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: The Garden Chef
@@ -38,24 +10,17 @@ weight: 1.1
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>An exclusive glimpse into the gardens of the world&#8217;s leading restaurants &#8211; and access to innovative recipes inspired by them<br />
-  For many chefs, their gardens are a direct extension of their kitchens. Whether a small rooftop in the city for growing herbs and spices, or a larger plot with fruit trees and vegetables, these fertile spots provide the ingredients and inspiration for countless seasonal dishes.<br />
-  <br />
-  The Garden Chef includes more than 100 imaginative garden-focused recipes from the restaurants featured and explores how 40 of the world&#8217;s top chefs grown and cook with ingredients they choose to grow in their gardens, and provides a unique source of inspiration for green-fingered food-lovers.<br />
-  Explore fascinating stories and signature recipes from the kitchen gardens of 40 of the world&#8217;s best chefs, both established and emerging talents, with a wealth of beautiful images to provide visual inspiration. The list of chefs includes Michel &#038; Sébastien Bras, Manoella Buffara, Magnus Nilsson, Matt Orlando, Simon Rogan, Ben Shewry, and Alice Waters.<br />
-  <br />
-  The gardens are from around the globe and include traditional kitchen gardens, allotments polytunnels and raised beds, aeroponic roof gardens, greenhouses, and urban community farms and micro farms. The chefs featured offer insight into the growing methods they employ and provide information on key plants and varieties grown.</p>
+description: '<p>An exclusive glimpse into the gardens of the world&#8217;s leading restaurants &#8211; and access to innovative recipes inspired by them<br /> For many chefs, their gardens are a direct extension of their kitchens. Whether a small rooftop in the city for growing herbs and spices, or a larger plot with fruit trees and vegetables, these fertile spots provide the ingredients and inspiration for countless seasonal dishes.<br /> <br /> The Garden Chef? includes more than 100 imaginative garden-focused recipes from the restaurants featured and explores how 40 of the world&#8217;s top chefs grown and cook with ingredients they choose to grow in their gardens, and provides a unique source of inspiration for green-fingered food-lovers.<br /> Explore fascinating stories and signature recipes from the kitchen gardens of 40 of the world&#8217;s best chefs, both established and emerging talents, with a wealth of beautiful images to provide visual inspiration. The list of chefs includes Michel &#038; Sébastien Bras, Manoella Buffara, Magnus Nilsson, Matt Orlando, Simon Rogan, Ben Shewry, and Alice Waters.<br /> <br /> The gardens are from around the globe and include traditional kitchen gardens, allotments polytunnels and raised beds, aeroponic roof gardens, greenhouses, and urban community farms and micro farms. The chefs featured offer insight into the growing methods they employ and provide information on key plants and varieties grown.</p>'
 details: |
-  - ISBN: 0714878227 / 978-0714878225
-  - Content: 256 pages
-  - Size: 216 × 26 × 273 mm
-  - Author: Phaidon Editors
-  - Introduction: Jeremy Fox
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN®. All rights reserved.
+  ISBN: "0714878227 / 978-0714878225"
+  Content: "256 pages"
+  Size: "216 × 26 ×? 273 mm"
+  Author: "Phaidon Editors"
+  Introduction: "Jeremy Fox"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -77,4 +42,32 @@ tags: [ ]
 
 ----
 
-Uuid: QpnRIjpeMg7x4edx
+Multilinetitle: The Garden Chef
+
+----
+
+Uuid: 7wWkgT5EZZxa5XsO
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

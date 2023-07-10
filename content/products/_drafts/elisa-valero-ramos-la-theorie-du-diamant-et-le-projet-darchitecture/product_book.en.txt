@@ -1,34 +1,3 @@
-Title: Elisa Valero Ramos|La théorie du diamant et le projet d’architecture
-
-----
-
-Multilinetitle:
-
-Elisa Valero Ramos
-La théorie du diamant et le projet d’architecture
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Elisa Valero Ramos <br>La théorie du diamant et le projet d’architecture'
@@ -43,16 +12,16 @@ author:
   id: 87
 description: '<p>In &#8220;The Diamond Theory&#8221; the architectural project is considered in its practical as well as theoretical dimension. Critical thinking and creation are inseparable here. The work of the architect is compared to that of the diamond cutter and the thought is articulated around three axes of reflection: the attentive look, the precision of the cut, and the risky work. Seven works of architecture, seven &#8220;diamond spaces&#8221;, illustrate this theory.</p>'
 details: |
-  - ISBN: 2491039103 / 978-2491039103
-  - Content: 70 pages
-  - Size: 110 × 8 × 210 mm
-  - Author: Elisa Valero Ramos
-  - Edited by: Claudia Mion
-  - Design: Spassky Fischer
-  - Language: French
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: "2491039103 / 978-2491039103"
+  Content: "70 pages"
+  Size: "110 × 8 × 210 mm"
+  Author: "Elisa Valero Ramos"
+  Edited by: "Claudia Mion"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -90,4 +59,35 @@ tags: [ ]
 
 ----
 
-Uuid: SCl7B6se9UmCyQzh
+Multilinetitle:
+
+Elisa Valero Ramos
+La théorie du diamant et le projet d’architecture
+
+----
+
+Uuid: SGj7g2XfLGnxm5Me
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

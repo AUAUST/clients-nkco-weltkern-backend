@@ -1,31 +1,3 @@
-Title: Arbeiten & Wohnen
-
-----
-
-Multilinetitle: Arbeiten & Wohnen
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Arbeiten & Wohnen'
@@ -39,15 +11,15 @@ author:
   id: 89
 description: '<p>The studio and residential building at Wuhrstrasse 8/10 in Zurich is a unique place: Commissioned by the Painters &#038; Sculptors Cooperative Zurich, founded in 1948, eminent Swiss architect Ernst Gisel (1922-2021) designed this ensemble of buildings comprising 8 apartments and twelve artist studios in 1953. Thus, a utopia of self-organised working and living space became reality. Since then, 54 artists have left their mark on the artistic and cultural life of Zurich and Switzerland from their home on Wuhrstrasse 8/10.This book recounts the history of this extraordinary structure, illustrated with archival plans and documents as well as new and historic photographs. It also examines the political and social dimension of the Wuhrstrasse model and its international impact. Further essays explore how the lives and works of the resident artists are interwoven with contemporary events, and address the artist studio as both an idealised myth and as a real place of work. In inserts created especially for the book, eleven Zurich-based artists, all members of the cooperative themselves, respond to the exemplary model that is the &#8220;Atelierhaus.&#8221;</p>'
 details: |
-  - ISBN: 978-3039420308
-  - : 260 pages
-  - Size: 230 × 20 × 310 mm
-  - Authors: Adam Jasper, Caroline Kesser, Bruno Maurer, Burkhard Meltzer, Gabrielle Schaad, Stefan Zweifel
-  - Edited by: Park Books
-  - Language: German
-  - Publishing date: 2021
-  - Specs: Cardboard cover
-  - Images: © WELTKERN® / Park Books. All rights reserved.
+  ISBN: "978-3039420308 "
+  : "260 pages"
+  Size: "230 × 20 × 310 mm"
+  Authors: "Adam Jasper, Caroline Kesser, Bruno Maurer, Burkhard Meltzer, Gabrielle Schaad, Stefan Zweifel"
+  Edited by: "Park Books"
+  Language: "German"
+  Publishing date: "2021"
+  Specs: "Cardboard cover"
+  Images: "© WELTKERN® / Park Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -57,4 +29,32 @@ tags: [ ]
 
 ----
 
-Uuid: ZrEgEGXPVJ1OFEo1
+Multilinetitle: Arbeiten & Wohnen
+
+----
+
+Uuid: jg4NTpcGPKwVc4ev
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

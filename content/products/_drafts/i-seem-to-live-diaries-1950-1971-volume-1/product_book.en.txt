@@ -1,34 +1,3 @@
-Title: I Seem to Live|Diaries 1950-1971, Volume 1
-
-----
-
-Multilinetitle:
-
-I Seem to Live
-Diaries 1950-1971, Volume 1
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'I Seem to Live <br> Diaries 1950-1971, Volume 1'
@@ -41,22 +10,18 @@ weight: 1
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>Jonas Mekas’ <em>I Seem to Live</em> picks up in the 1950s, where his extraordinary and popular memoir <em>I Had Nowhere to Go</em> left off. These were crucial years for the artist: Jonas Mekas and his brother Adolfas, having arrived in New York, shot their first experimental films, and Jonas began to develop the essayistic film diary format that he would use to record his day-to-day observations for the rest of his life. In 1954 the two brothers founded <em>Film Culture</em> magazine, and in 1958 Jonas began writing a weekly column for the <em>Village Voice</em>. It was in this period that Mekas’ writing, films and unflagging commitment to art began to establish him as a pioneer of American avant-garde cinema and the barometer of the New York art scene.<br />
-  <br />
-  Assembling Mekas’ diaries from this exciting period, enriched with his own personal visual material, <em>I Seem to Live</em> offers an intimate, unparalleled view of the postwar New York underground scene from one of its most beloved fixtures.</p>
+description: '<p>Jonas Mekas’ <em>I Seem to Live</em> picks up in the 1950s, where his extraordinary and popular memoir <em>I Had Nowhere to Go</em> left off. These were crucial years for the artist: Jonas Mekas and his brother Adolfas, having arrived in New York, shot their first experimental films, and Jonas began to develop the essayistic film diary format that he would use to record his day-to-day observations for the rest of his life. In 1954 the two brothers founded <em>Film Culture</em> magazine, and in 1958 Jonas began writing a weekly column for the <em>Village Voice</em>. It was in this period that Mekas’ writing, films and unflagging commitment to art began to establish him as a pioneer of American avant-garde cinema and the barometer of the New York art scene.<br /> <br /> Assembling Mekas’ diaries from this exciting period, enriched with his own personal visual material, <em>I Seem to Live</em> offers an intimate, unparalleled view of the postwar New York underground scene from one of its most beloved fixtures.</p>'
 details: |
-  - ISBN: 3959052887 / 978-3959052887
-  - Content: 1000 pages
-  - Size: 160 × 50 × 215 mm
-  - Author: Jonas Mekas
-  - Edited by: Anne König
-  
-  - Design: Fabian Bremer, Pascal Storz
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Hardcover
-  - Images: © Spector Books. All rights reserved.
+  ISBN: "3959052887 / 978-3959052887 "
+  Content: "1000 pages"
+  Size: "160 × 50 × 215 mm"
+  Author: "Jonas Mekas"
+  Edited by: "Anne König "
+  Design: "Fabian Bremer,? Pascal Storz"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -102,4 +67,35 @@ tags: [ ]
 
 ----
 
-Uuid: USWX7MWPzenm6AAb
+Multilinetitle:
+
+I Seem to Live
+Diaries 1950-1971, Volume 1
+
+----
+
+Uuid: g3EsdZg05gLOjZMB
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

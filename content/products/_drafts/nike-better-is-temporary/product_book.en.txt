@@ -1,34 +1,3 @@
-Title: Nike|Better is Temporary
-
-----
-
-Multilinetitle:
-
-Nike
-Better is Temporary
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Nike <br>Better is Temporary'
@@ -40,28 +9,17 @@ weight: 2.6
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>At Nike, the desire to be the best is a journey, not a destination—better is always temporary.<br />
-  <br />
-  Phaidon commemorates the company&#8217;s influence with <em>Nike: Better is Temporary</em>, a landmark publication that charts Nike&#8217;s transformation from rebellious upstart to global phenomenon.<br />
-  <br />
-  This immersive visual survey offers an unprecedented, behind-the-scenes exploration into Nike&#8217;s ethos-driven design formula, placing industry-defining innovations and globally recognized products alongside previously unpublished designs, prototypes, insider stories, and more.<br />
-  <br />
-  Beginning with &#8220;Breaking2,&#8221; an introduction detailing Nike&#8217;s 2017 attempt to facilitate a sub-two-hour marathon, the book lays out in five thematic chapters Nike&#8217;s focus on performance, brand expression, collaboration, inclusive design, and sustainability.<br />
-  <br />
-  The book&#8217;s extraordinary design also nods to its contents. The striking cover features overlapping silkscreened layers of Nike&#8217;s proprietary Volt yellow and Hyperpunch pink colors overlaying an image of world-champion marathoner Eliud Kipchoge printed in a half-tone dot pattern. The book&#8217;s spine, visible through the clear jacket, showcases a series of colored tabs that extend from its interior pages and which are referenced in the book&#8217;s bonus chapter, &#8220;Crafting Color.&#8221;<br />
-  <br />
-  Combining 500 color illustrations with stories, insights, knowledge, passion, and history shared by Nike&#8217;s remarkable team, <em>Nike: Better is Temporary</em> will serve as a manual of innovation and inspiration for generations to come.</p>
+description: '<p>At Nike, the desire to be the best is a journey, not a destination—better is always temporary.<br /> <br /> Phaidon commemorates the company&#8217;s influence with <em>Nike: Better is Temporary</em>, a landmark publication that charts Nike&#8217;s transformation from rebellious upstart to global phenomenon.<br /> <br /> This immersive visual survey offers an unprecedented, behind-the-scenes exploration into Nike&#8217;s ethos-driven design formula, placing industry-defining innovations and globally recognized products alongside previously unpublished designs, prototypes, insider stories, and more.<br /> <br /> Beginning with &#8220;Breaking2,&#8221; an introduction detailing Nike&#8217;s 2017 attempt to facilitate a sub-two-hour marathon, the book lays out in five thematic chapters Nike&#8217;s focus on performance, brand expression, collaboration, inclusive design, and sustainability.<br /> <br /> The book&#8217;s extraordinary design also nods to its contents. The striking cover features overlapping silkscreened layers of Nike&#8217;s proprietary Volt yellow and Hyperpunch pink colors overlaying an image of world-champion marathoner Eliud Kipchoge printed in a half-tone dot pattern. The book&#8217;s spine, visible through the clear jacket, showcases a series of colored tabs that extend from its interior pages and which are referenced in the book&#8217;s bonus chapter, &#8220;Crafting Color.&#8221;<br /> <br /> Combining 500 color illustrations with stories, insights, knowledge, passion, and history shared by Nike&#8217;s remarkable team, <em>Nike: Better is Temporary</em> will serve as a manual of innovation and inspiration for generations to come.</p>'
 details: |
-  - ISBN: 1838660518 / 978-1838660512
-  - Content: 256 pages
-  - Size: 232 × 32 × 315 mm
-  - Author: Sam Grawe
-  - Design: Maximage
-  - Publishing date: 2021
-  - Language: English
-  - Specs: Hardcover
-  - Images: © WELTKERN®/ Phaidon Press. All rights reserved.
+  ISBN: "1838660518 / 978-1838660512"
+  Content: "256 pages"
+  Size: "232 × 32 ×? 315 mm"
+  Author: "Sam Grawe"
+  Design: "Maximage"
+  Publishing date: "2021"
+  Language: "English"
+  Specs: "Hardcover"
+  Images: "© WELTKERN®/ Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -99,4 +57,35 @@ tags: [ ]
 
 ----
 
-Uuid: NsMVRDud7sJUre8y
+Multilinetitle:
+
+Nike
+Better is Temporary
+
+----
+
+Uuid: rSipQRiwjLmI6J2f
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

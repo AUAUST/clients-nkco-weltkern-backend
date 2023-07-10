@@ -1,34 +1,3 @@
-Title: Notes from the Underdog|Anotações sobre o Abaixo de Cão
-
-----
-
-Multilinetitle:
-
-Notes from the Underdog
-Anotações sobre o Abaixo de Cão
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Notes from the Underdog <br>Anotações sobre o Abaixo de Cão'
@@ -43,16 +12,16 @@ author:
   id: 99
 description: '<p><em>Notes from the Underdog / Anotações sobre o Abaixo de Cão</em> looks at agricultural practices and the appropriation of space in the city of Porto, Portugal, and the different ways in which this phenomenon has manifested in the aftermath of the financial crisis of 2011. The book recounts the stories of ten gardens and the people running them, who have resuscitated urban brownfield sites by growing fruits and vegetables as a source of food. To achieve this end, they have developed infrastructures like watering and irrigation systems and methods of cultivation, recycling, and composting, while also building storage structures and producing their own tools. Although the gardens are primarily about people providing for themselves, they also lend themselves to recreation and leisure activities.</p>'
 details: |
-  - ISBN: 3959054211 / 978-3959054218
-  - Content: 488 pages
-  - Size: 140 × 250 mm
-  - Author: Alexandre Delmar, Luís Ribeiro da Silva, Margarida Quintã, Joaquim Moreno
-  - Edited by: Spector Books
-  - Design: Nonverbal Club
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959054211 / 978-3959054218"
+  Content: "488 pages"
+  Size: "140 × 250 mm"
+  Author: "Alexandre Delmar, Luís Ribeiro da Silva, Margarida Quintã, Joaquim Moreno"
+  Edited by: "Spector Books"
+  Design: "Nonverbal Club"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: KbH7X96e6LfAgIVw
+Multilinetitle:
+
+Notes from the Underdog
+Anotações sobre o Abaixo de Cão
+
+----
+
+Uuid: maQyQyz3qwDnajjp
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Holger Schurk|Project Without Form
-
-----
-
-Multilinetitle:
-
-Holger Schurk
-Project Without Form
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Holger Schurk <br>Project Without Form'
@@ -40,20 +9,18 @@ weight: 0.9
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>In 1989, the Office for Metropolitan Architecture (OMA) developed a daring architectural typology—a “project without form”. The setting is a laboratory headed by Rem Koolhaas, in which actors from different disciplines work on three competition challenges at the same time. In the process, the mechanisms of project development and knowledge acquisition merge into increasingly abstract systems and representations. The “project without form” is not built in any of the three cases. The book not only follows the progress of the laboratory in 1989 but also reflects on its prehistory and aftermath, drawing on interviews with various actors at OMA conducted by Holger Schurk. The publication focuses on the hybrid processes of production and representation in the OMA project Très Grande Bibliothèque (TGB) in Paris: these are visualized by means of numerous hitherto unpublished sketches, drawings, and photographs as well as sequences of video stills.<br />
-  Holger Schurk is a lecturer in architecture at the ZHAW in Zurich.</p>
+description: '<p>In 1989, the Office for Metropolitan Architecture (OMA) developed a daring architectural typology—a “project without form”. The setting is a laboratory headed by Rem Koolhaas, in which actors from different disciplines work on three competition challenges at the same time. In the process, the mechanisms of project development and knowledge acquisition merge into increasingly abstract systems and representations. The “project without form” is not built in any of the three cases. The book not only follows the progress of the laboratory in 1989 but also reflects on its prehistory and aftermath, drawing on interviews with various actors at OMA conducted by Holger Schurk. The publication focuses on the hybrid processes of production and representation in the OMA project Très Grande Bibliothèque (TGB) in Paris: these are visualized by means of numerous hitherto unpublished sketches, drawings, and photographs as well as sequences of video stills.<br /> Holger Schurk is a lecturer in architecture at the ZHAW in Zurich.</p>'
 details: |
-  - ISBN: 3959053754 / 978-3959053754
-  - Content: 450 pages
-  - Size: 190 × 270 mm
-  - Authors: Holger Schurk
-  - Edited by: Spector Books
-  - Design: Jan Kiesswetter, Alina Schmuch
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Perfect bound softcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959053754 / 978-3959053754"
+  Content: "450 pages"
+  Size: "190 × 270 mm"
+  Authors: "Holger Schurk"
+  Edited by: "Spector Books"
+  Design: "Jan Kiesswetter, Alina Schmuch"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Perfect bound softcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: DBBJX5W8H4dHOYGd
+Multilinetitle:
+
+Holger Schurk
+Project Without Form
+
+----
+
+Uuid: QGe35iKrhLGBIkvk
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,37 +1,6 @@
-Title: Jiří Makovec|From… To…
-
-----
-
-Multilinetitle:
-
-Jiří Makovec
-From… To…
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
-title: 'Jiří Makovec <br>From… To…'
+title: 'Jiří Makovec <br>From... To...'
 slug: jiri-makovec-from-to
 id: 3179
 isbn: 3033075160 / 978-3033075160
@@ -40,20 +9,17 @@ weight: 2.5
 author:
   name: Jungle Books
   id: 126
-description: |
-  <p>“What do you photograph?”—”Everything.” “Where would you like to go?”—“Everywhere.”<br />
-   <br />
-  <em>From… To…</em> is part archive part storyboard and presents the photographic work of Jiří Makovec from 2018—2002. Shot in the streets, in dimly lit hallways, during festive parades, in empty lots, and anywhere else he goes, the photographs exemplify Jiří’s approach, which is neither documentary nor fictional. As much as some of his pictures may look staged, they are mostly situations captured by chance. Within the layered orders of the world, where everyone and everything seems to have its assigned position, Jiří’s gaze transgresses ethnic, class and age divisions by the simple act of looking.</p>
+description: '<p>“What do you photograph?”—”Everything.” “Where would you like to go?”—“Everywhere.”<br /> ? <br /> <em>From... To...</em>? is part archive part storyboard and presents the photographic work of Jiří Makovec from 2018—2002. Shot in the streets, in dimly lit hallways, during festive parades, in empty lots, and anywhere else he goes, the photographs exemplify Jiří’s approach, which is neither documentary nor fictional. As much as some of his pictures may look staged, they are mostly situations captured by chance. Within the layered orders of the world, where everyone and everything seems to have its assigned position, Jiří’s gaze transgresses ethnic, class and age divisions by the simple act of looking.</p>'
 details: |
-  - ISBN: 3033075160 / 978-3033075160
-  - Content: 272 pages
-  - Size: 315 × 33 × 315 mm
-  - Edited by: Jiajia Zhang
-  - Design: Samuel Bänziger, Rosario Florio, Larissa Kasper
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © Jungle Books. All rights reserved.
+  ISBN: "3033075160 / 978-3033075160"
+  Content: "272 pages"
+  Size: "315 × 33 × 315 mm"
+  Edited by: "Jiajia Zhang"
+  Design: "Samuel Bänziger, Rosario Florio, Larissa Kasper"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© Jungle Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -79,4 +45,35 @@ tags: [ ]
 
 ----
 
-Uuid: 1sWZK4kkSGX5El4r
+Multilinetitle:
+
+Jiří Makovec
+From... To...
+
+----
+
+Uuid: ECeXYzY58KS8RHHR
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Michel Parmentier|Décembre 1965 – 20 novembre 1999, Une rétrospective
-
-----
-
-Multilinetitle:
-
-Michel Parmentier
-Décembre 1965 – 20 novembre 1999, Une rétrospective
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Michel Parmentier <br>Décembre 1965 – 20 novembre 1999, Une rétrospective'
@@ -41,21 +10,16 @@ weight: 1.4
 author:
   name: Loevenbruck
   id: 283
-description: |
-  <p>A reference monograph devoted to the singularly radical work of Michel Parmentier. Its title mentions two works by Michel Parmentier, the one that the artist placed at the origin of his work (December 1965), and his last one, produced on 20 November 1999. The contents of this book, for the most part unpublished, were compiled and collected by Guy Massaux, co-founder of the Michel Parmentier Association (AMP &#8211; Fonds Michel Parmentier, Brussels). The 31 works reproduced here are contextualised by more than 250 archive documents and explained by five authors. The graphic design was entrusted to Ludovic Balland, in collaboration with Emmanuel Crivelli. The original NEXT typography that he designed is published for the first time on the occasion of this book.<br />
-  <br />
-  The set published here brings together a selection of 31 major works by the artist, contextualised by 278 documents (most of them unpublished) from the Michel Parmentier archive, from various libraries, public and private collections. In addition, five previously unpublished texts are published: an introduction to the artist&#8217;s work by Robert Bonaccorsi, two critical texts by Philip Armstrong and Jean-Marc Poinsot respectively, and an account of creation by Agnès Foiret. Finally, a rigorous analysis accompanies Michel Parmentier&#8217;s work and the documents reproduced, through texts and comments by Guy Massaux.A reference monograph devoted to the singularly radical work of Michel Parmentier. Its title mentions two works by Michel Parmentier, the one that the artist placed at the origin of his work (December 1965), and his last one, produced on 20 November 1999. The contents of this book, for the most part unpublished, were compiled and collected by Guy Massaux, co-founder of the Michel Parmentier Association (AMP &#8211; Fonds Michel Parmentier, Brussels). The 31 works reproduced here are contextualised by more than 250 archive documents and explained by five authors. The graphic design was entrusted to Ludovic Balland, in collaboration with Emmanuel Crivelli. The original NEXT typography that he designed is published for the first time on the occasion of this book.<br />
-  <br />
-  The set published here brings together a selection of 31 major works by the artist, contextualised by 278 documents (most of them unpublished) from the Michel Parmentier archive, from various libraries, public and private collections. In addition, five previously unpublished texts are published: an introduction to the artist&#8217;s work by Robert Bonaccorsi, two critical texts by Philip Armstrong and Jean-Marc Poinsot respectively, and an account of creation by Agnès Foiret. Finally, a rigorous analysis accompanies Michel Parmentier&#8217;s work and the documents reproduced, through texts and comments by Guy Massaux.</p>
+description: '<p>A reference monograph devoted to the singularly radical work of Michel Parmentier. Its title mentions two works by Michel Parmentier, the one that the artist placed at the origin of his work (December 1965), and his last one, produced on 20 November 1999. The contents of this book, for the most part unpublished, were compiled and collected by Guy Massaux, co-founder of the Michel Parmentier Association (AMP &#8211; Fonds Michel Parmentier, Brussels). The 31 works reproduced here are contextualised by more than 250 archive documents and explained by five authors. The graphic design was entrusted to Ludovic Balland, in collaboration with Emmanuel Crivelli. The original NEXT typography that he designed is published for the first time on the occasion of this book.<br /> <br /> The set published here brings together a selection of 31 major works by the artist, contextualised by 278 documents (most of them unpublished) from the Michel Parmentier archive, from various libraries, public and private collections. In addition, five previously unpublished texts are published: an introduction to the artist&#8217;s work by Robert Bonaccorsi, two critical texts by Philip Armstrong and Jean-Marc Poinsot respectively, and an account of creation by Agnès Foiret. Finally, a rigorous analysis accompanies Michel Parmentier&#8217;s work and the documents reproduced, through texts and comments by Guy Massaux.A reference monograph devoted to the singularly radical work of Michel Parmentier. Its title mentions two works by Michel Parmentier, the one that the artist placed at the origin of his work (December 1965), and his last one, produced on 20 November 1999. The contents of this book, for the most part unpublished, were compiled and collected by Guy Massaux, co-founder of the Michel Parmentier Association (AMP &#8211; Fonds Michel Parmentier, Brussels). The 31 works reproduced here are contextualised by more than 250 archive documents and explained by five authors. The graphic design was entrusted to Ludovic Balland, in collaboration with Emmanuel Crivelli. The original NEXT typography that he designed is published for the first time on the occasion of this book.<br /> <br /> The set published here brings together a selection of 31 major works by the artist, contextualised by 278 documents (most of them unpublished) from the Michel Parmentier archive, from various libraries, public and private collections. In addition, five previously unpublished texts are published: an introduction to the artist&#8217;s work by Robert Bonaccorsi, two critical texts by Philip Armstrong and Jean-Marc Poinsot respectively, and an account of creation by Agnès Foiret. Finally, a rigorous analysis accompanies Michel Parmentier&#8217;s work and the documents reproduced, through texts and comments by Guy Massaux.</p>'
 details: |
-  - ISBN: 2916636078 / 978-2916636078
-  - Content: 220 pages
-  - Size: 270 × 270 mm
-  - Design: Ludovic Balland
-  - Language: French
-  - Publishing date: 2016
-  - Specs: Hardcover, Cloth back, Dust jacket
-  - Images: © WELTKERN® /‎ Editions Loevenbruck. All rights reserved.
+  ISBN: "2916636078 / 978-2916636078"
+  Content: "220 pages"
+  Size: "270 × 270 mm"
+  Design: "Ludovic Balland"
+  Language: "French"
+  Publishing date: "2016"
+  Specs: "Hardcover, Cloth back, Dust jacket"
+  Images: "© WELTKERN® /‎ Editions Loevenbruck. All rights reserved."
 gallery:
   - 
     url: >
@@ -77,4 +41,35 @@ tags: [ ]
 
 ----
 
-Uuid: j3W8ufLD6yQDI7p3
+Multilinetitle:
+
+Michel Parmentier
+Décembre 1965 – 20 novembre 1999, Une rétrospective
+
+----
+
+Uuid: ZwFIGfuBgqtrdqA1
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

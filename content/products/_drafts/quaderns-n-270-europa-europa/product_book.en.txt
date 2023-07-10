@@ -1,34 +1,3 @@
-Title: Quaderns n. 270:|Europa Europa
-
-----
-
-Multilinetitle:
-
-Quaderns n. 270:
-Europa Europa
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Quaderns n. 270: <br>Europa Europa'
@@ -40,24 +9,19 @@ weight: 0.5
 author:
   name: COAC
   id: 160
-description: |
-  <p>Quaderns – the journal of the Architects&#8217; Association of Catalonia &#8211; has been, throughout the last decades, a reference in the field of architectural publications [2005 Jean Tschumi Prize for Architecture Criticism of the International Union of Architects (UIA)]. Since Spring 2018, the magazine opened a new stage in its career with a new direction, new format and new design led by Bendita Gloria, a multi-awarded design studio from Barcelona.<br />
-  <br />
-  In its new format, each issue of ‘Quaderns’ is supervised by an assigned team of directors. Moisés Puente, architect and curator of the seminars ‘Europa Europa’ and ‘Absolutamente moder(rr)nos’, held at the Architects’ Association of Catalonia (COAC), is this edition’s guest editor. He stresses that we are facing a new cultural paradigm, where “images are much more powerful and influential than words, and architecture seems to have stopped being read as text and is now put forward as image.”<br />
-  <br />
-  The issue features projects and contributions by Architecten De Vylder Vick Taillieu, Arquitectura-G, Atelier Kempe Thill, Bruther, Flexo arquitectura, Harquitectes, Moritz Kung, Maio, Office Kersten Geers David Van Serveren, Bas Princen, Thomas Raynaud, Nuria Salvado &#038; Josep Angles, Guillermo Santomà, Philip Ursprung and 51N4E.</p>
+description: '<p>Quaderns – the journal of the Architects&#8217; Association of Catalonia &#8211; has been, throughout the last decades, a reference in the field of architectural publications [2005 Jean Tschumi Prize for Architecture Criticism of the International Union of Architects (UIA)]. Since Spring 2018, the magazine opened a new stage in its career with a new direction, new format and new design led by Bendita Gloria, a multi-awarded design studio from Barcelona.<br /> <br /> In its new format, each issue of ‘Quaderns’ is supervised by an assigned team of directors. Moisés Puente, architect and curator of the seminars ‘Europa Europa’ and ‘Absolutamente moder(rr)nos’, held at the Architects’ Association of Catalonia (COAC), is this edition’s guest editor. He stresses that we are facing a new cultural paradigm, where “images are much more powerful and influential than words, and architecture seems to have stopped being read as text and is now put forward as image.”<br /> <br /> The issue features projects and contributions by Architecten De Vylder Vick Taillieu, Arquitectura-G, Atelier Kempe Thill, Bruther, Flexo arquitectura, Harquitectes, Moritz Kung, Maio, Office Kersten Geers David Van Serveren, Bas Princen, Thomas Raynaud, Nuria Salvado &#038; Josep Angles, Guillermo Santom? , Philip Ursprung and 51N4E.</p>'
 details: |
-  - ISBN: 8434313736 / 978-8434313736
-  - Content: 148 pages
-  - Size: 190 × 13 × 260 mm
-  - Authors: Moisés Puente, Moritz Küng
-  - Edited by: Ediciones Polagrafa
-  - Contributions from: Philip Ursprung
-  - Design: Bendita Gloria
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © COAC. All rights reserved.
+  ISBN: "8434313736 / 978-8434313736"
+  Content: "148 pages"
+  Size: "190 × 13 × 260 mm"
+  Authors: "Moisés Puente, Moritz Küng"
+  Edited by: "Ediciones Polagrafa"
+  Contributions from: "Philip Ursprung"
+  Design: "Bendita Gloria"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© COAC. All rights reserved."
 gallery:
   - 
     url: >
@@ -115,4 +79,35 @@ tags: [ ]
 
 ----
 
-Uuid: q3uycfU9Vn3ps2ZT
+Multilinetitle:
+
+Quaderns n. 270:
+Europa Europa
+
+----
+
+Uuid: gt3Bgks7u6SfI0nF
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

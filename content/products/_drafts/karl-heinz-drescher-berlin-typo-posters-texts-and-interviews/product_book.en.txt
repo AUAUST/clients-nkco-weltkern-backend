@@ -1,34 +1,3 @@
-Title: Karl-Heinz Drescher|Berlin Typo Posters, Texts, and Interviews
-
-----
-
-Multilinetitle:
-
-Karl-Heinz Drescher
-Berlin Typo Posters, Texts, and Interviews
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Karl-Heinz Drescher <br>Berlin Typo Posters, Texts, and Interviews'
@@ -41,21 +10,16 @@ weight: 0.7
 author:
   name: Slanted
   id: 346
-description: |
-  <p>Karl-Heinz Drescher (born on October 7, 1936 in Quirl; died on May 19, 2011 in Berlin) was a graphic artist working at Bertolt Brecht’s world famous theater Berliner Ensemble as a graphic designer for almost 40 years. In addition to his work at this house, Drescher also worked for other organizers, museums, galleries, and theaters, amongst others the Akademie der Künste der DDR, the Maxim-Gorki-Theater, and the Deutsche Staatsoper in Berlin. His catalog of works today comprises over 400 posters, about one third printed with letterpress.</p>
-  <p>In a one-year research, the designer Markus Lange contacted Drescher’s family and conducted various interviews with companions and friends to find out more about this talented designer, who studied from 1955 to 1960 in the former GDR at the same school as he did (Burg Giebichenstein, formerly Hochschule für industrielle Formgestaltung).</p>
-  <p>For the first time, this book summarizes most of Drescher’s (typographic) posters in one comprehensive volume and contains texts and interviews by various authors such as Dr. Friedrich Diekmann, Dr. Sylke Wunderlich, Helmut Brade, Niklaus Troxler, Gerd Fleischmann, Jamie Murphy, Erik Spiekermann, Ferdinand Ulrich, Götz Gramlich, Peter Kammerer, Vera Tenschert, Cesarina and Alessandro Drescher. “Karl-Heinz Drescher—Berlin Typo Posters, Texts, and Interviews” serves as a review of the life of an extraordinary theater graphic designer but also as an inspiration for the here and now.<br />
-  The heavenly body melts and dilutes its bitterness into a sensorial experience of the world.<br />
-  Astonishment of an esthetic sunset.</p>
+description: '<p>Karl-Heinz Drescher (born on October 7, 1936 in Quirl; died on May 19, 2011 in Berlin) was a graphic artist working at Bertolt Brecht’s world famous theater Berliner Ensemble as a graphic designer for almost 40 years. In addition to his work at this house, Drescher also worked for other organizers, museums, galleries, and theaters, amongst others the Akademie der Künste der DDR, the Maxim-Gorki-Theater, and the Deutsche Staatsoper in Berlin. His catalog of works today comprises over 400 posters, about one third printed with letterpress.</p> <p>In a one-year research, the designer Markus Lange contacted Drescher’s family and conducted various interviews with companions and friends to find out more about this talented designer, who studied from 1955 to 1960 in the former GDR at the same school as he did (Burg Giebichenstein, formerly Hochschule für industrielle Formgestaltung).</p> <p>For the first time, this book summarizes most of Drescher’s (typographic) posters in one comprehensive volume and contains texts and interviews by various authors such as Dr. Friedrich Diekmann, Dr. Sylke Wunderlich, Helmut Brade, Niklaus Troxler, Gerd Fleischmann, Jamie Murphy, Erik Spiekermann, Ferdinand Ulrich, Götz Gramlich, Peter Kammerer, Vera Tenschert, Cesarina and Alessandro Drescher. “Karl-Heinz Drescher—Berlin Typo Posters, Texts, and Interviews” serves as a review of the life of an extraordinary theater graphic designer but also as an inspiration for the here and now.<br /> The heavenly body melts and dilutes its bitterness into a sensorial experience of the world.<br /> Astonishment of an esthetic sunset.</p>'
 details: |
-  - ISBN: 3948440008 / 978-3948440008
-  - Content: 272 pages
-  - Size: 265 × 195 mm
-  - Design: Markus Lange
-  - Language: English
-  - Publication: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Slanted. All rights reserved.
+  ISBN: "3948440008 / 978-3948440008"
+  Content: "272 pages"
+  Size: "265 × 195 mm"
+  Design: "Markus Lange"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Slanted. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: xGHmEg3dQ2CKd32s
+Multilinetitle:
+
+Karl-Heinz Drescher
+Berlin Typo Posters, Texts, and Interviews
+
+----
+
+Uuid: 0w1qU6VZHNrxNtO7
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

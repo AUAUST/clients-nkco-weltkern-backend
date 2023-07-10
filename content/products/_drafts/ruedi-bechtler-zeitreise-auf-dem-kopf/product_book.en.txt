@@ -1,34 +1,3 @@
-Title: Ruedi Bechtler|Zeitreise auf dem Kopf
-
-----
-
-Multilinetitle:
-
-Ruedi Bechtler
-Zeitreise auf dem Kopf
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Ruedi Bechtler <br>Zeitreise auf dem Kopf'
@@ -42,15 +11,15 @@ author:
   id: 89
 description: '<p>This book is the fruit of Ruedi Bechtler&#8217;s archive. The numerous illustrations are accompanied by an overview of his work written by the artist himself together with the editor Michael Hiltbrunner. An introduction by Ewa Hess and an interview with Ruedi Bechtler by Dora Imhof and Michael Hiltbrunner round off the volume.</p>'
 details: |
-  - ISBN: 3039420834 / 978-3039420834
-  - Content: 284 pages
-  - Size: 215 × 315 mm
-  - Language: German
-  - Edited by:  Michael Hiltbrunner
-  - Contributions by: Ewa Hess, Dora Imhof, Ruedi Bechtler and Michael Hiltbrunner
-  - Publishing date: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Scheidegger & Spiess. All rights reserved.
+  ISBN: "3039420834 / 978-3039420834"
+  Content: "284 pages"
+  Size: "215 × 315 mm"
+  Language: "German"
+  Edited by: " Michael Hiltbrunner"
+  Contributions by: "Ewa Hess, Dora Imhof, Ruedi Bechtler and Michael Hiltbrunner"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Scheidegger & Spiess. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: VjBMYwrYCFUER5Ud
+Multilinetitle:
+
+Ruedi Bechtler
+Zeitreise auf dem Kopf
+
+----
+
+Uuid: zLF3adpZo6bNsPgY
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

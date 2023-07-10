@@ -2,4 +2,88 @@ Title: Home
 
 ----
 
+Hero: - page://2ZLk34knNAYFVeYR
+
+----
+
+Heromode: selected
+
+----
+
+Cardlets:
+
+- page://REk4GYaZA3wgDM56
+- page://DKuVxXGlrjwe6SiZ
+
+----
+
+Main: [{"content":{"articles":[]},"id":"e12e05c5-82ad-461c-8fab-5597fc1b6eab","isHidden":false,"type":"articles"},{"content":{"size":"xl"},"id":"b885ef7e-7c39-4122-af51-8c4ed42ba4ab","isHidden":false,"type":"spacer"},{"content":{"size":"l"},"id":"574880ba-cb47-4fd8-8c1b-7f09b99202c1","isHidden":false,"type":"spacer"},{"content":{"size":"m"},"id":"0105f981-8003-4959-8223-2b7016e24a0c","isHidden":false,"type":"spacer"},{"content":{"size":"l"},"id":"76516c2a-1d8c-48ed-897e-3cb738e465a1","isHidden":false,"type":"spacer"},{"content":{"size":"m"},"id":"6b2d0c04-445f-4210-bcdf-0b726de1773b","isHidden":false,"type":"spacer"},{"content":{"articles":[]},"id":"2f453016-c01d-4d08-ae03-f7afa13c5b9b","isHidden":false,"type":"articles"},{"content":{"articles":[]},"id":"5359d8bb-2a9f-4164-b9cd-901abcaa46c0","isHidden":false,"type":"articles"}]
+
+----
+
+Heroes:
+
+- 
+  visiblesince: 2023-07-08 00:00:00
+  title: ""
+  type: image
+  product: [ ]
+  image: ""
+  backgroundtype: image
+  backgroundcolor: null
+  backgroundimage: [ ]
+  background: ""
+- 
+  visiblesince: 2023-07-04 00:00:00
+  title: ""
+  type: image
+  product: [ ]
+  image:
+    file: [ ]
+    link: ""
+  backgroundtype: color
+  backgroundcolor: '#b7b7e2'
+  backgroundimage: [ ]
+  background:
+    type: color
+- 
+  visiblesince: 2023-07-03 12:00:00
+  title: |
+    Coucou
+    C'est
+    Boubou
+  type: image
+  product: [ ]
+  image:
+    file: [ ]
+    link: ""
+  backgroundtype: color
+  backgroundcolor: ""
+  backgroundimage: [ ]
+
+----
+
+Metadescription: 
+
+----
+
+Herotype: product
+
+----
+
 Uuid: r7B7QwhbFuuV3o6G
+
+----
+
+Test:
+
+- 
+  content:
+    object: [ ]
+  id: 1ed06a38-4d68-4332-9ad0-6a5847cf3257
+  isHidden: false
+  type: test
+
+----
+
+Object: 

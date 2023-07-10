@@ -1,31 +1,3 @@
-Title: The Most Beautiful Swiss Books 2014
-
-----
-
-Multilinetitle: The Most Beautiful Swiss Books 2014
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: The Most Beautiful Swiss Books 2014
@@ -39,14 +11,14 @@ author:
   id: 125
 description: '<p>More than 400 books were submitted to the annual competition this year, from which were selected the seventeen most outstanding titles of 2014. Studio NOI was commissioned to design this catalogue, choosing to approach each of the books from different angles, in terms of both form and content, and photographers were asked to make portraits of the books as objects. Also included are a brief overview of each book, the jury reports, plus an interview with jury members discussing the considerations behind the selections. The catalogue delves into the collaboration between designers, authors, and publishers through conversations with the individuals involved in their making.</p>'
 details: |
-  - ISBN: 3909928309 / 978-3909928309
-  - Content: 206 pages
-  - Size: 220 × 16 × 320 mm
-  - Design: Studio NOI
-  - Language: English / German / French / Italian
-  - Publishing date: 2015
-  - Specs: Softcover
-  - Images: © OFC. All rights reserved.
+  ISBN: "3909928309 / 978-3909928309"
+  Content: "206 pages"
+  Size: "220 × 16 × 320 mm"
+  Design: "Studio NOI"
+  Language: "English / German / French / Italian"
+  Publishing date: "2015"
+  Specs: "Softcover"
+  Images: "© OFC. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: LUaILqP0F3WabJwy
+Multilinetitle: The Most Beautiful Swiss Books 2014
+
+----
+
+Uuid: bLyETB9VLo7tdumd
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

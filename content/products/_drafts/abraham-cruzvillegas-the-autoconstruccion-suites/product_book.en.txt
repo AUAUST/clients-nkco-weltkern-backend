@@ -1,34 +1,3 @@
-Title: Abraham Cruzvillegas|The Autoconstrucción Suites
-
-----
-
-Multilinetitle:
-
-Abraham Cruzvillegas
-The Autoconstrucción Suites
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Abraham Cruzvillegas <br>The Autoconstrucción Suites'
@@ -43,16 +12,16 @@ author:
   id: 312
 description: '<p>Published on the occasion of the artist’s first major survey, this volume explores the rich terrain of Abraham Cruzvillegas’ (born 1968) work over the past ten years, rooting his sculptural language within the volcanic landscape of his childhood home in Ajusco, Mexico. The publication elaborates on Cruzvillegas’ interest in autoconstrucción, a construction method arising from the constraints of poverty, in which parts are recycled and adapted for new purposes. Developed in collaboration with the artist, the volume features five essays examining autoconstrucción through the lens of art history, politics, architecture and urban migration in Mexico in the 1960s. Along with these texts, the publication includes sculptures by Cruzvillegas; snapshots of Ajusco, Mexico, taken by the artist; archival images of Ajusco from the Cruzvillegas Fuentes family album; titles that inform and inspire the artist&#8217;s thinking about autoconstrucción; silkscreened posters of liberation movements in Latin America; and the artist&#8217;s index of concepts and song lyrics written as allegories of his childhood. Bilingual (English/Spanish).</p>'
 details: |
-  - ISBN: 1935963058 / 978-1935963058
-  - Content: 240 pages
-  - Size: 254 × 355 mm
-  - Language: English
-  - Introducted by: Olga Viso
-  - Edited by: Clara Kim
-  - Contributions by: Patricia Falguières, Sergio González Rodríguez
-  - Publishing date: 2013
-  - Specs: Paperback
-  - Images: © WELTKERN® / Walker Art Center. All rights reserved.
+  ISBN: "1935963058 / 978-1935963058"
+  Content: "240 pages"
+  Size: "254 × 355 mm"
+  Language: "English"
+  Introducted by: "Olga Viso"
+  Edited by: "Clara Kim"
+  Contributions by: "Patricia Falguières, Sergio González Rodríguez"
+  Publishing date: "2013"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Walker Art Center. All rights reserved."
 gallery:
   - 
     url: >
@@ -70,4 +39,35 @@ tags: [ ]
 
 ----
 
-Uuid: dwKHYzIHPKY3PQEB
+Multilinetitle:
+
+Abraham Cruzvillegas
+The Autoconstrucción Suites
+
+----
+
+Uuid: IVV49LEqi4pZJaSk
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

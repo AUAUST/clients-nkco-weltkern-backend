@@ -1,34 +1,3 @@
-Title: E.T.A. Hoffmann|Unheimlich Fantastisch
-
-----
-
-Multilinetitle:
-
-E.T.A. Hoffmann
-Unheimlich Fantastisch
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'E.T.A. Hoffmann <br>Unheimlich Fantastisch'
@@ -42,13 +11,13 @@ author:
   id: 99
 description: '<p>The multifarious universe of E.T.A. Hoffmann’s works continues to this day to fascinate new generations of readers and artists around the world. Hoffmann achieved international fame as an author of the uncanny and the fantastic, and his work is distinguished by a creativity that breaks the mould of all art forms and genres: the catalogue for the travelling exhibition Incredibly Fantastic – E.T.A. Hoffmann 2022 presents him not only in terms of his literary output but also as a composer, merciless cartoonist, and draughtsman, as well as a non-conformist jurist and judge. Hoffmann’s manifold references to contemporary worlds of knowledge provide a contextual prism through which to view the urgent questions of today that his work can provide answers to. The exhibition and catalogue are a means to present Hoffmann’s lifelong achievements in all their diversity and their undiminished relevance for a broad audience.</p>'
 details: |
-  - ISBN: 3959055734 / 978-3959055734
-  - Content: 400 pages
-  - Size: 170 × 230 mm
-  - Language: German
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN ® / Spector Books. All rights reserved.
+  ISBN: "3959055734 / 978-3959055734"
+  Content: "400 pages"
+  Size: "170 × 230 mm"
+  Language: "German"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -98,4 +67,35 @@ tags: [ ]
 
 ----
 
-Uuid: vcqKq5VI3Hv8dKlI
+Multilinetitle:
+
+E.T.A. Hoffmann
+Unheimlich Fantastisch
+
+----
+
+Uuid: gLLFIpd3lupyIhwN
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,31 +1,3 @@
-Title: The Snows of Venice
-
-----
-
-Multilinetitle: The Snows of Venice
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: The Snows of Venice
@@ -37,20 +9,17 @@ weight: 0.6
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>American author Ben Lerner and German filmmaker and writer Alexander Kluge come from two different generations but share a single passion: an interest in the long-term effects of things. A line from Lerner&#8217;s poem &#8220;The Sky Stops Painting and Turns to Criticism,&#8221; which Kluge was struck by some years ago, became the starting point for their first joint book project. Kluge responded to this celestial critique with a story about the technically controlled power of a squadron of bombers in the skies over Aleppo, which Lerner answered with a sonnet.<br />
-  <br />
-  Step by step this dialogue gave rise to poems, stories and conversations in which the heavens reveal their bewitching and threatening qualities. A series of 21 photographs that Gerhard Richter took in Venice in the 1970s augments the interplay of texts and the principle of interconnecting poetic horizons, as well as images by Rebecca H. Quaytman and Thomas Demand.</p>
+description: '<p>American author Ben Lerner and German filmmaker and writer Alexander Kluge come from two different generations but share a single passion: an interest in the long-term effects of things. A line from Lerner&#8217;s poem &#8220;The Sky Stops Painting and Turns to Criticism,&#8221; which Kluge was struck by some years ago, became the starting point for their first joint book project. Kluge responded to this celestial critique with a story about the technically controlled power of a squadron of bombers in the skies over Aleppo, which Lerner answered with a sonnet.<br /> <br /> Step by step this dialogue gave rise to poems, stories and conversations in which the heavens reveal their bewitching and threatening qualities. A series of 21 photographs that Gerhard Richter took in Venice in the 1970s augments the interplay of texts and the principle of interconnecting poetic horizons, as well as images by Rebecca H. Quaytman and Thomas Demand.</p>'
 details: |
-  - ISBN: 3959052545 / 978-3959052542
-  - Content: 300 pages
-  - Size: 135 × 25 × 255 mm
-  - Authors: Ben Lerner, Alexander Kluge
-  - Design: Fabian Bremer, Pascal Storz, Spector Bureau
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © Spector Books. All rights reserved.
+  ISBN: "3959052545 / 978-3959052542"
+  Content: "300 pages"
+  Size: "135 × 25 × 255 mm"
+  Authors: "Ben Lerner, Alexander Kluge"
+  Design: "Fabian Bremer, Pascal Storz, Spector Bureau"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -76,4 +45,32 @@ tags: [ ]
 
 ----
 
-Uuid: lsBO2pC0YMNA1vIe
+Multilinetitle: The Snows of Venice
+
+----
+
+Uuid: ZgXTj76hMRLvM0SU
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

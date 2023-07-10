@@ -1,34 +1,3 @@
-Title: Tine Bek|The Vulgarity of Being Three-Dimensional
-
-----
-
-Multilinetitle:
-
-Tine Bek
-The Vulgarity of Being Three-Dimensional
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tine Bek <br>The Vulgarity of Being Three-Dimensional'
@@ -43,14 +12,13 @@ author:
   id: 331
 description: '<p>The book is a mix of still life, other found forms and created sculptural forms photographed. Fruit, material, fabric and figures are brought together and changed by subtle shades of colour. Bek’s photography tend to seem uneasy, as if something might go wrong. Her images impose a sense of discomfort, little cracks beneath the surface. It is through these minutiae ruptures in the surfaces she exposes that a material hierarchy forms – is marble better than foam? Does a stone fountain overshadow a bathroom tap? – she asks you to scratch through the surface and to see what’s behind.</p>'
 details: |
-  - ISBN: 8797052099 / 978-8797052099
-  - Content: 184 pages
-  - Size: 220 × 290 mm
-  
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Paperback
-  - Images: © WELTKERN® / Diskobay. All rights reserved.
+  ISBN: "8797052099 / 978-8797052099"
+  Content: "184 pages"
+  Size: "220 × 290 mm "
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Diskobay. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: 2IjLGMwK97O2nYPi
+Multilinetitle:
+
+Tine Bek
+The Vulgarity of Being Three-Dimensional
+
+----
+
+Uuid: amV6zEc7rR0F2cep
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

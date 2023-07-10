@@ -1,31 +1,3 @@
-Title: Curating Digital Art
-
-----
-
-Multilinetitle: Curating Digital Art
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Curating Digital Art
@@ -39,16 +11,16 @@ author:
   id: 101
 description: '<p>What is the role of the curator when organising digital art exhibitions in offline and online spaces? Analysing the influence and impact of curating digital art, this book focuses on how the experiments of curators, artists, and designers opened the possibility to reconfigure traditional models and methods for presenting and accessing digital art. In the process, it addresses how web-based practices challenge certain established museological values and precipitate alternative ways of understanding art&#8217;s stewardship, curatorial responsibility, public access, and art history.</p>'
 details: |
-  - ISBN: 9493246019 / 978-9493246010
-  - Content: 256 Pages
-  - Size: 170 × 3 × 240 mm
-  - Authors: Annet Dekker
-  - Edited by: Valiz
-  - Design: Irene Stracuzzi
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Valiz. All rights reserved.
+  ISBN: "9493246019 / 978-9493246010"
+  Content: "256 Pages"
+  Size: "170 × 3 × 240 mm"
+  Authors: "Annet Dekker"
+  Edited by: "Valiz"
+  Design: "Irene Stracuzzi"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Valiz. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,4 +30,32 @@ tags: [ ]
 
 ----
 
-Uuid: YaoOPU5nC2gHq57k
+Multilinetitle: Curating Digital Art
+
+----
+
+Uuid: ezmNYIwjDXFusZSq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,85 @@
+Oldweltkern:
+
+title: 'A Guide to Paris <br>by Seasons'
+slug: a-guide-to-paris-by-seasons
+id: 30014
+isbn: 1739186821 / 978-1739186821
+price: 28.9
+weight: 2.1
+author:
+  name: Antenne Books
+  id: 417
+description: '<p>An enduring romance lingers over Paris, painted rosy in our minds from the stories we’ve read or films we’ve seen, but reinforced by the reality that we encounter in person. Few places in the world measure up to the expectation placed on them as well as Paris. Our Travel Guides present a distinctive graphic identity seeking to rekindle a golden age of travel, where the pursuit of adventure and desire for luxury go hand in hand. Each guide uncovers a curation of cultural and culinary highlights that portray the true character of each city, with a particular fondness for places that have preserved an essence of old world charm, or else exude a certain timeless elegance.</p>'
+details: |
+  ISBN: "1739186821 / 978-1739186821"
+  Content: "208 pages"
+  Size: "190 × 140 mm"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Antenne Books. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Paris_COVER_.jpg
+    id: 30021
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Paris_SPREAD_01.jpg
+    id: 30020
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Paris_SPREAD_02.jpg
+    id: 30019
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Paris_SPREAD_03.jpg
+    id: 30018
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Paris_SPREAD_04.jpg
+    id: 30017
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Paris_SPREAD_05.jpg
+    id: 30016
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Paris_SPREAD_06.jpg
+    id: 30015
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+A Guide to Paris
+by Seasons
+
+----
+
+Uuid: 2tzWBAfIhiQO8TtN
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

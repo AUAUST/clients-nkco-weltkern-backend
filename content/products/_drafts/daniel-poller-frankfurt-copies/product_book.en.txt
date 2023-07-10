@@ -1,34 +1,3 @@
-Title: Daniel Poller|Frankfurt Copies
-
-----
-
-Multilinetitle:
-
-Daniel Poller
-Frankfurt Copies
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Daniel Poller <br>Frankfurt Copies'
@@ -42,15 +11,15 @@ author:
   id: 99
 description: '<p>Between 2012 and 2018, the Neue Altstadt, or ”new old town,“ was built in the centre of Frankfurt am Main. Here, two design features—old stone elements (spolia) and a chromatic master plan based on a reconstruction of the historical colours of the façades—were used as prime evidence of historical authenticity in the debates that raged in the newspapers as the construction work proceeded. However, these design elements were in many cases read as pastiche, as the only role these quotations play here is to suggest a linear historical thread intended to forge a sense of identity. The conceptual photo book Frankfurt Copies uses overprinting to pair up photographs of all the spolia used in constructing Frankfurt’s Neue Altstadt with the colours of the particular building. The rhythm of the page sequences constitutes a walk through the spatial sequencing of a different ”new old town,“ one that is aware of its own historicity and where the historical process becomes visible as a palimpsest.</p>'
 details: |
-  - ISBN: 3959055192 / 978-3959055192
-  - Content: 166 pages
-  - Size: 345 × 245 mm
-  - Language: English, German
-  - Designed by: a r c
-  - Edited by: Daniel Poller
-  - Publication: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959055192 / 978-3959055192"
+  Content: "166 pages"
+  Size: "345 × 245 mm"
+  Language: "English, German"
+  Designed by: "a r c"
+  Edited by: "Daniel Poller"
+  Publication: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -84,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: YScSasTyyYoZWUEV
+Multilinetitle:
+
+Daniel Poller
+Frankfurt Copies
+
+----
+
+Uuid: gSVVnH1rzSIKJXd0
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

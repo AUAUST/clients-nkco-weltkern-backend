@@ -1,0 +1,29 @@
+Title: hero sélectionné
+
+----
+
+Overridetitle: 
+
+----
+
+Product: - page://9oHTzP5ropnoDPB3
+
+----
+
+Backgroundtype: color
+
+----
+
+Backgroundcolor: 
+
+----
+
+Backgroundimage: 
+
+----
+
+Visiblesince: 2023-07-29 00:00:00
+
+----
+
+Uuid: vNQLSM2EPcvYkfOY

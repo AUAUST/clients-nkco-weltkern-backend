@@ -1,35 +1,3 @@
-Title: Aurélien Mole|Éric Tabuchi|Un être, un acte, un objet, un lieu
-
-----
-
-Multilinetitle:
-
-Aurélien Mole
-Éric Tabuchi
-Un être, un acte, un objet, un lieu
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Aurélien Mole <br>Éric Tabuchi <br>Un être, un acte, un objet, un lieu'
@@ -44,16 +12,16 @@ author:
   id: 282
 description: '<p>An attempt to explain the reason for the dimensions of a photographic image, of a print (the book is illustrated with works from the collection of the FRACs of the Nouvelle-Aquitaine region laid out in their respective scale ratios).</p>'
 details: |
-  - ISBN: 1096155224 / 979-1096155224
-  - Content: 88 pages
-  - Size: 162 × 196 mm
-  - Language: French
-  - Edited by: Aurélien Mole et Éric Tabuchi.
-  - Texts by: Aurélien Mole.
-  - Graphic design: Ninon Chaboud & Jimmy Cintero.
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Tombolo Presses. All rights reserved.
+  ISBN: "1096155224 / 979-1096155224"
+  Content: "88 pages"
+  Size: "162 × 196 mm"
+  Language: "French"
+  Edited by: "Aurélien Mole et Éric Tabuchi."
+  Texts by: "Aurélien Mole."
+  Graphic design: "Ninon Chaboud & Jimmy Cintero."
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Tombolo Presses. All rights reserved."
 gallery:
   - 
     url: >
@@ -71,4 +39,36 @@ tags: [ ]
 
 ----
 
-Uuid: Ac0BbqEBUBsTXpDN
+Multilinetitle:
+
+Aurélien Mole
+Éric Tabuchi
+Un être, un acte, un objet, un lieu
+
+----
+
+Uuid: 0qNVOud1YCx7ZWRn
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

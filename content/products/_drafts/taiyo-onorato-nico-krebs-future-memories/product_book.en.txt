@@ -1,34 +1,3 @@
-Title: Taiyo Onorato & Nico Krebs|Future Memories
-
-----
-
-Multilinetitle:
-
-Taiyo Onorato & Nico Krebs
-Future Memories
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Taiyo Onorato & Nico Krebs <br>Future Memories'
@@ -40,22 +9,17 @@ weight: 1.2
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p><em>FUTURE</em> is a series of five or six publications by Taiyo Onorato &#038; Nico Krebs to be published by Edition Patrick Frey over the next few years. The various chapters in the series will be published on an ongoing basis, though not according to any content-based planning or timetable. The idea is to react promptly to current events and sensibilities and publish the results swiftly too.<br />
-  <br />
-  The first installment of the <em>FUTURE</em> series, entitled <em>FUTURE MEMORIES</em>, explores how our conceptions of the future have changed over the past few decades, how that affects our take on the present and our reactions to changes that lie ahead. Re-created by Taiyo Onorato &#038; Nico Krebs for the most part out of archival material, the pictures in this book constitute a material exploration of the fact that every vision or illustration of the future is bound to be a collage of images drawn from the past.<br />
-  <br />
-  Using a combination of large-format analog photography and various digitally controlled laser technologies, the artists have created a visual world that makes sci-fi allusions and takes an associative approach to an emotional world that swings back and forth between the optimism of the artists’ childhood and the dystopianism of the present day and age.</p>
+description: '<p><em>FUTURE</em> is a series of five or six publications by Taiyo Onorato &#038; Nico Krebs to be published by Edition Patrick Frey over the next few years. The various chapters in the series will be published on an ongoing basis, though not according to any content-based planning or timetable. The idea is to react promptly to current events and sensibilities and publish the results swiftly too.<br /> <br /> The first installment of the <em>FUTURE</em> series, entitled <em>FUTURE MEMORIES</em>, explores how our conceptions of the future have changed over the past few decades, how that affects our take on the present and our reactions to changes that lie ahead. Re-created by Taiyo Onorato &#038; Nico Krebs for the most part out of archival material, the pictures in this book constitute a material exploration of the fact that every vision or illustration of the future is bound to be a collage of images drawn from the past.<br /> <br /> Using a combination of large-format analog photography and various digitally controlled laser technologies, the artists have created a visual world that makes sci-fi allusions and takes an associative approach to an emotional world that swings back and forth between the optimism of the artists’ childhood and the dystopianism of the present day and age.</p>'
 details: |
-  - ISBN: 3907236147 / 978-3907236147
-  - Content: 72 Pages
-  - Size: 220 × 10 × 280 mm
-  - Author: Taiyo Onorato, Nico Krebs
-  - Design: Claudio Barandun
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN®. All rights reserved.
+  ISBN: "3907236147 / 978-3907236147"
+  Content: "72 Pages"
+  Size: "220 × 10 × 280 mm"
+  Author: "Taiyo Onorato, Nico Krebs"
+  Design: "Claudio Barandun"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: FmqXHhvh050E88SA
+Multilinetitle:
+
+Taiyo Onorato & Nico Krebs
+Future Memories
+
+----
+
+Uuid: AVaVVJRsY1mZD0CU
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

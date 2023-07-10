@@ -1,34 +1,3 @@
-Title: Gonzalez Haase|AAS: 2021-1999 484-001
-
-----
-
-Multilinetitle:
-
-Gonzalez Haase
-AAS: 2021-1999 484-001
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Gonzalez Haase <br>AAS: 2021-1999 484-001'
@@ -42,14 +11,14 @@ author:
   id: 207
 description: '<p>Bringing together 21 years and 475 projects in one book is a mammoth task. Especially when it involves the influential work of two icons of the design field. With their firm AAS, Pierre Jorge Gonzalez and Judith Haase quickly made design history. Their purist yet offbeat style has left its mark on built spaces across the globe, from large-scale art installations to retail stores and luxurious private dwellings. They focus in particular on a skillfully staged choreography of space and light. The distinctiveness of their style is also expressed in this magnificent illustrated publication. Committed to the aesthetics of social media, the book functions like a stream of fascinating impressions and experiments with exciting image breaks. True to their own style and always daring the new, the book shows and is a typical AAS project.</p>'
 details: |
-  - ISBN: 3775750943 / 978-3775750943
-  - Content: 288
-  - Size: 230 × 300 mm
-  - Design: Face.
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / Hatje Cantz Verlag. All rights reserved.
+  ISBN: "3775750943 / 978-3775750943"
+  Content: "288"
+  Size: "230 × 300 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Hatje Cantz Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: yULKHwvqbcRDgzb8
+Multilinetitle:
+
+Gonzalez Haase
+AAS: 2021-1999 484-001
+
+----
+
+Uuid: e0ZTaQCfrq1R0r6b
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

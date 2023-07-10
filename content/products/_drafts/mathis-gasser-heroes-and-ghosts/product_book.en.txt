@@ -1,34 +1,3 @@
-Title: Mathis Gasser|Heroes and Ghosts
-
-----
-
-Multilinetitle:
-
-Mathis Gasser
-Heroes and Ghosts
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mathis Gasser <br>Heroes and Ghosts'
@@ -40,22 +9,19 @@ weight: 1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>In the middle of each painting stands a lone figure, facing the viewer, eerily still and, in some cases, menacing. The figures are borrowed from various media, ranging from pop culture, including Hollywood blockbusters, pulp horror, science fiction, manga and comics, to esoterica and works of art. <em>Heroes and Ghosts</em> is an ongoing series of figurative oil-on-canvas paintings by Swiss-British artist Mathis Gasser. This anthropological pictorial atlas of fictional characters is peopled by ghostly (anti-)heroes and (anti-)heroines, figures and narratives of the past that abide in our collective memory, continually transformed by contemporary culture—at an ever-increasing pace due to growing demand in the digital realm—and resurfacing in all sorts of different media.<br />
-  <br />
-  Gasser removes these figures from their narrative and media contexts and transfers them to the canvas, where they stand as if frozen in mid action, though it’s up to the viewer to connect the dots and divine the nature of that action. In the stories in which they debut, these characters often embody the forces of violence, resistance or chaos within the social order, dredging up the suppressed fears and anxieties of contemporary liberal democracies and bringing them to light. They circulate in the creative realm of the now globalized systems that begat them, functioning as a means of cultural management of social tension, civil commotion and revolt.</p>
+description: '<p>In the middle of each painting stands a lone figure, facing the viewer, eerily still and, in some cases, menacing. The figures are borrowed from various media, ranging from pop culture, including Hollywood blockbusters, pulp horror, science fiction, manga and comics, to esoterica and works of art. <em>Heroes and Ghosts</em> is an ongoing series of figurative oil-on-canvas paintings by Swiss-British artist Mathis Gasser. This anthropological pictorial atlas of fictional characters is peopled by ghostly (anti-)heroes and (anti-)heroines, figures and narratives of the past that abide in our collective memory, continually transformed by contemporary culture—at an ever-increasing pace due to growing demand in the digital realm—and resurfacing in all sorts of different media.<br /> <br /> Gasser removes these figures from their narrative and media contexts and transfers them to the canvas, where they stand as if frozen in mid action, though it’s up to the viewer to connect the dots and divine the nature of that action. In the stories in which they debut, these characters often embody the forces of violence, resistance or chaos within the social order, dredging up the suppressed fears and anxieties of contemporary liberal democracies and bringing them to light. They circulate in the creative realm of the now globalized systems that begat them, functioning as a means of cultural management of social tension, civil commotion and revolt.</p>'
 details: |
-  - ISBN: 3907236284 / 978-3907236284
-  - Content: 200 Pages
-  - Size: 184 × 24 × 270 mm
-  - Artist: Mathis Gasser
-  - Author: Samuel Luterbacher, James Trafford
-  - Edited by: Bleach Books
-  - Design: Carmen Tobler
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236284 / 978-3907236284"
+  Content: "200 Pages"
+  Size: "184 × 24 × 270 mm"
+  Artist: "Mathis Gasser"
+  Author: "Samuel Luterbacher, James Trafford"
+  Edited by: "Bleach Books"
+  Design: "Carmen Tobler"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: hdgw6lr21M8K0Ooi
+Multilinetitle:
+
+Mathis Gasser
+Heroes and Ghosts
+
+----
+
+Uuid: M7ZHEyPlWaCZBkv3
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Sheena Patel|I'm A Fan
-
-----
-
-Multilinetitle:
-
-Sheena Patel
-I'm A Fan
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: "Sheena Patel <br>I'm A Fan"
@@ -40,19 +9,16 @@ weight: 0
 author:
   name: Rough Trade Books
   id: 296
-description: |
-  <p>In I&#8217;m A Fan single speaker uses the story of their experience in a seemingly unequal, unfaithful relationship as a prism through which to examine the complicated hold we each have on one another. With a clear and unforgiving eye, the narrator unpicks the behaviour of all involved, herself included, and makes startling connections between the power struggles at the heart of human relationships and those of the wider world, in turn offering a devastating critique of access, social media, patriarchal heteronormative relationships, and our cultural obsession with status and how that status is conveyed.<br />
-  <br />
-  In this incredible debut, Sheena Patel announces herself as a vital new voice in literature, capable of rendering a range of emotions and visceral experiences on the page. Sex, violence, politics, tenderness, humour—Patel handles them all with both originality and dexterity of voice.</p>
+description: '<p>In I&#8217;m A Fan single speaker uses the story of their experience in a seemingly unequal, unfaithful relationship as a prism through which to examine the complicated hold we each have on one another. With a clear and unforgiving eye, the narrator unpicks the behaviour of all involved, herself included, and makes startling connections between the power struggles at the heart of human relationships and those of the wider world, in turn offering a devastating critique of access, social media, patriarchal heteronormative relationships, and our cultural obsession with status and how that status is conveyed.<br /> <br /> In this incredible debut, Sheena Patel announces herself as a vital new voice in literature, capable of rendering a range of emotions and visceral experiences on the page. Sex, violence, politics, tenderness, humour—Patel handles them all with both originality and dexterity of voice.</p>'
 details: |
-  - ISBN: 1914236150 / 978-1914236150
-  - Content: 136 pages
-  - Size: 130 × 170 mm
-  - Author: Sheena Patel
-  - Edited by: Rough Trade Books
-  - Language: English
-  - Publishing date: 2022
-  - Images: © WELTKERN® / Rough Trade Books. All rights reserved.
+  ISBN: "1914236150 / 978-1914236150 "
+  Content: "136 pages"
+  Size: "130 × 170 mm"
+  Author: "Sheena Patel"
+  Edited by: "Rough Trade Books"
+  Language: "English"
+  Publishing date: "2022"
+  Images: "© WELTKERN® / Rough Trade Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: izVajskm0OKA1tTe
+Multilinetitle:
+
+Sheena Patel
+I'm A Fan
+
+----
+
+Uuid: RWBe0pIPR5dCWi9U
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

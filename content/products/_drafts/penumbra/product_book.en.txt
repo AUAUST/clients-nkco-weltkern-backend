@@ -1,0 +1,90 @@
+Oldweltkern:
+
+title: Penumbra
+slug: penumbra
+id: 30059
+isbn: 8867495740 / 978-8867495740
+price: 33.9
+weight: 2.1
+author:
+  name: Mousse Publishing
+  id: 111
+description: '<p>This richly illustrated catalogue reflects on the making of the group exhibition Penumbra. Commissioned and produced by Fondazione In Between Art Film at the Complesso dell&#8217;Ospedaletto, Venice, on the occasion of the Biennale Arte 2022, it presented newly commissioned works to Karimah Ashadu, Jonathas de Andrade, Aziz Hazara, He Xiangyu, Masbedo, James Richards, Emilija Skarnulyte, and Ana Vaz. Edited by Alessandro Rabottini and Leonardo Bigazzi with Bianca Stoppani, it includes an atmospheric visual essay about Venice commissioned to photographer Giacomo Bianco and a wide selection of installation views documenting the display of the works together with the experience of walking through the eight video installations. Each of them is presented with its technical information, including the stills, synopsis, and credits, to share the visual and conceptual aspects of the narrative in each work. The book also features 8 newly commissioned essays by writers, scholars, and researchers, including Taylor Aldridge, Barbara Casavecchia, Bruno Carvalho and Ana Laura Malmaceda, Martin Herbert, Matt Keegan, Filipa Ramos, Francesca Recchia, and Giorgio Vasta, that give original and critical insights into the works and the extended practices of the artists of Penumbra via never-before-published research and backstage materials. It is also accompanied by an introductory text by Beatrice Bulgari, President at Fondazione In Between Art Film, as well as newly extended essays by Alessandro Rabottini and Leonardo Bigazzi, co-curators of Penumbra; Ippolito Pestellini Laparelli, who designed the scenography of the show with his agency 2050+; and Bianca Stoppani and Paola Ugolini, co-curators of Vanishing Points, the public program accompanying Penumbra. The publication is designed by Lorenzo Mason Studio and distributed by Mousse Publishing.</p>'
+details: |
+  ISBN: "8867495740 / 978-8867495740"
+  Content: "296 pages"
+  Size: "210 × 280 mm"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Mousse Publishing. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_COVER_.jpg
+    id: 30068
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_01.jpg
+    id: 30067
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_02.jpg
+    id: 30066
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_03.jpg
+    id: 30065
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_04.jpg
+    id: 30064
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_05.jpg
+    id: 30063
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_06.jpg
+    id: 30062
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_07.jpg
+    id: 30061
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Penumbra_SPREAD_08.jpg
+    id: 30060
+tags: [ ]
+
+----
+
+Multilinetitle: Penumbra
+
+----
+
+Uuid: 13oTNP6oFPzb0yOa
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

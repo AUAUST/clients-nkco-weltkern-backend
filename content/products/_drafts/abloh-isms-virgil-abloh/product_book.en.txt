@@ -1,34 +1,3 @@
-Title: Abloh-isms|Virgil Abloh
-
-----
-
-Multilinetitle:
-
-Abloh-isms
-Virgil Abloh
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Abloh-isms <br>Virgil Abloh'
@@ -42,15 +11,15 @@ author:
   id: 273
 description: '<p><em>Abloh-isms</em> is a collection of essential quotations from American fashion designer, DJ, and stylist Virgil Abloh, who was a major creative figure in the worlds of pop culture and art. Abloh began his career as Kanye West’s creative director before founding the luxury streetwear label Off-White and becoming artistic director for Louis Vuitton, making Abloh the first American of African descent to hold that title at a French fashion house. Defying categorization, Abloh’s work has been the subject of solo exhibitions at museums and galleries, most notably in a major retrospective at the Museum of Contemporary Art Chicago. Gathered from interviews and other sources, this selection of compelling and memorable quotations from the designer reveals his thoughts on a wide range of subjects, including creativity, passion, innovation, race, and what it means to be an artist of his generation. Lively and thought-provoking, these quotes reflect Abloh’s unique perspective as a trailblazer in his fields.</p>'
 details: |
-  - ISBN: 0691213798 / 978-0691213798
-  - Content: 160 Pages
-  - Size: 140 × 11 × 180 mm
-  - Author: Virgil Abloh
-  - Edited by: Larry Warsh
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Princeton University Press. All rights reserved.
+  ISBN: "0691213798 / 978-0691213798"
+  Content: "160 Pages"
+  Size: "140 × 11 × 180 mm"
+  Author: "Virgil Abloh"
+  Edited by: "Larry Warsh"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Princeton University Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -60,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: 9lVNObgKWDTjfVCY
+Multilinetitle:
+
+Abloh-isms
+Virgil Abloh
+
+----
+
+Uuid: pd4PhfLo4Fl3gbfg
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

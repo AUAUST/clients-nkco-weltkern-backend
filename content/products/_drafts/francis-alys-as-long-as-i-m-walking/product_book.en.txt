@@ -1,34 +1,3 @@
-Title: Francis Alÿs|As Long as I'm Walking
-
-----
-
-Multilinetitle:
-
-Francis Alÿs
-As Long as I'm Walking
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: "Francis Alÿs <br>As Long as I'm Walking"
@@ -40,24 +9,17 @@ weight: 1.2
 author:
   name: JRP|Editions
   id: 94
-description: |
-  <p>Published to accompany Francis Alÿs’ major exhibition at the Musée Cantonal des Beaux-Arts de Lausanne in 2021, this reference monograph is centered on some of the Belgian-born Mexican-based artist’s key motifs and features: his 30-year groundbreaking video practice; the importance of strolling and walking for his artistic method; his interest in children’s games which he has filmed in various countries since 1999. From urban wandering to the exploration of territories and their borders documented by moving images, Alÿs’ work proposes a poetics of space through brief narratives whose finesse and accuracy invite access by the general public. If his work questions the link between artistic act and political intervention, the artist always works by allusions, with remarkable precision and economy of means, preferring poetic polysemy to frontal political commentary, favoring the merging of planned imaginary spaces with his own fictional spaces. The publication also focuses on Reel-Unreel, one of Alÿs’ major projects realized in Afghanistan, comprising children’s games and hand-drawn animation loops as well as paintings and graphic works and the eponymous video <em>Reel-Unreel</em> (2011).<br />
-  <br />
-  Edited and introduced by MCBA Lausanne curator Nicole Schweizer, the book features comprehensive essays by Julia Bryan-Wilson, Professor of History of Art, University of California, Berkeley; Luis Pérez-Oramas, independent curator and writer, New York; and Judith Rodenbeck, Associate Professor, Department of Media and Cultural Studies, University of California Riverside, and is generously illustrated.<br />
-  <br />
-  Born in Antwerp in 1959, Francis Alÿs trained as an architect at the Institute of Architecture in Tournai, Belgium, and the Istituto di Archittetura in Venice, Italy. In 1986, he moved to Mexico City, where he has developed an interdisciplinary practice based on visual arts and personal procedures. During his many walks through the megalopolis, he has studied and documented daily life in and around the Mexican capital through simple but memorable performative actions. He has later extended his wanderings to other urban spaces, from Havana to London via Jerusalem, each time re-imagining the city through his itineraries. At the intersection of art, architecture, and social practice, his videos, performances, and works explore urban tensions and the geopolitical stakes of the spaces he explores. One of contemporary art’s leading voices today, he has recently exhibited at Espacio de Arte y Memoria, Bogotá, and Tai Kwun, Hong Kong, in 2020; EYE Filmmuseum, Amsterdam in 2019; and Rockbund Art Museum, Shanghai, in 2018. His work has been included in international exhibitions such as the Shanghai Biennale (2018); the Iraqi Pavilion at the 57th Venice Biennale (2017) and dOCUMENTA (13) in Kassel (2012). He will represent Belgium at the 59th Venice Biennale (2022).<br />
-  <br />
-  Published with the Musée cantonal des Beaux-Arts, Lausanne, on the occasion of the exhibition Francis Alÿs: As Long as I’m Walking, October 15, 2021–January 16, 2022.</p>
+description: '<p>Published to accompany Francis Alÿs’ major exhibition at the Musée Cantonal des Beaux-Arts de Lausanne in 2021, this reference monograph is centered on some of the Belgian-born Mexican-based artist’s key motifs and features: his 30-year groundbreaking video practice; the importance of strolling and walking for his artistic method; his interest in children’s games which he has filmed in various countries since 1999. From urban wandering to the exploration of territories and their borders documented by moving images, Alÿs’ work proposes a poetics of space through brief narratives whose finesse and accuracy invite access by the general public. If his work questions the link between artistic act and political intervention, the artist always works by allusions, with remarkable precision and economy of means, preferring poetic polysemy to frontal political commentary, favoring the merging of planned imaginary spaces with his own fictional spaces. The publication also focuses on Reel-Unreel, one of Alÿs’ major projects realized in Afghanistan, comprising children’s games and hand-drawn animation loops as well as paintings and graphic works and the eponymous video <em>Reel-Unreel</em> (2011).<br /> <br /> Edited and introduced by MCBA Lausanne curator Nicole Schweizer, the book features comprehensive essays by Julia Bryan-Wilson, Professor of History of Art, University of California, Berkeley; Luis Pérez-Oramas, independent curator and writer, New York; and Judith Rodenbeck, Associate Professor, Department of Media and Cultural Studies, University of California Riverside, and is generously illustrated.<br /> <br /> Born in Antwerp in 1959, Francis Alÿs trained as an architect at the Institute of Architecture in Tournai, Belgium, and the Istituto di Archittetura in Venice, Italy. In 1986, he moved to Mexico City, where he has developed an interdisciplinary practice based on visual arts and personal procedures. During his many walks through the megalopolis, he has studied and documented daily life in and around the Mexican capital through simple but memorable performative actions. He has later extended his wanderings to other urban spaces, from Havana to London via Jerusalem, each time re-imagining the city through his itineraries. At the intersection of art, architecture, and social practice, his videos, performances, and works explore urban tensions and the geopolitical stakes of the spaces he explores. One of contemporary art’s leading voices today, he has recently exhibited at Espacio de Arte y Memoria, Bogotá, and Tai Kwun, Hong Kong, in 2020; EYE Filmmuseum, Amsterdam in 2019; and Rockbund Art Museum, Shanghai, in 2018. His work has been included in international exhibitions such as the Shanghai Biennale (2018); the Iraqi Pavilion at the 57th Venice Biennale (2017) and dOCUMENTA (13) in Kassel (2012). He will represent Belgium at the 59th Venice Biennale (2022).<br /> <br /> Published with the Musée cantonal des Beaux-Arts, Lausanne, on the occasion of the exhibition Francis Alÿs: As Long as I’m Walking, October 15, 2021–January 16, 2022.</p>'
 details: |
-  - ISBN: 3037645727 / 978-3037645727
-  - Content: 160 Pages
-  - Size: 237 × 20 × 286 mm
-  - Authors: Judith Rodenbeck, Julia Bryan-Wilson, Luis Pérez-Oramas, Nicole Schweizer
-  - Edited by: Nicole Schweizer
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / JRP|Editions / Musée cantonal des Beaux-Arts. All rights reserved.
+  ISBN: "3037645727 / 978-3037645727"
+  Content: "160 Pages"
+  Size: "237 × 20 × 286 mm"
+  Authors: "Judith Rodenbeck, Julia Bryan-Wilson, Luis Pérez-Oramas, Nicole Schweizer"
+  Edited by: "Nicole Schweizer"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / JRP|Editions / Musée cantonal des Beaux-Arts. All rights reserved."
 gallery:
   - 
     url: >
@@ -67,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: ypoiiYkDR7Xf9dRE
+Multilinetitle:
+
+Francis Alÿs
+As Long as I'm Walking
+
+----
+
+Uuid: hDncqPrlAqpFE134
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

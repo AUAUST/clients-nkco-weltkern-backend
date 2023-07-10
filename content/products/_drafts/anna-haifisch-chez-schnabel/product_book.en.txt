@@ -1,34 +1,3 @@
-Title: Anna Haifisch|Chez Schnabel
-
-----
-
-Multilinetitle:
-
-Anna Haifisch
-Chez Schnabel
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Anna Haifisch <br>Chez Schnabel'
@@ -42,15 +11,15 @@ author:
   id: 99
 description: '<p>The catalogue for the exhibition Chez Schnabel at the Museum der Bildenden Künste Leipzig is being published in conjunction with the 2021 LVZ Art Prize award. This is the first publication by artist Anna Haifisch to give an insight into her approach to making comics. The catalogue brings together sketches, references, haikus, notes, and the new short story 1992—a making-of account composed of wobbly animals, the artist entity, and autobiographical material. </p>'
 details: |
-  - ISBN: 3959056038 / 978-3959056038
-  - Content: 96 pages
-  - Size: 220 × 350 mm
-  - Language: English, German
-  - Edited by: Leipziger Volkszeitung , Museum der bildenden Künste Leipzig, Björn Steigert, Benjamin Schrader, Dr. Stefan Weppelmann
-  - Graphic Design by: Anja Kaiser
-  - Publication: 2022
-  - Specs: Thread-sewn Hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959056038 / 978-3959056038"
+  Content: "96 pages"
+  Size: "220 × 350 mm"
+  Language: "English, German"
+  Edited by: "Leipziger Volkszeitung , Museum der bildenden Künste Leipzig, Björn Steigert, Benjamin Schrader, Dr. Stefan Weppelmann"
+  Graphic Design by: "Anja Kaiser"
+  Publication: "2022"
+  Specs: "Thread-sewn Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -112,4 +81,35 @@ tags: [ ]
 
 ----
 
-Uuid: oUPbmFIpVz4Q5VE9
+Multilinetitle:
+
+Anna Haifisch
+Chez Schnabel
+
+----
+
+Uuid: 2uHboZlOcaKGV2Wn
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

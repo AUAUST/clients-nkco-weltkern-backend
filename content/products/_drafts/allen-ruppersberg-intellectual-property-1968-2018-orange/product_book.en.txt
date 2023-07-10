@@ -1,31 +1,3 @@
-Title: Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)
-
-----
-
-Multilinetitle: Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)'
@@ -40,14 +12,14 @@ author:
   id: 312
 description: '<p>Allen Ruppersberg: Intellectual Property 1968–2018 accompanies a major retrospective exhibition on one of conceptual art’s most inventive and acclaimed practitioners. Emerging in late-1960s Los Angeles, Ruppersberg was among that city’s first generation of conceptual artists to espouse a working method that privileges ideas and process over conventional aesthetic objects. Deploying posters, books, postcards and even a café and hotel, his projects have consistently had at their center a focus on the American vernacular—its music, popular imagery and ephemera—mining the nuances of culture through its unsung conventions. From his earliest works, the artist has also welcomed the involvement of the viewer as participant, inviting an immersive experience of his work through language, visual density, accumulated elements and ideas.</p>'
 details: |
-  - ISBN: 1935963163 / 978-1935963163
-  - Content: 352 pages
-  - Size: 218 × 312 mm
-  - Language: English
-  - Contributions by: Thomas Crow, Matthew Witkovsky, Aram Moshayedi, Olga Viso
-  - Publishing date: 2018
-  - Specs: Paperback
-  - Images: © WELTKERN® / Walker Art Center. All rights reserved.
+  ISBN: "1935963163 / 978-1935963163"
+  Content: "352 pages"
+  Size: "218 × 312 mm"
+  Language: "English"
+  Contributions by: "Thomas Crow, Matthew Witkovsky, Aram Moshayedi, Olga Viso"
+  Publishing date: "2018"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Walker Art Center. All rights reserved."
 gallery:
   - 
     url: >
@@ -69,4 +41,32 @@ tags: [ ]
 
 ----
 
-Uuid: IkZSrcuxyhbN2Wtq
+Multilinetitle: Allen Ruppersberg: Intellectual Property, 1968-2018 (Orange)
+
+----
+
+Uuid: BiqBuoCcrXVRWOHf
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

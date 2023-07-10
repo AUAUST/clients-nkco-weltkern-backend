@@ -1,31 +1,3 @@
-Title: A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow
-
-----
-
-Multilinetitle: A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: >
@@ -43,13 +15,13 @@ author:
   id: 105
 description: '<p><em>A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow</em> is a deck of cards created in collaboration with artist Jonathan Monk. In a play on the imprint’s focus on developing collectable objects, Monk has appropriated this InOtherWords publication to showcase a collection of his own: editions and multiples created by artists Martin Kippenberger and Alighiero Boetti. As an avid collector of multiples, Monk holds a special interest in the work of Martin Kippenberger. A controversial and innovative artist of the 1980s and 90s, Kippenberger is widely regarded as one of the most esteemed German artists of his generation. The faces of the playing cards show fragments of a composition of limited edition objects – ranging from small sculptures to ready-mades – collected and arranged by Monk.</p>'
 details: |
-  - ISBN: 0993223815 / 978-0993223815
-  - Content: 56 cards
-  - Size: 92 × 65 × 18.5 mm
-  - Author: Jonathan Monk
-  - Language: English
-  - Publishing date: 2015
-  - Images: © WELTKERN® /  InOtherWords. All rights reserved.
+  ISBN: "0993223815 / 978-0993223815"
+  Content: "56 cards"
+  Size: "92 × 65 × 18.5 mm"
+  Author: "Jonathan Monk"
+  Language: "English"
+  Publishing date: "2015"
+  Images: "© WELTKERN® / InOtherWords. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +31,32 @@ tags: [ ]
 
 ----
 
-Uuid: KByfTX2OJkkgFcZx
+Multilinetitle: A collection of nine Kippenberger editions, one Boetti watch, a cigarette and yellow
+
+----
+
+Uuid: AQ5UZJNXyVmUc6yW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

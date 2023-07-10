@@ -1,31 +1,3 @@
-Title: MAMCO Genève
-
-----
-
-Multilinetitle: MAMCO Genève
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: MAMCO Genève
@@ -37,23 +9,18 @@ weight: 1.3
 author:
   name: JRP|Editions
   id: 94
-description: |
-  <p>This book is the first compilation of the history of the MAMCO (Musée d’art moderne et contemporain, Geneva); it offers a diachronic path through the institution’s first 22 years of existence, from its foundation in 1994 up to 2016, and presents some one hundred exhibitions via illustrations, as well as a brief introductory text describing the characteristics and formats of the shows, and some of traces they have left in the collection. From Martin Kippenberger’s retrospective in 1997 to John M. Armleder’s extravagant “Amor vacui, horror vacui” show in 2007, by way of the exhibitions by Marcia Hafif, Franz Erhard Walther, Tatiana Trouvé, and Steven Parrino, the reader can discover hundreds of images published here for the first time.<br />
-  <br />
-  Furthermore, an article by architect Erwin Oberwiler, who supervised the renovation of the disused factory housing the museum, provides details about the building decisions and aesthetic choices that have contributed to the institution’s identity.<br />
-  <br />
-  Finally, the book also offers an initial reading of this Genevan museum’s collection through the grouping of spaces rather than works, once again underscoring the uniqueness of MAMCO’s outlook.</p>
+description: '<p>This book is the first compilation of the history of the MAMCO (Musée d’art moderne et contemporain, Geneva); it offers a diachronic path through the institution’s first 22 years of existence, from its foundation in 1994 up to 2016, and presents some one hundred exhibitions via illustrations, as well as a brief introductory text describing the characteristics and formats of the shows, and some of traces they have left in the collection. From Martin Kippenberger’s retrospective in 1997 to John M. Armleder’s extravagant “Amor vacui, horror vacui” show in 2007, by way of the exhibitions by Marcia Hafif, Franz Erhard Walther, Tatiana Trouvé, and Steven Parrino, the reader can discover hundreds of images published here for the first time.<br /> <br /> Furthermore, an article by architect Erwin Oberwiler, who supervised the renovation of the disused factory housing the museum, provides details about the building decisions and aesthetic choices that have contributed to the institution’s identity.<br /> <br /> Finally, the book also offers an initial reading of this Genevan museum’s collection through the grouping of spaces rather than works, once again underscoring the uniqueness of MAMCO’s outlook.</p>'
 details: |
-  - ISBN: 3037644966 / 978-3037644966
-  - Content: 352 pages
-  - Size: 183 × 35 × 243 mm
-  - Authors: Erwin Oberwiler, Lionel Bovier
-  - Edited by: David Lemaire, Lionel Bovier
-  - Design: Gavillet & Cie
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © WELTKERN® / JRP|Editions. All rights reserved.
+  ISBN: "3037644966 / 978-3037644966"
+  Content: "352 pages"
+  Size: "183 × 35 × 243 mm"
+  Authors: "Erwin Oberwiler, Lionel Bovier"
+  Edited by: "David Lemaire, Lionel Bovier"
+  Design: "Gavillet & Cie"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / JRP|Editions. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,4 +30,32 @@ tags: [ ]
 
 ----
 
-Uuid: DnAIBi4yQ95svYG2
+Multilinetitle: MAMCO Genève
+
+----
+
+Uuid: GYdTbSv84biCuEyo
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

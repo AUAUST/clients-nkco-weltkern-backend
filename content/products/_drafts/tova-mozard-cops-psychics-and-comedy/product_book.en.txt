@@ -1,34 +1,3 @@
-Title: Tova Mozard|Cops, Psychics And Comedy
-
-----
-
-Multilinetitle:
-
-Tova Mozard
-Cops, Psychics And Comedy
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tova Mozard <br>Cops, Psychics And Comedy'
@@ -42,17 +11,17 @@ author:
   id: 393
 description: '<p>Tova Mozard’s work is often characterized by an interest in how people act and the games they play in group settings. When visiting Los Angeles for the first time, she experienced that type of improvisation right in front of her and realized she had found her subject matter. Cops, psychics and comedians are involved in roleplay one way or the other but Tova Mozard goes deeper, to find uncharted territories within these stereotypes, seen and mirrored within and beyond ourselves using Los Angeles as its prismatic stage.</p>'
 details: |
-  - ISBN: 9198606539 / 978-9198606539
-  - Content: 84 pages
-  - Size: 230 × 280 mm
-  - Authors: Tova Mozard
-  - Texts by: Annika Elisabeth von Hausswolff
-  - Edited by: Art And Theory Publishing
-  - Design: Waters Löwenhielm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Art & Theory Publishing. All rights reserved.
+  ISBN: "9198606539 / 978-9198606539"
+  Content: "84 pages"
+  Size: "230 × 280 mm"
+  Authors: "Tova Mozard"
+  Texts by: "Annika Elisabeth von Hausswolff"
+  Edited by: "Art And Theory Publishing"
+  Design: "Waters Löwenhielm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Art & Theory Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: 8YZht0E9QOJ6QtdY
+Multilinetitle:
+
+Tova Mozard
+Cops, Psychics And Comedy
+
+----
+
+Uuid: kvt6jdGrIpbeX1Ot
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

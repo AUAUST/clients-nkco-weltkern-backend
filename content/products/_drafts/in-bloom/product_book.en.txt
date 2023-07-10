@@ -1,31 +1,3 @@
-Title: In Bloom
-
-----
-
-Multilinetitle: In Bloom
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: In Bloom
@@ -37,21 +9,18 @@ weight: 0.9
 author:
   name: Self Publish, Be Happy
   id: 146
-description: |
-  <p>French artist Jean-Vincent Simonet’s practice pushes the poetics of chaos to the very limits, characterised by a penchant for sheer entropy and excess. In Bloom materialised after Simonet first visited Japan in September 2016. Nights spent in Tokyo and Osaka were an intoxicating assault on the senses for him, with sexual encounters, drug-fuelled parties and times spent scaling the city after dark merging into one unfolding mass of visual information before his eyes. The cities were like serpentine, living entities that appeared to metamorphose in the night time. For Simonet, Japan has always had an aquatic, almost mythical status. His images – of which all are original analogue photographs – are transformed through experimental manipulations; metaphors for the slow process of feeling ingested by these fluid, mutating organisms.<br />
-  <br />
-  Printing his images onto plastic paper and sculptural resin so the ink never quite dries, Simonet uses water and chemicals, long exposure and torchlight to transform the surface of his prints, abstracting and blurring them as if the scenes are melting away. Part travel diary and part love letter to the cities of Tokyo and Osaka, <em>In Bloom</em> is a searing, hyper-visual journey into the heart of Japanese underground culture and an ode to the overwhelming experience of seeing a place with the eyes of a stranger for the first time. The book reads as a frenetic dream sequence, as if the countless nights he spent in the belly of the city have folded into a single never-ending one.</p>
+description: '<p>French artist Jean-Vincent Simonet’s practice pushes the poetics of chaos to the very limits, characterised by a penchant for sheer entropy and excess. In Bloom materialised after Simonet first visited Japan in September 2016. Nights spent in Tokyo and Osaka were an intoxicating assault on the senses for him, with sexual encounters, drug-fuelled parties and times spent scaling the city after dark merging into one unfolding mass of visual information before his eyes. The cities were like serpentine, living entities that appeared to metamorphose in the night time. For Simonet, Japan has always had an aquatic, almost mythical status. His images – of which all are original analogue photographs – are transformed through experimental manipulations; metaphors for the slow process of feeling ingested by these fluid, mutating organisms.<br /> <br /> Printing his images onto plastic paper and sculptural resin so the ink never quite dries, Simonet uses water and chemicals, long exposure and torchlight to transform the surface of his prints, abstracting and blurring them as if the scenes are melting away. Part travel diary and part love letter to the cities of Tokyo and Osaka, <em>In Bloom</em> is a searing, hyper-visual journey into the heart of Japanese underground culture and an ode to the overwhelming experience of seeing a place with the eyes of a stranger for the first time. The book reads as a frenetic dream sequence, as if the countless nights he spent in the belly of the city have folded into a single never-ending one.</p>'
 details: |
-  - ISBN: 1999814452 / 978-1999814458
-  - Content: 148 pages
-  - Size: 240 × 10 × 320 mm
-  - Author: Jean-Vincent Simonet
-  - Edited by: Antonine Scali Ringwald, Loucia Carlier, Valentine Étiévant, Grégoria Lagourgue, Katia Porro
-  - Design: Studio DGC
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © SPBH. All rights reserved.
+  ISBN: "1999814452 / 978-1999814458"
+  Content: "148 pages"
+  Size: "240 × 10 × 320 mm"
+  Author: "Jean-Vincent Simonet"
+  Edited by: "Antonine Scali Ringwald, Loucia Carlier, Valentine Étiévant, Grégoria Lagourgue, Katia Porro"
+  Design: "Studio DGC"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© SPBH. All rights reserved."
 gallery:
   - 
     url: >
@@ -85,4 +54,32 @@ tags: [ ]
 
 ----
 
-Uuid: NVia0yLEAigXF48D
+Multilinetitle: In Bloom
+
+----
+
+Uuid: 3iTelOnGoEF8mM0u
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

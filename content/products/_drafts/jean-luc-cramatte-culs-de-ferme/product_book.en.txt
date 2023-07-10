@@ -1,34 +1,3 @@
-Title: Jean-Luc Cramatte|Culs de ferme
-
-----
-
-Multilinetitle:
-
-Jean-Luc Cramatte
-Culs de ferme
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Jean-Luc Cramatte <br>Culs de ferme'
@@ -40,22 +9,17 @@ weight: 1.6
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>In Culs de ferme Jean-Luc Cramatte seeks to portray various forms of accumulation in a globalized landscape that is often touted as clean and orderly. His ambitious, nonconformist projects are of Promethean proportions. Well acquainted with social fault lines, Cramatte may be deemed a photographer of upheavals, one good example of which is his series on Swiss post offices (Poste mon Amour, 2001-2008).<br />
-  <br />
-  An obsessive collector of pictures, including both his own photographs and found pictures, Cramatte has been compiling a photographic inventory for twenty years now. He likes thinking and working serially, securing all sorts of evidence to stop the growing gaps in our collective memory. His examinations of the visible world, invariably based on idiosyncratic concepts, steer our gaze towards things inconspicuous and overlooked. His photographic inventories shed a humorous and critical light on the “normal” present-day world, thereby producing a telling ethnography of quotidian life. He sometimes takes the concept of the catalog to its limits ultimately reinventing reality, even while adhering to a strictly documentary approach without eschewing the unsightly, the bleak, the monotonous. His work culminates in a poetry of the ordinary.<br />
-  <br />
-  From the first hints of degradation to outright overgrown ruins, his pictures seize the status quo. Unvarnished and free of nostalgia, though never accusing or complaining, they offer an insightful look at the state of decline. Above and beyond his ethnological and sociological approach, Cramatte seeks above all to capture situations that remind him of real or literary events.</p>
+description: '<p>In Culs de ferme Jean-Luc Cramatte seeks to portray various forms of accumulation in a globalized landscape that is often touted as clean and orderly. His ambitious, nonconformist projects are of Promethean proportions. Well acquainted with social fault lines, Cramatte may be deemed a photographer of upheavals, one good example of which is his series on Swiss post offices (Poste mon Amour, 2001-2008).<br /> <br /> An obsessive collector of pictures, including both his own photographs and found pictures, Cramatte has been compiling a photographic inventory for twenty years now. He likes thinking and working serially, securing all sorts of evidence to stop the growing gaps in our collective memory. His examinations of the visible world, invariably based on idiosyncratic concepts, steer our gaze towards things inconspicuous and overlooked. His photographic inventories shed a humorous and critical light on the “normal” present-day world, thereby producing a telling ethnography of quotidian life. He sometimes takes the concept of the catalog to its limits ultimately reinventing reality, even while adhering to a strictly documentary approach without eschewing the unsightly, the bleak, the monotonous. His work culminates in a poetry of the ordinary.<br /> <br /> From the first hints of degradation to outright overgrown ruins, his pictures seize the status quo. Unvarnished and free of nostalgia, though never accusing or complaining, they offer an insightful look at the state of decline. Above and beyond his ethnological and sociological approach, Cramatte seeks above all to capture situations that remind him of real or literary events.</p>'
 details: |
-  - ISBN: 3906803180 / 978-3906803180
-  - Content: 288 pages
-  - Size: 235 × 25 × 305 mm
-  - Author: Jean-Luc Cramatte
-  - Design: Studio–Rubic
-  - Language: English / French
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803180 / 978-3906803180"
+  Content: "288 pages"
+  Size: "235 × 25 × 305 mm"
+  Author: "Jean-Luc Cramatte"
+  Design: "Studio–Rubic"
+  Language: "English / French"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -85,4 +49,35 @@ tags: [ ]
 
 ----
 
-Uuid: tlijTIVN0bCm6Oh3
+Multilinetitle:
+
+Jean-Luc Cramatte
+Culs de ferme
+
+----
+
+Uuid: UMl3JJCo8lf0exiX
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

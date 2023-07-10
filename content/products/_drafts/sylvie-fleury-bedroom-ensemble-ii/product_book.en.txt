@@ -1,34 +1,3 @@
-Title: Sylvie Fleury|Bedroom Ensemble II
-
-----
-
-Multilinetitle:
-
-Sylvie Fleury
-Bedroom Ensemble II
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Sylvie Fleury <br>Bedroom Ensemble II'
@@ -40,18 +9,16 @@ weight: 0.2
 author:
   name: MAMCO Genève
   id: 323
-description: |
-  <p>A complete study of Sylvie Fleury&#8217;s installation, a tribute to Claes Oldenburg.<br />
-  Sylvie Fleury&#8217;s installation Bedroom Ensemble II is composed of domestic furniture where all the pieces have been covered with fake fur, a material that recurs in the artist&#8217;s work. But above all, it pays homage to an artist who also elevated the prosaic nature of derisory objects to the level of monumental sculpture: in 1963, Claes Oldenburg reconstituted, under the same title, bedrooms whose perspectives he distorted to accentuate the effect of depth and derealize them. This book is the first comprehensive study of this installation, but also attempts to situate it in relation to the other works in the MAMCO&#8217;s collection.</p>
+description: '<p>A complete study of Sylvie Fleury&#8217;s installation, a tribute to Claes Oldenburg.<br /> Sylvie Fleury&#8217;s installation Bedroom Ensemble II is composed of domestic furniture where all the pieces have been covered with fake fur, a material that recurs in the artist&#8217;s work. But above all, it pays homage to an artist who also elevated the prosaic nature of derisory objects to the level of monumental sculpture: in 1963, Claes Oldenburg reconstituted, under the same title, bedrooms whose perspectives he distorted to accentuate the effect of depth and derealize them. This book is the first comprehensive study of this installation, but also attempts to situate it in relation to the other works in the MAMCO&#8217;s collection.</p>'
 details: |
-  - ISBN: 2940656066 / 978-2940656066
-  - Content: 104 pages
-  - Size: 160 × 230 mm
-  - Language: French
-  - Texts by: Lionel Bovier, Ingrid Luquet-Gad, Thierry Davila.
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / MAMCO. All rights reserved.
+  ISBN: "2940656066 / 978-2940656066"
+  Content: "104 pages"
+  Size: "160 × 230 mm"
+  Language: "French"
+  Texts by: "Lionel Bovier, Ingrid Luquet-Gad, Thierry Davila."
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / MAMCO. All rights reserved."
 gallery:
   - 
     url: >
@@ -73,4 +40,35 @@ tags: [ ]
 
 ----
 
-Uuid: 8N9cLqu2xnbx977D
+Multilinetitle:
+
+Sylvie Fleury
+Bedroom Ensemble II
+
+----
+
+Uuid: 56lZ447W49mCp0cW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

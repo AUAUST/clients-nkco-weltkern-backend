@@ -1,60 +1,24 @@
-Title: Bruno Munari|Design as Art
-
-----
-
-Multilinetitle:
-
-Bruno Munari
-Design as Art
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Bruno Munari <br>Design as Art'
 slug: bruno-munari-design-as-art
 id: 6643
-isbn: |
-  0141035811 / 978-0141035819
+isbn: '0141035811 / 978-0141035819 '
 price: 18.9
 weight: 0.4
 author:
   name: Penguin Random House UK
   id: 102
-description: |
-  <p>One of the last surviving members of the futurist generation, Bruno Munari&#8217;s Design as Art is an illustrated journey into the artistic possibilities of modern design translated by Patrick Creagh published as part of the &#8216;Penguin on Design&#8217; series in Penguin Modern Classics. &#8216;The designer of today re-establishes the long-lost contact between art and the public, between living people and art as a living thing&#8217; Bruno Munari was among the most inspirational designers of all time, described by Picasso as &#8216;the new Leonardo&#8217;. Munari insisted that design be beautiful, functional and accessible, and this enlightening and highly entertaining book sets out his ideas about visual, graphic and industrial design and the role it plays in the objects we use everyday.<br />
-  <br />
-  Lamps, road signs, typography, posters, children&#8217;s books, advertising, cars and chairs &#8211; these are just some of the subjects to which he turns his illuminating gaze. How do we see the world around us? The Penguin on Design series includes the works of creative thinkers whose writings on art, design and the media have changed our vision forever. Bruno Munari (1907-1998), born in Milan, was the enfant terrible of Italian art and design for most of the twentieth century, contributing to many fields of both visual (paint, sculpture, film, industrial design, graphics) and non-visual arts (literature, poetry). He was twice awarded the Compasso d&#8217;Oro design prize for excellence in his field. If you enjoyed Design as Art, you might like John Berger&#8217;s Ways of Seeing, also available in Penguin Modern Classics. &#8216;<em>One of the most influential designers of the twentieth century&#8230; Munari has encouraged people to go beyond formal conventions and stereotypes by showing them how to widen their perceptual awareness</em>&#8216;International Herald Tribune.</p>
+description: '<p>One of the last surviving members of the futurist generation, Bruno Munari&#8217;s Design as Art is an illustrated journey into the artistic possibilities of modern design translated by Patrick Creagh published as part of the &#8216;Penguin on Design&#8217; series in Penguin Modern Classics. &#8216;The designer of today re-establishes the long-lost contact between art and the public, between living people and art as a living thing&#8217; Bruno Munari was among the most inspirational designers of all time, described by Picasso as &#8216;the new Leonardo&#8217;. Munari insisted that design be beautiful, functional and accessible, and this enlightening and highly entertaining book sets out his ideas about visual, graphic and industrial design and the role it plays in the objects we use everyday.<br /> <br /> Lamps, road signs, typography, posters, children&#8217;s books, advertising, cars and chairs &#8211; these are just some of the subjects to which he turns his illuminating gaze. How do we see the world around us? The Penguin on Design series includes the works of creative thinkers whose writings on art, design and the media have changed our vision forever. Bruno Munari (1907-1998), born in Milan, was the enfant terrible of Italian art and design for most of the twentieth century, contributing to many fields of both visual (paint, sculpture, film, industrial design, graphics) and non-visual arts (literature, poetry). He was twice awarded the Compasso d&#8217;Oro design prize for excellence in his field. If you enjoyed Design as Art, you might like John Berger&#8217;s Ways of Seeing, also available in Penguin Modern Classics. &#8216;<em>One of the most influential designers of the twentieth century&#8230; Munari has encouraged people to go beyond formal conventions and stereotypes by showing them how to widen their perceptual awareness</em>&#8216;International Herald Tribune.</p>'
 details: |
-  - ISBN: 0141035811 / 978-0141035819
-  
-  - Content: 224 pages
-  - Size: 111 × 16 × 181 mm
-  - Author: Bruno Munari
-  - Language: English
-  - Publishing date: 2008
-  - Specs: Softcover
-  - Images: © Penguin Random House UK. All rights reserved.
+  ISBN: "0141035811 / 978-0141035819 "
+  Content: "224 pages"
+  Size: "111 × 16 ×? 181 mm"
+  Author: "Bruno Munari"
+  Language: "English"
+  Publishing date: "2008"
+  Specs: "Softcover"
+  Images: "© Penguin Random House UK. All rights reserved."
 gallery:
   - 
     url: >
@@ -68,4 +32,35 @@ tags: [ ]
 
 ----
 
-Uuid: DbKsPMqrjx3E77CQ
+Multilinetitle:
+
+Bruno Munari
+Design as Art
+
+----
+
+Uuid: RmpKdOAsW9ajjmKY
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

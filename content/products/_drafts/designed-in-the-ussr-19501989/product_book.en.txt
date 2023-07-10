@@ -1,34 +1,3 @@
-Title: Designed in the USSR|1950–1989
-
-----
-
-Multilinetitle:
-
-Designed in the USSR
-1950–1989
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Designed in the USSR <br>1950–1989'
@@ -42,14 +11,14 @@ author:
   id: 92
 description: '<p>This captivating survey of Soviet design from 1950 to 1989 features more than 350 items from the Moscow Design Museum&#8217;s unique collection. From children&#8217;s toys, homewares, and fashion to posters, electronics, and space-race ephemera, each object reveals something of life in a planned economy during a fascinating time in Russia&#8217;s history. Organized into three chapters &#8211; Citizen, State, and World &#8211; the book is a micro-to-macro tour of the functional, kitsch, politicized, and often avant-garde designs from this largely undocumented period.</p>'
 details: |
-  - ISBN: 0714875570 / 978-0714875576
-  - Content: 240 pages
-  - Size: 213 × 32 × 286 mm
-  - Author: The Moscow Design Museum
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © Phaidon Press. All rights reserved.
+  ISBN: "0714875570 / 978-0714875576"
+  Content: "240 pages"
+  Size: "213 × 32 × 286 mm"
+  Author: "The Moscow Design Museum"
+  Language: "English "
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: g2HitSEEdb98O800
+Multilinetitle:
+
+Designed in the USSR
+1950–1989
+
+----
+
+Uuid: s5y1GQaAF0mxtX3u
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

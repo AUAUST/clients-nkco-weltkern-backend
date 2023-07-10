@@ -1,62 +1,26 @@
-Title: Richard Kägi|Kägi kocht
-
-----
-
-Multilinetitle:
-
-Richard Kägi
-Kägi kocht
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Richard Kägi <br>Kägi kocht'
 slug: >
   richard-kagi-kagi-kocht-rezepte-fur-mehr-geschmack-mit-geschichten-und-kuchentricks-des-foodscouts
 id: 6663
-isbn: |
-  3039020379 / 978-3039020379
+isbn: '3039020379 / 978-3039020379 '
 price: 48.9
 weight: 1.5
 author:
   name: AT Verlag
   id: 145
-description: |
-  <p>This kitchen handbook will make anyone a confident cook and host: from shopping to entertaining guests. Richard Kägi presents classics that always go down well, Caesar salad, the perfect steak, sugo pomodoro and rösti, but also surprising combinations surprising combinations such as burrata with orange salad, homemade vanilla essence, smoked tomatoes and unusual desserts. Kägi knows the tricks of the star chefs and their special spices, sauces and marinades that make the big difference.<br />
-  <br />
-  The most important ingredients? The most important kitchen utensils? Help with the right choice of wine? Rules for successful invitations and the art of being a good host? Kägi knows them all. In between, he tells in entertaining episodes about his experiences as a food scout about the never-ending search for the best salumi, about vanilla drama in Madagascar and sushi happiness in Tokyo.</p>
+description: '<p>This kitchen handbook will make anyone a confident cook and host: from shopping to entertaining guests. Richard Kägi presents classics that always go down well, Caesar salad, the perfect steak, sugo pomodoro and rösti, but also surprising combinations surprising combinations such as burrata with orange salad, homemade vanilla essence, smoked tomatoes and unusual desserts. Kägi knows the tricks of the star chefs and their special spices, sauces and marinades that make the big difference.<br /> <br /> The most important ingredients? The most important kitchen utensils? Help with the right choice of wine? Rules for successful invitations and the art of being a good host? Kägi knows them all. In between, he tells in entertaining episodes about his experiences as a food scout about the never-ending search for the best salumi, about vanilla drama in Madagascar and sushi happiness in Tokyo.</p>'
 details: |
-  - ISBN: 3039020379 / 978-3039020379
-  
-  - Content: 336 pages
-  - Size: 215 × 35 × 302 mm
-  - Author: Richard Kägi
-  - Font in use: TWK Lausanne
-  - Language: German
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / AT Verlag. All rights reserved.
+  ISBN: "3039020379 / 978-3039020379 "
+  Content: "336 pages"
+  Size: "215 × 35 ×? 302 mm"
+  Author: "Richard Kägi"
+  Font in use: "TWK Lausanne"
+  Language: "German"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / AT Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -102,4 +66,35 @@ tags: [ ]
 
 ----
 
-Uuid: jiO4wS7WI7KCa3RY
+Multilinetitle:
+
+Richard Kägi
+Kägi kocht
+
+----
+
+Uuid: I3z4LIFGGngY1ym5
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

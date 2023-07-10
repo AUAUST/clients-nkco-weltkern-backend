@@ -1,37 +1,6 @@
-Title: Anna Stüdeli|PRIMAL
-
-----
-
-Multilinetitle:
-
-Anna Stüdeli
-PRIMAL
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
-title: 'Anna Stüdeli <br>PRIMAL'
+title: 'Anna Stüdeli <br>PRIMAL'
 slug: 'anna-stu%cc%88deli-primal'
 id: 9979
 isbn: 3907236154 / 978-3907236154
@@ -40,23 +9,18 @@ weight: 1.2
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p><em>PRIMAL</em> is a series of over 1200 close-ups of advertising posters in Zürich photographed by Anna Stüdeli. Roughly 120 of them have been selected for this first glimpse into the artist’s copious archive. In <em>PRIMAL</em>, Stüdeli reflects on the surfaces of Western advertising aesthetics through an exploration of the ways in which images are produced, reproduced and distributed. In rehashing the same visual tropes over and over again, the advertising industry reveals the dumbing down of our consumer society, a society steeped in clichés, sexual stereotypes, the objectification of the (usually female) body and the commodified sexualization of food. The artist’s macro shots expose details that undercut the conventions of commercial enticement and generate an interplay between the deconstruction and redefinition of normative patriarchal concepts.<br />
-  <br />
-  On closer scrutiny, however, the hyperrealism of the original posters gives rise to an unsuspected physicality —and an associated morbidity. In a manner similar to the empty claims of marketing, the high-resolution details seem to anticipate and document the incipient decay of the bodies portrayed. It’s as though we were watching the gradual demise of these bodies in the pixel depths and grid depths of their wrinkles, folds and bulges. Disgust and desire conflate in this field of tension.<br />
-  <br />
-  According to the artist, PRIMAL is a “tribute to desire” that seeks to articulate a holistic and openended conception of desire—stripped of classifications and hierarchies. This series thus becomes a photographic appropriation of advertising posters as an act of re-framing, over which looms a nagging question: What role should photography play now, amid the seemingly endless glut of images in the wake of everincreasing digitization?</p>
+description: '<p><em>PRIMAL</em> is a series of over 1200 close-ups of advertising posters in Zürich photographed by Anna Stüdeli. Roughly 120 of them have been selected for this first glimpse into the artist’s copious archive. In <em>PRIMAL</em>, Stüdeli reflects on the surfaces of Western advertising aesthetics through an exploration of the ways in which images are produced, reproduced and distributed. In rehashing the same visual tropes over and over again, the advertising industry reveals the dumbing down of our consumer society, a society steeped in clichés, sexual stereotypes, the objectification of the (usually female) body and the commodified sexualization of food. The artist’s macro shots expose details that undercut the conventions of commercial enticement and generate an interplay between the deconstruction and redefinition of normative patriarchal concepts.<br /> <br /> On closer scrutiny, however, the hyperrealism of the original posters gives rise to an unsuspected physicality —and an associated morbidity. In a manner similar to the empty claims of marketing, the high-resolution details seem to anticipate and document the incipient decay of the bodies portrayed. It’s as though we were watching the gradual demise of these bodies in the pixel depths and grid depths of their wrinkles, folds and bulges. Disgust and desire conflate in this field of tension.<br /> <br /> According to the artist, PRIMAL is a “tribute to desire” that seeks to articulate a holistic and openended conception of desire—stripped of classifications and hierarchies. This series thus becomes a photographic appropriation of advertising posters as an act of re-framing, over which looms a nagging question: What role should photography play now, amid the seemingly endless glut of images in the wake of everincreasing digitization?</p>'
 details: |
-  - ISBN: 3907236154 / 978-3907236154
-  - Content: 156 pages
-  - Size: 250 × 358 mm
-  - Author: Anna Stüdeli
-  - Texts by: Urs Stahel
-  - Design: Marietta Eugster
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236154 / 978-3907236154"
+  Content: "156 pages"
+  Size: "250 × 358 mm"
+  Author: "Anna Stüdeli"
+  Texts by: "Urs Stahel"
+  Design: "Marietta Eugster"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -90,4 +54,35 @@ tags: [ ]
 
 ----
 
-Uuid: rG4D28HATGYju4Q8
+Multilinetitle:
+
+Anna Stüdeli
+PRIMAL
+
+----
+
+Uuid: OiNbmkVRsDbLXx8z
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

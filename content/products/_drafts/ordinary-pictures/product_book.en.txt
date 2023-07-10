@@ -1,31 +1,3 @@
-Title: Ordinary Pictures
-
-----
-
-Multilinetitle: Ordinary Pictures
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Ordinary Pictures
@@ -37,18 +9,16 @@ weight: 1.2
 author:
   name: Walker Art Centre
   id: 312
-description: |
-  <p>Featuring works by some 30 artists, Ordinary Pictures surveys a range of conceptual image-based practices since the 1960s through the lens of the stock photograph, an under-researched yet pervasive aspect of our visual culture. Despite its apparent throwaway status, the stock image comprises the primary commodity of a $1 billion global industry with far-reaching effects in the marketplace and the public sphere.</p>
-  <p>Focusing on the industry’s distinctive modes of production, distribution, and presentation, Ordinary Pictures foregrounds the work of artists who have done much to probe, mimic, and critique this overlooked aspect of our visual environment. Spanning generations, movements, and artistic strategies—from early Pop work, avant-garde film, Pictures Generation appropriation, institutional critique, and a range of other materialist, picture-based activities—the exhibition also considers contemporary art’s own complicit function as an ever-expanding industrial image economy.</p>
+description: '<p>Featuring works by some 30 artists, Ordinary Pictures surveys a range of conceptual image-based practices since the 1960s through the lens of the stock photograph, an under-researched yet pervasive aspect of our visual culture. Despite its apparent throwaway status, the stock image comprises the primary commodity of a $1 billion global industry with far-reaching effects in the marketplace and the public sphere.</p> <p>Focusing on the industry’s distinctive modes of production, distribution, and presentation, Ordinary Pictures foregrounds the work of artists who have done much to probe, mimic, and critique this overlooked aspect of our visual environment. Spanning generations, movements, and artistic strategies—from early Pop work, avant-garde film, Pictures Generation appropriation, institutional critique, and a range of other materialist, picture-based activities—the exhibition also considers contemporary art’s own complicit function as an ever-expanding industrial image economy.</p>'
 details: |
-  - ISBN: 1935963134 / 978-1935963134
-  - Content: 208 pages
-  - Size: 203 × 304 mm
-  - Language: English
-  - Texts by: Eric Crosby, Thomas Beard, Lane Relyea, Eva Respini
-  - Publication: 2016
-  - Specs: Spiral bound
-  - Images: © WELTKERN® / Walker Art Center. All rights reserved.
+  ISBN: "1935963134 / 978-1935963134"
+  Content: "208 pages"
+  Size: "203 × 304 mm"
+  Language: "English"
+  Texts by: "Eric Crosby, Thomas Beard, Lane Relyea, Eva Respini"
+  Publication: "2016"
+  Specs: "Spiral bound"
+  Images: "© WELTKERN® / Walker Art Center. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: 1iyPmtARzS6sJGC3
+Multilinetitle: Ordinary Pictures
+
+----
+
+Uuid: 8hHB5bFUxrvdy4mZ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

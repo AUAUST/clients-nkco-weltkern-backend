@@ -1,31 +1,3 @@
-Title: Silences éloquents. Écrits d’art et d’architecture.
-
-----
-
-Multilinetitle: Silences éloquents. Écrits d’art et d’architecture.
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: >
@@ -42,15 +14,15 @@ author:
   id: 87
 description: '<p>It is a form of spiritual revolt that Carlos Martí Arís highlights through a transversal analysis of different artistic expressions that combine to enrich his reflection. It is an invitation to return to the great eternal themes, to the acceptance of solitude and discretion that accompanies this positioning on the fringes of fashion, to advance the work in depth rather than superficially. Twenty years later, Carlos Martí Arís’ lesson is contemporary and of fundamental importance for our discipline today. Translation from Spanish to French.</p>'
 details: |
-  - ISBN: 2955701089 / 978-2955701089
-  - Content: 192 pages
-  - Size: 170 × 15 × 240 mm
-  - Author: Carlo Martí Arís
-  - Design: Spassky Fischer
-  - Language: French
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Cosa Mentale. All rights reserved.
+  ISBN: "2955701089 / 978-2955701089"
+  Content: "192 pages"
+  Size: "170 × 15 × 240 mm"
+  Author: "Carlo Martí Arís"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -76,4 +48,32 @@ tags: [ ]
 
 ----
 
-Uuid: aV0Wy2MqUgJlNWWt
+Multilinetitle: Silences éloquents. Écrits d’art et d’architecture.
+
+----
+
+Uuid: a1DezFLVi4xbhci2
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

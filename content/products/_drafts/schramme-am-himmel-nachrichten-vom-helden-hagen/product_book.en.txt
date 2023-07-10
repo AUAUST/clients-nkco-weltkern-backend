@@ -1,34 +1,3 @@
-Title: Schramme am Himmel|Nachrichten vom Helden Hagen
-
-----
-
-Multilinetitle:
-
-Schramme am Himmel
-Nachrichten vom Helden Hagen
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Schramme am Himmel <br>Nachrichten vom Helden Hagen'
@@ -41,21 +10,18 @@ weight: 0.2
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>For several years, Jonathan Meese and Alexander Kluge were preoccupied with Hagen von Tronje, the fabled character from The Song of the Nibelungs. They were both mesmerized by this mysterious figure, whom Jonathan Meese renamed ”Hagen von Troja“ (Hagen of Troy) one day. The poetic excavations of the Hagen principle stretch from antiquity to Silicon Valley and from Middle High German folktales to Jan Philipp Reemtsma’s book Warum Hagen Jung­ Ortlieb erschlug: Unzeitgemäßes über Krieg und Tod by way of Fritz Lang’s film recordings.<br />
-  <br />
-  Schramme am Himmel is an artistic collaboration between Alexander Kluge and Jonathan Meese, in which texts and images provide mutual inspiration and drive each other on.</p>
+description: '<p>For several years, Jonathan Meese and Alexander Kluge were preoccupied with Hagen von Tronje, the fabled character from The Song of the Nibelungs. They were both mesmerized by this mysterious figure, whom Jonathan Meese renamed ”Hagen von Troja“ (Hagen of Troy) one day. The poetic excavations of the Hagen principle stretch from antiquity to Silicon Valley and from Middle High German folktales to Jan Philipp Reemtsma’s book Warum Hagen Jung­ Ortlieb erschlug: Unzeitgemäßes über Krieg und Tod by way of Fritz Lang’s film recordings.<br /> <br /> Schramme am Himmel is an artistic collaboration between Alexander Kluge and Jonathan Meese, in which texts and images provide mutual inspiration and drive each other on.</p>'
 details: |
-  - ISBN: 3959055641 / 978-3959055642
-  - Content: 344 pages
-  - Size: 95 × 145 mm
-  - Authors: Jonathan Meese, Alexander Kluge
-  - Edited by: Spector Books
-  - Design: Wolfgang Schwärzler
-  - Language: German
-  - Publishing date: 2022
-  - Specs: Thread-sewn hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959055641 / 978-3959055642"
+  Content: "344 pages"
+  Size: "95 × 145 mm"
+  Authors: "Jonathan Meese, Alexander Kluge"
+  Edited by: "Spector Books"
+  Design: "Wolfgang Schwärzler"
+  Language: "German"
+  Publishing date: "2022"
+  Specs: "Thread-sewn hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: adYnxwHAQYPNAMF6
+Multilinetitle:
+
+Schramme am Himmel
+Nachrichten vom Helden Hagen
+
+----
+
+Uuid: tVzicAjmTUNvRo4K
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Christof Nüssli|googly eyes
-
-----
-
-Multilinetitle:
-
-Christof Nüssli
-googly eyes
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Christof Nüssli <br>googly eyes'
@@ -40,26 +9,16 @@ weight: 0.2
 author:
   name: Cpress
   id: 327
-description: |
-  <p>The book in question, Christof Nüssli’s googly eyes, might be the strangest look-book, full-bleed, glossy-paged publication we’ve ever had the pleasure of casually flipping through (or: peruse) to date. With even a passing glance, we are confronted with a sort of irony and indulgence that seems almost abject. What am I looking at? And why?<br />
-  The short answer: it’s breakfast. Or brunch, if you prefer.</p>
-  <p>The notion of the Flâneur emerged in the late 19th and early 20th centuries – or at least a critical discourse around a Modern way of looking. At least since Walter Benjamin, the trope of the Flâneur has been used as a vehicle for the examination of the conditions of Modernity – urban life, alienation, class tensions, etc.</p>
-  <p>The Flâneur – a passive stroller, the inquisitive wanderer, observing the follies of the world. Detached and directionless.<br />
-  Sounds nice. But also vaguely familiar. Right?</p>
-  <p>Today, 2019, we simply glance down towards our device provides us all the ‘passive strolling’ we desire. The catch is, that in the age of Facebook data and Cambridge Analytics and the slow realization that everything we look at is actually a direct result of any number of algorithms processing the data of what we were already looking at to begin with, any semblance of passive observance is thereby rendered faulty.</p>
-  <p>googly eyes serves up a psychedelic Modernist breakfast – stir-frying an upsetting concoction of cliché, diner-food stock photography together with snippets of text from the likes of John Berger, Hunter S. Thompson, Jack Kerouac and even the Beastie Boys.</p>
-  <p>Is it just a coincidence that we start our day with eggs? Or is it that we subconsciously recognize the Genesis-moment an egg represents that makes them such perfect way to start the day? How do you like your eggs? Is it the illusion of choice that makes an egg so appealing? Why is a single picture of an egg the single most liked image on Instagram to date?</p>
-  <p>I will not pretend to have any real answers for these hyperbolic questions. But I would like to suggest, as I think googly eyes does, that we are all in search of a way of looking that encompasses our (rather jaded) understanding of the mechanisms of capital and its effects on the visual experience of our lives. To be naïve is a bit passé, to say the least. But to enjoy the nuances of the visual detritus we are engulfed by daily is perhaps the highest state of enlightenment possible.</p>
-  <p>Scott Cameron-Weaver</p>
+description: '<p>The book in question, Christof Nüssli’s googly eyes, might be the strangest look-book, full-bleed, glossy-paged publication we’ve ever had the pleasure of casually flipping through (or: peruse) to date. With even a passing glance, we are confronted with a sort of irony and indulgence that seems almost abject. What am I looking at? And why?<br /> The short answer: it’s breakfast. Or brunch, if you prefer.</p> <p>The notion of the Flâneur emerged in the late 19th and early 20th centuries – or at least a critical discourse around a Modern way of looking. At least since Walter Benjamin, the trope of the Flâneur has been used as a vehicle for the examination of the conditions of Modernity – urban life, alienation, class tensions, etc.</p> <p>The Flâneur – a passive stroller, the inquisitive wanderer, observing the follies of the world. Detached and directionless.<br /> Sounds nice. But also vaguely familiar. Right?</p> <p>Today, 2019, we simply glance down towards our device provides us all the ‘passive strolling’ we desire. The catch is, that in the age of Facebook data and Cambridge Analytics and the slow realization that everything we look at is actually a direct result of any number of algorithms processing the data of what we were already looking at to begin with, any semblance of passive observance is thereby rendered faulty.</p> <p>googly eyes serves up a psychedelic Modernist breakfast – stir-frying an upsetting concoction of cliché, diner-food stock photography together with snippets of text from the likes of John Berger, Hunter S. Thompson, Jack Kerouac and even the Beastie Boys.</p> <p>Is it just a coincidence that we start our day with eggs? Or is it that we subconsciously recognize the Genesis-moment an egg represents that makes them such perfect way to start the day? How do you like your eggs? Is it the illusion of choice that makes an egg so appealing? Why is a single picture of an egg the single most liked image on Instagram to date?</p> <p>I will not pretend to have any real answers for these hyperbolic questions. But I would like to suggest, as I think googly eyes does, that we are all in search of a way of looking that encompasses our (rather jaded) understanding of the mechanisms of capital and its effects on the visual experience of our lives. To be naïve is a bit passé, to say the least. But to enjoy the nuances of the visual detritus we are engulfed by daily is perhaps the highest state of enlightenment possible.</p> <p>Scott Cameron-Weaver</p>'
 details: |
-  - ISBN: 3952471043 / 978-3952471043
-  - Content: 68 pages
-  - Size: 230 × 312 mm
-  - Language: English
-  - Graphic Design by: Studio Nüssli+Nuessli
-  - Publication: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: "3952471043 / 978-3952471043"
+  Content: "68 pages"
+  Size: "230 × 312 mm"
+  Language: "English"
+  Graphic Design by: "Studio Nüssli+Nuessli"
+  Publication: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cpress. All rights reserved."
 gallery:
   - 
     url: >
@@ -85,4 +44,35 @@ tags: [ ]
 
 ----
 
-Uuid: GAVqMicfYejgJFvb
+Multilinetitle:
+
+Christof Nüssli
+googly eyes
+
+----
+
+Uuid: xtUWkrcK5VoykNkm
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

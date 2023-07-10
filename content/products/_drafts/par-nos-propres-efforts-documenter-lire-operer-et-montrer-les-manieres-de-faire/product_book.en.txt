@@ -1,34 +1,3 @@
-Title: Par nos propres efforts|Documenter, lire, opérer et montrer les «manières de faire»
-
-----
-
-Multilinetitle:
-
-Par nos propres efforts
-Documenter, lire, opérer et montrer les «manières de faire»
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Par nos propres efforts <br>Documenter, lire, opérer et montrer les «manières de faire»'
@@ -41,20 +10,17 @@ weight: 2.1
 author:
   name: Tombolo Presses
   id: 282
-description: |
-  <p>A pedagogical (and graphic) investigation of the relationship that design has with techniques and the &#8220;arts of making&#8221;.<br />
-  <br />
-  What relationship, other than instrumental or &#8220;mastery&#8221;, can the designer have with the techniques he or she uses? What &#8220;ways of doing&#8221; do we cultivate when we have consideration for technical cultures? And more generally, what is technical culture today? These are the questions to which this edition bears witness. Questions that have animated in the course of the year 2017-2018, the pedagogical research project &#8220;By our own efforts&#8221; piloted by Gregory Marion at the École Supérieure d&#8217;Arts Appliqués de Bourgogne (ESAAB). Under the name taken from a Cuban publication of the 1990s, the document of restitution articulates documentations of the study day that brought together Caroline Maniaque-Benton and Pierre-Damien Huyghe; reproductions of the corpus of publications of various natures that document and disseminate the technique gathered for the occasion &#8211; from the Free Press to the Manufrance catalogs through the Youtube videos of &#8220;L&#8217;énergie Autrement&#8221;; and traces of two production workshops: one dedicated to the interpretation of the grammar of Enzo Mari&#8217;s emblematic work &#8220;Proposta per un&#8217;autoprogettazione&#8221;, the other dedicated to the realization of a transformation / manufacturing device under the animation of the activist of low technology and energy autonomy Barnabé Chaillot.</p>
+description: '<p>A pedagogical (and graphic) investigation of the relationship that design has with techniques and the &#8220;arts of making&#8221;.<br /> <br /> What relationship, other than instrumental or &#8220;mastery&#8221;, can the designer have with the techniques he or she uses? What &#8220;ways of doing&#8221; do we cultivate when we have consideration for technical cultures? And more generally, what is technical culture today? These are the questions to which this edition bears witness. Questions that have animated in the course of the year 2017-2018, the pedagogical research project &#8220;By our own efforts&#8221; piloted by Gregory Marion at the École Supérieure d&#8217;Arts Appliqués de Bourgogne (ESAAB). Under the name taken from a Cuban publication of the 1990s, the document of restitution articulates documentations of the study day that brought together Caroline Maniaque-Benton and Pierre-Damien Huyghe; reproductions of the corpus of publications of various natures that document and disseminate the technique gathered for the occasion &#8211; from the Free Press to the Manufrance catalogs through the Youtube videos of &#8220;L&#8217;énergie Autrement&#8221;; and traces of two production workshops: one dedicated to the interpretation of the grammar of Enzo Mari&#8217;s emblematic work &#8220;Proposta per un&#8217;autoprogettazione&#8221;, the other dedicated to the realization of a transformation / manufacturing device under the animation of the activist of low technology and energy autonomy Barnabé Chaillot.</p>'
 details: |
-  - ISBN: 1096155002 / 979-1096155002
-  - Content: 60 pages
-  - Size: 210 × 297 mm
-  - Edited by: Grégory Marion
-  - Design: Syndicat
-  - Language: French
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © WELTKERN® / Les presses du réel. All rights reserved.
+  ISBN: "1096155002 / 979-1096155002"
+  Content: "60 pages"
+  Size: "210 × 297 mm"
+  Edited by: "Grégory Marion"
+  Design: "Syndicat"
+  Language: "French"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Les presses du réel. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: F9OkSKoupFsrSRC5
+Multilinetitle:
+
+Par nos propres efforts
+Documenter, lire, opérer et montrer les «manières de faire»
+
+----
+
+Uuid: jfLy5QKg4beh0kap
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

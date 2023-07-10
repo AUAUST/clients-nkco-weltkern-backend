@@ -1,34 +1,3 @@
-Title: KALEIDOSCOPE #40 SS22|Tom of Finland
-
-----
-
-Multilinetitle:
-
-KALEIDOSCOPE #40 SS22
-Tom of Finland
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #40 SS22 <br>Tom of Finland'
@@ -40,39 +9,14 @@ weight: 2
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>We are delighted to announce the release of KALEIDOSCOPE&#8217;s new issue #40 (spring/summer 2022), coming with a set of six covers:<br />
-  <br />
-  Portrayed through the lens of Tobias Spichtig, Loïck Gomez aka BFRND talks to Jordan Richman about the power of difference, and the sense of community that lies therein—from his soundtracks for the Balenciaga shows, a product of his creative and life partnership with Demna, to his forthcoming debut album.<br />
-  <br />
-  In conversation with Adam Wray, designer Matthew M. Williams and painter Josh Smith discuss the “belligerent magic” behind their latest collaboration on the Givenchy SS22 collection—with an original photo story by Jason Nocito, starring Texan emo cowboy and burgeoning fashion icon Teezo Touchdown.<br />
-  <br />
-  East London-based rapper and producer John Glacier (photographed by Davit Giorgadze) sits down for a chat with Cyrus Goberville about her creative process—one which rejects conventions, genre distinctions, and stagnant self-narratives, in favor of intimacy, awareness, and channeling the voice of her inner child.<br />
-  <br />
-  On the occasion of an exhibition celebrating his legacy, we look back to Tom of Finland’s egalitarian, queer utopia. Through photography by Joshua Gordon and an interview by Anastasiia Fedorova, we discover his House in Los Angeles, which exists as an archive, a museum, and an LGBTQ+ community space.<br />
-  <br />
-  Emerged from the gay, black subculture of New York City, and situated amid a network of influences ranging from Andre Walker to the late Virgil Abloh, designer Shayne Oliver talks to Fredi Fischli and Niels Olsen about his newest, collective project Anonymous Club, captured here by Marc Asekhame.<br />
-  <br />
-  In his practice, Norwegian-German artist Yngve Holen investigates the post-human entanglement between bodies and objects of consumer culture. Interviewed by Philip Maughan, they discuss meat as a product of nature as well as a design object, negotiating the boundary between exploitation and seduction.<br />
-  <br />
-  Also featured in this issue:<br />
-  <br />
-  Swiss artist Sylvie Fleury has affirmed herself in the ’80s at the center of a new wave of feminism, by appropriating shopping bags, makeup palettes, and candy-colored rockets resembling giant vibrators. In an interview by Whitney Mallett, she shares her outlook on consumerism, superficiality, and celebrity spectacle.<br />
-  <br />
-  Martine Syms’s first full-length feature film exposes the narcissism of the still-so-white art world and the masturbatory nonsense of higher education. While Rindon Johnson shares his afterthoughts in an intimate letter, Nick Sethi takes it to the road with Diamond Stingily, Syms’ long-time collaborator and charismatic lead.<br />
-  <br />
-  Previously dismissed as an atmospheric soundtrack playing in the background of our daily life, ambient resurges as the central aesthetics of the early ’20s, perhaps as an instinctive reaction to global chaos and our infinite-scroll reality. Featuring contributions by Federico Sargentone, Nicholas Korody, and Drew Zeiba, our extensive trend report “Selected Ambient Works” addresses ambient not as a music genre but as a quality, a trope applicable to the entire spectrum of cultural production—with expansive, experiential, synesthetic immersivity making a comeback at the nexus of music, art, and architecture.<br />
-  <br />
-  ABSTRACT, our text-only editorial segment dedicated to urgent research questions of our time, explores the way identity-building has become an increasingly mediated process, where the notion of “performance” seems to be taking center stage. Through two essays by McKenzie Wark and Olivia Whittick and a piece of autofiction by Pablo Larios, “Performance Review” bounces back and forth between true and performed, theory and fiction, self-awareness and self-mythology, ego and gender, to interrogate how the algorithmic experience both pulls from identity and shapes it.<br />
-  <br />
-  And finally, “SEASON,” the magazine&#8217;s opening section, accounts for the best of this Spring/Summer with profiles on Jan Vorisek, Cookie Mueller, Friends With Benefits, Berenice Olmedo, Willy Chavarria, Emily Barker, Whaam!, Crystal Murray, Poche Studio, 1909 Paris, Andrew Roberts, LA Timpa, Dylan Solomon Kraus, Cobrasnake, Guerriero Do Divino Amor, You&#8217;ve Never Been Completely Honest, Vitelli, Tohji, 120 BPM, Sun Woo, and James Bantone.</p>
+description: '<p>We are delighted to announce the release of KALEIDOSCOPE&#8217;s new issue #40 (spring/summer 2022), coming with a set of six covers:<br /> <br /> Portrayed through the lens of Tobias Spichtig, Loïck Gomez aka BFRND talks to Jordan Richman about the power of difference, and the sense of community that lies therein—from his soundtracks for the Balenciaga shows, a product of his creative and life partnership with Demna, to his forthcoming debut album.<br /> <br /> In conversation with Adam Wray, designer Matthew M. Williams and painter Josh Smith discuss the “belligerent magic” behind their latest collaboration on the Givenchy SS22 collection—with an original photo story by Jason Nocito, starring Texan emo cowboy and burgeoning fashion icon Teezo Touchdown.<br /> <br /> East London-based rapper and producer John Glacier (photographed by Davit Giorgadze) sits down for a chat with Cyrus Goberville about her creative process—one which rejects conventions, genre distinctions, and stagnant self-narratives, in favor of intimacy, awareness, and channeling the voice of her inner child.<br /> <br /> On the occasion of an exhibition celebrating his legacy, we look back to Tom of Finland’s egalitarian, queer utopia. Through photography by Joshua Gordon and an interview by Anastasiia Fedorova, we discover his House in Los Angeles, which exists as an archive, a museum, and an LGBTQ+ community space.<br /> <br /> Emerged from the gay, black subculture of New York City, and situated amid a network of influences ranging from Andre Walker to the late Virgil Abloh, designer Shayne Oliver talks to Fredi Fischli and Niels Olsen about his newest, collective project Anonymous Club, captured here by Marc Asekhame.<br /> <br /> In his practice, Norwegian-German artist Yngve Holen investigates the post-human entanglement between bodies and objects of consumer culture. Interviewed by Philip Maughan, they discuss meat as a product of nature as well as a design object, negotiating the boundary between exploitation and seduction.<br /> <br /> Also featured in this issue:<br /> <br /> Swiss artist Sylvie Fleury has affirmed herself in the ’80s at the center of a new wave of feminism, by appropriating shopping bags, makeup palettes, and candy-colored rockets resembling giant vibrators. In an interview by Whitney Mallett, she shares her outlook on consumerism, superficiality, and celebrity spectacle.<br /> <br /> Martine Syms’s first full-length feature film exposes the narcissism of the still-so-white art world and the masturbatory nonsense of higher education. While Rindon Johnson shares his afterthoughts in an intimate letter, Nick Sethi takes it to the road with Diamond Stingily, Syms’ long-time collaborator and charismatic lead.<br /> <br /> Previously dismissed as an atmospheric soundtrack playing in the background of our daily life, ambient resurges as the central aesthetics of the early ’20s, perhaps as an instinctive reaction to global chaos and our infinite-scroll reality. Featuring contributions by Federico Sargentone, Nicholas Korody, and Drew Zeiba, our extensive trend report “Selected Ambient Works” addresses ambient not as a music genre but as a quality, a trope applicable to the entire spectrum of cultural production—with expansive, experiential, synesthetic immersivity making a comeback at the nexus of music, art, and architecture.<br /> <br /> ABSTRACT, our text-only editorial segment dedicated to urgent research questions of our time, explores the way identity-building has become an increasingly mediated process, where the notion of “performance” seems to be taking center stage. Through two essays by McKenzie Wark and Olivia Whittick and a piece of autofiction by Pablo Larios, “Performance Review” bounces back and forth between true and performed, theory and fiction, self-awareness and self-mythology, ego and gender, to interrogate how the algorithmic experience both pulls from identity and shapes it.<br /> <br /> And finally, “SEASON,” the magazine&#8217;s opening section, accounts for the best of this Spring/Summer with profiles on Jan Vorisek, Cookie Mueller, Friends With Benefits, Berenice Olmedo, Willy Chavarria, Emily Barker, Whaam!, Crystal Murray, Poche Studio, 1909 Paris, Andrew Roberts, LA Timpa, Dylan Solomon Kraus, Cobrasnake, Guerriero Do Divino Amor, You&#8217;ve Never Been Completely Honest, Vitelli, Tohji, 120 BPM, Sun Woo, and James Bantone.</p>'
 details: |
-  - Content: 400 Pages
-  - Size: 230 × 24 × 300 mm
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  Content: "400 Pages"
+  Size: "230 × 24 × 300 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -154,4 +98,35 @@ tags: [ ]
 
 ----
 
-Uuid: Ib89z5H4wMl0bC5J
+Multilinetitle:
+
+KALEIDOSCOPE #40 SS22
+Tom of Finland
+
+----
+
+Uuid: qN9PFlxiExwTQR1C
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

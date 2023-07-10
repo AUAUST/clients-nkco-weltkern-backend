@@ -1,34 +1,3 @@
-Title: Wolfgang Weingart|My Way to Typography
-
-----
-
-Multilinetitle:
-
-Wolfgang Weingart
-My Way to Typography
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Wolfgang Weingart <br>My Way to Typography'
@@ -42,14 +11,14 @@ author:
   id: 85
 description: '<p>Since the 1970s Wolfgang Weingart has exerted a decisive influence on the international development of typography. In the late 1960s he instilled creativity and a desire for experimentation into the ossified Swiss typographical industry and reflected this renewal in his own work. Countless designers have been inspired by his teaching at the Basle School of Design and by his lectures. In Typography Weingart gives an unusual and frank narrative of his early life and development as a designer. For the first time he gives a comprehensive survey of his works over the past forty years, most of which are unknown.</p>'
 details: |
-  - ISBN: 3037784261 / 978-3037784266
-  - Content: 520 pages
-  - Size: 230 × 40 × 275 mm
-  - Author: Wolfgang Weingart
-  - Language: English / German
-  - Publishing date: 2014
-  - Specs: Softcover
-  - Images: © Lars Müller Publishers. All rights reserved.
+  ISBN: "3037784261 / 978-3037784266"
+  Content: "520 pages"
+  Size: "230 × 40 × 275 mm"
+  Author: "Wolfgang Weingart"
+  Language: "English / German"
+  Publishing date: "2014"
+  Specs: "Softcover"
+  Images: "© Lars Müller Publishers. All rights reserved."
 gallery:
   - 
     url: >
@@ -71,4 +40,35 @@ tags: [ ]
 
 ----
 
-Uuid: iaPmmzGU0Wbqy5zE
+Multilinetitle:
+
+Wolfgang Weingart
+My Way to Typography
+
+----
+
+Uuid: 2zThtB7sgZcuOZE2
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

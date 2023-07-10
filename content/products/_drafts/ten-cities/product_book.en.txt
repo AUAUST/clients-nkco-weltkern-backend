@@ -1,31 +1,3 @@
-Title: Ten Cities
-
-----
-
-Multilinetitle: Ten Cities
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Ten Cities
@@ -38,23 +10,18 @@ weight: 1.2
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>The image of the DJ dragging his record case through international &#8220;non-places&#8221; and deejaying in clubs around the globe is a contemporary cliché. But these club scenes have rich, geographically differentiated local histories and cultures. This book expands the focus beyond the North Atlantic clubbing axis of Detroit-Chicago-Manchester-Berlin.<br />
-  <br />
-  It looks at ten club capitals in Africa and Europe, reporting on different scenes in Bristol, Johannesburg, Cairo, Kyiv, Lagos, Lisbon, Launda, Nairobi and Naples. The local music stories, the scenes, the subcultures and their global networks are reconstructed in 21 essays and photo sequences.<br />
-  <br />
-  The tale they tell is one of clubs as laboratories of otherness, in which people can experiment with new ways of being and assert their claim to the city. <em>Ten Cities</em> is a nocturnal, sound-driven journey through ten social and urban stories from 1960 through to the present.</p>
+description: '<p>The image of the DJ dragging his record case through international &#8220;non-places&#8221; and deejaying in clubs around the globe is a contemporary cliché. But these club scenes have rich, geographically differentiated local histories and cultures. This book expands the focus beyond the North Atlantic clubbing axis of Detroit-Chicago-Manchester-Berlin.<br /> <br /> It looks at ten club capitals in Africa and Europe, reporting on different scenes in Bristol, Johannesburg, Cairo, Kyiv, Lagos, Lisbon, Launda, Nairobi and Naples. The local music stories, the scenes, the subcultures and their global networks are reconstructed in 21 essays and photo sequences.<br /> <br /> The tale they tell is one of clubs as laboratories of otherness, in which people can experiment with new ways of being and assert their claim to the city. <em>Ten Cities</em> is a nocturnal, sound-driven journey through ten social and urban stories from 1960 through to the present.</p>'
 details: |
-  - ISBN: 3944669797 / 978-3944669793
-  - Content: 400 pages
-  - Size: 200 × 41 × 270 mm
-  - Author: Johannes Hossfeld Etyang
-  - Edited by: Johannes Hossfeld Etyang, Joyce Nyairo, Florian Sievers
-  - Design: Adriaan Van Leuven
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © Spector Books. All rights reserved.
+  ISBN: "3944669797 / 978-3944669793"
+  Content: "400 pages"
+  Size: "200 × 41 × 270 mm"
+  Author: "Johannes Hossfeld Etyang"
+  Edited by: "Johannes Hossfeld Etyang, Joyce Nyairo, Florian Sievers"
+  Design: "Adriaan Van Leuven"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -100,4 +67,32 @@ tags: [ ]
 
 ----
 
-Uuid: vijJnimhpurIiS8s
+Multilinetitle: Ten Cities
+
+----
+
+Uuid: oLcE51utsSWOrIHT
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

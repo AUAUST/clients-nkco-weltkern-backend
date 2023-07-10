@@ -1,31 +1,3 @@
-Title: HR Giger & Mire Lee
-
-----
-
-Multilinetitle: HR Giger & Mire Lee
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'HR Giger & Mire Lee'
@@ -39,13 +11,13 @@ author:
   id: 360
 description: '<p>Published with an exhibition bringing together the worlds of the late Swiss visionary Hans Ruedi Giger (1940–2014) and South Korean artist Mire Lee, this book beckons towards the darkest aisles of the human body and psyche. Both artists deal in biomechanical phantasmagorias of human and machine forms combining in an indissoluble whole, a constant metamorphosis between the stages of decline and resilience, hopelessness and power, lust and revulsion, male and female – thus emblematic of the polarities of our own existence. With texts by Agnes Gryczkowska, Charlie Fox, and McKenzie Wark and conversations between the artists and Hans Ulrich Obrist.</p>'
 details: |
-  - ISBN: 3000715228 / 978-3000715228
-  - Content: 142 pages
-  - Size: 240 × 330 mm
-  - Language: English
-  - Publication: 2022
-  - Specs: Paperback
-  - Images: © WELTKERN® / Tina Kim Gallery and Schinkel Pavillon. All rights reserved.
+  ISBN: "3000715228 / 978-3000715228"
+  Content: "142 pages"
+  Size: "240 × 330 mm"
+  Language: "English"
+  Publication: "2022"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / Tina Kim Gallery and Schinkel Pavillon. All rights reserved."
 gallery:
   - 
     url: >
@@ -55,4 +27,32 @@ tags: [ ]
 
 ----
 
-Uuid: nBt9YfESWk7bLZ1X
+Multilinetitle: HR Giger & Mire Lee
+
+----
+
+Uuid: vGyWlqk9jFs6I0bD
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

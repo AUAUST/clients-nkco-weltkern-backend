@@ -1,31 +1,3 @@
-Title: Consumer Culture Landscapes in Socialist Yugoslavia
-
-----
-
-Multilinetitle: Consumer Culture Landscapes in Socialist Yugoslavia
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: >
@@ -40,20 +12,17 @@ weight: 0.2
 author:
   name: Onomatopee
   id: 319
-description: |
-  <p>Socialist Republic of Yugoslavia was a unique experiment with progressive social forms that were matched by specific urban and spatial development. Since the end of the 1960’s until the country’s disintegration in the 1990’s is a period of ambiguity: while according to some researchers, the market-oriented economic reforms brought a much needed opening and liberalization, according to others it marked the beginning of an end of the revolutionary demand for equality. Thus, the anti-utopianism of the consumer welfare reflected in the rise of the middle class with its recognisable habits and taste. </p>
-  <p>Following a specific architectural typology, this book delves into this period which brought along social and economic changes. It focuses on the sports and shopping centre Koteks Gripe in Split and similar architectural complexes in Sarajevo, Novi Sad, and Prishtina all designed by the Sarajevo based architect Živorad Janković and associates, gradually expanding towards broader considerations of the architectural practice, contention and coalescence within the Yugoslav modernist project.</p>
+description: '<p>Socialist Republic of Yugoslavia was a unique experiment with progressive social forms that were matched by specific urban and spatial development. Since the end of the 1960’s until the country’s disintegration in the 1990’s is a period of ambiguity: while according to some researchers, the market-oriented economic reforms brought a much needed opening and liberalization, according to others it marked the beginning of an end of the revolutionary demand for equality. Thus, the anti-utopianism of the consumer welfare reflected in the rise of the middle class with its recognisable habits and taste. </p> <p>Following a specific architectural typology, this book delves into this period which brought along social and economic changes. It focuses on the sports and shopping centre Koteks Gripe in Split and similar architectural complexes in Sarajevo, Novi Sad, and Prishtina all designed by the Sarajevo based architect Živorad Janković and associates, gradually expanding towards broader considerations of the architectural practice, contention and coalescence within the Yugoslav modernist project.</p>'
 details: |
-  - ISBN: 9493148000 / 978-9493148000
-  - Content: 488 pages
-  - Size: 148 × 210 mm
-  
-  - Language: English and Croatian
-  - Edited by: Nataša Bodrožić, Lidija Butković Mićin, Saša Šimpraga
-  - Graphic design: Rafaela Dražić
-  - Publishing date: 2019
-  - Specs: Hard cover
-  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+  ISBN: "9493148000 / 978-9493148000"
+  Content: "488 pages"
+  Size: "148 × 210 mm "
+  Language: "English and Croatian"
+  Edited by: "Nataša Bodrožić, Lidija Butković Mićin, Saša ? impraga"
+  Graphic design: "Rafaela Dražić"
+  Publishing date: "2019"
+  Specs: "Hard cover"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,4 +32,32 @@ tags: [ ]
 
 ----
 
-Uuid: X2sR939rPQC45b3o
+Multilinetitle: Consumer Culture Landscapes in Socialist Yugoslavia
+
+----
+
+Uuid: GJh1QBsdh9MIgX9E
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

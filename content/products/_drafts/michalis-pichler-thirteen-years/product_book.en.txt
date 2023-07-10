@@ -1,34 +1,3 @@
-Title: Michalis Pichler|Thirteen Years
-
-----
-
-Multilinetitle:
-
-Michalis Pichler
-Thirteen Years
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Michalis Pichler <br>Thirteen Years'
@@ -40,20 +9,17 @@ weight: 1.1
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>A cross-reference book of information on aesthetic boundaries, consisting of a bibliography into which inserted text, critical essays, art works, and documents, are arranged chronologically and focused on a selection of so-called »greatest hits« and conceptual poetics. It contains mentions of such vaguely designated areas as appropriation, postnaive, unboring boring, détournement, object perdu, and erasure poetry — or writing through — as they currently occur (with occasional political overtones) in the work of Michalis Pichler.<br />
-  This book is the first monograph focused on the practice of artist/author Michalis Pichler. Featuring eleven critical essays, an extensively illustrated catalogue, a conversation with John Stezaker, and selected writings by the artist, the book delivers a solid introduction into conceptual poetics.</p>
+description: '<p>A cross-reference book of information on aesthetic boundaries, consisting of a bibliography into which inserted text, critical essays, art works, and documents, are arranged chronologically and focused on a selection of so-called »greatest hits« and conceptual poetics. It contains mentions of such vaguely designated areas as appropriation, postnaive, unboring boring, détournement, object perdu, and erasure poetry — or writing through — as they currently occur (with occasional political overtones) in the work of Michalis Pichler.<br /> This book is the first monograph focused on the practice of artist/author Michalis Pichler. Featuring eleven critical essays, an extensively illustrated catalogue, a conversation with John Stezaker, and selected writings by the artist, the book delivers a solid introduction into conceptual poetics.</p>'
 details: |
-  - ISBN: 3959055437 / 978-3959055437
-  - Content: 240 pages
-  - Size: 210 × 297 mm
-  - Author: Michalis Pichler
-  - Design: Bureau Mario Lombardo
-  
-  - Language: English / Spanish
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / ‎Spector Books. All rights reserved.
+  ISBN: "3959055437 / 978-3959055437"
+  Content: "240 pages"
+  Size: "210 × 297 mm"
+  Author: "Michalis Pichler"
+  Design: "Bureau Mario Lombardo "
+  Language: "English / Spanish"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ‎Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -87,4 +53,35 @@ tags: [ ]
 
 ----
 
-Uuid: wQIrg3UMtv9B4GD7
+Multilinetitle:
+
+Michalis Pichler
+Thirteen Years
+
+----
+
+Uuid: 5ZYLzkI2GnRduE5l
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

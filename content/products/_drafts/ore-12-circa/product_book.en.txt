@@ -1,31 +1,3 @@
-Title: Ore 12 Circa
-
-----
-
-Multilinetitle: Ore 12 Circa
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Ore 12 Circa
@@ -37,18 +9,16 @@ weight: 0.9
 author:
   name: Veii
   id: 332
-description: |
-  <p>Can reality be considered as something objective, independent by the viewer’s experience? Ore 12 Circa (Around Noon) plays with the idea that reality is shaped by the viewer itself, who participates in the creation of the world and builds its own representation of it.</p>
-  <p>As a culmination of nine years of editing, the project behind the book begins with the interpretation of a collection of anonymous negatives that the editor found in a fleamarket in Paris in 2010. The editor’s elaboration of the unknown photographer’s work and his own impression of the reality behind it, generated an open narration of the events, routines, traditions, sins and lives of the photographer’s main subjects, who all gravitate around Sicily, in the South of Italy. Ore 12 Circa proposes one of the many visual narrations of the displayed images, leaving to the viewer the space to envision and shape himself the hidden reality that may have connected – or may have not – all of these unknown people’s lives.</p>
+description: '<p>Can reality be considered as something objective, independent by the viewer’s experience? Ore 12 Circa (Around Noon) plays with the idea that reality is shaped by the viewer itself, who participates in the creation of the world and builds its own representation of it.</p> <p>As a culmination of nine years of editing, the project behind the book begins with the interpretation of a collection of anonymous negatives that the editor found in a fleamarket in Paris in 2010. The editor’s elaboration of the unknown photographer’s work and his own impression of the reality behind it, generated an open narration of the events, routines, traditions, sins and lives of the photographer’s main subjects, who all gravitate around Sicily, in the South of Italy. Ore 12 Circa proposes one of the many visual narrations of the displayed images, leaving to the viewer the space to envision and shape himself the hidden reality that may have connected – or may have not – all of these unknown people’s lives.</p>'
 details: |
-  - ISBN: 8894606300 / 978-8894606300
-  - Content: 192 pages
-  - Size: 210 × 275 mm
-  - Language: Italian
-  - Author: Fabrizio Amoroso
-  - Publication: 2021
-  - Specs: Softcover with PVC dustjacket
-  - Images: © WELTKERN® / Veii. All rights reserved.
+  ISBN: "8894606300 / 978-8894606300"
+  Content: "192 pages"
+  Size: "210 × 275 mm"
+  Language: "Italian"
+  Author: "Fabrizio Amoroso"
+  Publication: "2021"
+  Specs: "Softcover with PVC dustjacket"
+  Images: "© WELTKERN® / Veii. All rights reserved."
 gallery:
   - 
     url: >
@@ -98,4 +68,32 @@ tags: [ ]
 
 ----
 
-Uuid: dwePFi4ijSfrcH0k
+Multilinetitle: Ore 12 Circa
+
+----
+
+Uuid: KspTcTDHdVzgp3f4
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

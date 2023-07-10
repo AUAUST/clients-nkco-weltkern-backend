@@ -1,34 +1,3 @@
-Title: Wolfgang Tillmans|The Cars
-
-----
-
-Multilinetitle:
-
-Wolfgang Tillmans
-The Cars
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Wolfgang Tillmans <br>The Cars'
@@ -40,19 +9,16 @@ weight: 0.6
 author:
   name: Buchhandlung Walther König
   id: 90
-description: |
-  <p><em>The Cars</em> compiles a new body of work by renowned photographer Wolfgang Tillmans (born 1968). Since the early 90s, Tillmans has redefined the genre of photography, epitomizing a new kind of subjectivity and questioning existing values and hierarchies. <em>The Cars</em> is no exception; images of cars in a typical street view-not in a crash, or an extreme traffic jam, but simply present-pay tribute to the amount of time we spend around, or looking at, or using the vehicle. &#8220;Cars are everywhere,&#8221; the photographer says. &#8220;Their sheer number is the most crazy thing about them. They appear in our lives with excessive omnipresence. In their volume cars intrude upon public space, and the way they occupy streets and open areas is rarely challenged.&#8221;<br />
-  <br />
-  This unusual artist&#8217;s book takes up a subject rarely deemed worthy of representation. &#8220;Virtually wherever there are people, there are cars and they are visually intermingling in whatever we see,&#8221; Tillmans points out. &#8220;We are looking at the world from a car and cars are in the foreground, the background or in between of what is in our view.&#8221; With over 100 color photographs and text by the artist himself, this new volume is an important addition to any photobook collection, and to our understanding of what it is to live in a world oversaturated with both cars and images.</p>
+description: '<p><em>The Cars</em>? compiles a new body of work by renowned photographer Wolfgang Tillmans (born 1968). Since the early 90s, Tillmans has redefined the genre of photography, epitomizing a new kind of subjectivity and questioning existing values and hierarchies.? <em>The Cars</em>? is no exception; images of cars in a typical street view-not in a crash, or an extreme traffic jam, but simply present-pay tribute to the amount of time we spend around, or looking at, or using the vehicle. &#8220;Cars are everywhere,&#8221; the photographer says. &#8220;Their sheer number is the most crazy thing about them. They appear in our lives with excessive omnipresence. In their volume cars intrude upon public space, and the way they occupy streets and open areas is rarely challenged.&#8221;<br /> <br /> This unusual artist&#8217;s book takes up a subject rarely deemed worthy of representation. &#8220;Virtually wherever there are people, there are cars and they are visually intermingling in whatever we see,&#8221; Tillmans points out. &#8220;We are looking at the world from a car and cars are in the foreground, the background or in between of what is in our view.&#8221; With over 100 color photographs and text by the artist himself, this new volume is an important addition to any photobook collection, and to our understanding of what it is to live in a world oversaturated with both cars and images.</p>'
 details: |
-  - ISBN: 3863357528 / 978-3863357528
-  - Content: 128 pages
-  - Size: 160 × 10 × 239 mm
-  - Author: Wolfgang Tillmans
-  - Language: English
-  - Publishing date: 2015
-  - Specs: Softcover
-  - Images: © WELTKERN® / Buchhandlung Walther Konig. All rights reserved.
+  ISBN: "3863357528 / 978-3863357528"
+  Content: "128 pages"
+  Size: "160 × 10 ×? 239 mm"
+  Author: "Wolfgang Tillmans"
+  Language: "English"
+  Publishing date: "2015"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Buchhandlung Walther Konig. All rights reserved."
 gallery:
   - 
     url: >
@@ -86,4 +52,35 @@ tags: [ ]
 
 ----
 
-Uuid: 34LOjUvNxlt2ioxy
+Multilinetitle:
+
+Wolfgang Tillmans
+The Cars
+
+----
+
+Uuid: dnhRXfu1ZAPB7pLz
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

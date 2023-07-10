@@ -1,34 +1,3 @@
-Title: Iouri Podladtchikov|Brand New Songs
-
-----
-
-Multilinetitle:
-
-Iouri Podladtchikov
-Brand New Songs
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Iouri Podladtchikov <br>Brand New Songs'
@@ -42,13 +11,13 @@ author:
   id: 357
 description: '<p>After gigantic jumps in the halfpipe Iouri Podladtchikov made gigantic jumps and steps into the art world and he can easily be called a hot ticket since a while. The new works featured in Brand New Songs are of souverain grandezza and deep poetic power – transformed brilliantly into a book beyond all measures: printed at starprinter Robstolk Amsterdam on superfine Mohawk Paper, bound in 100% linen – custom printed at Mitlödi Textile Printers in deep silkscreen black: Top Shit on Top of The Top Shit!</p>'
 details: |
-  - ISBN: 3906313382 / 978-3906313382
-  - Content: 48 pages
-  - Size: 340 × 240 mm
-  - Language: English
-  - Publication: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Simonett & Baer. All rights reserved.
+  ISBN: "3906313382 / 978-3906313382"
+  Content: "48 pages"
+  Size: "340 × 240 mm"
+  Language: "English"
+  Publication: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Simonett & Baer. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,4 +27,35 @@ tags: [ ]
 
 ----
 
-Uuid: NAmsTNCyeg5XQI1g
+Multilinetitle:
+
+Iouri Podladtchikov
+Brand New Songs
+
+----
+
+Uuid: hFJi2L17p3aS1ViQ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

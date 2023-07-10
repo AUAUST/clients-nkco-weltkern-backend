@@ -1,34 +1,3 @@
-Title: Spazio Maiocchi Books|Darja Bajagić Sketchbooks
-
-----
-
-Multilinetitle:
-
-Spazio Maiocchi Books
-Darja Bajagić Sketchbooks
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Spazio Maiocchi Books <br>Darja Bajagić Sketchbooks'
@@ -41,18 +10,15 @@ weight: 0.6
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>Published by KALEIDOSCOPE and Spazio Maiocchi on the occasion of solo exhibitions hosted at Spazio Maiocchi between 2017 and 2018.<br />
-  <br />
-  Darja Bajagić: Sketchbooks features a collection of collages exhibited alongside a series of paintings at the intersection of Minimalism and digital appropriation. Bajagić’s work addresses subjects as extreme as sex and violence, challenging the viewer’s perspective and complicating binary notions of morality.</p>
+description: '<p>Published by KALEIDOSCOPE and Spazio Maiocchi on the occasion of solo exhibitions hosted at Spazio Maiocchi between 2017 and 2018.<br /> <br /> Darja Bajagić: Sketchbooks features a collection of collages exhibited alongside a series of paintings at the intersection of Minimalism and digital appropriation. Bajagić’s work addresses subjects as extreme as sex and violence, challenging the viewer’s perspective and complicating binary notions of morality.</p>'
 details: |
-  - Content: 80 Pages
-  - Size: 220 × 7 × 280 mm
-  - Author: Darja Bajagić
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  Content: "80 Pages"
+  Size: "220 × 7 × 280 mm"
+  Author: "Darja Bajagić"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,4 +44,35 @@ tags: [ ]
 
 ----
 
-Uuid: U92wmojWwr9M8BqD
+Multilinetitle:
+
+Spazio Maiocchi Books
+Darja Bajagić Sketchbooks
+
+----
+
+Uuid: owXUywcYexFNQar5
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

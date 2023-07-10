@@ -1,34 +1,3 @@
-Title: Jil Sander|Present tense
-
-----
-
-Multilinetitle:
-
-Jil Sander
-Present tense
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Jil Sander <br>Present tense'
@@ -40,19 +9,16 @@ weight: 2
 author:
   name: Prestel
   id: 112
-description: |
-  <p>Published in a book for the first time: Jil Sander, one of the most influential fashion designers of her generation!<br />
-  <br />
-  Jil Sander is known for designing well sculptured, high quality clothes in subdued colors. This comprehensive book presents her work from the late 1960s to 2014. Challenging the styles of flamboyant femininity, her collections delighted the fashion world with their purity. She proposed a modernity which did away with senseless ornaments, while dynamizing the individual. This lavishly illustrated book will showcase the ingenuity and creative power of a designer who aimed at underlining a person&#8217;s personality. More than 150 illustrations present the Jil Sander vision which had a huge impact not only on fashion, but on product design, advertising campaigns, and store architecture as well.</p>
+description: '<p>Published in a book for the first time: Jil Sander, one of the most influential fashion designers of her generation!<br /> <br /> Jil Sander is known for designing well sculptured, high quality clothes in subdued colors. This comprehensive book presents her work from the late 1960s to 2014. Challenging the styles of flamboyant femininity, her collections delighted the fashion world with their purity. She proposed a modernity which did away with senseless ornaments, while dynamizing the individual. This lavishly illustrated book will showcase the ingenuity and creative power of a designer who aimed at underlining a person&#8217;s personality. More than 150 illustrations present the Jil Sander vision which had a huge impact not only on fashion, but on product design, advertising campaigns, and store architecture as well.</p>'
 details: |
-  - ISBN: 3791357514 / 978-3791357515
-  - Content: 264 pages
-  - Size: 256 × 30 × 327 mm
-  - Author: Jil Sander
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © WELTKERN®. All rights reserved.
+  ISBN: "3791357514 / 978-3791357515"
+  Content: "264 pages"
+  Size: "256 × 30 × 327 mm"
+  Author: "Jil Sander"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,4 +44,35 @@ tags: [ ]
 
 ----
 
-Uuid: Q1Suu5KidZW1JV8O
+Multilinetitle:
+
+Jil Sander
+Present tense
+
+----
+
+Uuid: Pyk87b9MaOYTMLmr
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

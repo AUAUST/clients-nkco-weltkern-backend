@@ -2,10 +2,13 @@
 
 namespace AUAUST\products;
 
+use Kirby\Cms\Field;
 use Kirby\Http\Remote;
 use Kirby\Http\Request\Query;
 use Kirby\Http\Url;
+use Kirby\Toolkit\Date;
 use Kirby\Toolkit\Str;
+
 
 // Weltkern 1.0
 class WK1
@@ -297,7 +300,7 @@ class WK1
    * @param string $isbn The ISBN to parse.
    * @return string|false The parsed ISBN, or false if no valid ISBN was found.
    */
-  public static function fixIsbn(string $isbn)
+  public static function extractIsbn(string $isbn)
   {
     $isbn = trim($isbn);
 
@@ -358,7 +361,7 @@ class WK1
    * @param string $yaml The YAML to parse.
    * @return array|null The dimensions, or null if none were found.
    */
-  public static function fixDimensions(mixed $dimensionsString)
+  public static function extractDimensions(mixed $dimensionsString)
   {
 
     // If the dimensions are not stored as a string, we ignore them
@@ -386,5 +389,136 @@ class WK1
     } catch (\Throwable $th) {
       return null;
     }
+  }
+
+  /**
+   * Takes an HTML string, and returns a string with all HTML tags removed while trying to keep the text structure as much as possible.
+   *
+   * @param string $html The HTML to parse.
+   * @return string The parsed HTML.
+   */
+  public static function stripHtml(string $html)
+  {
+    // Replace * with \* to not be interpreted as Markdown
+    $html = str_replace('*', '\*', $html);
+    // Remplace <em> and </em> with *
+    $html = preg_replace('/<\/?em>/', '*', $html);
+    // Remplace <strong> and </strong> with **
+    $html = preg_replace('/<\/?strong>/', '**', $html);
+
+    // Remove all other HTML tags
+    $html = Str::unhtml($html);
+    // Deduplicate spaces, and remove spaces next to a pipe
+    $html = preg_replace('/\s+/', ' ', $html);
+    $html = mb_convert_encoding($html, 'UTF-8', 'UTF-8');
+
+    $html = preg_replace('/\n\s*\n*/', "\n", $html);
+
+    $html = preg_replace('/\n/', '(newline)', $html);
+
+    // $html = Str::convert($html, 'UTF-8');
+
+    return Str::esc($html);
+  }
+
+  /**
+   * Takes the details array and tries to find a language in it.
+   */
+  public static function extractLanguage(array $details)
+  {
+    if (array_key_exists('language', $details)) {
+
+      $language = $details['language'];
+
+      if ($languages = Str::split($language, '/')) {
+        return array_map(
+          function ($language) {
+            return trim($language);
+          },
+          $languages
+        );
+      }
+
+      return [$language];
+    }
+    return [];
+  }
+
+  /**
+   * Takes the details array and tries to find the number of pages in it.
+   */
+  public static function extractPages(array $details)
+  {
+    // Most pages have a "content: ### pages" entry
+    if (array_key_exists('content', $details)) {
+      $content = $details['content'];
+      if (preg_match('/(\d+)\s*page/i', $content, $matches)) {
+        return intval($matches[1]);
+      }
+      // If there is only digits, we assume it's the number of pages
+      if (preg_match('/^\s*\d+\s*$/', $content)) {
+        return intval($content);
+      }
+    }
+
+    // Some pages have a "### pages" lost in other entries
+    foreach ($details as $detail) {
+      if (preg_match('/(\d+)\s*page/i', $detail, $matches)) {
+        return intval($matches[1]);
+      }
+    }
+
+    return null;
+  }
+
+  /**
+   * Takes the details array and tries to find the cover type in it.
+   */
+  public static function extractCoverType(array $details)
+  {
+    // Check if the `specs` key contains a cover type
+    if (array_key_exists('specs', $details)) {
+      $specs = $details['specs'];
+
+      if (preg_match('/hardcover/i', $specs)) {
+        return 'Hardcover';
+      }
+      if (preg_match('/softcover/i', $specs)) {
+        return 'Softcover';
+      }
+      if (preg_match('/paperback/i', $specs)) {
+        return 'Softcover';
+      }
+    }
+
+    return null;
+  }
+
+  /**
+   * Takes the details array and tries to find the publishing date in it.
+   */
+  public static function extractPublishingDate(array $details)
+  {
+    $publishingDate = false;
+
+    if (array_key_exists('publishing date', $details)) {
+      $publishingDate = $details['publishing date'];
+    }
+
+    if (array_key_exists('publication', $details)) {
+      $publishingDate = $details['publication'];
+    }
+
+    if ($publishingDate === false) {
+      return null;
+    }
+
+    // Sanitize the date which can either be a year string or mm yyyy string.
+    $publishingDate = preg_replace('/\s+/', ' ', $publishingDate);
+    $publishingDate = trim($publishingDate);
+
+    // Make it a date object
+    // DateTime::createFromFormat('Y', $publishingDate);
+    $publishingDate = Date::parse($publishingDate);
   }
 }

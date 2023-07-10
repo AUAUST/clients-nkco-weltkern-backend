@@ -1,34 +1,3 @@
-Title: Francisco Sierra|Lunar Invasion
-
-----
-
-Multilinetitle:
-
-Francisco Sierra
-Lunar Invasion
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Francisco Sierra <br>Lunar Invasion'
@@ -40,21 +9,18 @@ weight: 1.2
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Francisco Sierra worked on a single painting for nine months. It’s about 1.5 m high and 2.5 m wide. It shows three jumbo jets under construction. He spent day after day, from early morning till late at night, standing, sitting or crouching before the canvas. Which testifies to the artist&#8217;s patience and perseverance—and how much he believes in his subject. But Sierra also does small and medium-sized paintings. And triptychs. As well as subjects other than jumbos, like magnificent sunsets, delicate tea sets and hypnotic Möbius strips, for example. He paints penis-shaped Christmas trees hung with ornaments. Avocados kissing. Ambiguously steaming piles of excrement. And his formal training as a violinist reverberates in his pictures time and again.<br />
-  <br />
-  Some of his subjects are fantastical, some mundane— though that seemingly mundane content is what makes these pictures peculiarly uncanny. Francisco Sierra addresses the question of what form contemporary figurative painting might take. He faithfully and precisely paints things, reality, but the subjects he picks seldom represent what they seem to at first glance. Sierra is interested in the transformation of apparent clarity into something new and mysterious. He explores the pitfalls of contemporary photographic reproduction and the transformative potential of painting, which involves surrealist and conceptual approaches. Besides their masterful technical proficiency, what Sierra’s works have in common is humor—sometimes grotesque, sometimes in discreet doses, a mere trace element, homeopathic. Lunar Invasion now provides an overview of the wide-ranging oeuvre of paintings and sculptures by this Chilean-born Swiss-based artist. — Max Küng</p>
+description: '<p>Francisco Sierra worked on a single painting for nine months. It’s about 1.5 m high and 2.5 m wide. It shows three jumbo jets under construction. He spent day after day, from early morning till late at night, standing, sitting or crouching before the canvas. Which testifies to the artist&#8217;s patience and perseverance—and how much he believes in his subject. But Sierra also does small and medium-sized paintings. And triptychs. As well as subjects other than jumbos, like magnificent sunsets, delicate tea sets and hypnotic Möbius strips, for example. He paints penis-shaped Christmas trees hung with ornaments. Avocados kissing. Ambiguously steaming piles of excrement. And his formal training as a violinist reverberates in his pictures time and again.<br /> <br /> Some of his subjects are fantastical, some mundane— though that seemingly mundane content is what makes these pictures peculiarly uncanny. Francisco Sierra addresses the question of what form contemporary figurative painting might take. He faithfully and precisely paints things, reality, but the subjects he picks seldom represent what they seem to at first glance. Sierra is interested in the transformation of apparent clarity into something new and mysterious. He explores the pitfalls of contemporary photographic reproduction and the transformative potential of painting, which involves surrealist and conceptual approaches. Besides their masterful technical proficiency, what Sierra’s works have in common is humor—sometimes grotesque, sometimes in discreet doses, a mere trace element, homeopathic. Lunar Invasion now provides an overview of the wide-ranging oeuvre of paintings and sculptures by this Chilean-born Swiss-based artist. — Max Küng</p>'
 details: |
-  - ISBN: 3907236345 / 978-3907236345
-  - Content: 368 Pages
-  - Size: 235 × 35 × 290 mm
-  - Artist: Francisco Sierra
-  - Author: Max Küng
-  - Design: Enjoy Stratford
-  - Language: German / English
-  - Publishing date: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236345 / 978-3907236345"
+  Content: "368 Pages"
+  Size: "235 × 35 × 290 mm"
+  Artist: "Francisco Sierra"
+  Author: "Max Küng"
+  Design: "Enjoy Stratford"
+  Language: "German / English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: ndl96euQccwR4ShP
+Multilinetitle:
+
+Francisco Sierra
+Lunar Invasion
+
+----
+
+Uuid: S3cmqGoEnVD3MP0E
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

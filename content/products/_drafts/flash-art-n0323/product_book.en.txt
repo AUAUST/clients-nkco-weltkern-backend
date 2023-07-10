@@ -1,31 +1,3 @@
-Title: Flash Art n°323
-
-----
-
-Multilinetitle: Flash Art n°323
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Flash Art n°323
@@ -39,14 +11,14 @@ author:
   id: 110
 description: '<p>Special feature on Judy Chicago (contributions by Géraldine Gourbe, Viki D. Thompson Wylder, William J. Simmons, Stephanie Seidel); Thomas Duncan on Antek Walczak; Agnieszka Gratza interviews Tania Brugera about her interactive work <em>10,142,926</em>; landscape and figuration in Tau Lewis&#8217; sculptures, by Tiana Reid; Kerstin Stakemeier on Amy Sillman&#8217;s new paintings; Fanta Sylla interviews artist and filmmaker Cauleen Smith; exhibition reviews.</p>'
 details: |
-  - ISSN: 0015-3524
-  - Content: 132 pages
-  - Size: 225 × 06 × 290 mm
-  - Design: Wrong Studio
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © Flash Art. All rights reserved.
+  ISSN: "0015-3524"
+  Content: "132 pages"
+  Size: "225 × 06 × 290 mm"
+  Design: "Wrong Studio"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© Flash Art. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: fVspXiEe7N9MVGeE
+Multilinetitle: Flash Art n°323
+
+----
+
+Uuid: HOQ2YU9JYLWDD8sb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,78 @@
+Oldweltkern:
+
+title: Mousse magazine n°78
+slug: mousse-magazine-n78
+id: 30293
+isbn: NO ISBN
+price: 12.9
+weight: 2.1
+author:
+  name: Mousse Publishing
+  id: 111
+description: '<p>Sadie Barnette, Gabriel Chaile, Vaginal Davis, Marlene Dumas, Ja&#8217;Tovia Gary, Stanislava Kovalcikova, Matthew Langan-Peck, Na Mira, Joseph Yaeger&#8230;</p> <p>A 300-page bilingual (English/Italian) tabloid-format international magazine, every two months since 2006 Mousse has featured interviews, conversations, articles and essays with and about key players on the contemporary art and culture scene (critics, artists, curators), bringing together contributors based in the world&#8217;s major art capitals.<br /> Mousse (Mousse Publishing) is also an editorial platform that publishes numerous catalogs, monographs and artists&#8217; books.</p>'
+details: |
+  ISSN: "2035-2565"
+  Content: "264 pages"
+  Size: "235 × 320 mm"
+  Language: "English / Italian"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Mousse Publishing. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/BOOK_COVER_-7.jpg
+    id: 30363
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/BOOK_SPREAD_-6.jpg
+    id: 30362
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/BOOK_SPREAD_2-6.jpg
+    id: 30361
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/BOOK_SPREAD_3-6.jpg
+    id: 30360
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/BOOK_SPREAD_4-6.jpg
+    id: 30359
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/BOOK_SPREAD_5-5.jpg
+    id: 30358
+tags: [ ]
+
+----
+
+Multilinetitle: Mousse magazine n°78
+
+----
+
+Uuid: KgDdeup43mVUiFXS
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

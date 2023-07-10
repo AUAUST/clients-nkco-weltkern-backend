@@ -1,34 +1,3 @@
-Title: Jörg Brüggemann|Autobahn
-
-----
-
-Multilinetitle:
-
-Jörg Brüggemann
-Autobahn
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Jörg Brüggemann <br>Autobahn'
@@ -40,21 +9,18 @@ weight: 1.2
 author:
   name: Hartmann Books
   id: 309
-description: |
-  <p>The Autobahn is an asphalt carpet thirteen thousand kilometers in length that covers all of Germany, both interfering with the landscape and interconnecting the country. Jörg Brüggemann photographed it for five years, from 2014 to 2019. While mobility concepts are constantly changing and being discussed, the Autobahn has remained the same in its form—but for how much longer? Brüggemann’s pictures might soon be seen as historical documents. The highway is probably Germany’s most monumental built structure and an integral part of its cultural identity and history. Designed and in its first segments constructed in the 1920s already (before the Nazis), it was given a musical tribute by Kraftwerk in 1974. The Autobahn stands for the unconditional belief in the future of the postwar period, German engineering, driving without speed limits, but also for traffic jams, lineups of trucks, and multivehicle accidents. Brüggemann shares his fascination and doubts through his pictures. They pose questions about the present and future of mobility. How appropriate and sustainable is this gigantic infrastructure today, where unlimited growth and individual freedom on the one hand and ecology and public interest on the other hand meet in visible contradiction every day?<br />
-  <br />
-  Jörg Brüggemann is a photographer, lecturer, and curator from Berlin. He has been a member of the OSTKREUZ agency since 2009, and has also worked there as managing director and lecturer since 2019. He works for magazines including ZEIT Magazin, GEO, Monocle, and others and has been awarded numerous prizes and scholarships in the past.</p>
+description: '<p>The Autobahn is an asphalt carpet thirteen thousand kilometers in length that covers all of Germany, both interfering with the landscape and interconnecting the country. Jörg Brüggemann photographed it for five years, from 2014 to 2019. While mobility concepts are constantly changing and being discussed, the Autobahn has remained the same in its form—but for how much longer? Brüggemann’s pictures might soon be seen as historical documents. The highway is probably Germany’s most monumental built structure and an integral part of its cultural identity and history. Designed and in its first segments constructed in the 1920s already (before the Nazis), it was given a musical tribute by Kraftwerk in 1974. The Autobahn stands for the unconditional belief in the future of the postwar period, German engineering, driving without speed limits, but also for traffic jams, lineups of trucks, and multivehicle accidents. Brüggemann shares his fascination and doubts through his pictures. They pose questions about the present and future of mobility. How appropriate and sustainable is this gigantic infrastructure today, where unlimited growth and individual freedom on the one hand and ecology and public interest on the other hand meet in visible contradiction every day?<br /> <br /> Jörg Brüggemann is a photographer, lecturer, and curator from Berlin. He has been a member of the OSTKREUZ agency since 2009, and has also worked there as managing director and lecturer since 2019. He works for magazines including ZEIT Magazin, GEO, Monocle, and others and has been awarded numerous prizes and scholarships in the past.</p>'
 details: |
-  - ISBN: 3960700520 / 978-3960700524
-  - Content: 96 pages
-  - Size: 268 × 320 mm
-  - Artist: Jörg Brüggemann
-  - Edited by: Hartmann Books
-  - Design: HelloMe
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Clothbound hardcover with foil stamping
-  - Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: "3960700520 / 978-3960700524"
+  Content: "96 pages"
+  Size: "268 × 320 mm"
+  Artist: "Jörg Brüggemann"
+  Edited by: "Hartmann Books"
+  Design: "HelloMe"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Clothbound hardcover with foil stamping"
+  Images: "© WELTKERN® / Hartmann Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: qO2C2ZhRUlDtmcxk
+Multilinetitle:
+
+Jörg Brüggemann
+Autobahn
+
+----
+
+Uuid: pZHzUn1BTFUzoxV6
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

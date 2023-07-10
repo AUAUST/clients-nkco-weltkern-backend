@@ -1,31 +1,3 @@
-Title: KAWS
-
-----
-
-Multilinetitle: KAWS
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: KAWS
@@ -39,16 +11,16 @@ author:
   id: 115
 description: '<p>A vibrant look at the celebrated artist and designer KAWS. Multidisciplinary artist KAWS was first known for his work as a graffiti artist and his subersive approach to poular imagery on bus shelter and phone booth advertisements. This is the first comprehensive survey of the artist&#8217;s body of work.</p>'
 details: |
-  - ISBN: 0847834344 / 978-0847834341
-  - Content: 256 pages
-  - :
-  - Size: 216 × 28 × 282 mm
-  - Author: Monica Ramirez-Montagut
-  - Contributions from: Germano Celant
-  - Language: English
-  - Publishing date: 2010
-  - Specs: Hardcover
-  - Images: © Rizzoli Publications. All rights reserved.
+  ISBN: "0847834344 / 978-0847834341"
+  Content: "256 pages"
+  : ""
+  Size: "216 × 28 × 282 mm"
+  Author: "Monica Ramirez-Montagut"
+  Contributions from: "Germano Celant"
+  Language: "English"
+  Publishing date: "2010"
+  Specs: "Hardcover"
+  Images: "© Rizzoli Publications. All rights reserved."
 gallery:
   - 
     url: >
@@ -74,4 +46,32 @@ tags: [ ]
 
 ----
 
-Uuid: tPGPu2sf56VhTI4v
+Multilinetitle: KAWS
+
+----
+
+Uuid: MUp0NmfbmCUhNYxv
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

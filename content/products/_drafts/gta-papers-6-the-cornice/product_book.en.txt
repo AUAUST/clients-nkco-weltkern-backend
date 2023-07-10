@@ -1,34 +1,3 @@
-Title: gta papers 6|The Cornice
-
-----
-
-Multilinetitle:
-
-gta papers 6
-The Cornice
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'gta papers 6 <br>The Cornice'
@@ -42,14 +11,14 @@ author:
   id: 324
 description: '<p>Since the rise of avantgarde modernism, the cornice has been existing undercover. Dismissed by Le Corbusier but celebrated by Erich Mendelsohn in the form of architectural rally stripes, it was grandly rehabilitated in postmodernism. In contemporary architecture it leads a secret life between shadow gap and gutter, often reduced to the practical aspect of keeping water off the façade. Yet historically, the cornice has been the crowning element of architecture. Drawn, measured from ancient models, and theorized over centuries, the cornice established meaningful architectural order beyond the classical architectural orders. Much more than just a decorative element, the cornice played a crucial role in mediating between an individual and space. This issue of gta papers offers perspectives on the cornice from early modern to contemporary times, from its symbolic meaning and visual power to construction and law, from New York to Turin to Turkey.</p>'
 details: |
-  - ISBN: 3856764173 / 978-3856764173
-  - Content: 134 pages
-  - Size: 210 × 297 mm
-  - Language: English
-  - Graphic Design by: büro uebele
-  - Publication: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Gta Verlag. All rights reserved.
+  ISBN: "3856764173 / 978-3856764173"
+  Content: "134 pages"
+  Size: "210 × 297 mm"
+  Language: "English"
+  Graphic Design by: "büro uebele"
+  Publication: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Gta Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: wVAGslTukHEHAbeV
+Multilinetitle:
+
+gta papers 6
+The Cornice
+
+----
+
+Uuid: 0pfsX8xIUc7jSTSW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

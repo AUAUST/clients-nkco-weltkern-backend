@@ -1,4 +1,30 @@
-Title: Saskia Groneberg|Vesuv, Venus
+Oldweltkern:
+
+title: 'Saskia Groneberg <br>Vesuv, Venus'
+slug: saskia-groneberg-vesuv-venus
+id: 14134
+isbn: '3945900826 / 978-3945900826 '
+price: 41.8
+weight: 1.4
+author:
+  name: Edition Taube
+  id: 272
+description: '<p>Since the Age of Enlightenment our understanding of nature in the Western world has undergone a profound transformation, and no other medium captures this quite like the English landscape garden.<br /> <br /> In Vesuv, Venus, Saskia Groneberg takes a closer look at one of Europe’s most significant garden monuments, Wörlitzer Park. She embarks on a photographic journey in search of the age-old dream of a paradise on Earth, the harmonious coexistence of humankind and nature. In fine gradations of gray, she plays with the contradictory yet dreamlike spaces of this art(ificial) nature, oscillating between utopia and reality.<br /> <br /> On this journey through the park, space and time grow indistinguishable. Winter follows spring, detail follows sequence, dream leads to deconstruction. A replica of Mount Vesuvius fashioned from enormous blocks of stone and the sculpture of a Venus de Medici simultaneously symbolize and deconstruct the antipodes of masculine and feminine, earthly and divine, darkness and light. Mythical motifs such as the swan and the fig leaf brush up against mundane tourists. The latter sit in gondolas on the lake, hurry towards historical architectures – fold-out maps and walking sticks in hand – or follow winding paths from viewpoint to viewpoint. Along the way, the plants, buildings, canals, even the wildlife reveal themselves to be part of a dreamlike scenery in which the visitors move about like figures in a tableau vivant. They are observers and at the same time protagonists of a never-ending play.</p>'
+details: |
+  ISBN: "3945900826 / 978-3945900826 "
+  Content: "148 Pages"
+  Size: "245 × 22 × 310 mm"
+  Artist: "Vesuv, Venus"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Edition Taube. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Vesuv.jpg
+    id: 14167
+tags: [ ]
 
 ----
 
@@ -9,15 +35,23 @@ Vesuv, Venus
 
 ----
 
+Uuid: WDyQk5LTUEQL2ZfQ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
 Publisher: 
 
 ----
 
-Auto-kerns: true
+Tags: 
 
 ----
 
-Image: 
+Auto-kerns: true
 
 ----
 
@@ -26,44 +60,3 @@ Cover:
 ----
 
 Supplier: 
-
-----
-
-Oldweltkern:
-
-title: 'Saskia Groneberg <br>Vesuv, Venus'
-slug: saskia-groneberg-vesuv-venus
-id: 14134
-isbn: |
-  3945900826 / 978-3945900826
-price: 41.8
-weight: 1.4
-author:
-  name: Edition Taube
-  id: 272
-description: |
-  <p>Since the Age of Enlightenment our understanding of nature in the Western world has undergone a profound transformation, and no other medium captures this quite like the English landscape garden.<br />
-  <br />
-  In Vesuv, Venus, Saskia Groneberg takes a closer look at one of Europe’s most significant garden monuments, Wörlitzer Park. She embarks on a photographic journey in search of the age-old dream of a paradise on Earth, the harmonious coexistence of humankind and nature. In fine gradations of gray, she plays with the contradictory yet dreamlike spaces of this art(ificial) nature, oscillating between utopia and reality.<br />
-  <br />
-  On this journey through the park, space and time grow indistinguishable. Winter follows spring, detail follows sequence, dream leads to deconstruction. A replica of Mount Vesuvius fashioned from enormous blocks of stone and the sculpture of a Venus de Medici simultaneously symbolize and deconstruct the antipodes of masculine and feminine, earthly and divine, darkness and light. Mythical motifs such as the swan and the fig leaf brush up against mundane tourists. The latter sit in gondolas on the lake, hurry towards historical architectures – fold-out maps and walking sticks in hand – or follow winding paths from viewpoint to viewpoint. Along the way, the plants, buildings, canals, even the wildlife reveal themselves to be part of a dreamlike scenery in which the visitors move about like figures in a tableau vivant. They are observers and at the same time protagonists of a never-ending play.</p>
-details: |
-  - ISBN: 3945900826 / 978-3945900826
-  
-  - Content: 148 Pages
-  - Size: 245 × 22 × 310 mm
-  - Artist: Vesuv, Venus
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Edition Taube. All rights reserved.
-gallery:
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/12/BOOK_COVER_Vesuv.jpg
-    id: 14167
-tags: [ ]
-
-----
-
-Uuid: cNdfoD2VXHnTsdPF

@@ -1,34 +1,3 @@
-Title: Le Silver Book|Second Edition
-
-----
-
-Multilinetitle:
-
-Le Silver Book
-Second Edition
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Le Silver Book <br>Second Edition'
@@ -40,23 +9,18 @@ weight: 0.3
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>&#8220;Le Silver: An Italian Oral History of the Nike Air Max 97&#8221; is a book by Lodovico Pignatti Morano published by KALEIDOSCOPE in 2017, and celebrating the Nike Air Max 97, a reflective silver shoe created by a young internal designer the bulk of whose previous experience lay in elite-level football boots.<br />
-  <br />
-  The shoe sold well globally without ever accruing the strong cultural associations achieved by previous Air Max models such as the 90, BW Classic and 95. Except in Italy. In Italy, the shoe was first adopted <em>en-masse</em> by underground scenes before being discovered by the Milanese fashion system and going on to become an unprecedented commercial success, seeping through to every city, province and demographic in the country.<br />
-  <br />
-  Originally a report commissioned by Nike, the book “Le Silver: An Italian Oral History of the Nike Air Max 97” tells the story of the phenomenon through the voices of those who wore the shoe with the greatest obsessiveness. In doing so, it becomes a snapshot of the attitude of late ‘90s Italian urban culture.</p>
+description: '<p>&#8220;Le Silver: An Italian Oral History of the Nike Air Max 97&#8221; is a book by Lodovico Pignatti Morano published by KALEIDOSCOPE in 2017, and celebrating the Nike Air Max 97, a reflective silver shoe created by a young internal designer the bulk of whose previous experience lay in elite-level football boots.<br /> <br /> The shoe sold well globally without ever accruing the strong cultural associations achieved by previous Air Max models such as the 90, BW Classic and 95. Except in Italy. In Italy, the shoe was first adopted <em>en-masse</em> by underground scenes before being discovered by the Milanese fashion system and going on to become an unprecedented commercial success, seeping through to every city, province and demographic in the country.<br /> <br /> Originally a report commissioned by Nike, the book “Le Silver: An Italian Oral History of the Nike Air Max 97” tells the story of the phenomenon through the voices of those who wore the shoe with the greatest obsessiveness. In doing so, it becomes a snapshot of the attitude of late ‘90s Italian urban culture.</p>'
 details: |
-  - ISBN: 2840669562 / 978-2840669562
-  - Content: 152 Pages
-  - Size: 125 × 10 × 205 mm
-  - Author: Lodovico Pignatti Morano
-  - Texts by: Lodovico Pignatti Morano
-  - Design: Bureau Mirko Borsche
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISBN: "2840669562 / 978-2840669562"
+  Content: "152 Pages"
+  Size: "125 × 10 × 205 mm"
+  Author: "Lodovico Pignatti Morano"
+  Texts by: "Lodovico Pignatti Morano"
+  Design: "Bureau Mirko Borsche"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,4 +42,35 @@ tags: [ ]
 
 ----
 
-Uuid: Q4iUPd3e5hS2coxH
+Multilinetitle:
+
+Le Silver Book
+Second Edition
+
+----
+
+Uuid: fIxbKBumVeNwdFEA
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

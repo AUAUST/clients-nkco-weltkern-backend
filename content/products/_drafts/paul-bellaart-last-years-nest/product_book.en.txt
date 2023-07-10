@@ -1,34 +1,3 @@
-Title: Paul Bellaart|Last Year‘s Nest
-
-----
-
-Multilinetitle:
-
-Paul Bellaart
-Last Year‘s Nest
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Paul Bellaart <br>Last Year‘s Nest'
@@ -40,17 +9,15 @@ weight: 0.8
 author:
   name: Distanz
   id: 366
-description: |
-  <p>Paul Bellaart’s (b. Leiden, Netherlands; lives and works in Amster- dam) photographs captivate the eye with their narrative force and are much more than commercial work. Coincidence is a key source of inspiration for Bellaart’s fashion and portrait photographs, lending his work a distinctive quality that has caught the attention of renowned media and brands including Vogue, Vanity Fair, Burberry, Hermès, and Universal Music. In his new project, titled Last Year’s Nest, Bellaart, a master of black-and-white photography, now strikes a more delicate note, presenting a series of still lifes and nudes. The protagonists might be characters in a Sofia Coppola movie: strong individuals who are not afraid to show their vulnerability and who, in Bellaart’s abstract black-and-white shots, roam lush summer landscapes.</p>
-  <p>The monograph Tools for Conviviality includes writings by Carlos Kong and Mahret Ifome Kupka on the current exhibition project as well as an overview of the artist’s work from 2015 to the present.</p>
+description: '<p>Paul Bellaart’s (b. Leiden, Netherlands; lives and works in Amster- dam) photographs captivate the eye with their narrative force and are much more than commercial work. Coincidence is a key source of inspiration for Bellaart’s fashion and portrait photographs, lending his work a distinctive quality that has caught the attention of renowned media and brands including Vogue, Vanity Fair, Burberry, Hermès, and Universal Music. In his new project, titled Last Year’s Nest, Bellaart, a master of black-and-white photography, now strikes a more delicate note, presenting a series of still lifes and nudes. The protagonists might be characters in a Sofia Coppola movie: strong individuals who are not afraid to show their vulnerability and who, in Bellaart’s abstract black-and-white shots, roam lush summer landscapes.</p> <p>The monograph Tools for Conviviality includes writings by Carlos Kong and Mahret Ifome Kupka on the current exhibition project as well as an overview of the artist’s work from 2015 to the present.</p>'
 details: |
-  - ISBN: 3954763399 / 978-3954763399
-  - Content: 156 Pages
-  - Size: 240 × 320 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: "3954763399 / 978-3954763399"
+  Content: "156 Pages"
+  Size: "240 × 320 mm"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Distanz. All rights reserved."
 gallery:
   - 
     url: >
@@ -72,4 +39,35 @@ tags: [ ]
 
 ----
 
-Uuid: GcoQIWPJNR32I9WX
+Multilinetitle:
+
+Paul Bellaart
+Last Year‘s Nest
+
+----
+
+Uuid: IRN1wfe0hJpfNdAu
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

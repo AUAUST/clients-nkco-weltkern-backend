@@ -1,34 +1,3 @@
-Title: Words form language|On Concrete Poetry, Typography, and the Work of Eugen Gomringer
-
-----
-
-Multilinetitle:
-
-Words form language
-On Concrete Poetry, Typography, and the Work of Eugen Gomringer
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Words form language <br>On Concrete Poetry, Typography, and the Work of Eugen Gomringer'
@@ -41,19 +10,15 @@ weight: 0.5
 author:
   name: Triest Verlag
   id: 97
-description: |
-  <p>Bolivian-born Swiss poet, writer and publisher Eugen Gomringer (*1925) is often described as the father of concrete poetry. He was an active figure in Switzerland’s post-war design and art scene and was a voice of poetry at the intersection of literature, art and design.</p>
-  <p>From 1953 onwards, together with Dieter Roth and Marcel Wyss, Gomringer co-published the artist’s magazine spirale, that formed the starting point for his form of poetry.<br />
-  From an early stage, Gomringer wanted to blur the boundaries of poetry and the language of advertising. Throughout his entire career he remained an advocate of interdisciplinarity, collaborating actively with artists and graphic designers such as Max Bill, Karl Gerstner, Anton Stankowski and above all the Zurich-based design studio E + U Hiestand.</p>
-  <p>This publication was created following extensive research in archives in Switzerland and Germany. The book combines original images and selected works from Gomringer’s long-standing collaborations as art director and copy-writer for various companies. It also contains the theoretical essay “vom vers zur konstellation” (from verse to constellation), Gomringer’s original manifesto published in 1954.</p>
+description: '<p>Bolivian-born Swiss poet, writer and publisher Eugen Gomringer (*1925) is often described as the father of concrete poetry. He was an active figure in Switzerland’s post-war design and art scene and was a voice of poetry at the intersection of literature, art and design.</p> <p>From 1953 onwards, together with Dieter Roth and Marcel Wyss, Gomringer co-published the artist’s magazine spirale, that formed the starting point for his form of poetry.<br /> From an early stage, Gomringer wanted to blur the boundaries of poetry and the language of advertising. Throughout his entire career he remained an advocate of interdisciplinarity, collaborating actively with artists and graphic designers such as Max Bill, Karl Gerstner, Anton Stankowski and above all the Zurich-based design studio E + U Hiestand.</p> <p>This publication was created following extensive research in archives in Switzerland and Germany. The book combines original images and selected works from Gomringer’s long-standing collaborations as art director and copy-writer for various companies. It also contains the theoretical essay “vom vers zur konstellation” (from verse to constellation), Gomringer’s original manifesto published in 1954.</p>'
 details: |
-  - ISBN: 3038630692 / 978-3038630692
-  - Content: 220 pages
-  - Size: 160 × 240 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Triest Verlag. All rights reserved.
+  ISBN: "3038630692 / 978-3038630692"
+  Content: "220 pages"
+  Size: "160 × 240 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Triest Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: TAcpSz6jeb9jr2Cd
+Multilinetitle:
+
+Words form language
+On Concrete Poetry, Typography, and the Work of Eugen Gomringer
+
+----
+
+Uuid: kXV7UhrBnEjEXQb8
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

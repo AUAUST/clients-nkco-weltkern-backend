@@ -1,34 +1,3 @@
-Title: Stephanie Baechler|Dear Clay,
-
-----
-
-Multilinetitle:
-
-Stephanie Baechler
-Dear Clay,
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Stephanie Baechler <br>Dear Clay,'
@@ -42,13 +11,13 @@ author:
   id: 389
 description: '<p>In his practice, Lukas Rehm examines the conditions and theatrics of social structures and the impact of new technological artefacts. Borrowing its form and structure from the graphic novel, ‘333’ interweaves moving image works with textual fragments from transcripts, referential sources, or retrospective descriptions. Seeking and sensing threads such as affect, barriers, memory, knowledge production, or post-human timescales, the publication transposes the still images and quotes into an analogue sequence echoing the temporal, spatial, and sonic dimensions of installation constructs and filmic experiences. The artist’s process therefore becomes a narrative of new interdependencies.</p>'
 details: |
-  - ISBN: 9082771213 / 978-9082771213
-  - Content: 240 pages
-  - Size: 200 × 280 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © WELTKERN® / Building Fictions. All rights reserved.
+  ISBN: "9082771213 / 978-9082771213"
+  Content: "240 pages"
+  Size: "200 × 280 mm"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Building Fictions. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,4 +47,35 @@ tags: [ ]
 
 ----
 
-Uuid: OWBuKClKvVDq12SD
+Multilinetitle:
+
+Stephanie Baechler
+Dear Clay,
+
+----
+
+Uuid: F3gj7AC1832GEUQL
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

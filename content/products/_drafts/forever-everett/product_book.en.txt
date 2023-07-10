@@ -1,31 +1,3 @@
-Title: Forever Everett
-
-----
-
-Multilinetitle: Forever Everett
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Forever Everett
@@ -39,23 +11,19 @@ author:
   id: 193
 description: '<p>Forever Everett is an hybrid publication celebrating simultaneously Daniel Everett’s photographic work and the eponymous typeface designed by Nolan Paparelli. The publication is composed of a series of 6 double-sided posters, folded twice, which becomes a large booklet when combined together, always alternating between photo- and typographic details. While both medium react to each other at an equal level as a spread, being zoomed in and fostering interesting close-up, each sheet can then be taken out and used as a single poster. This hybrid form also echoes the versatility of the typeface, showing its interesting balance between a display and text typeface. Each type poster highlights quotes from the photographer himself with different weights and sizes, showing the full spectrum of the Everett font family.</p>'
 details: |
-  - Published by: WELTKERN®
-  - Content: 24 pages
-  - Size: Publication: 240 × 340 mm
-  Poster: 480 x 680 mm
-  - Weight: 0.195 kg
-  - Design: Nolan Paparelli
-  - Photographs by: Daniel Everett
-  - Language: English
-  - Publishing date: 21 03 2022
-  - Printed by: Offizin Scheufele, Germany
-  - Specs: Softcover (no binding)
-  3x photo posters, double-sided, folded twice
-  3x type posters, double-sided, folded twice
-  - Paper: Okastar 100g/m2 (coated)
-  Munken 100g/m2 (uncoated)
-  - Print run: 500 ex.
-  - Images: © WELTKERN® / Nolan Paparelli All rights reserved.
+  Published by: "WELTKERN®"
+  Content: "24 pages"
+  Size: "Publication: 240 × 340 mm Poster: 480 x 680 mm"
+  Weight: "0.195 kg"
+  Design: "Nolan Paparelli"
+  Photographs by: "Daniel Everett"
+  Language: "English"
+  Publishing date: "21 03 2022"
+  Printed by: "Offizin Scheufele, Germany"
+  Specs: "Softcover (no binding) 3x photo posters, double-sided, folded twice 3x type posters, double-sided, folded twice"
+  Paper: "Okastar 100g/m2 (coated) Munken 100g/m2 (uncoated)"
+  Print run: "500 ex."
+  Images: "© WELTKERN® / Nolan Paparelli All rights reserved."
 gallery:
   - 
     url: >
@@ -121,4 +89,32 @@ tags: [ ]
 
 ----
 
-Uuid: iWNjHpHUJumFX5f2
+Multilinetitle: Forever Everett
+
+----
+
+Uuid: 4oPfl9zsvtkc5WPH
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

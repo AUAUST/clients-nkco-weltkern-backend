@@ -1,34 +1,3 @@
-Title: KALEIDOSCOPE #37 FW20-21|Cover: S.R. Studio. LA. CA
-
-----
-
-Multilinetitle:
-
-KALEIDOSCOPE #37 FW20-21
-Cover: S.R. Studio. LA. CA
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #37 FW20-21 <br>Cover: S.R. Studio. LA. CA'
@@ -41,42 +10,15 @@ weight: 2.1
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p><em>KALEIDOSCOPE</em>‘s new issue #37 (fall/winter 2020-21) is a special edition labeled OUT THERE, entirely dedicated to the ethics and aesthetics of the outdoors.<br />
-  <br />
-  Aiming to provide a timely take on geography and ecology through the lens of visual culture, our research steps out of the enclosed spaces of the artist’s studio, the museum, and the gallery (which Robert Smithson called “non-sites”) to look at art that&#8217;s created outdoors and concerns itself with the natural environment, the street, and the outer space. In the age of lockdowns, forest fires, and rising sea levels, we examine the consequences of the Anthropocene through artist portfolios, visual essays, interviews, and trend reports—addressing a variety of topics such as geotechnology, food justice, terraforming, climate grief, land art, techwear, surveillance, war, and survivalism.<br />
-  <br />
-  Furthering our new graphic identity by Swiss art direction and graphic design studio Kasper-Florio, once again “hacked” by a set of illustrations by Berlin-based studio PWR, the magazine’s launch will be celebrated with a multidisciplinary exhibition taking place at Spazio Maiocchi in the fall.<br />
-  <br />
-  This issue comes with a set of six covers:<br />
-  <br />
-  In the footsteps by Paul Virilio’s seminal 1975 book <em>Bunker Archaeology</em>, the decaying WW2 fortifications laying on the French coast (photographed by Thibaut Grevet) provide the backdrop to interrogate the technical challenges of a dystopian future, as imagined by Virgil Abloh in the Louis Vuitton 2054 collection.<br />
-  <br />
-  Through an essay by Taylore Scarabelli and a visual essay by image bank organiclab.zip and creative agency General_Index, we look at the burgeoning industry of outdoor clothing—suddenly catering to anyone from athletes to minimalist millennials to tech bros—and analyze the phenomenon’s motives, perks, and shortcomings.<br />
-  <br />
-  Set in the Sawtooth Mountains in Idaho, a site for wolf reintroduction in the early ‘90s, the latest body of work by Matthew Barney addresses the mythology of the American West, ecosystem balance, exile and reparation, and the tradition of land art, as he discusses in conversation with curator Neville Wakefield.<br />
-  <br />
-  As the seduction of dystopia continues to spiral into apocalyptic narratives, a collection of unique garments by S.R. Studio LA. CA. (photographed by Caroline Tompkins) and an essay by Whitney Mallett paint a picture of nihilistic survivalism, retracing the splurge of cults that have emerged from the ashes of ‘70s counterculture.<br />
-  <br />
-  Peter Sutherland talks to Katja Horvat about his decision, after twenty years in New York, to leave the city during the lockdown and move back to his native Colorado—resulting in a largely autobiographical body of work brimming with life, family, and nature, punctuated by hikes, camping, bike rides, and goat searching.<br />
-  <br />
-  In this Gucci exclusive cover, Francesca Gavin outlines the musical legacy, eccentric persona, and visionary art of Jamaican-born, Swiss-based cultural pioneer Lee “Scratch” Perry, who invented the genre and methodology of dub—bringing us on a journey through outer and inner space, nature, and the complexities of the Afrodiasporic experience.<br />
-  <br />
-  Also featured in this issue:<br />
-  <br />
-  AMO (interview by Alice Bucknell); Mycophilia (words by Francesca Gavin); Gordon Matta-Clark (words by Kitty Scott); Treehugging (words by Patrick McGraw); Trend Report: Notes on Camo (words by Calum Gordon and DEEP, artworks by Chris Glickman and Ada Sokół); Abstract: The Terraforming (edited in partnership with the Strelka Institute in Moscow); Monira Al Qadiri (interview by Myriam Ben Salah); Sean Vegezzi (interview by Theo Kindynis); Sky High Farm (words by Lucas Mascatello); and Tommy Malekoff (interview by James Wines).<br />
-  <br />
-  And finally, “SEASON,” the magazine’s opening section, accounts for the best of this fall/winter with profiles and interviews:<br />
-  <br />
-  Jean-Marie Appriou by Harry Burke; Takashi Homma by Olivia Whittick; Kamixlo by John Twells; Tishan Hsu by Lola Kramer; Josh Kline by Adriana Blidaru; Bone Soda by Carlotta Maneschi; Oswalde by Rhea Dillon; Linder Sterling by Francesca Gavin; Dachi Cole by Lucas Mascatello; Austin Lee by Gabriela Acha; The New Normal by Allan Gardner; Alex Becerra by Mitchell Anderson; Collina Strada by Carlotta Maneschi; OJAS by Katja Horvat; Ram Han by Thomas Mouna; Actress by Anna Tehabsim; Hannah Quinlan &#038; Rosie Hastings by Reba Maybury; ize by Katja Horvat; DeForrest Brown, Jr. by Deborah-Joyce Holman; GR10K by Madeleine Holth; Darja Bajagić by Pierre-Alexandre Mateos &#038; Charles Teyssou.</p>
+description: '<p><em>KALEIDOSCOPE</em>‘s new issue #37 (fall/winter 2020-21) is a special edition labeled OUT THERE, entirely dedicated to the ethics and aesthetics of the outdoors.<br /> <br /> Aiming to provide a timely take on geography and ecology through the lens of visual culture, our research steps out of the enclosed spaces of the artist’s studio, the museum, and the gallery (which Robert Smithson called “non-sites”) to look at art that&#8217;s created outdoors and concerns itself with the natural environment, the street, and the outer space. In the age of lockdowns, forest fires, and rising sea levels, we examine the consequences of the Anthropocene through artist portfolios, visual essays, interviews, and trend reports—addressing a variety of topics such as geotechnology, food justice, terraforming, climate grief, land art, techwear, surveillance, war, and survivalism.<br /> <br /> Furthering our new graphic identity by Swiss art direction and graphic design studio Kasper-Florio, once again “hacked” by a set of illustrations by Berlin-based studio PWR, the magazine’s launch will be celebrated with a multidisciplinary exhibition taking place at Spazio Maiocchi in the fall.<br /> <br /> This issue comes with a set of six covers:<br /> <br /> In the footsteps by Paul Virilio’s seminal 1975 book <em>Bunker Archaeology</em>, the decaying WW2 fortifications laying on the French coast (photographed by Thibaut Grevet) provide the backdrop to interrogate the technical challenges of a dystopian future, as imagined by Virgil Abloh in the Louis Vuitton 2054 collection.<br /> <br /> Through an essay by Taylore Scarabelli and a visual essay by image bank organiclab.zip and creative agency General_Index, we look at the burgeoning industry of outdoor clothing—suddenly catering to anyone from athletes to minimalist millennials to tech bros—and analyze the phenomenon’s motives, perks, and shortcomings.<br /> <br /> Set in the Sawtooth Mountains in Idaho, a site for wolf reintroduction in the early ‘90s, the latest body of work by Matthew Barney addresses the mythology of the American West, ecosystem balance, exile and reparation, and the tradition of land art, as he discusses in conversation with curator Neville Wakefield.<br /> <br /> As the seduction of dystopia continues to spiral into apocalyptic narratives, a collection of unique garments by S.R. Studio LA. CA. (photographed by Caroline Tompkins) and an essay by Whitney Mallett paint a picture of nihilistic survivalism, retracing the splurge of cults that have emerged from the ashes of ‘70s counterculture.<br /> <br /> Peter Sutherland talks to Katja Horvat about his decision, after twenty years in New York, to leave the city during the lockdown and move back to his native Colorado—resulting in a largely autobiographical body of work brimming with life, family, and nature, punctuated by hikes, camping, bike rides, and goat searching.<br /> <br /> In this Gucci exclusive cover, Francesca Gavin outlines the musical legacy, eccentric persona, and visionary art of Jamaican-born, Swiss-based cultural pioneer Lee “Scratch” Perry, who invented the genre and methodology of dub—bringing us on a journey through outer and inner space, nature, and the complexities of the Afrodiasporic experience.<br /> <br /> Also featured in this issue:<br /> <br /> AMO (interview by Alice Bucknell); Mycophilia (words by Francesca Gavin); Gordon Matta-Clark (words by Kitty Scott); Treehugging (words by Patrick McGraw); Trend Report: Notes on Camo (words by Calum Gordon and DEEP, artworks by Chris Glickman and Ada Sokół); Abstract: The Terraforming (edited in partnership with the Strelka Institute in Moscow); Monira Al Qadiri (interview by Myriam Ben Salah); Sean Vegezzi (interview by Theo Kindynis); Sky High Farm (words by Lucas Mascatello); and Tommy Malekoff (interview by James Wines).<br /> <br /> And finally, “SEASON,” the magazine’s opening section, accounts for the best of this fall/winter with profiles and interviews:<br /> <br /> Jean-Marie Appriou by Harry Burke; Takashi Homma by Olivia Whittick; Kamixlo by John Twells; Tishan Hsu by Lola Kramer; Josh Kline by Adriana Blidaru; Bone Soda by Carlotta Maneschi; Oswalde by Rhea Dillon; Linder Sterling by Francesca Gavin; Dachi Cole by Lucas Mascatello; Austin Lee by Gabriela Acha; The New Normal by Allan Gardner; Alex Becerra by Mitchell Anderson; Collina Strada by Carlotta Maneschi; OJAS by Katja Horvat; Ram Han by Thomas Mouna; Actress by Anna Tehabsim; Hannah Quinlan &#038; Rosie Hastings by Reba Maybury; ize by Katja Horvat; DeForrest Brown, Jr. by Deborah-Joyce Holman; GR10K by Madeleine Holth; Darja Bajagić by Pierre-Alexandre Mateos &#038; Charles Teyssou.</p>'
 details: |
-  - ISSN: 2038-4087
-  - Content: 452 Pages
-  - Size: 230 × 24 × 300 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISSN: "2038-4087"
+  Content: "452 Pages"
+  Size: "230 × 24 × 300 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -166,4 +108,35 @@ tags: [ ]
 
 ----
 
-Uuid: OH8LKLgBicyG2z7v
+Multilinetitle:
+
+KALEIDOSCOPE #37 FW20-21
+Cover: S.R. Studio. LA. CA
+
+----
+
+Uuid: vkXmG2b783F5tSPM
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

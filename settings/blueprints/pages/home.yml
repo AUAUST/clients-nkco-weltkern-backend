@@ -1,7 +1,6 @@
 title:
   fr: "Page d'accueil"
   en: "Home page"
-
 icon: home
 
 options:
@@ -15,20 +14,152 @@ options:
 
 tabs:
   content:
-    fields:
-      text: true
-  seo:
-    fields:
-      metaDescription:
-        label:
-          fr: "Description"
-          en: "Description"
-        type: textarea
-        size: small
-        buttons: false
+    columns:
+      hero:
         width: 1/2
-      metaRobots: true
-      metaImage: true
-      metaCanonical: true
-      metaRedirect: true
-      metaTags: true
+        sections:
+          hero:
+            type: fields
+            fields:
+              hero:
+                type: pages
+                label:
+                  fr: "Héros actuel"
+                  en: "Current hero"
+                # TODO: drafts -> published
+                query: site.find("home").find("heroes").children
+                layout: cards
+                size: huge
+                max: 1
+                required: true
+                translate: false
+                when:
+                  heroMode: selected
+              heroPreview:
+                type: homepage-hero
+                label:
+                  fr: "Héros actuel"
+                  en: "Current hero"
+                layout: cards
+                size: huge
+                when:
+                  heroMode: automatic
+      heroes:
+        width: 1/2
+        sections:
+          heroSettings:
+            type: fields
+            fields:
+              heroMode:
+                type: toggles
+                label:
+                  fr: "Héros automatique"
+                  en: "Automatic hero"
+                options:
+                  selected:
+                    fr: "Héros spécifique"
+                    en: "Specific hero"
+                  automatic:
+                    fr: "Héros automatique"
+                    en: "Automatic hero"
+                help:
+                  fr: |
+                    En mode spécifique, le héros sélectionné ci-contre est affiché sans condition.
+                    En mode automatique, le héros est déterminé en fonction du calendrier des héros.
+          heroes:
+            type: pages
+            label:
+              fr: "Héros"
+              en: "Heroes"
+            templates:
+              - hero_product
+              - hero_image
+            parent: site.find("home").find("heroes")
+            layout: table
+            limit: 7
+            columns:
+              visibleSince:
+                label:
+                  fr: "Visible depuis"
+                  en: "Visible since"
+                width: 1/4
+      cardletsPicker:
+        width: 1/2
+        sections:
+          cardletsPicker:
+            type: fields
+            fields:
+              cardlets:
+                type: pages
+                label:
+                  fr: "Cardlets actuelles"
+                  en: "Current cardlets"
+                # TODO: drafts -> published
+                query: site.find("home").find("cardlets").drafts
+                layout: cards
+                size: tiny
+                empty:
+                  fr: "Aucune cardlet actuellement sélectionnée"
+                  en: "No cardlet currently selected"
+                max: 3
+      cardlets:
+        width: 1/2
+        sections:
+          cardlets:
+            type: pages
+            label:
+              fr: "Cardlets"
+              en: "Cardlets"
+            templates:
+              - home_cardlet
+            parent: site.find("home").find("cardlets")
+            layout: table
+            limit: 5
+      main:
+        type: fields
+        fields:
+          main:
+            type: blocks
+            label:
+              fr: "Contenu principal"
+              en: "Main content"
+            translate: false
+            required: true
+            fieldsets:
+              text:
+                label: Text
+                type: group
+                fieldsets:
+                  - heading
+                  - text
+                  - list
+              media:
+                label: Media
+                type: group
+                fieldsets:
+                  - image
+                  - video
+              code:
+                label: Code
+                type: group
+                fieldsets:
+                  spacer: true
+                  articles: true
+# seo:
+# fields:
+# metaDescription:
+#   label:
+#     fr: "Description"
+#     en: "Description"
+#   type: textarea
+#   size: small
+#   buttons: false
+#   width: 1/2
+# metaRobots: true
+# metaImage: true
+# metaCanonical: true
+# metaRedirect: true
+# metaTags: true
+# foo: |
+#   lorem ipsum (footnote: 1 text:coucou c boubou) sdjlaksj lkajsd
+#   (footnote: 2 text: cool)

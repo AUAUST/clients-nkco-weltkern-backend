@@ -1,34 +1,3 @@
-Title: Experimental Jetset|Superstructures
-
-----
-
-Multilinetitle:
-
-Experimental Jetset
-Superstructures
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Experimental Jetset <br>Superstructures'
@@ -42,13 +11,13 @@ author:
   id: 268
 description: '<p>Experimental Jetset’s second volume in its self-reflective series is an inquiry into the role of the city as an infrastructure for language and vice versa, seen through the lens of four significant movements: Constructivism, Situationist International, Provo, and Post-Punk. Emerging from a research project and exhibition by the design studio, the book features extensive footnotes by 20 guest authors, including Linda van Deursen, Owen Hatherley, Adam Pendleton, Simon Reynolds, Lori Waxman, Mimi Zeiger, and others. An added bonus: it comes with a 26-page zine, zooming in on the design typology of the original exhibition.</p>'
 details: |
-  - ISBN: 9492811868 / 978-9492811868
-  - Content: 424 pages
-  - Size: 110 × 180 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Softcover
-  - Images: © WELTKERN® / Roma Publications / Draw Down Books. All rights reserved.
+  ISBN: "9492811868 / 978-9492811868"
+  Content: "424 pages"
+  Size: "110 × 180 mm"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Roma Publications / Draw Down Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,4 +27,35 @@ tags: [ ]
 
 ----
 
-Uuid: ahVTF1E6hGWEsUxv
+Multilinetitle:
+
+Experimental Jetset
+Superstructures
+
+----
+
+Uuid: pre4KnJuJLibKQhb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

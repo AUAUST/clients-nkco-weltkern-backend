@@ -1,34 +1,3 @@
-Title: Marcus Sendlinger|Phantom Ride
-
-----
-
-Multilinetitle:
-
-Marcus Sendlinger
-Phantom Ride
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Marcus Sendlinger <br>Phantom Ride'
@@ -40,18 +9,15 @@ weight: 0.9
 author:
   name: Distanz
   id: 366
-description: |
-  <p>The painter, musician, and sculptor Marcus Sendlinger (b. Königstein im Taunus, Germany, 1967; lives and works in Lentzke) collages, abstracts, and recontextualizes relics of urban life he collects on his travels. Pictures of sunsets, palm trees, or mountain landscapes figure in collages together with shady advertisements, newspaper clippings, or hotel bills. The humdrum of daily life and the real world are the source of inspiration for Sendlinger’s process-based works, which combine silkscreen printing and collage with painting for a meditation on an age of overwrought excess between irremediable decline and advancing hypermodernity. A traveling artist, he celebrates an ambivalence between romanticism and bottomless despair that inhabits his works and entrusts his gathered insights to the beholder’s critical eyes.<br />
-  <br />
-  The publication Phantom Ride presents collages and sculptures from the past three years to chart a journey through cities and peripheries dotted with traces of a promise of freedom.</p>
+description: '<p>The painter, musician, and sculptor Marcus Sendlinger (b. Königstein im Taunus, Germany, 1967; lives and works in Lentzke) collages, abstracts, and recontextualizes relics of urban life he collects on his travels. Pictures of sunsets, palm trees, or mountain landscapes figure in collages together with shady advertisements, newspaper clippings, or hotel bills. The humdrum of daily life and the real world are the source of inspiration for Sendlinger’s process-based works, which combine silkscreen printing and collage with painting for a meditation on an age of overwrought excess between irremediable decline and advancing hypermodernity. A traveling artist, he celebrates an ambivalence between romanticism and bottomless despair that inhabits his works and entrusts his gathered insights to the beholder’s critical eyes.<br /> <br /> The publication Phantom Ride presents collages and sculptures from the past three years to chart a journey through cities and peripheries dotted with traces of a promise of freedom.</p>'
 details: |
-  - ISBN: 3954763745 / 978-3954763740
-  - Content: 128 pages
-  - Size: 220 × 280 mm
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: "3954763745 / 978-3954763740"
+  Content: "128 pages"
+  Size: "220 × 280 mm"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Distanz. All rights reserved."
 gallery:
   - 
     url: >
@@ -77,4 +43,35 @@ tags: [ ]
 
 ----
 
-Uuid: ziCRAxMG6jrSXmYn
+Multilinetitle:
+
+Marcus Sendlinger
+Phantom Ride
+
+----
+
+Uuid: tL9i05c3jrRYcZ6u
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

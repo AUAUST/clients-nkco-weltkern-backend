@@ -1,34 +1,3 @@
-Title: New York City Transit Authority|Objects
-
-----
-
-Multilinetitle:
-
-New York City Transit Authority
-Objects
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'New York City Transit Authority <br>Objects'
@@ -41,20 +10,17 @@ weight: 2
 author:
   name: Standards Manual
   id: 108
-description: |
-  <p><em>New York City Transit Authority: Objects</em> originated as a photography experiment. In 2011, New York photographer Brian Kelley began documenting collections of used MetroCards in his Brooklyn studio, arranging them in various grids with the goal of perfecting the lighting of an image. His brother suggested he make the grids more interesting by finding other types of cards. Having exhausted his search for discarded MetroCards in many of the city&#8217;s 472 subway stations, Kelley turned to eBay for new finds. The online rabbit-hole gave him a crash course in the history of NYC transportation. He discovered tokens dating back to 1860, a ticket stub from 1885 when it cost three cents to take the train across the Brooklyn Bridge, as well as patches, matchbooks, tokens, timetables, pins and signs, posting his photographs of these finds on Tumblr and Instagram. Six years on, many MTA employees follow and advocate his project, sometimes contacting him with information and tips on rare items. As the collection grew, Kelley recognized that there were no comparable digital archives documenting the city&#8217;s transportation evolution.<br />
-  <br />
-  <em>New York City Transit Authority: Objects</em> is a story told through the evolving design that spans decades of the city&#8217;s history. Kelley&#8217;s objects tell a greater story of New York&#8217;s past. For him, The NYCTA Project remains a photography experiment and self-funded hobby, archiving the culture of his home city. For the reader, it&#8217;s an intimate view of the city&#8217;s history that merges design and infrastructure over the past 150 years.</p>
+description: '<p><em>New York City Transit Authority: Objects</em> originated as a photography experiment. In 2011, New York photographer Brian Kelley began documenting collections of used MetroCards in his Brooklyn studio, arranging them in various grids with the goal of perfecting the lighting of an image. His brother suggested he make the grids more interesting by finding other types of cards. Having exhausted his search for discarded MetroCards in many of the city&#8217;s 472 subway stations, Kelley turned to eBay for new finds. The online rabbit-hole gave him a crash course in the history of NYC transportation. He discovered tokens dating back to 1860, a ticket stub from 1885 when it cost three cents to take the train across the Brooklyn Bridge, as well as patches, matchbooks, tokens, timetables, pins and signs, posting his photographs of these finds on Tumblr and Instagram. Six years on, many MTA employees follow and advocate his project, sometimes contacting him with information and tips on rare items. As the collection grew, Kelley recognized that there were no comparable digital archives documenting the city&#8217;s transportation evolution.<br /> <br /> <em>New York City Transit Authority: Objects</em> is a story told through the evolving design that spans decades of the city&#8217;s history. Kelley&#8217;s objects tell a greater story of New York&#8217;s past. For him, The NYCTA Project remains a photography experiment and self-funded hobby, archiving the culture of his home city. For the reader, it&#8217;s an intimate view of the city&#8217;s history that merges design and infrastructure over the past 150 years.</p>'
 details: |
-  - ISBN: 0692902554 / 978-0692902554
-  - Content: 356 pages
-  - Size: 254 × 33 × 254 mm
-  - Authors: Jesse Reed, Hamish Smyth
-  - Design: Order
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Hardcover
-  - Images: © Standards manual. All rights reserved.
+  ISBN: "0692902554 / 978-0692902554"
+  Content: "356 pages"
+  Size: "254 × 33 × 254 mm"
+  Authors: "Jesse Reed, Hamish Smyth"
+  Design: "Order"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Hardcover"
+  Images: "© Standards manual. All rights reserved."
 gallery:
   - 
     url: >
@@ -84,4 +50,35 @@ tags: [ ]
 
 ----
 
-Uuid: DHtDBySR0gDH3Tws
+Multilinetitle:
+
+New York City Transit Authority
+Objects
+
+----
+
+Uuid: GeFdNxR8jw965eTi
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

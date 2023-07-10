@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "56befe5ac738f711bd703da2771ba680",
+    "content-hash": "17af733d39d1c1efa4ad063824b6365f",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/algolia/algoliasearch-client-php.git",
-                "reference": "48fb056b6d5159bdea1e30add5d3dfdb4f8d3a38"
+                "reference": "d1cd56faf99929a46d0a4d62e5ae4f6891162c5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/algolia/algoliasearch-client-php/zipball/48fb056b6d5159bdea1e30add5d3dfdb4f8d3a38",
-                "reference": "48fb056b6d5159bdea1e30add5d3dfdb4f8d3a38",
+                "url": "https://api.github.com/repos/algolia/algoliasearch-client-php/zipball/d1cd56faf99929a46d0a4d62e5ae4f6891162c5d",
+                "reference": "d1cd56faf99929a46d0a4d62e5ae4f6891162c5d",
                 "shasum": ""
             },
             "require": {
@@ -79,7 +79,7 @@
                 "issues": "https://github.com/algolia/algoliasearch-client-php/issues",
                 "source": "https://github.com/algolia/algoliasearch-client-php/tree/master"
             },
-            "time": "2022-10-21T08:41:18+00:00"
+            "time": "2023-06-26T07:40:10+00:00"
         },
         {
             "name": "bnomei/kirby3-janitor",
@@ -446,16 +446,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "4.0.0-alpha.3",
+            "version": "4.0.0-alpha.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "509b81bec98570014f74c8c612ff393948858349"
+                "reference": "1206ff54be3c46ffff5d36ecc893fb84113f54ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/509b81bec98570014f74c8c612ff393948858349",
-                "reference": "509b81bec98570014f74c8c612ff393948858349",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/1206ff54be3c46ffff5d36ecc893fb84113f54ac",
+                "reference": "1206ff54be3c46ffff5d36ecc893fb84113f54ac",
                 "shasum": ""
             },
             "require": {
@@ -543,7 +543,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2023-06-13T08:13:12+00:00"
+            "time": "2023-07-03T08:54:27+00:00"
         },
         {
             "name": "getkirby/composer-installer",
@@ -598,12 +598,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "fb7566caccf22d74d1ab270de3551f72a58399f5"
+                "reference": "cd634c213de11e0f229651173428f5c27d398628"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/fb7566caccf22d74d1ab270de3551f72a58399f5",
-                "reference": "fb7566caccf22d74d1ab270de3551f72a58399f5",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/cd634c213de11e0f229651173428f5c27d398628",
+                "reference": "cd634c213de11e0f229651173428f5c27d398628",
                 "shasum": ""
             },
             "require": {
@@ -701,7 +701,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.7.0"
+                "source": "https://github.com/guzzle/guzzle/tree/7.7"
             },
             "funding": [
                 {
@@ -717,7 +717,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-05-21T14:04:53+00:00"
+            "time": "2023-06-30T12:06:03+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -918,6 +918,42 @@
                 }
             ],
             "time": "2023-04-17T16:11:26+00:00"
+        },
+        {
+            "name": "junohamburg/kirby-block-preview-fields",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/junohamburg/kirby-block-preview-fields.git",
+                "reference": "2f51ad64097e2254a5aa6ff8617b42f8d2cd96fc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/junohamburg/kirby-block-preview-fields/zipball/2f51ad64097e2254a5aa6ff8617b42f8d2cd96fc",
+                "reference": "2f51ad64097e2254a5aa6ff8617b42f8d2cd96fc",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "default-branch": true,
+            "type": "kirby-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "JUNO",
+                    "email": "github@juno-hamburg.com"
+                }
+            ],
+            "description": "Kirby Block Preview Fields",
+            "support": {
+                "issues": "https://github.com/junohamburg/kirby-block-preview-fields/issues",
+                "source": "https://github.com/junohamburg/kirby-block-preview-fields/tree/1.0.5"
+            },
+            "time": "2023-05-11T09:37:21+00:00"
         },
         {
             "name": "kornrunner/blurhash",
@@ -1771,12 +1807,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "1bb60aa99f06979e6078007a812eb7c5ffc8efc2"
+                "reference": "afcdf975653a53fab032cc693937d5cfadc40315"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/1bb60aa99f06979e6078007a812eb7c5ffc8efc2",
-                "reference": "1bb60aa99f06979e6078007a812eb7c5ffc8efc2",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/afcdf975653a53fab032cc693937d5cfadc40315",
+                "reference": "afcdf975653a53fab032cc693937d5cfadc40315",
                 "shasum": ""
             },
             "require": {
@@ -1827,7 +1863,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-05-23T16:34:37+00:00"
+            "time": "2023-07-06T06:58:38+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -2304,7 +2340,8 @@
     "stability-flags": {
         "getkirby/cli": 20,
         "bnomei/kirby3-janitor": 20,
-        "algolia/algoliasearch-client-php": 20
+        "algolia/algoliasearch-client-php": 20,
+        "junohamburg/kirby-block-preview-fields": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

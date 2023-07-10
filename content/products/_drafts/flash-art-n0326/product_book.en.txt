@@ -1,31 +1,3 @@
-Title: Flash Art n°326
-
-----
-
-Multilinetitle: Flash Art n°326
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Flash Art n°326
@@ -39,14 +11,14 @@ author:
   id: 110
 description: '<p>The summer issue of <em>Flash Art</em> attempts to map the ecological crisis that is restructuring our belief systems and forcing us to conceive of new relational modes that go beyond anthropocentrism, advocating for new forms of human continuity with the material, living and also technological world. This issue reports on this paradigmatic revolution through an interdisciplinary approach that includes analyses of artistic, architectural or sound practices related to the climate emergency, as well as essays by theorists such as Graham Harman, Nicolas Bourriaud, John Luther Adams, Felicity D. Scott, Ippolito Pestellini Laparelli or Emanuele Coccia.</p>'
 details: |
-  - ISSN: 0015-3524
-  - Content: 132 pages
-  - Size: 225 × 06 × 290 mm
-  - Design: Wrong Studio
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Flash Art. All rights reserved.
+  ISSN: "0015-3524"
+  Content: "132 pages"
+  Size: "225 × 06 × 290 mm"
+  Design: "Wrong Studio"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Flash Art. All rights reserved."
 gallery:
   - 
     url: >
@@ -56,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: DmsfRpHWQbSfiGNw
+Multilinetitle: Flash Art n°326
+
+----
+
+Uuid: BE2Lg76v36IvxDma
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

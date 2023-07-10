@@ -1,34 +1,3 @@
-Title: Geert Lovink|Stuck on the Platform
-
-----
-
-Multilinetitle:
-
-Geert Lovink
-Stuck on the Platform
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Geert Lovink <br>Stuck on the Platform'
@@ -42,13 +11,13 @@ author:
   id: 101
 description: '<p>No matter how hard you try to delete apps from your phone, the power of seduction draws you back. Doom-scrolling is the new normal of a 24/7 online life. Our addiction to large-scale platforms makes us unable to return to the frivolous age of decentralised networks, despite our rising disaffection. Zoom fatigue, cancel culture, NFTs, and psychic regression comprise core elements of a general theory of platform culture. But we can reclaim the internet on our own terms. Authored by media theorist Geert Lovink and designed by Irene Stracuzzi, ‘Stuck on the Platform’ is a relapse-resistant story about the rise of platform alternatives, built on an understanding of the digital slump.</p>'
 details: |
-  - ISBN: 9493246089 / 978-9493246089
-  - Content: 224 pages
-  - Size: 150 × 240 mm
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / Valiz. All rights reserved.
+  ISBN: "9493246089 / 978-9493246089"
+  Content: "224 pages"
+  Size: "150 × 240 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Valiz. All rights reserved."
 gallery:
   - 
     url: >
@@ -70,4 +39,35 @@ tags: [ ]
 
 ----
 
-Uuid: p6CC1y4p6uO2Q9LY
+Multilinetitle:
+
+Geert Lovink
+Stuck on the Platform
+
+----
+
+Uuid: OzusSneUUnnDbrMG
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

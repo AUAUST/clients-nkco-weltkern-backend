@@ -1,31 +1,3 @@
-Title: The Silver Spoon Classic
-
-----
-
-Multilinetitle: The Silver Spoon Classic
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: The Silver Spoon Classic
@@ -37,16 +9,16 @@ weight: 2
 author:
   name: Phaidon Press
   id: 92
-description: '<p>First published in 1950, <em>Il Cucchiaio d&#8217;Argento</em>, or its English-language offspring <em>The Silver Spoon</em>, is the ultimate compilation of traditional home-cooking Italian dishes. In this all-new luxurious book, T<em>he Silver Spoon Classic</em> features 170 of the very best-of-the-best recipes from Italy&#8217;s incredibly diverse regions. Carefully selected from Phaidon&#8217;s Silver Spoon cookbooks, which have sold more than one million copies worldwide, this new collection features exquisite photography of the dishes, is replete with elegant double ribbons for easy reference, and a sumptuous design and package, which makes for an ideal gift or keepsake for the amateur and serious chef. With dishes for all tastes and seasons, <em>The Silver Spoon Classic</em> is the definitive guide to preparing the most important, authentic, and delicious Italian recipes.</p>'
+description: '<p>First published in 1950,? <em>Il Cucchiaio d&#8217;Argento</em>, or its English-language offspring? <em>The Silver Spoon</em>, is the ultimate compilation of traditional home-cooking Italian dishes. In this all-new luxurious book,? T<em>he Silver Spoon Classic</em>? features 170 of the very best-of-the-best recipes from Italy&#8217;s incredibly diverse regions. Carefully selected from Phaidon&#8217;s? Silver Spoon? cookbooks, which have sold more than one million copies worldwide, this new collection features exquisite photography of the dishes, is replete with elegant double ribbons for easy reference, and a sumptuous design and package, which makes for an ideal gift or keepsake for the amateur and serious chef. With dishes for all tastes and seasons,? <em>The Silver Spoon Classic</em>? is the definitive guide to preparing the most important, authentic, and delicious Italian recipes.</p>'
 details: |
-  - ISBN: 0714879347 / 978-0714879345
-  - Content: 368 pages
-  - Size: 212 × 49 × 280 mm
-  - Author: Phaidon Press
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Hardcover
-  - Images: © Phaidon Press. All rights reserved.
+  ISBN: "0714879347 / 978-0714879345"
+  Content: "368 pages"
+  Size: "212 × 49 × 280 mm"
+  Author: "Phaidon Press"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -72,4 +44,32 @@ tags: [ ]
 
 ----
 
-Uuid: BxXfZnwFSCjSwLaQ
+Multilinetitle: The Silver Spoon Classic
+
+----
+
+Uuid: pum3fGWs2kZhq9r8
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: The Spirit of Chairs|The Chair Collection of Thierry Barbier-Mueller
-
-----
-
-Multilinetitle:
-
-The Spirit of Chairs
-The Chair Collection of Thierry Barbier-Mueller
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'The Spirit of Chairs <br>The Chair Collection of Thierry Barbier-Mueller'
@@ -43,13 +12,13 @@ author:
   id: 85
 description: '<p>The 11th issue of the biannual magazine of the ECAL includes contributions by a. o. NORM, Feng Li, Marco De Mutiis, Zachary Lieberman, Maïwenn, Lionel Baier and Abel Ferrara.</p>'
 details: |
-  - ISBN: 3037787106 / 978-3037787106
-  - Content: 384 pages
-  - Size: 220 × 300 mm
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / Lars Müller Publishers. All rights reserved.
+  ISBN: "3037787106 / 978-3037787106"
+  Content: "384 pages"
+  Size: "220 × 300 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Lars Müller Publishers. All rights reserved."
 gallery:
   - 
     url: >
@@ -79,4 +48,35 @@ tags: [ ]
 
 ----
 
-Uuid: wTiZ3gO67f0QvsiN
+Multilinetitle:
+
+The Spirit of Chairs
+The Chair Collection of Thierry Barbier-Mueller
+
+----
+
+Uuid: pSqGOj0DcN46NsKG
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

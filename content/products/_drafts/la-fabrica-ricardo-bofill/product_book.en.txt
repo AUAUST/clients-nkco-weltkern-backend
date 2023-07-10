@@ -1,0 +1,101 @@
+Oldweltkern:
+
+title: 'La Fábrica <br>Ricardo Bofill'
+slug: la-fabrica-ricardo-bofill
+id: 29721
+isbn: 8409459483 / 978-8409459483
+price: 48.8
+weight: 2.1
+author:
+  name: Apartamento Publishing
+  id: 412
+description: '<p>La Fábrica is one of Ricardo Bofill’s most iconoclastic creations. A former cement factory on the outskirts of Barcelona, serendipitously discovered while driving, the building became the centre of the late Catalan architect’s life, serving both as his home and as the headquarters of his practice since 1973. Here, Ricardo created a world of his own, exposing the concrete forms from beneath years of dust and smoke, encouraging nature back onto the structure, and fine-tuning the balance between its monumental scale and a delicate, human sensibility, in one of the earliest examples of the reuse of an industrial building—and it’s still changing.</p> <p>This new edition expands on the book we originally published in 2018, featuring exclusive archival imagery courtesy of RBTA and an expansive selection of photographs taken by Nacho Alegre on his visits to La Fábrica over the last decade. He returned in November 2022 to document the building in its current state, closing the book with 32 pages of otherwise unseen images—a portrait of Ricardo’s most cherished work at a moment of profound transformation. With an introduction by Pablo Bofill, the book also features an interview with Ricardo himself by Barcelona-based architects Arquitectura-G and Guillermo López, an extended version of the conversation originally published in issue #11 of Apartamento magazine.</p>'
+details: |
+  ISBN: "8409459483 / 978-8409459483"
+  Content: "156 pages"
+  Size: "240 × 285 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Apartamento. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_COVER_.jpg
+    id: 29716
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_01.jpg
+    id: 29715
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_02.jpg
+    id: 29714
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_03.jpg
+    id: 29713
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_04.jpg
+    id: 29712
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_05.jpg
+    id: 29711
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_06.jpg
+    id: 29710
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_07.jpg
+    id: 29709
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_08.jpg
+    id: 29708
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_09.jpg
+    id: 29707
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/La-Fabrica_SPREAD_10.jpg
+    id: 29706
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+La Fábrica
+Ricardo Bofill
+
+----
+
+Uuid: dC4k6mUhV0Wv1HLV
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: METRO-Net|Martin Kippenberger
-
-----
-
-Multilinetitle:
-
-METRO-Net
-Martin Kippenberger
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'METRO-Net <br>Martin Kippenberger'
@@ -40,21 +9,18 @@ weight: 0.5
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>In the early 1990s, Martin Kippenberger developed the idea of a global underground network: METRO-Net. Although it is one of the artist’s most fascinating projects, his premature death in 1997 meant that it could only be implemented in rudimentary form. In 1993, a metro entrance was built on the Greek island of Syros, followed by two more: one in 1995 in Dawson City in Canada and the other in 1997 on the new Leipzig exhibition grounds. This created a means of travelling in the boundless space of the imagination. Its usability depends on the imagination: without the willingness to visualize tunnel tubes and moving underground trains, this project remains a ”nonsensical building plan.“ But the moment we accept the artwork as a mode of transport for ”mind travellers,“ then its full power can unfold. Kippenberger’s METRO-Net was intended to counter life’s predictable, rationally oriented parameters with a romantic sense of the world.<br />
-  <br />
-  Marcus Andrew Hurttig has been curator for modern and contemporary art at the Museum der bildenden Künste Leipzig since 2017. Stefan Weppelmann has been director of the Museum der bildenden Künste Leipzig since 2021.</p>
+description: '<p>In the early 1990s, Martin Kippenberger developed the idea of a global underground network: METRO-Net. Although it is one of the artist’s most fascinating projects, his premature death in 1997 meant that it could only be implemented in rudimentary form. In 1993, a metro entrance was built on the Greek island of Syros, followed by two more: one in 1995 in Dawson City in Canada and the other in 1997 on the new Leipzig exhibition grounds. This created a means of travelling in the boundless space of the imagination. Its usability depends on the imagination: without the willingness to visualize tunnel tubes and moving underground trains, this project remains a ”nonsensical building plan.“ But the moment we accept the artwork as a mode of transport for ”mind travellers,“ then its full power can unfold. Kippenberger’s METRO-Net was intended to counter life’s predictable, rationally oriented parameters with a romantic sense of the world.<br /> <br /> Marcus Andrew Hurttig has been curator for modern and contemporary art at the Museum der bildenden Künste Leipzig since 2017. Stefan Weppelmann has been director of the Museum der bildenden Künste Leipzig since 2021.</p>'
 details: |
-  - ISBN: 395905484X / 978-3959054843
-  - Content: 144 pages
-  - Size: 175 × 225 mm
-  - Author: Martin Kippenberger
-  - Edited by: Spector Books
-  - Design: Hannes Drißner, Fabian Bremer, Pascal Storz
-  - Language: German
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "395905484X / 978-3959054843"
+  Content: "144 pages"
+  Size: "175 × 225 mm"
+  Author: "Martin Kippenberger"
+  Edited by: "Spector Books"
+  Design: "Hannes Drißner, Fabian Bremer, Pascal Storz"
+  Language: "German"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -64,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: 0UdVzuHTsZ3A7nOx
+Multilinetitle:
+
+METRO-Net
+Martin Kippenberger
+
+----
+
+Uuid: 4uTuVsuzJ11SzsGh
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

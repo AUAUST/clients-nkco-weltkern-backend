@@ -1,34 +1,3 @@
-Title: HELMUT LANG (New York, USA)|Burry
-
-----
-
-Multilinetitle:
-
-HELMUT LANG (New York, USA)
-Burry
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'HELMUT LANG (New York, USA) <br>Burry'
@@ -42,15 +11,13 @@ author:
   id: 263
 description: ""
 details: |
-  - Supported by: Edition Fästing Plockare, Biel / Bienne
-  - Content: 28 Pages
-  - Size: 130 × 190 mm
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Softcover
-  Black & White Offset Printed
-  Edition of 1000
-  - Images: © WELTKERN® / innen zines. All rights reserved.
+  Supported by: "Edition Fästing Plockare, Biel / Bienne"
+  Content: "28 Pages"
+  Size: "130 × 190 mm"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover Black & White Offset Printed Edition of 1000"
+  Images: "© WELTKERN® / innen zines. All rights reserved."
 gallery:
   - 
     url: >
@@ -68,4 +35,35 @@ tags: [ ]
 
 ----
 
-Uuid: 9oCcdHvjpafofckR
+Multilinetitle:
+
+HELMUT LANG (New York, USA)
+Burry
+
+----
+
+Uuid: fr4mbgcKG9598rrp
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

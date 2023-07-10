@@ -1,34 +1,3 @@
-Title: Gabriel Kuri|Sorted, Resorted
-
-----
-
-Multilinetitle:
-
-Gabriel Kuri
-Sorted, Resorted
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Gabriel Kuri <br>Sorted, Resorted'
@@ -40,22 +9,19 @@ weight: 1.2
 author:
   name: Buchhandlung Walther König
   id: 90
-description: |
-  <p>Gabriel Kuri‘s sculptural practice is strikingly material and this book – like the exhibition at WIELS that it accompanies – adopts material as its organizing principle. It underlines the importance of sorting as a recurring thread in Kuri’s practice and then resorts his works into four categories: paper, plastic, metal, and construction materials. While this liberates the works from the dictates of chronology or narrative, it is a deliberately absurd approach to complex, conceptually – driven sculptures that are rarely made of just one element.<br />
-  <br />
-  The publication features an introduction by senior curator Zoë Gray and an essay by art historian Cathleen Chaffee (Chief Curator, Albright-Knox Art Gallery, Buffalo), and four texts exploring our material world by Brian Dillon (author, Professor of Creative Writing at Queen Mary, University of London).</p>
+description: '<p>Gabriel Kuri‘s sculptural practice is strikingly material and this book – like the exhibition at WIELS that it accompanies – adopts material as its organizing principle. It underlines the importance of sorting as a recurring thread in Kuri’s practice and then resorts his works into four categories: paper, plastic, metal, and construction materials. While this liberates the works from the dictates of chronology or narrative, it is a deliberately absurd approach to complex, conceptually – driven sculptures that are rarely made of just one element.<br /> <br /> The publication features an introduction by senior curator Zoë Gray and an essay by art historian Cathleen Chaffee (Chief Curator, Albright-Knox Art Gallery, Buffalo), and four texts exploring our material world by Brian Dillon (author, Professor of Creative Writing at Queen Mary, University of London).</p>'
 details: |
-  - ISBN: 3960986858 / 978-3960986850
-  - Content: 164 pages
-  - Size: 250 × 15 × 287 mm
-  - Author: Gabriel Kuri
-  - Edited by: Zoë Gray
-  - Texts by: Cathleen Chaffee, Brian Dillon, Dirk Snauwaert
-  - Design: OK-RM
-  - Language: English / Dutch / French
-  - Publishing date: 2019
-  - Specs: Hardcover
-  - Images: © Buchhandlung Walther König. All rights reserved.
+  ISBN: "3960986858 / 978-3960986850"
+  Content: "164 pages"
+  Size: "250 × 15 ×? 287 mm"
+  Author: "Gabriel Kuri"
+  Edited by: "Zoë Gray"
+  Texts by: "Cathleen Chaffee, Brian Dillon, Dirk Snauwaert"
+  Design: "OK-RM"
+  Language: "English / Dutch / French"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Buchhandlung Walther König. All rights reserved."
 gallery:
   - 
     url: >
@@ -85,4 +51,35 @@ tags: [ ]
 
 ----
 
-Uuid: QRlnCjARCmx68PAc
+Multilinetitle:
+
+Gabriel Kuri
+Sorted, Resorted
+
+----
+
+Uuid: pAjoFULfbTLJyCHw
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

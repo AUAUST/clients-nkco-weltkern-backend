@@ -1,4 +1,28 @@
-Title: Youqine Lefèvre|The Land of Promises
+Oldweltkern:
+
+title: 'Youqine Lefèvre <br>The Land of Promises'
+slug: youqine-lefevre-the-land-of-promises
+id: 17817
+isbn: '9492051837 / 978-9492051837 '
+price: 38.9
+weight: 2.1
+author:
+  name: The Eriskay Connection
+  id: 298
+description: '<p>The Land of Promises tells the intimate and personal stories of those living by the regulations of China’s one-child policy. Between the years 1979 and 2015, China took an excessive approach towards a critical population growth. The consequences of the controversial regulations were enormous, in particular for hundreds of thousands Chinese girls who have been separated from their biological families and registered for adoption.</p> <p>Photographer Youqine Lefèvre (BE) is one of those girls. In this work she portrays the journey of her adoption through the story of six Belgian families who travelled to China in 1994 to adopt girls, and relates it to a broader context and other stories. It consists of photographs Youqine took in China, archives from 1994, research based on writing of demographers and experts on the Chinese birth control policy, and the stories and testimonies told by those she met in China during her travels. </p> <p>The Land of Promises is a work about the discovery of her origin country and an attempt to understand what led to the abandonment and international and transracial adoptions of countless young Chinese girls. The changes in their lives resonate upon this day and will continue to do so.</p>'
+details: |
+  ISBN: "9492051837 / 978-9492051837 "
+  Content: "244 pages"
+  Size: "230 × 290 mm "
+  Language: "English, French"
+  Specs: "Paperback"
+  Images: "© WELTKERN® / The Eriskay Connection. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Youqine-Lefevre-The-Land-of-Promises.jpg
+    id: 17787
+tags: [ ]
 
 ----
 
@@ -9,15 +33,23 @@ The Land of Promises
 
 ----
 
+Uuid: l6mG5NVUtXCyPATq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
 Publisher: 
 
 ----
 
-Auto-kerns: true
+Tags: 
 
 ----
 
-Image: 
+Auto-kerns: true
 
 ----
 
@@ -26,41 +58,3 @@ Cover:
 ----
 
 Supplier: 
-
-----
-
-Oldweltkern:
-
-title: 'Youqine Lefèvre <br>The Land of Promises'
-slug: youqine-lefevre-the-land-of-promises
-id: 17817
-isbn: |
-  9492051837 / 978-9492051837
-price: 38.9
-weight: 2.1
-author:
-  name: The Eriskay Connection
-  id: 298
-description: |
-  <p>The Land of Promises tells the intimate and personal stories of those living by the regulations of China’s one-child policy. Between the years 1979 and 2015, China took an excessive approach towards a critical population growth. The consequences of the controversial regulations were enormous, in particular for hundreds of thousands Chinese girls who have been separated from their biological families and registered for adoption.</p>
-  <p>Photographer Youqine Lefèvre (BE) is one of those girls. In this work she portrays the journey of her adoption through the story of six Belgian families who travelled to China in 1994 to adopt girls, and relates it to a broader context and other stories. It consists of photographs Youqine took in China, archives from 1994, research based on writing of demographers and experts on the Chinese birth control policy, and the stories and testimonies told by those she met in China during her travels. </p>
-  <p>The Land of Promises is a work about the discovery of her origin country and an attempt to understand what led to the abandonment and international and transracial adoptions of countless young Chinese girls. The changes in their lives resonate upon this day and will continue to do so.</p>
-details: |
-  - ISBN: 9492051837 / 978-9492051837
-  
-  - Content: 244 pages
-  - Size: 230 × 290 mm
-  
-  - Language: English, French
-  - Specs: Paperback
-  - Images: © WELTKERN® / The Eriskay Connection. All rights reserved.
-gallery:
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2022/03/BOOK_COVER_Youqine-Lefevre-The-Land-of-Promises.jpg
-    id: 17787
-tags: [ ]
-
-----
-
-Uuid: eRdR4OEh7dq3CzqY

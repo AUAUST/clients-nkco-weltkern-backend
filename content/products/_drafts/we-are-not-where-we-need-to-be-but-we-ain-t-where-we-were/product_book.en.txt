@@ -1,31 +1,3 @@
-Title: We are not where we need to be, but we ain't where we were.
-
-----
-
-Multilinetitle: We are not where we need to be, but we ain't where we were.
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: "We are not where we need to be, but we ain't where we were."
@@ -40,16 +12,16 @@ author:
   id: 392
 description: '<p>We are not where we need to be, but we ain&#8217;t where we were. is the first volume in a series of publications by the Wages For Wages Against collective that reports on active research, engaged within art professions and institutions since 2017. Its aim is to question the neo-liberal logics that underpin contemporary art circles, by orienting its study on the struggles that run through them. Through this publication, the desire is to put into practice various values specific to the campaign: the existence of a systematic and fair remuneration, a desire for transparency, the sharing of knowledge, and thus the visibilisation of claims specific to the field of visual arts and the concomitant struggles. It is the result of putting militant experiences into perspective, at the convergence of individual experiences and collective questioning. </p>'
 details: |
-  - ISBN: 2960271713 / 978-2960271713
-  - Content: 190 pages
-  - Size: 210 × 148 mm
-  - Language: French & English
-  - Edited by: Tiphanie Blanc, Lili Reynaud-Dewar & Ramaya Tegegne
-  - Texts by: Tiphanie Blanc, Antonella Corsani, Fanny Lallart, Lili Reynaud-Dewar, Ramaya Tegegne
-  - Graphic design: Ann Kern
-  - Publishing date: 2021
-  - Specs: Square Binding, Soft Cover
-  - Images: © WELTKERN® / L’Amazone & Privilege. All rights reserved.
+  ISBN: "2960271713 / 978-2960271713"
+  Content: "190 pages"
+  Size: "210 × 148 mm"
+  Language: "French & English"
+  Edited by: "Tiphanie Blanc, Lili Reynaud-Dewar & Ramaya Tegegne"
+  Texts by: "Tiphanie Blanc, Antonella Corsani, Fanny Lallart, Lili Reynaud-Dewar, Ramaya Tegegne"
+  Graphic design: "Ann Kern"
+  Publishing date: "2021"
+  Specs: "Square Binding, Soft Cover"
+  Images: "© WELTKERN® / L’Amazone & Privilege. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +31,32 @@ tags: [ ]
 
 ----
 
-Uuid: NPlMwPtQdL7UzpGE
+Multilinetitle: We are not where we need to be, but we ain't where we were.
+
+----
+
+Uuid: VvpZjap8hZuaAR13
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

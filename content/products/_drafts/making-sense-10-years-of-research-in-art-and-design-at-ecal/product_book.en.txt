@@ -1,37 +1,6 @@
-Title: Making Sense |10 Years of Research in Art and Design at ECAL
-
-----
-
-Multilinetitle:
-
-Making Sense 
-10 Years of Research in Art and Design at ECAL
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
-title: 'Making Sense  <br>10 Years of Research in Art and Design at ECAL'
+title: 'Making Sense  <br>10 Years of Research in Art and Design at ECAL'
 slug: >
   making-sense-10-years-of-research-in-art-and-design-at-ecal
 id: 17549
@@ -41,18 +10,18 @@ weight: 0.2
 author:
   name: ECAL
   id: 95
-description: '<p>This book was published on the occasion of the symposium organized on October 10, 2017, to celebrate 10 years since the moving of ECA  to its current premises in Renens and marking the 10th anniversary of the foundation of EPFL+ECAL Lab. Making Sense reports on ten years of Research in Art and Design at ECAL. It features a synopsis of research projects and a selection of projects’ descriptions, accompanied by conversations on design and artistic research between ECAL professors and leading scholars in these fields.</p>'
+description: '<p>This book was published on the occasion of the symposium organized on October 10, 2017, to celebrate 10 years since the moving of ECA to its current premises in Renens and marking the 10th anniversary of the foundation of EPFL+ECAL Lab. Making Sense reports on ten years of Research in Art and Design at ECAL. It features a synopsis of research projects and a selection of projects’ descriptions, accompanied by conversations on design and artistic research between ECAL professors and leading scholars in these fields.</p>'
 details: |
-  - ISBN: 2970115779 / 978-2970115779
-  - Content: 234 pages
-  - Size: 240 × 160 mm
-  - Language: English, French
-  - Edited by: ECAL/Davide Fornari
-  - Texts by: Luc Bergeron, Jonas Berthod, François Bovier, Davide Fornari, Julien Fronsacq, Roland Früh, Alexis Georgacopoulos, Christophe Guberan, Patrick Keller, Jürg Lehni, Federico Nicolao, Vincent Normand, Yasmil Raymond, David Reinfurt, Tatiana Rihs, Laurent Soldini, Jo-Ey Tang, Skylar Tibbits, Joël Vacheron
-  - Graphic design: Jonas Berthod
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © WELTKERN® / ECAL. All rights reserved.
+  ISBN: "2970115779 / 978-2970115779"
+  Content: "234 pages"
+  Size: "240 × 160 mm"
+  Language: "English, French"
+  Edited by: "ECAL/Davide Fornari"
+  Texts by: "Luc Bergeron, Jonas Berthod, François Bovier, Davide Fornari, Julien Fronsacq, Roland Früh, Alexis Georgacopoulos, Christophe Guberan, Patrick Keller, Jürg Lehni, Federico Nicolao, Vincent Normand, Yasmil Raymond, David Reinfurt, Tatiana Rihs, Laurent Soldini, Jo-Ey Tang, Skylar Tibbits, Joël Vacheron"
+  Graphic design: "Jonas Berthod"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / ECAL. All rights reserved."
 gallery:
   - 
     url: >
@@ -70,4 +39,35 @@ tags: [ ]
 
 ----
 
-Uuid: j3sWHcbOK3ezMdiU
+Multilinetitle:
+
+Making Sense
+10 Years of Research in Art and Design at ECAL
+
+----
+
+Uuid: hJmE1t9wJk4UKrqh
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

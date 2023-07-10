@@ -1,34 +1,3 @@
-Title: Revue Faire|Season 2 Pack: 19th to 21th issue
-
-----
-
-Multilinetitle:
-
-Revue Faire
-Season 2 Pack: 19th to 21th issue
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Revue Faire <br>Season 2 Pack: 19th to 21th issue'
@@ -41,30 +10,16 @@ weight: 0.4
 author:
   name: Empire Books
   id: 238
-description: |
-  <p>To Look at Graphic Design<br />
-  <br />
-  Critical publications dedicated to the analysis of Graphic Design are sadly few and far between today, particularly in France, but also in Europe as a whole. Adopting an analytical and critical posture with regard to the forms and activities of Graphic Design, Sacha Léopold and François Havegeer established in 2017 a printed publication that deals with these practices. The publication works with eight authors (Lise Brosseau, Manon Bruet, Thierry Chancogne, Céline Chazalviel, Jérôme Dupeyrat, Catherine Guiral, Étienne Hervy and Sarah Vadé). For season 2 two foreign authors will work on two big issues. During that time you can still order the 15 issues pack with all the goodies!<br />
-  <br />
-  The goals of FAIRE are as follows:<br />
-  — To produce a publication based on the rhythm of the school year (appearing from October to May), for undergraduate students as well as researchers and professionals, documenting contemporary and international practices along with the history and grammar of styles.<br />
-  — To publish 15 bilingual (French/English 30000+30000 characters), A4, 20-page issues per year.<br />
-  — To document each issue as a unique, tentacular subject addressed by a renowned author, by encountering the authors and Graphic Designers involved.<br />
-  — To consider and print an iconography that is specific to these subjects.<br />
-  — To focus on emblematic practices that go beyond questions set by current trends and the perishable nature of a magazine.<br />
-  — To allow authors to submit their intentions concerning thematic openings without imposing a particular subject to be treated.<br />
-  — To organize events, launches, and encounters with international figures from the field of Graphic Design in connection with each issue.<br />
-  — To offer subscriptions on a twice-monthly basis. You can now order a complete pack of 15 issues!<br />
-  — <em>Il s’agit de FAIRE</em>. It’s about DOING</p>
+description: '<p>To Look at Graphic Design<br /> <br /> Critical publications dedicated to the analysis of Graphic Design are sadly few and far between today, particularly in France, but also in Europe as a whole. Adopting an analytical and critical posture with regard to the forms and activities of Graphic Design, Sacha Léopold and François Havegeer established in 2017 a printed publication that deals with these practices. The publication works with eight authors (Lise Brosseau, Manon Bruet, Thierry Chancogne, Céline Chazalviel, Jérôme Dupeyrat, Catherine Guiral, Étienne Hervy and Sarah Vadé). For season 2 two foreign authors will work on two big issues. During that time you can still order the 15 issues pack with all the goodies!<br /> <br /> The goals of FAIRE are as follows:<br /> — To produce a publication based on the rhythm of the school year (appearing from October to May), for undergraduate students as well as researchers and professionals, documenting contemporary and international practices along with the history and grammar of styles.<br /> — To publish 15 bilingual (French/English 30000+30000 characters), A4, 20-page issues per year.<br /> — To document each issue as a unique, tentacular subject addressed by a renowned author, by encountering the authors and Graphic Designers involved.<br /> — To consider and print an iconography that is specific to these subjects.<br /> — To focus on emblematic practices that go beyond questions set by current trends and the perishable nature of a magazine.<br /> — To allow authors to submit their intentions concerning thematic openings without imposing a particular subject to be treated.<br /> — To organize events, launches, and encounters with international figures from the field of Graphic Design in connection with each issue.<br /> — To offer subscriptions on a twice-monthly basis. You can now order a complete pack of 15 issues!<br /> — <em>Il s’agit de FAIRE</em>. It’s about DOING</p>'
 details: |
-  - ISBN: 1095991168 / 979-1095991168
-  - Content: 20 pages per issue
-  - Size: 210 × 5 × 297 mm
-  - Design: Syndicat
-  - Language: English / French
-  - Publishing date: 2018
-  - Specs: Saddle stitched binding
-  - Images: © WELTKERN® / Empire Books. All rights reserved.
+  ISBN: "1095991168 / 979-1095991168"
+  Content: "20 pages per issue"
+  Size: "210 × 5 ×? 297 mm"
+  Design: "Syndicat"
+  Language: "English / French"
+  Publishing date: "2018"
+  Specs: "Saddle stitched binding"
+  Images: "© WELTKERN® / Empire Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -110,4 +65,35 @@ tags: [ ]
 
 ----
 
-Uuid: IB021WLFD1JZwovq
+Multilinetitle:
+
+Revue Faire
+Season 2 Pack: 19th to 21th issue
+
+----
+
+Uuid: koCcTK5CtQyvTa60
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

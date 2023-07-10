@@ -1,31 +1,3 @@
-Title: Fiction Practice
-
-----
-
-Multilinetitle: Fiction Practice
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Fiction Practice
@@ -39,16 +11,15 @@ author:
   id: 319
 description: '<p>Exploring the radical potential of fiction as a tool for social change through speculative design, afro-surrealism, critical fabulations and alternative pedagogies.</p>'
 details: |
-  - ISBN: 9493148154 / 978-9493148154
-  - Content: 128 pages
-  - Size: 110 × 180 mm
-  
-  - Language: English
-  - Edited by: Mariana Pestana
-  - Graphic design: Joana Pestana & Max Ryan
-  - Publishing date: 2019
-  - Specs: Soft Cover (with bookmark insert)
-  - Images: © WELTKERN® / Onomatopee. All rights reserved.
+  ISBN: "9493148154 / 978-9493148154"
+  Content: "128 pages"
+  Size: "110 × 180 mm "
+  Language: "English "
+  Edited by: "Mariana Pestana"
+  Graphic design: "Joana Pestana & Max Ryan"
+  Publishing date: "2019"
+  Specs: "Soft Cover (with bookmark insert)"
+  Images: "© WELTKERN® / Onomatopee. All rights reserved."
 gallery:
   - 
     url: >
@@ -58,4 +29,32 @@ tags: [ ]
 
 ----
 
-Uuid: ADqqBxxxDJ3D2PZD
+Multilinetitle: Fiction Practice
+
+----
+
+Uuid: mKnrv41VNXsJUTSl
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

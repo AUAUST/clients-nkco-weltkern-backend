@@ -1,34 +1,3 @@
-Title: Art Basel|Year 49
-
-----
-
-Multilinetitle:
-
-Art Basel
-Year 49
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Art Basel <br>Year 49'
@@ -40,25 +9,18 @@ weight: 2.7
 author:
   name: JRP|Editions
   id: 94
-description: |
-  <p>Art Basel’s official annual publication captures and documents the exhibitions in Basel, Miami Beach, and Hong Kong, and goes beyond them, featuring interviews, portfolios, essays about contemporary art, and personal highlights from artists, curators, collectors, and museum directors.<br />
-  <br />
-  With its A-to-Z format, this year’s publication maps the world of Art Basel alongside profiles spotlighting each of the 500+ galleries that participated across the three fairs in 2018. Designed by Gavillet &#038; Cie (Geneva), it features all the different sectors of the fair, highlights events, talks, Art Basel’s new initiatives, and provides retrospective insights into the very first years of the fair, offering vivid and varied perspectives on the global art world as seen through the eyes of Art Basel in 2018. Giving art world experts, curators, and collectors a platform for sharing their expertise, the publication provides an insightful and immersive art experience for the reader.<br />
-  <br />
-  Interviewees and contributors include Lara Almarcegui, Rasheed Araeen, Andrea Bellini, Diana Campbell Betancourt, Judy Chicago, Ryan Gander, Ingvild Goetz, Valérie Knoll, Lynn Hershman Leeson, Lubaina Himid, Kathy Noble, Irene Panagopoulos, François Quintin, Michael Rakowitz, Agustín Pérez Rubio, Semiconductor, Suhanya Raffel, Xiaoyu Weng, Haegue Yang, Nina Zimmer, Heidi Zuckerman, and many others whose work contributed this year to the fairs on all three continents.<br />
-  <br />
-  “Art Basel | Year 49” is the sixth volume of an innovative series of publications started in 2014, which constitutes a valuable archive of the current state and evolution of the art world in the 2010s.</p>
+description: '<p>Art Basel’s official annual publication captures and documents the exhibitions in Basel, Miami Beach, and Hong Kong, and goes beyond them, featuring interviews, portfolios, essays about contemporary art, and personal highlights from artists, curators, collectors, and museum directors.<br /> <br /> With its A-to-Z format, this year’s publication maps the world of Art Basel alongside profiles spotlighting each of the 500+ galleries that participated across the three fairs in 2018. Designed by Gavillet &#038; Cie (Geneva), it features all the different sectors of the fair, highlights events, talks, Art Basel’s new initiatives, and provides retrospective insights into the very first years of the fair, offering vivid and varied perspectives on the global art world as seen through the eyes of Art Basel in 2018. Giving art world experts, curators, and collectors a platform for sharing their expertise, the publication provides an insightful and immersive art experience for the reader.<br /> <br /> Interviewees and contributors include Lara Almarcegui, Rasheed Araeen, Andrea Bellini, Diana Campbell Betancourt, Judy Chicago, Ryan Gander, Ingvild Goetz, Valérie Knoll, Lynn Hershman Leeson, Lubaina Himid, Kathy Noble, Irene Panagopoulos, François Quintin, Michael Rakowitz, Agustín Pérez Rubio, Semiconductor, Suhanya Raffel, Xiaoyu Weng, Haegue Yang, Nina Zimmer, Heidi Zuckerman, and many others whose work contributed this year to the fairs on all three continents.<br /> <br /> “Art Basel | Year 49” is the sixth volume of an innovative series of publications started in 2014, which constitutes a valuable archive of the current state and evolution of the art world in the 2010s.</p>'
 details: |
-  - ISBN: 3037645529 / 978-3037645529
-  - Content: 784 pages
-  - Size: 210 × 48 × 295 mm
-  - Design: Gavillet & Cie
-  - Edited by: Clément Dirié, Marc Spiegler
-  - Texts by: Andrea Bellini, Haegue Yang, Judy Chicago, Lubaina Himid, Lynn Hershman Leeson, Paul Chan, Rasheed Araeen, Ryan Gander, Valérie Knoll, Xiaoyu Weng
-  - Language: English
-  - Specs: Hardcover
-  - Publishing date: 2019
-  - Images: © WELTKERN® / JRP|Editions. All rights reserved.
+  ISBN: "3037645529 / 978-3037645529"
+  Content: "784 pages"
+  Size: "210 × 48 × 295 mm"
+  Design: "Gavillet & Cie"
+  Edited by: "Clément Dirié, Marc Spiegler"
+  Texts by: "Andrea Bellini, Haegue Yang, Judy Chicago, Lubaina Himid, Lynn Hershman Leeson, Paul Chan, Rasheed Araeen, Ryan Gander, Valérie Knoll, Xiaoyu Weng"
+  Language: "English"
+  Specs: "Hardcover"
+  Publishing date: "2019"
+  Images: "© WELTKERN® / JRP|Editions. All rights reserved."
 gallery:
   - 
     url: >
@@ -68,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: woLGmWdP0mfCxltP
+Multilinetitle:
+
+Art Basel
+Year 49
+
+----
+
+Uuid: Hu3wTu9p2H4IEtyz
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

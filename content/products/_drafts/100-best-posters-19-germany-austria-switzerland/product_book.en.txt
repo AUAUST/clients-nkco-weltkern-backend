@@ -1,42 +1,3 @@
-Title: 100 Best Posters 19:|Germany – Austria – Switzerland
-
-----
-
-Multilinetitle:
-
-100 Best Posters 19:
-Germany – Austria – Switzerland
-
-----
-
-Multilinetitleseparator: space
-
-----
-
-Publisher: 
-
-----
-
-Tags: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: '100 Best Posters 19: <br>Germany – Austria – Switzerland'
@@ -49,22 +10,17 @@ weight: 0.8
 author:
   name: Verlag Kettler
   id: 225
-description: |
-  <p>Every year the association 100 Beste Plakate e. V. presents awards to honour the most innovative and trendsetting poster designs from Germany, Austria, and Switzerland. The yearbook has fast become the go-to source for graphic artists, designers, and advertisers. Even today, the traditional printed poster is still regarded as the ultimate challenge in the graphic arts.<br />
-  <br />
-  The 2019 yearbook focuses on how designs can be described verbally. What is the relationship between language and image? How can visual codes and phenomena or trends be captured in words? Thirty designers, curators, artists, architects, and theorists were invited to join the project and to describe the selected posters. The purpose of this exercise was not to come up with a standard jury statement, but to point out ways of interacting personally with the poster: either by offering an objective description or by delivering a subjective critique in the form of an essay.<br />
-  <br />
-  Florian Lamm and Jakob Kirch, who created this year&#8217;s book, have translated this conceptual task into their design by dividing the catalogue into two parts. While the 30 text contributions have been united in a booklet, a separate image section presents the corresponding posters.</p>
+description: '<p>Every year the association 100 Beste Plakate e. V. presents awards to honour the most innovative and trendsetting poster designs from Germany, Austria, and Switzerland. The yearbook has fast become the go-to source for graphic artists, designers, and advertisers. Even today, the traditional printed poster is still regarded as the ultimate challenge in the graphic arts.<br /> <br /> The 2019 yearbook focuses on how designs can be described verbally. What is the relationship between language and image? How can visual codes and phenomena or trends be captured in words? Thirty designers, curators, artists, architects, and theorists were invited to join the project and to describe the selected posters. The purpose of this exercise was not to come up with a standard jury statement, but to point out ways of interacting personally with the poster: either by offering an objective description or by delivering a subjective critique in the form of an essay.<br /> <br /> Florian Lamm and Jakob Kirch, who created this year&#8217;s book, have translated this conceptual task into their design by dividing the catalogue into two parts. While the 30 text contributions have been united in a booklet, a separate image section presents the corresponding posters.</p>'
 details: |
-  - ISBN: 3862068258 / 978-3862068258
-  - Content: 332 pages
-  - Size: 170 × 22 × 240 mm
-  - Author: 100 Beste Plakate e. V.
-  - Design: Florian Lamm, Jakob Kirch
-  - Language: English / German
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Verlag Kettler. All rights reserved.
+  ISBN: "3862068258 / 978-3862068258"
+  Content: "332 pages"
+  Size: "170 × 22 × 240 mm"
+  Author: "100 Beste Plakate e. V."
+  Design: "Florian Lamm, Jakob Kirch"
+  Language: "English / German"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Verlag Kettler. All rights reserved."
 gallery:
   - 
     url: >
@@ -98,4 +54,35 @@ tags: [ ]
 
 ----
 
-Uuid: 0NrcTfJdTJCMOhV6
+Multilinetitle:
+
+100 Best Posters 19:
+Germany – Austria – Switzerland
+
+----
+
+Uuid: ifWdVinjx1QRARQQ
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

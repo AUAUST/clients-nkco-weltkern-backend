@@ -1,31 +1,3 @@
-Title: Enghelab Street, a Revolution through Books: Iran 1979-1983
-
-----
-
-Multilinetitle: Enghelab Street, a Revolution through Books: Iran 1979-1983
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Enghelab Street, a Revolution through Books: Iran 1979-1983'
@@ -40,17 +12,17 @@ author:
   id: 99
 description: '<p>Enghelab Street, or Revolution Street, is located in the center of the Iranian capital Tehran&#8211;a main artery in the city&#8217;s cultural life with a host of bookshops. This book presents a variety of rarely seen photographic and propaganda books collected by Iranian-born, Paris-based artist Hannah Darabi (born 1981), drawing on works published between 1979 and 1983&#8211;years corresponding to the short period when freedom of speech prevailed at the end of the Shah&#8217;s regime and the beginning of the Islamic government. Darabi takes us to the heart of an intense artistic and cultural period in Iranian history in a visual essay accompanied by a critical essay by Chowra Makaremi. With its revelatory landscape of publications, Enghelab Street: Iran 1979-1983 gives us the opportunity to look at rare printed matter for the first time.</p>'
 details: |
-  - ISBN: 3959052626 / 978-3959052627
-  - Content: 540 pages
-  - Size: 240 × 36 × 330 mm
-  - Author: Hannah Darabi
-  - Edited by: Le Bal
-  - Texts by: Hannah Darabi, Chowra Makaremi
-  - Design: Fabian Bremer, Pascal Storz
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Spector Books. All rights reserved.
+  ISBN: "3959052626 / 978-3959052627"
+  Content: "540 pages"
+  Size: "240 × 36 × 330 mm"
+  Author: "Hannah Darabi"
+  Edited by: "Le Bal"
+  Texts by: "Hannah Darabi, Chowra Makaremi"
+  Design: "Fabian Bremer, Pascal Storz"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -84,4 +56,32 @@ tags: [ ]
 
 ----
 
-Uuid: kX6Hu3rnSynMCDBn
+Multilinetitle: Enghelab Street, a Revolution through Books: Iran 1979-1983
+
+----
+
+Uuid: njwcIPY9iRrTDake
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

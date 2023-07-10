@@ -1,34 +1,3 @@
-Title: Bardhi Haliti|May 25 is now October 1
-
-----
-
-Multilinetitle:
-
-Bardhi Haliti
-May 25 is now October 1
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Bardhi Haliti <br>May 25 is now October 1'
@@ -40,24 +9,16 @@ weight: 0.2
 author:
   name: Cpress
   id: 327
-description: |
-  <p>Browsing through May 25 is now October 1, and studying the grainy newspaper photos of athletes and players (“bodies jumping, clashing, pushing, pulling at each other, striving to win&#8230;”), an absurd thought crossed our minds – the similarity between the words ‘Tito’ and ‘Toto’.</p>
-  <p>‘Tito’ obviously refers to Josip Broz, the iconic partisan and statesman, president of the Socialist Federal Republic of Yugoslavia between 1953 and 1980, and as such the driving force (or at least, the ideological inspiration) behind the seven identical sports halls that are the subject of May 25 is now October 1.</p>
-  <p>In contrast, ‘Toto’ might be a more obscure word. It’s a phrase that is used throughout continental Europe to refer to a system of betting pools related to sports – a cluster of games in which the participants (gamblers, basically) try to predict the outcome of upcoming sports matches. The name ’Toto’ derives from so-called ’Totalisator Machines’ – automatic devices used to calculate (and display) the winning bets. The word ‘Toto’ thus conceals (within its syllables) a nice, rhythmic repetition (&#8216;Total/Total&#8217;) – a repetition which has a soothing totalizing effect in itself.</p>
-  <p>The string of seven identical sports halls (as designed between 1974 and 1979, by Kosovar architect Miroslav Čočanović), that together form the main theme of Bardhi Haliti’s book, can be seen as a ’Totalisator Machine’ as well – a motorik repetition of seven identical elements, existing as a typological infrastructure, rhythmically linking together the seven main cities of Kosovo (Prishtina, Prizren, Gjakova, Mitrovica, Peja, Ferizaj, and Gjilan).</p>
-  <p>Of course, the word ‘Total’ also plays another significant role in sports. Around the time that the seven Kosovar sports halls were conceived, Amsterdam football team Ajax played a successful series of matches employing a model called ’Total Football’ – a fluid system in which no player is fixed in a predetermined role, and where anyone can successively act as an attacker, a mid-fielder and a defender. In that sense, Total Football is a completely non-hierarchical, egalitarian method – modular, structuralist, permanently revolving. In fact, as a tactic, it comes pretty close to models like socialism and modernism.</p>
-  <p>And indeed, at first sight, the word ‘Totalisator Machine’ seems relevant to both socialism and modernism – as usual, many people will be quick to dismiss any ambitious systematic ideology as being ’totalitarian’, ’totalizing’, or just ’total’ in general. It’s an attractive thought – modernist socialism (or socialist modernism) as the ultimate ‘Totalisator Machine’, the great equalizer, the destroyer of worlds. But of course, that&#8217;s only half the story.</p>
-  <p>Just as the original ’Totalisator Machine’ (the betting device) is basically a machine that thrives on the randomness of gambling players, every systematic ideology will always contain an anti-systematic dimension. Standards are created through their variations, rules are emphasized by their exceptions, and universal languages always come with their dialects and accents. Every system produces its own subversion, just as every subversion generates its own system.</p>
-  <p>And this is our main sentiment when leafing through May 25 is now October 1. Despite the standardized sports halls, despite the numbered uniforms, despite the rules of the game (or, as we’d like to argue – because of the standardized sports halls, because of the numbered uniforms, and because of the rules of the game) these photos are filled with human emotions, dramatic expressions, dynamic movements, theatrical motions. The standard is nothing but a platform for its variation, and only in repetition the real unique gesture can be found. So yes – we dig repetition, and we dig Bardhi Haliti’s book.</p>
+description: '<p>Browsing through May 25 is now October 1, and studying the grainy newspaper photos of athletes and players (“bodies jumping, clashing, pushing, pulling at each other, striving to win&#8230;”), an absurd thought crossed our minds – the similarity between the words ‘Tito’ and ‘Toto’.</p> <p>‘Tito’ obviously refers to Josip Broz, the iconic partisan and statesman, president of the Socialist Federal Republic of Yugoslavia between 1953 and 1980, and as such the driving force (or at least, the ideological inspiration) behind the seven identical sports halls that are the subject of May 25 is now October 1.</p> <p>In contrast, ‘Toto’ might be a more obscure word. It’s a phrase that is used throughout continental Europe to refer to a system of betting pools related to sports – a cluster of games in which the participants (gamblers, basically) try to predict the outcome of upcoming sports matches. The name ’Toto’ derives from so-called ’Totalisator Machines’ – automatic devices used to calculate (and display) the winning bets. The word ‘Toto’ thus conceals (within its syllables) a nice, rhythmic repetition (&#8216;Total/Total&#8217;) – a repetition which has a soothing totalizing effect in itself.</p> <p>The string of seven identical sports halls (as designed between 1974 and 1979, by Kosovar architect Miroslav Čočanović), that together form the main theme of Bardhi Haliti’s book, can be seen as a ’Totalisator Machine’ as well – a motorik repetition of seven identical elements, existing as a typological infrastructure, rhythmically linking together the seven main cities of Kosovo (Prishtina, Prizren, Gjakova, Mitrovica, Peja, Ferizaj, and Gjilan).</p> <p>Of course, the word ‘Total’ also plays another significant role in sports. Around the time that the seven Kosovar sports halls were conceived, Amsterdam football team Ajax played a successful series of matches employing a model called ’Total Football’ – a fluid system in which no player is fixed in a predetermined role, and where anyone can successively act as an attacker, a mid-fielder and a defender. In that sense, Total Football is a completely non-hierarchical, egalitarian method – modular, structuralist, permanently revolving. In fact, as a tactic, it comes pretty close to models like socialism and modernism.</p> <p>And indeed, at first sight, the word ‘Totalisator Machine’ seems relevant to both socialism and modernism – as usual, many people will be quick to dismiss any ambitious systematic ideology as being ’totalitarian’, ’totalizing’, or just ’total’ in general. It’s an attractive thought – modernist socialism (or socialist modernism) as the ultimate ‘Totalisator Machine’, the great equalizer, the destroyer of worlds. But of course, that&#8217;s only half the story.</p> <p>Just as the original ’Totalisator Machine’ (the betting device) is basically a machine that thrives on the randomness of gambling players, every systematic ideology will always contain an anti-systematic dimension. Standards are created through their variations, rules are emphasized by their exceptions, and universal languages always come with their dialects and accents. Every system produces its own subversion, just as every subversion generates its own system.</p> <p>And this is our main sentiment when leafing through May 25 is now October 1. Despite the standardized sports halls, despite the numbered uniforms, despite the rules of the game (or, as we’d like to argue – because of the standardized sports halls, because of the numbered uniforms, and because of the rules of the game) these photos are filled with human emotions, dramatic expressions, dynamic movements, theatrical motions. The standard is nothing but a platform for its variation, and only in repetition the real unique gesture can be found. So yes – we dig repetition, and we dig Bardhi Haliti’s book.</p>'
 details: |
-  - ISBN: 3952471050 / 978-3952471050
-  - Content: 662 pages
-  - Size: 165 × 233 mm
-  - Language: English
-  - Graphic Design by: Bardhi Haliti
-  - Publication: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cpress. All rights reserved.
+  ISBN: "3952471050 / 978-3952471050"
+  Content: "662 pages"
+  Size: "165 × 233 mm"
+  Language: "English"
+  Graphic Design by: "Bardhi Haliti"
+  Publication: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cpress. All rights reserved."
 gallery:
   - 
     url: >
@@ -91,4 +52,35 @@ tags: [ ]
 
 ----
 
-Uuid: RF5i1QdbHRDSiBvB
+Multilinetitle:
+
+Bardhi Haliti
+May 25 is now October 1
+
+----
+
+Uuid: RPIcY0ZNwrvNaPmO
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

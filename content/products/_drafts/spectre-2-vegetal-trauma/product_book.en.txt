@@ -1,34 +1,3 @@
-Title: Spectre 2|Vegetal Trauma
-
-----
-
-Multilinetitle:
-
-Spectre 2
-Vegetal Trauma
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Spectre 2 <br>Vegetal Trauma'
@@ -42,16 +11,16 @@ author:
   id: 87
 description: '<p>Plants feel the pressures, the constraints and the violence of the outside world. Our irresponsible and disdainful behavior towards plants only increases the trauma they suffer. Being rooted beings, deeply sedentary, plants have no other choice than to undergo and adapt. Their life is made of successive aggressions of which they keep the memory, and of which it is necessary to overcome the violence of the effects. They carry the trace and the stigmata left by the traumas of a living environment that it is not possible to escape.</p>'
 details: |
-  - ISBN: 978-2955701096 / 2955701096
-  - Content: 216 pages
-  - Size: 250 × 16 × 310 mm
-  - Author: Claudia Mion
-  - Contributions from: Marc Alcock, Julia Andréone, Aurélien Aumond, Michel Blazy, Ambre Cardinal, Julien Carreyn, Théo Casciani, Christophe Caudroy, Gaetan Chevrier, Hélène Coussedière, Simon de Dreuille, Vincent Delbrouck, Antoine Espinasseau, Erwan Fichou, Amy Humphreys, Vincent Lamouroux, Edward Lane, Vincent Lappartient, Diane Lisarelli, Olivier Magnier, Benoît Maire, Christophe Maout, Victor Maréchal, Giaime Meloni, Livio Mosca, Alice Pallot, Elena Seegers, Arnaud Teicher, Sofu Teshigahara, Julien Vallon, Robert Voit, Cyrille Weiner, Botanical Agency
-  - Design: Spassky Fischer
-  - Language: English / French
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Cosa Mentale. All rights reserved.
+  ISBN: "978-2955701096 / 2955701096"
+  Content: "216 pages"
+  Size: "250 × 16 × 310 mm"
+  Author: "Claudia Mion"
+  Contributions from: "Marc Alcock, Julia Andréone, Aurélien Aumond,? Michel Blazy, Ambre Cardinal,? Julien Carreyn, Théo Casciani, Christophe Caudroy, Gaetan Chevrier, Hélène Coussedière, Simon de Dreuille, Vincent Delbrouck, Antoine Espinasseau, Erwan Fichou, Amy Humphreys,? Vincent Lamouroux, Edward Lane, Vincent Lappartient, Diane Lisarelli, Olivier Magnier,? Benoît Maire, Christophe Maout, Victor Maréchal, Giaime Meloni, Livio Mosca, Alice Pallot, Elena Seegers, Arnaud Teicher, Sofu Teshigahara, Julien Vallon, Robert Voit, Cyrille Weiner, Botanical Agency"
+  Design: "Spassky Fischer"
+  Language: "English / French"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -73,4 +42,35 @@ tags: [ ]
 
 ----
 
-Uuid: MJnjVCB4SXwy4pHP
+Multilinetitle:
+
+Spectre 2
+Vegetal Trauma
+
+----
+
+Uuid: SrQLJsuBmWCDTw13
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

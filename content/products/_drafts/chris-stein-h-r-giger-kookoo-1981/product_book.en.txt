@@ -1,34 +1,3 @@
-Title: Chris Stein / H.R Giger|KooKoo 1981
-
-----
-
-Multilinetitle:
-
-Chris Stein / H.R Giger
-KooKoo 1981
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Chris Stein / H.R Giger <br>KooKoo 1981'
@@ -40,28 +9,17 @@ weight: 1
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>Published on the 40th anniversary of Debbie Harry’s debut solo album KooKoo (1981), this book collects a rarely seen and unpublished body of photographs by Chris Stein (American, b. 1950), capturing the alchemy of the collaboration between artist H.R. Giger and the Blondie frontwoman and lead vocalist.<br />
-  <br />
-  Largely taken on the nightmarish sets designed by Giger while working on the cover art and video clips for the album, these photographs by Stein—Blondie’s co-founder and guitarist and Harry’s life-long creative partner—provide unprecedented access to Giger’s charismatic presence and creative process, which unfolded across a wide array of mediums including airbrush painting, sculpture, scenography, concept design, and performance.<br />
-  <br />
-  The book, designed by Swiss-based art direction firm Kasper-Florio with Samuel Bänziger and featuring a foreword by Alessio Ascari and an essay by Stephanie LaCava, will launch in Berlin with an exhibition at Reference Studios.<br />
-  <br />
-  As LaCava writes in her essay, “Stein’s photos are essential to Giger’s legacy as an artist, and less so as evidence of celebrity friends. These images secure Giger as the maker of proto-special effects, by showing that they are not special effects at all. These are real objects, props and stylings, not animation, files, or digital ledgers. Giger would further this by acting out the physicality of old school illusion with the sarcophagus, his rabbit in the hat. The story is part of the performance.”<br />
-  <br />
-  Chris Stein (American, b. 1950) is a photographer, co-founder and guitarist of the legendary rock band Blondie. In 2014 his photographs about the ‘70s and ‘80s New York rock scene were published by Rizzoli in the book <em>Negative: Me, Blondie, and the Advent of Punk</em>.<br />
-  <br />
-  Hans Ruedi Giger (1940–2014) was a Swiss surrealist painter, sculptor, and set designer known for his biomechanical creatures, extraterrestrial landscapes, and disturbing sexual machines. In a career that spanned more than five decades, he employed a staggering variety of media, including furniture, movie props, prints, paintings and sculptures, often creating exhibition displays and total environments with the immersive quality of a wunderkammer—including, most notably, the HR Giger Museum in Gruyères. In 1979, his concept design for Ridley Scott’s <em>Alien</em> won an Academy Award for Best Achievement in Visual Effects and catapulted his daunting vision of death and futurism to fame.</p>
+description: '<p>Published on the 40th anniversary of Debbie Harry’s debut solo album KooKoo (1981), this book collects a rarely seen and unpublished body of photographs by Chris Stein (American, b. 1950), capturing the alchemy of the collaboration between artist H.R. Giger and the Blondie frontwoman and lead vocalist.<br /> <br /> Largely taken on the nightmarish sets designed by Giger while working on the cover art and video clips for the album, these photographs by Stein—Blondie’s co-founder and guitarist and Harry’s life-long creative partner—provide unprecedented access to Giger’s charismatic presence and creative process, which unfolded across a wide array of mediums including airbrush painting, sculpture, scenography, concept design, and performance.<br /> <br /> The book, designed by Swiss-based art direction firm Kasper-Florio with Samuel Bänziger and featuring a foreword by Alessio Ascari and an essay by Stephanie LaCava, will launch in Berlin with an exhibition at Reference Studios.<br /> <br /> As LaCava writes in her essay, “Stein’s photos are essential to Giger’s legacy as an artist, and less so as evidence of celebrity friends. These images secure Giger as the maker of proto-special effects, by showing that they are not special effects at all. These are real objects, props and stylings, not animation, files, or digital ledgers. Giger would further this by acting out the physicality of old school illusion with the sarcophagus, his rabbit in the hat. The story is part of the performance.”<br /> <br /> Chris Stein (American, b. 1950) is a photographer, co-founder and guitarist of the legendary rock band Blondie. In 2014 his photographs about the ‘70s and ‘80s New York rock scene were published by Rizzoli in the book <em>Negative: Me, Blondie, and the Advent of Punk</em>.<br /> <br /> Hans Ruedi Giger (1940–2014) was a Swiss surrealist painter, sculptor, and set designer known for his biomechanical creatures, extraterrestrial landscapes, and disturbing sexual machines. In a career that spanned more than five decades, he employed a staggering variety of media, including furniture, movie props, prints, paintings and sculptures, often creating exhibition displays and total environments with the immersive quality of a wunderkammer—including, most notably, the HR Giger Museum in Gruyères. In 1979, his concept design for Ridley Scott’s <em>Alien</em> won an Academy Award for Best Achievement in Visual Effects and catapulted his daunting vision of death and futurism to fame.</p>'
 details: |
-  - ISBN: 8897185130 / 978-8897185130
-  - Content: 140 Pages
-  - Size: 270 × 9 × 270 mm
-  - Author: Chris Stein, H.R Giger
-  - Design: Kasper-Florio, Samuel Bänziger
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISBN: "8897185130 / 978-8897185130"
+  Content: "140 Pages"
+  Size: "270 × 9 × 270 mm"
+  Author: "Chris Stein, H.R Giger"
+  Design: "Kasper-Florio, Samuel Bänziger "
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -123,4 +81,35 @@ tags: [ ]
 
 ----
 
-Uuid: 6L69J2zTU54MVGqw
+Multilinetitle:
+
+Chris Stein / H.R Giger
+KooKoo 1981
+
+----
+
+Uuid: h3Sekt2RuS57kH7F
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

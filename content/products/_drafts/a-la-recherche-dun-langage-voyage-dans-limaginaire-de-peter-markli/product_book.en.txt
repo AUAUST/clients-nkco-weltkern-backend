@@ -1,34 +1,3 @@
-Title: À la recherche d’un langage|Voyage dans l’imaginaire de Peter Märkli|
-
-----
-
-Multilinetitle:
-
-À la recherche d’un langage
-Voyage dans l’imaginaire de Peter Märkli
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'À la recherche d’un langage <br>Voyage dans l’imaginaire de Peter Märkli<br>'
@@ -43,16 +12,16 @@ author:
   id: 87
 description: '<p>This publication is the outcome of the 2018 graduation dissertation of Italian architect Giorgio Azzariti. His research focuses on the Swiss architect Peter Märkli, and is divided across four sections: Journey, Imaginary, Language, and Reality. Märklis work does not fall easily into the customary narrative of Swiss architecture at the close of the 20th century, and even less so at the beginning of the 21st. Azzariti connects the markers of Märklis referential field, tracing a palpable process of maturation in the architects cryptic work. Part architectural analysis, part travelogue, it attempts to linke the geographic and biographical in the evolution of a unique and intensely personal trajectory.</p>'
 details: |
-  - ISBN: 2491039001 / 978-2491039004
-  - Content: 191 pages
-  - Size: 230 × 15 × 300 mm
-  - Author: Giorgio Azzariti
-  - Introduction: Claudia Mion
-  - Design: Spassky Fischer
-  - Language: French / English
-  - Publishing date: 2019
-  - Specs: Paperback
-  - Images: © Cosa Mentale. All rights reserved.
+  ISBN: "2491039001 / 978-2491039004"
+  Content: "191 pages"
+  Size: "230 × 15 × 300 mm"
+  Author: "Giorgio Azzariti"
+  Introduction: "Claudia Mion"
+  Design: "Spassky Fischer"
+  Language: "French / English"
+  Publishing date: "2019"
+  Specs: "Paperback"
+  Images: "© Cosa Mentale. All rights reserved."
 gallery:
   - 
     url: >
@@ -90,4 +59,35 @@ tags:
 
 ----
 
-Uuid: jXOdzzkurXkvRA5Y
+Multilinetitle:
+
+À la recherche d’un langage
+Voyage dans l’imaginaire de Peter Märkli
+
+----
+
+Uuid: EiL5yei1Ll2qx7qu
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

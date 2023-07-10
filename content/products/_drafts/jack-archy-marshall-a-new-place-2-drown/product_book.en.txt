@@ -1,34 +1,3 @@
-Title: Jack & Archy Marshall|A New Place 2 Drown
-
-----
-
-Multilinetitle:
-
-Jack & Archy Marshall
-A New Place 2 Drown
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Jack & Archy Marshall <br>A New Place 2 Drown'
@@ -42,13 +11,12 @@ author:
   id: 379
 description: '<p>A New Place 2 Drown showcases the poetry and artwork of brothers Jack &#038; Archy Marshall. The book shows the creative process the brothers share as well as their social and home lives in South London. An accompanying soundtrack by Archy Marshall will be available 10th December 2015. A short film about the project by Will Robson Scott is available below.</p>'
 details: |
-  - Content: 212 pages
-  - Size: 220 × 290 mm
-  - Language: English
-  - Publishing date: 2016
-  - Specs: Softbound, silver spin tape.
-  2× silver slip-in poems
-  - Images: © WELTKERN® / ‎Topsafe. All rights reserved.
+  Content: "212 pages"
+  Size: "220 × 290 mm"
+  Language: "English"
+  Publishing date: "2016"
+  Specs: "Softbound, silver spin tape. 2× silver slip-in poems"
+  Images: "© WELTKERN® / ‎Topsafe. All rights reserved."
 gallery:
   - 
     url: >
@@ -74,4 +42,35 @@ tags: [ ]
 
 ----
 
-Uuid: ayUtMnCnNMyHioS8
+Multilinetitle:
+
+Jack & Archy Marshall
+A New Place 2 Drown
+
+----
+
+Uuid: 7QolJl0WFDuSqaBF
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

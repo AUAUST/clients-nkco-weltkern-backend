@@ -1,31 +1,3 @@
-Title: Fields of Sight
-
-----
-
-Multilinetitle: Fields of Sight
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Fields of Sight
@@ -37,20 +9,16 @@ weight: 2.1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Fields of Sight is a unique collaboration between photographer Gauri Gill and renowned Warli artist Rajesh Vangad. The series began in early 2013 in Ganjad, Dahanu, an Adivasi village in coastal Maharashtra, India. A new visual language emerged symbiotically from Gill’s initial experiences of photographing the landscape. Looking at her contact sheets, she perceived that although the camera was capturing the distinct ‘chameleon-like’ skin of the landscape, it was missing vital aspects of what was not apparent to the eye, yet was vividly relayed in the great mythical and experiential stories narrated to her by Vangad. The photographs by Gill, inscribed by drawings by Vangad, reconfigure the photographic site both formally as well as conceptually, to arrive at new documents of multiple truths and knowledge systems. In the act of viewing the landscape through the eyes of Vangad, Gill rekindles the need to challenge the way we see things today, what our eyes capture and what may elude them. ‘As though one were photographing an old home, and the resident of the house came out, and began to speak’.</p>
-  <p>In connection with Gauri Gill&#8217;s ongoing exhibition at the Louisiana Museum, Humlebæk, Denmark, Gauril Gill will participate in two events in connection with her visit:</p>
-  <p>On 29 March at 4 pm, the artist will join curator Tine Colstrup for a Walk &#038; Talk in the exhibition, and on 30 March Gauri Gill will take part in a Q&#038;A session. For the Q&#038;A, Sonja Furu who is a Danish journalist based in New Dehli will talk to Gauri Gill about her books Acts of Appearance and Fields of Sight.</p>
-  <p>Preceding their talk Sonja Furu will present a lecture at 7.30 pm, on the topic of India today.</p>
+description: '<p>Fields of Sight is a unique collaboration between photographer Gauri Gill and renowned Warli artist Rajesh Vangad. The series began in early 2013 in Ganjad, Dahanu, an Adivasi village in coastal Maharashtra, India. A new visual language emerged symbiotically from Gill’s initial experiences of photographing the landscape. Looking at her contact sheets, she perceived that although the camera was capturing the distinct ‘chameleon-like’ skin of the landscape, it was missing vital aspects of what was not apparent to the eye, yet was vividly relayed in the great mythical and experiential stories narrated to her by Vangad. The photographs by Gill, inscribed by drawings by Vangad, reconfigure the photographic site both formally as well as conceptually, to arrive at new documents of multiple truths and knowledge systems. In the act of viewing the landscape through the eyes of Vangad, Gill rekindles the need to challenge the way we see things today, what our eyes capture and what may elude them. ‘As though one were photographing an old home, and the resident of the house came out, and began to speak’.</p> <p>In connection with Gauri Gill&#8217;s ongoing exhibition at the Louisiana Museum, Humlebæk, Denmark, Gauril Gill will participate in two events in connection with her visit:</p> <p>On 29 March at 4 pm, the artist will join curator Tine Colstrup for a Walk &#038; Talk in the exhibition, and on 30 March Gauri Gill will take part in a Q&#038;A session. For the Q&#038;A, Sonja Furu who is a Danish journalist based in New Dehli will talk to Gauri Gill about her books Acts of Appearance and Fields of Sight.</p> <p>Preceding their talk Sonja Furu will present a lecture at 7.30 pm, on the topic of India today.</p>'
 details: |
-  - ISBN: 3907236475 / 978-3907236475
-  - Content: 372 pages
-  - Size: 290 × 210 mm
-  - Design: David Keshavjee, Maximage
-  - Language: English
-  - Publishing date: 2023
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236475 / 978-3907236475"
+  Content: "372 pages"
+  Size: "290 × 210 mm"
+  Design: "David Keshavjee, Maximage"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -96,4 +64,32 @@ tags: [ ]
 
 ----
 
-Uuid: WVXYM3DtpszUShwB
+Multilinetitle: Fields of Sight
+
+----
+
+Uuid: dvxPvZbQ5r74WdMM
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

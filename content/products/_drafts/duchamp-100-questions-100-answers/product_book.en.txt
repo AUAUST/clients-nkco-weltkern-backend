@@ -1,34 +1,3 @@
-Title: Duchamp|100 Questions. 100 Answers.
-
-----
-
-Multilinetitle:
-
-Duchamp
-100 Questions. 100 Answers.
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Duchamp <br>100 Questions. 100 Answers.'
@@ -40,20 +9,17 @@ weight: 2.1
 author:
   name: Prestel
   id: 112
-description: |
-  <p>Celebrating Marcel Duchamp&#8217;s revolutionary contributions to modern art, this innovative exploration of the Stuttgart Duchamp Collection and the Archive of Serge Stauffer offers new insights into both artists&#8217; philosophies.<br />
-  <br />
-  As the inventor of the Readymade and a founder of conceptual art, Marcel Duchamp&#8217;s work is still provoking important discussions about what defines art. Accompanying the first exhibition of the important Stuttgart Duchamp Collection, this book also presents the work of the Swiss artist and educator Serge Stauffer and his renowned research on Duchamp&#8217;s art and writings. The series of 100 questions Stauffer wrote to the French artist in 1960-and Duchamp&#8217;s answers-provide important insights into Duchamp&#8217;s intellectual and creative practice and bear witness to the depth of Stauffer&#8217;s exceptional research. This book opens with an introduction to the relationship between Duchamp and Stauffer. It features brilliant reproductions of Duchamp&#8217;s most renowned works, including <em>Bottlerack</em>, the painting study for <em>Chocolate Grinder, No 2</em>, and the window object <em>La Bagarre d&#8217;Austerlitz</em>. A biographical essay on both Duchamp and Stauffer provides important background to understanding the exceptional relationship between both artists.</p>
+description: '<p>Celebrating Marcel Duchamp&#8217;s revolutionary contributions to modern art, this innovative exploration of the Stuttgart Duchamp Collection and the Archive of Serge Stauffer offers new insights into both artists&#8217; philosophies.<br /> <br /> As the inventor of the Readymade and a founder of conceptual art, Marcel Duchamp&#8217;s work is still provoking important discussions about what defines art. Accompanying the first exhibition of the important Stuttgart Duchamp Collection, this book also presents the work of the Swiss artist and educator Serge Stauffer and his renowned research on Duchamp&#8217;s art and writings. The series of 100 questions Stauffer wrote to the French artist in 1960-and Duchamp&#8217;s answers-provide important insights into Duchamp&#8217;s intellectual and creative practice and bear witness to the depth of Stauffer&#8217;s exceptional research. This book opens with an introduction to the relationship between Duchamp and Stauffer. It features brilliant reproductions of Duchamp&#8217;s most renowned works, including <em>Bottlerack</em>, the painting study for <em>Chocolate Grinder, No 2</em>, and the window object <em>La Bagarre d&#8217;Austerlitz</em>. A biographical essay on both Duchamp and Stauffer provides important background to understanding the exceptional relationship between both artists.</p>'
 details: |
-  - ISBN: 3791358421 / 978-3791358420
-  - Content: 304 Pages
-  - Size: 246 × 34 × 314 mm
-  - Artist: Marcel Duchamp
-  - Authors: Alex Gartenfeld, Falvin Judd, Kirsten Swenson, Alex Kitnick, Ellen Salpeter
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Prestel. All rights reserved.
+  ISBN: "3791358421 / 978-3791358420"
+  Content: "304 Pages"
+  Size: "246 × 34 × 314 mm"
+  Artist: "Marcel Duchamp"
+  Authors: "Alex Gartenfeld, Falvin Judd, Kirsten Swenson, Alex Kitnick, Ellen Salpeter"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Prestel. All rights reserved."
 gallery:
   - 
     url: >
@@ -63,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: sINT30dE3FK1ipO7
+Multilinetitle:
+
+Duchamp
+100 Questions. 100 Answers.
+
+----
+
+Uuid: IQu9DRFCm6WOoHzE
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

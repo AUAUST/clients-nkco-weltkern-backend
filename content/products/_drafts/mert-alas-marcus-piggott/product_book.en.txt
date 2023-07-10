@@ -1,31 +1,3 @@
-Title: Mert Alas & Marcus Piggott
-
-----
-
-Multilinetitle: Mert Alas & Marcus Piggott
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mert Alas & Marcus Piggott'
@@ -37,21 +9,16 @@ weight: 3.9
 author:
   name: Taschen
   id: 91
-description: |
-  <p>Mert Alas, born in Turkey, and Marcus Piggott, born in Wales, met in 1994, at a party on a pier in Hastings, England. Piggott asked Alas for a light, the pair got talking, and rapidly discovered they had plenty in common, not least a love of fashion. Three years later, the duo now known as Mert and Marcus had moved into a derelict loft in East London, converted it into a studio, and had their first collaborative photographic work published in Dazed &#038; Confused.<br />
-  <br />
-  These days, Mert and Marcus shape the global image of such renowned brands as Giorgio Armani, Roberto Cavalli, Fendi, Miu Miu, Gucci, Yves Saint Laurent, Givenchy, and Lancome, and public figures including Lady Gaga, Madonna, Jennifer Lopez, Linda Evangelista, Gisele Bundchen, Bjoerk, Angelina Jolie, and Rihanna. Their photographs encompass a wide range of styles and influences but are renowned particularly for their use of digitized augmentation of images, and a fascination for strong, sexually charged, confident female subjects: &#8220;powerful women, women with a meaning, a you-don&#8217;t-have-to-talk-or-move-too-much-to-tell-who-you-are kind of woman.&#8221;<br />
-  <br />
-  Bringing our best-selling Collector&#8217;s Edition to an affordable, compact format, this collection explores the unique vision of a creative partnership that has defined and redefined standards for glamour, fashion, and luxury. Approximately 300 images from the megawatt Mert and Marcus portfolio are accompanied by an introduction by Charlotte Cotton.</p>
+description: '<p>Mert Alas, born in Turkey, and Marcus Piggott, born in Wales, met in 1994, at a party on a pier in Hastings, England. Piggott asked Alas for a light, the pair got talking, and rapidly discovered they had plenty in common, not least a love of fashion. Three years later, the duo now known as Mert and Marcus had moved into a derelict loft in East London, converted it into a studio, and had their first collaborative photographic work published in Dazed &#038; Confused.<br /> <br /> These days, Mert and Marcus shape the global image of such renowned brands as Giorgio Armani, Roberto Cavalli, Fendi, Miu Miu, Gucci, Yves Saint Laurent, Givenchy, and Lancome, and public figures including Lady Gaga, Madonna, Jennifer Lopez, Linda Evangelista, Gisele Bundchen, Bjoerk, Angelina Jolie, and Rihanna. Their photographs encompass a wide range of styles and influences but are renowned particularly for their use of digitized augmentation of images, and a fascination for strong, sexually charged, confident female subjects: &#8220;powerful women, women with a meaning, a you-don&#8217;t-have-to-talk-or-move-too-much-to-tell-who-you-are kind of woman.&#8221;<br /> <br /> Bringing our best-selling Collector&#8217;s Edition to an affordable, compact format, this collection explores the unique vision of a creative partnership that has defined and redefined standards for glamour, fashion, and luxury. Approximately 300 images from the megawatt Mert and Marcus portfolio are accompanied by an introduction by Charlotte Cotton.</p>'
 details: |
-  - ISBN: 3836573061 / 978-3836573061
-  - Content: 408 pages
-  - Size: 262 × 41 × 350 mm
-  - Author: Charlotte Cotton
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Taschen. All rights reserved.
+  ISBN: "3836573061 / 978-3836573061"
+  Content: "408 pages"
+  Size: "262 × 41 × 350 mm"
+  Author: "Charlotte Cotton"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Taschen. All rights reserved."
 gallery:
   - 
     url: >
@@ -89,4 +56,32 @@ tags: [ ]
 
 ----
 
-Uuid: ozqXgjVXYcmzpDFn
+Multilinetitle: Mert Alas & Marcus Piggott
+
+----
+
+Uuid: sBxjN4MOhLIwXaFj
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

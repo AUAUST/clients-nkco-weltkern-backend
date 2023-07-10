@@ -1,34 +1,3 @@
-Title: Bobst Graphic 1972–1981|French Edition
-
-----
-
-Multilinetitle:
-
-Bobst Graphic 1972–1981
-French Edition
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Bobst Graphic 1972–1981 <br>French Edition'
@@ -42,16 +11,16 @@ author:
   id: 97
 description: '<p>The second volume of the ‘Visual Archives’ series focuses on the largely unknown history of Bobst Graphic. In the early 1970s this Swiss packaging company, seeking to combine new technology with the high-tech capabilities of computing, launched its line of phototypesetting machines. These would revolutionise the quality of typography. Through the efforts of leading Swiss designers, various font families were developed for the new technique. Bobst Graphic’s pioneering role in the development of phototypesetting has never been included in the rich history of Swiss graphic and font design. Through first-hand accounts and personal interviews, new light is shed on this story.</p>'
 details: |
-  - ISBN: 3038630403 / 978-3038630401
-  - Content: 168 pages
-  - Size: 162 × 17 × 238 mm
-  - Authors: Giliane Cachin, François Rappo, Davide Fornari
-  - Edited by: Giliane Cachin
-  - Design: Giliane Cachin
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Triest Verlag. All rights reserved.
+  ISBN: "3038630403 / 978-3038630401"
+  Content: "168 pages"
+  Size: "162 × 17 × 238 mm"
+  Authors: "Giliane Cachin, François Rappo, Davide Fornari"
+  Edited by: "Giliane Cachin"
+  Design: "Giliane Cachin"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Triest Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -77,4 +46,35 @@ tags: [ ]
 
 ----
 
-Uuid: Rky6BlEnn7nJxjku
+Multilinetitle:
+
+Bobst Graphic 1972–1981
+French Edition
+
+----
+
+Uuid: ZxNqJUTYQxFIppii
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

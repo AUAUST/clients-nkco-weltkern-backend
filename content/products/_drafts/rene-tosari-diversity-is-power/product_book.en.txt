@@ -1,34 +1,3 @@
-Title: René Tosari|Diversity Is Power
-
-----
-
-Multilinetitle:
-
-René Tosari
-Diversity Is Power
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'René Tosari <br>Diversity Is Power'
@@ -42,16 +11,16 @@ author:
   id: 157
 description: '<p><em>Diversity is Power</em> is the first monograph dedicated to René Tosari, a Dutch artist born in Suriname in 1948. He is regarded as one of Suriname’s most important graphic artists, and produced a large quantity of politically engaged work through the 1970s and ’80s. Often inspired by social realism, Tosari’s engagement with social issues and artistic contributions to the revolution in Suriname are reflected in his work. He has also produced more symbolic work, in which his painting style becomes more complex and free. Just as his artistic path has oscillated between the Netherlands and Suriname, this in-depth portrait examines the life and history of an artist between two worlds.</p>'
 details: |
-  - ISBN: 9492852047 / 978-9492852045
-  - Content: 276 pages
-  - Size: 223 × 25 × 285 mm
-  - Authors: Rob Perrée, Priscilla Tosari
-  - Design: Main Studio
-  - Font in use: TWK Lausanne (old version)
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © Jap Sam Books. All rights reserved.
+  ISBN: "9492852047 / 978-9492852045"
+  Content: "276 pages"
+  Size: "223 × 25 × 285 mm"
+  Authors: "Rob Perrée, Priscilla Tosari"
+  Design: "Main Studio"
+  Font in use: "TWK Lausanne (old version)"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© Jap Sam Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -81,4 +50,35 @@ tags: [ ]
 
 ----
 
-Uuid: 758RAMs6mj7VSCSd
+Multilinetitle:
+
+René Tosari
+Diversity Is Power
+
+----
+
+Uuid: QgEBNiyXGI9dVc6L
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

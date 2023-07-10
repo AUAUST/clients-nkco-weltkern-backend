@@ -1,34 +1,3 @@
-Title: Mathis Pfäffli|Tracer
-
-----
-
-Multilinetitle:
-
-Mathis Pfäffli
-Tracer
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Mathis Pfäffli <br>Tracer'
@@ -40,20 +9,17 @@ weight: 0.6
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>Tracer in English means a tool for tracing, the person tracing, and also the trace. Tracer also refers to the professions of graphic artist or technical draughtsman. The series of drawings called Tracer (2021/22) was done for the publication of the same name. Using graphite on A3 sheets of paper Mathis Pfäffli has created a kind of picture story in which real buildings encounter fictive spaces; futuristic architecture meets hybrid landscapes with leafless trees and technoid objects. They blend to form fantastic and partly uncanny worlds following a logic of their own. </p>
-  <p>The publication Tracer contains the complete series of drawings called Tracer, a survey of Pfäffli’s artistic work, with texts by Chantal Kaufmann, Julia Moritz, Sophia Roxane Rohwetter, and Arnaud Wohlhauser.</p>
+description: '<p>Tracer in English means a tool for tracing, the person tracing, and also the trace. Tracer also refers to the professions of graphic artist or technical draughtsman. The series of drawings called Tracer (2021/22) was done for the publication of the same name. Using graphite on A3 sheets of paper Mathis Pfäffli has created a kind of picture story in which real buildings encounter fictive spaces; futuristic architecture meets hybrid landscapes with leafless trees and technoid objects. They blend to form fantastic and partly uncanny worlds following a logic of their own. </p> <p>The publication Tracer contains the complete series of drawings called Tracer, a survey of Pfäffli’s artistic work, with texts by Chantal Kaufmann, Julia Moritz, Sophia Roxane Rohwetter, and Arnaud Wohlhauser.</p>'
 details: |
-  - ISBN: 3959056694 / ‎978-3959056694
-  - Content: 176 pages
-  - Size: 210 × 300 mm
-  - Author: Mathis Pfäffli
-  - Design: Pascal Storz
-  
-  - Language: English / German
-  - Publishing date: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN® / ‎Spector Books. All rights reserved.
+  ISBN: "3959056694 / ‎978-3959056694"
+  Content: "176 pages"
+  Size: "210 × 300 mm"
+  Author: "Mathis Pfäffli"
+  Design: "Pascal Storz "
+  Language: "English / German"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / ‎Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -83,4 +49,35 @@ tags: [ ]
 
 ----
 
-Uuid: JT3i1l35AqD7Oc3I
+Multilinetitle:
+
+Mathis Pfäffli
+Tracer
+
+----
+
+Uuid: A90XqbGd3ZTM2Pfm
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

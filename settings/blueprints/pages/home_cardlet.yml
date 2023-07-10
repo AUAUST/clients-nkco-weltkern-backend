@@ -1,0 +1,21 @@
+title:
+  fr: "Cardlet"
+  en: "Cardlet"
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      image:
+        type: files
+        multiple: false
+        label:
+          fr: "Image"
+          en: "Image"
+        required: true
+        query: site.find("home").find("cardlets").images
+      url:
+        type: link
+        label:
+          fr: "Lien"
+          en: "Link"

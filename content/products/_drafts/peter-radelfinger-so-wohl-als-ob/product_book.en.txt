@@ -1,34 +1,3 @@
-Title: Peter Radelfinger|So wohl als ob
-
-----
-
-Multilinetitle:
-
-Peter Radelfinger
-So wohl als ob
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Peter Radelfinger <br>So wohl als ob'
@@ -40,27 +9,17 @@ weight: 1.3
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>This book presents a wide range of artistic working processes that Peter Radelfinger developed and implemented together with students in various disciplines during the many years he taught at Zurich University of the Arts: several series of elementary (to begin with, drawing and performing) exercises,<br />
-  strategies and techniques of working with images, researching, artistic actions and complex artistic projects.</p>
-  <p>Radelfinger tries to lay down precise coordinates that will serve to broaden his students’ perceptions and understanding of art, routinely setting parameters<br />
-  that establish a “minimal order” within which they’ll have maximum room for maneuver. Radelfinger combines his idiosyncratic artistic approach with his pedagogical and didactic know-how. Not for nothing does he insist his teaching is part and parcel of his artistic practice.<br />
-  <br />
-  This book, in turn, sets about creating a “minimal order” for the next playful round of artistic consciousness expansion. Serving neither as documentation of Radelfinger’s courses nor as conventional teaching material designed to put across a specific method, this is an exciting handbook that provides plenty of food for further reflection – and action.<br />
-  <br />
-  This book comprises multiple pictorial and textual levels: it’s a montage of (outside) texts and pictures with cross-references and background information about everyday life as well as (contemporary) art and art history. The texts and pictures are interlinked with a view to opening up new avenues of thought. The images do not show completed works, they document working processes and designs for the most part produced in class.<br />
-  <br />
-  Most beautiful Swiss books, 2016</p>
+description: '<p>This book presents a wide range of artistic working processes that Peter Radelfinger developed and implemented together with students in various disciplines during the many years he taught at Zurich University of the Arts: several series of elementary (to begin with, drawing and performing) exercises,<br /> strategies and techniques of working with images, researching, artistic actions and complex artistic projects.</p> <p>Radelfinger tries to lay down precise coordinates that will serve to broaden his students’ perceptions and understanding of art, routinely setting parameters<br /> that establish a “minimal order” within which they’ll have maximum room for maneuver. Radelfinger combines his idiosyncratic artistic approach with his pedagogical and didactic know-how. Not for nothing does he insist his teaching is part and parcel of his artistic practice.<br /> <br /> This book, in turn, sets about creating a “minimal order” for the next playful round of artistic consciousness expansion. Serving neither as documentation of Radelfinger’s courses nor as conventional teaching material designed to put across a specific method, this is an exciting handbook that provides plenty of food for further reflection – and action.<br /> <br /> This book comprises multiple pictorial and textual levels: it’s a montage of (outside) texts and pictures with cross-references and background information about everyday life as well as (contemporary) art and art history. The texts and pictures are interlinked with a view to opening up new avenues of thought. The images do not show completed works, they document working processes and designs for the most part produced in class.<br /> <br /> Most beautiful Swiss books, 2016</p>'
 details: |
-  - ISBN: 3906803081 / 978-3906803081
-  - Content: 680 Pages
-  - Size: 170 × 240 mm
-  - Artist: Peter Radelfinger
-  - Design: Kevin Casado, Jonas Vögeli, Sandro Wettstein
-  - Language: German
-  - Publishing date: 2016
-  - Specs: Softcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803081 / 978-3906803081"
+  Content: "680 Pages"
+  Size: "170 × 240 mm"
+  Artist: "Peter Radelfinger"
+  Design: "Kevin Casado, Jonas Vögeli, Sandro Wettstein"
+  Language: "German"
+  Publishing date: "2016"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -90,4 +49,35 @@ tags: [ ]
 
 ----
 
-Uuid: n3NnelaRNJXYOoL5
+Multilinetitle:
+
+Peter Radelfinger
+So wohl als ob
+
+----
+
+Uuid: mV9G638InK5K3lak
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,0 +1,99 @@
+Oldweltkern:
+
+title: "Line Fontana & David Fagart <br>Renouveler la ville depuis l'intérieur"
+slug: >
+  line-fontana-david-fagart-renouveler-la-ville-depuis-linterieur
+id: 30183
+isbn: 2493283146 / 978-2493283146
+price: 38.5
+weight: 2.1
+author:
+  name: Cosa Mentale
+  id: 87
+description: '<p>A reflection by the architects of Fagart &#038; Fontana on the renewal of the city from within and more specifically on the processes of transformation and adaptation of existing collective housing to new needs and lifestyles.</p> <p>What role can interiors play in adapting to the rapidly changing lifestyles of our cities&#8217; inhabitants? Resulting from a study project carried out at the Geneva University of Art and Design (HEAD – Genève), Renewing the city from the Within formulates alternatives to the urban development model centred on building expansion, by proposing scenarios for the renewal, from the inside out, of existing collective housing buildings in Geneva.<br /> By analysing a sample of collective housing buildings from the three main periods of the city&#8217;s development, the publication develops scenarios aimed at adapting these typologies to a convivial and mixed lifestyle, based on principles of solidarity, hospitality and sharing. At a time when the nuclear family is no longer the only model and when the boundaries between living and working areas have become porous, the architects of Fagart &#038; Fontana wish to contribute to the reflection on the city&#8217;s capacity to renew itself, by making people aware that there is a project territory to invest to rethink contemporary housing.</p>'
+details: |
+  ISBN: "2493283146 / 978-2493283146"
+  Content: "216 pages"
+  Size: "240 × 320 mm"
+  Design: "Spassky Fischer"
+  Language: "English / French"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_COVER_.jpg
+    id: 30170
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_01.jpg
+    id: 30169
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_02.jpg
+    id: 30168
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_03.jpg
+    id: 30167
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_04.jpg
+    id: 30166
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_05.jpg
+    id: 30165
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_06.jpg
+    id: 30164
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_07.jpg
+    id: 30163
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_08.jpg
+    id: 30162
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Line-Fontana_SPREAD_09.jpg
+    id: 30161
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Line Fontana & David Fagart
+Renouveler la ville depuis l'intérieur
+
+----
+
+Uuid: lt2Bq0RubaW6Uk5q
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

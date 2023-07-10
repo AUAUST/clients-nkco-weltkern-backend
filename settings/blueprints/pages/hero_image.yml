@@ -1,0 +1,74 @@
+title: Image Hero
+
+options:
+  changeTemplate:
+    - hero_product
+    - hero_image
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      overrideTitle:
+        type: text
+        label:
+          fr: Titre
+        help:
+          fr: "Si vide, le nom du produit sera utilisé"
+          en: "If empty, the product name will be used"
+      image:
+        type: files
+        label:
+          fr: Image
+          en: Image
+        required: true
+        multiple: false
+        template: product
+        # TODO: drafts -> children
+        query: site.find("home").find("heroes").images
+      backgroundType:
+        type: toggles
+        label:
+          fr: "Type d'arrière-plan"
+          en: "Background type"
+        width: 1/2
+        required: true
+        options:
+          image:
+            fr: "Image"
+          color:
+            fr: "Couleur"
+      backgroundColor:
+        type: color
+        label:
+          fr: "Couleur d'arrière-plan"
+          en: "Background color"
+        width: 1/2
+        when:
+          backgroundType: color
+      backgroundImage:
+        type: files
+        label:
+          fr: "Image d'arrière-plan"
+          en: "Background image"
+        width: 1/2
+        multiple: false
+        uploads:
+          parent: site.find("home").find("heroes")
+        when:
+          backgroundType: image
+  sidebar:
+    width: 1/3
+    fields:
+      visibleSince:
+        type: date
+        label:
+          fr: "Visible depuis"
+          en: "Visible since"
+        width: 1/2
+        display: dd/mm/yyyy
+        time:
+          step: 10
+          display: HH:mm
+        default: today
+        translate: false

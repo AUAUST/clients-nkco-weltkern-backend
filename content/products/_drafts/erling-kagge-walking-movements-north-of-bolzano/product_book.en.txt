@@ -1,34 +1,3 @@
-Title: Erling Kagge|Walking. Movements North Of Bolzano
-
-----
-
-Multilinetitle:
-
-Erling Kagge
-Walking. Movements North Of Bolzano
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Erling Kagge <br>Walking. Movements North Of Bolzano'
@@ -43,13 +12,13 @@ author:
   id: 111
 description: '<p>Erling Kagge, the world-renowned Norwegian explorer and art collector, attributes particular importance to the walks that took him first toward and then away from the artworks he wanted and was eager to own. The intersection of walking and collecting guides WALKING. Movements North of Bolzano, an exhibition organized by Museion and curated by the collector. The publication that accompanies it emerges from an expository journey that, following an allegory of hiking, carries readers from Oslo to Bolzano.</p>'
 details: |
-  - ISBN: 8867494422 / 978-8867494422
-  - Content: 140 pages
-  - Size: 210 × 270 mm
-  - Language: Italian / English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Mousse Publishing. All rights reserved.
+  ISBN: "8867494422 / 978-8867494422"
+  Content: "140 pages"
+  Size: "210 × 270 mm"
+  Language: "Italian / English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Mousse Publishing. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: FRszug3E8WxvnKH4
+Multilinetitle:
+
+Erling Kagge
+Walking. Movements North Of Bolzano
+
+----
+
+Uuid: hDNHcfPtf5ORglm9
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

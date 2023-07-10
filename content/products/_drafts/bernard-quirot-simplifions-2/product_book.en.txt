@@ -1,0 +1,82 @@
+Oldweltkern:
+
+title: 'Bernard Quirot <br>Simplifions'
+slug: bernard-quirot-simplifions-2
+id: 30188
+isbn: 2493283092 / 978-2493283092
+price: 18.5
+weight: 2.1
+author:
+  name: Cosa Mentale
+  id: 87
+description: '<p>In this writing, Bernard Quirot carries a reflection on his theoretical foundations and evokes, through his architectural journey, a critical vision of the increasing complexity of the world.</p> <p>Bernard Quirot is an architect. He is an architect with his whole body. Bernard Quirot reminds us that architecture commits us entirely. This commitment obliges us, towards our own culture and tradition, to take a position on the role of the architect in our society and on the conditions of his practice.</p>'
+details: |
+  ISBN: "2493283092 / 978-2493283092"
+  Content: "96 pages"
+  Size: "175 × 120 mm"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Bernard-Quirot_COVER_.jpg
+    id: 30201
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Bernard-Quirot_SPREAD_01.jpg
+    id: 30200
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Bernard-Quirot_SPREAD_02.jpg
+    id: 30199
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Bernard-Quirot_SPREAD_03-1.jpg
+    id: 30198
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Bernard-Quirot_SPREAD_03.jpg
+    id: 30197
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Bernard-Quirot_SPREAD_04.jpg
+    id: 30196
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Bernard Quirot
+Simplifions
+
+----
+
+Uuid: ysWZDB1WcPhjtDIL
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

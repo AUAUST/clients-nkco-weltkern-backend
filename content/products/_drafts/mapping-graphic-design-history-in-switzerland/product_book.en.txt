@@ -1,31 +1,3 @@
-Title: Mapping Graphic Design History in Switzerland
-
-----
-
-Multilinetitle: Mapping Graphic Design History in Switzerland
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: >
@@ -40,21 +12,18 @@ weight: 0.95
 author:
   name: Triest Verlag
   id: 97
-description: |
-  <p><em>Mapping Graphic Design History in Switzerland</em> presents for the first time eleven selected essays on the production, mediation, and consumption of graphic design artifacts and processes, as well as their respective discourses by authors from the German, French and Italian-speaking areas of Switzerland.<br />
-  <br />
-  The publication discusses theoretical and methodological approaches for historical research on graphic design, helps to establish graphic design history as an academic field in Switzerland, and makes this discourse accessible to researchers and professional graphic designers in Switzerland and abroad. </p>
+description: '<p><em>Mapping Graphic Design History in Switzerland</em> presents for the first time eleven selected essays on the production, mediation, and consumption of graphic design artifacts and processes, as well as their respective discourses by authors from the German, French and Italian-speaking areas of Switzerland.<br /> <br /> The publication discusses theoretical and methodological approaches for historical research on graphic design, helps to establish graphic design history as an academic field in Switzerland, and makes this discourse accessible to researchers and professional graphic designers in Switzerland and abroad. </p>'
 details: |
-  - ISBN: 3038630098 / 978-3038630098
-  - Content: 328 pages
-  - Size: 160 × 32 × 240 mm
-  - Edited by: Robert Lzicar, Davide Fornari
-  - Texts by: Franziska Nyffenegger, François Rappo, Michael Renner, Bettina Richter, Teal Triggs, Amanda Unger, Peter Vetter, Davide Fornari, Robert Lzicar, Roland Früh, Invar-Torre Hollaus, Corina Neuenschwander, Barbara Junod, Leslie Kennedy, Diana Iennaco, Marina Prado, Leonardo Signori
-  - Design: STVG
-  - Language: English
-  - Publishing date: 2016
-  - Specs: Softcover
-  - Images: © WELTKERN® / Triest Verlag. All rights reserved.
+  ISBN: "3038630098 / 978-3038630098"
+  Content: "328 pages"
+  Size: "160 × 32 ×? 240 mm"
+  Edited by: "Robert Lzicar, Davide Fornari"
+  Texts by: "Franziska Nyffenegger, François Rappo, Michael Renner, Bettina Richter, Teal Triggs, Amanda Unger, Peter Vetter, Davide Fornari, Robert Lzicar, Roland Früh, Invar-Torre Hollaus, Corina Neuenschwander, Barbara Junod, Leslie Kennedy, Diana Iennaco, Marina Prado, Leonardo Signori"
+  Design: "STVG"
+  Language: "English"
+  Publishing date: "2016"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Triest Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -96,4 +65,32 @@ tags: [ ]
 
 ----
 
-Uuid: x6jHlBu6OjBUHG2Y
+Multilinetitle: Mapping Graphic Design History in Switzerland
+
+----
+
+Uuid: QaD2iYFKjQC1Ohj6
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

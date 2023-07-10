@@ -1,4 +1,51 @@
-Title: Sterling Ruby
+Oldweltkern:
+
+title: Sterling Ruby
+slug: sterling-ruby
+id: 3550
+isbn: 3791358796 / 978-3791358796
+price: 35.9
+weight: 1.2
+author:
+  name: Prestel
+  id: 112
+description: '<p>This book presents twenty years of Sterling Ruby&#8217;s iconic, multidisciplinary works. From his sublime abstract paintings to his soft sculpture &#8220;vampires&#8221; comprising American flags, Sterling Ruby is &#8220;one of the most interesting artists to emerge in this century, &#8221; according to The New York Times. Accompanying Ruby&#8217;s first US museum survey, this book takes a thematic approach to the artist&#8217;s work, focusing on his critical invocation of imagery related to American identity. Beginning with his earliest collages, this book demonstrates his distinctive approach to psychological, cultural, and topical concerns. It includes his recent mobiles and polyurethanes, demonstrating his continuous engagement with themes such as prison reform, labor conditions, and vernacular cultures. Readers can compare smaller works on canvas and in clay to monumental sculptures made from submarine parts or giant skyscrapers rendered in toxically bright colors.</p>'
+details: |
+  ISBN: "3791358796 / 978-3791358796"
+  Content: "192 pages"
+  Size: "230 × 15 × 285 mm"
+  Authors: "Alex Gartenfeld, Eva Respini"
+  Contributions from: "Jeffrey De Blois, Isabelle Graw"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Hardcover"
+  Images: "© Prestel. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Ruby.jpg
+    id: 3555
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_-37.jpg
+    id: 3557
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_2-36.jpg
+    id: 3559
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_3-35.jpg
+    id: 3561
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_SPREAD_4-26.jpg
+    id: 3563
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2021/03/BOOK_COVER_Ruby_BACK.jpg
+    id: 3553
+tags: [ ]
 
 ----
 
@@ -6,15 +53,23 @@ Multilinetitle: Sterling Ruby
 
 ----
 
+Uuid: NrulthRcqQhzZs8w
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
 Publisher: 
 
 ----
 
-Auto-kerns: true
+Tags: 
 
 ----
 
-Image: 
+Auto-kerns: true
 
 ----
 
@@ -23,62 +78,3 @@ Cover:
 ----
 
 Supplier: 
-
-----
-
-Oldweltkern:
-
-title: Sterling Ruby
-slug: sterling-ruby-2
-id: 6027
-isbn: 3037640104 / 978-3037640104
-price: 59.9
-weight: 1.1
-author:
-  name: JRP|Editions
-  id: 94
-description: |
-  <p>The multitude of media and techniques used by Sterling Ruby (*1972) in his work—ranging from sculpture to collage, installation to painting, ceramics to video and printing—reflects the issues he tackles: the conflict between individual impulses and mechanisms of social control, the coercive function of architectonic space, art as the domain of irrationality, the sphere of dysfunctional behavior, Minimalism and Art Brut, graffiti art, urban violence, desire, and pleasure.<br />
-  <br />
-  His works combine memory of the past with attention to contemporary urban and popular phenomena. It is an art of expression and accumulation, of the overproduction of information and of the delirium of the senses, of neurosis and paranoia, and in which the gigantism of the shapes and their proliferation appear like a corrupt manifestation of desire, consumption, anxiety, and the need for control that characterizes contemporary occidental culture.</p>
-details: |
-  - ISBN: 3037640104 / 978-3037640104
-  - Content: 168 pages
-  - Size: 237 × 17 × 286 mm
-  - Author: Sterling Ruby
-  - Edited by: Alessandro Rabottini
-  - Texts by: Jörg Heiser, Robert Hobbs, Catherine Taft
-  - Language: English
-  - Publishing date: 2009
-  - Specs: Softcover
-  - Images: © WELTKERN® / JRP|Editions. All rights reserved.
-gallery:
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_SterlingRuby.jpg
-    id: 6030
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_-9.jpg
-    id: 6032
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_2-12.jpg
-    id: 6034
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_3-11.jpg
-    id: 6036
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_SPREAD_4-6.jpg
-    id: 6038
-  - 
-    url: >
-      https://api.weltkern.com/wp-content/uploads/2021/05/BOOK_COVER_SterlingRuby_BACK.jpg
-    id: 6028
-tags: [ ]
-
-----
-
-Uuid: WnE5Ehl7Foqjn9PD

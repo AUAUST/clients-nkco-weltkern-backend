@@ -1,34 +1,3 @@
-Title: Information|50th Anniversary Edition
-
-----
-
-Multilinetitle:
-
-Information
-50th Anniversary Edition
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Information <br>50th Anniversary Edition'
@@ -40,19 +9,16 @@ weight: 0.7
 author:
   name: MoMA
   id: 243
-description: |
-  <p>The 50th anniversary edition of MoMA&#8217;s trendsetting book on conceptual art</p>
-  <p>In the summer of 1970, the Museum of Modern Art in New York mounted the now legendary exhibition Information, one of the first surveys of conceptual art. Conceived by MoMA’s celebrated curator Kynaston McShine as an “international report” on contemporary trends, the show and attendant catalog together assembled the work of more than 150 artists from 15 countries to explore the parameters and possibilities of the emerging art practices of the era. Noting the participating artists’ attunement to the “mobility and change that pervades their time,” McShine underscored their interest in “ways of rapidly exchanging ideas, rather than embalming the idea in an ‘object.’” Indeed, much of the work in the exhibition engaged mass-communications systems, such as broadcast television and the postal service, and addressed viewers directly, often encouraging their participation in return.</p>
-  <p>The catalog, rather than merely document the show, functioned autonomously: it included a list of recommended reading, a chance-based index by critic Lucy Lippard, and individual artist contributions in the form of photographic documentation, textual description, drawings and diagrams―some relating to work in the exhibition and others to artworks as yet unrealized. This facsimile edition of the original Information catalog, which has long been out of print, invites reengagement with MoMA’s landmark exhibition while illuminating the early history of conceptual art.</p>
+description: '<p>The 50th anniversary edition of MoMA&#8217;s trendsetting book on conceptual art</p> <p>In the summer of 1970, the Museum of Modern Art in New York mounted the now legendary exhibition Information, one of the first surveys of conceptual art. Conceived by MoMA’s celebrated curator Kynaston McShine as an “international report” on contemporary trends, the show and attendant catalog together assembled the work of more than 150 artists from 15 countries to explore the parameters and possibilities of the emerging art practices of the era. Noting the participating artists’ attunement to the “mobility and change that pervades their time,” McShine underscored their interest in “ways of rapidly exchanging ideas, rather than embalming the idea in an ‘object.’” Indeed, much of the work in the exhibition engaged mass-communications systems, such as broadcast television and the postal service, and addressed viewers directly, often encouraging their participation in return.</p> <p>The catalog, rather than merely document the show, functioned autonomously: it included a list of recommended reading, a chance-based index by critic Lucy Lippard, and individual artist contributions in the form of photographic documentation, textual description, drawings and diagrams―some relating to work in the exhibition and others to artworks as yet unrealized. This facsimile edition of the original Information catalog, which has long been out of print, invites reengagement with MoMA’s landmark exhibition while illuminating the early history of conceptual art.</p>'
 details: |
-  - ISBN: 0870709763 / 978-0870709763
-  - Content: 208 pages
-  - Size: 210 × 270 mm
-  - Design: Face.
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN ® / MoMa. All rights reserved.
+  ISBN: "0870709763 / 978-0870709763"
+  Content: "208 pages"
+  Size: "210 × 270 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / MoMa. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,4 +44,35 @@ tags: [ ]
 
 ----
 
-Uuid: gDFv4TvvsFOcR38s
+Multilinetitle:
+
+Information
+50th Anniversary Edition
+
+----
+
+Uuid: 7ID4tpvUMpXz6chU
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

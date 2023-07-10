@@ -1,0 +1,79 @@
+Oldweltkern:
+
+title: "Giovanni Battista Piranesi <br>Point de vue sur l'architecture"
+slug: >
+  giovanni-battista-piranesi-point-de-vue-sur-larchitecture
+id: 30180
+isbn: 2493283047 / 978-2493283047
+price: 13.5
+weight: 2.1
+author:
+  name: Cosa Mentale
+  id: 87
+description: '<p>The first French edition of the theoretical dialogue of the Italian architect and engraver Giovanni Battista Piranesi (1720-1778), one of the most radical texts in the history of modern architectural theory.</p>'
+details: |
+  ISBN: "2493283047 / 978-2493283047"
+  Content: "96 pages"
+  Size: "105 × 150 mm"
+  Design: "Spassky Fischer"
+  Language: "French"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Cosa Mentale. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Giovanni-battista_COVER_.jpg
+    id: 30160
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Giovanni-battista_SPREAD_01.jpg
+    id: 30159
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Giovanni-battista_SPREAD_02.jpg
+    id: 30158
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Giovanni-battista_SPREAD_03.jpg
+    id: 30157
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Giovanni-battista_SPREAD_04.jpg
+    id: 30156
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+Giovanni Battista Piranesi
+Point de vue sur l'architecture
+
+----
+
+Uuid: NqtBDcjcg7WSZvTq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

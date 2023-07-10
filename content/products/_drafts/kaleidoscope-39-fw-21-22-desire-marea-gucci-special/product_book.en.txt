@@ -1,34 +1,3 @@
-Title: KALEIDOSCOPE #39 FW 21-22|DESIRE MAREA: GUCCI SPECIAL
-
-----
-
-Multilinetitle:
-
-KALEIDOSCOPE #39 FW 21-22
-DESIRE MAREA: GUCCI SPECIAL
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'KALEIDOSCOPE #39 FW 21-22 <br>DESIRE MAREA: GUCCI SPECIAL'
@@ -41,36 +10,15 @@ weight: 2
 author:
   name: KALEIDOSCOPE
   id: 242
-description: |
-  <p>In recent years, we have witnessed a huge resurgence of the archive as a global trend across creative industries—from coveted vintage clothing and rare books, to out-of-print magazines and iconic design pieces. Fueled by nostalgia and new principles of circular consumption, the archive as an ever-evolving platform for curatorial research, accumulation, and cataloguing, continues to affirm itself as an aesthetics and a state of mind. Aiming to rethink and challenge the stillness usually associated with the idea of the archive, we chose the title “Archive Continuum” to refer to the archive as an ongoing, living process—one that, we like to think, can perpetually change, evolve, and adapt to mutating circumstances.<br />
-  <br />
-  This issue comes with a set of six covers:<br />
-  <br />
-  First as a DJ aka The Wizard, then as the co-founder of techno collective Underground Resistance, and finally as a solo composer and artist, over four decades Jeff Mills (photographed here by Thibaut Grevet) has positioned himself as a legend and a “living archive” of Detroit’s musical lineage. As a new generation attempts to reorganize the history of dance music and “make techno black again,” DeForrest Brown, Jr. picks his brain on the balancing act between legacy and innovation.<br />
-  <br />
-  In the year marking the house&#8217;s 100th anniversary, Gucci Archivio inaugurates its new home in a 15th-century palace in Florence. To challenge the stillness usually associated with this kind of repository, we invited Desire Marea, a multi-disciplinary artist from South Africa (photographed here by Jim C. Nedd), to perform and activate the archive; and three new-generation designers—Collina Strada, Bianca Saunders and Cormio—to play the curator’s role, bridging the past to the contemporary.<br />
-  <br />
-  Celebrating her 80th birthday and the 40th anniversary of her first catwalk show, Vivienne Westwood is still an influential force in fashion, and vintage pieces are all the rage among archivists. As Francesca Gavin charts the lineage of her punk, thought-provoking attitude, we invited photographer Joshua Gordon to capture Nigerian designer Mowalola and her crew modeling the British designer’s most iconic collections—clothes of protest and queer resistance, where nothing is taboo.<br />
-  <br />
-  The subject of fervent subcultural devotion, demanding to be collected and adopted as a uniform, Stone Island exists in a near-permanent state of research and development. Through an essay by Calum Gordon and photography by Marc Asekhame, we explore the company&#8217;s legendary archives of 40,000 garments, every fabric ever created, every failed attempt, every color conjured up in the dye lab: an obsessively compiled catalogue, but no place for nostalgia.<br />
-  <br />
-  Even if it’s impossible to separate archiving from power and control, millions of people are building their own “folk archives” in that volatile space that is the internet. In her work, Moroccan artist Meriem Bennani (photographed here by Charlie Engman) draws from this well, and especially YouTube videos, to build an alternative syntax. In conversation with Myriam Ben Salah, she calls into question the oral tradition, taxonomies of art history, and the diasporic condition.<br />
-  <br />
-  A new work by Los Angeles-based artist Kandis Williams introduces our extensive trend report titled The Archive Algorithm, addressing how a new generation of archivists from different fields use Instagram to channel their creative research and personal obsession. Taylore Scarabelli digs deeper into the phenomenon with an essay on the rise of fashion archivists, fostered by social media and resale apps. And one can’t help but wonder, if the burgeoning second-hand market is controlled by the algorithm, who stands to benefit most from it?<br />
-  <br />
-  ABSTRACT, our text-only editorial segment dedicated to urgent research questions of our time, is titled Random Access Memory and addresses the concept of “archiving” in the digital space. In the art market, 2021 was the year of the NFT, revamping a conversation on digital preservation. As more of life is translated into a virtual realm, perhaps the definition of archive needs rethinking. Through three essays by Michael Connor, Philip Maughan, and Nicholas Korody, we find that maybe, the role of archiving is only just beginning.<br />
-  <br />
-  Also featured in this issue: 98 Bowery (words by Kenta Murakami); Walther König (photography by Lukas Wassmann, interview by Fredi Fischli &#038; Niels Olsen); NatGeo (words by Patrick McGraw); Kuramata/Miyake (words by Jesse Dorris); Italian Hardcore (words by Achille Filipponi); Cav Empt Archives (photography by Motoyuki Daifu, words by W. David Marx); Tokyo Scanthropology (words and scans by @zerocoolarchive); Fondazione Prada (words by Federico Sargentone); and Tulsa 50 (words by Erik Morse).<br />
-  <br />
-  And finally, “SEASON,” the magazine’s opening section, accounts for the best of this fall/winter with profiles and interviews: Baiser Mortel by Cyrus Goberville in conversation with Bill Kouligas; Alexandra Bircken by Allan Gardner; Gateano Pesce by Luis Ortega Govela; Dash Snow by Katja Horvat; Calla Henkel by Theresa Patzschke; Avavav by Daria Miricola; Sara Sadik by Gabriela Acha; Julian-Jakob Kneer by Allan Gardner; Lamin Fofana by Claire Mouchemoure; Sayre Gomez by Dalya Benor; Filipinx by Lola Kramer; Martin Margiela by Francesca Gavin; Nuova Orfeo by Lorenzo Basilico; Sandra Mujinga by Geoffrey Mak; OMA NY: Search Term by Tibor Bielicky; Poison Anna by Conor McTernan; and Pope.L by Hanna Girma.</p>
+description: '<p>In recent years, we have witnessed a huge resurgence of the archive as a global trend across creative industries—from coveted vintage clothing and rare books, to out-of-print magazines and iconic design pieces. Fueled by nostalgia and new principles of circular consumption, the archive as an ever-evolving platform for curatorial research, accumulation, and cataloguing, continues to affirm itself as an aesthetics and a state of mind. Aiming to rethink and challenge the stillness usually associated with the idea of the archive, we chose the title “Archive Continuum” to refer to the archive as an ongoing, living process—one that, we like to think, can perpetually change, evolve, and adapt to mutating circumstances.<br /> <br /> This issue comes with a set of six covers:<br /> <br /> First as a DJ aka The Wizard, then as the co-founder of techno collective Underground Resistance, and finally as a solo composer and artist, over four decades Jeff Mills (photographed here by Thibaut Grevet) has positioned himself as a legend and a “living archive” of Detroit’s musical lineage. As a new generation attempts to reorganize the history of dance music and “make techno black again,” DeForrest Brown, Jr. picks his brain on the balancing act between legacy and innovation.<br /> <br /> In the year marking the house&#8217;s 100th anniversary, Gucci Archivio inaugurates its new home in a 15th-century palace in Florence. To challenge the stillness usually associated with this kind of repository, we invited Desire Marea, a multi-disciplinary artist from South Africa (photographed here by Jim C. Nedd), to perform and activate the archive; and three new-generation designers—Collina Strada, Bianca Saunders and Cormio—to play the curator’s role, bridging the past to the contemporary.<br /> <br /> Celebrating her 80th birthday and the 40th anniversary of her first catwalk show, Vivienne Westwood is still an influential force in fashion, and vintage pieces are all the rage among archivists. As Francesca Gavin charts the lineage of her punk, thought-provoking attitude, we invited photographer Joshua Gordon to capture Nigerian designer Mowalola and her crew modeling the British designer’s most iconic collections—clothes of protest and queer resistance, where nothing is taboo.<br /> <br /> The subject of fervent subcultural devotion, demanding to be collected and adopted as a uniform, Stone Island exists in a near-permanent state of research and development. Through an essay by Calum Gordon and photography by Marc Asekhame, we explore the company&#8217;s legendary archives of 40,000 garments, every fabric ever created, every failed attempt, every color conjured up in the dye lab: an obsessively compiled catalogue, but no place for nostalgia.<br /> <br /> Even if it’s impossible to separate archiving from power and control, millions of people are building their own “folk archives” in that volatile space that is the internet. In her work, Moroccan artist Meriem Bennani (photographed here by Charlie Engman) draws from this well, and especially YouTube videos, to build an alternative syntax. In conversation with Myriam Ben Salah, she calls into question the oral tradition, taxonomies of art history, and the diasporic condition.<br /> <br /> A new work by Los Angeles-based artist Kandis Williams introduces our extensive trend report titled The Archive Algorithm, addressing how a new generation of archivists from different fields use Instagram to channel their creative research and personal obsession. Taylore Scarabelli digs deeper into the phenomenon with an essay on the rise of fashion archivists, fostered by social media and resale apps. And one can’t help but wonder, if the burgeoning second-hand market is controlled by the algorithm, who stands to benefit most from it?<br /> <br /> ABSTRACT, our text-only editorial segment dedicated to urgent research questions of our time, is titled Random Access Memory and addresses the concept of “archiving” in the digital space. In the art market, 2021 was the year of the NFT, revamping a conversation on digital preservation. As more of life is translated into a virtual realm, perhaps the definition of archive needs rethinking. Through three essays by Michael Connor, Philip Maughan, and Nicholas Korody, we find that maybe, the role of archiving is only just beginning.<br /> <br /> Also featured in this issue: 98 Bowery (words by Kenta Murakami); Walther König (photography by Lukas Wassmann, interview by Fredi Fischli &#038; Niels Olsen); NatGeo (words by Patrick McGraw); Kuramata/Miyake (words by Jesse Dorris); Italian Hardcore (words by Achille Filipponi); Cav Empt Archives (photography by Motoyuki Daifu, words by W. David Marx); Tokyo Scanthropology (words and scans by @zerocoolarchive); Fondazione Prada (words by Federico Sargentone); and Tulsa 50 (words by Erik Morse).<br /> <br /> And finally, “SEASON,” the magazine’s opening section, accounts for the best of this fall/winter with profiles and interviews: Baiser Mortel by Cyrus Goberville in conversation with Bill Kouligas; Alexandra Bircken by Allan Gardner; Gateano Pesce by Luis Ortega Govela; Dash Snow by Katja Horvat; Calla Henkel by Theresa Patzschke; Avavav by Daria Miricola; Sara Sadik by Gabriela Acha; Julian-Jakob Kneer by Allan Gardner; Lamin Fofana by Claire Mouchemoure; Sayre Gomez by Dalya Benor; Filipinx by Lola Kramer; Martin Margiela by Francesca Gavin; Nuova Orfeo by Lorenzo Basilico; Sandra Mujinga by Geoffrey Mak; OMA NY: Search Term by Tibor Bielicky; Poison Anna by Conor McTernan; and Pope.L by Hanna Girma.</p>'
 details: |
-  - ISSN: 2038-4087
-  - Content: 400 Pages
-  - Size: 230 × 24 × 300 mm
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / KALEIDOSCOPE. All rights reserved.
+  ISSN: "2038-4087"
+  Content: "400 Pages"
+  Size: "230 × 24 × 300 mm"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / KALEIDOSCOPE. All rights reserved."
 gallery:
   - 
     url: >
@@ -116,4 +64,35 @@ tags: [ ]
 
 ----
 
-Uuid: 7SGgBMhYhTcNSmd1
+Multilinetitle:
+
+KALEIDOSCOPE #39 FW 21-22
+DESIRE MAREA: GUCCI SPECIAL
+
+----
+
+Uuid: GljKCaMid6MRXGZP
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,34 +1,3 @@
-Title: Fawad Kazi KSSG – OKS|Vol. II: Haus 10
-
-----
-
-Multilinetitle:
-
-Fawad Kazi KSSG – OKS
-Vol. II: Haus 10
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Fawad Kazi KSSG – OKS <br>Vol. II: Haus 10'
@@ -40,19 +9,16 @@ weight: 0.7
 author:
   name: Park Books
   id: 88
-description: |
-  <p>The extension St. Gallen’s cantonal hospital (KSSG) complex is one of Switzerland’s most ambitious undertakings in construction for public health. In 2011, Zurich-based architect Fawad Kazi, together with the KSSG-OKS planning consortium, won the competition for the rebuilding and extension of KSSG and the new regional children’s hospital for eastern Switzerland (OKS). By 2028, this huge undertaking will have transformed the whole area in which they are built.<br />
-  <br />
-  This building monograph, laid out in five elegant volumes, documents in incredible detail the ambitious project, which is a significant trailblazer in the area of hospital design and urban development. This second volume is devoted to KSSG’s new Haus 10, situated at the northern end of the site. Connected to the hospital’s main building by an ingenious passage, it serves to treat walk-in patients. Its flexible structure allows for adaptions to suit the future needs of KSSG. The interior design is based on materials and features also intended to be used in new buildings still to come.</p>
+description: '<p>The extension St. Gallen’s cantonal hospital (KSSG) complex is one of Switzerland’s most ambitious undertakings in construction for public health. In 2011, Zurich-based architect Fawad Kazi, together with the KSSG-OKS planning consortium, won the competition for the rebuilding and extension of KSSG and the new regional children’s hospital for eastern Switzerland (OKS). By 2028, this huge undertaking will have transformed the whole area in which they are built.<br /> <br /> This building monograph, laid out in five elegant volumes, documents in incredible detail the ambitious project, which is a significant trailblazer in the area of hospital design and urban development. This second volume is devoted to KSSG’s new Haus 10, situated at the northern end of the site. Connected to the hospital’s main building by an ingenious passage, it serves to treat walk-in patients. Its flexible structure allows for adaptions to suit the future needs of KSSG. The interior design is based on materials and features also intended to be used in new buildings still to come.</p>'
 details: |
-  - ISBN: 3038602035 / 978-3038602033
-  - : 64 pages
-  - Size: 305 × 230 mm
-  - Authors: Marko Sauer, Christoph Wieser
-  - Edited by: Park Books
-  - Language: English / German
-  - Publishing date: 2021
-  - Images: © WELTKERN® / Park Books. All rights reserved.
+  ISBN: "3038602035 / 978-3038602033"
+  : "64 pages"
+  Size: "305 × 230 mm"
+  Authors: "Marko Sauer, Christoph Wieser"
+  Edited by: "Park Books"
+  Language: "English / German"
+  Publishing date: "2021"
+  Images: "© WELTKERN® / Park Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: Tbth9uWYOFMG0p8b
+Multilinetitle:
+
+Fawad Kazi KSSG – OKS
+Vol. II: Haus 10
+
+----
+
+Uuid: kXdO9utCBjB34hGE
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

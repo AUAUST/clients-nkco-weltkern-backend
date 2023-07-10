@@ -1,34 +1,3 @@
-Title: Alastair Sooke|Pop Art
-
-----
-
-Multilinetitle:
-
-Alastair Sooke
-Pop Art
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Alastair Sooke <br>Pop Art'
@@ -40,19 +9,16 @@ weight: 0.25
 author:
   name: Penguin Random House UK
   id: 102
-description: |
-  <p>Pop Art is the most important 20th-century art movement. It brought Modernism to the masses, making art sexy and fun with coke cans and comics. Today, in our age of selfies and social networking, we are still living in a world defined by Pop.<br />
-  <br />
-  Full of brand new interviews and research, Sooke describes the great works by Warhol, Lichtenstein and other key figures, but also re-examines the movement for the 21st century and asks if it is still art? He reveals a global story, tracing Pop&#8217;s surprising origins in 19th-century Paris to uncovering the forgotten female artists of the 1960s.</p>
+description: '<p>Pop Art is the most important 20th-century art movement. It brought Modernism to the masses, making art sexy and fun with coke cans and comics. Today, in our age of selfies and social networking, we are still living in a world defined by Pop.<br /> <br /> Full of brand new interviews and research, Sooke describes the great works by Warhol, Lichtenstein and other key figures, but also re-examines the movement for the 21st century and asks if it is still art? He reveals a global story, tracing Pop&#8217;s surprising origins in 19th-century Paris to uncovering the forgotten female artists of the 1960s.</p>'
 details: |
-  - ISBN: 0241973066 / 978-0241973066
-  - Content: 224 pages
-  - Size: 111 × 16 × 181 mm
-  - Author: Alastair Sooke
-  - Language: English
-  - Publishing date: 2016
-  - Specs: Softcover
-  - Images: © WELTKERN®. All rights reserved.
+  ISBN: "0241973066 / 978-0241973066"
+  Content: "224 pages"
+  Size: "111 × 16 ×? 181 mm"
+  Author: "Alastair Sooke"
+  Language: "English"
+  Publishing date: "2016"
+  Specs: "Softcover"
+  Images: "© WELTKERN®. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: CEjDs3piqTlZXaXl
+Multilinetitle:
+
+Alastair Sooke
+Pop Art
+
+----
+
+Uuid: JZJgXv8b80L3QZda
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

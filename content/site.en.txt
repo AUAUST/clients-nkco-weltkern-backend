@@ -6,7 +6,7 @@ Pageproducts: - page://1Pe3NwsOKSHPFHCF
 
 ----
 
-Pagetypefaces: - page://pqhBHiO60WWCE9SF
+Pagetypefaces: - page://H5quWuwgAHNqnQ6d
 
 ----
 
@@ -22,7 +22,7 @@ Pagehome: - page://r7B7QwhbFuuV3o6G
 
 ----
 
-Pagekerns: - page://R6slQ8V1IM2Rkt5Q
+Pagekerningplus: - page://R6slQ8V1IM2Rkt5Q
 
 ----
 
@@ -30,7 +30,7 @@ Pageabout: - page://dp6dsUqibP2vepsr
 
 ----
 
-Pageerror: - page://Ad01ZY3S5WhjwqZG
+Pageerror: - page://YX4QcOh4mYmYSzpp
 
 ----
 
@@ -39,6 +39,10 @@ Pagesuppliers: - page://b38ldcEz97YoxcRH
 ----
 
 Pagedesigners: - page://qTfWZB6rA0eSKVJc
+
+----
+
+Footerlinks:
 
 ----
 
@@ -51,3 +55,11 @@ Titlesimple: Weltkern
 ----
 
 Slogan: WELTKERN®, CURATOR AND PRODUCER OF DESIGN
+
+----
+
+Copyright:
+
+----
+
+Copyrightfirstyear:

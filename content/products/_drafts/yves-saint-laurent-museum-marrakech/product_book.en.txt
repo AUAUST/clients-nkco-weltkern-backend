@@ -1,31 +1,3 @@
-Title: Yves Saint Laurent Museum Marrakech
-
-----
-
-Multilinetitle: Yves Saint Laurent Museum Marrakech
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Yves Saint Laurent Museum Marrakech
@@ -37,19 +9,16 @@ weight: 0.9
 author:
   name: Phaidon Press
   id: 92
-description: |
-  <p>A fascinating account of the story of the Yves Saint Laurent Museum in Marrakech – and a gorgeous homage to creativity.<br />
-  <br />
-  Conceived as a candid diary, this remarkable book documents the 1,423 days that it took to design, build, and inaugurate a beloved architecture and fashion destination. From the moment the up-and-coming French-Moroccan practice Studio KO received a call from YSL’s longtime partner Pierre Bergé to the opening of the museum’s doors in 2017, one month after Bergé died, the entire process of bringing the building to life – its commission, the creative process behind it, and its construction – is told and illustrated here as never before.</p>
+description: '<p>A fascinating account of the story of the Yves Saint Laurent Museum in Marrakech – and a gorgeous homage to creativity.<br /> <br /> Conceived as a candid diary, this remarkable book documents the 1,423 days that it took to design, build, and inaugurate a beloved architecture and fashion destination. From the moment the up-and-coming French-Moroccan practice Studio KO received a call from YSL’s longtime partner Pierre Bergé to the opening of the museum’s doors in 2017, one month after Bergé died, the entire process of bringing the building to life – its commission, the creative process behind it, and its construction – is told and illustrated here as never before.</p>'
 details: |
-  - ISBN: 1838663886 / 978-1838663889
-  - Content: 272 pages
-  - Size: 250 × 176 mm
-  - Author: Studio KO
-  - Edited by: Phaidon Press
-  - Language: English
-  - Publishing date: 2022
-  - Images: © WELTKERN® / Phaidon Press. All rights reserved.
+  ISBN: "1838663886 / 978-1838663889"
+  Content: "272 pages"
+  Size: "250 × 176 mm"
+  Author: "Studio KO"
+  Edited by: "Phaidon Press"
+  Language: "English"
+  Publishing date: "2022"
+  Images: "© WELTKERN® / Phaidon Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +28,32 @@ tags: [ ]
 
 ----
 
-Uuid: yztO4DthywFHOl7D
+Multilinetitle: Yves Saint Laurent Museum Marrakech
+
+----
+
+Uuid: 5CK0fNbWvLhuMuOW
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

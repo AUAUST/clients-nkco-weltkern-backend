@@ -1,34 +1,3 @@
-Title: William Klein|Painted Contacts
-
-----
-
-Multilinetitle:
-
-William Klein
-Painted Contacts
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'William Klein <br>Painted Contacts'
@@ -42,15 +11,15 @@ author:
   id: 112
 description: '<p>Working at the nexus of painting and photography, William Klein conceived this original series when he was in the process of reviewing other photographers&#8217; contact sheets for a film he was making. Referencing the age of film photography, when photographers selected images by circling individual negatives on a contact sheet with brightly coloured grease pencils, Klein&#8217;s works invent a new kind of art object that organically marries painting and photography. The resulting pieces are enormous mural-sized works in which bold, kinetic colour frames and reframes enlarged black-and-white images from throughout his career. Klein&#8217;s iconic fashion and street photography, always gritty and bold, is given a new immediacy and relevance in this second life. In his foreword to this edition, Klein describes these works as &#8220;all brush strokes and jubilation. The jubilation of painting recall[s] the celebration of taking the photo.&#8221;</p>'
 details: |
-  - ISBN: 3791387316 / 978-3791387314
-  - Content: 140 Pages
-  - Size: 212 × 17 × 230 mm
-  - Author: William Klein
-  - Contributions from: Robert Delpire
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Prestel. All rights reserved.
+  ISBN: "3791387316 / 978-3791387314"
+  Content: "140 Pages"
+  Size: "212 × 17 × 230 mm"
+  Author: "William Klein"
+  Contributions from: "Robert Delpire"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Prestel. All rights reserved."
 gallery:
   - 
     url: >
@@ -80,4 +49,35 @@ tags: [ ]
 
 ----
 
-Uuid: qw0YmYfLyXri8hSx
+Multilinetitle:
+
+William Klein
+Painted Contacts
+
+----
+
+Uuid: u7FgQxcdLC7Y26I3
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

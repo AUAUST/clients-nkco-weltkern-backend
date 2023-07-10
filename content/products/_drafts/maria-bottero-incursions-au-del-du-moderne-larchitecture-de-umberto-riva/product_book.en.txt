@@ -1,42 +1,10 @@
-Title: Maria Bottero|Incursions au-delà du moderne: l’architecture de Umberto Riva
-
-----
-
-Multilinetitle:
-
-Maria Bottero
-Incursions au-delà du moderne: l’architecture de Umberto Riva
-
-----
-
-Publisher:
-
-----
-
-Auto-kerns: true
-
-----
-
-Image:
-
-----
-
-Cover:
-
-----
-
-Supplier:
-
-----
-
 Oldweltkern:
 
-title: 'Maria Bottero <br>Incursions au-delà du moderne: l’architecture de Umberto Riva'
+title: 'Maria Bottero <br>Incursions au-del? du moderne: l’architecture de Umberto Riva'
 slug: >
   maria-bottero-incursions-au-dela-du-moderne-larchitecture-de-umberto-riva
 id: 9776
-isbn: |
-  2491039011 / 978-2491039011
+isbn: '2491039011 / 978-2491039011 '
 price: 72.9
 weight: 2.1
 author:
@@ -44,40 +12,39 @@ author:
   id: 87
 description: '<p>First edition of the book conceived as an anthology where the writings of the author Maria Bottero introduce and close a series of critical essays that are extracted from out of print or out of circulation books. A selection of projects described through unpublished or archival photographs and drawings from the Umberto Riva collection at the Canadian Centre for Architecture in Montreal enrich the publication.</p>'
 details: |
-  - ISBN: 2491039011 / 978-2491039011
-
-  - Content: 352 pages
-  - Size: 220 × 41 × 330 mm
-  - Author: Maria Bottero
-  - Edited by: Claudia Mion
-  - Texts by: Maria Bottero, Francesco Cellini, Pierluigi Nicolin, Giovanni Raboni, Marco Rapposelli, Marco Romanelli, Mirko Zardini
-  - Design: Spassky Fischer
-  - Language: French / English / Italian
-  - Publishing date: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Cosa Mentale. All rights reserved.
+  ISBN: "2491039011 / 978-2491039011 "
+  Content: "352 pages"
+  Size: "220 × 41 × 330 mm"
+  Author: "Maria Bottero"
+  Edited by: "Claudia Mion"
+  Texts by: "Maria Bottero, Francesco Cellini, Pierluigi Nicolin, Giovanni Raboni, Marco Rapposelli, Marco Romanelli, Mirko Zardini"
+  Design: "Spassky Fischer"
+  Language: "French / English / Italian"
+  Publishing date: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Cosa Mentale. All rights reserved."
 gallery:
-  -
+  - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_MariaBottero-1.jpg
     id: 9796
-  -
+  - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_.jpg
     id: 9787
-  -
+  - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_2.jpg
     id: 9789
-  -
+  - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_3.jpg
     id: 9791
-  -
+  - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_SPREAD_4.jpg
     id: 9793
-  -
+  - 
     url: >
       https://api.weltkern.com/wp-content/uploads/2021/08/BOOK_COVER_MariaBottero_BACK.jpg
     id: 9783
@@ -85,4 +52,35 @@ tags: [ ]
 
 ----
 
-Uuid: CCkC2nI1XijE100b
+Multilinetitle:
+
+Maria Bottero
+Incursions au-del? du moderne: l’architecture de Umberto Riva
+
+----
+
+Uuid: jjhd2xSXFyrZPbdb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

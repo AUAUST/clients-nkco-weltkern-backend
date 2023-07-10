@@ -1,34 +1,3 @@
-Title: The Documenta 14|Reader
-
-----
-
-Multilinetitle:
-
-The Documenta 14
-Reader
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'The Documenta 14 <br>Reader'
@@ -42,17 +11,17 @@ author:
   id: 112
 description: '<p>This enlightening book, which takes the form of a &#8220;reader,&#8221; brings the 2017 documenta—its fourteenth iteration—to the page. First conceived in 1955 by Arnold Bode, the inaugural documenta exhibition endeavored to bring Germany back into artistic dialogue with the rest of the post-war world. More than sixty years later, documenta 14 returns to its initial motivation by extending its base in the city of Kassel, Germany to Athens, Greece. Accompanying documenta 14, this book functions as a &#8220;reader,&#8221; evoking the various meanings associated with that term. Emphasizing the importance of literature, storytelling, performance, and pedagogy, it features illustrations and critical writings that address and expand upon the exhibition’s theme of economic and cultural realities in a new world. As the current social and political trends in Europe and the world have divided people geographically and economically, this documenta returns to its roots—bringing to light another significant moment in world history.</p>'
 details: |
-  - ISBN: 3791356577 / 978-3791356570
-  - Content: 712 pages
-  - Size: 180 × 40 × 230 mm
-  - Design: Ludovic Balland
-  - Authors: Quinn Latimer, Adam Szymczyk
-  - Edited by: Quinn Latimer, Adam Szymczyk
-  - Contributions from: Tony Bennett, Maria Boletsi, Yannis Hamilakis, Candice Hopkins, Isabell Lorey, Sylvere Lotringer, Antonio Negri, Paul B. Preciado
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Hardcover
-  - Images: © Prestel. All rights reserved.
+  ISBN: "3791356577 / 978-3791356570"
+  Content: "712 pages"
+  Size: "180 × 40 × 230 mm"
+  Design: "Ludovic Balland"
+  Authors: "Quinn Latimer, Adam Szymczyk"
+  Edited by: "Quinn Latimer, Adam Szymczyk"
+  Contributions from: "Tony Bennett, Maria Boletsi, Yannis Hamilakis, Candice Hopkins, Isabell Lorey, Sylvere Lotringer, Antonio Negri, Paul B. Preciado"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Hardcover"
+  Images: "© Prestel. All rights reserved."
 gallery:
   - 
     url: >
@@ -78,4 +47,35 @@ tags: [ ]
 
 ----
 
-Uuid: HOfYxY5yLObwsBlo
+Multilinetitle:
+
+The Documenta 14
+Reader
+
+----
+
+Uuid: jmV61tbzgOmq1qKg
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

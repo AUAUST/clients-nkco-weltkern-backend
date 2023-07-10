@@ -1,34 +1,3 @@
-Title: Paul Hutchinson|Pictures and Words
-
-----
-
-Multilinetitle:
-
-Paul Hutchinson
-Pictures and Words
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Paul Hutchinson <br>Pictures and Words'
@@ -40,19 +9,16 @@ weight: 1.3
 author:
   name: Distanz
   id: 366
-description: |
-  <p>Paul Hutchinson (b. Berlin, 1987; lives and works in Berlin) makes art that scrutinizes phenomena he observes in the environment of his daily life. His photographs show moments of intimacy, small imperfections of reality, and everyday urban situations. Striking a balance between poetic fragility and a certain rawness of existence, Hutchinson’s pictures examine the meanings we give to our sociocultural and sometimes accidental encounters. Many shots spotlight the individual with his or her vulnerability and flaws as well as distinctive beauty.</p>
-  <p>This book, the artist’s first, includes samples of his own writing, including lyrical soliloquies that reflect on scenes from his youth that struck and still strike him as peculiar, as well as sketches of his perceptions people’s interactions.</p>
-  <p>In pictures as well as words, Hutchinson expertly uncovers the seeds of moving stories that lie dormant in seemingly fleeting instants.</p>
+description: '<p>Paul Hutchinson (b. Berlin, 1987; lives and works in Berlin) makes art that scrutinizes phenomena he observes in the environment of his daily life. His photographs show moments of intimacy, small imperfections of reality, and everyday urban situations. Striking a balance between poetic fragility and a certain rawness of existence, Hutchinson’s pictures examine the meanings we give to our sociocultural and sometimes accidental encounters. Many shots spotlight the individual with his or her vulnerability and flaws as well as distinctive beauty.</p> <p>This book, the artist’s first, includes samples of his own writing, including lyrical soliloquies that reflect on scenes from his youth that struck and still strike him as peculiar, as well as sketches of his perceptions people’s interactions.</p> <p>In pictures as well as words, Hutchinson expertly uncovers the seeds of moving stories that lie dormant in seemingly fleeting instants.</p>'
 details: |
-  - ISBN: 3954762309 / 978-3954762309
-  - Content: 228 Pages
-  - Size: 230 × 310 mm
-  - Language: English
-  - Publishing date: 2018
-  - Edited by: Paul Hutchinson
-  - Specs: 143 Color Images, Softcover
-  - Images: © WELTKERN® / Distanz. All rights reserved.
+  ISBN: "3954762309 / 978-3954762309"
+  Content: "228 Pages"
+  Size: "230 × 310 mm"
+  Language: "English"
+  Publishing date: "2018"
+  Edited by: "Paul Hutchinson"
+  Specs: "143 Color Images, Softcover"
+  Images: "© WELTKERN® / Distanz. All rights reserved."
 gallery:
   - 
     url: >
@@ -74,4 +40,35 @@ tags: [ ]
 
 ----
 
-Uuid: 7GecJin8lLJgA4Iz
+Multilinetitle:
+
+Paul Hutchinson
+Pictures and Words
+
+----
+
+Uuid: CPUNmpZevEDSNS8a
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,31 +1,3 @@
-Title: Wolfgang Schulz und die Fotoszene um 1980
-
-----
-
-Multilinetitle: Wolfgang Schulz und die Fotoszene um 1980
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: >
@@ -40,20 +12,17 @@ weight: 0.9
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>In the period around 1980, the world of art photography began to change. Museums started taking an interest in the medium, photo galleries were founded, photography made its first major appearance at the 1977 documenta, and magazines were launched. A total of forty editions of the magazine FOTOGRAFIE: Zeitschrift internationaler Fotokunst were published between 1977 and 1985. Founded by Wolfgang Schulz (b. 1944) in Göttingen, the magazine quickly developed into a national phenomenon that charted the photographic scene.<br />
-  <br />
-  Widely acclaimed and often controversial, it was an extremely lively forum for a burgeoning new movement growing in multiple directions in which art as commerce did not yet play a significant role. And it is only by virtue of a chance discovery that we know that Schulz himself had also created a considerable body of photographs at the time. The book is the first to draw on portfolios and conversations with contemporary witnesses in an attempt to rediscover a magazine and its editor, and with them a piece of West German photographic history that, quite unjustly, is almost completely forgotten today. </p>
+description: '<p>In the period around 1980, the world of art photography began to change. Museums started taking an interest in the medium, photo galleries were founded, photography made its first major appearance at the 1977 documenta, and magazines were launched. A total of forty editions of the magazine? FOTOGRAFIE: Zeitschrift internationaler Fotokunst? were published between 1977 and 1985. Founded by Wolfgang Schulz (b. 1944) in Göttingen, the magazine quickly developed into a national phenomenon that charted the photographic scene.<br /> <br /> Widely acclaimed and often controversial, it was an extremely lively forum for a burgeoning new movement growing in multiple directions in which art as commerce did not yet play a significant role. And it is only by virtue of a chance discovery that we know that Schulz himself had also created a considerable body of photographs at the time. The book is the first to draw on portfolios and conversations with contemporary witnesses in an attempt to rediscover a magazine and its editor, and with them a piece of West German photographic history that, quite unjustly, is almost completely forgotten today.? </p>'
 details: |
-  - ISBN: 3959052825 / 978-3-959-05282-5
-  - Content: 240 pages
-  - Size: 225 × 20 × 280 mm
-  - Edited by: Reinhard Matz, Steffen Siegel, Bernd Stiegler
-  - Design: Teresa Rudolf
-  - Language: German
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Spector Books. All rights reserved.
+  ISBN: "3959052825 / 978-3-959-05282-5"
+  Content: "240 pages"
+  Size: "225 × 20 × 280 mm"
+  Edited by: "Reinhard Matz,? Steffen Siegel,? Bernd Stiegler"
+  Design: "Teresa Rudolf"
+  Language: "German"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -99,4 +68,32 @@ tags: [ ]
 
 ----
 
-Uuid: sFr4dFkzzYcAzYs9
+Multilinetitle: Wolfgang Schulz und die Fotoszene um 1980
+
+----
+
+Uuid: B0hMzrL8FTJ7CPYc
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

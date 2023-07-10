@@ -1,31 +1,3 @@
-Title: Albert Oehlen
-
-----
-
-Multilinetitle: Albert Oehlen
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Albert Oehlen
@@ -37,18 +9,18 @@ weight: 0.9
 author:
   name: Buchhandlung Walther König
   id: 90
-description: '<p>This book is published on the occasion of Albert Oehlen (2 October 2019 – 2 February 2020) at the Serpentine Galleries. Albert Oehlen has been a key figure in contemporary art since the 1980s. By bringing together abstract, figurative, collaged and computer-generated elements on the canvas, he continues to explore an inventive diversity of artistic approaches. Through Expressionistic brushwork, Surrealist gestures and deliberate amateurism, Oehlen engages with the history of painting, pushing its essential components of colour, gesture, motion and time to bold new extremes. This publication comprises a commissioned essay by art historian, curator and academic, Dawn Adès, whose writing provides an exciting and fresh perspective on Oehlen’s work, an insightful letter as artwork by artist André Butzer, as well as a new conversation between Oehlen and Artistic Director of the Serpentine Galleries, Hans Ulrich Obrist.</p>'
+description: '<p>This book is published on the occasion of Albert Oehlen (2 October 2019 – 2 February 2020) at the Serpentine Galleries. Albert Oehlen has been a key figure in contemporary art since the 1980s. By bringing together abstract, figurative, collaged and computer-generated elements on the canvas, he continues to explore an inventive diversity of artistic approaches. Through Expressionistic brushwork, Surrealist gestures and deliberate amateurism, Oehlen engages with the history of painting, pushing its essential components of colour, gesture, motion and time to bold new extremes. This publication comprises a commissioned essay by art historian, curator and academic, Dawn Adès, whose writing provides an exciting and fresh perspective on Oehlen’s work, an insightful letter as artwork by artist André Butzer, as well as a new conversation between Oehlen and Artistic Director of the Serpentine Galleries, Hans Ulrich Obrist.</p>'
 details: |
-  - ISBN: 3960984177 / 978-3960984177
-  - Content: 72 pages
-  - Size: 300 × 6 × 390 mm
-  - Edited by: Serpentine Galleries, Gagosian
-  - Design: Zak Group
-  - Fonts in use: TWK Lausanne
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © Buchhandlung Walther König. All rights reserved.
+  ISBN: "3960984177 / 978-3960984177"
+  Content: "72 pages"
+  Size: "300 × 6 × 390 mm"
+  Edited by: "Serpentine Galleries, Gagosian"
+  Design: "Zak Group"
+  Fonts in use: "TWK Lausanne"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© Buchhandlung Walther König. All rights reserved."
 gallery:
   - 
     url: >
@@ -86,4 +58,32 @@ tags: [ ]
 
 ----
 
-Uuid: filU16o69c8uWLij
+Multilinetitle: Albert Oehlen
+
+----
+
+Uuid: y0ca0StF09GSQVrG
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

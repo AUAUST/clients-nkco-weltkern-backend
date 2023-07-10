@@ -1,34 +1,3 @@
-Title: Tyra Tingleff|Of Course I'm Not Sorry
-
-----
-
-Multilinetitle:
-
-Tyra Tingleff
-Of Course I'm Not Sorry
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: "Tyra Tingleff <br>Of Course I'm Not Sorry"
@@ -42,14 +11,13 @@ author:
   id: 111
 description: '<p>Of Course I&#8217;m Not Sorry is a colorful and lively journey through Tyra Tingleff&#8217;s artistic practice. Accompanied by her titles—intimate personal notes with the capacity to speak to all of us—the featured images offer a poetic commentary on conflicting emotions.</p>'
 details: |
-  - ISBN: 8867494903 / 978-8867494903
-  - Content: 160 pages
-  - Size: 190 × 265 mm
-  
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Softcover
-  - Images: © WELTKERN® / Mousse. All rights reserved.
+  ISBN: "8867494903 / 978-8867494903"
+  Content: "160 pages"
+  Size: "190 × 265 mm "
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Mousse. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +27,35 @@ tags: [ ]
 
 ----
 
-Uuid: BKFWScAxNOTljGm8
+Multilinetitle:
+
+Tyra Tingleff
+Of Course I'm Not Sorry
+
+----
+
+Uuid: 6SVegIXBP7NAU4p0
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,60 +1,24 @@
-Title: Magnificent Obsessions|Saved My Life
-
-----
-
-Multilinetitle:
-
-Magnificent Obsessions
-Saved My Life
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Magnificent Obsessions <br>Saved My Life'
 slug: magnificent-obsessions-saved-my-life
 id: 29459
-isbn: |
-  3907236420 / 978-3907236420
+isbn: '3907236420 / 978-3907236420 '
 price: 82.9
 weight: 2.1
 author:
   name: Edition Patrick Frey
   id: 98
-description: |
-  <p>Biographies can be as various as human lives. And yet Magnificent Obsessions Saved My Life really is an outlier, a (auto)biography of a different kind that retraces milestones and turning points in the life of a post-war artist from a dysfunctional family, set against the backdrop of his ’68 generation’s experiences of sexual liberation and his all too personal experience of two deadly pandemics: AIDS and Covid-19. But these biographical and historical elements of the author’s life come to the fore in an ongoing dialogue with Hollywood classics, films d’auteur, contemporary art and literature. For a work of cinematic or visual art amounts to nothing if it tells you nothing about your own life: film and art are always about what was and what could have been. Magnificent Obsessions takes up these existential questions in texts and images, including selections from Brunner’s impressive collection of movie stills and reproductions of his favorite art works. As in movies, people are the focus, the protagonists, of Brunner’s sometimes mordantly blunt and yet affectionate, sometimes almost tender writings. When he loses the love of his life, Swiss art dealer Thomas Ammann, to AIDS, he writes about their shared happiness so as not to be consumed by grief. He remembers the glamorous Elisabeth Bossard (Thema Selection), his lover for many years, and relates anecdotes from a flirtation in Venice with Edmund White, the American writer who became a friend. He recounts his love-hate relationship with Swiss filmmaker Daniel Schmid, replete with intimate glimpses of the late German filmmakers Rainer Werner Fassbinder and Werner Schroeter, their works and the whole scene around them. It was the film curator Brunner who brought the films of his friends John Waters and Andy Warhol to Switzerland early  on—bypassing the censors. Brunner knew the light and dark sides of the Dream Factory, but was always ready and willing to succumb yet again to its Imitation of Life, as Douglas Sirk titled one of his great melodramas.</p>
-  <p>With a preface by Stefan Zweifel and an epilog by John Waters.</p>
+description: '<p>Biographies can be as various as human lives. And yet Magnificent Obsessions Saved My Life really is an outlier, a (auto)biography of a different kind that retraces milestones and turning points in the life of a post-war artist from a dysfunctional family, set against the backdrop of his ’68 generation’s experiences of sexual liberation and his all too personal experience of two deadly pandemics: AIDS and Covid-19. But these biographical and historical elements of the author’s life come to the fore in an ongoing dialogue with Hollywood classics, films d’auteur, contemporary art and literature. For a work of cinematic or visual art amounts to nothing if it tells you nothing about your own life: film and art are always about what was and what could have been. Magnificent Obsessions takes up these existential questions in texts and images, including selections from Brunner’s impressive collection of movie stills and reproductions of his favorite art works. As in movies, people are the focus, the protagonists, of Brunner’s sometimes mordantly blunt and yet affectionate, sometimes almost tender writings. When he loses the love of his life, Swiss art dealer Thomas Ammann, to AIDS, he writes about their shared happiness so as not to be consumed by grief. He remembers the glamorous Elisabeth Bossard (Thema Selection), his lover for many years, and relates anecdotes from a flirtation in Venice with Edmund White, the American writer who became a friend. He recounts his love-hate relationship with Swiss filmmaker Daniel Schmid, replete with intimate glimpses of the late German filmmakers Rainer Werner Fassbinder and Werner Schroeter, their works and the whole scene around them. It was the film curator Brunner who brought the films of his friends John Waters and Andy Warhol to Switzerland early on—bypassing the censors. Brunner knew the light and dark sides of the Dream Factory, but was always ready and willing to succumb yet again to its Imitation of Life, as Douglas Sirk titled one of his great melodramas.</p> <p>With a preface by Stefan Zweifel and an epilog by John Waters.</p>'
 details: |
-  - ISBN: 3907236420 / 978-3907236420
-  
-  - Content: 426 pages
-  - Size: 240 × 300 mm
-  - Design: Studio Achermann
-  - Language: English
-  - Publishing date: 2023
-  
-  - Specs: Softcover
-  - Images: © WELTKERN ® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3907236420 / 978-3907236420 "
+  Content: "426 pages"
+  Size: "240 × 300 mm"
+  Design: "Studio Achermann"
+  Language: "English"
+  Publishing date: "2023 "
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -104,4 +68,35 @@ tags: [ ]
 
 ----
 
-Uuid: E4tC51nhFmzPl8YR
+Multilinetitle:
+
+Magnificent Obsessions
+Saved My Life
+
+----
+
+Uuid: tF0lrLmamRrLmqQm
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

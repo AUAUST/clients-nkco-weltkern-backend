@@ -1,31 +1,3 @@
-Title: Mousse magazine n°68
-
-----
-
-Multilinetitle: Mousse magazine n°68
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Mousse magazine n°68
@@ -39,14 +11,14 @@ author:
   id: 111
 description: '<p>Mousse is a bimonthly magazine published in italian and english. established in 2006, mousse contains interviews, conversations, and essays by some of the most important figures in international criticism, visual arts, and curating today, alternated with a series of distinctive articles in a unique tabloid format. mousse keeps tabs on international trends in contemporary culture thanks to its city editors in major art capitals such as berlin, new york, london, paris, and los angeles.</p>'
 details: |
-  - ISBN: 977203525610367
-  - Content: 288 pages
-  - Size: 230 × 15 × 350 mm
-  - Design: Mousse Agency
-  - Language: English / Italian
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Mousse Agency. All rights reserved.
+  ISBN: "977203525610367"
+  Content: "288 pages"
+  Size: "230 × 15 × 350 mm"
+  Design: "Mousse Agency"
+  Language: "English / Italian"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Mousse Agency. All rights reserved."
 gallery:
   - 
     url: >
@@ -84,4 +56,32 @@ tags: [ ]
 
 ----
 
-Uuid: DxShBSa2hq8QUO3g
+Multilinetitle: Mousse magazine n°68
+
+----
+
+Uuid: Xxi8AdUEgH5ymU74
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

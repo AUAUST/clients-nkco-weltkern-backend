@@ -1,34 +1,3 @@
-Title: Künstlerportraits|Helga Paris
-
-----
-
-Multilinetitle:
-
-Künstlerportraits
-Helga Paris
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Künstlerportraits <br>Helga Paris'
@@ -40,25 +9,18 @@ weight: 1
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>With an eye trained by modernist painting and early Soviet, Italian, and French cinema and influenced by theatre and poetry, self-taught photographer Helga Paris developed an extensive oeuvre of gently nuanced black-and-white images over a period of four and a half decades. The great trust and confidence that people had in her as an artist and as a person are a hallmark of all her portraits. Her subjects open themselves up to her and let her into their lives. The photographs show figures like Christa Wolf, Elke Erb, and Charlotte E. Pauly in private moments as well as the literary counter-public of Prenzlauer Berg and its protagonists. The book is accompanied by texts penned by publisher Gerhard Wolf and curator and art historian Eugen Blume. Paris’s portraits of artists and writers in the GDR are being published for the first time in book form in conjunction with an exhibition at the Leonhardi Museum in Dresden.<br />
-  <br />
-  Helga Paris, born 1938, is one of the most important photographers in Germany. She made a name for herself with her volume Diva in Grau, in which she recorded the decline of Halle’s historic town centre in the 1980s, thus anticipating the end of the GDR.<br />
-  <br />
-  Eugen Blume, born 1951 in Bitterfeld, is a curator and art historian. From 2001 to 2016 he was director of Hamburger Bahnhof – Museum für Gegenwart in Berlin.<br />
-  <br />
-  Gerhard Wolf, born 1928 in Bad Frankenhausen, is an editor, author, and publisher. At Aufbau he published young nonconformist writers. In 1991 he launched Janus Press. He was married to Christa Wolf.</p>
+description: '<p>With an eye trained by modernist painting and early Soviet, Italian, and French cinema and influenced by theatre and poetry, self-taught photographer Helga Paris developed an extensive oeuvre of gently nuanced black-and-white images over a period of four and a half decades. The great trust and confidence that people had in her as an artist and as a person are a hallmark of all her portraits. Her subjects open themselves up to her and let her into their lives. The photographs show figures like Christa Wolf, Elke Erb, and Charlotte E. Pauly in private moments as well as the literary counter-public of Prenzlauer Berg and its protagonists. The book is accompanied by texts penned by publisher Gerhard Wolf and curator and art historian Eugen Blume. Paris’s portraits of artists and writers in the GDR are being published for the first time in book form in conjunction with an exhibition at the Leonhardi Museum in Dresden.<br /> <br /> Helga Paris, born 1938, is one of the most important photographers in Germany. She made a name for herself with her volume Diva in Grau, in which she recorded the decline of Halle’s historic town centre in the 1980s, thus anticipating the end of the GDR.<br /> <br /> Eugen Blume, born 1951 in Bitterfeld, is a curator and art historian. From 2001 to 2016 he was director of Hamburger Bahnhof – Museum für Gegenwart in Berlin.<br /> <br /> Gerhard Wolf, born 1928 in Bad Frankenhausen, is an editor, author, and publisher. At Aufbau he published young nonconformist writers. In 1991 he launched Janus Press. He was married to Christa Wolf.</p>'
 details: |
-  - ISBN: 3959055137 / 978-3959055130
-  - Content: 152 pages
-  - Size: 240 × 185 mm
-  - Author: Helga Paris
-  - Edited by: Spector Books
-  - Design: Hannes Drißner
-  - Language: German / English
-  - Publishing date: 2021
-  - Specs: Thread-sewn hardcover
-  - Images: © WELTKERN® / Spector Books. All rights reserved.
+  ISBN: "3959055137 / 978-3959055130"
+  Content: "152 pages"
+  Size: "240 × 185 mm"
+  Author: "Helga Paris"
+  Edited by: "Spector Books"
+  Design: "Hannes Drißner"
+  Language: "German / English"
+  Publishing date: "2021"
+  Specs: "Thread-sewn hardcover"
+  Images: "© WELTKERN® / Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -68,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: zqaR8fKEahMZvHIT
+Multilinetitle:
+
+Künstlerportraits
+Helga Paris
+
+----
+
+Uuid: RbwrpfmNwWzSkqnN
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

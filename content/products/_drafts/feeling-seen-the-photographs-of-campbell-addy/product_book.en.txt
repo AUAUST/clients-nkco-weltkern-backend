@@ -1,34 +1,3 @@
-Title: Feeling Seen|The Photographs of Campbell Addy
-
-----
-
-Multilinetitle:
-
-Feeling Seen
-The Photographs of Campbell Addy
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Feeling Seen <br>The Photographs of Campbell Addy'
@@ -42,14 +11,14 @@ author:
   id: 112
 description: '<p>From major portraits of the likes of Kendall Jenner, FKA Twigs, and Tyler, the Creator to cover shoots for leading magazines such as Time, Rolling Stone, and Garage, Campbell Addy has quickly become one of the most in-demand photographers of his generation. The book opens with a foreword by British Vogue’s editor-in-chief, Edward Enninful, discussing the intersection of photography, race, beauty, and representation. This is followed by a broad selection of Addy’s striking photographs, which range from prominent fashion and magazine commissions to candid portraiture. Quotes from leading Black figures including Naomi Campbell and Nadine Ijewere are woven between Addy’s striking imagery, in which these trailblazing Black creatives reflect on the first time they felt seen in their industry. The book closes with a deeper exploration of Addy’s more personal imagery and influences, paying tribute to the heritage of Black photographers through the work of Ajamu and James Barnor. In conversation with curator and writer Ekow Eshun, Addy balances his own experiences as a queer, Black photographer who left his Jehovah’s Witness family home at sixteen with broader questions of identity, intimacy, and art which face many creatives today. Charged with energy, compassion and authenticity, this inaugural monograph signals a major talent whose influence and stature will only grow with time.</p>'
 details: |
-  - ISBN: 3791388465 / 978-3791388465
-  - Content: 208 pages
-  - Size: 240 × 300 mm
-  - Language: English
-  - Publishing date: 2022
-  - Edited by : Campbell Addy
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Prestel. All rights reserved.
+  ISBN: "3791388465 / 978-3791388465"
+  Content: "208 pages"
+  Size: "240 × 300 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Edited by : "Campbell Addy "
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Prestel. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: coGOJ995okZaYe9K
+Multilinetitle:
+
+Feeling Seen
+The Photographs of Campbell Addy
+
+----
+
+Uuid: EkH2yuU23cHAEqEK
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

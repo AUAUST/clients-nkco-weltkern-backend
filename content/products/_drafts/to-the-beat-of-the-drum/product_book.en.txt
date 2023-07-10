@@ -1,0 +1,86 @@
+Oldweltkern:
+
+title: 'To The Beat Of <br>The Drum'
+slug: to-the-beat-of-the-drum
+id: 29696
+isbn: 1739596408 / 978-1739596408
+price: 28.9
+weight: 2.1
+author:
+  name: Sorika
+  id: 410
+description: '<p>Sorika is pleased to announce the publication of Gareth McConnell’s new book, To the Beat of the Drum. The book comprises photographs of youthful members of Northern Ireland’s militaristic, Protestant marching bands, who McConnell carefully situates under the trippy magic of his super-chromatic, hedonistic lighting. These photographs and their mood-altering colours are compelling visual studies of youth and social identity – McConnell gives strong emphasis to how identity is subject to the variable relationships of the individual and the group. The book is accompanied by an essay by Sean O’Hagan (first published in The Observer’s New Review, 2021).</p>'
+details: |
+  ISBN: "1739596408 / 978-1739596408"
+  Content: "104 pages"
+  Size: "220 × 280 mm"
+  Design: "Fraser Muggeridge studio"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Sorika. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/To-the-Beat_COVER_.jpg
+    id: 29697
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/To-the-Beat_Spread_01.jpg
+    id: 29694
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/To-the-Beat_Spread_02.jpg
+    id: 29693
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/To-the-Beat_Spread_03.jpg
+    id: 29692
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/To-the-Beat_Spread_04.jpg
+    id: 29691
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/To-the-Beat_Spread_05.jpg
+    id: 29690
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/05/To-the-Beat_Spread_06.jpg
+    id: 29689
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+To The Beat Of
+The Drum
+
+----
+
+Uuid: 5Edz2NLlxJnkUHmx
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

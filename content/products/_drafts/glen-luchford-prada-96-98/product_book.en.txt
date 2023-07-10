@@ -1,34 +1,3 @@
-Title: Glen Luchford|Prada 96-98
-
-----
-
-Multilinetitle:
-
-Glen Luchford
-Prada 96-98
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Glen Luchford <br>Prada 96-98'
@@ -42,14 +11,14 @@ author:
   id: 306
 description: '<p>Glen Luchford: Prada 96-98 Having worked with names ranging from Givenchy to Gucci, Glen Luchford is one of the most influential fashion photographers of our generation. Celebrating the creative, Self Service Magazine‘s Ezra Petronio has now designed a book featuring all of the Prada campaigns lensed by Luchford from 1996 to 1998. Published by IDEA, the book covers all of the iconic images taken during the years he was signed exclusively to the Italian luxury house. Directed by David James, campaigns feature the likes of Amber Valletta, Joaquin Phoenix and Willem Dafoe. In addition to the visuals, the 116-page-long hardback features an exclusive interview by Lou Stoppard covering the photographer’s influence on the fashion world. Measuring 30.5 centimeters tall, the book arrives with Chromolux inserts for readers to enjoy high-quality prints of the works. Limited to 1,000 copies</p>'
 details: |
-  - ASIN: B09MXCC4HD
-  - Content: 116 pages
-  - Size: 285 × 17 × 310 mm
-  - Author: Glen Luchford
-  - Language: English
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Ideabooks. All rights reserved.
+  ASIN: "B09MXCC4HD"
+  Content: "116 pages"
+  Size: "285 × 17 × 310 mm"
+  Author: "Glen Luchford"
+  Language: "English"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Ideabooks. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: 2tIQuE6kISgj6q6N
+Multilinetitle:
+
+Glen Luchford
+Prada 96-98
+
+----
+
+Uuid: H1rpK8Ei5b0sl8qm
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

@@ -1,37 +1,6 @@
-Title: P Magazine nº10 “Freedom” E|Lena by Vincent
-
-----
-
-Multilinetitle:
-
-P Magazine nº10 “Freedom” E
-Lena by Vincent
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
-title: 'P Magazine nº10 “Freedom” E <br>Lena by Vincent'
+title: 'P Magazine no10 “Freedom” E <br>Lena by Vincent'
 slug: >
   p-magazine-no10-freedom-e-lena-by-vincent
 id: 25353
@@ -41,22 +10,15 @@ weight: 2.1
 author:
   name: Phamilia
   id: 396
-description: |
-  <p>&#8216;FREEDOM&#8217; (The Tenth Book)<br />
-  Ten Years of beauty sensuality and human nature.<br />
-  Limited Edition — 1000 Books.</p>
-  <p>10 different covers, silver foil details.<br />
-  Hardcover book with protective clear sleeve with foil.<br />
-  240 pages, full color on uncoated woodfree paper.</p>
-  <p>Featuring: Elise Zecevic by Rayn Jermain / Isabella Carr by Wiissa / Alizée Gamberini by Maëva Gamberini / Tanya Kizko by Donari Braxton / Fabrizio, Fernanda, Mariana &#038; Marijose by Mariana García / Rik Bracho / Raúl Mena by Alberto Pinto / Raúl Salazar / Alejandra Guilmant by Karla Lisker / Nina Urgell by Pau Carrete / Ajsa Selimovic by Marcus Paarmann / Daniela Aldana by Jean Ambrojo / Olivia Taylor by Danny Scott Lane / Ohwhatawoman by Aleksey Burcev / Lena Simonne by Vincent Girardot / Pia Riverola</p>
+description: '<p>&#8216;FREEDOM&#8217; (The Tenth Book)<br /> Ten Years of beauty sensuality and human nature.<br /> Limited Edition — 1000 Books.</p> <p>10 different covers, silver foil details.<br /> Hardcover book with protective clear sleeve with foil.<br /> 240 pages, full color on uncoated woodfree paper.</p> <p>Featuring: Elise Zecevic by Rayn Jermain / Isabella Carr by Wiissa / Alizée Gamberini by Maëva Gamberini / Tanya Kizko by Donari Braxton / Fabrizio, Fernanda, Mariana &#038; Marijose by Mariana García / Rik Bracho / Raúl Mena by Alberto Pinto / Raúl Salazar / Alejandra Guilmant by Karla Lisker / Nina Urgell by Pau Carrete / Ajsa Selimovic by Marcus Paarmann / Daniela Aldana by Jean Ambrojo / Olivia Taylor by Danny Scott Lane / Ohwhatawoman by Aleksey Burcev / Lena Simonne by Vincent Girardot / Pia Riverola</p>'
 details: |
-  - Content: 240 pages
-  - Size: 245 × 330 mm
-  - Design: Face.
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / Phamilia. All rights reserved.
+  Content: "240 pages"
+  Size: "245 × 330 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Phamilia. All rights reserved."
 gallery:
   - 
     url: >
@@ -110,4 +72,35 @@ tags: [ ]
 
 ----
 
-Uuid: 571XgsplIVMU30Db
+Multilinetitle:
+
+P Magazine no10 “Freedom” E
+Lena by Vincent
+
+----
+
+Uuid: MjEsscxvT25zhY6J
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

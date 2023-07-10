@@ -1,34 +1,3 @@
-Title: gta papers 5|Social Distance
-
-----
-
-Multilinetitle:
-
-gta papers 5
-Social Distance
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'gta papers 5 <br>Social Distance'
@@ -42,16 +11,16 @@ author:
   id: 324
 description: '<p>The term ‘social distance’ was once only a vague metaphor to describe the relationship between different social groups. Yet it has acquired a precise meaning as the mandatory minimum distance for face-to-face interactions: 1, 1.5, or 2 metres (or 6 feet), depending on the jurisdiction. But what is the appropriate distance from which to interpret a pandemic? Rather than asserting a diagnosis of the con­tem­porary emergency, the issue Social Distance offers perspectives from archi­tectural history and theory. From the great plague of Venice to cholera in the indus­trializing city, from the human placenta to the 1960s bubble or the office of today, the fifth gta papers provides a broad range of reflections on contagion, disease, and health.</p>'
 details: |
-  - ISBN: 3856764159 / 978-3856764159
-  - Content: 198 pages
-  - Size: 210 × 297 mm
-  - Language: English
-  - Graphic Design by: büro uebele
-  - Edited by: Adam Jasper
-  - Contributions by : Annmarie Adams, Gregorio Astengo, Chair of the History and Theory of Urban Design, Irina Davidovici, Didem Ekici, Britta Hentschel, Caroline A. Jones, Christa Kamleithner, Jeanne Kisacky, Anne Kockelkorn, Miloš Kosec, Reinhold Martin, Stanislaus von Moos, Cathelijne Nuijsink, Laila Seewang, Lukas Stadelmann, David Theodore, Leslie Topp, Daniel Weiss, Alex Winiger, Markus Wörgötter, Lydia Xynogala
-  - Publication: 2021
-  - Specs: Softcover
-  - Images: © WELTKERN® / Gta Verlag. All rights reserved.
+  ISBN: "3856764159 / 978-3856764159"
+  Content: "198 pages"
+  Size: "210 × 297 mm"
+  Language: "English"
+  Graphic Design by: "büro uebele"
+  Edited by: "Adam Jasper"
+  Contributions by : "Annmarie Adams, Gregorio Astengo, Chair of the History and Theory of Urban Design, Irina Davidovici, Didem Ekici, Britta Hentschel, Caroline A. Jones, Christa Kamleithner, Jeanne Kisacky, Anne Kockelkorn, Miloš Kosec, Reinhold Martin, Stanislaus von Moos, Cathelijne Nuijsink, Laila Seewang, Lukas Stadelmann, David Theodore, Leslie Topp, Daniel Weiss, Alex Winiger, Markus Wörgötter, Lydia Xynogala"
+  Publication: "2021"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Gta Verlag. All rights reserved."
 gallery:
   - 
     url: >
@@ -61,4 +30,35 @@ tags: [ ]
 
 ----
 
-Uuid: BrmaToEzOzQ2Rgul
+Multilinetitle:
+
+gta papers 5
+Social Distance
+
+----
+
+Uuid: X6olvd1VtEXjgoqq
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

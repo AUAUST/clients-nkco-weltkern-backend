@@ -1,0 +1,70 @@
+Oldweltkern:
+
+title: Puzzle Punks n°3
+slug: puzzle-punks-n3
+id: 30069
+isbn: 3959057301 / 978-3959057301
+price: 30.9
+weight: 2.1
+author:
+  name: REPOR / TAGE
+  id: 419
+description: '<p>This third issue of the magazine features the legendary band PUZZLE PUNKS, a band of two legendary Japanese cult icons, contemporary artist Shinro Ohtake and EYヨ of the Boredoms, who have been struggling for many years, crossing over the borders from the contemporary art world to the underground music world with ease. The magazine is edited in such a way that readers can enjoy their works from both visual and sound perspectives. Appendix: Flexi disc (2songs)</p>'
+details: |
+  ISBN: "3959057301 / 978-3959057301"
+  Content: "144 pages"
+  Size: "230 × 257 mm"
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / REPOR / TAGE. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Moder-n_COVER_.jpg
+    id: 30074
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Moder-n_SPREAD_01.jpg
+    id: 30073
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Moder-n_SPREAD_02-1.jpg
+    id: 30072
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Moder-n_SPREAD_03.jpg
+    id: 30070
+tags: [ ]
+
+----
+
+Multilinetitle: Puzzle Punks n°3
+
+----
+
+Uuid: XjtlglzfHajTSrjx
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

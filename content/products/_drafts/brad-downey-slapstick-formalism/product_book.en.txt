@@ -1,34 +1,3 @@
-Title: Brad Downey|Slapstick Formalism
-
-----
-
-Multilinetitle:
-
-Brad Downey
-Slapstick Formalism
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Brad Downey <br>Slapstick Formalism'
@@ -42,18 +11,18 @@ author:
   id: 207
 description: '<p>Brad Downey uses the streets as his studio and place of creative expression. He finds inspiration in the objects and activities of daily life, and is notorious for his subversive pranks and minimalist interventions in public space: spontaneous sculptures and assemblages, unsolicited interventions and silent alterations, simple actions and complex patterns. This book traces the vast labyrinth of Downey’s oeuvre, offering the first comprehensive assessment of his sculptures, architecture, performances, installations, films, drawings, collages, and activism. The publication was conceived in close collaboration with the artist, edited by Lukas Feireiss and designed by Matthias Hübner.</p>'
 details: |
-  - ISBN: 9188369178 / 978-9188369178
-  - Content: 432 pages
-  - Size: 240 × 36 × 320 mm
-  - Author: Brad Downey
-  - Edited by: Lukas Feireiss
-  - Co-published: Possible Books
-  - Design: Matthias Hübner
-  - Font in use: TWK Everett
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © WELTKERN® / Hatje Cantz Verlag / Possible Books. All rights reserved.
+  ISBN: "9188369178 / 978-9188369178"
+  Content: "432 pages"
+  Size: "240 × 36 ×? 320 mm"
+  Author: "Brad Downey"
+  Edited by: "Lukas Feireiss"
+  Co-published: "Possible Books"
+  Design: "Matthias Hübner"
+  Font in use: "TWK Everett"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Hatje Cantz Verlag / Possible Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -91,4 +60,35 @@ tags: [ ]
 
 ----
 
-Uuid: 1UrDeefUna6EqbiG
+Multilinetitle:
+
+Brad Downey
+Slapstick Formalism
+
+----
+
+Uuid: jG6r8qWvbSNbRJrl
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

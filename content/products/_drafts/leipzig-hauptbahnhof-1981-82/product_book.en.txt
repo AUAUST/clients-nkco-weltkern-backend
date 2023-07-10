@@ -1,31 +1,3 @@
-Title: Leipzig Hauptbahnhof 1981/82
-
-----
-
-Multilinetitle: Leipzig Hauptbahnhof 1981/82
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: Leipzig Hauptbahnhof 1981/82
@@ -38,23 +10,18 @@ weight: 0.4
 author:
   name: Spector Books
   id: 99
-description: |
-  <p>In the 1970s, Leipzig central station was an unfulfilled promise to the world. The trains creaked and squealed piteously and the loudspeaker announcements went unheard in the nirvana of the huge station hall. It was a simple, loud, mechanical place. Travellers and staff had settled themselves into the different rooms for arrivals and departures. In the Mitropa, where the dishes had to be cleared away by themselves, all the different social strata gathered together—for twenty-four hours. Time seems to stand still in Helga Paris’s eighty black-and-white photographs. Only rarely do you see anyone hurrying for a train.<br />
-  <br />
-  There are no clocks. Everyone is waiting: the toilet attendant for the end of her shift, the woman selling lottery tickets for the next person seeking to make their fortune, the pensioner for her beer. Helga Paris’s series is a masterful study of a particular milieu with unmistakable characters—the marginal figures define the scenery of the endless waiting room.<br />
-  <br />
-  Helga Paris (b. 1938) is one of the most important photographers in Germany. She made a name for herself with her volume Diva in Grau, in which she recorded the decline of Halle’s historic town centre in the 1980s, thus anticipating the end of the GDR.</p>
+description: '<p>In the 1970s, Leipzig central station was an unfulfilled promise to the world. The trains creaked and squealed piteously and the loudspeaker announcements went unheard in the nirvana of the huge station hall. It was a simple, loud, mechanical place. Travellers and staff had settled themselves into the different rooms for arrivals and departures. In the Mitropa, where the dishes had to be cleared away by themselves, all the different social strata gathered together—for twenty-four hours. Time seems to stand still in Helga Paris’s eighty black-and-white photographs. Only rarely do you see anyone hurrying for a train.<br /> <br /> There are no clocks. Everyone is waiting: the toilet attendant for the end of her shift, the woman selling lottery tickets for the next person seeking to make their fortune, the pensioner for her beer. Helga Paris’s series is a masterful study of a particular milieu with unmistakable characters—the marginal figures define the scenery of the endless waiting room.<br /> <br /> Helga Paris (b. 1938) is one of the most important photographers in Germany. She made a name for herself with her volume? Diva in Grau, in which she recorded the decline of Halle’s historic town centre in the 1980s, thus anticipating the end of the GDR.</p>'
 details: |
-  - ISBN: 3959053242 / 978-3959053242
-  - Content: 144 pages
-  - Size: 140 × 13 × 180 mm
-  - Author: Helga Paris
-  - Edited by: Inka Schube
-  - Design: Malin Gewinner, Spector Bureau
-  - Language: English / German
-  - Publishing date: 2020
-  - Specs: Hardcover
-  - Images: © Spector Books. All rights reserved.
+  ISBN: "3959053242 / 978-3959053242"
+  Content: "144 pages"
+  Size: "140 × 13 × 180 mm"
+  Author: "Helga Paris"
+  Edited by: "Inka Schube"
+  Design: "Malin Gewinner, Spector Bureau"
+  Language: "English / German"
+  Publishing date: "2020"
+  Specs: "Hardcover"
+  Images: "© Spector Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -80,4 +47,32 @@ tags: [ ]
 
 ----
 
-Uuid: WgUm0EqLlIIkpErU
+Multilinetitle: Leipzig Hauptbahnhof 1981/82
+
+----
+
+Uuid: BEM4JFyugb3nb6l8
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

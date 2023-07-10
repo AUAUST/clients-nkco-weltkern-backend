@@ -1,34 +1,3 @@
-Title: The Incidents|Virgil Abloh: “Insert Complicated Title Here”
-
-----
-
-Multilinetitle:
-
-The Incidents
-Virgil Abloh: “Insert Complicated Title Here”
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'The Incidents <br>Virgil Abloh: “Insert Complicated Title Here”'
@@ -41,21 +10,16 @@ weight: 0.8
 author:
   name: Sternberg Press
   id: 133
-description: |
-  <p>“What’s my DNA?” Virgil Abloh asks to an overflowing auditorium at the Harvard University Graduate School of Design. Abloh goes on to provide his audience with a “cheat code”—advice he wishes he had received as a student. He then unpacks a series of “shortcuts” for cultivating a “personal design language.” Trained as an architect and engineer, Abloh has translated the tools and techniques of his student days into the world of fashion, product design, and music. His label, Off-White, works in seeming contradictions, marrying streetwear with couture, collaborating with brands like Nike, Ikea, and the Red Cross; musicians like Lil Uzi Vert and Rihanna; and “mentors” like Rem Koolhaas. Impervious to hurdles (“They literally don’t exist.”), Abloh takes us behind the scenes of his design process, sharing the essentials of editing, problem-solving, and storytelling. He paints a picture of his DNA, and then flips the question: What’s your DNA?<br />
-  <br />
-  Born in Rockford, Illinois, in 1980, Virgil Abloh is an artist, architect, engineer, creative director, and designer. After earning a degree in civil engineering from the University of Wisconsin–Madison, he completed a master’s degree in architecture at the Illinois Institute of Technology. It was there that he learned not only about design principles but also about the concept of collaborative working.<br />
-  <br />
-  Virgil Abloh’s brand Off-White c/o Virgil Abloh™ was started in 2012 as an artwork titled PYREX VISION. In 2013, the brand premiered a seasonal men’s and women’s fashion label and moved into the production of furniture. Abloh has also curated exhibitions of his work, and in 2019 will have a retrospective at the Museum of Contemporary Art in Chicago. In 2018, Abloh was named artistic director of Louis Vuitton’s menswear collection.</p>
+description: '<p>“What’s my DNA?” Virgil Abloh asks to an overflowing auditorium at the Harvard University Graduate School of Design. Abloh goes on to provide his audience with a “cheat code”—advice he wishes he had received as a student. He then unpacks a series of “shortcuts” for cultivating a “personal design language.” Trained as an architect and engineer, Abloh has translated the tools and techniques of his student days into the world of fashion, product design, and music. His label, Off-White, works in seeming contradictions, marrying streetwear with couture, collaborating with brands like Nike, Ikea, and the Red Cross; musicians like Lil Uzi Vert and Rihanna; and “mentors” like Rem Koolhaas. Impervious to hurdles (“They literally don’t exist.”), Abloh takes us behind the scenes of his design process, sharing the essentials of editing, problem-solving, and storytelling. He paints a picture of his DNA, and then flips the question: What’s your DNA?<br /> <br /> Born in Rockford, Illinois, in 1980, Virgil Abloh is an artist, architect, engineer, creative director, and designer. After earning a degree in civil engineering from the University of Wisconsin–Madison, he completed a master’s degree in architecture at the Illinois Institute of Technology. It was there that he learned not only about design principles but also about the concept of collaborative working.<br /> <br /> Virgil Abloh’s brand Off-White c/o Virgil AblohTM was started in 2012 as an artwork titled PYREX VISION. In 2013, the brand premiered a seasonal men’s and women’s fashion label and moved into the production of furniture. Abloh has also curated exhibitions of his work, and in 2019 will have a retrospective at the Museum of Contemporary Art in Chicago. In 2018, Abloh was named artistic director of Louis Vuitton’s menswear collection.</p>'
 details: |
-  - ISBN: 3956793813 / 978-3956793813
-  - Content: 56 pages
-  - Size: 155 × 210 mm
-  - Design: Åbäke
-  - Language: English
-  - Publishing date: 2018
-  - Specs: Softcover
-  - Images: © WELTKERN® / Sternberg Press. All rights reserved.
+  ISBN: "3956793813 / 978-3956793813"
+  Content: "56 pages"
+  Size: "155 × 210 mm"
+  Design: "? bäke"
+  Language: "English"
+  Publishing date: "2018"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Sternberg Press. All rights reserved."
 gallery:
   - 
     url: >
@@ -65,4 +29,35 @@ tags: [ ]
 
 ----
 
-Uuid: oJPsrCE1yf7bDXUR
+Multilinetitle:
+
+The Incidents
+Virgil Abloh: “Insert Complicated Title Here”
+
+----
+
+Uuid: bgXQ22cQ797lJpb8
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

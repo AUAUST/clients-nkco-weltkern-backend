@@ -1,34 +1,3 @@
-Title: Ingar Krauss|Huts Hedges Heaps
-
-----
-
-Multilinetitle:
-
-Ingar Krauss
-Huts Hedges Heaps
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Ingar Krauss <br>Huts Hedges Heaps'
@@ -42,17 +11,17 @@ author:
   id: 309
 description: '<p>The book Huts Hedges Heaps (Ingar Krauss’s second publication with Hartmann Books after 39 Bilder of 2016) is about human order in nature. The laconic photographs of small, rural gardens that Krauss shot between 2010 and 2017 particularly in Brandenburg show concentrated traces of human efforts to create order, which take on graphic and sculptural dimensions in the pictures’ structure. In the Black Forest he produced pictures of wood piles, whose man-made forms seem even more abstract because they organically fit into the structures of their natural surroundings, recalling the work of Land artists. The huts, hedges, and heaps are connected to the American New Topographic movement of the 1970s insofar as they “fulfill everything that people wanted in a picture in those days, overturning an observation into a ‘higher’ order of some kind; the monumentalization of the everyday, not by resorting to monumentalizing genres, but by the captivating composition of the image,” as Ulf Erdmann Ziegler writes.</p>'
 details: |
-  - ISBN: 3960700385 / 978-3960700388
-  - Content: 88 pages
-  - Size: 240 × 260 mm
-  - Artist: Ingar Krauss
-  - Edited by: Hartmann Books
-  - Texts by: Christiane Stahl, Kenneth Anders
-  - Design: arc – Bartsch/Grimberg
-  - Language: English / German
-  - Publishing date: 2019
-  - Specs: Hardcover with foil stamped type
-  - Images: © WELTKERN® / Hartmann Books. All rights reserved.
+  ISBN: "3960700385 / 978-3960700388"
+  Content: "88 pages"
+  Size: "240 × 260 mm"
+  Artist: "Ingar Krauss"
+  Edited by: "Hartmann Books"
+  Texts by: "Christiane Stahl, Kenneth Anders"
+  Design: "arc – Bartsch/Grimberg"
+  Language: "English / German"
+  Publishing date: "2019"
+  Specs: "Hardcover with foil stamped type"
+  Images: "© WELTKERN® / Hartmann Books. All rights reserved."
 gallery:
   - 
     url: >
@@ -62,4 +31,35 @@ tags: [ ]
 
 ----
 
-Uuid: uDrjgOXVS2C9MxWs
+Multilinetitle:
+
+Ingar Krauss
+Huts Hedges Heaps
+
+----
+
+Uuid: bKi7jM2Y4SNDoRKz
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

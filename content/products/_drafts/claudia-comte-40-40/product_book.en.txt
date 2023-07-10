@@ -1,34 +1,3 @@
-Title: Claudia Comte|40 × 40
-
-----
-
-Multilinetitle:
-
-Claudia Comte
-40 × 40
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Claudia Comte <br>40 × 40'
@@ -42,16 +11,16 @@ author:
   id: 98
 description: '<p>This spectacular large format (40 × 40 cm open) artist&#8217;s book is composed of graphic works by Claudia Comte. Conceived as a Cartesian data system, the book folds and collapses in such a way that it can be read in four different ways, transforming itself into a geometric playground offering different variations on the Swiss artist&#8217;s visual identity.</p>'
 details: |
-  - ISBN: 3906803272 / 978-3906803272
-  - Content: 416 Pages
-  - Size: 200 × 400 mm
-  - Artist: Claudia Comte
-  - Texts by: Chris Sharp
-  - Design: Elektrosmog
-  - Language: English
-  - Publishing date: 2017
-  - Specs: Softcover
-  - Images: © WELTKERN® / Edition Patrick Frey. All rights reserved.
+  ISBN: "3906803272 / 978-3906803272"
+  Content: "416 Pages"
+  Size: "200 × 400 mm"
+  Artist: "Claudia Comte"
+  Texts by: "Chris Sharp"
+  Design: "Elektrosmog"
+  Language: "English"
+  Publishing date: "2017"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Edition Patrick Frey. All rights reserved."
 gallery:
   - 
     url: >
@@ -81,4 +50,35 @@ tags: [ ]
 
 ----
 
-Uuid: fSblLMpYFjUOGve8
+Multilinetitle:
+
+Claudia Comte
+40 × 40
+
+----
+
+Uuid: 70pufFDHPzVMuWS2
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

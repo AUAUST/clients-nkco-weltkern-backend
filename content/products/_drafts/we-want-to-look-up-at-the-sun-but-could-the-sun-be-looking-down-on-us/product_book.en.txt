@@ -1,31 +1,3 @@
-Title: We Want To Look Up At The Sun, But Could The Sun Be Looking Down On Us?
-
-----
-
-Multilinetitle: We Want To Look Up At The Sun, But Could The Sun Be Looking Down On Us?
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: >
@@ -42,13 +14,13 @@ author:
   id: 389
 description: '<p>In 2019, ‘I See That I See What You Don’t See’ was shown as the Dutch contribution to the Milan Triennial, presenting a layered, multidimensional image of the relationship that humans, animals, and landscapes maintain with darkness. Architect Olivier Goethals and graphic designer Rudy Guedj collaborated to create the exhibition’s scenography. This publication reveals the material created before, during, and after the design of the exhibition, and thereby seeks to generate an incomplete overview of the process the two followed. It manifests as a hybrid translation of the work created for, as well as from, these designs and highlights the porosity between both practices.</p>'
 details: |
-  - ISBN: 9082771237 / 978-9082771237
-  - Content: 144 pages
-  - Size: 170 × 240 mm
-  - Language: English
-  - Publishing date: 2019
-  - Specs: Softcover
-  - Images: © WELTKERN® / Building Fictions. All rights reserved.
+  ISBN: "9082771237 / 978-9082771237"
+  Content: "144 pages"
+  Size: "170 × 240 mm"
+  Language: "English"
+  Publishing date: "2019"
+  Specs: "Softcover"
+  Images: "© WELTKERN® / Building Fictions. All rights reserved."
 gallery:
   - 
     url: >
@@ -74,4 +46,32 @@ tags: [ ]
 
 ----
 
-Uuid: 2vFXbCiiAPf8o3zu
+Multilinetitle: We Want To Look Up At The Sun, But Could The Sun Be Looking Down On Us?
+
+----
+
+Uuid: obxsgzA69ClDEkrM
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

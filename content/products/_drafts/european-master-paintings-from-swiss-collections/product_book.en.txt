@@ -1,34 +1,3 @@
-Title: European Master Paintings|From Swiss Collections
-
-----
-
-Multilinetitle:
-
-European Master Paintings
-From Swiss Collections
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'European Master Paintings <br>From Swiss Collections'
@@ -43,13 +12,13 @@ author:
   id: 243
 description: '<p>Published in 1976, this rare book from MoMA Publications is in excellent condition and available in extremely limited quantities. Each book from this special selection has been stored for decades. MoMA’s publications program has been an integral part of the Museum’s mission since its founding in 1929. These award-winning MoMA exhibition- and collection-related titles are renowned for their high production values. Please note that the cover photo is for reference only and does not reflect the actual condition of the book being sold.</p>'
 details: |
-  - Content: 170 pages
-  - Size: 220 × 200 mm
-  - Design: Face.
-  - Language: English
-  - Publishing date: 1976
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / Taschen. All rights reserved.
+  Content: "170 pages"
+  Size: "220 × 200 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "1976"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Taschen. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: GhetUQ65lPGlvqeU
+Multilinetitle:
+
+European Master Paintings
+From Swiss Collections
+
+----
+
+Uuid: JrPgd0P8QFIUxKeu
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

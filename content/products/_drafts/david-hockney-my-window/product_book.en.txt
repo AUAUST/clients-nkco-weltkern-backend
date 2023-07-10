@@ -1,34 +1,3 @@
-Title: David Hockney|My Window
-
-----
-
-Multilinetitle:
-
-David Hockney
-My Window
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'David Hockney <br>My Window'
@@ -42,14 +11,14 @@ author:
   id: 91
 description: '<p>Previously available in a Collector&#8217;s Edition, Hockney&#8217;s artist book will appear as an unlimited XL edition. In 120 iPhone and iPad drawings, the artist captures his perception of the world through the window of his Yorkshire home. Each image represents a fleeting moment &#8211; collectively they paint the passage of time through Hockney&#8217;s eyes.</p>'
 details: |
-  - ISBN: 3836593922 / 978-3836593922
-  - Content: 248 pages
-  - Size: 386 × 298 mm
-  - Design: Face.
-  - Language: English
-  - Publishing date: 2022
-  - Specs: Hardcover
-  - Images: © WELTKERN ® / Taschen. All rights reserved.
+  ISBN: "3836593922 / 978-3836593922"
+  Content: "248 pages"
+  Size: "386 × 298 mm"
+  Design: "Face."
+  Language: "English"
+  Publishing date: "2022"
+  Specs: "Hardcover"
+  Images: "© WELTKERN ® / Taschen. All rights reserved."
 gallery:
   - 
     url: >
@@ -87,4 +56,35 @@ tags: [ ]
 
 ----
 
-Uuid: 6pj9GDv1Zs1xXPLZ
+Multilinetitle:
+
+David Hockney
+My Window
+
+----
+
+Uuid: l5ibcQMBsFqDk98x
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

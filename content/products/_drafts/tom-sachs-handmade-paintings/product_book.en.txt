@@ -1,34 +1,3 @@
-Title: Tom Sachs|Handmade Paintings
-
-----
-
-Multilinetitle:
-
-Tom Sachs
-Handmade Paintings
-
-----
-
-Publisher: 
-
-----
-
-Auto-kerns: true
-
-----
-
-Image: 
-
-----
-
-Cover: 
-
-----
-
-Supplier: 
-
-----
-
 Oldweltkern:
 
 title: 'Tom Sachs <br>Handmade Paintings'
@@ -42,14 +11,14 @@ author:
   id: 115
 description: '<p>Tom Sachs: Hand paintings. A book that focus on Sachs exploration of American iconography through handcrafted paintings. Besides Sachs depictions of the Reese’s candy bar, Fanta logo, Air Force One, Krusty O’s cereal box and more, the book includes a conversation with the artist and an essay by David Rimanelli. Published by Rizzoli in 2021.</p>'
 details: |
-  - ISBN: 0847870288 / 978-0847870288
-  - Content: 180 pages
-  - Size: 250 × 310 mm
-  - Author: Tom Sachs
-  - Language: English
-  - Publishing date: 2021
-  - Specs: Hardcover
-  - Images: © WELTKERN® / Très Bien / Acquavella Galleries. All rights reserved.
+  ISBN: "0847870288 / 978-0847870288"
+  Content: "180 pages"
+  Size: "250 × 310 mm"
+  Author: "Tom Sachs"
+  Language: "English"
+  Publishing date: "2021"
+  Specs: "Hardcover"
+  Images: "© WELTKERN® / Très Bien / Acquavella Galleries. All rights reserved."
 gallery:
   - 
     url: >
@@ -59,4 +28,35 @@ tags: [ ]
 
 ----
 
-Uuid: Qlm5SRiyGPBhRLlQ
+Multilinetitle:
+
+Tom Sachs
+Handmade Paintings
+
+----
+
+Uuid: nqezRSmJKry6osgb
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 

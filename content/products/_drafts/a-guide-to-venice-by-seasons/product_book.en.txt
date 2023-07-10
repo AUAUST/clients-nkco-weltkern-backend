@@ -1,0 +1,81 @@
+Oldweltkern:
+
+title: 'A Guide to Venice <br>by Seasons'
+slug: a-guide-to-venice-by-seasons
+id: 29999
+isbn: 1739186821 / 978-1739186821
+price: 28.9
+weight: 2.1
+author:
+  name: Antenne Books
+  id: 417
+description: '<p>One can only imagine the awe of the fifteenth century sailors laying eyes on Venice, for the first time, at the zenith of its merchant empire. An entire city rising impossibly from the turquoise lagoon; St Mark’s campanile protruding high over the skyline of palatial structures and domed church roofs, the white stone and pink marble façade of the Doges Palace shimmering in the golden light. Though you’ve seen it a thousand times in pictures already, the reality of a city built on water is no less impressive than it was in the Middle Ages. Our Travel Guides present a distinctive graphic identity seeking to rekindle a golden age of travel, where the pursuit of adventure and desire for luxury go hand in hand. Each guide uncovers a curation of cultural and culinary highlights that portray the true character of each city, with a particular fondness for places that have preserved an essence of old world charm, or else exude a certain timeless elegance.</p>'
+details: |
+  ISBN: "1739186821 / 978-1739186821"
+  Content: "208 pages"
+  Size: "190 × 140 mm"
+  Language: "English"
+  Publishing date: "2023"
+  Specs: "Softcover"
+  Images: "© WELTKERN ® / Antenne Books. All rights reserved."
+gallery:
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Venice_COVER_.jpg
+    id: 30005
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Venice_SPREAD_01.jpg
+    id: 30004
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Venice_SPREAD_02.jpg
+    id: 30003
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Venice_SPREAD_03.jpg
+    id: 30002
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Venice_SPREAD_04.jpg
+    id: 30001
+  - 
+    url: >
+      https://api.weltkern.com/wp-content/uploads/2023/06/Guide-Venice_SPREAD_05.jpg
+    id: 30000
+tags: [ ]
+
+----
+
+Multilinetitle:
+
+A Guide to Venice
+by Seasons
+
+----
+
+Uuid: yJP21FML1ERY5fmn
+
+----
+
+Multilinetitleseparator: dash
+
+----
+
+Publisher: 
+
+----
+
+Tags: 
+
+----
+
+Auto-kerns: true
+
+----
+
+Cover: 
+
+----
+
+Supplier: 
