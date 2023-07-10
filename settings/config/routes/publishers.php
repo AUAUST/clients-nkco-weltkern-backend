@@ -1,6 +1,6 @@
 <?php
 
-use AUAUST\products\WK1;
+use AUAUST\Products\WK1;
 
 return [
   'pattern' => 'publishers',

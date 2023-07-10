@@ -2,8 +2,13 @@
 
 use Kirby\Cms\Response;
 use Kirby\Toolkit\Str;
-use AUAUST\products\WK1;
+use AUAUST\Products\WK1;
 use Kirby\Data\Yaml;
+
+
+use AUAUST\Users\Database;
+use AUAUST\Users\Dbuser;
+use Kirby\Cms\User;
 
 /**
  * Set all the API routes

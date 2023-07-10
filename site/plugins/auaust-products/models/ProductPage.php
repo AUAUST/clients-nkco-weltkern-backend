@@ -3,7 +3,7 @@
 use Kirby\Cms\Page;
 use Kirby\Cms\Field;
 
-use AUAUST\products\WK1;
+use AUAUST\Products\WK1;
 
 class ProductPage extends Page
 {

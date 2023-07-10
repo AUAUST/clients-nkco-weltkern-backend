@@ -1,6 +1,6 @@
 <?php
 
-namespace AUAUST\products;
+namespace AUAUST\Products;
 
 use Kirby\Cms\Field;
 use Kirby\Http\Remote;

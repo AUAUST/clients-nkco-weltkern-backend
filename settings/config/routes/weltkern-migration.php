@@ -5,7 +5,7 @@ use Kirby\Toolkit\Str;
 use Kirby\Cms\Page;
 use Kirby\Data\Yaml;
 
-use AUAUST\products\WK1;
+use AUAUST\Products\WK1;
 
 return [
   // Get the latest, unimported products from WK1
