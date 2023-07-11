@@ -7,20 +7,21 @@ return [
   'language' => '*',
   'action'  => function ($lang = null, $id = null) {
     // Get the products
-    $products = page('products')->children();
+    $products = page('products')->drafts();
 
-    // Try to find the product by id if it matches the UUID format
-    if (preg_match('/^[a-zA-Z0-9]{16}$/', $id)) {
-      $product = $products->find("page://" . $id);
-    }
-
-    // Try to find the product by slug
-    else {
+    if (
+      // If the string doesn't match the UUID format
+      !(preg_match('/^[a-zA-Z0-9]{16}$/', $id))
+      // or the string doesn't match an existing product's UUID
+      || !($product = $products->find("page://" . $id))
+    ) {
+      // we try to find the product by its slug as the input string is most likely a slug
       $product = $products->find($id);
     }
 
     // Render the product if it exists
     if ($product) {
+      return dump($product, false);
       return site()->visit($product, $lang);
     }
 
