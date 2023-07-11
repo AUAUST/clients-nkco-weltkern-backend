@@ -1,6 +1,6 @@
 <?php
 
-use Kirby\Cms\Response;
+use AUAUST\Headless\Response;
 
 /**
  * Set all the API routes
@@ -14,26 +14,25 @@ return [
     'pattern' => 'ping',
     'language' => '*',
     'action' => function () {
-      return Response::json([
-        'status' => 'ok',
-        'data' => [
-          'message' => 'pong',
+      return Response::success(
+        'Pong',
+        [
           'time' => microtime(true),
         ]
-      ], 200);
+      );
     }
   ],
   [
     'pattern' => ['', 'home'],
     'language' => '*',
     'action' => function () {
-      return Response::json([
-        'status' => 'ok',
-        'data' => [
-          'message' => 'Welcome to the Weltkern API',
+      return kirby()->site()->callbackTemplate();
+      return Response::success(
+        'Welcome to the Weltkern API',
+        [
           'version' => '1.0.0',
         ]
-      ], 200);
+      );
     }
   ],
   require_once __DIR__ . '/search.php',
@@ -46,10 +45,9 @@ return [
     'pattern' => '(:all)',
     'language' => '*',
     'action' => function () {
-      return Response::json([
-        'status' => 'error',
-        'message' => 'This endpoint does not exist',
-      ], 404);
+      return Response::notFound(
+        'This endpoint does not exist'
+      );
     }
   ],
   [
