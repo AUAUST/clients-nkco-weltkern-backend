@@ -81,4 +81,21 @@ class Response
       200
     );
   }
+
+  public static function custom(string $message, array $data = null, string $status = 'ok', int $code = 200)
+  {
+    $content = [
+      'status' => $status,
+      'message' => $message,
+    ];
+
+    if ($data) {
+      $content['data'] = $data;
+    }
+
+    return KirbyResponse::json(
+      $content,
+      $code
+    );
+  }
 }
