@@ -82,6 +82,16 @@ class Response
     );
   }
 
+  /**
+   * Wrapper for \Kirby\Cms\Response::json() with all custom parameters.
+   * Used when no other wrapper fits.
+   *
+   * @param string $message
+   * @param array|null $data
+   * @param 'ok'|'error' $status
+   * @param int|null $code HTTP status code, defaults to 200 for 'ok' and 400 for 'error'
+   * @return Kirby\Cms\Response
+   */
   public static function custom(string $message, array $data = null, string $status = 'ok', int|null $code)
   {
     $content = [
