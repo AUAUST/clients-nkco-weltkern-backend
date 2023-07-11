@@ -39,5 +39,8 @@
       "composer install --working-dir=tests/kirby --no-dev --optimize-autoloader",
       "composer update --working-dir=tests/kirby"
     ]
+  },
+  "extra": {
+    "kirby-cms-path": "vendor/getkirby/cms"
   }
 }
