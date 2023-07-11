@@ -30,7 +30,7 @@
     "getkirby/composer-installer": "^1.2"
   },
   "require-dev": {
-    "getkirby/cms": "^3.9 || ^4.0"
+    "getkirby/cms": "^4.0"
   },
   "scripts": {
     "kirby": [
@@ -42,5 +42,6 @@
   },
   "extra": {
     "kirby-cms-path": "vendor/getkirby/cms"
-  }
+  },
+  "minimum-stability": "dev"
 }
