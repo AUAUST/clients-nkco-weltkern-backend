@@ -82,7 +82,7 @@ class Response
     );
   }
 
-  public static function custom(string $message, array $data = null, string $status = 'ok', int $code = 200)
+  public static function custom(string $message, array $data = null, string $status = 'ok', int|null $code)
   {
     $content = [
       'status' => $status,
@@ -95,7 +95,10 @@ class Response
 
     return KirbyResponse::json(
       $content,
-      $code
+      $code ?? [
+        'ok' => 200,
+        'error' => 400,
+      ][$status]
     );
   }
 }
