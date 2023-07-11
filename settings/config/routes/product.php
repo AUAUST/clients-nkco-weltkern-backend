@@ -1,6 +1,6 @@
 <?php
 
-use Kirby\Cms\Response;
+use AUAUST\Headless\Response;
 
 return [
   'pattern' => ['product', 'product/(:any)'],
@@ -25,9 +25,11 @@ return [
       return site()->visit($product, $lang);
     }
 
-    return Response::json([
-      "message" => "Not found",
-      "searchId" => $id,
-    ], 404);
+    return Response::notFound(
+      'Product not found',
+      [
+        "searchId" => $id,
+      ]
+    );
   }
 ];

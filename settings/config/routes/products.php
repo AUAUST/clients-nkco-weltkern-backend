@@ -1,6 +1,6 @@
 <?php
 
-use Kirby\Cms\Response;
+use AUAUST\Headless\Response;
 
 return [
   'pattern' => [
@@ -18,25 +18,21 @@ return [
       $max = intval($count);
 
       if ($max < 1) {
-        return Response::json([
-          'status' => 'error',
-          'message' => 'Count must be a positive integer or "all"',
-        ], 400);
+        return Response::invalidRequest(
+          'Count must be a positive integer or "all"'
+        );
       }
     }
 
     // TODO: drafts() -> children()
     $products = page('products')->drafts()->limit($max);
 
-    return Response::json(
+    return Response::success(
+      null,
       [
-        'status' => 'ok',
-        'data' => [
-          'count' => $products->count(),
-          'products' => $products->toData(),
-        ]
+        'count' => $products->count(),
+        'products' => $products->toData(),
       ],
-      200
     );
   }
 ];
