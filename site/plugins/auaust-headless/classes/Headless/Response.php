@@ -92,7 +92,7 @@ class Response
    * @param int|null $code HTTP status code, defaults to 200 for 'ok' and 400 for 'error'
    * @return Kirby\Cms\Response
    */
-  public static function custom(string $message, array $data = null, string $status = 'ok', int|null $code)
+  public static function custom(string $message, array $data = null, string $status = 'ok', int|null $code = null)
   {
     $content = [
       'status' => $status,
