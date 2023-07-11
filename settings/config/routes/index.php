@@ -11,6 +11,19 @@ use Kirby\Cms\Response;
  */
 return [
   [
+    'pattern' => 'ping',
+    'language' => '*',
+    'action' => function () {
+      return Response::json([
+        'status' => 'ok',
+        'data' => [
+          'message' => 'pong',
+          'time' => microtime(true),
+        ]
+      ], 200);
+    }
+  ],
+  [
     'pattern' => ['', 'home'],
     'language' => '*',
     'action' => function () {
