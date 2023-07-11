@@ -23,6 +23,7 @@ echo (new Kirby([
     "plugins"     =>             $site . "/plugins",
 
     "storage"     => $storage  = $base . "/storage",
+    "accounts"    =>             $storage . "/accounts",
     "cache"       =>             $storage . "/cache",
     "sessions"    =>             $storage . "/sessions",
 
@@ -36,7 +37,6 @@ echo (new Kirby([
     "config"      => $config   = $settings . "/config",
     "license"     =>             $config . "/.license",
     "users"       => $users    = $settings . "/users",
-    "accounts"    =>             $users . "/accounts",
     "roles"       =>             $users . "/roles"
   ]
 ]))->render();

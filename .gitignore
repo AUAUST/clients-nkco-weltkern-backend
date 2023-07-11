@@ -18,8 +18,8 @@ Icon
 /storage/sessions/*
 !/storage/sessions/index.html
 
-/settings/users/accounts/*
-!/settings/users/accounts/index.html
+/storage/accounts/*
+!/storage/accounts/index.html
 
 /settings/config/.license
 /settings/config/.secrets
